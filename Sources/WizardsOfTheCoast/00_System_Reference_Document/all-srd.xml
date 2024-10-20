@@ -24736,7 +24736,7 @@ If you are able to cast spells, you can&#39;t cast them or concentrate on them w
             <slots>0,4,3,3,3,1,0,0,0,0,</slots>
             <feature>
                 <name>Feral Senses</name>
-                <text>At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can&apos;t see, your inability to see it doesn&apos;t impose disadvantage on your attack rolls against it. You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn&apos;t hidden from you and you aren&apos;t blinded or deafened.</text>
+                <text>At 18th level, you gain preternatural senses that help you fight creatures you can&apos;t see. When you attack a creature you can&apos;t see, your inability to see it doesn&apos;t impose disadvantage on your attack rolls against it. You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn&apos;t hidden from you and you aren&apos;t blinded or deafened.</text>
             </feature>
         </autolevel>
         <autolevel level="19" scoreImprovement="YES">
