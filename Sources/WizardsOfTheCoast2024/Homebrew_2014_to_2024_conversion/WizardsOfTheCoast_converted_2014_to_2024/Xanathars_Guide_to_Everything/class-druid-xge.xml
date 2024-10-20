@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <class>
     <name>Druid [2014]</name>
@@ -11,13 +12,13 @@ Druids are the caretakers of the natural world, and it is said that in time a dr
 
 Your druid character might be a true worshiper of nature, one who has always scorned civilization and found solace in the wild. Or your character could be a child of the city who now strives to bring the civilized world into harmony with the wilderness. You can use the sections that follow to flesh out your druid, regardless of how your character came to the profession.
 
-Source:	Xanathar's Guide to Everything p. 21</text>
+Source:	Xanathar&apos;s Guide to Everything p. 21</text>
     </trait>
     <trait>
       <name>Treasured Item</name>
-      <text>Some druids carry one or more items that are sacred to them or have deep personal significance. Such items are not necessarily magical, but every one is an object whose meaning connects the druid's mind and heart to a profound concept or spiritual outlook.
+      <text>Some druids carry one or more items that are sacred to them or have deep personal significance. Such items are not necessarily magical, but every one is an object whose meaning connects the druid&apos;s mind and heart to a profound concept or spiritual outlook.
 
-When you decide what your character's treasured item is, think about giving it an origin story: how did you come by the item, and why is it important to you?
+When you decide what your character&apos;s treasured item is, think about giving it an origin story: how did you come by the item, and why is it important to you?
 
 Treasured Item:
 d6 | Treasured Item
@@ -37,15 +38,15 @@ Guiding Aspects:
 d6 | Guiding Aspects
 1 | Yew trees remind you of renewing your mind and spirit, letting the old die and the new spring forth.
 2 | Oak trees represent strength and vitality. Meditating under an oak fills your body and mind with resolve and fortitude.
-3 | The river's endless flow reminds you of the great span of the world. You seek to act with the long-term interests of nature in mind.
+3 | The river&apos;s endless flow reminds you of the great span of the world. You seek to act with the long-term interests of nature in mind.
 4 | The sea is a constant, churning cauldron of power and chaos. It reminds you that accepting change is necessary to sustain yourself in the world.
 5 | The birds in the sky are evidence that even the smallest creatures can survive if they remain above the fray.
-6 | As demonstrated by the actions of the wolf, an individual's strength is nothing compared to the power of the pack.</text>
+6 | As demonstrated by the actions of the wolf, an individual&apos;s strength is nothing compared to the power of the pack.</text>
       <roll>1d6</roll>
     </trait>
     <trait>
       <name>Mentors</name>
-      <text>It's not unusual for would-be druids to seek out (or be sought out by) instructors or elders who teach them the basics of their magical arts. Most druids who learn from a mentor begin their training at a young age, and the mentor has a vital role in shaping a student's attitudes and beliefs.
+      <text>It&apos;s not unusual for would-be druids to seek out (or be sought out by) instructors or elders who teach them the basics of their magical arts. Most druids who learn from a mentor begin their training at a young age, and the mentor has a vital role in shaping a student&apos;s attitudes and beliefs.
 
 If your character received training from someone else, who or what was that individual, and what was the nature of your relationship? Did your mentor imbue you with a particular outlook or otherwise influence your approach to achieving the goals of your chosen path?
 
@@ -53,7 +54,7 @@ Mentors:
 d6 | Mentors
 1 | Your mentor was a wise treant who taught you to think in terms of years and decades rather than days or months.
 2 | You were tutored by a dryad who watched over a slumbering portal to the Abyss. During your training, you were tasked with watching for hidden threats to the world.
-3 | Your tutor always interacted with you in the form of a falcon. You never saw the tutor's humanoid form.
+3 | Your tutor always interacted with you in the form of a falcon. You never saw the tutor&apos;s humanoid form.
 4 | You were one of several youngsters who were mentored by an old druid, until one of your fellow pupils betrayed your group and killed your master.
 5 | Your mentor has appeared to you only in visions. You have yet to meet this person, and you are not sure such a person exists in mortal form.
 6 | Your mentor was a werebear who taught you to treat all living things with equal regard.</text>
@@ -63,9 +64,9 @@ d6 | Mentors
     <autolevel level="2">
       <feature optional="YES">
         <name>Druid Circle: Circle of Dreams</name>
-        <text>Druids who are members of the Circle of Dreams hail from regions that have strong ties to the Feywild and its dreamlike realms. The druids' guardianship of the natural world makes for a natural alliance between them and good-aligned fey. These druids seek to fill the world with dreamy wonder. Their magic mends wounds and brings joy to downcast hearts, and the realms they protect are gleaming, fruitful places, where dream and reality blur together and where the weary can find rest.
+        <text>Druids who are members of the Circle of Dreams hail from regions that have strong ties to the Feywild and its dreamlike realms. The druids&apos; guardianship of the natural world makes for a natural alliance between them and good-aligned fey. These druids seek to fill the world with dreamy wonder. Their magic mends wounds and brings joy to downcast hearts, and the realms they protect are gleaming, fruitful places, where dream and reality blur together and where the weary can find rest.
 
-Source:	Xanathar's Guide to Everything p. 22</text>
+Source:	Xanathar&apos;s Guide to Everything p. 22</text>
       </feature>
     </autolevel>
 
@@ -78,7 +79,7 @@ As a bonus action, you can choose one creature you can see within 120 feet of yo
 
 You regain all expended dice when you finish a long rest.
 
-Source:	Xanathar's Guide to Everything p. 22</text>
+Source:	Xanathar&apos;s Guide to Everything p. 22</text>
       </feature>
       <counter>
         <name>Balm of Summer</name>
@@ -94,7 +95,7 @@ Source:	Xanathar's Guide to Everything p. 22</text>
 
 Members of this circle become adventurers to oppose forces that threaten their charges or to seek knowledge and power that will help them safeguard their charges better. Wherever these druids go, the spirits of the wilderness are with them.
 
-Source:	Xanathar's Guide to Everything p. 23</text>
+Source:	Xanathar&apos;s Guide to Everything p. 23</text>
       </feature>
     </autolevel>
 
@@ -103,9 +104,9 @@ Source:	Xanathar's Guide to Everything p. 23</text>
         <name>Circle of the Shepherd: Speech of the Woods</name>
         <text>At 2nd level, you gain the ability to converse with beasts and many fey.
 
-You learn to speak, read, and write Sylvan. In addition, beasts can understand your speech, and you gain the ability to decipher their noises and motions. Most beasts lack the intelligence to convey or understand sophisticated concepts, but a friendly beast could relay what it has seen or heard in the recent past. This ability doesn't grant you friendship with beasts, though you can combine this ability with gifts to curry favor with them as you would with any nonplayer character.
+You learn to speak, read, and write Sylvan. In addition, beasts can understand your speech, and you gain the ability to decipher their noises and motions. Most beasts lack the intelligence to convey or understand sophisticated concepts, but a friendly beast could relay what it has seen or heard in the recent past. This ability doesn&apos;t grant you friendship with beasts, though you can combine this ability with gifts to curry favor with them as you would with any nonplayer character.
 
-Source:	Xanathar's Guide to Everything p. 23</text>
+Source:	Xanathar&apos;s Guide to Everything p. 23</text>
       </feature>
     </autolevel>
 
@@ -116,20 +117,20 @@ Source:	Xanathar's Guide to Everything p. 23</text>
 
 As a bonus action, you can move the spirit up to 60 feet to a point you can see.
 
-The spirit persists for 1 minute or until you're incapacitated. Once you use this feature, you can't use it again until you finish a short or long rest.
+The spirit persists for 1 minute or until you&apos;re incapacitated. Once you use this feature, you can&apos;t use it again until you finish a short or long rest.
 
-The effect of the spirit's aura depends on the type of spirit you summon from the options below.
+The effect of the spirit&apos;s aura depends on the type of spirit you summon from the options below.
 
 Circle of the Shepherd: Bear Spirit
 The bear spirit grants you and your allies its might and endurance. Each creature of your choice in the aura when the spirit appears gains temporary hit points equal to 5 + your druid level. In addition, you and your allies gain advantage on Strength checks and Strength saving throws while in the aura.
 
 Circle of the Shepherd: Hawk Spirit
-The hawk spirit is a consummate hunter, aiding you and your allies with its keen sight. When a creature makes an attack roll against a target in the spirit's aura, you can use your reaction to grant advantage to that attack roll. In addition, you and your allies have advantage on Wisdom (Perception) checks while in the aura.
+The hawk spirit is a consummate hunter, aiding you and your allies with its keen sight. When a creature makes an attack roll against a target in the spirit&apos;s aura, you can use your reaction to grant advantage to that attack roll. In addition, you and your allies have advantage on Wisdom (Perception) checks while in the aura.
 
 Circle of the Shepherd: Unicorn Spirit
-The unicorn spirit lends its protection to those nearby. You and your allies gain advantage on all ability checks made to detect creatures in the spirit's aura. In addition, if you cast a spell using a spell slot that restores hit points to any creature inside or outside the aura, each creature of your choice in the aura also regains hit points equal to your druid level.
+The unicorn spirit lends its protection to those nearby. You and your allies gain advantage on all ability checks made to detect creatures in the spirit&apos;s aura. In addition, if you cast a spell using a spell slot that restores hit points to any creature inside or outside the aura, each creature of your choice in the aura also regains hit points equal to your druid level.
 
-Source:	Xanathar's Guide to Everything p. 23</text>
+Source:	Xanathar&apos;s Guide to Everything p. 23</text>
       </feature>
       <counter>
         <name>Spirit Totem</name>
@@ -167,11 +168,11 @@ Source:	Xanathar's Guide to Everything p. 23</text>
         <name>Circle of Dreams: Hearth of Moonlight and Shadow</name>
         <text>At 6th level, home can be wherever you are. During a short or long rest, you can invoke the shadowy power of the Gloaming Court to help guard your respite. At the start of the rest, you touch a point in space, and an invisible, 30-foot-radius sphere of magic appears, centered on that point. Total cover blocks the sphere.
 
-While within the sphere, you and your allies gain a +5 bonus to Dexterity (Stealth) and Wisdom (Perception) checks, and any light from open flames in the sphere (a campfire, torches, or the like) isn't visible outside it.
+While within the sphere, you and your allies gain a +5 bonus to Dexterity (Stealth) and Wisdom (Perception) checks, and any light from open flames in the sphere (a campfire, torches, or the like) isn&apos;t visible outside it.
 
 The sphere vanishes at the end of the rest or when you leave the sphere.
 
-Source:	Xanathar's Guide to Everything p. 22</text>
+Source:	Xanathar&apos;s Guide to Everything p. 22</text>
       </feature>
       <counter>
         <name>Balm of Summer</name>
@@ -188,7 +189,7 @@ Source:	Xanathar's Guide to Everything p. 22</text>
 	• The creature appears with more hit points than normal: 2 extra hit points per Hit Die it has.
 	• The damage from its natural weapons is considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks and damage.
 
-Source:	Xanathar's Guide to Everything p. 23</text>
+Source:	Xanathar&apos;s Guide to Everything p. 23</text>
       </feature>
     </autolevel>
 
@@ -223,7 +224,7 @@ Source:	Xanathar's Guide to Everything p. 23</text>
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
 
-Source:	Xanathar's Guide to Everything p. 22</text>
+Source:	Xanathar&apos;s Guide to Everything p. 22</text>
       </feature>
       <counter>
         <name>Balm of Summer</name>
@@ -237,7 +238,7 @@ Source:	Xanathar's Guide to Everything p. 22</text>
         <name>Circle of the Shepherd: Guardian Spirit</name>
         <text>Beginning at 10th level, your Spirit Totem safeguards the beasts and fey that you call forth with your magic. When a beast or fey that you summoned or created with a spell ends its turn in your Spirit Totem aura, that creature regains a number of hit points equal to half your druid level.
 
-Source:	Xanathar's Guide to Everything p. 23</text>
+Source:	Xanathar&apos;s Guide to Everything p. 23</text>
       </feature>
     </autolevel>
 
@@ -272,11 +273,11 @@ Source:	Xanathar's Guide to Everything p. 23</text>
 
 When you finish a short rest, you can cast one of the following spells, without expending a spell slot or requiring material components: dream (with you as the messenger), scrying, or teleportation circle.
 
-This use of teleportation circle is special. Rather than opening a portal to a permanent teleportation circle, it opens a portal to the last location where you finished a long rest on your current plane of existence. If you haven't taken a long rest on your current plane, the spell fails but isn't wasted.
+This use of teleportation circle is special. Rather than opening a portal to a permanent teleportation circle, it opens a portal to the last location where you finished a long rest on your current plane of existence. If you haven&apos;t taken a long rest on your current plane, the spell fails but isn&apos;t wasted.
 
-Once you use this feature, you can't use it again until you finish a long rest.
+Once you use this feature, you can&apos;t use it again until you finish a long rest.
 
-Source:	Xanathar's Guide to Everything p. 22</text>
+Source:	Xanathar&apos;s Guide to Everything p. 22</text>
       </feature>
       <counter>
         <name>Balm of Summer</name>
@@ -290,9 +291,9 @@ Source:	Xanathar's Guide to Everything p. 22</text>
         <name>Circle of the Shepherd: Faithful Summons</name>
         <text>Starting at 14th level, the nature spirits you commune with protect you when you are the most defenseless. If you are reduced to 0 hit points or are incapacitated against your will, you can immediately gain the benefits of conjure animals as if it were cast using a 9th-level spell slot. It summons four beasts of your choice that are challenge rating 2 or lower. The conjured beasts appear within 20 feet of you. If they receive no commands from you, they protect you from harm and attack your foes. The spell lasts for 1 hour, requiring no concentration, or until you dismiss it (no action required).
 
-Once you use this feature, you can't use it again until you finish a long rest.
+Once you use this feature, you can&apos;t use it again until you finish a long rest.
 
-Source:	Xanathar's Guide to Everything p. 23</text>
+Source:	Xanathar&apos;s Guide to Everything p. 23</text>
       </feature>
       <counter>
         <name>Faithful Summons</name>

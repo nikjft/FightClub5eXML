@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <item>
     <name>Mimir</name>
@@ -13,10 +14,10 @@ As a bonus action, you can toss the device into the air, whereupon it floats at 
 The device has AC 22, 25 hit points, immunity to poison and psychic damage, and resistance to all other damage. It is considered to be an object that is being worn while it is floating near you.
 
 Esoteric Knowledge:
-While the device is floating, you can use an action to cast legend lore from the device. The device speaks the revealed lore aloud. Once this property has been used, it can't be used again until the next dawn.
+While the device is floating, you can use an action to cast legend lore from the device. The device speaks the revealed lore aloud. Once this property has been used, it can&apos;t be used again until the next dawn.
 
 Planar Knowledge:
-The device knows basic, useful information about the planes of existence. While the device is floating, it verbally answers questions you or anyone you designate poses to it about that topic. It knows the information about the planes in the Dungeon Master's Guide, as well as basic information about the gate-towns of the Outlands (presented in chapter 3 of Sigil and the Outlands).
+The device knows basic, useful information about the planes of existence. While the device is floating, it verbally answers questions you or anyone you designate poses to it about that topic. It knows the information about the planes in the Dungeon Master&apos;s Guide, as well as basic information about the gate-towns of the Outlands (presented in chapter 3 of Sigil and the Outlands).
 
 Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 13</text>
   </item>
@@ -42,7 +43,7 @@ Record Sensation:
 You can use your reaction to record a short sensation lasting no longer than 6 seconds experienced by a creature of your choice within 30 feet of yourself, infusing the essence of that experience into the stone. This replaces any sensation already stored within the stone.
 
 Siphon Sensation:
-As a bonus action, you can draw on the stone's magic to end the charmed or frightened condition on yourself, destroying the stone in the process.
+As a bonus action, you can draw on the stone&apos;s magic to end the charmed or frightened condition on yourself, destroying the stone in the process.
 
 Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 13</text>
   </item>
@@ -52,16 +53,16 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 13<
     <type>G</type>
     <weight/>
     <property/>
-    <text>When you make your character, you can roll once on the Gate Warden Trinkets table, instead of on the Trinkets table in the Player's Handbook, for your starting trinket.
+    <text>When you make your character, you can roll once on the Gate Warden Trinkets table, instead of on the Trinkets table in the Player&apos;s Handbook, for your starting trinket.
 
 Gate Warden Trinkets:
 d6 | Trinket
 1 | A tiny vial pendant filled with a drop of honey that glows faintly.
 2 | A small lead ingot that has a strange thumbprint pressed into it and whispers when held tightly.
 3 | Two lodestone spheres that chime when they attract each other.
-4 | A smoldering pebble of coal that, while always hot, doesn't burn skin, fur, scales, or clothing.
+4 | A smoldering pebble of coal that, while always hot, doesn&apos;t burn skin, fur, scales, or clothing.
 5 | A feather that sheds dim light in a 5-foot radius.
-6 | A ring made from a chain link that, once donned, won't come off without pulling painfully hard.
+6 | A ring made from a chain link that, once donned, won&apos;t come off without pulling painfully hard.
 
 Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 7</text>
     <roll>1d6</roll>
@@ -72,11 +73,11 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 7</
     <type>G</type>
     <weight/>
     <property/>
-    <text>When you make your character, you can roll once on the Planar Philosopher Trinkets table, instead of on the Trinkets table in the Player's Handbook, for your starting trinket.
+    <text>When you make your character, you can roll once on the Planar Philosopher Trinkets table, instead of on the Trinkets table in the Player&apos;s Handbook, for your starting trinket.
 
 Planar Philosopher Trinkets:
 d6 | Trinket
-1 | Locket with a picture of my mentor and an inscription I can't read.
+1 | Locket with a picture of my mentor and an inscription I can&apos;t read.
 2 | Bleached cranium rat skull with colored glass beads in its eye sockets.
 3 | Torn parchment with half a rebus painted on it.
 4 | Bracelet of twisted razorvine stems.

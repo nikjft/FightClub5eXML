@@ -72,7 +72,7 @@ d8 | Characteristic
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>Hobgoblins trace their origins to the Feywild, where they first appeared with their goblin and bugbear kin. That history has left its mark, for though hobgoblins are found throughout the Material Plane, they continue to channel an aspect of the Feywild's rule of reciprocity, which creates a mystical bond between the giver and the receiver of a gift.
+      <text>Hobgoblins trace their origins to the Feywild, where they first appeared with their goblin and bugbear kin. That history has left its mark, for though hobgoblins are found throughout the Material Plane, they continue to channel an aspect of the Feywild&apos;s rule of reciprocity, which creates a mystical bond between the giver and the receiver of a gift.
 
 On some worlds, such bonds lead hobgoblins to form communities with deep ties to each other. In the Forgotten Realms, vast hobgoblin legions have emerged, with ranks upon ranks of devoted soldiers noteworthy for how effective they are at fighting as a unit.
 
@@ -207,7 +207,7 @@ Source:	Unearthed Arcana 77: Folk of the Feywild</text>
     </trait>
     <trait>
       <name>Rabbit Hop</name>
-      <text>Once during each of your turns when you walk at least 5 feet, you can hop, rolling a d12 and moving that many feet in a direction of your choice. This extra distance doesn't cost movement, but you can hop only if your speed isn't 0</text>
+      <text>Once during each of your turns when you walk at least 5 feet, you can hop, rolling a d12 and moving that many feet in a direction of your choice. This extra distance doesn&apos;t cost movement, but you can hop only if your speed isn&apos;t 0</text>
     </trait>
     <trait>
       <name>Languages</name>

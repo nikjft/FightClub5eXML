@@ -5,7 +5,7 @@
     <autolevel level="3">
       <feature optional="YES">
         <name>Sacred Oath: Oath of the Crown [2014]</name>
-        <text>The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or sovereign, and undergo their oath as part of their admission to the order's ranks.
+        <text>The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or sovereign, and undergo their oath as part of their admission to the order&apos;s ranks.
 
 Source:	Sword Coast Adventurer's Guide p. 132</text>
       </feature>
@@ -52,7 +52,7 @@ Source:	Sword Coast Adventurer's Guide p. 132</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Oath of the Crown: Channel Divinity: Champion Challenge [2014]</name>
-        <text>As a bonus action, you issue a challenge that compels other creatures to do battle with you. Each creature of your choice that you can see within 30 feet of you must make a Wisdom saving throw. On a failed save, a creature can't willingly move more than 30 feet away from you. This effect ends on the creature if you are incapacitated or die or if the creature is more than 30 feet away from you.
+        <text>As a bonus action, you issue a challenge that compels other creatures to do battle with you. Each creature of your choice that you can see within 30 feet of you must make a Wisdom saving throw. On a failed save, a creature can&apos;t willingly move more than 30 feet away from you. This effect ends on the creature if you are incapacitated or die or if the creature is more than 30 feet away from you.
 
 Source:	Sword Coast Adventurer's Guide p. 132</text>
       </feature>
@@ -70,7 +70,7 @@ Source:	Sword Coast Adventurer's Guide p. 132</text>
     <autolevel level="7">
       <feature optional="YES">
         <name>Oath of the Crown: Divine Allegiance [2014]</name>
-        <text>Starting at 7th level, when a creature within 5 feet of you takes damage, you can use your reaction to magically substitute your own health for that of the target creature, causing that creature not to take the damage. Instead, you take the damage. This damage to you can't be reduced or prevented in any way.
+        <text>Starting at 7th level, when a creature within 5 feet of you takes damage, you can use your reaction to magically substitute your own health for that of the target creature, causing that creature not to take the damage. Instead, you take the damage. This damage to you can&apos;t be reduced or prevented in any way.
 
 Source:	Sword Coast Adventurer's Guide p. 132</text>
       </feature>

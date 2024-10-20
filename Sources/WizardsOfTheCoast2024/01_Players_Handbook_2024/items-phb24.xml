@@ -4,7 +4,7 @@
     <name>Trinket</name>
     <type>G</type>
     <magic/>
-    <text>When you make your character, you can roll once on the Trinkets table to gain a Tiny trinket, a simple item lightly touched by mystery. The DM might also use this table. It can help stock a room in a dungeon or fill a creature's pockets.
+    <text>When you make your character, you can roll once on the Trinkets table to gain a Tiny trinket, a simple item lightly touched by mystery. The DM might also use this table. It can help stock a room in a dungeon or fill a creature&apos;s pockets.
 
 1d100 | Trinket
 01 | A mummified goblin hand
@@ -114,7 +114,7 @@ Source:	Player's Handbook 2024 p. 47</text>
     <name>Copper Piece (CP)</name>
     <type>$</type>
     <weight>0.02</weight>
-    <text>Characters often find coins on their adventures and can spend those coins in shops, inns, and other businesses. Coins come in different denominations based on the relative worth of t heir material. The Coin Values table lists coins and how much they're worth relative to the Gold Piece, which is the game's main coin. For example, 100 Copper Pieces are worth 1 Gold Piece.
+    <text>Characters often find coins on their adventures and can spend those coins in shops, inns, and other businesses. Coins come in different denominations based on the relative worth of t heir material. The Coin Values table lists coins and how much they&apos;re worth relative to the Gold Piece, which is the game&apos;s main coin. For example, 100 Copper Pieces are worth 1 Gold Piece.
 
 A coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
@@ -131,7 +131,7 @@ Source:	Player's Handbook 2024 p. 213</text>
     <name>Silver Piece (SP)</name>
     <type>$</type>
     <weight>0.02</weight>
-    <text>Characters often find coins on their adventures and can spend those coins in shops, inns, and other businesses. Coins come in different denominations based on the relative worth of t heir material. The Coin Values table lists coins and how much they're worth relative to the Gold Piece, which is the game's main coin. For example, 100 Copper Pieces are worth 1 Gold Piece.
+    <text>Characters often find coins on their adventures and can spend those coins in shops, inns, and other businesses. Coins come in different denominations based on the relative worth of t heir material. The Coin Values table lists coins and how much they&apos;re worth relative to the Gold Piece, which is the game&apos;s main coin. For example, 100 Copper Pieces are worth 1 Gold Piece.
 
 A coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
@@ -148,7 +148,7 @@ Source:	Player's Handbook 2024 p. 213</text>
     <name>Electrum Piece (EP)</name>
     <type>$</type>
     <weight>0.02</weight>
-    <text>Characters often find coins on their adventures and can spend those coins in shops, inns, and other businesses. Coins come in different denominations based on the relative worth of t heir material. The Coin Values table lists coins and how much they're worth relative to the Gold Piece, which is the game's main coin. For example, 100 Copper Pieces are worth 1 Gold Piece.
+    <text>Characters often find coins on their adventures and can spend those coins in shops, inns, and other businesses. Coins come in different denominations based on the relative worth of t heir material. The Coin Values table lists coins and how much they&apos;re worth relative to the Gold Piece, which is the game&apos;s main coin. For example, 100 Copper Pieces are worth 1 Gold Piece.
 
 A coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
@@ -165,7 +165,7 @@ Source:	Player's Handbook 2024 p. 213</text>
     <name>Gold Piece (GP)</name>
     <type>$</type>
     <weight>0.02</weight>
-    <text>Characters often find coins on their adventures and can spend those coins in shops, inns, and other businesses. Coins come in different denominations based on the relative worth of t heir material. The Coin Values table lists coins and how much they're worth relative to the Gold Piece, which is the game's main coin. For example, 100 Copper Pieces are worth 1 Gold Piece.
+    <text>Characters often find coins on their adventures and can spend those coins in shops, inns, and other businesses. Coins come in different denominations based on the relative worth of t heir material. The Coin Values table lists coins and how much they&apos;re worth relative to the Gold Piece, which is the game&apos;s main coin. For example, 100 Copper Pieces are worth 1 Gold Piece.
 
 A coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
@@ -182,7 +182,7 @@ Source:	Player's Handbook 2024 p. 213</text>
     <name>Platinum Piece (PP)</name>
     <type>$</type>
     <weight>0.02</weight>
-    <text>Characters often find coins on their adventures and can spend those coins in shops, inns, and other businesses. Coins come in different denominations based on the relative worth of t heir material. The Coin Values table lists coins and how much they're worth relative to the Gold Piece, which is the game's main coin. For example, 100 Copper Pieces are worth 1 Gold Piece.
+    <text>Characters often find coins on their adventures and can spend those coins in shops, inns, and other businesses. Coins come in different denominations based on the relative worth of t heir material. The Coin Values table lists coins and how much they&apos;re worth relative to the Gold Piece, which is the game&apos;s main coin. For example, 100 Copper Pieces are worth 1 Gold Piece.
 
 A coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
@@ -196,7 +196,7 @@ Platinum Piece (PP) | 10
 Source:	Player's Handbook 2024 p. 213</text>
   </item>
   <item>
-    <name>Alchemist's Supplies</name>
+    <name>Alchemist&apos;s Supplies</name>
     <type>G</type>
     <magic/>
     <weight>8</weight>
@@ -208,7 +208,7 @@ Craft: Acid, Alchemist's Fire, Component Pouch, Oil, Paper, Perfume
 Source:	Player's Handbook 2024 p. 220</text>
   </item>
   <item>
-    <name>Brewer's Supplies</name>
+    <name>Brewer&apos;s Supplies</name>
     <type>G</type>
     <magic/>
     <weight>9</weight>
@@ -220,7 +220,7 @@ Craft: Antitoxin
 Source:	Player's Handbook 2024 p. 220</text>
   </item>
   <item>
-    <name>Calligrapher's Supplies</name>
+    <name>Calligrapher&apos;s Supplies</name>
     <type>G</type>
     <magic/>
     <weight>5</weight>
@@ -232,7 +232,7 @@ Craft: Ink, Spell Scroll
 Source:	Player's Handbook 2024 p. 220</text>
   </item>
   <item>
-    <name>Carpenter's Tools</name>
+    <name>Carpenter&apos;s Tools</name>
     <type>G</type>
     <magic/>
     <weight>6</weight>
@@ -244,7 +244,7 @@ Craft: Club, Greatclub, Quarterstaff, Barrel, Chest, Ladder, Pole, Portable Ram,
 Source:	Player's Handbook 2024 p. 220</text>
   </item>
   <item>
-    <name>Cartographer's Tools</name>
+    <name>Cartographer&apos;s Tools</name>
     <type>G</type>
     <magic/>
     <weight>6</weight>
@@ -256,7 +256,7 @@ Craft: Map
 Source:	Player's Handbook 2024 p. 220</text>
   </item>
   <item>
-    <name>Cobbler's Tools</name>
+    <name>Cobbler&apos;s Tools</name>
     <type>G</type>
     <magic/>
     <weight>5</weight>
@@ -268,7 +268,7 @@ Craft: Climber's Kit
 Source:	Player's Handbook 2024 p. 220</text>
   </item>
   <item>
-    <name>Cook's Utensils</name>
+    <name>Cook&apos;s Utensils</name>
     <type>G</type>
     <magic/>
     <weight>8</weight>
@@ -280,7 +280,7 @@ Craft: Rations
 Source:	Player's Handbook 2024 p. 220</text>
   </item>
   <item>
-    <name>Glassblower's Tools</name>
+    <name>Glassblower&apos;s Tools</name>
     <type>G</type>
     <magic/>
     <weight>5</weight>
@@ -292,7 +292,7 @@ Craft: Glass Bottle, Magnifying Glass, Spyglass, Vial
 Source:	Player's Handbook 2024 p. 220</text>
   </item>
   <item>
-    <name>Jeweler's Tools</name>
+    <name>Jeweler&apos;s Tools</name>
     <type>G</type>
     <magic/>
     <weight>2</weight>
@@ -304,7 +304,7 @@ Craft: Arcane Focus, Holy Symbol
 Source:	Player's Handbook 2024 p. 220</text>
   </item>
   <item>
-    <name>Leatherworker's Tools</name>
+    <name>Leatherworker&apos;s Tools</name>
     <type>G</type>
     <magic/>
     <weight>5</weight>
@@ -316,7 +316,7 @@ Craft: Sling, Whip, Hide Armor, Leather Armor, Studded Leather Armor, Backpack, 
 Source:	Player's Handbook 2024 p. 221</text>
   </item>
   <item>
-    <name>Mason's Tools</name>
+    <name>Mason&apos;s Tools</name>
     <type>G</type>
     <magic/>
     <weight>8</weight>
@@ -328,7 +328,7 @@ Craft: Block and Tackle
 Source:	Player's Handbook 2024 p. 221</text>
   </item>
   <item>
-    <name>Painter's Supplies</name>
+    <name>Painter&apos;s Supplies</name>
     <type>G</type>
     <magic/>
     <weight>5</weight>
@@ -340,7 +340,7 @@ Craft: Druidic Focus, Holy Symbol
 Source:	Player's Handbook 2024 p. 221</text>
   </item>
   <item>
-    <name>Potter's Tools</name>
+    <name>Potter&apos;s Tools</name>
     <type>G</type>
     <magic/>
     <weight>3</weight>
@@ -352,7 +352,7 @@ Craft: Jug, Lamp
 Source:	Player's Handbook 2024 p. 221</text>
   </item>
   <item>
-    <name>Smith's Tools</name>
+    <name>Smith&apos;s Tools</name>
     <type>G</type>
     <magic/>
     <weight>8</weight>
@@ -364,7 +364,7 @@ Craft: Any Melee weapon (except Club, Greatclub, Quarterstaff, and Whip), Medium
 Source:	Player's Handbook 2024 p. 221</text>
   </item>
   <item>
-    <name>Tinker's Tools</name>
+    <name>Tinker&apos;s Tools</name>
     <type>G</type>
     <magic/>
     <weight>10</weight>
@@ -376,7 +376,7 @@ Craft: Musket, Pistol, Bell, Bullseye Lantern, Flask, Hooded Lantern, Hunting Tr
 Source:	Player's Handbook 2024 p. 221</text>
   </item>
   <item>
-    <name>Weaver's Tools</name>
+    <name>Weaver&apos;s Tools</name>
     <type>G</type>
     <magic/>
     <weight>5</weight>
@@ -388,7 +388,7 @@ Craft: Padded Armor, Basket, Bedroll, Blanket, Fine Clothes, Net, Robe, Rope, Sa
 Source:	Player's Handbook 2024 p. 221</text>
   </item>
   <item>
-    <name>Woodcarver's Tools</name>
+    <name>Woodcarver&apos;s Tools</name>
     <type>G</type>
     <magic/>
     <weight>5</weight>
@@ -435,7 +435,7 @@ Craft: Antitoxin, Candle, Healer's Kit, Potion of Healing
 Source:	Player's Handbook 2024 p. 221</text>
   </item>
   <item>
-    <name>Navigator's Tools</name>
+    <name>Navigator&apos;s Tools</name>
     <type>G</type>
     <magic/>
     <weight>2</weight>
@@ -446,7 +446,7 @@ Utilize: Plot a course (DC 10), or determine position by stargazing (DC 15)
 Source:	Player's Handbook 2024 p. 221</text>
   </item>
   <item>
-    <name>Poisoner's Kit</name>
+    <name>Poisoner&apos;s Kit</name>
     <type>G</type>
     <magic/>
     <weight>2</weight>
@@ -458,7 +458,7 @@ Craft: Basic Poison
 Source:	Player's Handbook 2024 p. 221</text>
   </item>
   <item>
-    <name>Thieves' Tools</name>
+    <name>Thieves&apos; Tools</name>
     <type>G</type>
     <magic/>
     <weight>1</weight>
@@ -629,12 +629,12 @@ Source:	Player's Handbook 2024 p. 221</text>
 Source:	Player's Handbook 2024 p. 222</text>
   </item>
   <item>
-    <name>Alchemist's Fire</name>
+    <name>Alchemist&apos;s Fire</name>
     <type>G</type>
     <magic/>
     <weight>1</weight>
     <value>50</value>
-    <text>When you take the Attack action, you can replace one of your attacks with throwing a flask of Alchemist's Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 1d4 Fire damage and start burning.
+    <text>When you take the Attack action, you can replace one of your attacks with throwing a flask of Alchemist&apos;s Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 1d4 Fire damage and start burning.
 
 Source:	Player's Handbook 2024 p. 222</text>
   </item>
@@ -733,7 +733,7 @@ Source:	Player's Handbook 2024 p. 224</text>
     <magic/>
     <weight>7</weight>
     <value>1</value>
-    <text>A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on saving throws against extreme cold (see the Dungeon Master's Guide).
+    <text>A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on saving throws against extreme cold (see the Dungeon Master&apos;s Guide).
 
 Source:	Player's Handbook 2024 p. 224</text>
   </item>
@@ -752,7 +752,7 @@ Source:	Player's Handbook 2024 p. 224</text>
     <magic/>
     <weight>3</weight>
     <value>0.5</value>
-    <text>While wrapped in a blanket, you have Advantage on saving throws against extreme cold (see the Dungeon Master's Guide).
+    <text>While wrapped in a blanket, you have Advantage on saving throws against extreme cold (see the Dungeon Master&apos;s Guide).
 
 Source:	Player's Handbook 2024 p. 224</text>
   </item>
@@ -797,12 +797,12 @@ Source:	Player's Handbook 2024 p. 224</text>
 Source:	Player's Handbook 2024 p. 224</text>
   </item>
   <item>
-    <name>Burglar's Pack</name>
+    <name>Burglar&apos;s Pack</name>
     <type>G</type>
     <magic/>
     <weight>47.5</weight>
     <value>16</value>
-    <text>A Burglar's Pack contains the following items: Backpack, Ball Bearings, Bell, 10 Candles, Crowbar, Hooded Lantern, 7 flasks of Oil, 5 days of Rations, Rope, Tinderbox, and Waterskin.
+    <text>A Burglar&apos;s Pack contains the following items: Backpack, Ball Bearings, Bell, 10 Candles, Crowbar, Hooded Lantern, 7 flasks of Oil, 5 days of Rations, Rope, Tinderbox, and Waterskin.
 
 Source:	Player's Handbook 2024 p. 224</text>
   </item>
@@ -851,7 +851,7 @@ Source:	Player's Handbook 2024 p. 224</text>
     <magic/>
     <weight>10</weight>
     <value>5</value>
-    <text>As a Utilize action, you can wrap a Chain around an unwilling creature within 5 feet of yourself that has the Grappled, Incapacitated, or Restrained condition if you succeed on a DC 13 Strength (Athletics) check. If the creature's legs are bound, the creature has the Restrained condition until it escapes. Escaping the Chain requires the creature to make a successful DC 18 Dexterity (Acrobatics) check as an action. Bursting the Chain requires a successful DC 20 Strength (Athletics) check as an action.
+    <text>As a Utilize action, you can wrap a Chain around an unwilling creature within 5 feet of yourself that has the Grappled, Incapacitated, or Restrained condition if you succeed on a DC 13 Strength (Athletics) check. If the creature&apos;s legs are bound, the creature has the Restrained condition until it escapes. Escaping the Chain requires the creature to make a successful DC 18 Dexterity (Acrobatics) check as an action. Bursting the Chain requires a successful DC 20 Strength (Athletics) check as an action.
 
 Source:	Player's Handbook 2024 p. 224</text>
   </item>
@@ -866,12 +866,12 @@ Source:	Player's Handbook 2024 p. 224</text>
 Source:	Player's Handbook 2024 p. 225</text>
   </item>
   <item>
-    <name>Climber's Kit</name>
+    <name>Climber&apos;s Kit</name>
     <type>G</type>
     <magic/>
     <weight>12</weight>
     <value>25</value>
-    <text>A Climber's Kit includes boot tips, gloves, pitons, and a harness. As a Utilize action, you can use the Climber's Kit to anchor yourself; when you do, you can't fall more than 25 feet from the anchor point, and you can't move more than 25 feet from there without undoing the anchor as a Bonus Action.
+    <text>A Climber's Kit includes boot tips, gloves, pitons, and a harness. As a Utilize action, you can use the Climber's Kit to anchor yourself; when you do, you can&apos;t fall more than 25 feet from the anchor point, and you can&apos;t move more than 25 feet from there without undoing the anchor as a Bonus Action.
 
 Source:	Player's Handbook 2024 p. 225</text>
   </item>
@@ -886,12 +886,12 @@ Source:	Player's Handbook 2024 p. 225</text>
 Source:	Player's Handbook 2024 p. 225</text>
   </item>
   <item>
-    <name>Clothes, Traveler's</name>
+    <name>Clothes, Traveler&apos;s</name>
     <type>G</type>
     <magic/>
     <weight>4</weight>
     <value>2</value>
-    <text>Traveler's Clothes are resilient garments designed for travel in various environments.
+    <text>Traveler&apos;s Clothes are resilient garments designed for travel in various environments.
 
 Source:	Player's Handbook 2024 p. 225</text>
   </item>
@@ -921,17 +921,17 @@ Source:	Player's Handbook 2024 p. 225</text>
     <magic/>
     <weight>5</weight>
     <value>2</value>
-    <text>Using a Crowbar gives you Advantage on Strength checks where the Crowbar's leverage can be applied.
+    <text>Using a Crowbar gives you Advantage on Strength checks where the Crowbar&apos;s leverage can be applied.
 
 Source:	Player's Handbook 2024 p. 225</text>
   </item>
   <item>
-    <name>Diplomat's Pack</name>
+    <name>Diplomat&apos;s Pack</name>
     <type>G</type>
     <magic/>
     <weight>39</weight>
     <value>39</value>
-    <text>A Diplomat's Pack contains the following items: Chest, Fine Clothes, Ink, 5 Ink Pens, Lamp, 2 Map or Scroll Cases, 4 flasks of Oil, 5 sheets of Paper, 5 sheets of Parchment, Perfume, and Tinderbox.
+    <text>A Diplomat&apos;s Pack contains the following items: Chest, Fine Clothes, Ink, 5 Ink Pens, Lamp, 2 Map or Scroll Cases, 4 flasks of Oil, 5 sheets of Paper, 5 sheets of Parchment, Perfume, and Tinderbox.
 
 Source:	Player's Handbook 2024 p. 225</text>
   </item>
@@ -955,32 +955,32 @@ Source:	Player's Handbook 2024 p. 225</text>
 Source:	Player's Handbook 2024 p. 225</text>
   </item>
   <item>
-    <name>Dungeoneer's Pack</name>
+    <name>Dungeoneer&apos;s Pack</name>
     <type>G</type>
     <magic/>
     <weight>55</weight>
     <value>12</value>
-    <text>A Dungeoneer's Pack contains the following items: Backpack, Caltrops, Crowbar, 2 flasks of Oil, 10 days of Rations, Rope, Tinderbox, 10 Torches, and Waterskin.
+    <text>A Dungeoneer&apos;s Pack contains the following items: Backpack, Caltrops, Crowbar, 2 flasks of Oil, 10 days of Rations, Rope, Tinderbox, 10 Torches, and Waterskin.
 
 Source:	Player's Handbook 2024 p. 225</text>
   </item>
   <item>
-    <name>Entertainer's Pack</name>
+    <name>Entertainer&apos;s Pack</name>
     <type>G</type>
     <magic/>
     <weight>58.5</weight>
     <value>40</value>
-    <text>An Entertainer's Pack contains the following items: Backpack, Bedroll, Bell, Bullseye Lantern, 3 Costumes, Mirror, 8 flasks of Oil, 9 days of Rations, Tinderbox, and Waterskin.
+    <text>An Entertainer&apos;s Pack contains the following items: Backpack, Bedroll, Bell, Bullseye Lantern, 3 Costumes, Mirror, 8 flasks of Oil, 9 days of Rations, Tinderbox, and Waterskin.
 
 Source:	Player's Handbook 2024 p. 225</text>
   </item>
   <item>
-    <name>Explorer's Pack</name>
+    <name>Explorer&apos;s Pack</name>
     <type>G</type>
     <magic/>
     <weight>55</weight>
     <value>10</value>
-    <text>An Explorer's Pack contains the following items: Backpack, Bedroll, 2 flasks of Oil, 10 days of Rations, Rope, Tinderbox, 10 Torches, and Waterskin.
+    <text>An Explorer&apos;s Pack contains the following items: Backpack, Bedroll, 2 flasks of Oil, 10 days of Rations, Rope, Tinderbox, 10 Torches, and Waterskin.
 
 Source:	Player's Handbook 2024 p. 225</text>
   </item>
@@ -1005,12 +1005,12 @@ Source:	Player's Handbook 2024 p. 225</text>
 Source:	Player's Handbook 2024 p. 225</text>
   </item>
   <item>
-    <name>Healer's Kit</name>
+    <name>Healer&apos;s Kit</name>
     <type>G</type>
     <magic/>
     <weight>3</weight>
     <value>5</value>
-    <text>A Healer's Kit has ten uses. As a Utilize action, you can expend one of its uses to stabilize an Unconscious creature that has 0 Hit Points without needing to make a Wisdom (Medicine) check.
+    <text>A Healer&apos;s Kit has ten uses. As a Utilize action, you can expend one of its uses to stabilize an Unconscious creature that has 0 Hit Points without needing to make a Wisdom (Medicine) check.
 
 Source:	Player's Handbook 2024 p. 225</text>
   </item>
@@ -1143,7 +1143,7 @@ Source:	Player's Handbook 2024 p. 226</text>
     <magic/>
     <weight>1</weight>
     <value>10</value>
-    <text>A Lock comes with a key. Without the key, a creature can use Thieves' Tools to pick this Lock with a successful DC 15 Dexterity (Sleight of Hand) check.
+    <text>A Lock comes with a key. Without the key, a creature can use Thieves&apos; Tools to pick this Lock with a successful DC 15 Dexterity (Sleight of Hand) check.
 
 Source:	Player's Handbook 2024 p. 226</text>
   </item>
@@ -1285,12 +1285,12 @@ Source:	Player's Handbook 2024 p. 228</text>
 Source:	Player's Handbook 2024 p. 228</text>
   </item>
   <item>
-    <name>Priest's Pack</name>
+    <name>Priest&apos;s Pack</name>
     <type>G</type>
     <magic/>
     <weight>29</weight>
     <value>33</value>
-    <text>A Priest's Pack contains the following items: Backpack, Blanket, Holy Water, Lamp, 7 days of Rations, Robe, and Tinderbox.
+    <text>A Priest&apos;s Pack contains the following items: Backpack, Blanket, Holy Water, Lamp, 7 days of Rations, Robe, and Tinderbox.
 
 Source:	Player's Handbook 2024 p. 228</text>
   </item>
@@ -1357,12 +1357,12 @@ Source:	Player's Handbook 2024 p. 228</text>
 Source:	Player's Handbook 2024 p. 228</text>
   </item>
   <item>
-    <name>Scholar's Pack</name>
+    <name>Scholar&apos;s Pack</name>
     <type>G</type>
     <magic/>
     <weight>22</weight>
     <value>40</value>
-    <text>A Scholar's Pack contains the following items: Backpack, Book, Ink, Ink Pen, Lamp, 10 flasks of Oil, 10 sheets of Parchment, and Tinderbox.
+    <text>A Scholar&apos;s Pack contains the following items: Backpack, Book, Ink, Ink Pen, Lamp, 10 flasks of Oil, 10 sheets of Parchment, and Tinderbox.
 
 Source:	Player's Handbook 2024 p. 228</text>
   </item>
@@ -1402,7 +1402,7 @@ Source:	Player's Handbook 2024 p. 228</text>
     <magic>1</magic>
     <value>30</value>
     <detail>common</detail>
-    <text>A Spell Scroll (Cantrip) is a magic item that bears the words of a cantrip, determined by the scroll's creator. If the spell is on your class's spell list, you can read the scroll and cast the spell using its normal casting time and without providing any Material components.
+    <text>A Spell Scroll (Cantrip) is a magic item that bears the words of a cantrip, determined by the scroll&apos;s creator. If the spell is on your class&apos;s spell list, you can read the scroll and cast the spell using its normal casting time and without providing any Material components.
 
 If the spell requires a saving throw or an attack roll, the spell save DC is 13, and the attack bonus is +5. The scroll disintegrates when the casting is completed.
 
@@ -1414,7 +1414,7 @@ Source:	Player's Handbook 2024 p. 228</text>
     <magic>1</magic>
     <value>50</value>
     <detail>common</detail>
-    <text>A Spell Scroll (Level 1) is a magic item that bears the words of a level 1 spell, determined by the scroll's creator. If the spell is on your class's spell list, you can read the scroll and cast the spell using its normal casting time and without providing any Material components.
+    <text>A Spell Scroll (Level 1) is a magic item that bears the words of a level 1 spell, determined by the scroll&apos;s creator. If the spell is on your class&apos;s spell list, you can read the scroll and cast the spell using its normal casting time and without providing any Material components.
 
 If the spell requires a saving throw or an attack roll, the spell save DC is 13, and the attack bonus is +5. The scroll disintegrates when the casting is completed.
 
@@ -1494,7 +1494,7 @@ Source:	Player's Handbook 2024 p. 229</text>
     <magic/>
     <weight>5</weight>
     <value>0.2</value>
-    <text>A Waterskin holds up to 4 pints. If you don't drink sufficient water, you risk dehydration.
+    <text>A Waterskin holds up to 4 pints. If you don&apos;t drink sufficient water, you risk dehydration.
 
 Source:	Player's Handbook 2024 p. 229</text>
   </item>
@@ -1503,56 +1503,56 @@ Source:	Player's Handbook 2024 p. 229</text>
     <type>G</type>
     <magic/>
     <value>50</value>
-    <text>Source:	Player's Handbook 2024 p. 229</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 229</text>
   </item>
   <item>
     <name>Elephant</name>
     <type>G</type>
     <magic/>
     <value>200</value>
-    <text>Source:	Player's Handbook 2024 p. 229</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 229</text>
   </item>
   <item>
     <name>Horse, Draft</name>
     <type>G</type>
     <magic/>
     <value>50</value>
-    <text>Source:	Player's Handbook 2024 p. 229</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 229</text>
   </item>
   <item>
     <name>Horse, Riding</name>
     <type>G</type>
     <magic/>
     <value>75</value>
-    <text>Source:	Player's Handbook 2024 p. 229</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 229</text>
   </item>
   <item>
     <name>Mastiff</name>
     <type>G</type>
     <magic/>
     <value>25</value>
-    <text>Source:	Player's Handbook 2024 p. 229</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 229</text>
   </item>
   <item>
     <name>Mule</name>
     <type>G</type>
     <magic/>
     <value>8</value>
-    <text>Source:	Player's Handbook 2024 p. 229</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 229</text>
   </item>
   <item>
     <name>Pony</name>
     <type>G</type>
     <magic/>
     <value>30</value>
-    <text>Source:	Player's Handbook 2024 p. 229</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 229</text>
   </item>
   <item>
     <name>Warhorse</name>
     <type>G</type>
     <magic/>
     <value>400</value>
-    <text>Source:	Player's Handbook 2024 p. 229</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 229</text>
   </item>
   <item>
     <name>Carriage</name>
@@ -1560,7 +1560,7 @@ Source:	Player's Handbook 2024 p. 229</text>
     <magic/>
     <weight>600</weight>
     <value>100</value>
-    <text>Source:	Player's Handbook 2024 p. 230</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 230</text>
   </item>
   <item>
     <name>Cart</name>
@@ -1568,7 +1568,7 @@ Source:	Player's Handbook 2024 p. 229</text>
     <magic/>
     <weight>200</weight>
     <value>15</value>
-    <text>Source:	Player's Handbook 2024 p. 230</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 230</text>
   </item>
   <item>
     <name>Chariot</name>
@@ -1576,7 +1576,7 @@ Source:	Player's Handbook 2024 p. 229</text>
     <magic/>
     <weight>100</weight>
     <value>250</value>
-    <text>Source:	Player's Handbook 2024 p. 230</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 230</text>
   </item>
   <item>
     <name>Feed (per day)</name>
@@ -1584,7 +1584,7 @@ Source:	Player's Handbook 2024 p. 229</text>
     <magic/>
     <weight>10</weight>
     <value>0.05</value>
-    <text>Source:	Player's Handbook 2024 p. 230</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 230</text>
   </item>
   <item>
     <name>Saddle, Exotic</name>
@@ -1622,14 +1622,14 @@ Source:	Player's Handbook 2024 p. 230</text>
     <magic/>
     <weight>300</weight>
     <value>20</value>
-    <text>Source:	Player's Handbook 2024 p. 230</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 230</text>
   </item>
   <item>
     <name>Stabling (per day)</name>
     <type>G</type>
     <magic/>
     <value>0.05</value>
-    <text>Source:	Player's Handbook 2024 p. 230</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 230</text>
   </item>
   <item>
     <name>Wagon</name>
@@ -1637,7 +1637,7 @@ Source:	Player's Handbook 2024 p. 230</text>
     <magic/>
     <weight>400</weight>
     <value>35</value>
-    <text>Source:	Player's Handbook 2024 p. 230</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 230</text>
   </item>
   <item>
     <name>Airship</name>
@@ -1749,20 +1749,20 @@ Source:	Player's Handbook 2024 p. 230</text>
     <type>G</type>
     <magic/>
     <value>0.04</value>
-    <text>Source:	Player's Handbook 2024 p. 231</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 231</text>
   </item>
   <item>
     <name>Bread (loaf)</name>
     <type>G</type>
     <magic/>
     <value>0.02</value>
-    <text>Source:	Player's Handbook 2024 p. 231</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 231</text>
   </item>
   <item>
     <name>Cheese (wedge)</name>
     <type>G</type>
     <magic/>
     <value>0.1</value>
-    <text>Source:	Player's Handbook 2024 p. 231</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 231</text>
   </item>
 </compendium>

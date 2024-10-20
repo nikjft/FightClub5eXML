@@ -557,7 +557,7 @@ Source:	Heliana's Guide to Monster Hunting p. 212 (Homebrew)</text>
     <range/>
     <components>M (3 Splicer Points pr 15 ft.)</components>
     <classes>Splicer Augments</classes>
-    <text>The creature gains tremorsense out to 15 feet. If it already has tremorsense, the range is increased by 15 feet up to a maximum of 30 feet. A creature with tremorsense can detect and pinpoint the origin of vibrations within a specific radius, provided that the monster and the source of the vibrations are in contact with the same ground or substance. Tremorsense can't be used to detect flying or incorporeal creatures.
+    <text>The creature gains tremorsense out to 15 feet. If it already has tremorsense, the range is increased by 15 feet up to a maximum of 30 feet. A creature with tremorsense can detect and pinpoint the origin of vibrations within a specific radius, provided that the monster and the source of the vibrations are in contact with the same ground or substance. Tremorsense can&apos;t be used to detect flying or incorporeal creatures.
 
 Source:	Heliana's Guide to Monster Hunting p. 212 (Homebrew)</text>
   </spell>
@@ -583,7 +583,7 @@ Source:	Heliana's Guide to Monster Hunting p. 212 (Homebrew)</text>
     <range/>
     <components>M (4 Splicer Points per 15 ft.)</components>
     <classes>Splicer Augments</classes>
-    <text>The creature gains blindsight out to 15 feet. If it already has blindsight, the range is increased by 15 feet up to a maximum of 30 feet. A creature with blindsight can perceive its surroundings without relying on sight, within a specific radius. The creature can't use its blindsight while deafened.
+    <text>The creature gains blindsight out to 15 feet. If it already has blindsight, the range is increased by 15 feet up to a maximum of 30 feet. A creature with blindsight can perceive its surroundings without relying on sight, within a specific radius. The creature can&apos;t use its blindsight while deafened.
 
 Source:	Heliana's Guide to Monster Hunting p. 212 (Homebrew)</text>
   </spell>
@@ -613,7 +613,7 @@ Source:	Heliana's Guide to Monster Hunting p. 212 (Homebrew)</text>
     <range/>
     <components>M (4 Splicer Points)</components>
     <classes>Splicer Augments</classes>
-    <text>The creature doesn't provoke opportunity attacks when it flies out of an enemy's reach.
+    <text>The creature doesn&apos;t provoke opportunity attacks when it flies out of an enemy&apos;s reach.
 
 Source:	Heliana's Guide to Monster Hunting p. 212 (Homebrew)</text>
   </spell>
@@ -626,7 +626,7 @@ Source:	Heliana's Guide to Monster Hunting p. 212 (Homebrew)</text>
     <range/>
     <components>M (4 Splicer Points)</components>
     <classes>Splicer Augments</classes>
-    <text>The creature's size is increased by one category. In addition, the size of its Hit Die is increased by 1; add 1 to the creature's maximum hit points for each Hit Die it has when it gains this augment.
+    <text>The creature&apos;s size is increased by one category. In addition, the size of its Hit Die is increased by 1; add 1 to the creature&apos;s maximum hit points for each Hit Die it has when it gains this augment.
 
 Note, this augment can be taken multiple times but can't increase a companion's size beyond that permitted by your tamer level.
 

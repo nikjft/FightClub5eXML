@@ -38,7 +38,7 @@ Source:	Crown of the Oathbreaker p. 730 (Homebrew)</text>
     <weight>2</weight>
     <value/>
     <property/>
-    <text>The azure bridge control rod was crafted by Master Arlen himself from the same azure stone of which the bridge was built. Once per day as an action, the rod's wielder can activate the magical defenses of the Azure Bridge to turn the surface of the bridge sticky. Once per day as an action, the effect can be ended.
+    <text>The azure bridge control rod was crafted by Master Arlen himself from the same azure stone of which the bridge was built. Once per day as an action, the rod&apos;s wielder can activate the magical defenses of the Azure Bridge to turn the surface of the bridge sticky. Once per day as an action, the effect can be ended.
 
 Additionally, once per day, the wielder of the azure bridge control rod can cast the web spell, which conjures a goo-like substance that is inflammable. Once you use this ability of the rod, it can't be used again until the next dawn.
 
@@ -379,7 +379,7 @@ Source:	Crown of the Oathbreaker p. 737 (Homebrew)</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>This object is a pommel featuring the visages of savage beasts and a metal wire extending from the mouth of one of the beasts with a clasp at its end. The wire can be extended up to 50 feet. As an action, you extend or retract the full length of the wire, which is 50 feet long. If the leash is placed around the neck of a beast or monstrosity with an Intelligence score of 4 or lower, it must make a DC 12 Wisdom saving throw. On a failed save, the beast or monstrosity is under the effect of an animal friendship spell as if cast by you. Once used, the magical property of the leash of the beast tamer can't be used again until the next dawn.
+    <text>This object is a pommel featuring the visages of savage beasts and a metal wire extending from the mouth of one of the beasts with a clasp at its end. The wire can be extended up to 50 feet. As an action, you extend or retract the full length of the wire, which is 50 feet long. If the leash is placed around the neck of a beast or monstrosity with an Intelligence score of 4 or lower, it must make a DC 12 Wisdom saving throw. On a failed save, the beast or monstrosity is under the effect of an animal friendship spell as if cast by you. Once used, the magical property of the leash of the beast tamer can&apos;t be used again until the next dawn.
 
 Source:	Crown of the Oathbreaker p. 737 (Homebrew)</text>
   </item>
@@ -390,7 +390,7 @@ Source:	Crown of the Oathbreaker p. 737 (Homebrew)</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>The lorgnettes of the master scribe highlight and emphasize specific passages of spell scrolls, leading spellcasters to a clearer comprehension of their complex formulae. If the spell you are casting from a spell scroll is on your class's spell list, but of a higher level than you can normally cast, you gain advantage on the required ability check with your spellcasting ability.
+    <text>The lorgnettes of the master scribe highlight and emphasize specific passages of spell scrolls, leading spellcasters to a clearer comprehension of their complex formulae. If the spell you are casting from a spell scroll is on your class&apos;s spell list, but of a higher level than you can normally cast, you gain advantage on the required ability check with your spellcasting ability.
 
 Source:	Crown of the Oathbreaker p. 737 (Homebrew)</text>
   </item>
@@ -412,7 +412,7 @@ Source:	Crown of the Oathbreaker p. 738 (Homebrew)</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>The Master Key opens any lock, even those protected by magical means, and suppresses any mundane or magical traps on the object that would activate when opening it. You can use the Master Key to cast a knock spell, which is silent without any audible effects and which suppresses alarm or other protective spells like glyphs or symbols on the object for 10 minutes. Once used, the magical property of the master key can't be used again until the next dawn.
+    <text>The Master Key opens any lock, even those protected by magical means, and suppresses any mundane or magical traps on the object that would activate when opening it. You can use the Master Key to cast a knock spell, which is silent without any audible effects and which suppresses alarm or other protective spells like glyphs or symbols on the object for 10 minutes. Once used, the magical property of the master key can&apos;t be used again until the next dawn.
 
 Source:	Crown of the Oathbreaker p. 738 (Homebrew)</text>
   </item>
@@ -531,7 +531,7 @@ Source:	Crown of the Oathbreaker p. 740 (Homebrew)</text>
     <weight>1</weight>
     <value/>
     <property/>
-    <text>The seed of the Hagtree holds a fragment of a hag's soul and resembles a monstrous eye, covered by a thick seed coat and prickly thorns.
+    <text>The seed of the Hagtree holds a fragment of a hag&apos;s soul and resembles a monstrous eye, covered by a thick seed coat and prickly thorns.
 
 The seed has 3 charges. While attuned to it, you can expend 1 charge to cast the tree stride spell. 
 
@@ -616,7 +616,7 @@ Source:	Player's Handbook p. 149,
     <weight>1</weight>
     <value/>
     <property/>
-    <text>This item that bears the raw energies of the Shadowrealm can be utilized to heighten the effects of illusion spells. The spell focus can function as a material component of up to 100 gold pieces in value that doesn't need to be expended. The spell focus of the shadowcaster has 3 charges. While attuned to it, you can expend 1 charge to make an illusion spell you cast harder to disbelieve, granting disadvantage on Intelligence (Investigation) skill checks to disbelieve the illusion. Additionally, you can expend 1 charge to add +1 DC to an illusion spell you cast. You can expend multiple charges to use both effects on your spell. The spell focus of the shadowcaster regains all expended charges at dawn.
+    <text>This item that bears the raw energies of the Shadowrealm can be utilized to heighten the effects of illusion spells. The spell focus can function as a material component of up to 100 gold pieces in value that doesn&apos;t need to be expended. The spell focus of the shadowcaster has 3 charges. While attuned to it, you can expend 1 charge to make an illusion spell you cast harder to disbelieve, granting disadvantage on Intelligence (Investigation) skill checks to disbelieve the illusion. Additionally, you can expend 1 charge to add +1 DC to an illusion spell you cast. You can expend multiple charges to use both effects on your spell. The spell focus of the shadowcaster regains all expended charges at dawn.
 
 Source:	Crown of the Oathbreaker p. 741 (Homebrew)</text>
   </item>
@@ -629,7 +629,7 @@ Source:	Crown of the Oathbreaker p. 741 (Homebrew)</text>
     <value>10.0</value>
     <property/>
     <ac>2</ac>
-    <text>King Waldrann Azennar received the Spriggan Shield as a gift from the Matrons of Malice, who posed as the late satyr lord King Dasmag, the previous lord of the Feyrealm now known as the Bleak Mire. This large steel shield depicts the screaming faces of fey creatures named spriggans that can grow in size from small to large. The shield has 3 charges. You can expend a charge to enlarge your form and anything you are wearing or carrying for 1 minute. While enlarged, your size becomes Large, your damage dice on Strength-based weapon attacks is doubled, you make Strength checks and Strength saving throws with advantage, and you gain a +1 bonus to AC while you wield the shield. This bonus is in addition to the shield's normal bonus to AC. If you lack the room to become large, you attain the maximum size possible in the space available. The shield regains 1d3 of its expended charges daily at dawn.
+    <text>King Waldrann Azennar received the Spriggan Shield as a gift from the Matrons of Malice, who posed as the late satyr lord King Dasmag, the previous lord of the Feyrealm now known as the Bleak Mire. This large steel shield depicts the screaming faces of fey creatures named spriggans that can grow in size from small to large. The shield has 3 charges. You can expend a charge to enlarge your form and anything you are wearing or carrying for 1 minute. While enlarged, your size becomes Large, your damage dice on Strength-based weapon attacks is doubled, you make Strength checks and Strength saving throws with advantage, and you gain a +1 bonus to AC while you wield the shield. This bonus is in addition to the shield&apos;s normal bonus to AC. If you lack the room to become large, you attain the maximum size possible in the space available. The shield regains 1d3 of its expended charges daily at dawn.
 
 Source:	Player's Handbook p. 144,
 		Crown of the Oathbreaker p. 742 (Homebrew)</text>
@@ -657,7 +657,7 @@ Source:	Crown of the Oathbreaker p. 742 (Homebrew)</text>
     <weight/>
     <value/>
     <property/>
-    <text>This simple-looking magical table is made out of wood. Once per day, you can cause the table to become filled with the food and drink you desire the most. If uneaten, the food remains until dawn, at which point it disappears. It takes 1 hour to consume the food and drink on the table. A single creature who eats everything from the table is completely nourished for one day and benefits from the effects of a heroes' feast spell.
+    <text>This simple-looking magical table is made out of wood. Once per day, you can cause the table to become filled with the food and drink you desire the most. If uneaten, the food remains until dawn, at which point it disappears. It takes 1 hour to consume the food and drink on the table. A single creature who eats everything from the table is completely nourished for one day and benefits from the effects of a heroes&apos; feast spell.
 
 Source:	Crown of the Oathbreaker p. 742 (Homebrew)</text>
   </item>

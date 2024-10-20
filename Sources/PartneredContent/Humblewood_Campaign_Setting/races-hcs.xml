@@ -9,7 +9,7 @@
     <spellAbility/>
     <trait category="description">
       <name>Description</name>
-      <text>Corvums are a crow-like race with dark feathers and sharp minds. Their reputation in birdfolk society is nothing short of villainous, and they are regularly cast as the antagonists of any given situation. It's hard to say whether the corvums are distrusted because they behave the way they do, or if they behave the way they do because they are distrusted.
+      <text>Corvums are a crow-like race with dark feathers and sharp minds. Their reputation in birdfolk society is nothing short of villainous, and they are regularly cast as the antagonists of any given situation. It&apos;s hard to say whether the corvums are distrusted because they behave the way they do, or if they behave the way they do because they are distrusted.
 
 As a dusk corvum, you are more at home in the bustle of society than in the wilds of the forest. You understand subtle social cues the way a hunter understands their prey, and you're just as quick to capitalize on an advantage.
 
@@ -93,7 +93,7 @@ Birdfolk is a language of clicks, caws, and whistles. Though primarily oral, a s
     <spellAbility/>
     <trait category="description">
       <name>Description</name>
-      <text>Corvums are a crow-like race with dark feathers and sharp minds. Their reputation in birdfolk society is nothing short of villainous, and they are regularly cast as the antagonists of any given situation. It's hard to say whether the corvums are distrusted because they behave the way they do, or if they behave the way they do because they are distrusted.
+      <text>Corvums are a crow-like race with dark feathers and sharp minds. Their reputation in birdfolk society is nothing short of villainous, and they are regularly cast as the antagonists of any given situation. It&apos;s hard to say whether the corvums are distrusted because they behave the way they do, or if they behave the way they do because they are distrusted.
 
 As a kindled corvum, you know implicitly that you are the smartest in the room. Your ability to utilize your knowledge to your advantage, along with your deep understanding of others motivations, makes you a formidable opponent.
 
@@ -198,7 +198,7 @@ While other birdfolk might look down on gallus for their common ways, the gallus
     </trait>
     <trait category="description">
       <name>Variant Rule: Different Looks for Birdfolk and Humblefolk</name>
-      <text>Gallus characters are usually represented by land fowl of all kinds, ranging from those with small rounded bodies, suited to ground life, to those with longer proportions. Waterfowl, such as ducks or geese, could be used as visual inspiration for communities of gallus living by Humblewood's wetlands. Other fowl, such as peacocks, could also be used. While not closely-related to fowl, herons, storks, and bitterns could be a good reference for taller, marshland-dwelling communities of gallus.
+      <text>Gallus characters are usually represented by land fowl of all kinds, ranging from those with small rounded bodies, suited to ground life, to those with longer proportions. Waterfowl, such as ducks or geese, could be used as visual inspiration for communities of gallus living by Humblewood&apos;s wetlands. Other fowl, such as peacocks, could also be used. While not closely-related to fowl, herons, storks, and bitterns could be a good reference for taller, marshland-dwelling communities of gallus.
 
 Gallus characters with ostentatious, colorful plumage are generally better suited to the bright gallus subrace, while those with modest, earth-toned feathers might be better suited to the huden gallus subrace.</text>
     </trait>
@@ -242,7 +242,7 @@ Weight in pounds = 55 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Of the People</name>
-      <text>You gain proficiency with the artisan tools of your choice: brewer's supplies, carpenter's tools, or smith's tools.</text>
+      <text>You gain proficiency with the artisan tools of your choice: brewer's supplies, carpenter&apos;s tools, or smith&apos;s tools.</text>
     </trait>
     <trait>
       <name>Inspiring</name>
@@ -288,7 +288,7 @@ While other birdfolk might look down on gallus for their common ways, the gallus
     </trait>
     <trait category="description">
       <name>Variant Rule: Different Looks for Birdfolk and Humblefolk</name>
-      <text>Gallus characters are usually represented by land fowl of all kinds, ranging from those with small rounded bodies, suited to ground life, to those with longer proportions. Waterfowl, such as ducks or geese, could be used as visual inspiration for communities of gallus living by Humblewood's wetlands. Other fowl, such as peacocks, could also be used. While not closely-related to fowl, herons, storks, and bitterns could be a good reference for taller, marshland-dwelling communities of gallus.
+      <text>Gallus characters are usually represented by land fowl of all kinds, ranging from those with small rounded bodies, suited to ground life, to those with longer proportions. Waterfowl, such as ducks or geese, could be used as visual inspiration for communities of gallus living by Humblewood&apos;s wetlands. Other fowl, such as peacocks, could also be used. While not closely-related to fowl, herons, storks, and bitterns could be a good reference for taller, marshland-dwelling communities of gallus.
 
 Gallus characters with ostentatious, colorful plumage are generally better suited to the bright gallus subrace, while those with modest, earth-toned feathers might be better suited to the huden gallus subrace.</text>
     </trait>
@@ -332,7 +332,7 @@ Weight in pounds = 55 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Of the People</name>
-      <text>You gain proficiency with the artisan tools of your choice: brewer's supplies, carpenter's tools, or smith's tools.</text>
+      <text>You gain proficiency with the artisan tools of your choice: brewer's supplies, carpenter&apos;s tools, or smith&apos;s tools.</text>
     </trait>
     <trait>
       <name>One With the Wood</name>
@@ -417,7 +417,7 @@ Weight in pounds = 25 + (1 × your size modifier)</text>
     </trait>
     <trait>
       <name>Fated</name>
-      <text>Whether by luck or a guiding presence, you always seem to find your way. You can choose to reroll any attack, skill check, or saving throw. You can decide to do this after your roll, but only before the outcome of the roll has been determined. You can't use this feature again until you have completed a long rest.</text>
+      <text>Whether by luck or a guiding presence, you always seem to find your way. You can choose to reroll any attack, skill check, or saving throw. You can decide to do this after your roll, but only before the outcome of the roll has been determined. You can&apos;t use this feature again until you have completed a long rest.</text>
     </trait>
     <trait>
       <name>Hard to Read</name>
@@ -501,7 +501,7 @@ Weight in pounds = 25 + (1 × your size modifier)</text>
     </trait>
     <trait>
       <name>Fated</name>
-      <text>Whether by luck or a guiding presence, you always seem to find your way. You can choose to reroll any attack, skill check, or saving throw. You can decide to do this after your roll, but only before the outcome of the roll has been determined. You can't use this feature again until you have completed a long rest.</text>
+      <text>Whether by luck or a guiding presence, you always seem to find your way. You can choose to reroll any attack, skill check, or saving throw. You can decide to do this after your roll, but only before the outcome of the roll has been determined. You can&apos;t use this feature again until you have completed a long rest.</text>
     </trait>
     <trait>
       <name>Center of Attention</name>
@@ -542,7 +542,7 @@ Raptors are adept at living off the land. They are skilled hunters, usually lead
     </trait>
     <trait category="description">
       <name>Natural Predator</name>
-      <text>While many of the birdfolk races are culturally communal, raptors don't have a great sense of connectedness, nor do they tend to create their own perches. They are more likely to adopt a transient lifestyle, moving from perch to perch, or to simply live in the vast forests of the Wood itself.
+      <text>While many of the birdfolk races are culturally communal, raptors don&apos;t have a great sense of connectedness, nor do they tend to create their own perches. They are more likely to adopt a transient lifestyle, moving from perch to perch, or to simply live in the vast forests of the Wood itself.
 
 Though typically quiet, raptors are not averse to forming relationships with other birdfolk. Despite their reserved nature, raptors value personal bonds more highly than societal or even familial ties.</text>
     </trait>
@@ -589,7 +589,7 @@ Weight in pounds = 25 + (1 × your size modifier)</text>
       <text>Your accuracy allows you to treat three-quarters cover as half cover and half cover as no cover.</text>
     </trait>
     <trait>
-      <name>Hunter's Training</name>
+      <name>Hunter&apos;s Training</name>
       <text>You have proficiency with the longbow, short bow, and spear. Additionally, your familiarity with the longbow means that it is not considered a heavy weapon for you.</text>
     </trait>
     <trait>
@@ -630,7 +630,7 @@ Raptors are adept at living off the land. They are skilled hunters, usually lead
     </trait>
     <trait category="description">
       <name>Natural Predator</name>
-      <text>While many of the birdfolk races are culturally communal, raptors don't have a great sense of connectedness, nor do they tend to create their own perches. They are more likely to adopt a transient lifestyle, moving from perch to perch, or to simply live in the vast forests of the Wood itself.
+      <text>While many of the birdfolk races are culturally communal, raptors don&apos;t have a great sense of connectedness, nor do they tend to create their own perches. They are more likely to adopt a transient lifestyle, moving from perch to perch, or to simply live in the vast forests of the Wood itself.
 
 Though typically quiet, raptors are not averse to forming relationships with other birdfolk. Despite their reserved nature, raptors value personal bonds more highly than societal or even familial ties.</text>
     </trait>
@@ -677,7 +677,7 @@ Weight in pounds = 25 + (1 × your size modifier)</text>
       <text>Your accuracy allows you to treat three-quarters cover as half cover and half cover as no cover.</text>
     </trait>
     <trait>
-      <name>Hunter's Training</name>
+      <name>Hunter&apos;s Training</name>
       <text>You have proficiency with the longbow, short bow, and spear. Additionally, your familiarity with the longbow means that it is not considered a heavy weapon for you.</text>
     </trait>
     <trait>
@@ -759,7 +759,7 @@ Weight in pounds = 80 + (1d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You are adept at hunting under the cover of night. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You are adept at hunting under the cover of night. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Patterned Feathers</name>
@@ -843,7 +843,7 @@ Weight in pounds = 80 + (1d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You are adept at hunting under the cover of night. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You are adept at hunting under the cover of night. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Patterned Feathers</name>
@@ -874,7 +874,7 @@ Birdfolk is a language of clicks, caws, and whistles. Though primarily oral, a s
     <spellAbility/>
     <trait category="description">
       <name>Description</name>
-      <text>Cervans are a versatile deer-like folk who make their homes in small, intimate villages throughout Humblewood. More insular than other humblefolk, cervans often reside deep in the most ancient parts of Humblewood's vast forest, in tree stands and groves far from birdfolk perches.
+      <text>Cervans are a versatile deer-like folk who make their homes in small, intimate villages throughout Humblewood. More insular than other humblefolk, cervans often reside deep in the most ancient parts of Humblewood&apos;s vast forest, in tree stands and groves far from birdfolk perches.
 
 As a grove cervan, you are swift and agile, able to quickly maneuver out of harm's way. You are also incredibly versatile, and can fulfill a variety of roles within a village or an adventuring party.
 
@@ -898,7 +898,7 @@ A cervan whose Sight has been triggered is encouraged to hone it, so that they m
     </trait>
     <trait category="description">
       <name>The Blessing of Cairith</name>
-      <text>While it's not unusual for some cervans to have small antlers or buds visible on their heads, only rarely is a cervan born who can grow a full set of antlers. These cervans are a different subrace—pronghorns—and are thought to be specially blessed by their Amaranthine Cairith, a sacred spirit of life and growth believed to watch over all cervans. Unlike other subraces, pronghorn and grove cervans are the same people. The arrival of a pronghorn cervan is an event to celebrate, as it can occur only once in a generation.</text>
+      <text>While it&apos;s not unusual for some cervans to have small antlers or buds visible on their heads, only rarely is a cervan born who can grow a full set of antlers. These cervans are a different subrace—pronghorns—and are thought to be specially blessed by their Amaranthine Cairith, a sacred spirit of life and growth believed to watch over all cervans. Unlike other subraces, pronghorn and grove cervans are the same people. The arrival of a pronghorn cervan is an event to celebrate, as it can occur only once in a generation.</text>
     </trait>
     <trait category="description">
       <name>Variant Rule: Different Looks for Birdfolk and Humblefolk</name>
@@ -910,7 +910,7 @@ A cervan whose Sight has been triggered is encouraged to hone it, so that they m
     </trait>
     <trait>
       <name>Life Span</name>
-      <text>Cervans reach maturity around 12 years. They live long lives compared to the rest of the Humblefolk, between 100 and 150 years, something they attribute as much to their way of life as the blessing of Cairith. Pronghorns generally live longer than grove cervans, which is considered a sign of Cairith's favor.</text>
+      <text>Cervans reach maturity around 12 years. They live long lives compared to the rest of the Humblefolk, between 100 and 150 years, something they attribute as much to their way of life as the blessing of Cairith. Pronghorns generally live longer than grove cervans, which is considered a sign of Cairith&apos;s favor.</text>
     </trait>
     <trait>
       <name>Alignment</name>
@@ -932,7 +932,7 @@ Weight in pounds = 110 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Surge of Vigor</name>
-      <text>All cervans possess a great tenacity and will to survive, which allows them to bounce back from even the most devastating blows. If an attack deals over half of your current remaining hit points in damage, (even if your hit points are reduced to 0 by the attack) you immediately regain hit points equal to 1d12 + your Constitution Modifier. You can't use this feature again until you have completed a long rest.</text>
+      <text>All cervans possess a great tenacity and will to survive, which allows them to bounce back from even the most devastating blows. If an attack deals over half of your current remaining hit points in damage, (even if your hit points are reduced to 0 by the attack) you immediately regain hit points equal to 1d12 + your Constitution Modifier. You can&apos;t use this feature again until you have completed a long rest.</text>
     </trait>
     <trait>
       <name>Swift</name>
@@ -964,7 +964,7 @@ Cervan is a complex language with no written script. It is seen as disrespectful
     <spellAbility/>
     <trait category="description">
       <name>Description</name>
-      <text>Cervans are a versatile deer-like folk who make their homes in small, intimate villages throughout Humblewood. More insular than other humblefolk, cervans often reside deep in the most ancient parts of Humblewood's vast forest, in tree stands and groves far from birdfolk perches.
+      <text>Cervans are a versatile deer-like folk who make their homes in small, intimate villages throughout Humblewood. More insular than other humblefolk, cervans often reside deep in the most ancient parts of Humblewood&apos;s vast forest, in tree stands and groves far from birdfolk perches.
 
 As a pronghorn cervan, you were born larger and stronger than others in the community and found yourself laden with expectations from a very young age. It is up to you whether you embrace your position of privilege, or rebel against the constraints thrust upon you by cervan society.
 
@@ -988,7 +988,7 @@ A cervan whose Sight has been triggered is encouraged to hone it, so that they m
     </trait>
     <trait category="description">
       <name>The Blessing of Cairith</name>
-      <text>While it's not unusual for some cervans to have small antlers or buds visible on their heads, only rarely is a cervan born who can grow a full set of antlers. These cervans are a different subrace—pronghorns—and are thought to be specially blessed by their Amaranthine Cairith, a sacred spirit of life and growth believed to watch over all cervans. Unlike other subraces, pronghorn and grove cervans are the same people. The arrival of a pronghorn cervan is an event to celebrate, as it can occur only once in a generation.</text>
+      <text>While it&apos;s not unusual for some cervans to have small antlers or buds visible on their heads, only rarely is a cervan born who can grow a full set of antlers. These cervans are a different subrace—pronghorns—and are thought to be specially blessed by their Amaranthine Cairith, a sacred spirit of life and growth believed to watch over all cervans. Unlike other subraces, pronghorn and grove cervans are the same people. The arrival of a pronghorn cervan is an event to celebrate, as it can occur only once in a generation.</text>
     </trait>
     <trait category="description">
       <name>Variant Rule: Different Looks for Birdfolk and Humblefolk</name>
@@ -1000,7 +1000,7 @@ A cervan whose Sight has been triggered is encouraged to hone it, so that they m
     </trait>
     <trait>
       <name>Life Span</name>
-      <text>Cervans reach maturity around 12 years. They live long lives compared to the rest of the Humblefolk, between 100 and 150 years, something they attribute as much to their way of life as the blessing of Cairith. Pronghorns generally live longer than grove cervans, which is considered a sign of Cairith's favor.</text>
+      <text>Cervans reach maturity around 12 years. They live long lives compared to the rest of the Humblefolk, between 100 and 150 years, something they attribute as much to their way of life as the blessing of Cairith. Pronghorns generally live longer than grove cervans, which is considered a sign of Cairith&apos;s favor.</text>
     </trait>
     <trait>
       <name>Alignment</name>
@@ -1022,7 +1022,7 @@ Weight in pounds = 120 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Surge of Vigor</name>
-      <text>All cervans possess a great tenacity and will to survive, which allows them to bounce back from even the most devastating blows. If an attack deals over half of your current remaining hit points in damage, (even if your hit points are reduced to 0 by the attack) you immediately regain hit points equal to 1d12 + your Constitution Modifier. You can't use this feature again until you have completed a long rest.</text>
+      <text>All cervans possess a great tenacity and will to survive, which allows them to bounce back from even the most devastating blows. If an attack deals over half of your current remaining hit points in damage, (even if your hit points are reduced to 0 by the attack) you immediately regain hit points equal to 1d12 + your Constitution Modifier. You can&apos;t use this feature again until you have completed a long rest.</text>
     </trait>
     <trait>
       <name>Robust Build</name>
@@ -1073,7 +1073,7 @@ Hedges who dwell outside of the birdfolk cities prefer to live in individual bur
     </trait>
     <trait category="description">
       <name>Dressed for Comfort</name>
-      <text>Hedges need special consideration when wearing clothes, and favor loose tunics, baggy trousers, flowing robes, and other clothes which fit easily over their quills. When not actively flared out, these tough quills naturally flatten, becoming smooth to the touch. However, if suddenly frightened, their quills reflexively flare out and stiffen, an accident which can ruin a hedge's clothing.
+      <text>Hedges need special consideration when wearing clothes, and favor loose tunics, baggy trousers, flowing robes, and other clothes which fit easily over their quills. When not actively flared out, these tough quills naturally flatten, becoming smooth to the touch. However, if suddenly frightened, their quills reflexively flare out and stiffen, an accident which can ruin a hedge&apos;s clothing.
 
 Adventuring clothes made specifically for hedges are available in nearly every major city in Humblewood, and tailors throughout the Wood are familiar with making alterations to suit a hedge's needs.</text>
     </trait>
@@ -1109,7 +1109,7 @@ Weight in pounds = 30 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Spiny Quills</name>
-      <text>The backs of hedges are covered with spiny quills, which makes it impossible for hedges to wear armor. These quills provide exceptional protection, therefore you have a base armor class of 14 + your Dexterity modifier. Even though you can't wear armor, you can still benefit from the armor class bonus provided by shields so long as you are proficient with them.</text>
+      <text>The backs of hedges are covered with spiny quills, which makes it impossible for hedges to wear armor. These quills provide exceptional protection, therefore you have a base armor class of 14 + your Dexterity modifier. Even though you can&apos;t wear armor, you can still benefit from the armor class bonus provided by shields so long as you are proficient with them.</text>
     </trait>
     <trait>
       <name>Curl Up</name>
@@ -1144,7 +1144,7 @@ Hedge is a language meant to be spoken softly. It confounds many who try to lear
     <spellAbility/>
     <trait category="description">
       <name>Description</name>
-      <text>Jerbeens are small mouse-like folk with long, furred tails that help them balance. In proportion to the rest of their body, a jerbeen's legs are long and powerful. Jerbeens can be found in a variety of places across the Wood, usually forming their own communities within birdfolk perches and humblefolk villages. Seldom do they live alone. A jerbeen's home can contain several generations, including extended family and cousins living together under one roof. Jerbeens have a strong sense of family and like to surround themselves with good company wherever they rest.
+      <text>Jerbeens are small mouse-like folk with long, furred tails that help them balance. In proportion to the rest of their body, a jerbeen&apos;s legs are long and powerful. Jerbeens can be found in a variety of places across the Wood, usually forming their own communities within birdfolk perches and humblefolk villages. Seldom do they live alone. A jerbeen&apos;s home can contain several generations, including extended family and cousins living together under one roof. Jerbeens have a strong sense of family and like to surround themselves with good company wherever they rest.
 
 Source:	Humblewood Campaign Setting p. 27</text>
     </trait>
@@ -1158,7 +1158,7 @@ Source:	Humblewood Campaign Setting p. 27</text>
     </trait>
     <trait category="description">
       <name>Variant Rule: Different Looks for Birdfolk and Humblefolk</name>
-      <text>The jerbeens are inspired by jerboas, a kind of jumping mouse. Other small rodents with mouse-like proportions, including chinchillas, could be used for visual inspiration as well. Though a greater stretch, the jerbeen's speed, size, and communal way of life would make them an ideal analog for races based on rabbits or hares.</text>
+      <text>The jerbeens are inspired by jerboas, a kind of jumping mouse. Other small rodents with mouse-like proportions, including chinchillas, could be used for visual inspiration as well. Though a greater stretch, the jerbeen&apos;s speed, size, and communal way of life would make them an ideal analog for races based on rabbits or hares.</text>
     </trait>
     <trait>
       <name>Ability Score Increases</name>
@@ -1192,7 +1192,7 @@ Weight in pounds = 20 + (1d2 × your size modifier)</text>
     </trait>
     <trait>
       <name>Take Heart</name>
-      <text>You have advantage on Strength saving throws and saving throws against being frightened as long as you are within 5 feet of an ally who isn't frightened or incapacitated that you can both see and hear.</text>
+      <text>You have advantage on Strength saving throws and saving throws against being frightened as long as you are within 5 feet of an ally who isn&apos;t frightened or incapacitated that you can both see and hear.</text>
     </trait>
     <trait>
       <name>Team Tactics</name>
@@ -1213,11 +1213,11 @@ Jerbeen is a system of squeaks and clicks represented in writing by using a vari
     <size>M</size>
     <speed>30</speed>
     <ability>Wis +2, Con +1</ability>
-    <proficiency>Tinker's Tools</proficiency>
+    <proficiency>Tinker&apos;s Tools</proficiency>
     <spellAbility/>
     <trait category="description">
       <name>Description</name>
-      <text>Naturally curious, mapachs are a medium-sized racoon-like race. They are crafty, hearty, and tough, but their true strength lies in the potential they see when looking at the world around them. Mapachs have incredibly light hands and a great degree of fine motor control that doesn't diminish with age. They are also adept at climbing and sneaking. This, combined with their love of trinkets, has earned them an undeserved reputation as thieves. While there are exceptions, most mapachs are quite good-natured, if a little eccentric.
+      <text>Naturally curious, mapachs are a medium-sized racoon-like race. They are crafty, hearty, and tough, but their true strength lies in the potential they see when looking at the world around them. Mapachs have incredibly light hands and a great degree of fine motor control that doesn&apos;t diminish with age. They are also adept at climbing and sneaking. This, combined with their love of trinkets, has earned them an undeserved reputation as thieves. While there are exceptions, most mapachs are quite good-natured, if a little eccentric.
 
 Source:	Humbleweed Campaign Setting p. 28</text>
     </trait>
@@ -1234,7 +1234,7 @@ see it as primitive or crude. Genius ideas created by mapach hands frequently be
     </trait>
     <trait category="description">
       <name>Hubs of Invention</name>
-      <text>Mapachs are often loners, but when they do establish communities with humblefolk or birdfolk, they have a habit of fostering innovation wherever they go. Mapach ingenuity was responsible for the contraption upon which Alderheart's pulley system was based. The pulley system was so successful that birdfolk perches beyond Alderheart have adopted the technology.</text>
+      <text>Mapachs are often loners, but when they do establish communities with humblefolk or birdfolk, they have a habit of fostering innovation wherever they go. Mapach ingenuity was responsible for the contraption upon which Alderheart&apos;s pulley system was based. The pulley system was so successful that birdfolk perches beyond Alderheart have adopted the technology.</text>
     </trait>
     <trait category="description">
       <name>Variant Rule: Different Looks for Birdfolk and Humblefolk</name>
@@ -1250,7 +1250,7 @@ see it as primitive or crude. Genius ideas created by mapach hands frequently be
     </trait>
     <trait>
       <name>Alignment</name>
-      <text>Mapachs don't favor good over evil, with most choosing to remain neutral. They also lean towards the freedom of chaotic alignments.</text>
+      <text>Mapachs don&apos;t favor good over evil, with most choosing to remain neutral. They also lean towards the freedom of chaotic alignments.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -1264,7 +1264,7 @@ Weight in pounds = 85 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray. Mapachs are most comfortable under the cloak of night.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray. Mapachs are most comfortable under the cloak of night.</text>
     </trait>
     <trait>
       <name>Expert Climber</name>
@@ -1276,7 +1276,7 @@ Weight in pounds = 85 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Scroungecraft</name>
-      <text>You are proficient with tinker's tools. Additionally, you have the ability to construct crude but functional versions of common items using materials present in your surroundings. You may spend 10 minutes to craft these materials into any tool or piece of adventuring gear worth 30 gold pieces or less. The item will be completely functional, even capable of passing for a disguise (if you crafted an article of clothing). Tools, along with any other item that would logically break on its first use (caltrops, arrows), will become useless afterward. Scroungecrafted items will otherwise last 1 hour before falling apart.
+      <text>You are proficient with tinker&apos;s tools. Additionally, you have the ability to construct crude but functional versions of common items using materials present in your surroundings. You may spend 10 minutes to craft these materials into any tool or piece of adventuring gear worth 30 gold pieces or less. The item will be completely functional, even capable of passing for a disguise (if you crafted an article of clothing). Tools, along with any other item that would logically break on its first use (caltrops, arrows), will become useless afterward. Scroungecrafted items will otherwise last 1 hour before falling apart.
 
 Depending on the materials available, a Game Master (GM) may rule that you cannot craft an item in this way. For example, a vial of acid might be easy to make if you happen to be near a nest of acidic beetle larvae, or bark can be bound into a makeshift flask, but it would be difficult to create a passable facsimile of silken robes from a pile of leaves.
 
@@ -1305,7 +1305,7 @@ Mapach is a very technically dense language that often incorporates rough equati
     <spells>Charm Person, Ambush Prey, Fear</spells>
     <trait category="description">
       <name>Description</name>
-      <text>Vulpins are fox-like in appearance, with light builds and sharp fangs. One of the least understood and most often vilified humblefolk in the Wood, vulpins have earned a bad reputation that isn't entirely deserved. Much of this stems from the fact that vulpins are ambitious. Sometimes their drive to succeed can make it difficult for them to empathize with others. Vulpins feel just as deeply as other folk of the Wood, but they possess a keen survival instinct which sometimes causes them to take courses of action that are selfish. Moreover, they are sharp and savvy, possessing an uncanny force of personality that allows them to easily sway the trust of others. In the right situations, vulpins can be true friends, and in the wrong ones, deadly enemies.
+      <text>Vulpins are fox-like in appearance, with light builds and sharp fangs. One of the least understood and most often vilified humblefolk in the Wood, vulpins have earned a bad reputation that isn&apos;t entirely deserved. Much of this stems from the fact that vulpins are ambitious. Sometimes their drive to succeed can make it difficult for them to empathize with others. Vulpins feel just as deeply as other folk of the Wood, but they possess a keen survival instinct which sometimes causes them to take courses of action that are selfish. Moreover, they are sharp and savvy, possessing an uncanny force of personality that allows them to easily sway the trust of others. In the right situations, vulpins can be true friends, and in the wrong ones, deadly enemies.
 
 Source:	Humbleweed Campaign Setting p. 30</text>
     </trait>
@@ -1335,7 +1335,7 @@ A few vulpins have attempted to change public opinion, but the majority are unco
     </trait>
     <trait>
       <name>Alignment</name>
-      <text>Vulpins aren't innately evil, but their difficulty empathizing with others means they are only rarely good aligned. Most vulpins find strict authority distasteful, preferring chaotic alignments over lawful ones.</text>
+      <text>Vulpins aren&apos;t innately evil, but their difficulty empathizing with others means they are only rarely good aligned. Most vulpins find strict authority distasteful, preferring chaotic alignments over lawful ones.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -1349,7 +1349,7 @@ Weight in pounds = 80 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You are adept at hunting at night. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You are adept at hunting at night. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Bite</name>

@@ -63,7 +63,7 @@ d6 | Flaw
     <proficiency>Athletics, Survival</proficiency>
     <trait>
       <name>Description</name>
-      <text>You are a down-on-your-luck miner from the Earthspur Mountains who is no stranger to hardship. You have spent a great deal of time living among the dwarves, goliaths, and denizens of the Underdark that also work mines in the area. At this point, you're just as comfortable working underground as above. You know how to read a seam, dicker for supplies with the deep gnomes, party with dwarves, and find your way back to the surface afterwards. Unfortunately, you haven't struck it rich... yet. Although you've come to Mulmaster looking for work, the tall peaks and deep mines of the Earthspurs still call to you.
+      <text>You are a down-on-your-luck miner from the Earthspur Mountains who is no stranger to hardship. You have spent a great deal of time living among the dwarves, goliaths, and denizens of the Underdark that also work mines in the area. At this point, you're just as comfortable working underground as above. You know how to read a seam, dicker for supplies with the deep gnomes, party with dwarves, and find your way back to the surface afterwards. Unfortunately, you haven&apos;t struck it rich... yet. Although you&apos;ve come to Mulmaster looking for work, the tall peaks and deep mines of the Earthspurs still call to you.
 
 	• Skill Proficiencies: Athletics, Survival
 	• Languages: Dwarvish and Undercommon
@@ -119,7 +119,7 @@ d6 | Flaw
     <proficiency>Athletics, Sleight of Hand</proficiency>
     <trait>
       <name>Description</name>
-      <text>You are one of the hundreds of small-time fishermen and women who haul the bounty of Mulmaster's freshwater harbor to the city's markets each morning. You have spent countless days rowing in the waters in and around Mulmaster and know them and the other fisherfolk, dockworkers, and port inhabitants better than anyone. Though you have left that life behind, you still visit once in a while.
+      <text>You are one of the hundreds of small-time fishermen and women who haul the bounty of Mulmaster&apos;s freshwater harbor to the city&apos;s markets each morning. You have spent countless days rowing in the waters in and around Mulmaster and know them and the other fisherfolk, dockworkers, and port inhabitants better than anyone. Though you have left that life behind, you still visit once in a while.
 
 	• Skill Proficiencies: Athletics, Sleight of Hand
 	• Tool Proficiencies: One type of gaming set, vehicles (water)
@@ -132,7 +132,7 @@ Source:	Adventurers League: Elemental Evil p. 4,
     </trait>
     <trait>
       <name>Feature: Harborfolk</name>
-      <text>You grew up on the docks and waters of Mulmaster Harbor. The harborfolk remember you and still treat you as one of them. They welcome you and your companions. While they might charge you for it, they'll always offer what food and shelter they have; they'll even hide you if the City Watch is after you (but not if the Hawks are). [Note: This feature is a variant of the Folk Hero feature.]</text>
+      <text>You grew up on the docks and waters of Mulmaster Harbor. The harborfolk remember you and still treat you as one of them. They welcome you and your companions. While they might charge you for it, they&apos;ll always offer what food and shelter they have; they&apos;ll even hide you if the City Watch is after you (but not if the Hawks are). [Note: This feature is a variant of the Folk Hero feature.]</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
@@ -176,7 +176,7 @@ d6 | Flaw
     <proficiency>Deception, Performance</proficiency>
     <trait>
       <name>Description</name>
-      <text>From your hilltop home, you have looked down (literally and perhaps figuratively) on the unwashed masses of Mulmaster for your entire life. Your fur-trimmed robes and training in the visual and performing arts mark you as wealthy and perhaps well-born; you are a member of the City of Danger's aristocracy.
+      <text>From your hilltop home, you have looked down (literally and perhaps figuratively) on the unwashed masses of Mulmaster for your entire life. Your fur-trimmed robes and training in the visual and performing arts mark you as wealthy and perhaps well-born; you are a member of the City of Danger&apos;s aristocracy.
 
 None of your immediate family members sits on the Council of Blades or is even a Zor or Zora...yet. Nevertheless, you are one of Mulmaster's elite, and whether you personally covet a higher standing or not, you are at home in the dance halls where the aristocracy gathers to plot, to scheme, to do business, to discuss the arts, and, above all, to see, and to be seen.
 
@@ -235,7 +235,7 @@ d6 | Flaw
     <proficiency>Insight, Athletics</proficiency>
     <trait>
       <name>Description</name>
-      <text>Gone are the happier days of walking into the Laughing Goblin Inn after a hard day's labor. Everything has changed, and you are lucky to be alive. Back in Phlan you could count yourself among those street-wise folks who knew when to pay a bribe and who to work with to make a living. Your ability to listen to the winds of change have saved you before, and this time they allowed you to be one of the lucky few who escaped Phlan with something more than just the shirt on your back.
+      <text>Gone are the happier days of walking into the Laughing Goblin Inn after a hard day&apos;s labor. Everything has changed, and you are lucky to be alive. Back in Phlan you could count yourself among those street-wise folks who knew when to pay a bribe and who to work with to make a living. Your ability to listen to the winds of change have saved you before, and this time they allowed you to be one of the lucky few who escaped Phlan with something more than just the shirt on your back.
 
 	• Skill Proficiencies: Insight, Athletics
 	• Tool Proficiencies: One type of artisan's tools

@@ -59,7 +59,7 @@ Source:	Tales from the Yawning Portal p. 228</text>
     <property>F,L,M</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
-    <text>You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.
+    <text>You can use a bonus action to speak this magic sword&apos;s command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.
 
 While you are attuned to this sword you can use an action to mentally command it to detect gems and jewels. You learn the kind and number of such objects within 60 feet of the sword.
 
@@ -177,7 +177,7 @@ Source:	Tales from the Yawning Portal p. 70</text>
     <magic>YES</magic>
     <weight>1</weight>
     <property/>
-    <text>The holder of this platinum hand mirror can learn something about the history of a specific object or creature by taking an action to gaze into the mirror and think of the target. Instead of the holder's reflection, the mirror presents scenes from the target's past. Information conveyed is accurate, but it is random and cryptic, and presented in no particular order. Once it is activated, the mirror gives its information for 1 minute or less, then returns to normal. It can't be used again until the next dawn.
+    <text>The holder of this platinum hand mirror can learn something about the history of a specific object or creature by taking an action to gaze into the mirror and think of the target. Instead of the holder's reflection, the mirror presents scenes from the target&apos;s past. Information conveyed is accurate, but it is random and cryptic, and presented in no particular order. Once it is activated, the mirror gives its information for 1 minute or less, then returns to normal. It can&apos;t be used again until the next dawn.
 
 Source:	Tales from the Yawning Portal p. 228</text>
   </item>
@@ -203,7 +203,7 @@ Source:	Tales from the Yawning Portal p. 228</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>When you drink a potion of mind control, you can cast a dominate spell (save DC 15) on a specific creature if you do so before the end of your next turn. If you don't, the potion is wasted.
+    <text>When you drink a potion of mind control, you can cast a dominate spell (save DC 15) on a specific creature if you do so before the end of your next turn. If you don&apos;t, the potion is wasted.
 
 A potion of mind control produces the effect of a dominate beast spell. If the target's initial saving throw fails, the effect lasts for 1 hour, with no concentration required on your part. The charmed creature has disadvantage on new saving throws to break the effect during this time.
 
@@ -216,7 +216,7 @@ Source:	Tales from the Yawning Portal p. 229</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>When you drink a potion of mind control, you can cast a dominate spell (save DC 15) on a specific creature if you do so before the end of your next turn. If you don't, the potion is wasted.
+    <text>When you drink a potion of mind control, you can cast a dominate spell (save DC 15) on a specific creature if you do so before the end of your next turn. If you don&apos;t, the potion is wasted.
 
 A potion of mind control produces the effect of a dominate person spell. If the target's initial saving throw fails, the effect lasts for 1 hour, with no concentration required on your part. The charmed creature has disadvantage on new saving throws to break the effect during this time.
 
@@ -229,7 +229,7 @@ Source:	Tales from the Yawning Portal p. 229</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>When you drink a potion of mind control, you can cast a dominate spell (save DC 15) on a specific creature if you do so before the end of your next turn. If you don't, the potion is wasted.
+    <text>When you drink a potion of mind control, you can cast a dominate spell (save DC 15) on a specific creature if you do so before the end of your next turn. If you don&apos;t, the potion is wasted.
 
 A potion of mind control produces the effect of a dominate monster spell. If the target's initial saving throw fails, the effect lasts for 1 hour, with no concentration required on your part. The charmed creature has disadvantage on new saving throws to break the effect during this time.
 
@@ -242,7 +242,7 @@ Source:	Tales from the Yawning Portal p. 229</text>
     <magic>YES</magic>
     <weight>1</weight>
     <property/>
-    <text>This elegant garment is made from fine cloth in hues of red, orange, and gold. While you wear the robe, you have resistance to cold damage. In addition, you are comfortable as if the temperature were that of a balmy day, so you suffer no ill effects from the weather's temperature extremes.
+    <text>This elegant garment is made from fine cloth in hues of red, orange, and gold. While you wear the robe, you have resistance to cold damage. In addition, you are comfortable as if the temperature were that of a balmy day, so you suffer no ill effects from the weather&apos;s temperature extremes.
 
 Source:	Tales from the Yawning Portal p. 229</text>
   </item>
@@ -256,7 +256,7 @@ Source:	Tales from the Yawning Portal p. 229</text>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
-    <text>You have a +1 bonus to attack and damage rolls made with this magic weapon. If it hits an object, the hit is automatically a critical hit, and it can deal bludgeoning or slashing damage to the object (your choice). Further, damage from nonmagical sources can't harm the weapon.
+    <text>You have a +1 bonus to attack and damage rolls made with this magic weapon. If it hits an object, the hit is automatically a critical hit, and it can deal bludgeoning or slashing damage to the object (your choice). Further, damage from nonmagical sources can&apos;t harm the weapon.
 
 Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee Attack.
 
@@ -300,7 +300,7 @@ Source:	Tales from the Yawning Portal p. 229</text>
     <magic>YES</magic>
     <weight>1</weight>
     <property/>
-    <text>This polished agate appears to be a stone of good luck to anyone who tries to identify it, and it confers that item's property while on your person.
+    <text>This polished agate appears to be a stone of good luck to anyone who tries to identify it, and it confers that item&apos;s property while on your person.
 
 Curse: This item is cursed. While it is on your person, you take a -2 penalty to ability checks and saving throws. Until the curse is discovered, the DM secretly applies this penalty, assuming you are adding the item's bonus. You are unwilling to part with the stone until the curse is broken with remove curse or similar magic.
 

@@ -6,7 +6,7 @@
     <autolevel level="1">
       <feature optional="YES">
         <name>Divine Domain: Blood Domain</name>
-        <text>Developed in Wildemount by the Claret Orders, the Blood Domain centers around the understanding of the natural life force as it exists within the body, and the divine conduit it can become. Those who take up this domain understand that the power of blood is the power of sacrifice, the balance of life and death, and the spirit's anchor within the mortal shell.
+        <text>Developed in Wildemount by the Claret Orders, the Blood Domain centers around the understanding of the natural life force as it exists within the body, and the divine conduit it can become. Those who take up this domain understand that the power of blood is the power of sacrifice, the balance of life and death, and the spirit&apos;s anchor within the mortal shell.
 
 Gods who grant the power of the Blood Domain, including the Ruiner and the Matron of Ravens, direct their followers to tap into the connection between body and soul, exploit the hidden reserves of will within one's own vitality, and corrupt the bodies of others through the secret rites of hemocraft. Clerics of good gods use hemocraft to fill their self-sacrifice with purpose and power, while clerics with fewer morals use the blood of others to achieve their own malevolent ends.
 
@@ -32,7 +32,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 169</text>
       </feature>
       <feature optional="YES">
         <name>Blood Domain: Bloodletting Focus</name>
-        <text>Starting at 1st level, your divine magic draws the blood from magically inflicted wounds, worsening the agony of your foes. When you cast a damage-dealing spell of 1st level or higher whose duration is instantaneous, any creature with blood that takes damage from the spell takes extra necrotic damage equal to 2 + the spell's level.
+        <text>Starting at 1st level, your divine magic draws the blood from magically inflicted wounds, worsening the agony of your foes. When you cast a damage-dealing spell of 1st level or higher whose duration is instantaneous, any creature with blood that takes damage from the spell takes extra necrotic damage equal to 2 + the spell&apos;s level.
 
 Source:	Tal'Dorei Campaign Setting: Reborn p. 169</text>
       </feature>
@@ -54,7 +54,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 169</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Blood Domain: Channel Divinity: Blood Puppet</name>
-        <text>Starting at 6th level, you can use your Channel Divinity to briefly control a creature's actions— whether that creature is living or dead.
+        <text>Starting at 6th level, you can use your Channel Divinity to briefly control a creature&apos;s actions— whether that creature is living or dead.
 
 As an action, you target a Large or smaller creature or corpse within 60 feet of you that has blood. A creature you target must succeed on a Wisdom saving throw against your spell save DC or become charmed by you. An unconscious creature automatically fails its saving throw, and isn't incapacitated while you control its actions. A corpse targeted by this effect gains a semblance of life that you control.
 
@@ -74,7 +74,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 169</text>
       </feature>
       <feature optional="YES">
         <name>Blood Domain: Sanguine Recall</name>
-        <text>At 6th level, you can sacrifice a portion of your own vitality to recover expended spell slots as an action. The spell slots can have a combined level equal to or less than half your cleric level (rounded up), and none of the slots can be 6th level or higher. You take 1d8 necrotic damage for each spell slot level recovered, which can't be reduced in any way. You can't use this feature again until you finish a long rest.
+        <text>At 6th level, you can sacrifice a portion of your own vitality to recover expended spell slots as an action. The spell slots can have a combined level equal to or less than half your cleric level (rounded up), and none of the slots can be 6th level or higher. You take 1d8 necrotic damage for each spell slot level recovered, which can&apos;t be reduced in any way. You can&apos;t use this feature again until you finish a long rest.
 
 For example, if you're an 8th-level cleric, you can recover up to four levels of spell slots—a single 4th-level slot, two 2nd-level slots, a 3rd-level slot and a 1st-level slot, or four 1st-level slots. You then take 4d8 necrotic damage.
 
@@ -125,7 +125,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 169</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Moon Domain: Clarity of Catha</name>
-        <text>When you choose this domain at 1st level, you learn to shine light upon the mind's most dire moments, shielding those you protect. When a creature within 30 feet of you that you can see makes a Wisdom saving throw, you can use your reaction to grant that creature advantage on the save.
+        <text>When you choose this domain at 1st level, you learn to shine light upon the mind&apos;s most dire moments, shielding those you protect. When a creature within 30 feet of you that you can see makes a Wisdom saving throw, you can use your reaction to grant that creature advantage on the save.
 
 You can use this feature a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest.
 
@@ -151,7 +151,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 170</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Moon Domain: Channel Divinity: Mind of Two Moons</name>
-        <text>Starting at 6th level, you can use your Channel Divinity to invoke the twofold arcana of Exandria's moons. By expending one use of Channel Divinity, you can cast a second concentration spell while already concentrating on a first spell, as long as both spells are on your list of Moon Domain spells. If you need to make a Constitution saving throw to maintain your concentration on both spells, you make the save with disadvantage. On a failure, you lose concentration on both spells.
+        <text>Starting at 6th level, you can use your Channel Divinity to invoke the twofold arcana of Exandria&apos;s moons. By expending one use of Channel Divinity, you can cast a second concentration spell while already concentrating on a first spell, as long as both spells are on your list of Moon Domain spells. If you need to make a Constitution saving throw to maintain your concentration on both spells, you make the save with disadvantage. On a failure, you lose concentration on both spells.
 
 Source:	Tal'Dorei Campaign Setting: Reborn p. 170</text>
       </feature>
@@ -169,7 +169,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 171</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Moon Domain: Eclipse of Ill Omen</name>
-        <text>At 17th level, you can call upon the vermillion moon Ruidus to flare in the sky above you, eclipsing all other light. Its power surrounds you even where the sky can't be seen, and even on other planes. As a bonus action, you can manifest an area of reddish, dim light in a 60-foot radius around you. In addition to the normal effects of dim light, creatures in the area make saving throws with disadvantage. When you create this eclipse, you can choose any number of creatures that are unaffected by it.
+        <text>At 17th level, you can call upon the vermillion moon Ruidus to flare in the sky above you, eclipsing all other light. Its power surrounds you even where the sky can&apos;t be seen, and even on other planes. As a bonus action, you can manifest an area of reddish, dim light in a 60-foot radius around you. In addition to the normal effects of dim light, creatures in the area make saving throws with disadvantage. When you create this eclipse, you can choose any number of creatures that are unaffected by it.
 
 This eclipse lasts while you concentrate (as if concentrating on a spell) for up to 1 minute. Concentrating on this feature counts as concentrating on a Moon Domain spell for the purpose of your Mind of Two Moons feature.
 

@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <monster>
     <name>Apprentice</name>
@@ -24,7 +25,7 @@
     <passive>10</passive>
     <languages>any one language (usually Common)</languages>
     <cr/>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 201</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 201</description>
     <trait>
       <name>Spellcasting</name>
       <text>
@@ -45,7 +46,7 @@ Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 − 1) blud
       <name>Burning Hands (1st-Level Spell; 2/Day)</name>
       <recharge>2/Day</recharge>
       <text>
-You shoot forth a 15-foot cone of fire. Each creature in that area must make a DC 11 Dexterity saving throw. A creature takes 10 (3d6) fire damage on a failed save, or half as much damage on a successful one The fire ignites any flammable objects in the area that aren't being worn or carried.</text>
+You shoot forth a 15-foot cone of fire. Each creature in that area must make a DC 11 Dexterity saving throw. A creature takes 10 (3d6) fire damage on a failed save, or half as much damage on a successful one The fire ignites any flammable objects in the area that aren&apos;t being worn or carried.</text>
       <attack/>
     </action>
     <action>
@@ -53,7 +54,7 @@ You shoot forth a 15-foot cone of fire. Each creature in that area must make a D
       <text>
 Ranged Spell Attack: Ranged Spell Attack: +3 to hit, range 120 ft., one target. Hit: 5 (1d10) fire damage.
 
-A flammable object hit by this spell ignites if it isn't being worn or carried.</text>
+A flammable object hit by this spell ignites if it isn&apos;t being worn or carried.</text>
       <attack/>
     </action>
     <spells>minor illusion, fire bolt, burning hands, grease</spells>
@@ -83,11 +84,11 @@ A flammable object hit by this spell ignites if it isn't being worn or carried.<
     <passive>12</passive>
     <languages>Deep Speech, telepathy 120 ft.</languages>
     <cr>7</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 226</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 226</description>
     <trait>
       <name>Podling Link</name>
       <text>
-The plant can see through and communicate telepathically with any of its podlings within 10 miles of it. Rejuvenation. When the plant dies, it returns to life in the place where it died 1d12 months later, unless the ground where it took root is sown with salt or soaked with poison. Unusual Nature. The plant doesn't require sleep.</text>
+The plant can see through and communicate telepathically with any of its podlings within 10 miles of it. Rejuvenation. When the plant dies, it returns to life in the place where it died 1d12 months later, unless the ground where it took root is sown with salt or soaked with poison. Unusual Nature. The plant doesn&apos;t require sleep.</text>
       <text/>
     </trait>
     <action>
@@ -106,9 +107,9 @@ If the target is a creature, it is grappled (escape DC 15). Until the grapple en
     <action>
       <name>Entrapping Pod</name>
       <text>
-Melee Weapon Attack: +7 to hit, reach 5 ft., one Medium or smaller creature grappled by the plant. Hit: 22 (4d8 + 4) acid damage, and the target is pulled into the plant's space and enveloped by the pod, and the grapple ends.
+Melee Weapon Attack: +7 to hit, reach 5 ft., one Medium or smaller creature grappled by the plant. Hit: 22 (4d8 + 4) acid damage, and the target is pulled into the plant&apos;s space and enveloped by the pod, and the grapple ends.
 
-While enveloped, the target is restrained, and it has total cover against attacks and effects originating outside the pod. The enveloped target must also immediately succeed on a DC 16 Constitution saving throw or be stunned by the plant's sapping enzymes until it is removed from the pod or the plant dies. The enveloped target doesn't require air and gains 1 level of exhaustion for each hour it spends in the pod. If the target dies while enveloped, it immediately emerges from the pod as a living podling, wearing or carrying all of the original creature's equipment. As an action, a creature within 5 feet of the bodytaker plant that is outside the pod can open the pod and pull the target free with a successful DC 15 Strength check. If the plant dies, the target is no longer restrained and can escape from the pod by spending 10 feet of movement, exiting prone. The plant has one pod, which can envelop one creature at a time.</text>
+While enveloped, the target is restrained, and it has total cover against attacks and effects originating outside the pod. The enveloped target must also immediately succeed on a DC 16 Constitution saving throw or be stunned by the plant&apos;s sapping enzymes until it is removed from the pod or the plant dies. The enveloped target doesn&apos;t require air and gains 1 level of exhaustion for each hour it spends in the pod. If the target dies while enveloped, it immediately emerges from the pod as a living podling, wearing or carrying all of the original creature&apos;s equipment. As an action, a creature within 5 feet of the bodytaker plant that is outside the pod can open the pod and pull the target free with a successful DC 15 Strength check. If the plant dies, the target is no longer restrained and can escape from the pod by spending 10 feet of movement, exiting prone. The plant has one pod, which can envelop one creature at a time.</text>
     </action>
     <attack>Entrapping Pod|+7|4d8+4</attack>
   </monster>
@@ -134,9 +135,9 @@ While enveloped, the target is restrained, and it has total cover against attack
     <conditionImmune>charmed, exhaustion, frightened</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>10</passive>
-    <languages>understands the languages it knew in life but can't speak</languages>
+    <languages>understands the languages it knew in life but can&apos;t speak</languages>
     <cr>1</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 228</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 228</description>
     <trait>
       <name>Compression</name>
       <text>
@@ -146,7 +147,7 @@ The boneless can move through any opening at least 1 inch wide without squeezing
     <trait>
       <name>Unusual Nature</name>
       <text>
-The boneless doesn't require air, food, drink, or sleep.</text>
+The boneless doesn&apos;t require air, food, drink, or sleep.</text>
       <text/>
     </trait>
     <action>
@@ -163,7 +164,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit:5 (1d4 + 3) bludgeo
     <action>
       <name>Crushing Embrace</name>
       <text>
-The boneless wraps its body around a Large or smaller creature grappled by it. While the boneless is attached, the target is blinded and is unable to breathe. The target must succeed on a DC 13 Strength saving throw at the start of each of the boneless' turns or take 5 (1d4 + 3) bludgeoning damage.
+The boneless wraps its body around a Large or smaller creature grappled by it. While the boneless is attached, the target is blinded and is unable to breathe. The target must succeed on a DC 13 Strength saving throw at the start of each of the boneless&apos; turns or take 5 (1d4 + 3) bludgeoning damage.
 
 If something moves the target, the boneless moves with it. The boneless can detach itself by spending 5 feet of its movement. A creature, including the target, can use its action to try to detach the boneless and force it to move into the nearest unoccupied space, doing so with a successful DC 13 Strength check. When the boneless dies, it detaches from any creature it is attached to.</text>
       <attack>Crushing Embrace||1d4+3</attack>
@@ -193,7 +194,7 @@ If something moves the target, the boneless moves with it. The boneless can deta
     <passive>10</passive>
     <languages>the languages it knew in life</languages>
     <cr>3</cr>
-    <description>Source:	Icewind Dale: Rime of the Frostmaiden p. 279, Lost Laboratory of Kwalish p. 38, Van Richten's Guide to Ravenloft p. 278</description>
+    <description>Source:	Icewind Dale: Rime of the Frostmaiden p. 279, Lost Laboratory of Kwalish p. 38, Van Richten&apos;s Guide to Ravenloft p. 278</description>
     <trait>
       <name>Detect Sentience</name>
       <text>
@@ -209,7 +210,7 @@ The brain has advantage on saving throws against spells and other magical effect
     <trait>
       <name>Unusual Nature</name>
       <text>
-The brain doesn't require air, food, drink, or sleep.</text>
+The brain doesn&apos;t require air, food, drink, or sleep.</text>
       <text/>
     </trait>
     <trait>
@@ -219,15 +220,15 @@ The brain casts one of the following spells, requiring no components and using I
 
 	• At will: detect thoughts, mage hand, zone of truth
 	• 3/Day each: charm person, hold person
-	• 1/Day each: compulsion, hold monster, sleep (3rd-level version), Tasha's hideous laughter</text>
+	• 1/Day each: compulsion, hold monster, sleep (3rd-level version), Tasha&apos;s hideous laughter</text>
       <text/>
     </trait>
     <action>
       <name>Chill Touch (Cantrip)</name>
       <text>
-Ranged Spell Attack: +6 to hit, range 120 ft., one creature. Hit: 13 (3d8) necrotic damage, and the target can't regain hit points until the start of the brain's next turn.
+Ranged Spell Attack: +6 to hit, range 120 ft., one creature. Hit: 13 (3d8) necrotic damage, and the target can&apos;t regain hit points until the start of the brain&apos;s next turn.
 
-If the target is Undead, it also has disadvantage on attack rolls against the brain until the end of the brain's next turn.</text>
+If the target is Undead, it also has disadvantage on attack rolls against the brain until the end of the brain&apos;s next turn.</text>
       <attack>Chill Touch||3d8</attack>
     </action>
     <action>
@@ -237,7 +238,7 @@ If the target is Undead, it also has disadvantage on attack rolls against the br
 The brain magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 14 Intelligence saving throw or take 17 (3d8 + 4) psychic damage and be stunned for 1 minute. A stunnedcreature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
       <attack>Mind Blast||3d8+4</attack>
     </action>
-    <spells>detect thoughts, mage hand, zone of truth, charm person, hold person, compulsion, hold monster, sleep (3rd-level version), Tasha's hideous laughter</spells>
+    <spells>detect thoughts, mage hand, zone of truth, charm person, hold person, compulsion, hold monster, sleep (3rd-level version), Tasha&apos;s hideous laughter</spells>
   </monster>
   <monster>
     <name>Carrion Stalker</name>
@@ -263,7 +264,7 @@ The brain magically emits psychic energy in a 60-foot cone. Each creature in tha
     <passive>11</passive>
     <languages>—</languages>
     <cr>3</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 230</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 230</description>
     <action>
       <name>Multiattack</name>
       <text>
@@ -272,7 +273,7 @@ The carrion stalker makes three Tentacle attacks. If it is attached to a creatur
     <action>
       <name>Tentacle</name>
       <text>
-Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage, and the carrion stalker attaches to the target and pulls itself into the target's space.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage, and the carrion stalker attaches to the target and pulls itself into the target&apos;s space.
 
 While attached, the carrion stalker moves with the target and has advantage on attack rolls against it. A creature can use its action to try to detach the carrion stalker and force it to move into the nearest unoccupied space, doing so with a successful DC 11 Strength check. On its turn, the carrion stalker can detach itself from the target by using 5 feet of movement. When it dies, the carrion stalker detaches from any creature it is attached to.</text>
       <attack>Tentacle|+5|1d4+3</attack>
@@ -309,17 +310,17 @@ The carrion stalker releases a burst of larvae in a 10-foot-radius sphere center
     <passive>12</passive>
     <languages>understands the languages of its creator</languages>
     <cr>1</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 231</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 231</description>
     <trait>
       <name>False Object</name>
       <text>
-If the carrionette is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the carrionette move or act, that creature must succeed on a DC 15 Wisdom (Perception) check to discern that the carrionette is animate.</text>
+If the carrionette is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn&apos;t observed the carrionette move or act, that creature must succeed on a DC 15 Wisdom (Perception) check to discern that the carrionette is animate.</text>
       <text/>
     </trait>
     <trait>
       <name>Unusual Nature</name>
       <text>
-The carrionette doesn't require air, food, drink, or sleep.</text>
+The carrionette doesn&apos;t require air, food, drink, or sleep.</text>
       <text/>
     </trait>
     <action>
@@ -327,19 +328,19 @@ The carrionette doesn't require air, food, drink, or sleep.</text>
       <text>
 Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 1 piercing damage plus 3 (1d6) necrotic damage, and the target must succeed on a DC 12 Charisma saving throw or become cursed for 1 minute.
 
-While cursed in this way, the target's speed is reduced by 10 feet, and it must roll a d4 and subtract the number rolled from each ability check or attack roll it makes.</text>
+While cursed in this way, the target&apos;s speed is reduced by 10 feet, and it must roll a d4 and subtract the number rolled from each ability check or attack roll it makes.</text>
       <attack>Silver Needle|+4|1+1d6</attack>
     </action>
     <action>
       <name>Soul Swap</name>
       <text>
-The carrionette targets a creature it can see within 15 feet of it that is cursed by its Silver Needle. Unless the target is protected by a protection from evil and good spell, it must succeed on a DC 12 Charisma saving throw or have its consciousness swapped with the carrionette. The carrionette gains control of the target's body, and the target is unconsciousfor 1 hour, after which it gains control of the carrionette's body. While controlling the target's body, the carrionette retains its Intelligence, Wisdom, and Charisma scores. It otherwise uses the controlled body's statistics, but doesn't gain access to the target's knowledge, class features, or proficiencies.
-If the carrionette's body is destroyed, both the carrionette and the target die. A protection from evil and good spell cast on the controlled body drives the carrionette out and returns the consciousness of both creatures to their original bodies. The swap is also undone if the controlled body takes damage from the carrionette's Silver Needle.</text>
+The carrionette targets a creature it can see within 15 feet of it that is cursed by its Silver Needle. Unless the target is protected by a protection from evil and good spell, it must succeed on a DC 12 Charisma saving throw or have its consciousness swapped with the carrionette. The carrionette gains control of the target&apos;s body, and the target is unconsciousfor 1 hour, after which it gains control of the carrionette&apos;s body. While controlling the target&apos;s body, the carrionette retains its Intelligence, Wisdom, and Charisma scores. It otherwise uses the controlled body&apos;s statistics, but doesn&apos;t gain access to the target&apos;s knowledge, class features, or proficiencies.
+If the carrionette&apos;s body is destroyed, both the carrionette and the target die. A protection from evil and good spell cast on the controlled body drives the carrionette out and returns the consciousness of both creatures to their original bodies. The swap is also undone if the controlled body takes damage from the carrionette&apos;s Silver Needle.</text>
       <attack>Soul Swap</attack>
     </action>
   </monster>
   <monster>
-    <name>Death's Head</name>
+    <name>Death&apos;s Head</name>
     <size>T</size>
     <type>undead</type>
     <alignment/>
@@ -362,17 +363,17 @@ If the carrionette's body is destroyed, both the carrionette and the target die.
     <passive>12</passive>
     <languages>—</languages>
     <cr>1/2</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 232</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 232</description>
     <trait>
       <name>Beheaded Form</name>
       <text>
-When created, a death's head takes one of three forms: Aberrant Head, Gnashing Head, or Petrifying Head. This form determines the creature's attack.</text>
+When created, a death&apos;s head takes one of three forms: Aberrant Head, Gnashing Head, or Petrifying Head. This form determines the creature&apos;s attack.</text>
       <text/>
     </trait>
     <trait>
       <name>Unusual Nature</name>
       <text>
-The death's head doesn't require air, food, drink, or sleep.</text>
+The death&apos;s head doesn&apos;t require air, food, drink, or sleep.</text>
       <text/>
     </trait>
     <action>
@@ -384,7 +385,7 @@ Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) pierci
     <action>
       <name>Mind-Bending Bite (Aberrant Head Only)</name>
       <text>
-Melee Weapon Attack:+3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage plus 5 (1d10) necrotic damage, and the target must succeed on a DC 10 Intelligence saving throw or it can't take a reaction until the end of its next turn.
+Melee Weapon Attack:+3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage plus 5 (1d10) necrotic damage, and the target must succeed on a DC 10 Intelligence saving throw or it can&apos;t take a reaction until the end of its next turn.
 
 Moreover, on its next turn, the target must choose whether it gets a move, an action, or a bonus action; it gets only one of the three.</text>
       <attack>Mind-Bending Bite|+3|1d6+1+1d10</attack>
@@ -422,7 +423,7 @@ The target must repeat the saving throw at the end of its next turn. On a succes
     <passive>13</passive>
     <languages>any one language (usually Common)</languages>
     <cr/>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 201</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 201</description>
     <trait>
       <name>Spellcasting</name>
       <text>
@@ -470,14 +471,14 @@ The target gains no benefit from cover for this saving throw.</text>
     <conditionImmune>charmed, frightened, poisoned</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>16</passive>
-    <languages>understands the languages it knew in life but can't speak</languages>
+    <languages>understands the languages it knew in life but can&apos;t speak</languages>
     <cr>10</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 233</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 233</description>
     <trait>
       <name>Headless Summoning (Recharges after a Short or Long Rest)</name>
       <recharge>SHORT</recharge>
       <text>
-If the dullahan is reduced to 0 hit points, it doesn't die or fall unconscious. Instead, it regains 97 hit points. In addition, it summons three death's heads, one of each type, in unoccupied spaces within 5 feet of it. The death's heads are under the dullahan's control and act immediately after the dullahan in the initiative order. Additionally, the dullahan can now use the options in the "Mythic Actions" section. Award a party an additional 5,900 XP (11,800 XP total) for defeating the dullahan after it uses Headless Summoning</text>
+If the dullahan is reduced to 0 hit points, it doesn&apos;t die or fall unconscious. Instead, it regains 97 hit points. In addition, it summons three death&apos;s heads, one of each type, in unoccupied spaces within 5 feet of it. The death&apos;s heads are under the dullahan&apos;s control and act immediately after the dullahan in the initiative order. Additionally, the dullahan can now use the options in the "Mythic Actions" section. Award a party an additional 5,900 XP (11,800 XP total) for defeating the dullahan after it uses Headless Summoning</text>
       <text/>
     </trait>
     <trait>
@@ -490,7 +491,7 @@ If the dullahan fails a saving throw, it can choose to succeed instead.</text>
     <trait>
       <name>Unusual Nature</name>
       <text>
-The dullahan doesn't require air, food, drink, or sleep.</text>
+The dullahan doesn&apos;t require air, food, drink, or sleep.</text>
       <text/>
     </trait>
     <action>
@@ -503,7 +504,7 @@ The dullahan makes two attacks.</text>
       <text>
 Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands, plus 11 (2d10) necrotic damage.
 
-If the dullahan scores a critical hit against a creature, the target must succeed on a DC 15 Constitution saving throw or the dullahan cuts off the target's head. The target dies if it can't survive without the lost head. A creature that doesn't have or need a head, or has legendary actions, instead takes an extra 27 (6d8) slashing damage.</text>
+If the dullahan scores a critical hit against a creature, the target must succeed on a DC 15 Constitution saving throw or the dullahan cuts off the target&apos;s head. The target dies if it can&apos;t survive without the lost head. A creature that doesn&apos;t have or need a head, or has legendary actions, instead takes an extra 27 (6d8) slashing damage.</text>
       <attack>Battleaxe|+8|1d8+4</attack>
       <attack>Battleaxe (Two-Handed)|+8|1d10+4+2d10</attack>
     </action>
@@ -517,7 +518,7 @@ Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 14 (2d10 + 3) fi
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
       <text>
-The dullahan can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dullahan regains spent legendary actions at the start of its turn.</text>
+The dullahan can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The dullahan regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Attack</name>
@@ -527,7 +528,7 @@ The dullahan makes one attack.</text>
     <legendary>
       <name>Frightful Presence (Costs 2 Actions)</name>
       <text>
-Each creature of the dullahan's choice within 30 feet of it must succeed on a DC 15 Wisdom saving throw or become frightened of the dullahan until the end of its next turn.</text>
+Each creature of the dullahan&apos;s choice within 30 feet of it must succeed on a DC 15 Wisdom saving throw or become frightened of the dullahan until the end of its next turn.</text>
     </legendary>
     <legendary>
       <name>Head Hunt (Costs 3 Actions)</name>
@@ -537,17 +538,17 @@ The dullahan moves up to its speed without provoking opportunity attacks and mak
     <legendary>
       <name>Mythic Actions</name>
       <text>
-If the dullahan's Headless Summoning trait is active, it can use the options below as legendary actions.</text>
+If the dullahan&apos;s Headless Summoning trait is active, it can use the options below as legendary actions.</text>
     </legendary>
     <legendary>
       <name>Coordinated Assault</name>
       <text>
-The dullahan makes a Battleaxe attack, and then one death's head the dullahan can see within 30 feet of it can use its reaction to make a melee attack.</text>
+The dullahan makes a Battleaxe attack, and then one death&apos;s head the dullahan can see within 30 feet of it can use its reaction to make a melee attack.</text>
     </legendary>
     <legendary>
       <name>Headless Wail (Costs 2 Actions)</name>
       <text>
-An echoing shriek issues from the dullahan's headless stump. Each creature of the dullahan's choice within 10 feet of it must make a DC 15 Wisdom saving throw. Each creature takes 16 (3d10) psychic damage on a failed save, or half as much damage on a successful one. If one or more creatures fail the saving throw, the dullahan gains 10 temporary hit points.</text>
+An echoing shriek issues from the dullahan&apos;s headless stump. Each creature of the dullahan&apos;s choice within 10 feet of it must make a DC 15 Wisdom saving throw. Each creature takes 16 (3d10) psychic damage on a failed save, or half as much damage on a successful one. If one or more creatures fail the saving throw, the dullahan gains 10 temporary hit points.</text>
     </legendary>
   </monster>
   <monster>
@@ -568,13 +569,13 @@ An echoing shriek issues from the dullahan's headless stump. Each creature of th
     <skill/>
     <resist/>
     <vulnerable/>
-    <immune>Cold, Lightning, Poison; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Adamantine</immune>
+    <immune>Cold, Lightning, Poison; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren&apos;t Adamantine</immune>
     <conditionImmune> Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
-    <passive>10Understands the languages of its creator but can't speak</passive>
+    <passive>10Understands the languages of its creator but can&apos;t speak</passive>
     <languages/>
     <cr>5</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 143</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 143</description>
     <trait>
       <name>Immutable Form</name>
       <text>
@@ -596,7 +597,7 @@ Elise has advantage on saving throws against spells and other magical effects.</
     <trait>
       <name>Magic Weapons</name>
       <text>
-Elise's weapon attacks are magical.</text>
+Elise&apos;s weapon attacks are magical.</text>
       <text/>
     </trait>
     <action>
@@ -637,7 +638,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludg
     <passive>17</passive>
     <languages>any languages its component spirits knew in life</languages>
     <cr>6</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 234</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 234</description>
     <trait>
       <name>Divination Senses</name>
       <text>
@@ -653,19 +654,19 @@ The gallows speaker can move through other creatures and objects as if they were
     <trait>
       <name>Unusual Nature</name>
       <text>
-The gallows speaker doesn't require air, food, drink, or sleep.</text>
+The gallows speaker doesn&apos;t require air, food, drink, or sleep.</text>
       <text/>
     </trait>
     <action>
       <name>Foretelling Touch</name>
       <text>
-Melee Spell Attack: +7 to hit, reach 5 ft., one creature. Hit: 15 (2d10 + 4) psychic damage, and the target must roll a d4 and subtract the number rolled from the next attack roll or saving throw it makes before the start of the gallows speaker's next turn.</text>
+Melee Spell Attack: +7 to hit, reach 5 ft., one creature. Hit: 15 (2d10 + 4) psychic damage, and the target must roll a d4 and subtract the number rolled from the next attack roll or saving throw it makes before the start of the gallows speaker&apos;s next turn.</text>
       <attack>Foretelling Touch|+7|2d10+4</attack>
     </action>
     <action>
       <name>Suffering Echoes</name>
       <text>
-The gallows speaker targets a creature it can see within 30 feet of it. The target must make a DC 15 Wisdom saving throw. On a failed save, the target takes 19 (3d12) psychic damage, and waves of painful memories leap from the target to up to three other creatures of the gallows speaker's choice that are within 30 feet of the target, each of which takes 13 (3d8) psychic damage.</text>
+The gallows speaker targets a creature it can see within 30 feet of it. The target must make a DC 15 Wisdom saving throw. On a failed save, the target takes 19 (3d12) psychic damage, and waves of painful memories leap from the target to up to three other creatures of the gallows speaker&apos;s choice that are within 30 feet of the target, each of which takes 13 (3d8) psychic damage.</text>
       <attack>Suffering Echoes||3d12</attack>
     </action>
   </monster>
@@ -693,7 +694,7 @@ The gallows speaker targets a creature it can see within 30 feet of it. The targ
     <passive>23</passive>
     <languages>all, telepathy 1,000 ft.</languages>
     <cr>21</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 245</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 245</description>
     <trait>
       <name>Legendary Resistance (4/Day)</name>
       <recharge>4/Day</recharge>
@@ -704,7 +705,7 @@ If the emissary fails a saving throw, it can choose to succeed instead.</text>
     <trait>
       <name>Unusual Nature</name>
       <text>
-The emissary doesn't require air, food, drink, or sleep.</text>
+The emissary doesn&apos;t require air, food, drink, or sleep.</text>
       <text/>
     </trait>
     <action>
@@ -735,7 +736,7 @@ The emissary expels bile that splashes all creatures in a 30-foot-radius sphere 
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
       <text>
-The emissary can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The emissary regains spent legendary actions at the start of its turn.</text>
+The emissary can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The emissary regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Attack</name>
@@ -752,7 +753,7 @@ The emissary causes the ground in a 20-foot square that it can see within 90 fee
       <text>
 The emissary unleashes a psychic wave. Each creature within 30 feet of the emissary must succeed on a DC 23 Wisdom saving throw or take 32 (5d12) psychic damage.
 
-In addition, every spell ends on creatures and objects of the emissary's choice in that area.</text>
+In addition, every spell ends on creatures and objects of the emissary&apos;s choice in that area.</text>
     </legendary>
   </monster>
   <monster>
@@ -777,9 +778,9 @@ In addition, every spell ends on creatures and objects of the emissary's choice 
     <conditionImmune/>
     <senses>darkvision 30 ft.</senses>
     <passive>10</passive>
-    <languages>understands Common but can't speak</languages>
+    <languages>understands Common but can&apos;t speak</languages>
     <cr>1/8</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 235</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 235</description>
     <action>
       <name>Bite</name>
       <text>
@@ -794,7 +795,7 @@ Immediately after a creature within 30 feet of the gremishka casts a spell, the 
 
 1–2. The gremishka emanates magical energy. Each creature within 30 feet of the gremishka must succeed on a DC 10 Constitution saving throw or take 3 (1d6) force damage.
 3–4. The gremishka surges with magical energy and regains 3 (1d6) hit points.
-5–6. The gremishka explodes and dies, and one swarm of gremishkas instantly appears in the space where this gremishka died. The swarm uses the gremishka's initiative.</text>
+5–6. The gremishka explodes and dies, and one swarm of gremishkas instantly appears in the space where this gremishka died. The swarm uses the gremishka&apos;s initiative.</text>
     </reaction>
   </monster>
   <monster>
@@ -821,7 +822,7 @@ Immediately after a creature within 30 feet of the gremishka casts a spell, the 
     <passive>16</passive>
     <languages>any three languages, telepathy 120 ft.</languages>
     <cr>8</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 248</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 248</description>
     <trait>
       <name>Innate Spellcasting (Psionics)</name>
       <text>
@@ -846,14 +847,14 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashi
     <action>
       <name>Mind Fire</name>
       <text>
-The inquisitor targets one creature it can see within 120 feet of it. The target must succeed on a DC 15 Intelligence saving throw or take 17 (3d8 + 4) psychic damage and be stunned until the start of the inquisitor's next turn.</text>
+The inquisitor targets one creature it can see within 120 feet of it. The target must succeed on a DC 15 Intelligence saving throw or take 17 (3d8 + 4) psychic damage and be stunned until the start of the inquisitor&apos;s next turn.</text>
       <attack>Mind Fire||3d8+4</attack>
     </action>
     <action>
-      <name>Inquisitor's Command (Recharge 5-6)</name>
+      <name>Inquisitor&apos;s Command (Recharge 5-6)</name>
       <recharge>D5</recharge>
       <text>
-Each creature of the inquisitor's choice that it can see within 60 feet of it must succeed on a DC 15 Wisdom saving throw or be charmed until the start of the inquisitor's next turn. On the charmed target's turn, the inquisitor can telepathically control the target's move, action, or both. When controlled in this way, the target can take only the Attack (inquisitor chooses the target) or Dash action.</text>
+Each creature of the inquisitor&apos;s choice that it can see within 60 feet of it must succeed on a DC 15 Wisdom saving throw or be charmed until the start of the inquisitor&apos;s next turn. On the charmed target&apos;s turn, the inquisitor can telepathically control the target&apos;s move, action, or both. When controlled in this way, the target can take only the Attack (inquisitor chooses the target) or Dash action.</text>
       <attack/>
     </action>
     <spells>arcane eye, calm emotions, detect magic, detect thoughts, dispel magic, sending, suggestion, mass suggestion, modify memory</spells>
@@ -882,7 +883,7 @@ Each creature of the inquisitor's choice that it can see within 60 feet of it mu
     <passive>17</passive>
     <languages>any two languages, telepathy 120 ft.</languages>
     <cr>8</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 249</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 249</description>
     <trait>
       <name>Metabolic Control</name>
       <text>
@@ -942,14 +943,14 @@ The inquisitor teleports up to 60 feet to an unoccupied space it can see.</text>
     <passive>13</passive>
     <languages>any four languages, telepathy 120 ft.</languages>
     <cr>8</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 249</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 249</description>
     <trait>
       <name>Innate Spellcasting (Psionics)</name>
       <text>
 The inquisitor casts one of the following spells, requiring no components and using Intelligence as the spellcasting ability (spell saveDC 15):
 
 	• At will: detect magic, dispel magic, levitate, mage armor, mage hand, sending
-	• 1/Day each: Otiluke's resilient sphere, telekinesis</text>
+	• 1/Day each: Otiluke&apos;s resilient sphere, telekinesis</text>
       <text/>
     </trait>
     <action>
@@ -974,7 +975,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashi
       <name>Implode (Recharge 4-6)</name>
       <recharge>D4</recharge>
       <text>
-Each creature in a 20-foot-radius sphere centered on a point the inquisitor can see within 120 feet of it must succeed on a DC 15 Constitution saving throw or take 31 (6d8 + 4) force damage and be knocked prone and moved to the unoccupied space closest to the sphere's center. Large and smaller objects that aren't being worn or carried in the sphere automatically take the damage and are similarly moved.</text>
+Each creature in a 20-foot-radius sphere centered on a point the inquisitor can see within 120 feet of it must succeed on a DC 15 Constitution saving throw or take 31 (6d8 + 4) force damage and be knocked prone and moved to the unoccupied space closest to the sphere&apos;s center. Large and smaller objects that aren&apos;t being worn or carried in the sphere automatically take the damage and are similarly moved.</text>
       <attack>Implode||6d8+4</attack>
     </action>
     <reaction>
@@ -1007,7 +1008,7 @@ In response to being hit by an attack roll, the inquisitor increases its AC by 4
     <passive>14</passive>
     <languages>Abyssal, Common, Infernal</languages>
     <cr>5</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 86</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 86</description>
     <trait>
       <name>Fiendish Blessing</name>
       <text>
@@ -1017,7 +1018,7 @@ The AC of Isolde includes her Charisma bonus.</text>
     <trait>
       <name>Innate Spellcasting</name>
       <text>
- Isolde's spellcasting ability is Charisma (spell save DC 14). Isolde can innately cast the following spells, requiring no material components:
+ Isolde&apos;s spellcasting ability is Charisma (spell save DC 14). Isolde can innately cast the following spells, requiring no material components:
 
 	• 3/Day each: alter self, command, detect magic
 	• 1/Day: plane shift (self only)</text>
@@ -1051,7 +1052,7 @@ Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 10 (3d6) fire da
     <action>
       <name>Fiendish Charm</name>
       <text>
-One humanoid Isolde can see within 30 feet of it must succeed on a DC 14 Wisdom saving throw or be magically charmed for 1 day. The charmed target obeys Isolde's spoken commands. If the target suffers any harm from Isolde or another creature or receives a suicidal command from Isolde, the target can repeat the saving throw, ending the effect on itself on a success. If a target's saving throw is successful, or if the effect ends for it, the creature is immune to Isolde's Fiendish Charm for the next 24 hours.</text>
+One humanoid Isolde can see within 30 feet of it must succeed on a DC 14 Wisdom saving throw or be magically charmed for 1 day. The charmed target obeys Isolde&apos;s spoken commands. If the target suffers any harm from Isolde or another creature or receives a suicidal command from Isolde, the target can repeat the saving throw, ending the effect on itself on a success. If a target&apos;s saving throw is successful, or if the effect ends for it, the creature is immune to Isolde&apos;s Fiendish Charm for the next 24 hours.</text>
     </action>
     <spells>alter self, command, detect magic, plane shift (self only)</spells>
     <slots/>
@@ -1080,7 +1081,7 @@ One humanoid Isolde can see within 30 feet of it must succeed on a DC 14 Wisdom 
     <passive>12</passive>
     <languages>any languages it knew in life</languages>
     <cr>9</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 236</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 236</description>
     <trait>
       <name>Jiangshi Weaknesses</name>
       <text>
@@ -1090,7 +1091,7 @@ The jiangshi has the following flaws: Fear of Its Own Reflection. If the jiangsh
     <trait>
       <name>Unusual Nature</name>
       <text>
-The jiangshi doesn't require air.</text>
+The jiangshi doesn&apos;t require air.</text>
       <text/>
     </trait>
     <action>
@@ -1108,13 +1109,13 @@ Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit:13 (2d8 + 4) bludge
       <name>Consume Energy</name>
       <text>
 The jiangshi draws energy from a creature it can see within 30 feet of it. The target makes a DC 16 Constitution saving throw, taking 18 (4d8) necrotic damage on a failed save, or half as much damage on a successful one. The jiangshi regains hit points equal to the amount of necrotic damage dealt. After regaining hit points from this action, the jiangshi gains the following benefits for 7 days: its walking speed increases to 40 feet, and it gains a flying speed equal to its walking speed and can hover.
-A Humanoid slain by this necrotic damage rises as a wight (see its entry in the Monster Manual) at the end of the jiangshi's turn. The wight acts immediately after the jiangshi in the initiative order. If this wight slays a Humanoid with its Life Drain, the wight transforms into a jiangshi 5 days later.</text>
+A Humanoid slain by this necrotic damage rises as a wight (see its entry in the Monster Manual) at the end of the jiangshi&apos;s turn. The wight acts immediately after the jiangshi in the initiative order. If this wight slays a Humanoid with its Life Drain, the wight transforms into a jiangshi 5 days later.</text>
       <attack>Consume Energy||4d8</attack>
     </action>
     <action>
       <name>Change Shape</name>
       <text>
-The jiangshi polymorphs into a Beast, a Humanoid, or an Undead that is Medium or Small or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying is absorbed or borne by the new form (the jiangshi's choice). It reverts to its true form if it dies.</text>
+The jiangshi polymorphs into a Beast, a Humanoid, or an Undead that is Medium or Small or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying is absorbed or borne by the new form (the jiangshi&apos;s choice). It reverts to its true form if it dies.</text>
     </action>
   </monster>
   <monster>
@@ -1141,11 +1142,11 @@ The jiangshi polymorphs into a Beast, a Humanoid, or an Undead that is Medium or
     <passive>21</passive>
     <languages>all, telepathy 1,000 ft.</languages>
     <cr>19</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 245</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 245</description>
     <trait>
       <name>Aberrant Rejuvenation</name>
       <text>
-When the emissary drops to 0 hit points, its body melts away. A greater star spawn emissary instantly appears in an unoccupied space within 60 feet of where the lesser emissary disappeared. The greater emissary uses the lesser emissary's initiative count.</text>
+When the emissary drops to 0 hit points, its body melts away. A greater star spawn emissary instantly appears in an unoccupied space within 60 feet of where the lesser emissary disappeared. The greater emissary uses the lesser emissary&apos;s initiative count.</text>
       <text/>
     </trait>
     <trait>
@@ -1158,7 +1159,7 @@ If the emissary fails a saving throw, it can choose to succeed instead.</text>
     <trait>
       <name>Unusual Nature</name>
       <text>
-The emissary doesn't require air, food, drink, or sleep.</text>
+The emissary doesn&apos;t require air, food, drink, or sleep.</text>
       <text/>
     </trait>
     <action>
@@ -1181,14 +1182,14 @@ Ranged Spell Attack: +13 to hit, range 120 ft., one creature. Hit: 18 (2d10 + 7)
     <action>
       <name>Change Shape</name>
       <text>
-The emissary polymorphs into a Small or Medium creature of its choice or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.</text>
+The emissary polymorphs into a Small or Medium creature of its choice or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn&apos;t transformed.</text>
       <attack/>
     </action>
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
       <text>
-The emissary can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The emissary regains spent legendary actions at the start of its turn.</text>
+The emissary can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The emissary regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Psychic Orb</name>
@@ -1203,7 +1204,7 @@ The emissary teleports to an unoccupied space it can see within 30 feet of it an
     <legendary>
       <name>Psychic Lash (Costs 3 Actions)</name>
       <text>
-The emissary targets a creature it can see within 30 feet of it and psychically lashes at that creature's mind. The target must succeed on a DC 21 Wisdom saving throw or take 36 (8d8) psychic damage and be stunneduntil the start of its next turn.</text>
+The emissary targets a creature it can see within 30 feet of it and psychically lashes at that creature&apos;s mind. The target must succeed on a DC 21 Wisdom saving throw or take 36 (8d8) psychic damage and be stunneduntil the start of its next turn.</text>
     </legendary>
   </monster>
   <monster>
@@ -1228,13 +1229,13 @@ The emissary targets a creature it can see within 30 feet of it and psychically 
     <conditionImmune>charmed, frightened</conditionImmune>
     <senses>darkvision 120 ft.</senses>
     <passive>23</passive>
-    <languages>Common (can't speak in wolf form)</languages>
+    <languages>Common (can&apos;t speak in wolf form)</languages>
     <cr>13</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 237</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 237</description>
     <trait>
       <name>Blood Frenzy</name>
       <text>
-The loup garou has advantage on attack rolls against a creature that doesn't have all its hit points.</text>
+The loup garou has advantage on attack rolls against a creature that doesn&apos;t have all its hit points.</text>
       <text/>
     </trait>
     <trait>
@@ -1247,7 +1248,7 @@ When the loup garou fails a saving throw, it can choose to succeed instead.</tex
     <trait>
       <name>Regeneration</name>
       <text>
-The loup garou regains 10 hit points at the start of each of its turns. If the loup garou takes damage from a silver weapon, this trait doesn't function at the start of the loup garou's next turn. The loup garou dies only if it starts its turn with 0 hit points and doesn't regenerate.</text>
+The loup garou regains 10 hit points at the start of each of its turns. If the loup garou takes damage from a silver weapon, this trait doesn&apos;t function at the start of the loup garou&apos;s next turn. The loup garou dies only if it starts its turn with 0 hit points and doesn&apos;t regenerate.</text>
       <text/>
     </trait>
     <action>
@@ -1281,13 +1282,13 @@ Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slash
     <action>
       <name>Change Shape (Bonus Action)</name>
       <text>
-The loup garou polymorphs into a Large wolf-humanoid hybrid or into a Large dire wolf, or back into its true form, which appears humanoid. Its statistics, other than its size and speed, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</text>
+The loup garou polymorphs into a Large wolf-humanoid hybrid or into a Large dire wolf, or back into its true form, which appears humanoid. Its statistics, other than its size and speed, are the same in each form. Any equipment it is wearing or carrying isn&apos;t transformed. It reverts to its true form if it dies.</text>
     </action>
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
       <text>
-The loup garou can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The loup garou regains spent legendary actions at the start of its turn.</text>
+The loup garou can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature&apos;s turn. The loup garou regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Swipe</name>
@@ -1329,7 +1330,7 @@ The loup garou changes into hybrid or dire wolf form and then makes one Bite att
     <passive>11</passive>
     <languages>any three languages, telepathy 120 ft.</languages>
     <cr>7</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 238</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 238</description>
     <trait>
       <name>Legendary Resistance (2/Day)</name>
       <recharge>2/Day</recharge>
@@ -1352,7 +1353,7 @@ The necrichor can climb difficult surfaces, including upside down on ceilings, w
     <trait>
       <name>Unusual Nature</name>
       <text>
-The necrichor doesn't require air, food, drink, or sleep.</text>
+The necrichor doesn&apos;t require air, food, drink, or sleep.</text>
       <text/>
     </trait>
     <action>
@@ -1363,22 +1364,22 @@ The necrichor makes two attacks.</text>
     <action>
       <name>Pseudopod</name>
       <text>
-Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 5 (1d6 + 2) necrotic damage, and the target must succeed on a DC 14 Constitution saving throw or be paralyzeduntil the start of the necrichor's next turn.</text>
+Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 5 (1d6 + 2) necrotic damage, and the target must succeed on a DC 14 Constitution saving throw or be paralyzeduntil the start of the necrichor&apos;s next turn.</text>
       <attack>Pseudopod|+5|1d6+2</attack>
     </action>
     <action>
       <name>Necrotic Bolt</name>
       <text>
-Ranged Spell Attack: +6 to hit, range 120 ft., one creature. Hit: 12 (2d8 + 3) necrotic damage, and the target can't regain hit points until the start of the necrichor's next turn.</text>
+Ranged Spell Attack: +6 to hit, range 120 ft., one creature. Hit: 12 (2d8 + 3) necrotic damage, and the target can&apos;t regain hit points until the start of the necrichor&apos;s next turn.</text>
       <attack>Necrotic Bolt|+6|2d8+3</attack>
     </action>
     <action>
       <name>Blood Puppeteering (Recharge 6)</name>
       <recharge>D6</recharge>
       <text>
-The necrichor targets a creature it can see within 5 feet of it that is missing any of its hit points. If the target isn't a Construct or an Undead, it must succeed on a DC 14 Constitution saving throw or the necrichor enters the target's space and attaches itself to the target for 1 minute. While attached, the necrichor takes only half damage dealt to it (round down), and the target takes the remaining damage.
+The necrichor targets a creature it can see within 5 feet of it that is missing any of its hit points. If the target isn&apos;t a Construct or an Undead, it must succeed on a DC 14 Constitution saving throw or the necrichor enters the target&apos;s space and attaches itself to the target for 1 minute. While attached, the necrichor takes only half damage dealt to it (round down), and the target takes the remaining damage.
 
-The necrichor can attach to only one creature at a time. The attached necrichor can telepathically control the target's move, action, or both. When controlled this way, the target can take only the Attack action (necrichor chooses the target) or the Dash action. The attached target can repeat the saving throw at the end of each of its turns, detaching from the necrichor and forcing it to move into the nearest unoccupied space on a success.</text>
+The necrichor can attach to only one creature at a time. The attached necrichor can telepathically control the target&apos;s move, action, or both. When controlled this way, the target can take only the Attack action (necrichor chooses the target) or the Dash action. The attached target can repeat the saving throw at the end of each of its turns, detaching from the necrichor and forcing it to move into the nearest unoccupied space on a success.</text>
     </action>
   </monster>
   <monster>
@@ -1405,11 +1406,11 @@ The necrichor can attach to only one creature at a time. The attached necrichor 
     <passive>16</passive>
     <languages>the languages it knew in life</languages>
     <cr>8</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 239</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 239</description>
     <trait>
       <name>Regeneration</name>
       <text>
-The nosferatu regains 10 hit points at the start of each of its turns if it has at least 1 hit point and isn't in sunlight. If the nosferatu takes radiant damage, this trait doesn't function until the start of the nosferatu's next turn.</text>
+The nosferatu regains 10 hit points at the start of each of its turns if it has at least 1 hit point and isn&apos;t in sunlight. If the nosferatu takes radiant damage, this trait doesn&apos;t function until the start of the nosferatu&apos;s next turn.</text>
       <text/>
     </trait>
     <trait>
@@ -1427,7 +1428,7 @@ The nosferatu takes 20 radiant damage when it starts its turn in sunlight. While
     <trait>
       <name>Unusual Nature</name>
       <text>
-The nosferatu doesn't require air.</text>
+The nosferatu doesn&apos;t require air.</text>
       <text/>
     </trait>
     <action>
@@ -1448,14 +1449,14 @@ Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 9 (1d8 + 5) pier
 
 If the target is missing any of its hit points, it instead takes 11 (2d10) necrotic damage.
 
-The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the nosferatu regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0. A Humanoid slain in this way and then buried in the ground rises as a nosferatu after 1d10 days.</text>
+The target&apos;s hit point maximum is reduced by an amount equal to the necrotic damage taken, and the nosferatu regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0. A Humanoid slain in this way and then buried in the ground rises as a nosferatu after 1d10 days.</text>
       <attack>Bite|+8|1d8+5+2d6</attack>
     </action>
     <action>
       <name>Blood Disgorge (Recharge 5-6)</name>
       <recharge>D5</recharge>
       <text>
-The nosferatu vomits blood in a 15-foot cone. Each creature in that area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 18 (4d8) necrotic damage, and it can't regain hit points for 1 minute. On a successful save, the creature takes half as much damage with no additional effects.</text>
+The nosferatu vomits blood in a 15-foot cone. Each creature in that area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 18 (4d8) necrotic damage, and it can&apos;t regain hit points for 1 minute. On a successful save, the creature takes half as much damage with no additional effects.</text>
       <attack>Blood Disgorge||4d8</attack>
     </action>
   </monster>
@@ -1483,17 +1484,17 @@ The nosferatu vomits blood in a 15-foot cone. Each creature in that area must ma
     <passive>10</passive>
     <languages>Deep Speech, the languages the creature knew in life</languages>
     <cr>1/2</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 227</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 227</description>
     <trait>
       <name>Semblance of Life</name>
       <text>
-The podling is a physical copy of a creature digested by a bodytaker plant. The podling has the digested creature's memories and behaves like that creature, but with occasional lapses. An observer familiar with the digested creature can recognize the discrepancies with a successful DC 20 Wisdom (Insight) check, or automatically if the podling does something in direct contradiction to the digested creature's established beliefs or behavior. The podling melts into a slurry when it dies, when the bodytaker plant that created it dies, or when the bodytaker plant dismisses it (no action required).</text>
+The podling is a physical copy of a creature digested by a bodytaker plant. The podling has the digested creature&apos;s memories and behaves like that creature, but with occasional lapses. An observer familiar with the digested creature can recognize the discrepancies with a successful DC 20 Wisdom (Insight) check, or automatically if the podling does something in direct contradiction to the digested creature&apos;s established beliefs or behavior. The podling melts into a slurry when it dies, when the bodytaker plant that created it dies, or when the bodytaker plant dismisses it (no action required).</text>
       <text/>
     </trait>
     <trait>
       <name>Unusual Nature</name>
       <text>
-The podling doesn't require sleep.</text>
+The podling doesn&apos;t require sleep.</text>
       <text/>
     </trait>
     <action>
@@ -1527,14 +1528,14 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit:5 (1d6 + 2) bludgeo
     <passive>13</passive>
     <languages>any three languages</languages>
     <cr>6</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 241</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 241</description>
     <trait>
       <name>Tattoo of Osybus</name>
       <text>
 If the priest drops to 0 hit points, roll on the Boons of Undeath table for the boon the priest receives. The priest dies if it receives a boon it already has. If it receives a new boon, it revives at the start of its next turn with half its hit points restored, and its creature type is now Undead.
-To prevent this revival, the Tattoo of Osybus on the priest's body must be destroyed. The tattoo is invulnerable while the priest has at least 1 hit point. The tattoo is otherwise an object with AC 15, and it is immune to poison and psychic damage.
+To prevent this revival, the Tattoo of Osybus on the priest&apos;s body must be destroyed. The tattoo is invulnerable while the priest has at least 1 hit point. The tattoo is otherwise an object with AC 15, and it is immune to poison and psychic damage.
 
-It has 15 hit points, but it regains all its hit points at the end of every combatant's turn.</text>
+It has 15 hit points, but it regains all its hit points at the end of every combatant&apos;s turn.</text>
       <text/>
     </trait>
     <action>
@@ -1545,21 +1546,21 @@ The priest attacks twice.</text>
     <action>
       <name>Soul Blade</name>
       <text>
-Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage, and if the target is a creature, it is paralyzed until the start of the priest's next turn.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage, and if the target is a creature, it is paralyzed until the start of the priest&apos;s next turn.
 
-If this damage reduces a Medium or smaller creature to 0 hit points, the creature dies, and its soul is trapped in the priest's body, manifesting as a shadowy Soul Tattoo on the priest. The soul is freed if the priest dies.</text>
+If this damage reduces a Medium or smaller creature to 0 hit points, the creature dies, and its soul is trapped in the priest&apos;s body, manifesting as a shadowy Soul Tattoo on the priest. The soul is freed if the priest dies.</text>
       <attack>Soul Blade|+5|2d4+2</attack>
     </action>
     <action>
       <name>Necrotic Bolt</name>
       <text>
-Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 17 (3d8 + 4) necrotic damage, and the target can't regain hit points until the start of the priest's next turn.</text>
+Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 17 (3d8 + 4) necrotic damage, and the target can&apos;t regain hit points until the start of the priest&apos;s next turn.</text>
       <attack>Necrotic Bolt|+7|3d8+4</attack>
     </action>
     <action>
       <name>Soul Tattoo (Recharge 5–6) (Bonus Action)</name>
       <text>
-The priest touches one of the Soul Tattoos on its body. The tattoo vanishes as the trapped soul manifests as a shadowy creature that appears in an unoccupied space the priest can see within 30 feet of it. The creature has the size and silhouette of its original body, but it otherwise uses the stat block of a shadow. The shadow obeys the priest's mental commands (no action required) and takes its turn immediately after the priest. If the creature is within 5 feet of the priest, it can turn back into a tattoo as an action, reappearing on the priest's flesh and regaining all its hit points.</text>
+The priest touches one of the Soul Tattoos on its body. The tattoo vanishes as the trapped soul manifests as a shadowy creature that appears in an unoccupied space the priest can see within 30 feet of it. The creature has the size and silhouette of its original body, but it otherwise uses the stat block of a shadow. The shadow obeys the priest&apos;s mental commands (no action required) and takes its turn immediately after the priest. If the creature is within 5 feet of the priest, it can turn back into a tattoo as an action, reappearing on the priest&apos;s flesh and regaining all its hit points.</text>
       <attack/>
     </action>
   </monster>
@@ -1585,9 +1586,9 @@ The priest touches one of the Soul Tattoos on its body. The tattoo vanishes as t
     <conditionImmune>charmed, exhaustion, frightened</conditionImmune>
     <senses>darkvision 120 ft.</senses>
     <passive>16</passive>
-    <languages>understands all languages but can't speak</languages>
+    <languages>understands all languages but can&apos;t speak</languages>
     <cr>12</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 243</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 243</description>
     <trait>
       <name>Legendary Resistance (3/Day)</name>
       <recharge>3/Day</recharge>
@@ -1598,13 +1599,13 @@ If the juggernaut fails a saving throw, it can choose to succeed instead.</text>
     <trait>
       <name>Regeneration</name>
       <text>
-The juggernaut regains 20 hit points at the start of its turn. If the juggernaut takes radiant damage, this trait doesn't function at the start of its next turn. The juggernaut dies only if it starts its turn with 0 hit points and doesn't regenerate.</text>
+The juggernaut regains 20 hit points at the start of its turn. If the juggernaut takes radiant damage, this trait doesn&apos;t function at the start of its next turn. The juggernaut dies only if it starts its turn with 0 hit points and doesn&apos;t regenerate.</text>
       <text/>
     </trait>
     <trait>
       <name>Unusual Nature</name>
       <text>
-The juggernaut doesn't require air, food, drink, or sleep.</text>
+The juggernaut doesn&apos;t require air, food, drink, or sleep.</text>
       <text/>
     </trait>
     <action>
@@ -1613,10 +1614,10 @@ The juggernaut doesn't require air, food, drink, or sleep.</text>
 The juggernaut makes two attacks. It can replace one attack with Deadly Shaping if it is ready.</text>
     </action>
     <action>
-      <name>Executioner's Pick</name>
+      <name>Executioner&apos;s Pick</name>
       <text>
-Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 17 (2d10 + 6) piercing damage, and if the target is a creature, its speed is reduced by 10 feet until the start of the juggernaut's next turn.</text>
-      <attack>Executioner's Pick</attack>
+Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 17 (2d10 + 6) piercing damage, and if the target is a creature, its speed is reduced by 10 feet until the start of the juggernaut&apos;s next turn.</text>
+      <attack>Executioner&apos;s Pick</attack>
     </action>
     <action>
       <name>Fist</name>
@@ -1628,9 +1629,9 @@ Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit:11 (1d10 + 6) blud
       <name>Deadly Shaping (Recharge 5-6)</name>
       <recharge>D5</recharge>
       <text>
-The juggernaut magically shapes a feature of its surroundings into a deadly implement. A creature the juggernaut can see within 60 feet of it must make a DC 18 Dexterity saving throw. If the saving throw fails, the targeted creature is struck by one of the following (juggernaut's choice):
+The juggernaut magically shapes a feature of its surroundings into a deadly implement. A creature the juggernaut can see within 60 feet of it must make a DC 18 Dexterity saving throw. If the saving throw fails, the targeted creature is struck by one of the following (juggernaut&apos;s choice):
 
-Flying Stone. The target takes 22 (5d8) bludgeoning damage and is incapacitated until the start of the juggernaut's next turn, and the implement vanishes.
+Flying Stone. The target takes 22 (5d8) bludgeoning damage and is incapacitated until the start of the juggernaut&apos;s next turn, and the implement vanishes.
 Scything Shrapnel. The target takes 14 (4d6) slashing damage, and the implement vanishes.
 
 At the start of each of its turns, the target takes 10 (3d6) necrotic damage from the wound left by the shrapnel. The wound ends if the target regains any hit points or if a creature uses an action to stanch the wound, which requires a successful DC 15 Wisdom (Medicine) check.</text>
@@ -1640,12 +1641,12 @@ At the start of each of its turns, the target takes 10 (3d6) necrotic damage fro
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
       <text>
-The juggernaut can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The juggernaut regains spent legendary actions at the start of its turn.</text>
+The juggernaut can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature&apos;s turn. The juggernaut regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Implacable Advance</name>
       <text>
-The juggernaut moves up to its speed, ignoring difficult terrain. Any object in its path takes 55 (10d10) bludgeoning damage if it isn't being worn or carried.</text>
+The juggernaut moves up to its speed, ignoring difficult terrain. Any object in its path takes 55 (10d10) bludgeoning damage if it isn&apos;t being worn or carried.</text>
     </legendary>
     <legendary>
       <name>Rapid Shaping (Costs 3 Actions)</name>
@@ -1675,9 +1676,9 @@ The juggernaut recharges Deadly Shaping and uses it.</text>
     <conditionImmune>charmed, frightened</conditionImmune>
     <senses>darkvision 120 ft.</senses>
     <passive>15</passive>
-    <languages>understands all languages but can't speak</languages>
+    <languages>understands all languages but can&apos;t speak</languages>
     <cr>8</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 242</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 242</description>
     <trait>
       <name>Legendary Resistance (1/Day)</name>
       <recharge>1/Day</recharge>
@@ -1688,27 +1689,27 @@ If the slasher fails a saving throw, it can choose to succeed instead.</text>
     <trait>
       <name>Shrouded Presence</name>
       <text>
-The slasher is immune to any effect that would sense its emotions or read its thoughts, and it can't be detected by abilities that sense Fiends.</text>
+The slasher is immune to any effect that would sense its emotions or read its thoughts, and it can&apos;t be detected by abilities that sense Fiends.</text>
       <text/>
     </trait>
     <action>
       <name>Multiattack</name>
       <text>
-The slasher makes two Slasher's Knife attacks.</text>
+The slasher makes two Slasher&apos;s Knife attacks.</text>
     </action>
     <action>
-      <name>Slasher's Knife</name>
+      <name>Slasher&apos;s Knife</name>
       <text>
 Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 30/60 ft., one target. Hit: 6 (1d4 + 4) slashing damage plus 21 (6d6) necrotic damage.
 
 If the target is a creature, it suffers a lingering wound that causes it to take 7 (2d6) necrotic damage at the start of each of its turns. Each time the slasher hits the wounded target with this attack, the damage dealt by the wound increases by 3 (1d6). The wound ends if the target regains hit points or if a creature uses an action to stanch the wound, which requires a successful DC 15 Wisdom (Medicine) check.</text>
-      <attack>Slasher's Knife|+7|1d4+4+6d6</attack>
+      <attack>Slasher&apos;s Knife|+7|1d4+4+6d6</attack>
     </action>
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
       <text>
-The slasher can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The slasher regains spent legendary actions at the start of its turn.</text>
+The slasher can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature&apos;s turn. The slasher regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Slice</name>
@@ -1718,7 +1719,7 @@ Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 30/60 ft., one ta
     <legendary>
       <name>Vanishing Strike (Costs 3 Actions)</name>
       <text>
-The slasher makes one Slasher's Knife attack. After the attack hits or misses, the slasher can teleport up to 30 feet to an unoccupied space it can see.</text>
+The slasher makes one Slasher&apos;s Knife attack. After the attack hits or misses, the slasher can teleport up to 30 feet to an unoccupied space it can see.</text>
     </legendary>
   </monster>
   <monster>
@@ -1745,7 +1746,7 @@ The slasher makes one Slasher's Knife attack. After the attack hits or misses, t
     <passive>11</passive>
     <languages>any one language (usually Common)</languages>
     <cr/>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 201</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 201</description>
     <action>
       <name>Dagger</name>
       <text>
@@ -1784,7 +1785,7 @@ You take the Disengage action.</text>
     <passive>10</passive>
     <languages>any one language (usually Common)</languages>
     <cr/>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 201</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 201</description>
     <action>
       <name>Longsword</name>
       <text>
@@ -1824,7 +1825,7 @@ While wielding a shield, you try to shove one creature within 5 feet of you.</te
     <passive>15</passive>
     <languages>Common</languages>
     <cr>4</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 246</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 246</description>
     <trait>
       <name>Stirge Telepathy</name>
       <text>
@@ -1854,7 +1855,7 @@ A creature reduced to 0 hit points from this attack dies and leaves nothing behi
       <name>Ravenous Children (1/Day)</name>
       <recharge>1/Day</recharge>
       <text>
-The strigoi magically summons 1d4 + 2 stirges (see their entry in the Monster Manual) in unoccupied spaces it can see within 30 feet of it. The stirges are under the strigoi's control and act immediately after the strigoi in the initiative order. The stirges disappear after 1 hour, when the strigoi dies, or when the strigoi dismisses them (no action required).</text>
+The strigoi magically summons 1d4 + 2 stirges (see their entry in the Monster Manual) in unoccupied spaces it can see within 30 feet of it. The stirges are under the strigoi&apos;s control and act immediately after the strigoi in the initiative order. The stirges disappear after 1 hour, when the strigoi dies, or when the strigoi dismisses them (no action required).</text>
       <attack/>
     </action>
   </monster>
@@ -1880,9 +1881,9 @@ The strigoi magically summons 1d4 + 2 stirges (see their entry in the Monster Ma
     <conditionImmune>charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned</conditionImmune>
     <senses>darkvision 30 ft.</senses>
     <passive>14</passive>
-    <languages>understands Common but can't speak</languages>
+    <languages>understands Common but can&apos;t speak</languages>
     <cr>2</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 235</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 235</description>
     <trait>
       <name>Limited Spell Immunity</name>
       <text>
@@ -1892,13 +1893,13 @@ The swarm automatically succeeds on saving throws against spells of 3rd level or
     <trait>
       <name>Swarm</name>
       <text>
-The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny gremishka. The swarm can't regain hit points or gain temporary hit points.</text>
+The swarm can occupy another creature&apos;s space and vice versa, and the swarm can move through any opening large enough for a Tiny gremishka. The swarm can&apos;t regain hit points or gain temporary hit points.</text>
       <text/>
     </trait>
     <action>
       <name>Bites</name>
       <text>
-Melee Weapon Attack: +4 to hit, reach 0 ft., one target in the swarm's space. Hit: 12 (3d6 + 2) piercing damage, or 5 (1d6 + 2) piercing damage if the swarm has half of its hit points or fewer, plus 7 (2d6) force damage.</text>
+Melee Weapon Attack: +4 to hit, reach 0 ft., one target in the swarm&apos;s space. Hit: 12 (3d6 + 2) piercing damage, or 5 (1d6 + 2) piercing damage if the swarm has half of its hit points or fewer, plus 7 (2d6) force damage.</text>
       <attack>Bites|+4|3d6+2</attack>
     </action>
     <reaction>
@@ -1931,22 +1932,22 @@ In response to a spell attack roll missing the swarm, the swarm causes that spel
     <passive>8</passive>
     <languages>—</languages>
     <cr>2</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 247</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 247</description>
     <trait>
       <name>Swarm</name>
       <text>
-The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny maggot. The swarm can't regain hit points or gain temporary hit points.</text>
+The swarm can occupy another creature&apos;s space and vice versa, and the swarm can move through any opening large enough for a Tiny maggot. The swarm can&apos;t regain hit points or gain temporary hit points.</text>
       <text/>
     </trait>
     <action>
       <name>Infestation</name>
       <text>
-Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer. A creature damaged by the swarm must succeed on a DC 12 Constitution saving throw or contract a disease.
-Each time the diseased creature finishes a long rest, roll a d6 to determine the disease's effect:
+Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm&apos;s space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer. A creature damaged by the swarm must succeed on a DC 12 Constitution saving throw or contract a disease.
+Each time the diseased creature finishes a long rest, roll a d6 to determine the disease&apos;s effect:
 
 1–2. The creature is blinded until it finishes a long rest.
-3–4. The creature's hit point maximum decreases by 5 (2d4), and the reduction can't be removed until the disease ends. The creature dies if its hit point maximum drops to 0.
-5–6. The creature has disadvantage on ability checks and attack rolls until it finishes its next long rest. The disease lasts until it's removed by magic or until the creature rolls the same random effect for the disease two long rests in a row.</text>
+3–4. The creature&apos;s hit point maximum decreases by 5 (2d4), and the reduction can&apos;t be removed until the disease ends. The creature dies if its hit point maximum drops to 0.
+5–6. The creature has disadvantage on ability checks and attack rolls until it finishes its next long rest. The disease lasts until it&apos;s removed by magic or until the creature rolls the same random effect for the disease two long rests in a row.</text>
     </action>
   </monster>
   <monster>
@@ -1973,11 +1974,11 @@ Each time the diseased creature finishes a long rest, roll a d6 to determine the
     <passive>11</passive>
     <languages>—</languages>
     <cr>3</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 247</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 247</description>
     <trait>
       <name>Swarm</name>
       <text>
-The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny scarab. The swarm can't regain hit points or gain temporary hit points.</text>
+The swarm can occupy another creature&apos;s space and vice versa, and the swarm can move through any opening large enough for a Tiny scarab. The swarm can&apos;t regain hit points or gain temporary hit points.</text>
       <text/>
     </trait>
     <trait>
@@ -1995,7 +1996,7 @@ The swarm can climb difficult surfaces, including upside down on ceilings, witho
     <action>
       <name>Ravenous Bites</name>
       <text>
-Melee Weapon Attack: +4 to hit, reach 0 ft., one target in the swarm's space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer. If the target is a creature, scarabs burrow into its body, and the creature takes 3 (1d6) piercing damage at the start of each of its turns. Any creature can use an action to kill or remove the scarabs with fire or a weapon that deals piercing damage, causing 1 damage of the appropriate type to the target. A creature reduced to 0 hit points by the swarm's piercing damage dies</text>
+Melee Weapon Attack: +4 to hit, reach 0 ft., one target in the swarm&apos;s space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer. If the target is a creature, scarabs burrow into its body, and the creature takes 3 (1d6) piercing damage at the start of each of its turns. Any creature can use an action to kill or remove the scarabs with fire or a weapon that deals piercing damage, causing 1 damage of the appropriate type to the target. A creature reduced to 0 hit points by the swarm&apos;s piercing damage dies</text>
       <attack>Ravenous Bites|+4|4d6</attack>
     </action>
   </monster>
@@ -2023,17 +2024,17 @@ Melee Weapon Attack: +4 to hit, reach 0 ft., one target in the swarm's space. Hi
     <passive>9</passive>
     <languages>—</languages>
     <cr>1</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 254</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 254</description>
     <trait>
       <name>Swarm</name>
       <text>
-The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny limb. The swarm can't regain hit points or gain temporary hit points.</text>
+The swarm can occupy another creature&apos;s space and vice versa, and the swarm can move through any opening large enough for a Tiny limb. The swarm can&apos;t regain hit points or gain temporary hit points.</text>
       <text/>
     </trait>
     <trait>
       <name>Unusual Nature</name>
       <text>
-The swarm doesn't require air, food, drink, or sleep.</text>
+The swarm doesn&apos;t require air, food, drink, or sleep.</text>
       <text/>
     </trait>
     <action>
@@ -2044,15 +2045,15 @@ The swarm makes one Undead Mass attack and one Grasping Limbs attack.</text>
     <action>
       <name>Undead Mass</name>
       <text>
-Melee Weapon Attack: +4 to hit, reach 0 ft., one target in the swarm's space. Hit: 5 (1d6 + 2) bludgeoning damage, or 4 (1d4 + 2) bludgeoning damage if the swarm has half of its hit points or fewer.</text>
+Melee Weapon Attack: +4 to hit, reach 0 ft., one target in the swarm&apos;s space. Hit: 5 (1d6 + 2) bludgeoning damage, or 4 (1d4 + 2) bludgeoning damage if the swarm has half of its hit points or fewer.</text>
       <attack>Undead Mass|+4|1d6+2</attack>
     </action>
     <action>
       <name>Grasping Limbs</name>
       <text>
-Melee Weapon Attack: +4 to hit, reach 0 ft., one creature in the swarm's space. Hit: 7 (2d6) necrotic damage, and the creature must succeed on a DC 12 Strength saving throw or be restrained.
+Melee Weapon Attack: +4 to hit, reach 0 ft., one creature in the swarm&apos;s space. Hit: 7 (2d6) necrotic damage, and the creature must succeed on a DC 12 Strength saving throw or be restrained.
 
-The creature can repeat the saving throw at the end of each of its turns, taking 7 (2d6) necrotic damage on a failed save. The creature is freed if it succeeds on this saving throw, the swarm moves out of the creature's space, or the swarm dies.</text>
+The creature can repeat the saving throw at the end of each of its turns, taking 7 (2d6) necrotic damage on a failed save. The creature is freed if it succeeds on this saving throw, the swarm moves out of the creature&apos;s space, or the swarm dies.</text>
       <attack>Grasping Limbs|+4|2d6</attack>
     </action>
   </monster>
@@ -2080,11 +2081,11 @@ The creature can repeat the saving throw at the end of each of its turns, taking
     <passive>15</passive>
     <languages>—</languages>
     <cr>8</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 250</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 250</description>
     <trait>
       <name>Formed by the Mists</name>
       <text>
-When created, the horror's body composition takes one of four forms: Aberrant Armor, Loathsome Limbs, Malleable Mass, or Oozing Organs. This form determines certain traits in this stat block.</text>
+When created, the horror&apos;s body composition takes one of four forms: Aberrant Armor, Loathsome Limbs, Malleable Mass, or Oozing Organs. This form determines certain traits in this stat block.</text>
       <text/>
     </trait>
     <trait>
@@ -2102,7 +2103,7 @@ Any creature that touches the horror or hits it with a melee attack takes 5 (1d1
     <trait>
       <name>Relentless Stride (Loathsome Limbs Only)</name>
       <text>
-The horror can move through the space of another creature. The first time on a turn that the horror enters a creature's space during this move, the creature must succeed on a DC 16 Strength saving throw or be knocked prone.</text>
+The horror can move through the space of another creature. The first time on a turn that the horror enters a creature&apos;s space during this move, the creature must succeed on a DC 16 Strength saving throw or be knocked prone.</text>
       <text/>
     </trait>
     <action>
@@ -2148,7 +2149,7 @@ The horror expels necrotic energy in a 30-foot cone. Each creature in that area 
     <passive>15</passive>
     <languages>telepathy 120 ft. but can only project emotions</languages>
     <cr>5</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 252</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 252</description>
     <trait>
       <name>Spider Climb</name>
       <text>
@@ -2164,7 +2165,7 @@ While in sunlight, the mind flayer has disadvantage on attack rolls, as well as 
     <trait>
       <name>Unusual Nature</name>
       <text>
-The mind flayer doesn't require air, food, or sleep.</text>
+The mind flayer doesn&apos;t require air, food, or sleep.</text>
       <text/>
     </trait>
     <action>
@@ -2219,9 +2220,9 @@ The mind flayer magically emits psionic energy in a 30-foot-radius sphere center
     <conditionImmune/>
     <senses/>
     <passive>16</passive>
-    <languages>Common (can't speak in raven form)</languages>
+    <languages>Common (can&apos;t speak in raven form)</languages>
     <cr>2</cr>
-    <description>Source:	Curse of Strahd p. 242, Van Richten's Guide to Ravenloft p. 253, Candlekeep Mysteries p. 47</description>
+    <description>Source:	Curse of Strahd p. 242, Van Richten&apos;s Guide to Ravenloft p. 253, Candlekeep Mysteries p. 47</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -2236,7 +2237,7 @@ The wereraven can mimic simple sounds it has heard, such as a person whispering,
     <trait>
       <name>Regeneration</name>
       <text>
-The wereraven regains 10 hit points at the start of its turn. If the wereraven takes damage from a silvered weapon or a spell, this trait doesn't function at the start of the wereraven's next turn. The wereraven dies only if it starts its turn with 0 hit points and doesn't regenerate.</text>
+The wereraven regains 10 hit points at the start of its turn. If the wereraven takes damage from a silvered weapon or a spell, this trait doesn&apos;t function at the start of the wereraven&apos;s next turn. The wereraven dies only if it starts its turn with 0 hit points and doesn&apos;t regenerate.</text>
       <text/>
     </trait>
     <action>
@@ -2265,7 +2266,7 @@ Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) 
     <action>
       <name>Change Shape</name>
       <text>
-The wereraven polymorphs into a raven–humanoid hybrid or into a Tiny raven, or back into its humanoid form. Its statistics, other than its size and speed, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its humanoid form if it dies.</text>
+The wereraven polymorphs into a raven–humanoid hybrid or into a Tiny raven, or back into its humanoid form. Its statistics, other than its size and speed, are the same in each form. Any equipment it is wearing or carrying isn&apos;t transformed. It reverts to its humanoid form if it dies.</text>
     </action>
   </monster>
   <monster>
@@ -2290,13 +2291,13 @@ The wereraven polymorphs into a raven–humanoid hybrid or into a Tiny raven, or
     <conditionImmune>charmed, exhaustion, paralyzed, petrified, poisoned, stunned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>9</passive>
-    <languages>understands the languages it knew in life but can't speak</languages>
+    <languages>understands the languages it knew in life but can&apos;t speak</languages>
     <cr>6</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 255</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 255</description>
     <trait>
       <name>Deathly Stench</name>
       <text>
-Any creature that starts its turn within 10 feet of the zombie must succeed on a DC 14 Constitution saving throw or take 9 (2d8) poison damage and be poisoned until the start of the creature's next turn.</text>
+Any creature that starts its turn within 10 feet of the zombie must succeed on a DC 14 Constitution saving throw or take 9 (2d8) poison damage and be poisoned until the start of the creature&apos;s next turn.</text>
       <text/>
     </trait>
     <trait>
@@ -2308,7 +2309,7 @@ If damage reduces the zombie to 0 hit points, it must make a Constitution saving
     <trait>
       <name>Unusual Nature</name>
       <text>
-The zombie doesn't require air, food, drink, or sleep.</text>
+The zombie doesn&apos;t require air, food, drink, or sleep.</text>
       <text/>
     </trait>
     <action>
@@ -2354,9 +2355,9 @@ A creature entombed in the dead flesh is restrained, has total cover against att
     <conditionImmune>charmed, exhaustion, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>7</passive>
-    <languages>understands the languages it knew in life but can't speak</languages>
+    <languages>understands the languages it knew in life but can&apos;t speak</languages>
     <cr>4</cr>
-    <description>Source:	Van Richten's Guide to Ravenloft p. 255</description>
+    <description>Source:	Van Richten&apos;s Guide to Ravenloft p. 255</description>
     <trait>
       <name>Undead Fortitude</name>
       <text>
@@ -2366,13 +2367,13 @@ If damage reduces the plague spreader to 0 hit points, it must make a Constituti
     <trait>
       <name>Unusual Nature</name>
       <text>
-The plague spreader doesn't require air, food, drink, or sleep.</text>
+The plague spreader doesn&apos;t require air, food, drink, or sleep.</text>
       <text/>
     </trait>
     <trait>
       <name>Viral Aura</name>
       <text>
-Any creature that starts its turn within 10 feet of the plague spreader must make a DC 12 Constitution saving throw. On a failed save, the creature is poisoned and can't regain hit points until the end of its next turn. On a successful save, the creature is immune to this plague spreader's Viral Aura for 24 hours.</text>
+Any creature that starts its turn within 10 feet of the plague spreader must make a DC 12 Constitution saving throw. On a failed save, the creature is poisoned and can&apos;t regain hit points until the end of its next turn. On a successful save, the creature is immune to this plague spreader&apos;s Viral Aura for 24 hours.</text>
       <text/>
     </trait>
     <action>

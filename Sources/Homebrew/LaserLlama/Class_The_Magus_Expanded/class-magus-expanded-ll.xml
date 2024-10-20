@@ -11,7 +11,7 @@ Source:	LaserLlama: The Magus Expanded v4.2.1 p. 3 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Order of Armorers: Arcane Armorer</name>
-        <text>You have studied metallurgy and smithing along with the arts common to every Magi; spellcasting and martial combat. You gain proficiency in smith's tools and with heavy armor.
+        <text>You have studied metallurgy and smithing along with the arts common to every Magi; spellcasting and martial combat. You gain proficiency in smith&apos;s tools and with heavy armor.
 
 Moreover, whenever you make an ability check that makes use of your smith's tools, you gain a bonus to your roll equal to your Intelligence modifier (minimum of +1).
 
@@ -44,7 +44,7 @@ Source:	LaserLlama: The Magus Expanded v4.2.1 p. 3 (Homebrew)</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Order of Armorers: Armorer's Focus</name>
+        <name>Order of Armorers: Armorer&apos;s Focus</name>
         <text>You are able to concentrate on one Magus spell while you are concentrating on your Awakened Armory. If you are forced to make a Constitution saving throw to maintain concentration, you make one saving throw for both effects.
 
 Source:	LaserLlama: The Magus Expanded v4.2.1 p. 4 (Homebrew)</text>
@@ -306,7 +306,7 @@ Source:	LaserLlama: The Magus Expanded v4.2.1 p. 7 (Homebrew)</text>
     <autolevel level="15">
       <feature optional="YES">
         <name>Order of Shades: Cloud the Mind</name>
-        <text>You can penetrate the minds of your foes with your potent illusion magic. As an action, you can force one creature you can see within 30 feet to make an Intelligence saving throw against your Magus Spell save DC. On a failed save, it can't see, hear, smell, or sense you in any way for 1 minute. On a success, it is immune to this effect for 24 hours. This effect immediately ends if you attack, touch, or force the creature to make an ability check or saving throw.
+        <text>You can penetrate the minds of your foes with your potent illusion magic. As an action, you can force one creature you can see within 30 feet to make an Intelligence saving throw against your Magus Spell save DC. On a failed save, it can&apos;t see, hear, smell, or sense you in any way for 1 minute. On a success, it is immune to this effect for 24 hours. This effect immediately ends if you attack, touch, or force the creature to make an ability check or saving throw.
 
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all uses when you finish a long rest. When you have no uses left, you can expend a spell slot to use this feature again.
 
@@ -336,7 +336,7 @@ Source:	LaserLlama: The Magus Expanded v4.2.1 p. 8 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Order of Spellswords: Martial Exploits</name>
-        <text>You have studied various martial exploits to augment your Order's magical abilities. You gain the following features:
+        <text>You have studied various martial exploits to augment your Order&apos;s magical abilities. You gain the following features:
 
 Exploit Dice:
 The Spellsword Exploits table shows how many Exploit Dice you have to use your Exploits. To use an Exploit, you expend an Exploit Die, and you regain all your expended Exploit Dice when you finish a short or long rest.
@@ -378,7 +378,7 @@ Magus Level | Exploits Known | Exploit Die | Exploit Dice | High Degree
 Source:	LaserLlama: The Magus Expanded v4.2.1 p. 8 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Order of Spellswords: Spellsword's Armory</name>
+        <name>Order of Spellswords: Spellsword&apos;s Armory</name>
         <text>You have learned to store knowledge of combat styles within your Arcane Armory. You learn one additional Fighting Style of your choice from those available to the Magus class, but your knowledge of that Fighting Style is stored within your Arcane Armory, much like a weapon or set of armor.
 
 When you use a bonus action to conjure objects from your Arcane Armory, you can draw knowledge of that Fighting Style into your mind, shunting knowledge of your current Fighting Style into your Arcane Armory.

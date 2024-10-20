@@ -130,7 +130,7 @@ Melee Weapon Attack: +14 to hit, reach 20 ft., one target. Hit: 45 (8d8 + 9) blu
     <vulnerable/>
     <immune/>
     <conditionImmune>exhaustion</conditionImmune>
-    <senses>blindsight 60 ft. (can't see beyond this radius)</senses>
+    <senses>blindsight 60 ft. (can&apos;t see beyond this radius)</senses>
     <passive>8</passive>
     <languages/>
     <cr>1</cr>
@@ -1132,7 +1132,7 @@ The giant magically teleports, along with any equipment it is wearing or carryin
 The giant shrouds itself in a torrent of souls. While the giant is shrouded, each creature that starts its turn within 5 feet of the giant must succeed on a DC 19 Wisdom saving throw or have disadvantage on saving throws until the end of that creature's next turn. The shroud disappears after 1 minute, when the giant dies, when the giant uses this bonus action again, or when the giant's death rune is destroyed.</text>
     </action>
     <slots/>
-    <spells>detect magic, mage armor, speak with dead, tenser's floating disk</spells>
+    <spells>detect magic, mage armor, speak with dead, tenser&apos;s floating disk</spells>
   </monster>
   <monster>
     <name>Dust Hulk [2014]</name>
@@ -1583,7 +1583,7 @@ The firbolg projects an illusory duplicate of itself in an unoccupied space it c
 As a bonus action on later turns, the firbolg can move the illusion up to 30 feet and can then swap places with it.</text>
     </action>
     <slots/>
-    <spells>mage hand, minor illusion, tasha's hideous laughter, detect magic, disguise self, dispel magic, polymorph</spells>
+    <spells>mage hand, minor illusion, tasha&apos;s hideous laughter, detect magic, disguise self, dispel magic, polymorph</spells>
   </monster>
   <monster>
     <name>Fire Giant Forgecaller [2014]</name>
@@ -1837,7 +1837,7 @@ The firegaunt emits beams of fire from its eyes, mouth, and wounds in a 30-foot 
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
     <passive>10</passive>
-    <languages>understands Giant but can't speak</languages>
+    <languages>understands Giant but can&apos;t speak</languages>
     <cr>20</cr>
     <description>Source:	Bigby Presents: Glory of the Giants p. 141</description>
     <trait>
@@ -2047,7 +2047,7 @@ The fomorian has a blood rune inscribed on an effigy or some other object in its
 The object bearing the blood rune has AC 15; 30 hit points; and immunity to necrotic, poison, and psychic damage. The object regains all its hit points at the end of every turn, but it turns to dust if reduced to 0 hit points or when the fomorian dies. If the rune is destroyed, the fomorian can inscribe a blood rune on an object in its possession when it finishes a short or long rest.</text>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede the fomorian's darkvision.</text>
     </trait>
@@ -2485,7 +2485,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludge
     <conditionImmune/>
     <senses>darkvision 60 ft.</senses>
     <passive>16</passive>
-    <languages>understands Giant and Sylvan but can't speak</languages>
+    <languages>understands Giant and Sylvan but can&apos;t speak</languages>
     <cr>3</cr>
     <description>Source:	Bigby Presents: Glory of the Giants p. 150</description>
     <trait>
@@ -2546,7 +2546,7 @@ The goose honks with ear-splitting volume. Each other creature within 30 feet of
       <text>+2</text>
     </trait>
     <trait>
-      <name>Lynx's Sight (1/Day)</name>
+      <name>Lynx&apos;s Sight (1/Day)</name>
       <recharge>1/Day</recharge>
       <text>
 The lynx can cast clairvoyance, requiring no spell components and using Wisdom as the spellcasting ability.</text>
@@ -2585,7 +2585,7 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashi
     <conditionImmune/>
     <senses/>
     <passive>10</passive>
-    <languages>understands Giant and Sylvan but can't speak</languages>
+    <languages>understands Giant and Sylvan but can&apos;t speak</languages>
     <cr>3</cr>
     <description>Source:	Bigby Presents: Glory of the Giants p. 152</description>
     <trait>
@@ -2803,7 +2803,7 @@ Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one ta
       <attack>Spear (Two-Handed)|6|1d8 + 4</attack>
     </action>
     <action>
-      <name>Giant's Strikes (Recharge 5-6) (Bonus Action)</name>
+      <name>Giant&apos;s Strikes (Recharge 5-6) (Bonus Action)</name>
       <recharge>D5</recharge>
       <text>
 Until the end of its turn, the goliath's melee attacks each deal an extra 7 (2d6) damage of a type determined by the goliath's giant community: cold (frost giant), fire (fire giant), force (stone giant), lightning (storm giant), piercing (hill giant), or thunder (cloud giant).</text>
@@ -3304,7 +3304,7 @@ The rime hulk moves up to its speed without provoking opportunity attacks and ca
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
     <passive>10</passive>
-    <languages>understands Giant but can't speak</languages>
+    <languages>understands Giant but can&apos;t speak</languages>
     <cr>21</cr>
     <description>Source:	Bigby Presents: Glory of the Giants p. 163</description>
     <trait>
@@ -4206,7 +4206,7 @@ Blinded:
     <conditionImmune/>
     <senses>blindsight 60 ft.</senses>
     <passive>16</passive>
-    <languages>understands Giant but can't speak</languages>
+    <languages>understands Giant but can&apos;t speak</languages>
     <cr>11</cr>
     <description>Source:	Bigby Presents: Glory of the Giants p. 181</description>
     <trait>

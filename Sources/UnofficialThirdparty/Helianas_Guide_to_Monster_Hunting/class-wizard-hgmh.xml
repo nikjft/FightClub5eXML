@@ -5,13 +5,13 @@
     <autolevel level="2">
       <feature optional="YES">
         <name>Arcane Tradition: School of Biomancy (HB)</name>
-        <text>Practitioners of biomancy tend to have a growth mindset and an endless propensity for self-improvement. You likely bear symptoms of this continual desire to improve yourself: patches of scales, manes of peacock feathers, hawk's eyes, adhesive palms, gills... the list is as long as there are ideas to try. Biomancers are masters of biomantically-enhanced surgery, transplanting specially-grown (or amputated) appendages onto other creatures.
+        <text>Practitioners of biomancy tend to have a growth mindset and an endless propensity for self-improvement. You likely bear symptoms of this continual desire to improve yourself: patches of scales, manes of peacock feathers, hawk&apos;s eyes, adhesive palms, gills... the list is as long as there are ideas to try. Biomancers are masters of biomantically-enhanced surgery, transplanting specially-grown (or amputated) appendages onto other creatures.
 
 Source:	Heliana's Guide to Monster Hunting p. 216 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>School of Biomancy (HB): Biomancy Savant</name>
-        <text>Beginning when you select this school at 2nd level, the gold and time you must spend to copy a biomancy spell into your spellbook is halved. In addition, you gain proficiency with surgeon's tools, and the following spells are considered biomancy spells for you instead of their normal school.
+        <text>Beginning when you select this school at 2nd level, the gold and time you must spend to copy a biomancy spell into your spellbook is halved. In addition, you gain proficiency with surgeon&apos;s tools, and the following spells are considered biomancy spells for you instead of their normal school.
 
 Biomancy Spells:
 Level | Spells
@@ -27,7 +27,7 @@ Source:	Heliana's Guide to Monster Hunting p. 216 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>School of Biomancy (HB): Biostimulation</name>
-        <text>You learn to channel biomantic magic into your cells, restoring your vitality. When you use a spell slot to cast a biomancy spell of 1st level or higher, you can simultaneously redirect a strand of the spell's magic to energise and repair you or your target's body. You or your target (your choice) regains a number of hit points equal to twice the spell's level.
+        <text>You learn to channel biomantic magic into your cells, restoring your vitality. When you use a spell slot to cast a biomancy spell of 1st level or higher, you can simultaneously redirect a strand of the spell's magic to energise and repair you or your target&apos;s body. You or your target (your choice) regains a number of hit points equal to twice the spell&apos;s level.
 
 Source:	Heliana's Guide to Monster Hunting p. 216 (Homebrew)</text>
       </feature>
@@ -67,7 +67,7 @@ Source:	Heliana's Guide to Monster Hunting p. 216 (Homebrew)</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>School of Biomancy (HB): Spell Splitter</name>
-        <text>Your fiddling self-improvement has led to the ability to benefit from the magic you create. When you cast a wizard spell that targets only one creature and doesn't have a range of self, you can choose to simultaneously target yourself with the same spell. You can use this feature a number of times equal to your Intelligence modifier (minimum once), regaining all expended uses when you finish a long rest.
+        <text>Your fiddling self-improvement has led to the ability to benefit from the magic you create. When you cast a wizard spell that targets only one creature and doesn&apos;t have a range of self, you can choose to simultaneously target yourself with the same spell. You can use this feature a number of times equal to your Intelligence modifier (minimum once), regaining all expended uses when you finish a long rest.
 
 Source:	Heliana's Guide to Monster Hunting p. 216 (Homebrew)</text>
       </feature>

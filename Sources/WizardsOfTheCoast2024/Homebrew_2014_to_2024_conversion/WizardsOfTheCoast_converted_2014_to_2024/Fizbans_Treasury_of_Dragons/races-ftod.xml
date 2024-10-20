@@ -63,7 +63,7 @@ You can use your Breath Weapon a number of times equal to your proficiency bonus
     </trait>
     <trait>
       <name>Chromatic Warding</name>
-      <text>Starting at 5th level, as an action, you can channel your draconic energy to protect yourself. For 1 minute, you become immune to the damage type associated with your Chromatic Ancestry. Once you use this trait, you can't do so again until you finish a long rest.</text>
+      <text>Starting at 5th level, as an action, you can channel your draconic energy to protect yourself. For 1 minute, you become immune to the damage type associated with your Chromatic Ancestry. Once you use this trait, you can&apos;t do so again until you finish a long rest.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -131,11 +131,11 @@ You can use your Breath Weapon a number of times equal to your proficiency bonus
     </trait>
     <trait>
       <name>Psionic Mind</name>
-      <text>You can telepathically speak to any creature you can see within 30 feet of you. You don't need to share a language with the creature, but the creature must be able to understand at least one language.</text>
+      <text>You can telepathically speak to any creature you can see within 30 feet of you. You don&apos;t need to share a language with the creature, but the creature must be able to understand at least one language.</text>
     </trait>
     <trait>
       <name>Gem Flight</name>
-      <text>Starting at 5th level, you can use a bonus action to manifest spectral wings on your body. These wings last for 1 minute. For the duration, you gain a flying speed equal to your walking speed and can hover. Once you use this trait, you can't do so again until you finish a long rest.</text>
+      <text>Starting at 5th level, you can use a bonus action to manifest spectral wings on your body. These wings last for 1 minute. For the duration, you gain a flying speed equal to your walking speed and can hover. Once you use this trait, you can&apos;t do so again until you finish a long rest.</text>
     </trait>
     <trait>
       <name>Languages</name>

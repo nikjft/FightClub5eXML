@@ -3,7 +3,7 @@
   <feat>
     <name>Gift of the Chromatic Dragon [2014]</name>
     <prerequisite/>
-    <text>You've manifested some of the power of chromatic dragons, granting you the following benefits:
+    <text>You&apos;ve manifested some of the power of chromatic dragons, granting you the following benefits:
 
 Chromatic Infusion:
 As a bonus action, you can touch a simple or martial weapon and infuse it with one of the following damage types: acid, cold, fire, lightning, or poison. For the next minute, the weapon deals an extra 1d4 damage of the chosen type when it hits. After you use this bonus action, you can't do so again until you finish a long rest.
@@ -16,7 +16,7 @@ Source:	Fizban's Treasury of Dragons p. 17</text>
   <feat>
     <name>Gift of the Gem Dragon (Charisma) [2014]</name>
     <prerequisite/>
-    <text>You've manifested some of the power of gem dragons, granting you the following benefits:
+    <text>You&apos;ve manifested some of the power of gem dragons, granting you the following benefits:
 
 Ability Score Increase:
 Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
@@ -30,7 +30,7 @@ Source:	Fizban's Treasury of Dragons p. 17</text>
   <feat>
     <name>Gift of the Gem Dragon (Intelligence) [2014]</name>
     <prerequisite/>
-    <text>You've manifested some of the power of gem dragons, granting you the following benefits:
+    <text>You&apos;ve manifested some of the power of gem dragons, granting you the following benefits:
 
 Ability Score Increase:
 Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
@@ -44,7 +44,7 @@ Source:	Fizban's Treasury of Dragons p. 17</text>
   <feat>
     <name>Gift of the Gem Dragon (Wisdom) [2014]</name>
     <prerequisite/>
-    <text>You've manifested some of the power of gem dragons, granting you the following benefits:
+    <text>You&apos;ve manifested some of the power of gem dragons, granting you the following benefits:
 
 Ability Score Increase:
 Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
@@ -58,7 +58,7 @@ Source:	Fizban's Treasury of Dragons p. 17</text>
   <feat>
     <name>Gift of the Metallic Dragon [2014]</name>
     <prerequisite/>
-    <text>You've manifested some of the power of metallic dragons, granting you the following benefits:
+    <text>You&apos;ve manifested some of the power of metallic dragons, granting you the following benefits:
 
 Draconic Healing:
 You learn the cure wounds spell. You can cast this spell without expending a spell slot. Once you cast this spell in this way, you can't do so again until you finish a long rest. You can also cast this spell using spell slots you have. The spell's spellcasting ability is Intelligence, Wisdom, or Charisma when you cast it with this feat (choose when you gain the feat).
@@ -89,7 +89,7 @@ Source:	Fizban's Treasury of Dragons p. 28</text>
   <feat>
     <name>Draconic Gift: Draconic Senses [2014]</name>
     <prerequisite>Young Dragon Heir or Killer (Rare)</prerequisite>
-    <text>You gain keen senses like a dragon's.
+    <text>You gain keen senses like a dragon&apos;s.
 
 Blindsight:
 You have blindsight to a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see invisible creatures within that range, unless the creatures successfully hide from you.
@@ -111,7 +111,7 @@ Source:	Fizban's Treasury of Dragons p. 28</text>
   <feat>
     <name>Draconic Gift: Frightful Presence [2014]</name>
     <prerequisite>Adult Dragon Heir or Killer (Very Rare)</prerequisite>
-    <text>Echoes of a dragon's might linger around you. and you can call on them to inspire fear in those who stand against you.
+    <text>Echoes of a dragon&apos;s might linger around you. and you can call on them to inspire fear in those who stand against you.
 
 As a bonus action, you can manifest your frightful presence. Each creature of your choice that is within 120 feet of you and aware of you must make a Wisdom saving throw against a DC equal to 8 + your proficiency bonus + your Charisma modifier. A creature that fails becomes frightened of you for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

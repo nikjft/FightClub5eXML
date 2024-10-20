@@ -14,7 +14,7 @@
 Source:	Heliana's Guide to Monster Hunting p. 219 (Homebrew)</text>
   </feat>
   <feat>
-    <name>Cat's Caress (HB)</name>
+    <name>Cat&apos;s Caress (HB)</name>
     <prerequisite>proficiency with claws</prerequisite>
     <special/>
     <proficiency/>
@@ -74,11 +74,11 @@ Source:	Heliana's Guide to Monster Hunting p. 219 (Homebrew)</text>
     <modifier category="ability score">Dexterity Score +1</modifier>
   </feat>
   <feat>
-    <name>Spray 'n' Pray (HB)</name>
+    <name>Spray &apos;n&apos; Pray (HB)</name>
     <prerequisite>proficiency with a magitech firearm or tommybow</prerequisite>
     <special/>
     <proficiency/>
-    <text>You've learned to unleash the full potential of mechanised ranged weapons, leaving aiming down to lady luck. You gain the following benefits:
+    <text>You&apos;ve learned to unleash the full potential of mechanised ranged weapons, leaving aiming down to lady luck. You gain the following benefits:
 
 	• You can reload firearms and tommybows as a bonus action or an action.
 
@@ -147,7 +147,7 @@ Source:	Heliana's Guide to Monster Hunting p. 220 (Homebrew)</text>
   <feat>
     <name>Expert Forger (Strength) (HB)</name>
     <prerequisite/>
-    <text>An expert with your chosen tools, you can subtly alter an item's final form.
+    <text>An expert with your chosen tools, you can subtly alter an item&apos;s final form.
 
 	• Increase your Strength, Dexterity, or Constitution by 1, to a maximum of 20.
 
@@ -163,7 +163,7 @@ Source:	Heliana's Guide to Monster Hunting p. 220 (Homebrew)</text>
   <feat>
     <name>Expert Forger (Dexterity) (HB)</name>
     <prerequisite/>
-    <text>An expert with your chosen tools, you can subtly alter an item's final form.
+    <text>An expert with your chosen tools, you can subtly alter an item&apos;s final form.
 
 	• Increase your Strength, Dexterity, or Constitution by 1, to a maximum of 20.
 
@@ -179,7 +179,7 @@ Source:	Heliana's Guide to Monster Hunting p. 220 (Homebrew)</text>
   <feat>
     <name>Expert Forger (Constitution) (HB)</name>
     <prerequisite/>
-    <text>An expert with your chosen tools, you can subtly alter an item's final form.
+    <text>An expert with your chosen tools, you can subtly alter an item&apos;s final form.
 
 	• Increase your Strength, Dexterity, or Constitution by 1, to a maximum of 20.
 
@@ -308,7 +308,7 @@ Source:	Heliana's Guide to Monster Hunting p. 220 (Homebrew)</text>
   <feat>
     <name>Weavebonder (Inteligence) (HB)</name>
     <prerequisite>Expert Enchanter</prerequisite>
-    <text>With a nuanced touch, you can manipulate even the smallest ebbs and flows of an item's magic.
+    <text>With a nuanced touch, you can manipulate even the smallest ebbs and flows of an item&apos;s magic.
 
 	• Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
 
@@ -324,7 +324,7 @@ Source:	Heliana's Guide to Monster Hunting p. 220 (Homebrew)</text>
   <feat>
     <name>Weavebonder (Wisdom) (HB)</name>
     <prerequisite>Expert Enchanter</prerequisite>
-    <text>With a nuanced touch, you can manipulate even the smallest ebbs and flows of an item's magic.
+    <text>With a nuanced touch, you can manipulate even the smallest ebbs and flows of an item&apos;s magic.
 
 	• Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
 
@@ -340,7 +340,7 @@ Source:	Heliana's Guide to Monster Hunting p. 220 (Homebrew)</text>
   <feat>
     <name>Weavebonder (Charisma) (HB)</name>
     <prerequisite>Expert Enchanter</prerequisite>
-    <text>With a nuanced touch, you can manipulate even the smallest ebbs and flows of an item's magic.
+    <text>With a nuanced touch, you can manipulate even the smallest ebbs and flows of an item&apos;s magic.
 
 	• Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
 

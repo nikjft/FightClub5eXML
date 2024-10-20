@@ -24,7 +24,7 @@
     <passive>23</passive>
     <languages>Common, Draconic, Telepathy 120 ft.</languages>
     <cr>16</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 161</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 161</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+5</text>
@@ -131,7 +131,7 @@ The dragon spits an amethyst that that explodes at a point it can see within 60 
     <passive>20</passive>
     <languages>Common, Draconic, Telepathy 120 ft.</languages>
     <cr>12</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 171</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 171</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+4</text>
@@ -233,7 +233,7 @@ The dragon releases a searing beam of starlight at a creature that it can see wi
     <passive>17</passive>
     <languages>Common, Draconic, Undercommon</languages>
     <cr>11</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 174</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 174</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+4</text>
@@ -330,7 +330,7 @@ The dragon releases poisonous spores around a creature within 30 feet of it that
     <passive>23</passive>
     <languages>Common, Draconic, Telepathy 120 ft.</languages>
     <cr>14</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 196</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 196</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+5</text>
@@ -443,7 +443,7 @@ The dragon creates a dancing mote of green flame around a creature it can see wi
     <passive>20</passive>
     <languages>Common, Draconic, Elvish, Gnomish, Sylvan</languages>
     <cr>15</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 212</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 212</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+5</text>
@@ -544,7 +544,7 @@ The dragon uses Spellcasting.</text>
     <passive>20</passive>
     <languages>Common, Draconic, Telepathy 120 ft.</languages>
     <cr>15</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 215</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 215</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+5</text>
@@ -655,7 +655,7 @@ The dragon chooses one Small or smaller object that isn't being worn or carried 
     <passive>23</passive>
     <languages>Common, Draconic, Telepathy 120 ft.</languages>
     <cr>13</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 221</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 221</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+5</text>
@@ -769,7 +769,7 @@ If this damage reduces the target to 0 hit points, it crumbles to dust.</text>
     <passive>15</passive>
     <languages>Draconic, Telepathy 120 ft.</languages>
     <cr>4</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 162</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 162</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -799,7 +799,7 @@ The dragon casts one of the following spells, requiring no spell components and 
 
 	• 1/Day each: protection from evil and good, Tenser's floating disk, unseen servant</text>
     </action>
-    <spells>protection from evil and good, Tenser's floating disk, unseen servant</spells>
+    <spells>protection from evil and good, Tenser&apos;s floating disk, unseen servant</spells>
     <slots/>
     <environment/>
   </monster>
@@ -827,7 +827,7 @@ The dragon casts one of the following spells, requiring no spell components and 
     <passive>25</passive>
     <languages>Common, Draconic</languages>
     <cr>26</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 201</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 201</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+8</text>
@@ -949,7 +949,7 @@ The greatwyrm emits a beam of psychic energy in a 90-foot line that is 10 feet w
     <passive>28</passive>
     <languages>Common, Draconic, Telepathy 120 ft.</languages>
     <cr>23</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 160</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 160</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+7</text>
@@ -1056,7 +1056,7 @@ The dragon spits an amethyst that that explodes at a point it can see within 60 
     <passive>25</passive>
     <languages>Common, Draconic, Telepathy 120 ft.</languages>
     <cr>19</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 170</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 170</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+6</text>
@@ -1158,7 +1158,7 @@ The dragon releases a searing beam of starlight at a creature that it can see wi
     <passive>20</passive>
     <languages>Common, Draconic, Undercommon</languages>
     <cr>18</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 173</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 173</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+6</text>
@@ -1255,7 +1255,7 @@ The dragon releases poisonous spores around a creature within 30 feet of it that
     <passive>21</passive>
     <languages>Aquan, Draconic</languages>
     <cr>24</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 191</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 191</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+7</text>
@@ -1380,7 +1380,7 @@ Lightning temporarily surrounds the dragon turtle, and it gains 40 temporary hit
     <passive>28</passive>
     <languages>Common, Draconic, Telepathy 120 ft.</languages>
     <cr>21</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 195</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 195</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+7</text>
@@ -1493,7 +1493,7 @@ The dragon creates a dancing mote of green flame around a creature it can see wi
     <passive>23</passive>
     <languages>All, Telepathy 120 ft.</languages>
     <cr>21</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 211</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 211</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+7</text>
@@ -1594,7 +1594,7 @@ The dragon uses Spellcasting.</text>
     <passive>28</passive>
     <languages>Common, Draconic, Telepathy 120 ft.</languages>
     <cr>22</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 214</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 214</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+7</text>
@@ -1706,7 +1706,7 @@ The dragon chooses one Medium or smaller object that isn't being worn or carried
     <passive>18</passive>
     <languages>Common, Draconic</languages>
     <cr>14</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 219</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 219</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+5</text>
@@ -1800,7 +1800,7 @@ The sea serpent makes one Bite attack</text>
     <passive>26</passive>
     <languages>Common, Draconic, Telepathy 120 ft.</languages>
     <cr>20</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 220</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 220</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+6</text>
@@ -1906,15 +1906,15 @@ If this damage reduces the target to 0 hit points, it crumbles to dust.</text>
     <cha>5</cha>
     <save/>
     <skill/>
-    <resist>damage of the type matching the animated breath's form (acid, cold, fire, lightning, or poison)</resist>
+    <resist>damage of the type matching the animated breath&apos;s form (acid, cold, fire, lightning, or poison)</resist>
     <vulnerable/>
     <immune/>
     <conditionImmune>exhaustion, paralyzed, petrified, poisoned, restrained, unconscious</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>10</passive>
-    <languages>understands Draconic but can't speak</languages>
+    <languages>understands Draconic but can&apos;t speak</languages>
     <cr>6</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 163</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 163</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -1980,7 +1980,7 @@ The animated breath magically teleports to an unoccupied space it can see within
     <passive>28</passive>
     <languages>Common, Draconic</languages>
     <cr>30</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 165</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 165</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+9</text>
@@ -2102,7 +2102,7 @@ A creature in the area of more than one lance is affected only once.</text>
     <passive>33</passive>
     <languages>Common, Draconic, Infernal</languages>
     <cr>30</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 166</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 166</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+9</text>
@@ -2212,7 +2212,7 @@ The aspect flares with elemental energy. Each creature of the aspect's choice in
     <passive>31</passive>
     <languages>Common, Draconic</languages>
     <cr>27</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 168</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 168</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+8</text>
@@ -2327,7 +2327,7 @@ The greatwyrm flares with elemental energy. Each creature in a 60-foot-radius sp
     <passive>31</passive>
     <languages>Common, Draconic</languages>
     <cr>27</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 168</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 168</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+8</text>
@@ -2447,7 +2447,7 @@ The greatwyrm flares with elemental energy. Each creature in a 60-foot-radius sp
     <passive>32</passive>
     <languages>Common, Draconic</languages>
     <cr>28</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 208</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 208</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+8</text>
@@ -2571,7 +2571,7 @@ The greatwyrm unleashes a magical roar. Each creature in a 120-foot-radius spher
     <passive>32</passive>
     <languages>Common, Draconic</languages>
     <cr>28</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 208</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 208</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+8</text>
@@ -2695,7 +2695,7 @@ The greatwyrm unleashes a magical roar. Each creature in a 120-foot-radius spher
     <passive>32</passive>
     <languages>Common, Draconic</languages>
     <cr>28</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 208</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 208</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+8</text>
@@ -2819,7 +2819,7 @@ The greatwyrm unleashes a magical roar. Each creature in a 120-foot-radius spher
     <passive>15</passive>
     <languages>Draconic, Telepathy 120 ft.</languages>
     <cr>2</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 172</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 172</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -2872,7 +2872,7 @@ dancing lights, guidance</text>
     <passive>25</passive>
     <languages>Common, Draconic</languages>
     <cr>26</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 201</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 201</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+8</text>
@@ -2994,7 +2994,7 @@ The greatwyrm emits a beam of psychic energy in a 90-foot line that is 10 feet w
     <passive>13</passive>
     <languages>Draconic</languages>
     <cr>1</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 175</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 175</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -3038,9 +3038,9 @@ The dragon exhales a cloud of spores in a 15-foot cone. Each creature in that ar
     <conditionImmune/>
     <senses>darkvision 60 ft.</senses>
     <passive>19</passive>
-    <languages>understands Draconic but can't speak</languages>
+    <languages>understands Draconic but can&apos;t speak</languages>
     <cr>11</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 176</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 176</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+4</text>
@@ -3110,7 +3110,7 @@ The dracohydra's heads exhale a single breath of multicolored energy in a 60-foo
     <passive>10</passive>
     <languages>Common, Draconic</languages>
     <cr>4</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 177</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 177</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -3172,7 +3172,7 @@ After the draconian kills a Medium or smaller Humanoid, the draconian can magica
     <passive>9</passive>
     <languages>Common, Draconic</languages>
     <cr>1/2</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 178</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 178</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -3226,7 +3226,7 @@ Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) pierci
     <passive>13</passive>
     <languages>Common, Draconic</languages>
     <cr>3</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 178</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 178</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -3280,7 +3280,7 @@ Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one ta
     <passive>10</passive>
     <languages>Common, Draconic</languages>
     <cr>2</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 179</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 179</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -3348,7 +3348,7 @@ The draconian casts one of the following spells, requiring no material component
     <passive>13</passive>
     <languages>Common, Draconic</languages>
     <cr>6</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 180</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 180</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -3424,7 +3424,7 @@ When the draconian is hit by an attack roll, it can create an invisible barrier 
     <passive>26</passive>
     <languages>Common, Draconic, Telepathy 120 ft.</languages>
     <cr>17</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 181</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 181</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+6</text>
@@ -3542,7 +3542,7 @@ The shard targets a creature it can see within 30 feet of it. The target must su
     <passive>12</passive>
     <languages>draconic, understands the languages you speak</languages>
     <cr/>
-    <description>Source:	Fizban's Treasury of Dragons p. 21</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 21</description>
     <trait>
       <name>Stats</name>
       <text>
@@ -3601,7 +3601,7 @@ The dragon exhales destructive energy in a 30-foot cone. Each creature in that a
     <passive>13</passive>
     <languages>Common, Draconic, and any two languages</languages>
     <cr>5</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 188</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 188</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -3659,7 +3659,7 @@ The blessed casts one of the following spells, using Wisdom as the spellcasting 
     <passive>13</passive>
     <languages>Common, Draconic</languages>
     <cr>3</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 189</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 189</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -3716,7 +3716,7 @@ Immediately after the chosen takes damage from a creature within 5 feet of it, i
     <passive>10</passive>
     <languages>Common, Draconic, and any two languages</languages>
     <cr>2</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 189</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 189</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -3774,7 +3774,7 @@ When a creature the speaker can see within 60 feet of it makes a damage roll, th
     <passive>10</passive>
     <languages>Draconic</languages>
     <cr>4</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 192</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 192</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -3823,9 +3823,9 @@ The dragon turtle exhales steam in a 15-foot cone. Each creature in that area mu
     <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, grappled, prone, restrained</conditionImmune>
     <senses>blindsight 120 ft. (blind beyond this radius)</senses>
     <passive>14</passive>
-    <languages>understands Draconic and the languages of its creator but can't speak</languages>
+    <languages>understands Draconic and the languages of its creator but can&apos;t speak</languages>
     <cr>5</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 182</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 182</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -3886,9 +3886,9 @@ The ooze expels a spray of its gelatinous mass in a 30-foot cone. Each creature 
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>10</passive>
-    <languages>understands Draconic and the languages of its creator but can't speak</languages>
+    <languages>understands Draconic and the languages of its creator but can&apos;t speak</languages>
     <cr>11</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 183</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 183</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+4</text>
@@ -3962,7 +3962,7 @@ The golem emits a 60-foot cone of petrifying gas from its mouth. Each creature i
     <passive>15</passive>
     <languages>Common, Draconic</languages>
     <cr>8</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 184</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 184</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -4028,7 +4028,7 @@ The dragonborn exhales fiery radiance in a 30-foot cone. Each creature in that a
     <passive>15</passive>
     <languages>Common, Draconic</languages>
     <cr>6</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 185</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 185</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -4069,7 +4069,7 @@ The dragonborn casts one of the following spells, requiring no spell components 
 
 	• 1/Day each: Bigby's hand, hypnotic pattern, telekinesis</text>
     </action>
-    <spells>Bigby's hand, hypnotic pattern, telekinesis</spells>
+    <spells>Bigby&apos;s hand, hypnotic pattern, telekinesis</spells>
     <slots/>
     <environment/>
   </monster>
@@ -4097,7 +4097,7 @@ The dragonborn casts one of the following spells, requiring no spell components 
     <passive>14</passive>
     <languages>Common, Draconic</languages>
     <cr>7</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 185</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 185</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -4152,9 +4152,9 @@ The dragonborn exhales shadowy fire in a 30-foot cone. Each creature in that are
     <conditionImmune>charmed, frightened, poisoned</conditionImmune>
     <senses/>
     <passive>11</passive>
-    <languages>understands Common and Draconic but can't speak</languages>
+    <languages>understands Common and Draconic but can&apos;t speak</languages>
     <cr>6</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 187</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 187</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -4229,7 +4229,7 @@ The abomination belches forth a cloud of acidic gas in a 30-foot cone. Each crea
     <passive>10</passive>
     <languages>Common, Draconic</languages>
     <cr>3</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 186</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 186</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -4284,9 +4284,9 @@ The grafter retches forth a spray of acidic bile in a 30-foot cone. Each creatur
     <conditionImmune/>
     <senses>blindsight 30 ft., darkvision 120 ft.</senses>
     <passive>13</passive>
-    <languages>understands Draconic and Common but can't speak</languages>
+    <languages>understands Draconic and Common but can&apos;t speak</languages>
     <cr>2</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 190</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 190</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -4329,13 +4329,13 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slash
     <skill/>
     <resist/>
     <vulnerable/>
-    <immune>determined by the drake's Draconic Essence trait</immune>
+    <immune>determined by the drake&apos;s Draconic Essence trait</immune>
     <conditionImmune/>
     <sense>darkvision 60 ft.</sense>
     <passive>12</passive>
     <languages>draconic</languages>
     <cr>2</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 15</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 15</description>
     <trait>
       <name>Stats</name>
       <text>
@@ -4384,7 +4384,7 @@ When another creature within 30 feet of the drake that it can see hits a target 
     <passive>14</passive>
     <languages/>
     <cr>5</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 193</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 193</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -4449,7 +4449,7 @@ When the egg hunter takes damage, it gives itself resistance to that damage.</te
     <passive>14</passive>
     <languages/>
     <cr>2</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 193</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 193</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -4504,7 +4504,7 @@ The egg hunter takes the Dash or Disengage action.</text>
     <passive>28</passive>
     <languages>Deep Speech, Draconic, Telepathy 5 miles</languages>
     <cr>22</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 194</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 194</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+7</text>
@@ -4604,7 +4604,7 @@ The dragon targets a creature it is grappling. The target's concentration on a s
     <passive>15</passive>
     <languages>Common, Draconic, Telepathy 120 ft.</languages>
     <cr>2</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 197</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 197</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -4662,7 +4662,7 @@ The dragon casts one of the following spells, requiring no spell components and 
     <passive>25</passive>
     <languages>Common, Draconic</languages>
     <cr>26</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 201</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 201</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+8</text>
@@ -4784,7 +4784,7 @@ The greatwyrm emits a beam of psychic energy in a 90-foot line that is 10 feet w
     <passive>18</passive>
     <languages>Deep Speech, Draconic</languages>
     <cr>8</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 199</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 199</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -4850,9 +4850,9 @@ The eyedrake shoots three of the following magical eye rays at random (reroll du
     <conditionImmune/>
     <senses>darkvision 120 ft.</senses>
     <passive>13</passive>
-    <languages>Telepathy 60 ft. understands Draconic but can't speak</languages>
+    <languages>Telepathy 60 ft. understands Draconic but can&apos;t speak</languages>
     <cr>5</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 202</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 202</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -4926,7 +4926,7 @@ When another creature the gem stalker can see within 30 feet of it is about to t
     <passive>24</passive>
     <languages>Common, Draconic, Telepathy 120 ft.</languages>
     <cr>17</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 203</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 203</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+6</text>
@@ -5003,7 +5003,7 @@ If a creature's saving throw is successful or the effect ends for it, the creatu
     <passive>32</passive>
     <languages>Common, Draconic</languages>
     <cr>28</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 208</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 208</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+8</text>
@@ -5127,7 +5127,7 @@ The greatwyrm unleashes a magical roar. Each creature in a 120-foot-radius spher
     <passive>31</passive>
     <languages>Common, Draconic</languages>
     <cr>27</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 168</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 168</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+8</text>
@@ -5242,7 +5242,7 @@ The greatwyrm flares with elemental energy. Each creature in a 60-foot-radius sp
     <passive>13</passive>
     <languages>Common, Draconic, Telepathy 120 ft.</languages>
     <cr>8</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 204</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 204</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -5311,7 +5311,7 @@ The mimic transforms into a hoard or back into its true, amorphous form. Its sta
     <passive>9</passive>
     <languages/>
     <cr>1/8</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 205</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 205</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -5362,7 +5362,7 @@ The scarab releases magical glittering dust from its wings. Each creature within
     <passive>23</passive>
     <languages>Common, Draconic</languages>
     <cr>18</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 206</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 206</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+6</text>
@@ -5458,7 +5458,7 @@ A sudden loud ringing noise, painfully intense, erupts from the hollow dragon's 
     <passive>17</passive>
     <languages>Draconic</languages>
     <cr>7</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 207</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 207</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -5516,7 +5516,7 @@ The liondrake lets out a terrifying roar audible out to 300 feet. Any creature w
     <passive>11</passive>
     <languages>Common, Draconic, Telepathy 30 ft.</languages>
     <cr>4</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 210</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 210</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -5574,9 +5574,9 @@ The peacekeeper releases a calming gas in a 30-foot-radius sphere centered on it
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>10</passive>
-    <languages>understands Common and Draconic but can't speak</languages>
+    <languages>understands Common and Draconic but can&apos;t speak</languages>
     <cr>1/4</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 210</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 210</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -5631,7 +5631,7 @@ The warbler releases a calming gas in a 5-foot-radius sphere centered on itself.
     <passive>14</passive>
     <languages>Draconic</languages>
     <cr>2</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 213</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 213</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -5681,7 +5681,7 @@ Moonlight Breath. The dragon exhales a beam of moonlight in a 30-foot line that 
     <passive>31</passive>
     <languages>Common, Draconic</languages>
     <cr>27</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 168</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 168</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+8</text>
@@ -5797,7 +5797,7 @@ The greatwyrm flares with elemental energy. Each creature in a 60-foot-radius sp
     <passive>15</passive>
     <languages>Draconic, Telepathy 120 ft.</languages>
     <cr>3</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 216</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 216</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -5832,7 +5832,7 @@ The dragon casts one of the following spells, requiring no spell components and 
 
 	• 1/Day each: alarm, Tenser's floating disk</text>
     </action>
-    <spells>alarm, Tenser's floating disk</spells>
+    <spells>alarm, Tenser&apos;s floating disk</spells>
     <slots/>
     <environment/>
   </monster>
@@ -5860,7 +5860,7 @@ The dragon casts one of the following spells, requiring no spell components and 
     <passive>25</passive>
     <languages>Common, Draconic</languages>
     <cr>26</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 201</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 201</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+8</text>
@@ -5982,7 +5982,7 @@ The greatwyrm emits a beam of psychic energy in a 90-foot line that is 10 feet w
     <passive>32</passive>
     <languages>Common, Draconic</languages>
     <cr>28</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 208</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 208</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+8</text>
@@ -6106,7 +6106,7 @@ The greatwyrm unleashes a magical roar. Each creature in a 120-foot-radius spher
     <passive>9</passive>
     <languages/>
     <cr>2</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 205</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 205</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -6161,7 +6161,7 @@ The swarm releases magical glittering dust from its wings. Each creature within 
     <passive>15</passive>
     <languages>Draconic</languages>
     <cr>2</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 223</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 223</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -6219,7 +6219,7 @@ The dragon casts one of the following spells, requiring no spell components and 
     <passive>25</passive>
     <languages>Common, Draconic</languages>
     <cr>26</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 201</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 201</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+8</text>
@@ -6341,7 +6341,7 @@ The greatwyrm emits a beam of psychic energy in a 90-foot line that is 10 feet w
     <passive>31</passive>
     <languages>Common, Draconic</languages>
     <cr>27</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 168</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 168</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+8</text>
@@ -6456,7 +6456,7 @@ The greatwyrm flares with elemental energy. Each creature in a 60-foot-radius sp
     <passive>20</passive>
     <languages>Common, Draconic, Telepathy 120 ft.</languages>
     <cr>9</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 161</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 161</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+4</text>
@@ -6525,7 +6525,7 @@ The dragon casts one of the following spells, requiring no spell components and 
     <passive>18</passive>
     <languages>Common, Draconic, Telepathy 120 ft.</languages>
     <cr>5</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 172</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 172</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -6590,7 +6590,7 @@ The dragon casts one of the following spells, requiring no spell components and 
     <passive>15</passive>
     <languages>Common, Draconic, Undercommon</languages>
     <cr>5</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 175</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 175</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -6647,7 +6647,7 @@ The dragon exhales a cloud of spores in a 30-foot cone. Each creature in that ar
     <passive>11</passive>
     <languages>Aquan, Draconic</languages>
     <cr>10</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 192</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 192</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+4</text>
@@ -6709,7 +6709,7 @@ The dragon turtle exhales steam in a 30-foot cone. Each creature in that area mu
     <passive>18</passive>
     <languages>Common, Draconic, Telepathy 120 ft.</languages>
     <cr>8</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 197</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 197</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -6779,7 +6779,7 @@ The dragon casts one of the following spells, requiring no spell components and 
     <passive>16</passive>
     <languages>Common, Draconic, Sylvan</languages>
     <cr>8</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 213</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 213</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -6849,7 +6849,7 @@ The dragon casts one of the following spells, requiring no spell components and 
     <passive>20</passive>
     <languages>Common, Draconic, Telepathy 120 ft.</languages>
     <cr>9</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 216</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 216</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+4</text>
@@ -6923,7 +6923,7 @@ The dragon casts one of the following spells, requiring no spell components and 
     <passive>14</passive>
     <languages>Common, Draconic</languages>
     <cr>8</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 219</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 219</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -6995,7 +6995,7 @@ The sea serpent exhales a 30-foot cone of cold. Each creature in that area must 
     <passive>18</passive>
     <languages>Common, Draconic, Telepathy 120 ft.</languages>
     <cr>7</cr>
-    <description>Source:	Fizban's Treasury of Dragons p. 223</description>
+    <description>Source:	Fizban&apos;s Treasury of Dragons p. 223</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>

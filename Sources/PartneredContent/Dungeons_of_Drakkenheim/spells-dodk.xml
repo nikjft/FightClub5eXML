@@ -110,7 +110,7 @@ Source:	Dungeons of Drakkenheim p. 227</text>
     <range>touch</range>
     <components>V, S, M (An alchemical cocktail made from rare components and delerium dust worth 250 gold, which the target consumes as part of the spell)</components>
     <classes>Sorcerer, Warlock, Wizard</classes>
-    <text>By means of this spell, you transform a mutation gained from contamination. One of the target's existing mutations is removed and is replaced by a different one. This mutation may be chosen by the Game Master or determined randomly (see Appendix C of Dungeons of Drakkenheim).
+    <text>By means of this spell, you transform a mutation gained from contamination. One of the target&apos;s existing mutations is removed and is replaced by a different one. This mutation may be chosen by the Game Master or determined randomly (see Appendix C of Dungeons of Drakkenheim).
 
 Source:	Dungeons of Drakkenheim p. 227</text>
   </spell>
@@ -124,7 +124,7 @@ Source:	Dungeons of Drakkenheim p. 227</text>
     <range>self (10-foot radius)</range>
     <components>V, S, M (A delerium crystal or holy relic worth 1,000 gp)</components>
     <classes>Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard</classes>
-    <text>You negate contaminated magical energies in a 10-foot radius sphere. Until the spell ends, the sphere moves with you, centred on you. Creatures in the sphere (including you) can't gain contamination levels and have immunity to necrotic damage. Contaminated spells can't be cast by creatures in the area.
+    <text>You negate contaminated magical energies in a 10-foot radius sphere. Until the spell ends, the sphere moves with you, centred on you. Creatures in the sphere (including you) can&apos;t gain contamination levels and have immunity to necrotic damage. Contaminated spells can&apos;t be cast by creatures in the area.
 
 Source:	Dungeons of Drakkenheim p. 228</text>
   </spell>
@@ -163,7 +163,7 @@ Source:	Dungeons of Drakkenheim p. 228</text>
     <range>touch</range>
     <components>V, S, M (100 gp of alchemical fluids or holy water, which the spell consumes)</components>
     <classes>Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard</classes>
-    <text>You apply alchemical fluids or holy water to a contaminated humanoid creature while reciting an exacting magical chant that expels eldritch contaminants from the target's body. When you finish casting the spell, all contamination levels and mutations are removed from the creature. It then gains one level of exhaustion for each contamination level removed with this spell.
+    <text>You apply alchemical fluids or holy water to a contaminated humanoid creature while reciting an exacting magical chant that expels eldritch contaminants from the target&apos;s body. When you finish casting the spell, all contamination levels and mutations are removed from the creature. It then gains one level of exhaustion for each contamination level removed with this spell.
 
 Source:	Dungeons of Drakkenheim p. 228</text>
   </spell>
@@ -195,7 +195,7 @@ Source:	Dungeons of Drakkenheim p. 229</text>
     <range>60 feet</range>
     <components>V, S, M (a delerium fragment worth 100 gp, which the spell consumes)</components>
     <classes>Bard, Sorcerer, Warlock, Wizard</classes>
-    <text>When you cast this spell, you gain one level of contamination. A stroke of eldritch lightning forming a line 60 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must succeed on a Dexterity saving throw. A creature takes 10d6 lightning damage on a failed save, or half as much damage on a successful one. You then teleport to an unoccupied space you can see within the line's area.
+    <text>When you cast this spell, you gain one level of contamination. A stroke of eldritch lightning forming a line 60 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must succeed on a Dexterity saving throw. A creature takes 10d6 lightning damage on a failed save, or half as much damage on a successful one. You then teleport to an unoccupied space you can see within the line&apos;s area.
 
 At Higher Levels:
 When you cast this spell using a spell slot of 4th level or higher, the damage increases by 2d6 for each slot level above 3rd.

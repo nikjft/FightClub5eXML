@@ -11,7 +11,7 @@ Source:	Heliana's Guide to Monster Hunting p. 191 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Skinshifter Magic</name>
-        <text>You learn additional spells when you reach certain levels in this class, as shown on the Skinshifter Spells table. Each of these spells counts as a sorcerer spell for you, but don't count against the number of sorcerer spells you know.
+        <text>You learn additional spells when you reach certain levels in this class, as shown on the Skinshifter Spells table. Each of these spells counts as a sorcerer spell for you, but don&apos;t count against the number of sorcerer spells you know.
 
 Whenever you gain a sorcerer level, you can replace one spell you gained from this feature with another spell of the same level. The new spell must be a biomancy or transmutation spell from the sorcerer, warlock, or wizard spell lists.
 

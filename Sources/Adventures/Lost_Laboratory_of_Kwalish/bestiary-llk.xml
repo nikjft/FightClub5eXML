@@ -50,7 +50,7 @@ The Brain in a Jar (Noncore)'s innate spellcasting ability is Intelligence (spel
 	• 3/Day each: charm person, command, hold person
 	• 1/Day each: compulsion, hold monster, sleep (cast at 3rd level), Tasha's hideous laughter</text>
     </trait>
-    <spells>detect thoughts, mage hand, zone of truth, charm person, command, hold person, compulsion, hold monster, sleep, Tasha's hideous laughter</spells>
+    <spells>detect thoughts, mage hand, zone of truth, charm person, command, hold person, compulsion, hold monster, sleep, Tasha&apos;s hideous laughter</spells>
     <description>Source:	Lost Laboratory of Kwalish p. 38,
 		Infernal Machine Rebuild</description>
     <environment/>
@@ -72,7 +72,7 @@ The Brain in a Jar (Noncore)'s innate spellcasting ability is Intelligence (spel
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>10</cr>
     <resist>fire; bludgeoning, piercing, slashing from nonmagical attacks</resist>
     <immune>poison, psychic</immune>
@@ -122,7 +122,7 @@ Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) bludg
     <save/>
     <skill>Deception +7, Investigation +4, Performance +5, Persuasion +5</skill>
     <passive>11</passive>
-    <languages>Abyssal, Common, Infernal, Thieves' cant</languages>
+    <languages>Abyssal, Common, Infernal, Thieves&apos; cant</languages>
     <cr>2</cr>
     <resist/>
     <immune/>
@@ -166,7 +166,7 @@ Garret is a 2nd-level spellcaster. His spellcasting ability is Charisma (spell s
 	• 1st level (3 slots): charm person, detect magic, disguise self, identify, Tasha's hideous laughter</text>
     </trait>
     <slots>3</slots>
-    <spells>blade ward, vicious mockery, charm person, detect magic, disguise self, identify, Tasha's hideous laughter</spells>
+    <spells>blade ward, vicious mockery, charm person, detect magic, disguise self, identify, Tasha&apos;s hideous laughter</spells>
     <description>Source:	Lost Laboratory of Kwalish p. 41</description>
     <environment/>
   </monster>

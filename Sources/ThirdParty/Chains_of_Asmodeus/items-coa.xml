@@ -5,7 +5,7 @@
     <type>W</type>
     <magic>YES</magic>
     <detail>rare (requires attunement)</detail>
-    <text>Your armor, weapons, and other equipment always shine as if just polished. Even if you're wounded, your wounds do not appear to others. You're immune to the frightened and poisoned conditions, as these would otherwise ruin your elegant appearance. However, whenever you would otherwise have been affected by one of these conditions, a random non-evil Humanoid on the Material Plane whom you have previously met gets the condition instead. You know this.
+    <text>Your armor, weapons, and other equipment always shine as if just polished. Even if you&apos;re wounded, your wounds do not appear to others. You&apos;re immune to the frightened and poisoned conditions, as these would otherwise ruin your elegant appearance. However, whenever you would otherwise have been affected by one of these conditions, a random non-evil Humanoid on the Material Plane whom you have previously met gets the condition instead. You know this.
 
 Source:	Chains of Asmodeus p. 267 (Third Party)</text>
   </item>
@@ -23,7 +23,7 @@ Source:	Chains of Asmodeus p. 267 (Third Party)</text>
     <type>W</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
-    <text>When you die, you're transported to an extradimensional space where you're stabilized at 0 hit points and kept in that state. The amulet creates a perfect copy of your corpse and places it where you were just before you died, but without any of your worn or carried items. After 24 hours, you regain 1 hit point and are returned to the location of your neardeath. Everything about you is the same, except that your facial features are entirely different from before. Only a Wish spell can restore your true identity. Until then, you have disadvantage on any Charisma (Persuasion) checks to attempt to reveal who you really are.
+    <text>When you die, you&apos;re transported to an extradimensional space where you&apos;re stabilized at 0 hit points and kept in that state. The amulet creates a perfect copy of your corpse and places it where you were just before you died, but without any of your worn or carried items. After 24 hours, you regain 1 hit point and are returned to the location of your neardeath. Everything about you is the same, except that your facial features are entirely different from before. Only a Wish spell can restore your true identity. Until then, you have disadvantage on any Charisma (Persuasion) checks to attempt to reveal who you really are.
 
 Curse:
 An Identify spell or similar reveals only that the amulet can prevent death. Once you attune to the amulet, you can't describe its ability to any other creature, and if unattuned, you immediately forget what the amulet does. A Remove Curse spell reveals the details of the curse but does not remove it from the amulet.
@@ -88,7 +88,7 @@ Source:	Chains of Asmodeus p. 267 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>6</weight>
-    <text>You have a +2 bonus to attack and damage rolls made with this magic weapon. In addition, when you're damaged by a creature in reach, you may use your reaction to make one melee attack against it with this weapon.
+    <text>You have a +2 bonus to attack and damage rolls made with this magic weapon. In addition, when you&apos;re damaged by a creature in reach, you may use your reaction to make one melee attack against it with this weapon.
 
 Curse:
 You're unwilling to part with this weapon while attuned to it. While attuned, you have disadvantage on attack rolls with weapons other than this one.
@@ -118,7 +118,7 @@ Source:	Chains of Asmodeus p. 267 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>6</weight>
-    <text>You have a +2 bonus to attack and damage rolls made with this magic weapon. In addition, when you're damaged by a creature in reach, you may use your reaction to make one melee attack against it with this weapon.
+    <text>You have a +2 bonus to attack and damage rolls made with this magic weapon. In addition, when you&apos;re damaged by a creature in reach, you may use your reaction to make one melee attack against it with this weapon.
 
 Curse:
 You're unwilling to part with this weapon while attuned to it. While attuned, you have disadvantage on attack rolls with weapons other than this one.
@@ -148,7 +148,7 @@ Source:	Chains of Asmodeus p. 267 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>4</weight>
-    <text>You have a +2 bonus to attack and damage rolls made with this magic weapon. In addition, when you're damaged by a creature in reach, you may use your reaction to make one melee attack against it with this weapon.
+    <text>You have a +2 bonus to attack and damage rolls made with this magic weapon. In addition, when you&apos;re damaged by a creature in reach, you may use your reaction to make one melee attack against it with this weapon.
 
 Curse:
 You're unwilling to part with this weapon while attuned to it. While attuned, you have disadvantage on attack rolls with weapons other than this one.
@@ -175,7 +175,7 @@ Source:	Chains of Asmodeus p. 267 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>3</weight>
-    <text>You have a +2 bonus to attack and damage rolls made with this magic weapon. In addition, when you're damaged by a creature in reach, you may use your reaction to make one melee attack against it with this weapon.
+    <text>You have a +2 bonus to attack and damage rolls made with this magic weapon. In addition, when you&apos;re damaged by a creature in reach, you may use your reaction to make one melee attack against it with this weapon.
 
 Curse:
 You're unwilling to part with this weapon while attuned to it. While attuned, you have disadvantage on attack rolls with weapons other than this one.
@@ -204,7 +204,7 @@ Source:	Chains of Asmodeus p. 267 (Third Party)</text>
     <type>W</type>
     <magic>YES</magic>
     <detail>rare (requires attunement by a bard, sorcerer, warlock, or wizard)</detail>
-    <text>You gain the power of never-ending fury. After you make a melee weapon attack, you automatically enter a special fury for 1 minute. While furious, you can't cast spells, can't verbally communicate, and are immune to the charmed and frightened conditions. Each time you deal damage, you regain 2d8 hit points and may immediately remove a condition you currently suffer from or end this fury. Additionally, while in this fury, you may spend a spell slot before you make a melee attack. Doing so causes the attack to deal an extra 3 (1d6) necrotic damage per level of spell slot expended, if the attack hits. Once used you may not use this fury again until you finish a short or long rest.
+    <text>You gain the power of never-ending fury. After you make a melee weapon attack, you automatically enter a special fury for 1 minute. While furious, you can&apos;t cast spells, can&apos;t verbally communicate, and are immune to the charmed and frightened conditions. Each time you deal damage, you regain 2d8 hit points and may immediately remove a condition you currently suffer from or end this fury. Additionally, while in this fury, you may spend a spell slot before you make a melee attack. Doing so causes the attack to deal an extra 3 (1d6) necrotic damage per level of spell slot expended, if the attack hits. Once used you may not use this fury again until you finish a short or long rest.
 
 Source:	Chains of Asmodeus p. 267 (Third Party)</text>
   </item>
@@ -251,7 +251,7 @@ Source:	Chains of Asmodeus p. 267 (Third Party)</text>
     <magic>YES</magic>
     <detail>dagger, rare</detail>
     <weight>1</weight>
-    <text>Using an action, you carve a single infernal rune into the flesh of an unconscious Beast, Celestial, Dragon, Fey, or Giant with this knife. Over the next 10 minutes the creature dies an agonizing death that can't be prevented short of the Wish spell. If the creature has any resistances or immunities, you gain those resistances and immunities until the creature dies or a Wish spell is used to save the creature. The knife's power can't be used again until you finish a long rest.
+    <text>Using an action, you carve a single infernal rune into the flesh of an unconscious Beast, Celestial, Dragon, Fey, or Giant with this knife. Over the next 10 minutes the creature dies an agonizing death that can't be prevented short of the Wish spell. If the creature has any resistances or immunities, you gain those resistances and immunities until the creature dies or a Wish spell is used to save the creature. The knife&apos;s power can&apos;t be used again until you finish a long rest.
 
 Proficiency: simple, dagger
 Source:	Chains of Asmodeus p. 267 (Third Party)</text>
@@ -265,7 +265,7 @@ Source:	Chains of Asmodeus p. 267 (Third Party)</text>
     <type>RG</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
-    <text>While wearing this ring you can use it to cast the Leomund's Tiny Hut spell as an action. Once this property is used, it can't be used again until the next dawn. Additionally, as a bonus action, you can use the ring to disintegrate any nonmagical piece of art (drawing, painting, or sculpture) within 60 feet that is no larger than Medium-sized. That art now appears inside the tiny hut, for you to appreciate whenever you desire. If you try to remove this art from the tiny hut, it vanishes forever. You can steadily improve this space, but only be denying such beauty to the rest of the world. For every 1,000 gp of art acquired, the tiny hut increases in size by adding another foot to its radius and lasts one additional hour.
+    <text>While wearing this ring you can use it to cast the Leomund&apos;s Tiny Hut spell as an action. Once this property is used, it can&apos;t be used again until the next dawn. Additionally, as a bonus action, you can use the ring to disintegrate any nonmagical piece of art (drawing, painting, or sculpture) within 60 feet that is no larger than Medium-sized. That art now appears inside the tiny hut, for you to appreciate whenever you desire. If you try to remove this art from the tiny hut, it vanishes forever. You can steadily improve this space, but only be denying such beauty to the rest of the world. For every 1,000 gp of art acquired, the tiny hut increases in size by adding another foot to its radius and lasts one additional hour.
 
 Source:	Chains of Asmodeus p. 267 (Third Party)</text>
   </item>
@@ -274,7 +274,7 @@ Source:	Chains of Asmodeus p. 267 (Third Party)</text>
     <type>RG</type>
     <magic>YES</magic>
     <detail>legendary (requires attunement)</detail>
-    <text>You gain the ability to channel energy from allies to cast spells, even if you normally can't. When an ally within 60 feet of you casts a spell that you normally can't cast and that requires 10 gp or fewer in material components, you may use a reaction to cast that spell. When cast in this way, the spell is cast using your ally's spellcasting ability, spell save JULIAN CALLEthis cloned spell's target, as specified in the spell's description, and the spell originates from you. After you use this ability, your ally can't cast this spell again until they finish a long rest.
+    <text>You gain the ability to channel energy from allies to cast spells, even if you normally can't. When an ally within 60 feet of you casts a spell that you normally can't cast and that requires 10 gp or fewer in material components, you may use a reaction to cast that spell. When cast in this way, the spell is cast using your ally's spellcasting ability, spell save JULIAN CALLEthis cloned spell's target, as specified in the spell&apos;s description, and the spell originates from you. After you use this ability, your ally can&apos;t cast this spell again until they finish a long rest.
 
 Source:	Chains of Asmodeus p. 267 (Third Party)</text>
   </item>
@@ -283,16 +283,16 @@ Source:	Chains of Asmodeus p. 267 (Third Party)</text>
     <type>RG</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
-    <text>This ring has 3 charges. While wearing this ring, when you're damaged, you may use a reaction to expend a charge and transfer that damage to a random creature (which could include an ally) within 60 feet. All charges are restored when you finish a long rest.
+    <text>This ring has 3 charges. While wearing this ring, when you&apos;re damaged, you may use a reaction to expend a charge and transfer that damage to a random creature (which could include an ally) within 60 feet. All charges are restored when you finish a long rest.
 
 Source:	Chains of Asmodeus p. 269 (Third Party)</text>
   </item>
   <item>
-    <name>Sage's Mirror</name>
+    <name>Sage&apos;s Mirror</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>rare</detail>
-    <text>This item has 3 charges and regains all charges at dusk. You can use an action and expend 1 of the mirror's charges to cast one of the following spells:
+    <text>This item has 3 charges and regains all charges at dusk. You can use an action and expend 1 of the mirror&apos;s charges to cast one of the following spells:
 
 	• Find the Path
 	• Legend Lore
@@ -373,7 +373,7 @@ Source:	Chains of Asmodeus p. 270 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>6</weight>
-    <text>You gain a +3 bonus to attack and damage rolls made with this sword. Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.
+    <text>You gain a +3 bonus to attack and damage rolls made with this sword. Hit points lost to this weapon&apos;s damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.
 
 Curse:
 You're unwilling to part with this weapon while attuned to it. While attuned to this weapon, you also have disadvantage on attack rolls made with weapons other than this one.
@@ -401,7 +401,7 @@ Source:	Chains of Asmodeus p. 270 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>3</weight>
-    <text>You gain a +3 bonus to attack and damage rolls made with this sword. Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.
+    <text>You gain a +3 bonus to attack and damage rolls made with this sword. Hit points lost to this weapon&apos;s damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.
 
 Curse:
 You're unwilling to part with this weapon while attuned to it. While attuned to this weapon, you also have disadvantage on attack rolls made with weapons other than this one.
@@ -428,7 +428,7 @@ Source:	Chains of Asmodeus p. 270 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>2</weight>
-    <text>You gain a +3 bonus to attack and damage rolls made with this sword. Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.
+    <text>You gain a +3 bonus to attack and damage rolls made with this sword. Hit points lost to this weapon&apos;s damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.
 
 Curse:
 You're unwilling to part with this weapon while attuned to it. While attuned to this weapon, you also have disadvantage on attack rolls made with weapons other than this one.
@@ -454,7 +454,7 @@ Source:	Chains of Asmodeus p. 270 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>3</weight>
-    <text>You gain a +3 bonus to attack and damage rolls made with this sword. Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.
+    <text>You gain a +3 bonus to attack and damage rolls made with this sword. Hit points lost to this weapon&apos;s damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.
 
 Curse:
 You're unwilling to part with this weapon while attuned to it. While attuned to this weapon, you also have disadvantage on attack rolls made with weapons other than this one.
@@ -482,7 +482,7 @@ Source:	Chains of Asmodeus p. 270 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>2</weight>
-    <text>You gain a +3 bonus to attack and damage rolls made with this sword. Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.
+    <text>You gain a +3 bonus to attack and damage rolls made with this sword. Hit points lost to this weapon&apos;s damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.
 
 Curse:
 You're unwilling to part with this weapon while attuned to it. While attuned to this weapon, you also have disadvantage on attack rolls made with weapons other than this one.
@@ -526,7 +526,7 @@ Source:	Chains of Asmodeus p. 270 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>4</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Proficiency: martial, battleaxe
 Source:	Chains of Asmodeus p. 271 (Third Party)</text>
@@ -543,7 +543,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>2</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Proficiency: simple, club
 Source:	Chains of Asmodeus p. 271 (Third Party)</text>
@@ -559,7 +559,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>1</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Proficiency: simple, dagger
 Source:	Chains of Asmodeus p. 271 (Third Party)</text>
@@ -576,7 +576,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>2</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Proficiency: martial, flail
 Source:	Chains of Asmodeus p. 271 (Third Party)</text>
@@ -592,7 +592,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>6</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.
 
@@ -614,7 +614,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>7</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.
 
@@ -634,7 +634,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>10</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Two-Handed: This weapon requires two hands when you attack with it.
 
@@ -652,7 +652,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>6</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.
 
@@ -672,7 +672,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>6</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.
 
@@ -694,7 +694,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>2</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Proficiency: simple, handaxe
 Source:	Chains of Asmodeus p. 271 (Third Party)</text>
@@ -711,7 +711,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>2</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Thrown: If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
 
@@ -730,7 +730,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>6</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Special: You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
 
@@ -750,7 +750,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>2</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
 
@@ -771,7 +771,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>3</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.
 
@@ -790,7 +790,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>4</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Proficiency: simple, mace
 Source:	Chains of Asmodeus p. 271 (Third Party)</text>
@@ -805,7 +805,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>10</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.
 
@@ -825,7 +825,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>4</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Proficiency: martial, morningstar
 Source:	Chains of Asmodeus p. 271 (Third Party)</text>
@@ -841,7 +841,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>18</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.
 
@@ -863,7 +863,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>4</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.
 
@@ -882,7 +882,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>2</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
@@ -900,7 +900,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>3</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
@@ -920,7 +920,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>2</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
@@ -940,7 +940,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>2</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
 
@@ -958,7 +958,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>3</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Thrown: If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
 
@@ -980,7 +980,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>4</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Thrown: If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
 
@@ -1002,7 +1002,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>2</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Proficiency: martial, war pick
 Source:	Chains of Asmodeus p. 271 (Third Party)</text>
@@ -1018,7 +1018,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>2</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.
 
@@ -1037,7 +1037,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>3</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
@@ -1057,7 +1057,7 @@ Source:	Chains of Asmodeus p. 271 (Third Party)</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>3</weight>
-    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're paralyzed, the creature suffers immense pain and gains a level of exhaustion.
+    <text>You have a +3 bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they&apos;re healed to 1 hit point. They now have the paralyzed condition until the condition is removed by a Lesser Restoration spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they&apos;re paralyzed, the creature suffers immense pain and gains a level of exhaustion.
 
 Thrown: If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
 
@@ -1141,7 +1141,7 @@ Source:	Chains of Asmodeus p. 272 (Third Party)</text>
     <magic>YES</magic>
     <detail>pike, artifact (requires attunement)</detail>
     <weight>18</weight>
-    <text>Forged of infernal iron and Hellfire through the help of Dispater, the Ranseur of Torture has been Belial's weapon of choice since he first became an archdevil. It is so directly tied to him that one of his worshipped symbols is a two-pronged fork. The weapon never leaves his side, and he is a master at wielding it.
+    <text>Forged of infernal iron and Hellfire through the help of Dispater, the Ranseur of Torture has been Belial&apos;s weapon of choice since he first became an archdevil. It is so directly tied to him that one of his worshipped symbols is a two-pronged fork. The weapon never leaves his side, and he is a master at wielding it.
 
 The Ranseur of Torture is a magic pike. You have a +3 bonus to attack and damage rolls made with this weapon, and it does 2d10 piercing damage instead of its regular damage. When you hit a good aligned creature with it, that creature takes an extra 1d10 necrotic damage.
 
@@ -1186,7 +1186,7 @@ Source:	Chains of Asmodeus p. 272 (Third Party)</text>
     <type>RD</type>
     <magic>YES</magic>
     <detail>artifact (requires attunement)</detail>
-    <text>Asmodeus's Ruby Rod is said to have been constructed from a shard of pure evil, a ruby soaked in the blood of the innocents, the drool from a draconic deity, and the tears of 777 angels. It is a magic rod that functions as a morningstar and you have a +2 bonus to attack and damage rolls made with it. All damage dealt with it is converted to necrotic, and when you hit a good aligned creature, that creature takes an extra 2d12 necrotic damage.
+    <text>Asmodeus&apos;s Ruby Rod is said to have been constructed from a shard of pure evil, a ruby soaked in the blood of the innocents, the drool from a draconic deity, and the tears of 777 angels. It is a magic rod that functions as a morningstar and you have a +2 bonus to attack and damage rolls made with it. All damage dealt with it is converted to necrotic, and when you hit a good aligned creature, that creature takes an extra 2d12 necrotic damage.
 
 The Ruby Rod of Asmodeus has 66 charges and regains 6d6 charges each nightfall. Asmodeus is always capable of perceiving through the rod and knows the exact location of any creature attuned to it. If a creature uses the special abilities of the rod without Asmodeus's permission, they take 2d12 necrotic damage each use, doubled if they're good aligned. This damage ignores resistances and immunities, and if it kills the user, Asmodeus permanently claims their soul.
 
@@ -1303,7 +1303,7 @@ Source:	Chains of Asmodeus p. 275 (Third Party)</text>
     <magic>YES</magic>
     <detail>warhammer, artifact (requires attunement)</detail>
     <weight>2</weight>
-    <text>Constructed from the same materials as his tower, Dispater's Wrought-Iron Tower is a powerful weapon that marks his rule over Dis. It embodies his ideals, representing defense, authority, and power. Its construction changes hourly, similar to the tower, appearing as either iron, steel, lead, or adamantine.
+    <text>Constructed from the same materials as his tower, Dispater&apos;s Wrought-Iron Tower is a powerful weapon that marks his rule over Dis. It embodies his ideals, representing defense, authority, and power. Its construction changes hourly, similar to the tower, appearing as either iron, steel, lead, or adamantine.
 
 The Wrought-Iron Tower is a magic staff that functions as a warhammer and you have a +3 bonus to attack and damage rolls made with it. If a creature is vulnerable to a certain type of damage, all damage dealt with the staff is converted to that damage type. When you hit a good aligned creature with it, that creature takes an extra 3d6 fire damage.
 

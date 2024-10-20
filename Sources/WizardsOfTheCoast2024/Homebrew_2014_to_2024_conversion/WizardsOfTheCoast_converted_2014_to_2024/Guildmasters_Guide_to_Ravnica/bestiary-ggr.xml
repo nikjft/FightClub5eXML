@@ -100,7 +100,7 @@ Each creature of the archon's choice that the archon can see within 120 feet of 
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The celestial can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The celestial regains spent legendary actions at the start of its turn.</text>
+      <text>The celestial can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The celestial regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Rejoin Mount</name>
@@ -260,13 +260,13 @@ Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 12 (1d8 + 8) slas
 Aurelia utters a few inspiring words to one creature she can see within 30 feet of her. If the creature can hear her, it can add a d10 to one attack roll or saving throw it makes before the start of Aurelia's next turn.</text>
     </action>
     <action>
-      <name>Warleader's Helix (Recharge 5-6)</name>
+      <name>Warleader&apos;s Helix (Recharge 5-6)</name>
       <recharge>D5</recharge>
       <text>
 Ranged Spell Attack: +17 to hit, range 60 ft., one target. Hit: 54 (12d8) radiant damage, and Aurelia can choose another creature she can see within 10 feet of the target.
 
 The second creature regains 27 (6d8) hit points.</text>
-      <attack>Warleader's Helix|+17|12d8</attack>
+      <attack>Warleader&apos;s Helix|+17|12d8</attack>
     </action>
     <reaction>
       <name>Parry</name>
@@ -281,7 +281,7 @@ When Aurelia is subjected to an effect that would move her, knock her prone, or 
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Aurelia can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Aurelia regains spent legendary actions at the start of its turn.</text>
+      <text>Aurelia can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Aurelia regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Command Allies</name>
@@ -362,7 +362,7 @@ If the target is within 5 feet of any of the angel's allies, the target takes an
       <text>
 The angel chooses up to three creatures it can see within 30 feet of it. Until the end of the angel's next turn, each target can add a d4 to its attack rolls and saving throws.</text>
     </action>
-    <description>Battleforce angels are the radiant hosts that soar into combat, bathed in the light of Boros zeal. They lead companies of mortal soldiers from above or fly ahead of roc-mounted skyknights. They don't shy away from the blood, pain, and confusion of combat; rather, they immerse themselves in the shifting tides of battle. Only by wading into the battle can they fulfill their responsibility to carry out the commands of the warleaders by adapting their tactics to the shifting situation on the ground.
+    <description>Battleforce angels are the radiant hosts that soar into combat, bathed in the light of Boros zeal. They lead companies of mortal soldiers from above or fly ahead of roc-mounted skyknights. They don&apos;t shy away from the blood, pain, and confusion of combat; rather, they immerse themselves in the shifting tides of battle. Only by wading into the battle can they fulfill their responsibility to carry out the commands of the warleaders by adapting their tactics to the shifting situation on the ground.
 
 Boros Angels:
 Angels of the Boros Legion view themselves as the embodiments of what their creator intended. They are fierce warriors devoted to justice and dedicated to protecting the weak against evil and oppression. They are commanders, advisors, strategists, and soldiers. Their presence in battle inspires the mortal soldiers of the legion with righteous zeal.
@@ -554,7 +554,7 @@ The vampire can also grapple the target (escape DC 14) if it is a creature and t
       <text>
 The vampire adds 3 to its AC against one melee attack that would hit it. To do so, the vampire must see the attacker and be wielding a melee weapon.</text>
     </reaction>
-    <description>Plenty of blood drinkers haunt Ravnica's alleys and sewers, preying on those who are foolish enough to leave the relative safety of the crowds.
+    <description>Plenty of blood drinkers haunt Ravnica&apos;s alleys and sewers, preying on those who are foolish enough to leave the relative safety of the crowds.
 
 Orzhov Vampires:
 Vampires thrive in the Orzhov Syndicate, where they can collect tithes and payments from their debtors in the form of blood. Their undead nature gives them the same immortality enjoyed by the oligarch spirits, but they remain capable of experiencing all the delights of their corporeal forms. In contrast to Orzhov spirits, they also retain their personalities, which are almost uniformly cruel.
@@ -600,7 +600,7 @@ Source:	Guildmasters' Guide to Ravnica p. 223</description>
 The witch can use a bonus action to control the movement of one creature cursed by its hex spell that it can see within 30 feet of it. The creature must succeed on a DC 15 Charisma saving throw or use its reaction to move up to 30 feet in a direction of the witch's choice.</text>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede the witch's darkvision.</text>
     </trait>
@@ -762,7 +762,7 @@ Each creature of Borborygmos's choice that is within 60 feet of him and can see 
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Borborygmos can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Borborygmos regains spent legendary actions at the start of its turn.</text>
+      <text>Borborygmos can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Borborygmos regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Attack</name>
@@ -843,7 +843,7 @@ The cackler's innate spellcasting ability is Charisma (spell save DC 11, +3 to h
 	• At will: fire bolt
 	• 1/Day: Tasha's hideous laughter</text>
     </trait>
-    <spells>fire bolt, Tasha's hideous laughter</spells>
+    <spells>fire bolt, Tasha&apos;s hideous laughter</spells>
     <description>Cacklers are small, jabbering jesters that spice up Rakdos performances with their chaotic antics. Their incessant cackling can inspire uncontrollable laughter by making everything—even the most horrifying spectacles—seem hilarious. Some cacklers excel at vocal mimicry and perform as impressionists; others put their sadistic bent to use by lurking in shadows and terrifying passersby. Rakdos performers enjoy dressing cacklers in a variety of masks, hats, and costumes to lampoon public figures.
 
 Demons:
@@ -904,7 +904,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) pierc
 Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.</text>
       <attack>Claws|+5|1d8+3</attack>
     </action>
-    <description>In the deep sinkholes that serve as laboratories and guildhalls for the Simic Combine, biomancers employ a combination of magic and scientific method to create novel life forms. They coax new morphologies from existing creatures or combine traits from multiple organisms into one, producing the creatures known as krasis. Some krasis are unique creatures that can't reproduce. A few multiply and become part of the guild's standard menagerie.
+    <description>In the deep sinkholes that serve as laboratories and guildhalls for the Simic Combine, biomancers employ a combination of magic and scientific method to create novel life forms. They coax new morphologies from existing creatures or combine traits from multiple organisms into one, producing the creatures known as krasis. Some krasis are unique creatures that can&apos;t reproduce. A few multiply and become part of the guild&apos;s standard menagerie.
 
 Creating a Krasis:
 To create a krasis, choose the appropriate stat block: category 1 (Medium), category 2 (Large), or category 3 (Huge). Then roll once on the Major Adaptations table and once on the Minor Adaptations table (or choose an option from each table) to determine its additional characteristics. The potency of some adaptations varies based on the category of the krasis, as indicated in the descriptions of those adaptations.
@@ -982,7 +982,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) pier
 Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) slashing damage.</text>
       <attack>Claws|+7|2d12+4</attack>
     </action>
-    <description>In the deep sinkholes that serve as laboratories and guildhalls for the Simic Combine, biomancers employ a combination of magic and scientific method to create novel life forms. They coax new morphologies from existing creatures or combine traits from multiple organisms into one, producing the creatures known as krasis. Some krasis are unique creatures that can't reproduce. A few multiply and become part of the guild's standard menagerie.
+    <description>In the deep sinkholes that serve as laboratories and guildhalls for the Simic Combine, biomancers employ a combination of magic and scientific method to create novel life forms. They coax new morphologies from existing creatures or combine traits from multiple organisms into one, producing the creatures known as krasis. Some krasis are unique creatures that can&apos;t reproduce. A few multiply and become part of the guild&apos;s standard menagerie.
 
 Creating a Krasis:
 To create a krasis, choose the appropriate stat block: category 1 (Medium), category 2 (Large), or category 3 (Huge). Then roll once on the Major Adaptations table and once on the Minor Adaptations table (or choose an option from each table) to determine its additional characteristics. The potency of some adaptations varies based on the category of the krasis, as indicated in the descriptions of those adaptations.
@@ -1068,7 +1068,7 @@ Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 33 (6d8 + 6) blu
 If the target is a creature, it must succeed on a DC 19 Strength saving throw or be knocked prone.</text>
       <attack>Tail|+11|6d8+6</attack>
     </action>
-    <description>In the deep sinkholes that serve as laboratories and guildhalls for the Simic Combine, biomancers employ a combination of magic and scientific method to create novel life forms. They coax new morphologies from existing creatures or combine traits from multiple organisms into one, producing the creatures known as krasis. Some krasis are unique creatures that can't reproduce. A few multiply and become part of the guild's standard menagerie.
+    <description>In the deep sinkholes that serve as laboratories and guildhalls for the Simic Combine, biomancers employ a combination of magic and scientific method to create novel life forms. They coax new morphologies from existing creatures or combine traits from multiple organisms into one, producing the creatures known as krasis. Some krasis are unique creatures that can&apos;t reproduce. A few multiply and become part of the guild&apos;s standard menagerie.
 
 Creating a Krasis:
 To create a krasis, choose the appropriate stat block: category 1 (Medium), category 2 (Large), or category 3 (Huge). Then roll once on the Major Adaptations table and once on the Minor Adaptations table (or choose an option from each table) to determine its additional characteristics. The potency of some adaptations varies based on the category of the krasis, as indicated in the descriptions of those adaptations.
@@ -1175,7 +1175,7 @@ The dryad's innate spellcasting ability is Charisma (spell save DC 17). The drya
 	• 1/Day each: moonbeam, grasping vine, wall of thorns</text>
     </trait>
     <spells>druidcraft, dispel magic, entangle, plant growth, spike growth, moonbeam, grasping vine, wall of thorns</spells>
-    <description>The lush forests that once grew on Ravnica are gone, but the dryads remain, striving to bring the sprawling city and the verdant green of nature into harmony. Dryads believe that their efforts are the will of Mat'Selesnya, the soul of the world, and they spread their teachings through every Selesnya enclave.
+    <description>The lush forests that once grew on Ravnica are gone, but the dryads remain, striving to bring the sprawling city and the verdant green of nature into harmony. Dryads believe that their efforts are the will of Mat&apos;Selesnya, the soul of the world, and they spread their teachings through every Selesnya enclave.
 
 Thanks to their attunement to Mat'Selesnya, dryads serve as visionaries and spiritual intermediaries for the Selesnya Conclave. They hold positions of great respect as spiritual leaders, and also share their vision of harmonious construction as architects, working with stonemasons and woodshapers to create Selesnya enclaves.
 
@@ -1429,7 +1429,7 @@ The poisoned target can repeat the saving throw at the end of each of its turns,
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The undead can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The undead regains spent legendary actions at the start of its turn.</text>
+      <text>The undead can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The undead regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Cantrip</name>
@@ -1461,8 +1461,8 @@ The lich is a 14th-level Golgari spellcaster. Its spellcasting ability is Intell
 	• 7th level (1 slots): finger of death</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 2, 1, 1</slots>
-    <spells>acid splash, chill touch, mage hand, poison spray, prestidigitation, chromatic orb, magic missile, ray of sickness, Melf's acid arrow, ray of enfeeblement, spider climb, web, animate dead, bestow curse, fear, vampiric touch, blight, Evard's black tentacles, cloudkill, insect plague, circle of death, create undead, finger of death</spells>
-    <description>Powerful spellcasters of the Devkarin elves, steeped in Golgari magic, can transcend death to become liches. For them, life and death don't merely chase each other in an inevitable cycle; the two can intersect, and at that nexus the liches find immense power, which commands the awe, envy, and fear of other Golgari.
+    <spells>acid splash, chill touch, mage hand, poison spray, prestidigitation, chromatic orb, magic missile, ray of sickness, Melf&apos;s acid arrow, ray of enfeeblement, spider climb, web, animate dead, bestow curse, fear, vampiric touch, blight, Evard&apos;s black tentacles, cloudkill, insect plague, circle of death, create undead, finger of death</spells>
+    <description>Powerful spellcasters of the Devkarin elves, steeped in Golgari magic, can transcend death to become liches. For them, life and death don&apos;t merely chase each other in an inevitable cycle; the two can intersect, and at that nexus the liches find immense power, which commands the awe, envy, and fear of other Golgari.
 
 Unlike the shambling zombies they command, liches retain their memories, their personalities, and especially their ambition. They also retain the grace and stature of living elves, but their bodies are in a constant state of slow decay. Various forms of fungus grow in and over the rotting flesh to hold the body together.
 
@@ -1551,7 +1551,7 @@ Source:	Guildmasters' Guide to Ravnica p. 239</description>
     <save>Dex +6, Wis +6, Cha +5</save>
     <skill>Insight +6, Perception +6</skill>
     <passive>16</passive>
-    <languages>understands Celestial and Common but can't speak</languages>
+    <languages>understands Celestial and Common but can&apos;t speak</languages>
     <cr>5</cr>
     <resist/>
     <immune/>
@@ -1656,7 +1656,7 @@ The firefist is a 9th-level Boros spellcaster. Its spellcasting ability is Wisdo
 	• 5th level (1 slots): flame strike</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 1</slots>
-    <spells>fire bolt, light, sacred flame, spare the dying, guiding bolt, healing word, heroism, shield of faith, lesser restoration, scorching ray, blinding smite, crusader's mantle, revivify, banishment, wall of fire, flame strike</spells>
+    <spells>fire bolt, light, sacred flame, spare the dying, guiding bolt, healing word, heroism, shield of faith, lesser restoration, scorching ray, blinding smite, crusader&apos;s mantle, revivify, banishment, wall of fire, flame strike</spells>
     <description>Boros firefists combine potent magic with peerless fighting ability, inspiring all who serve alongside them. They often act as the point of contact between the Boros Legion and the angelic leaders.
 
 Source:	Guildmasters' Guide to Ravnica p. 231</description>
@@ -1836,7 +1836,7 @@ Hit or Miss: The fluxcharger takes 5 (1d10) force damage after resolving the att
       <attack>Arc Lightning|+7|3d10</attack>
       <attack>Arc Lightning||3d8</attack>
     </action>
-    <description>In an effort to create a weird that could be more easily controlled, Izzet mages tried binding elemental lightning, fire, and smoke into a framework made of the magical alloy mizzium. The experiment was partly successful: the resulting weird, a fluxcharger, doesn't explode like some other weirds do, but it is more intelligent and more headstrong than other weirds.
+    <description>In an effort to create a weird that could be more easily controlled, Izzet mages tried binding elemental lightning, fire, and smoke into a framework made of the magical alloy mizzium. The experiment was partly successful: the resulting weird, a fluxcharger, doesn&apos;t explode like some other weirds do, but it is more intelligent and more headstrong than other weirds.
 
 A fluxcharger's mizzium frame is suggestive of an angel. A faceplate is meant to give it some personality, but most people find its solemn expression and unblinking stare more unnerving than relatable.
 
@@ -1895,7 +1895,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) slashi
       <text>
 The horror screeches: Each creature within 30 feet of it that can hear it must succeed on a DC 13 Wisdom saving throw or be frightened of it for 1 minute. The frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the horror's Frightening Screech for the next 24 hours.</text>
     </action>
-    <description>Horrors and Madness. Horrors on Ravnica are terror and madness personified. You can represent this reality by using the madness rules in the Dungeon Master's Guide.
+    <description>Horrors and Madness. Horrors on Ravnica are terror and madness personified. You can represent this reality by using the madness rules in the Dungeon Master&apos;s Guide.
 
 Whenever a character fails a saving throw against the flying horror's Frightening Screech, the shadow horror's claw attack, or the skittering horror's Maddening Presence, note that fact. At the end of the encounter, have each character who failed at least one of those saving throws make a DC 13 Wisdom saving throw. On a successful save, nothing happens. On a failed save, a character gains a form of madness from the Dungeon Master's Guide, with the severity depending on how many of the saving throws that character failed during the encounter, as shown on the Madness Severity table.
 
@@ -2143,7 +2143,7 @@ Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 18 (3d8 + 5) pierc
 Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (3d6 + 5) slashing damage.</text>
       <attack>Claws|+8|3d6+5</attack>
     </action>
-    <description>A gloamwing's head is almost ratlike, with prominent teeth, and its leathery skin is stretched tight over its skull, where its eyes are empty sockets. Its body is mottled with bony plates, and great wings stretch from its shoulders.
+    <description>A gloamwing&apos;s head is almost ratlike, with prominent teeth, and its leathery skin is stretched tight over its skull, where its eyes are empty sockets. Its body is mottled with bony plates, and great wings stretch from its shoulders.
 
 Source:	Guildmasters' Guide to Ravnica p. 215</description>
     <environment/>
@@ -2208,7 +2208,7 @@ The shaman is an 8th-level Golgari spellcaster. Its spellcasting ability is Wisd
     </trait>
     <slots>0, 4, 3, 3, 2</slots>
     <spells>poison spray, shillelagh, thorn whip, cure wounds, entangle, ray of sickness, pass without trace, ray of enfeeblement, spike growth, animate dead, dispel magic, plant growth, blight, giant insect</spells>
-    <description>Golgari shamans are the spiritual leaders of the Golgari Swarm. They teach the guild's beliefs about the cycles of nature, using their necromantic magic to show how life sprouts from death.
+    <description>Golgari shamans are the spiritual leaders of the Golgari Swarm. They teach the guild&apos;s beliefs about the cycles of nature, using their necromantic magic to show how life sprouts from death.
 
 Golgari shamans paint their faces so they appear to have extra eyes on their cheeks and chins. They sometimes use magical moodmark paint (described in chapter 5) to allow them to communicate by means of these marks. They wear clothing adorned with beetle carapaces, spiderwebs, or shelf fungus.
 
@@ -2610,7 +2610,7 @@ The spirit can move through other creatures and objects as if they were difficul
 Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 10 (3d6) necrotic damage.</text>
       <attack>Withering Touch|+3|3d6</attack>
     </action>
-    <description>Those who die with unpaid debts to the Orzhov Syndicate don't get a reprieve. Instead, their spirits serve the syndicate until they have worked off their obligation. Sometimes that means existing as an indentured spirit for years or even millennia.
+    <description>Those who die with unpaid debts to the Orzhov Syndicate don&apos;t get a reprieve. Instead, their spirits serve the syndicate until they have worked off their obligation. Sometimes that means existing as an indentured spirit for years or even millennia.
 
 An indentured spirit is an incorporeal being draped in ghostly black robes and a hood that hides whatever face it might have. Chains are hung around its chest and arms as a perpetual marker of its servitude.
 
@@ -2679,7 +2679,7 @@ Isperia chooses up to three creatures she can see within 90 feet of her. Each ta
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Isperia can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Isperia regains spent legendary actions at the start of its turn.</text>
+      <text>Isperia can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Isperia regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Claw Attack</name>
@@ -2806,7 +2806,7 @@ Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) blud
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Jarad can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Jarad regains spent legendary actions at the start of its turn.</text>
+      <text>Jarad can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Jarad regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Cantrip</name>
@@ -2838,7 +2838,7 @@ Jarad is a 14th-level Golgari spellcaster. His spellcasting ability is Intellige
 	• 7th level (1 slots): finger of death, forcecage</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 2, 1, 1</slots>
-    <spells>acid splash, chill touch, mage hand, poison spray, prestidigitation, entangle, ray of sickness, sleep, Melf's acid arrow, ray of enfeeblement, spider climb, web, animate dead, plant growth, vampiric touch, blight, giant insect, grasping vine, cloudkill, insect plague, circle of death, create undead, finger of death, forcecage</spells>
+    <spells>acid splash, chill touch, mage hand, poison spray, prestidigitation, entangle, ray of sickness, sleep, Melf&apos;s acid arrow, ray of enfeeblement, spider climb, web, animate dead, plant growth, vampiric touch, blight, giant insect, grasping vine, cloudkill, insect plague, circle of death, create undead, finger of death, forcecage</spells>
     <description>The Golgari guildmaster is a Devkarin necromancer and lich named Jarad Vod Savo. In life, Jarad was an archer and accomplished hunter, as well as the brother of the previous guildmaster, the ambitious Savra. Jarad mastered the ways of necromancy so he could rise as a lich after he sacrificed himself to save his son from the demon Rakdos.
 
 As head of the Golgari Swarm, Jarad commands elf and medusa assassins, legions of kraul, brutish trolls, and masses of undercity-dwelling creatures. Thanks to the necromantic power he wields-and with the support of his loyal guards and soldiers-he has survived a number of assassination attempts from various upstarts.
@@ -2941,7 +2941,7 @@ Source:	Guildmasters' Guide to Ravnica p. 214</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>Kraul, understands Common but can't speak it</languages>
+    <languages>Kraul, understands Common but can&apos;t speak it</languages>
     <cr>1/2</cr>
     <resist/>
     <immune/>
@@ -3025,7 +3025,7 @@ The lawmage is an 8th-level Azorius spellcaster. Its spellcasting ability is Int
     </trait>
     <slots>0, 4, 3, 3, 2</slots>
     <spells>fire bolt, friends, light, message, alarm, expeditious retreat, shield, arcane lock, detect thoughts, hold person, clairvoyance, dispel magic, slow, locate creature, stoneskin</spells>
-    <description>The Azorius Senate has spellcasters who are trained to capture lawbreakers and bring them to justice. A lawmage's magic is focused on restraining criminals and on protecting bystanders from becoming casualties when arresters are pursuing malefactors. A significant proportion of the guild's vedalken are lawmages.
+    <description>The Azorius Senate has spellcasters who are trained to capture lawbreakers and bring them to justice. A lawmage&apos;s magic is focused on restraining criminals and on protecting bystanders from becoming casualties when arresters are pursuing malefactors. A significant proportion of the guild&apos;s vedalken are lawmages.
 
 Source:	Guildmasters' Guide to Ravnica p. 228</description>
     <environment/>
@@ -3047,7 +3047,7 @@ Source:	Guildmasters' Guide to Ravnica p. 228</description>
     <save>Dex +13, Int +12, Wis +11, Cha +12</save>
     <skill>Deception +18, Insight +11, Perception +11, Stealth +19</skill>
     <passive>21</passive>
-    <languages>Common, Thieves' cant</languages>
+    <languages>Common, Thieves&apos; cant</languages>
     <cr>17</cr>
     <resist>necrotic, psychic</resist>
     <immune>poison</immune>
@@ -3089,7 +3089,7 @@ Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 10 (1d6 + 7) pier
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Lazav can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Lazav regains spent legendary actions at the start of its turn.</text>
+      <text>Lazav can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Lazav regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Attack</name>
@@ -3115,7 +3115,7 @@ Lazav's innate spellcasting ability is Intelligence (spell save DC 20). He can i
 	• 3/Day each: blur, confusion, mirror image
 	• 1/Day each: modify memory, Rary's telepathic bond</text>
     </trait>
-    <spells>detect thoughts, encode thoughts, freedom of movement, vicious mockery, blur, confusion, mirror image, modify memory, Rary's telepathic bond</spells>
+    <spells>detect thoughts, encode thoughts, freedom of movement, vicious mockery, blur, confusion, mirror image, modify memory, Rary&apos;s telepathic bond</spells>
     <description>Lazav is uniquely qualified to be the Dimir guildmaster: he is a shapechanger whose mysterious genius is informed by agents from the entire Dimir network. He takes on a tremendous variety of guises as his needs and plans require. He might step out into the Ravnican streets as an elderly widow to eavesdrop at the bazaar, become a vedalken hussar of the Azorius Senate to sidestep a checkpoint, or transform into a Tin Street merchant to deceive a passing noble. His true form might be that of a doppelganger or some other creature; no one has ever seen it.
 
 Source:	Guildmasters' Guide to Ravnica p. 232</description>
@@ -3334,7 +3334,7 @@ The mage's spellcasting ability is Intelligence (spell save DC 16). It can innat
 	• 1/Day each: dominate person, mass suggestion, modify memory</text>
     </trait>
     <spells>encode thoughts, friends, charm person, detect thoughts, mage armor, sleep, suggestion, dominate person, mass suggestion, modify memory</spells>
-    <description>Dimir mind mages are among the most feared spellcasters in Ravnica, thanks in large part to the aura of mystery that shrouds them and their work. Their ability to read and alter memories commands respect from the other members of House Dimir and makes them useful in the full spectrum of the guild's activities. Many mind mages lead cells of their own.
+    <description>Dimir mind mages are among the most feared spellcasters in Ravnica, thanks in large part to the aura of mystery that shrouds them and their work. Their ability to read and alter memories commands respect from the other members of House Dimir and makes them useful in the full spectrum of the guild&apos;s activities. Many mind mages lead cells of their own.
 
 Source:	Guildmasters' Guide to Ravnica p. 233</description>
     <environment/>
@@ -3356,7 +3356,7 @@ Source:	Guildmasters' Guide to Ravnica p. 233</description>
     <save>Dex +8, Wis +7</save>
     <skill>Insight +7, Perception +7, Stealth +8</skill>
     <passive>17</passive>
-    <languages>understands Common but can't speak</languages>
+    <languages>understands Common but can&apos;t speak</languages>
     <cr>10</cr>
     <resist>necrotic; bludgeoning, piercing, slashing from nonmagical attacks</resist>
     <immune>poison</immune>
@@ -3392,7 +3392,7 @@ The specter magically emits psychic energy in a 60-foot cone. Each creature in t
       <text>
 The specter touches one incapacitated creature and chooses 1 hour from among the past 24. Unless the creature succeeds on a DC 15 Intelligence saving throw, the creature loses all memory of that hour. The creature regains the memory only if the specter dies within the next 24 hours.</text>
     </action>
-    <description>The Nightveil specters of Ravnica are hooded, undead guardians that ride flying creatures called gloamwings. They are fearsome agents of House Dimir, protecting the territory and interests of that guild-particularly the neighborhood of Nightveil, from which the specters get their name. Their work can include driving off people who accidentally wander too close to a secret rooftop meeting, killing those who knowingly infiltrate Dimir property, and tracking those who have stolen guild secrets, then wiping those secrets from their victims' minds to ensure that they are never shared.
+    <description>The Nightveil specters of Ravnica are hooded, undead guardians that ride flying creatures called gloamwings. They are fearsome agents of House Dimir, protecting the territory and interests of that guild-particularly the neighborhood of Nightveil, from which the specters get their name. Their work can include driving off people who accidentally wander too close to a secret rooftop meeting, killing those who knowingly infiltrate Dimir property, and tracking those who have stolen guild secrets, then wiping those secrets from their victims&apos; minds to ensure that they are never shared.
 
 Limited Sentience:
 A Nightveil specter is created when the mind magic of House Dimir erases a person's identity, leaving a mind so broken it can no longer live. Thus, Nightveil specters have no memory of their previous lives, and they are just clever enough to follow their orders with some amount of creativity. They pursue their assigned tasks with fearless determination.
@@ -3486,7 +3486,7 @@ Niv-Mizzet exhales fire in a 90-foot cone. Each creature in that area must make 
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>Niv-Mizzet can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Niv-Mizzet regains spent legendary actions at the start of its turn.</text>
+      <text>Niv-Mizzet can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Niv-Mizzet regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Cantrip</name>
@@ -3656,7 +3656,7 @@ The ghost summons the other four members of the Obzedat. At the start of the gho
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>If five Obzedat ghosts are all within 30 feet of each other, they can collectively take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. Obzedat ghosts regain spent legendary actions at the start of the turn of the ghost with the highest initiative.</text>
+      <text>If five Obzedat ghosts are all within 30 feet of each other, they can collectively take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature&apos;s turn. Obzedat ghosts regain spent legendary actions at the start of the turn of the ghost with the highest initiative.</text>
     </legendary>
     <legendary>
       <name>Forced Obedience</name>
@@ -3878,7 +3878,7 @@ Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 17 (2d8 + 8) sla
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Rakdos can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Rakdos regains spent legendary actions at the start of its turn.</text>
+      <text>Rakdos can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Rakdos regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Sadistic Revelry</name>
@@ -3950,8 +3950,8 @@ The lampooner is a 4th-level Rakdos spellcaster. Its spellcasting ability is Cha
 	• 2nd level (3 slots): crown of madness, enthrall, suggestion</text>
     </trait>
     <slots>0, 4, 3</slots>
-    <spells>dancing lights, minor illusion, vicious mockery, bane, dissonant whispers, silent image, Tasha's hideous laughter, thunderwave, crown of madness, enthrall, suggestion</spells>
-    <description>One of the most effective weapons in the Rakdos cult's arsenal is satire, and a Rakdos lampooner is a virtuoso of that art. Lampooners generally reserve their mockery for people and guilds that have seized an outsized measure of power, those who need to be taken down a peg, rather than piling further humiliation onto those who are already struggling. They use masks, marionettes, or effigies to caricature public figures, or sometimes play pranks on those individuals directly in the streets.
+    <spells>dancing lights, minor illusion, vicious mockery, bane, dissonant whispers, silent image, Tasha&apos;s hideous laughter, thunderwave, crown of madness, enthrall, suggestion</spells>
+    <description>One of the most effective weapons in the Rakdos cult&apos;s arsenal is satire, and a Rakdos lampooner is a virtuoso of that art. Lampooners generally reserve their mockery for people and guilds that have seized an outsized measure of power, those who need to be taken down a peg, rather than piling further humiliation onto those who are already struggling. They use masks, marionettes, or effigies to caricature public figures, or sometimes play pranks on those individuals directly in the streets.
 
 Source:	Guildmasters' Guide to Ravnica p. 248</description>
     <environment/>
@@ -3996,7 +3996,7 @@ The juggler makes three dagger attacks.</text>
 Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.</text>
       <attack>Dagger|+5|1d4+3</attack>
     </action>
-    <description>By offering a place for those of many different talents, the Cult of Rakdos has seen its numbers swell with performing artists, including blade jugglers, fire eaters, and high wire acrobats. Performers carry the message of Rakdos out into the streets: cut loose, free yourself from the bonds of society's mores and expectations, and indulge your desires.
+    <description>By offering a place for those of many different talents, the Cult of Rakdos has seen its numbers swell with performing artists, including blade jugglers, fire eaters, and high wire acrobats. Performers carry the message of Rakdos out into the streets: cut loose, free yourself from the bonds of society&apos;s mores and expectations, and indulge your desires.
 
 Source:	Guildmasters' Guide to Ravnica p. 249</description>
     <environment/>
@@ -4048,7 +4048,7 @@ Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 6 (1d6 + 3) slash
 The fire eater exhales flames. Each creature in a 15-foot cone must make a DC 13 Dexterity saving throw, taking 9 (2d8) fire damage on a failed save, or half as much damage on a successful one.</text>
       <attack>Spew Flame||2d8</attack>
     </action>
-    <description>By offering a place for those of many different talents, the Cult of Rakdos has seen its numbers swell with performing artists, including blade jugglers, fire eaters, and high wire acrobats. Performers carry the message of Rakdos out into the streets: cut loose, free yourself from the bonds of society's mores and expectations, and indulge your desires.
+    <description>By offering a place for those of many different talents, the Cult of Rakdos has seen its numbers swell with performing artists, including blade jugglers, fire eaters, and high wire acrobats. Performers carry the message of Rakdos out into the streets: cut loose, free yourself from the bonds of society&apos;s mores and expectations, and indulge your desires.
 
 Source:	Guildmasters' Guide to Ravnica p. 249</description>
     <environment/>
@@ -4095,7 +4095,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) pierci
 This movement doesn't provoke opportunity attacks.</text>
       <attack>Barbed Pole|+5|1d8+3</attack>
     </action>
-    <description>By offering a place for those of many different talents, the Cult of Rakdos has seen its numbers swell with performing artists, including blade jugglers, fire eaters, and high wire acrobats. Performers carry the message of Rakdos out into the streets: cut loose, free yourself from the bonds of society's mores and expectations, and indulge your desires.
+    <description>By offering a place for those of many different talents, the Cult of Rakdos has seen its numbers swell with performing artists, including blade jugglers, fire eaters, and high wire acrobats. Performers carry the message of Rakdos out into the streets: cut loose, free yourself from the bonds of society&apos;s mores and expectations, and indulge your desires.
 
 Source:	Guildmasters' Guide to Ravnica p. 249</description>
     <environment/>
@@ -4213,7 +4213,7 @@ The stalker makes three attacks with its shortsword.</text>
 Melee Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.</text>
       <attack>Shortsword|+4|1d6+2</attack>
     </action>
-    <description>Rubblebelt stalkers are scouts and skirmishers for the Gruul Clans. They excel at moving over challenging terrain, whether they're picking their way through treacherous ruins or clambering across rooftops. They favor ambush tactics and avoid confrontations with stronger forces, relying on their superior mobility to make their escape.
+    <description>Rubblebelt stalkers are scouts and skirmishers for the Gruul Clans. They excel at moving over challenging terrain, whether they&apos;re picking their way through treacherous ruins or clambering across rooftops. They favor ambush tactics and avoid confrontations with stronger forces, relying on their superior mobility to make their escape.
 
 Source:	Guildmasters' Guide to Ravnica p. 239</description>
     <environment/>
@@ -4282,7 +4282,7 @@ Source:	Guildmasters' Guide to Ravnica p. 243</description>
     <save/>
     <skill/>
     <passive>8</passive>
-    <languages>understands Common but can't speak</languages>
+    <languages>understands Common but can&apos;t speak</languages>
     <cr>1/4</cr>
     <resist/>
     <immune>poison</immune>
@@ -4300,7 +4300,7 @@ Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashi
       <text>
 When a creature within 5 feet of the thrull is hit by an attack, the thrull swaps places with that creature and is hit instead.</text>
     </reaction>
-    <description>The most wretched of thrulls are the servitors, small and slender, that serve as playthings for their Orzhov masters. They run trivial errands, transport small items, caper and dance, and keep their masters' expensive robes from trailing on the dirty street. They are utterly loyal, lacking any concept of thinking for themselves.
+    <description>The most wretched of thrulls are the servitors, small and slender, that serve as playthings for their Orzhov masters. They run trivial errands, transport small items, caper and dance, and keep their masters&apos; expensive robes from trailing on the dirty street. They are utterly loyal, lacking any concept of thinking for themselves.
 
 Thrulls:
 When the Orzhov Syndicate rips a soul from its body to create a spirit, the cast-off remains go to the fleshmages, who use their necromantic magic to liquefy the corpse and transform it into something useful. These creations become thrulls, obedient slaves that serve in a variety of menial roles: laborers, messengers, beasts of burden, and even fashion accessories for the elite. Whatever tasks they perform, they wear faceplates forged from devalued coinage to conceal their ghastly features.
@@ -4379,7 +4379,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 3) slash
 Each creature within 60 feet of the horror, except other horrors, must succeed on a DC 16 Dexterity saving throw or take 27 (6d8) necrotic damage.</text>
       <attack>Lashing Shadows||6d8</attack>
     </action>
-    <description>Horrors and Madness. Horrors on Ravnica are terror and madness personified. You can represent this reality by using the madness rules in the Dungeon Master's Guide.
+    <description>Horrors and Madness. Horrors on Ravnica are terror and madness personified. You can represent this reality by using the madness rules in the Dungeon Master&apos;s Guide.
 
 Whenever a character fails a saving throw against the flying horror's Frightening Screech, the shadow horror's claw attack, or the skittering horror's Maddening Presence, note that fact. At the end of the encounter, have each character who failed at least one of those saving throws make a DC 13 Wisdom saving throw. On a successful save, nothing happens. On a failed save, a character gains a form of madness from the Dungeon Master's Guide, with the severity depending on how many of the saving throws that character failed during the encounter, as shown on the Madness Severity table.
 
@@ -4451,7 +4451,7 @@ The merfolk can breathe air and water.</text>
 Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.</text>
       <attack>Spear|+2|1d6</attack>
     </action>
-    <description>Source:	Guildmasters' Guide to Ravnica p. 187</description>
+    <description>Source:	Guildmasters&apos; Guide to Ravnica p. 187</description>
     <environment>underwater, coastal</environment>
   </monster>
   <monster>
@@ -4514,7 +4514,7 @@ The sire's innate spellcasting ability is Charisma (spell save DC 18, +10 to hit
 	• 1/Day each: confusion, mass suggestion</text>
     </trait>
     <spells>clairvoyance, crown of madness, major image, suggestion, confusion, mass suggestion</spells>
-    <description>Rakdos nightclubs, where visitors can indulge any dark desire and revel in sadistic spectacle, are the favored haunts of the demons known as sires of insanity. Lurking in an underground vault beneath a Rakdos operation, a sire of insanity feasts on the violence, torment, and depravity unfolding above. Occasionally, cultists bring would-be recruits to the demon's presence, and—true to its name—the sire of insanity breaks the new cultist's mind.
+    <description>Rakdos nightclubs, where visitors can indulge any dark desire and revel in sadistic spectacle, are the favored haunts of the demons known as sires of insanity. Lurking in an underground vault beneath a Rakdos operation, a sire of insanity feasts on the violence, torment, and depravity unfolding above. Occasionally, cultists bring would-be recruits to the demon&apos;s presence, and—true to its name—the sire of insanity breaks the new cultist&apos;s mind.
 
 A sire of insanity is a bloated demon resembling a bipedal lizard. It stands some thirty feet tall and weighs many thousands of pounds, so it tends to keep hidden away in its subterranean lair, working its evil from the shadows.
 
@@ -4586,7 +4586,7 @@ Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 24 (4d8 + 6) sla
       <text>
 The horror targets one creature it can see within 30 feet of it. If the target can see or hear the horror, the target must make a DC 17 Wisdom saving throw. On a failed saving throw, the target becomes paralyzed until the end of its next turn. If a creature's saving throw is successful, the creature is immune to the horror's Maddening Presence for the next 24 hours.</text>
     </action>
-    <description>Horrors and Madness. Horrors on Ravnica are terror and madness personified. You can represent this reality by using the madness rules in the Dungeon Master's Guide.
+    <description>Horrors and Madness. Horrors on Ravnica are terror and madness personified. You can represent this reality by using the madness rules in the Dungeon Master&apos;s Guide.
 
 Whenever a character fails a saving throw against the flying horror's Frightening Screech, the shadow horror's claw attack, or the skittering horror's Maddening Presence, note that fact. At the end of the encounter, have each character who failed at least one of those saving throws make a DC 13 Wisdom saving throw. On a successful save, nothing happens. On a failed save, a character gains a form of madness from the Dungeon Master's Guide, with the severity depending on how many of the saving throws that character failed during the encounter, as shown on the Madness Severity table.
 
@@ -4772,7 +4772,7 @@ The soldier makes two melee attacks.</text>
 Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.</text>
       <attack>Longsword|+3|1d8+2</attack>
     </action>
-    <description>Soldiers are found in many of Ravnica's guilds. The soldier stat block represents a typical member of the rank and file, though weaponry and armor can vary.
+    <description>Soldiers are found in many of Ravnica&apos;s guilds. The soldier stat block represents a typical member of the rank and file, though weaponry and armor can vary.
 
 Source:	Guildmasters' Guide to Ravnica p. 226,
 		Mythic Odysseys of Theros</description>
@@ -4826,7 +4826,7 @@ Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slash
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The monstrosity can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity regains spent legendary actions at the start of its turn.</text>
+      <text>The monstrosity can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Claw Attack</name>
@@ -4870,7 +4870,7 @@ The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence 
     </trait>
     <slots>0, 4, 3, 3, 3, 1</slots>
     <spells>mage hand, minor illusion, prestidigitation, detect magic, identify, shield, darkness, locate object, suggestion, dispel magic, remove curse, tongues, banishment, greater invisibility, legend lore</spells>
-    <description>Source:	Guildmasters' Guide to Ravnica p. 183</description>
+    <description>Source:	Guildmasters&apos; Guide to Ravnica p. 183</description>
     <environment>desert</environment>
   </monster>
   <monster>
@@ -4996,7 +4996,7 @@ The thought spy's innate spellcasting ability is Intelligence (spell save DC 13)
 	• 1/Day each: blur, detect thoughts, gaseous form</text>
     </trait>
     <spells>charm person, disguise self, encode thoughts, blur, detect thoughts, gaseous form</spells>
-    <description>Thought spies form the backbone of House Dimir's covert operations. They are trained in stealth and infiltration, tactics that they supplement with rigorously developed mental abilities. To ensure that no secrets slip through Dimir's fingers, they infiltrate rival guilds. In addition to traditional means of gathering intelligence, thought spies use their magic to spy on the thoughts of their targets.
+    <description>Thought spies form the backbone of House Dimir&apos;s covert operations. They are trained in stealth and infiltration, tactics that they supplement with rigorously developed mental abilities. To ensure that no secrets slip through Dimir&apos;s fingers, they infiltrate rival guilds. In addition to traditional means of gathering intelligence, thought spies use their magic to spy on the thoughts of their targets.
 
 Source:	Guildmasters' Guide to Ravnica p. 233</description>
     <environment/>
@@ -5073,16 +5073,16 @@ Unless it's an artifact, the item's magic is suppressed until the start of Trost
       <attack>Touch of Order|+16|3d8+10</attack>
     </action>
     <action>
-      <name>Wrath of Mat'Selesnya (Recharge 5-6)</name>
+      <name>Wrath of Mat&apos;Selesnya (Recharge 5-6)</name>
       <recharge>D5</recharge>
       <text>
 Trostani conjures a momentary whirl of branches and vines at a point she can see within 60 feet of her. Each creature in a 30-foot cube on that point must make a DC 24 Dexterity saving throw, taking 21 (6d6) bludgeoning damage and 21 (6d6) slashing damage on a failed save, or half as much damage on a successful one.</text>
-      <attack>Wrath of Mat'Selesnya||6d6</attack>
+      <attack>Wrath of Mat&apos;Selesnya||6d6</attack>
     </action>
     <legendary>
       <name>Legendary Actions (5/Turn)</name>
       <recharge>5/Turn</recharge>
-      <text>Trostani can take 5 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Trostani regains spent legendary actions at the start of its turn.</text>
+      <text>Trostani can take 5 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Trostani regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Voice of Harmony</name>
@@ -5119,7 +5119,7 @@ Trostani's innate spellcasting ability is Wisdom (spell save DC 24). She can inn
 	• 1/Day each: conjure fey, mass cure wounds</text>
     </trait>
     <spells>dispel magic, druidcraft, bless, conjure animals, giant insect, moonbeam, plant growth, spike growth, suggestion, conjure fey, mass cure wounds</spells>
-    <description>The Selesnya guildmaster is an amalgamation of three dryads in body, will, and soul. Each dryad's body extends from a central trunk, so while they possess independent minds, they share a single name-Trostani and a single life force. Usually Trostani communicates the will of the Worldsoul with one voice, but she retains three distinct personalities that embody the three parts of the Selesnyan ideal: order, life, and harmony. In the midst of increasing tensions on Ravnica, the three personalities have recently been at odds over how best to navigate the conclave through such difficult times.
+    <description>The Selesnya guildmaster is an amalgamation of three dryads in body, will, and soul. Each dryad&apos;s body extends from a central trunk, so while they possess independent minds, they share a single name-Trostani and a single life force. Usually Trostani communicates the will of the Worldsoul with one voice, but she retains three distinct personalities that embody the three parts of the Selesnyan ideal: order, life, and harmony. In the midst of increasing tensions on Ravnica, the three personalities have recently been at odds over how best to navigate the conclave through such difficult times.
 
 Trostani spends most of her time in the towering tree of Vitu-Ghazi, the Selesnya guildhall. There she communes with Mat'Selesnya and with the dryads who lead individual Selesnya communities across Ravnica.
 
@@ -5211,7 +5211,7 @@ Source:	Guildmasters' Guide to Ravnica p. 222</description>
     <save>Dex +4</save>
     <skill/>
     <passive>9</passive>
-    <languages>understands Common but can't speak</languages>
+    <languages>understands Common but can&apos;t speak</languages>
     <cr>1/2</cr>
     <resist/>
     <immune>poison</immune>
@@ -5235,7 +5235,7 @@ Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 5 (1d6 + 2) b
       <text>
 When a creature within 5 feet of the thrull is hit by an attack, the thrull swaps places with that creature and is hit instead.</text>
     </reaction>
-    <description>Winged thrulls are at once the most intelligent of Orzhov thrulls (which isn't saying much), as well as the smallest, most unobtrusive, and most mobile. They act as messengers and spies for their Orzhov masters and tend to mimic the mannerisms and movements of the oligarchs they serve.
+    <description>Winged thrulls are at once the most intelligent of Orzhov thrulls (which isn&apos;t saying much), as well as the smallest, most unobtrusive, and most mobile. They act as messengers and spies for their Orzhov masters and tend to mimic the mannerisms and movements of the oligarchs they serve.
 
 Thrulls:
 When the Orzhov Syndicate rips a soul from its body to create a spirit, the cast-off remains go to the fleshmages, who use their necromantic magic to liquefy the corpse and transform it into something useful. These creations become thrulls, obedient slaves that serve in a variety of menial roles: laborers, messengers, beasts of burden, and even fashion accessories for the elite. Whatever tasks they perform, they wear faceplates forged from devalued coinage to conceal their ghastly features.
@@ -5340,13 +5340,13 @@ If Zegana fails a saving throw, she can choose to succeed instead.</text>
 Zegana has advantage on saving throws against spells and other magical effects.</text>
     </trait>
     <action>
-      <name>Prime Speaker's Trident</name>
+      <name>Prime Speaker&apos;s Trident</name>
       <text>
 Melee or Ranged Weapon Attack: +10 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 12 (2d6 + 5) piercing damage, and the trident emits a thunderous boom.
 
 Each creature in a 15-foot cube originating from the prongs of the trident must make a DC 18 Constitution saving throw. On a failed save, the creature takes 9 (2d8) thunder damage and is pushed 10 feet away from Zegana. If the creature is underwater, the damage is increased to 13 (3d8). On a successful save, the creature takes half as much damage and isn't pushed.</text>
-      <attack>Prime Speaker's Trident|+10|2d6+5</attack>
-      <attack>Prime Speaker's Trident||2d8</attack>
+      <attack>Prime Speaker&apos;s Trident|+10|2d6+5</attack>
+      <attack>Prime Speaker&apos;s Trident||2d8</attack>
     </action>
     <action>
       <name>Deluge (Recharge 4-6)</name>
@@ -5358,7 +5358,7 @@ Zegana conjures a wave of water that crashes down on an area within 120 feet of 
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>Zegana can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Zegana regains spent legendary actions at the start of its turn.</text>
+      <text>Zegana can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Zegana regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Adaptive Skin</name>
@@ -5397,7 +5397,7 @@ Zegana is a 15th-level Simic spellcaster. Her spellcasting ability is Intelligen
     </trait>
     <slots>0, 4, 3, 3, 3, 2, 1, 1, 1</slots>
     <spells>acid splash, druidcraft, ray of frost, shape water, color spray, expeditious retreat, fog cloud, shield, enlarge/reduce, gust of wind, counterspell, fly, slow, control water, ice storm, polymorph, conjure elemental, creation, move earth, wall of ice, prismatic spray, teleport, control weather, dominate monster</spells>
-    <description>The regal and reticent Prime Speaker Zegana is the merfolk guildmaster of the Simic Combine. She upholds the traditional ways of the guild and its utopian philosophy, which espouses a vision of an ideal world in which nature and civilization coexist in perfect balance. Some people in the guild-members of the Adaptationist faction in particular-argue that her ways are outdated and the guild requires more practical leadership. In response, Zegana maintains that she serves as prime speaker only at the sufferance of the Speakers' Chamber, and if the other speakers wish to replace her, they are certainly within their rights to do so.
+    <description>The regal and reticent Prime Speaker Zegana is the merfolk guildmaster of the Simic Combine. She upholds the traditional ways of the guild and its utopian philosophy, which espouses a vision of an ideal world in which nature and civilization coexist in perfect balance. Some people in the guild-members of the Adaptationist faction in particular-argue that her ways are outdated and the guild requires more practical leadership. In response, Zegana maintains that she serves as prime speaker only at the sufferance of the Speakers&apos; Chamber, and if the other speakers wish to replace her, they are certainly within their rights to do so.
 
 Source:	Guildmasters' Guide to Ravnica p. 255</description>
     <environment/>

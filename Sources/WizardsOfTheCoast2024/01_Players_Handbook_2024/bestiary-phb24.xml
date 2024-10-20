@@ -24,14 +24,14 @@
     <passive>10</passive>
     <languages>Deep Speech, understands the languages you know</languages>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 322</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 322</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>equals your Proficiency Bonus</text>
     </trait>
     <trait>
       <name>Armor Class</name>
-      <text>11 + the spell's level</text>
+      <text>11 + the spell&apos;s level</text>
     </trait>
     <trait>
       <name>Hit Points</name>
@@ -43,26 +43,26 @@
     </trait>
     <trait>
       <name>Whispering Aura (Mind Flayer Only)</name>
-      <text>At the start of each of the spirit's turns, the spirit emits psionic energy if it doesn't have the Incapacitated condition. Wisdom Saving Throw: DC equals your spell save DC, each creature (other than you) within 5 feet of the spirit. Failure: 2d6 Psychic damage.</text>
+      <text>At the start of each of the spirit&apos;s turns, the spirit emits psionic energy if it doesn&apos;t have the Incapacitated condition. Wisdom Saving Throw: DC equals your spell save DC, each creature (other than you) within 5 feet of the spirit. Failure: 2d6 Psychic damage.</text>
       <attack>Whispering Aura||2d6</attack>
     </trait>
     <action>
       <name>Multiattack</name>
-      <text>The spirit makes a number of attacks equal to half this spell's level (round down).</text>
+      <text>The spirit makes a number of attacks equal to half this spell&apos;s level (round down).</text>
     </action>
     <action>
       <name>Claw (Slaad Only)</name>
-      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d10 + 3 + the spell's level Slashing damage, and the target can't regain Hit Points until the start of the spirit's next turn.</text>
+      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d10 + 3 + the spell's level Slashing damage, and the target can&apos;t regain Hit Points until the start of the spirit&apos;s next turn.</text>
       <attack>Claw|0|1d10+3</attack>
     </action>
     <action>
       <name>Eye Ray (Beholderkin Only)</name>
-      <text>Ranged Attack Roll: Bonus equals your spell attack modifier, range 150 ft. Hit: 1d8 + 3 + the spell's level Psychic damage.</text>
+      <text>Ranged Attack Roll: Bonus equals your spell attack modifier, range 150 ft. Hit: 1d8 + 3 + the spell&apos;s level Psychic damage.</text>
       <attack>Eye Ray|0|1d8+3</attack>
     </action>
     <action>
       <name>Psychic Slam (Mind Flayer Only)</name>
-      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d8 + 3 + the spell's level Psychic damage.</text>
+      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d8 + 3 + the spell&apos;s level Psychic damage.</text>
       <attack>Psychic Slam|0|1d8+3</attack>
     </action>
   </monster>
@@ -90,7 +90,7 @@
     <passive>6</passive>
     <languages>understands the languages you know</languages>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 241</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 241</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>equals your Proficiency Bonus</text>
@@ -135,7 +135,7 @@
     <passive>13</passive>
     <languages/>
     <cr>1/2</cr>
-    <description>Source:	Player's Handbook 2024 p. 346</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 346</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -180,7 +180,7 @@
     <passive>13</passive>
     <languages>None</languages>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 346</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 346</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -215,7 +215,7 @@
     <passive>11</passive>
     <languages/>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 346</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 346</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -250,7 +250,7 @@
     <passive>12</passive>
     <languages>understands the languages you know</languages>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 123</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 123</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>equals your Proficiency Bonus</text>
@@ -268,9 +268,9 @@
       <text>Add your Proficiency Bonus to any ability check or saving throw the beast makes.</text>
     </trait>
     <action>
-      <name>Beast's Strike</name>
+      <name>Beast&apos;s Strike</name>
       <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d8 + 2 plus your Wisdom modifier Bludgeoning, Piercing, or Slashing damage (your choice when you summon the beast). If the beast moved at least 20 feet straight toward the target before the hit, the target takes an extra 1d6 damage of the same type, and the target has the Prone condition if it is a Large or smaller creature.</text>
-      <attack>Beast's Strike|0|1d8+2</attack>
+      <attack>Beast&apos;s Strike|0|1d8+2</attack>
       <attack>Moved 20 feet|0|1d6</attack>
     </action>
   </monster>
@@ -298,7 +298,7 @@
     <passive>12</passive>
     <languages>understands the languages you know</languages>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 124</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 124</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>equals your Proficiency Bonus</text>
@@ -320,9 +320,9 @@
       <text>Add your Proficiency Bonus to any ability check or saving throw the beast makes.</text>
     </trait>
     <action>
-      <name>Beast's Strike</name>
+      <name>Beast&apos;s Strike</name>
       <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d6 + 2 plus your Wisdom modifier Bludgeoning or Piercing damage (your choice when you summon the beast), and the target has the Grappled condition (escape DC equals your spell save DC).</text>
-      <attack>Beast's Strike|0|1d6+2</attack>
+      <attack>Beast&apos;s Strike|0|1d6+2</attack>
     </action>
   </monster>
   <monster>
@@ -349,7 +349,7 @@
     <passive>12</passive>
     <languages>understands the languages you know</languages>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 124</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 124</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>equals your Proficiency Bonus</text>
@@ -364,16 +364,16 @@
     </trait>
     <trait>
       <name>Flyby</name>
-      <text>The beast doesn't provoke Opportunity Attacks when it flies out of an enemy's reach.</text>
+      <text>The beast doesn&apos;t provoke Opportunity Attacks when it flies out of an enemy&apos;s reach.</text>
     </trait>
     <trait>
       <name>Primal Bond</name>
       <text>Add your Proficiency Bonus to any ability check or saving throw the beast makes.</text>
     </trait>
     <action>
-      <name>Beast's Strike</name>
+      <name>Beast&apos;s Strike</name>
       <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d4 + 3 plus your Wisdom modifier Slashing damage.</text>
-      <attack>Beast's Strike|0|1d4+3</attack>
+      <attack>Beast&apos;s Strike|0|1d4+3</attack>
     </action>
   </monster>
   <monster>
@@ -400,14 +400,14 @@
     <passive>12</passive>
     <languages>understands the languages you know</languages>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 323</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 323</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>equals your Proficiency Bonus</text>
     </trait>
     <trait>
       <name>Armor Class</name>
-      <text>11 + the spell's level</text>
+      <text>11 + the spell&apos;s level</text>
     </trait>
     <trait>
       <name>Hit Points</name>
@@ -415,11 +415,11 @@
     </trait>
     <trait>
       <name>Flyby (Air Only)</name>
-      <text>The spirit doesn't provoke Opportunity Attacks when it flies out of an enemy's reach.</text>
+      <text>The spirit doesn&apos;t provoke Opportunity Attacks when it flies out of an enemy&apos;s reach.</text>
     </trait>
     <trait>
       <name>Pack Tactics (Land and Water Only)</name>
-      <text>The spirit has Advantage on an attack roll against a creature if at least one of the spirit's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.</text>
+      <text>The spirit has Advantage on an attack roll against a creature if at least one of the spirit&apos;s allies is within 5 feet of the creature and the ally doesn&apos;t have the Incapacitated condition.</text>
     </trait>
     <trait>
       <name>Water Breathing (Water Only)</name>
@@ -427,11 +427,11 @@
     </trait>
     <action>
       <name>Multiattack</name>
-      <text>The spirit makes a number of Rend attacks equal to half this spell's level (round down).</text>
+      <text>The spirit makes a number of Rend attacks equal to half this spell&apos;s level (round down).</text>
     </action>
     <action>
       <name>Rend</name>
-      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d8 + 4 + the spell's level Piercing damage.</text>
+      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d8 + 4 + the spell&apos;s level Piercing damage.</text>
       <attack>Rend|0|1d8+4</attack>
     </action>
   </monster>
@@ -459,7 +459,7 @@
     <passive>15</passive>
     <languages/>
     <cr>1/2</cr>
-    <description>Source:	Player's Handbook 2024 p. 346</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 346</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -498,7 +498,7 @@
     <passive>9</passive>
     <languages/>
     <cr>1/4</cr>
-    <description>Source:	Player's Handbook 2024 p. 347</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 347</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -537,7 +537,7 @@
     <passive>13</passive>
     <languages>None</languages>
     <cr>1</cr>
-    <description>Source:	Player's Handbook 2024 p. 347</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 347</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -581,7 +581,7 @@
     <passive>10</passive>
     <languages/>
     <cr>1/8</cr>
-    <description>Source:	Player's Handbook 2024 p. 347</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 347</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -616,14 +616,14 @@
     <passive>13</passive>
     <languages/>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 347</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 347</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
     </trait>
     <trait>
       <name>Jumper</name>
-      <text>The cat's jump distance is determined using its Dexterity rather than its Strength.</text>
+      <text>The cat&apos;s jump distance is determined using its Dexterity rather than its Strength.</text>
     </trait>
     <action>
       <name>Scratch</name>
@@ -655,14 +655,14 @@
     <passive>12</passive>
     <languages>Celestial, understands the languages you know</languages>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 323</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 323</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>equals your Proficiency Bonus</text>
     </trait>
     <trait>
       <name>Armor Class</name>
-      <text>11 + the spell's level + 2 (Defender only)</text>
+      <text>11 + the spell&apos;s level + 2 (Defender only)</text>
     </trait>
     <trait>
       <name>Hit Points</name>
@@ -670,22 +670,22 @@
     </trait>
     <action>
       <name>Multiattack</name>
-      <text>The spirit makes a number of attacks equal to half this spell's level (round down).</text>
+      <text>The spirit makes a number of attacks equal to half this spell&apos;s level (round down).</text>
     </action>
     <action>
       <name>Radiant Bow (Avenger Only)</name>
-      <text>Ranged Attack Roll: Bonus equals your spell attack modifier, range 600 ft. Hit: 2d6 + 2 + the spell's level Radiant damage.</text>
+      <text>Ranged Attack Roll: Bonus equals your spell attack modifier, range 600 ft. Hit: 2d6 + 2 + the spell&apos;s level Radiant damage.</text>
       <attack>Radiant Bow|0|2d6+2</attack>
     </action>
     <action>
       <name>Radiant Mace (Defender Only)</name>
-      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d10 + 3 + the spell's level Radiant damage, and the spirit can choose itself or another creature it can see within 10 feet of the target. The chosen creature gains 1d10 Temporary Hit Points.</text>
+      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d10 + 3 + the spell&apos;s level Radiant damage, and the spirit can choose itself or another creature it can see within 10 feet of the target. The chosen creature gains 1d10 Temporary Hit Points.</text>
       <attack>Radiant Mace|0|1d10+3</attack>
     </action>
     <action>
       <name>Healing Touch (1/Day)</name>
       <recharge>1/Day</recharge>
-      <text>The spirit touches another creature. The target regains Hit Points equal to 2d8 + the spell's level.</text>
+      <text>The spirit touches another creature. The target regains Hit Points equal to 2d8 + the spell&apos;s level.</text>
       <attack>Healing Touch||2d8</attack>
     </action>
   </monster>
@@ -713,7 +713,7 @@
     <passive>12</passive>
     <languages/>
     <cr>1/4</cr>
-    <description>Source:	Player's Handbook 2024 p. 348</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 348</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -753,14 +753,14 @@
     <passive>10</passive>
     <languages>Understands the languages you know</languages>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 324</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 324</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>equals your Proficiency Bonus</text>
     </trait>
     <trait>
       <name>Armor Class</name>
-      <text>13 + the spell's level</text>
+      <text>13 + the spell&apos;s level</text>
     </trait>
     <trait>
       <name>Hit Points</name>
@@ -773,15 +773,15 @@
     </trait>
     <trait>
       <name>Stony Lethargy (Stone Only)</name>
-      <text>When a creature starts its turn within 10 feet of the spirit, the spirit can target it with magical energy if the spirit can see it. Wisdom Saving Throw: DC equals your spell save DC, the target. Failure: Until the start of its next turn, the target can't make Opportunity Attacks, and its Speed is halved.</text>
+      <text>When a creature starts its turn within 10 feet of the spirit, the spirit can target it with magical energy if the spirit can see it. Wisdom Saving Throw: DC equals your spell save DC, the target. Failure: Until the start of its next turn, the target can&apos;t make Opportunity Attacks, and its Speed is halved.</text>
     </trait>
     <action>
       <name>Multiattack</name>
-      <text>The spirit makes a number of Slam attacks equal to half this spell's level (round down).</text>
+      <text>The spirit makes a number of Slam attacks equal to half this spell&apos;s level (round down).</text>
     </action>
     <action>
       <name>Slam</name>
-      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d8 + 4 + the spell's level Bludgeoning damage.</text>
+      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d8 + 4 + the spell&apos;s level Bludgeoning damage.</text>
       <attack>Slam|0|1d8+4</attack>
     </action>
     <reaction>
@@ -813,7 +813,7 @@
     <passive>9</passive>
     <languages/>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 348</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 348</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -852,7 +852,7 @@
     <passive>10</passive>
     <languages/>
     <cr>1/2</cr>
-    <description>Source:	Player's Handbook 2024 p. 348</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 348</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -891,14 +891,14 @@
     <passive>15</passive>
     <languages>None</languages>
     <cr>1</cr>
-    <description>Source:	Player's Handbook 2024 p. 348</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 348</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
     </trait>
     <trait>
       <name>Pack Tactics</name>
-      <text>The wolf has Advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.</text>
+      <text>The wolf has Advantage on an attack roll against a creature if at least one of the wolf&apos;s allies is within 5 feet of the creature and the ally doesn&apos;t have the Incapacitated condition.</text>
     </trait>
     <action>
       <name>Bite</name>
@@ -930,14 +930,14 @@
     <passive>12</passive>
     <languages>Draconic, understands the languages you know</languages>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 325</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 325</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>equals your Proficiency Bonus</text>
     </trait>
     <trait>
       <name>Armor Class</name>
-      <text>14 + the spell's level</text>
+      <text>14 + the spell&apos;s level</text>
     </trait>
     <trait>
       <name>Hit Points</name>
@@ -949,11 +949,11 @@
     </trait>
     <action>
       <name>Multiattack</name>
-      <text>The spirit makes a number of Rend attacks equal to half the spell's level (round down), and it uses Breath Weapon.</text>
+      <text>The spirit makes a number of Rend attacks equal to half the spell&apos;s level (round down), and it uses Breath Weapon.</text>
     </action>
     <action>
       <name>Rend</name>
-      <text>Melee Attack: Bonus equals your spell attack modifier, reach 10 feet. Hit: 1d6 + 4 + the spell's level Piercing damage.</text>
+      <text>Melee Attack: Bonus equals your spell attack modifier, reach 10 feet. Hit: 1d6 + 4 + the spell&apos;s level Piercing damage.</text>
       <attack>Rend|0|1d6+4</attack>
     </action>
     <action>
@@ -986,7 +986,7 @@
     <passive>10</passive>
     <languages/>
     <cr>1/4</cr>
-    <description>Source:	Player's Handbook 2024 p. 349</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 349</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -1021,14 +1021,14 @@
     <passive>10</passive>
     <languages>Primordial, understands the languages you know</languages>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 325</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 325</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>equals your Proficiency Bonus</text>
     </trait>
     <trait>
       <name>Armor Class</name>
-      <text>11 + the spell's level</text>
+      <text>11 + the spell&apos;s level</text>
     </trait>
     <trait>
       <name>Hit Points</name>
@@ -1040,11 +1040,11 @@
     </trait>
     <action>
       <name>Multiattack</name>
-      <text>The spirit makes a number of Slam attacks equal to half this spell's level (round down).</text>
+      <text>The spirit makes a number of Slam attacks equal to half this spell&apos;s level (round down).</text>
     </action>
     <action>
       <name>Slam</name>
-      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d10 + 4 + the spell's level Bludgeoning (Earth only), Cold (Water only), Lightning (Air only), or Fire (Fire only) damage.</text>
+      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d10 + 4 + the spell&apos;s level Bludgeoning (Earth only), Cold (Water only), Lightning (Air only), or Fire (Fire only) damage.</text>
       <attack>Slam|0|1d10+4</attack>
     </action>
   </monster>
@@ -1072,7 +1072,7 @@
     <passive>10</passive>
     <languages>None</languages>
     <cr>4</cr>
-    <description>Source:	Player's Handbook 2024 p. 349</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 349</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -1116,7 +1116,7 @@
     <passive>12</passive>
     <languages/>
     <cr>1/4</cr>
-    <description>Source:	Player's Handbook 2024 p. 349</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 349</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -1151,14 +1151,14 @@
     <passive>10</passive>
     <languages>Sylvan, understands the languages you know</languages>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 326</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 326</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>equals your Proficiency Bonus</text>
     </trait>
     <trait>
       <name>Armor Class</name>
-      <text>12 + the spell's level</text>
+      <text>12 + the spell&apos;s level</text>
     </trait>
     <trait>
       <name>Hit Points</name>
@@ -1166,16 +1166,16 @@
     </trait>
     <action>
       <name>Multiattack</name>
-      <text>The spirit makes a number of Fey Blade attacks equal to half this spell's level (round down).</text>
+      <text>The spirit makes a number of Fey Blade attacks equal to half this spell&apos;s level (round down).</text>
     </action>
     <action>
       <name>Fey Blade</name>
-      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 2d6 + 3 + the spell's level Force damage.</text>
+      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 2d6 + 3 + the spell&apos;s level Force damage.</text>
       <attack>Fey Blade|0|2d6+3</attack>
     </action>
     <action>
       <name>Fey Step (bonus action)</name>
-      <text>The spirit magically teleports up to 30 feet to an unoccupied space it can see. Then one of the following effects occurs, based on the spirit's chosen mood:
+      <text>The spirit magically teleports up to 30 feet to an unoccupied space it can see. Then one of the following effects occurs, based on the spirit&apos;s chosen mood:
 
 Fuming:
 The spirit has Advantage on the next attack roll it makes before the end of this turn.
@@ -1211,14 +1211,14 @@ The spirit fills a 10-foot Cube within 5 feet of it with magical Darkness, which
     <passive>10</passive>
     <languages>Abyssal, Infernal, Telepathy 60 ft.</languages>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 327</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 327</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>equals your Proficiency Bonus</text>
     </trait>
     <trait>
       <name>Armor Class</name>
-      <text>12 + the spell's level</text>
+      <text>12 + the spell&apos;s level</text>
     </trait>
     <trait>
       <name>Hit Points</name>
@@ -1226,11 +1226,11 @@ The spirit fills a 10-foot Cube within 5 feet of it with magical Darkness, which
     </trait>
     <trait>
       <name>Death Throes (Demon Only)</name>
-      <text>When the spirit drops to 0 Hit Points or the spell ends, the spirit explodes. Dexterity Saving Throw: DC equals your spell save DC, each creature in a 10-foot Emanation originating from the spirit. Failure: 2d10 plus this spell's level Fire damage. Success: Half damage.</text>
+      <text>When the spirit drops to 0 Hit Points or the spell ends, the spirit explodes. Dexterity Saving Throw: DC equals your spell save DC, each creature in a 10-foot Emanation originating from the spirit. Failure: 2d10 plus this spell&apos;s level Fire damage. Success: Half damage.</text>
     </trait>
     <trait>
-      <name>Devil's Sight (Devil Only)</name>
-      <text>Magical Darkness doesn't impede the spirit's Darkvision.</text>
+      <name>Devil&apos;s Sight (Devil Only)</name>
+      <text>Magical Darkness doesn&apos;t impede the spirit&apos;s Darkvision.</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -1238,21 +1238,21 @@ The spirit fills a 10-foot Cube within 5 feet of it with magical Darkness, which
     </trait>
     <action>
       <name>Multiattack</name>
-      <text>The spirit makes a number of attacks equal to half this spell's level (round down).</text>
+      <text>The spirit makes a number of attacks equal to half this spell&apos;s level (round down).</text>
     </action>
     <action>
       <name>Bite (Demon Only)</name>
-      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d12 + 3 + the spell's level Necrotic damage.</text>
+      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d12 + 3 + the spell&apos;s level Necrotic damage.</text>
       <attack>Bite|0|1d12+3</attack>
     </action>
     <action>
       <name>Claws (Yugoloth Only)</name>
-      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d8 + 3 + the spell's level Slashing damage. Immediately after the attack hits or misses, the spirit can teleport up to 30 feet to an unoccupied space it can see.</text>
+      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d8 + 3 + the spell&apos;s level Slashing damage. Immediately after the attack hits or misses, the spirit can teleport up to 30 feet to an unoccupied space it can see.</text>
       <attack>Claws|0|1d8+3</attack>
     </action>
     <action>
       <name>Fiery Strike (Devil Only)</name>
-      <text>Melee or Ranged Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. or range 150 ft. Hit: 2d6 + 3 + the spell's level Fire damage.</text>
+      <text>Melee or Ranged Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. or range 150 ft. Hit: 2d6 + 3 + the spell&apos;s level Fire damage.</text>
       <attack>Fiery Strike|0|2d6+3</attack>
     </action>
   </monster>
@@ -1280,7 +1280,7 @@ The spirit fills a 10-foot Cube within 5 feet of it with magical Darkness, which
     <passive>11</passive>
     <languages/>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 349</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 349</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -1291,7 +1291,7 @@ The spirit fills a 10-foot Cube within 5 feet of it with magical Darkness, which
     </trait>
     <trait>
       <name>Standing Leap</name>
-      <text>The frog's Long Jump is up to 10 feet and its High Jump is up to 5 feet with or without a running start.</text>
+      <text>The frog&apos;s Long Jump is up to 10 feet and its High Jump is up to 5 feet with or without a running start.</text>
     </trait>
     <action>
       <name>Bite</name>
@@ -1323,7 +1323,7 @@ The spirit fills a 10-foot Cube within 5 feet of it with magical Darkness, which
     <passive>13</passive>
     <languages/>
     <cr>1/4</cr>
-    <description>Source:	Player's Handbook 2024 p. 350</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 350</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -1358,7 +1358,7 @@ The spirit fills a 10-foot Cube within 5 feet of it with magical Darkness, which
     <passive>9</passive>
     <languages/>
     <cr>1/8</cr>
-    <description>Source:	Player's Handbook 2024 p. 350</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 350</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -1397,7 +1397,7 @@ The spirit fills a 10-foot Cube within 5 feet of it with magical Darkness, which
     <passive>13</passive>
     <languages/>
     <cr>1/2</cr>
-    <description>Source:	Player's Handbook 2024 p. 350</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 350</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -1432,14 +1432,14 @@ The spirit fills a 10-foot Cube within 5 feet of it with magical Darkness, which
     <passive>12</passive>
     <languages>understands the languages you know</languages>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 279</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 279</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>equals your Proficiency Bonus</text>
     </trait>
     <trait>
       <name>Armor Class</name>
-      <text>11 + the spell's level</text>
+      <text>11 + the spell&apos;s level</text>
     </trait>
     <trait>
       <name>Hit Points</name>
@@ -1451,21 +1451,21 @@ The spirit fills a 10-foot Cube within 5 feet of it with magical Darkness, which
     </trait>
     <action>
       <name>Multiattack</name>
-      <text>The insect makes a number of attacks equal to half this spell's level (round down).</text>
+      <text>The insect makes a number of attacks equal to half this spell&apos;s level (round down).</text>
     </action>
     <action>
       <name>Poison Jab</name>
-      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 10 ft. Hit: 1d6 + 3 + the spell's level Piercing damage plus 1d4 Poison damage.</text>
+      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 10 ft. Hit: 1d6 + 3 + the spell&apos;s level Piercing damage plus 1d4 Poison damage.</text>
       <attack>Poison Jab|0|1d6+3</attack>
     </action>
     <action>
       <name>Web Bolt (Spider Only)</name>
-      <text>Ranged Attack Roll: Bonus equals your spell attack modifier, range 60 ft. Hit: 1d10 + 3 + the spell's level Bludgeoning damage, and the target's Speed is reduced to 0 until the start of the insect's next turn.</text>
+      <text>Ranged Attack Roll: Bonus equals your spell attack modifier, range 60 ft. Hit: 1d10 + 3 + the spell's level Bludgeoning damage, and the target&apos;s Speed is reduced to 0 until the start of the insect&apos;s next turn.</text>
       <attack>Web Bolt|0|1d10+3</attack>
     </action>
     <action>
       <name>Venomous Spew (Centipede Only) (bonus action)</name>
-      <text>Constitution Saving Throw: Your spell save DC, one creature the insect can see within 10 feet. Failure: The target has the Poisoned condition until the start of the insect's next turn.</text>
+      <text>Constitution Saving Throw: Your spell save DC, one creature the insect can see within 10 feet. Failure: The target has the Poisoned condition until the start of the insect&apos;s next turn.</text>
     </action>
   </monster>
   <monster>
@@ -1492,7 +1492,7 @@ The spirit fills a 10-foot Cube within 5 feet of it with magical Darkness, which
     <passive>11</passive>
     <languages/>
     <cr>1/2</cr>
-    <description>Source:	Player's Handbook 2024 p. 350</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 350</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -1535,7 +1535,7 @@ The spirit fills a 10-foot Cube within 5 feet of it with magical Darkness, which
     <passive>14</passive>
     <languages>None</languages>
     <cr>1</cr>
-    <description>Source:	Player's Handbook 2024 p. 351</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 351</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -1584,7 +1584,7 @@ The spirit fills a 10-foot Cube within 5 feet of it with magical Darkness, which
     <passive>13</passive>
     <languages/>
     <cr>1/8</cr>
-    <description>Source:	Player's Handbook 2024 p. 351</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 351</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -1619,7 +1619,7 @@ The spirit fills a 10-foot Cube within 5 feet of it with magical Darkness, which
     <passive>12</passive>
     <languages/>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 351</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 351</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -1654,7 +1654,7 @@ The spirit fills a 10-foot Cube within 5 feet of it with magical Darkness, which
     <passive>16</passive>
     <languages/>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 352</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 352</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -1689,14 +1689,14 @@ The spirit fills a 10-foot Cube within 5 feet of it with magical Darkness, which
     <passive>11</passive>
     <languages>Common, Infernal</languages>
     <cr>1</cr>
-    <description>Source:	Player's Handbook 2024 p. 352</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 352</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
-      <text>Magical Darkness doesn't impede the imp's Darkvision.</text>
+      <name>Devil&apos;s Sight</name>
+      <text>Magical Darkness doesn&apos;t impede the imp&apos;s Darkvision.</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -1716,7 +1716,7 @@ At will: Invisibility</text>
     </action>
     <action>
       <name>Change Shape</name>
-      <text>The imp changes into a form that resembles a rat (Speed 20 ft.), a raven (20 ft., Fly 60 ft.), or a spider (20 ft., Climb 20 ft.), or it returns to its true form. Its statistics are the same in each form, except for its Speed. Any equipment it's wearing or carrying isn't transformed. The imp reverts to its true form if it dies.</text>
+      <text>The imp changes into a form that resembles a rat (Speed 20 ft.), a raven (20 ft., Fly 60 ft.), or a spider (20 ft., Climb 20 ft.), or it returns to its true form. Its statistics are the same in each form, except for its Speed. Any equipment it&apos;s wearing or carrying isn&apos;t transformed. The imp reverts to its true form if it dies.</text>
     </action>
     <slots/>
     <spells>invisibility</spells>
@@ -1745,14 +1745,14 @@ At will: Invisibility</text>
     <passive>13</passive>
     <languages/>
     <cr>1</cr>
-    <description>Source:	Player's Handbook 2024 p. 352</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 352</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
     </trait>
     <trait>
       <name>Pack Tactics</name>
-      <text>The lion has Advantage on an attack roll against a creature if at least one of the lion's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.</text>
+      <text>The lion has Advantage on an attack roll against a creature if at least one of the lion&apos;s allies is within 5 feet of the creature and the ally doesn&apos;t have the Incapacitated condition.</text>
     </trait>
     <trait>
       <name>Running Leap</name>
@@ -1769,7 +1769,7 @@ At will: Invisibility</text>
     </action>
     <action>
       <name>Roar</name>
-      <text>Wisdom Saving Throw: DC 11, one creature within 15 feet. Failure: The target has the Frightened condition until the start of the lion's next turn.</text>
+      <text>Wisdom Saving Throw: DC 11, one creature within 15 feet. Failure: The target has the Frightened condition until the start of the lion&apos;s next turn.</text>
     </action>
   </monster>
   <monster>
@@ -1796,7 +1796,7 @@ At will: Invisibility</text>
     <passive>9</passive>
     <languages/>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 353</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 353</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -1835,7 +1835,7 @@ At will: Invisibility</text>
     <passive>15</passive>
     <languages/>
     <cr>1/8</cr>
-    <description>Source:	Player's Handbook 2024 p. 353</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 353</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -1870,7 +1870,7 @@ At will: Invisibility</text>
     <passive>10</passive>
     <languages/>
     <cr>1/8</cr>
-    <description>Source:	Player's Handbook 2024 p. 353</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 353</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -1909,7 +1909,7 @@ At will: Invisibility</text>
     <passive>12</passive>
     <languages>None</languages>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 353</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 353</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -1957,7 +1957,7 @@ At will: Invisibility</text>
     <passive>11</passive>
     <languages>telepathy 1 mile (works only with you)</languages>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 273</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 273</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>equals your Proficiency Bonus</text>
@@ -1972,15 +1972,15 @@ At will: Invisibility</text>
     </trait>
     <trait>
       <name>Hit Points</name>
-      <text>5 + 10 per spell level (the steed has a number of Hit Dice [d10s] equal to the spell's level)</text>
+      <text>5 + 10 per spell level (the steed has a number of Hit Dice [d10s] equal to the spell&apos;s level)</text>
     </trait>
     <trait>
       <name>Life Bond</name>
-      <text>When you regain Hit Points from a level 1+ spell, the steed regains the same number of Hit Points if you're within 5 feet of it.</text>
+      <text>When you regain Hit Points from a level 1+ spell, the steed regains the same number of Hit Points if you&apos;re within 5 feet of it.</text>
     </trait>
     <action>
       <name>Otherworldly Slam</name>
-      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d8 + the spell's level of Radiant (Celestial), Psychic (Fey), or Necrotic (Fiend) damage.</text>
+      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d8 + the spell&apos;s level of Radiant (Celestial), Psychic (Fey), or Necrotic (Fiend) damage.</text>
       <attack>Otherwordly Slam||1d8</attack>
     </action>
     <action>
@@ -1993,7 +1993,7 @@ At will: Invisibility</text>
     </action>
     <action>
       <name>Healing Touch (Celestial Only; Recharges after a Long Rest) (bonus action)</name>
-      <text>One creature within 5 feet of the steed regains a number of Hit Points equal to 2d8 + the spell's level.</text>
+      <text>One creature within 5 feet of the steed regains a number of Hit Points equal to 2d8 + the spell&apos;s level.</text>
       <attack>Healing Touch||2d8</attack>
     </action>
   </monster>
@@ -2021,14 +2021,14 @@ At will: Invisibility</text>
     <passive>15</passive>
     <languages/>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 354</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 354</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
     </trait>
     <trait>
       <name>Flyby</name>
-      <text>The owl doesn't provoke Opportunity Attacks when it flies out of an enemy's reach.</text>
+      <text>The owl doesn&apos;t provoke Opportunity Attacks when it flies out of an enemy&apos;s reach.</text>
     </trait>
     <action>
       <name>Talons</name>
@@ -2060,7 +2060,7 @@ At will: Invisibility</text>
     <passive>14</passive>
     <languages/>
     <cr>1/4</cr>
-    <description>Source:	Player's Handbook 2024 p. 354</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 354</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -2104,7 +2104,7 @@ At will: Invisibility</text>
     <passive>10</passive>
     <languages/>
     <cr>1/8</cr>
-    <description>Source:	Player's Handbook 2024 p. 354</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 354</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -2137,9 +2137,9 @@ At will: Invisibility</text>
     <conditionImmune/>
     <senses>blindsight 10 ft., darkvision 60 ft.</senses>
     <passive>15</passive>
-    <languages>understands Common and Draconic but can't speak</languages>
+    <languages>understands Common and Draconic but can&apos;t speak</languages>
     <cr>1/4</cr>
-    <description>Source:	Player's Handbook 2024 p. 354</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 354</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -2187,7 +2187,7 @@ At will: Invisibility</text>
     <passive>10</passive>
     <languages>Abyssal, Common</languages>
     <cr>1</cr>
-    <description>Source:	Player's Handbook 2024 p. 355</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 355</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -2204,12 +2204,12 @@ At will: Invisibility</text>
     </trait>
     <action>
       <name>Rend</name>
-      <text>Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Slashing damage, and the target has the Poisoned condition until the start of the quasit's next turn.</text>
+      <text>Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Slashing damage, and the target has the Poisoned condition until the start of the quasit&apos;s next turn.</text>
       <attack>Rend|5|1d4+3</attack>
     </action>
     <action>
       <name>Change Shape</name>
-      <text>The quasit changes into a form that resembles a bat (Speed 10 ft., Fly 40 ft.), a centipede (40 ft., Climb 40 ft.), or a toad (40 ft., Swim 40 ft.), or it returns to its true form. Its statistics are the same in each form, except for its Speed. Any equipment it's wearing or carrying isn't transformed. The quasit reverts to its true form if it dies.</text>
+      <text>The quasit changes into a form that resembles a bat (Speed 10 ft., Fly 40 ft.), a centipede (40 ft., Climb 40 ft.), or a toad (40 ft., Swim 40 ft.), or it returns to its true form. Its statistics are the same in each form, except for its Speed. Any equipment it&apos;s wearing or carrying isn&apos;t transformed. The quasit reverts to its true form if it dies.</text>
     </action>
     <action>
       <name>Scare (1/Day)</name>
@@ -2243,14 +2243,14 @@ At will: Invisibility</text>
     <passive>12</passive>
     <languages/>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 355</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 355</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
     </trait>
     <trait>
       <name>Agile</name>
-      <text>The rat doesn't provoke Opportunity Attacks when it moves out of an enemy's reach.</text>
+      <text>The rat doesn&apos;t provoke Opportunity Attacks when it moves out of an enemy&apos;s reach.</text>
     </trait>
     <action>
       <name>Bite</name>
@@ -2282,7 +2282,7 @@ At will: Invisibility</text>
     <passive>13</passive>
     <languages/>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 355</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 355</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -2321,14 +2321,14 @@ At will: Invisibility</text>
     <passive>12</passive>
     <languages>None</languages>
     <cr>1/2</cr>
-    <description>Source:	Player's Handbook 2024 p. 356</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 356</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
     </trait>
     <trait>
       <name>Pack Tactics</name>
-      <text>The shark has Advantage on an attack roll against a creature if at least one of the shark's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.</text>
+      <text>The shark has Advantage on an attack roll against a creature if at least one of the shark&apos;s allies is within 5 feet of the creature and the ally doesn&apos;t have the Incapacitated condition.</text>
     </trait>
     <trait>
       <name>Water Breathing</name>
@@ -2364,7 +2364,7 @@ At will: Invisibility</text>
     <passive>10</passive>
     <languages/>
     <cr>1/4</cr>
-    <description>Source:	Player's Handbook 2024 p. 356</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 356</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -2399,7 +2399,7 @@ At will: Invisibility</text>
     <passive>9</passive>
     <languages>None</languages>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 356</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 356</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -2432,9 +2432,9 @@ At will: Invisibility</text>
     <conditionImmune>exhaustion, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>9</passive>
-    <languages>understands the languages it knew in life but can't speak</languages>
+    <languages>understands the languages it knew in life but can&apos;t speak</languages>
     <cr>1/4</cr>
-    <description>Source:	Player's Handbook 2024 p. 356</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 356</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -2472,9 +2472,9 @@ At will: Invisibility</text>
     <conditionImmune/>
     <senses>darkvision 60 ft.</senses>
     <passive>7</passive>
-    <languages>understands Slaad but can't speak</languages>
+    <languages>understands Slaad but can&apos;t speak</languages>
     <cr>1/8</cr>
-    <description>Source:	Player's Handbook 2024 p. 357</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 357</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -2513,7 +2513,7 @@ At will: Invisibility</text>
     <passive>11</passive>
     <languages>Celestial, Common</languages>
     <cr>1</cr>
-    <description>Source:	Player's Handbook 2024 p. 357</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 357</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -2557,7 +2557,7 @@ At will: Invisibility</text>
     <passive>10</passive>
     <languages/>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 357</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 357</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -2600,7 +2600,7 @@ At will: Invisibility</text>
     <passive>13</passive>
     <languages>Common, Elvish, Sylvan</languages>
     <cr>1/4</cr>
-    <description>Source:	Player's Handbook 2024 p. 358</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 358</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -2618,12 +2618,12 @@ At will: Invisibility</text>
     </action>
     <action>
       <name>Enchanting Bow</name>
-      <text>Ranged Attack Roll: +6, range 40/160 ft. Hit: 1 Piercing damage, and the target has the Charmed condition until the start of the sprite's next turn.</text>
+      <text>Ranged Attack Roll: +6, range 40/160 ft. Hit: 1 Piercing damage, and the target has the Charmed condition until the start of the sprite&apos;s next turn.</text>
       <attack>Enchanting Bow|6|1</attack>
     </action>
     <action>
       <name>Heart Sight</name>
-      <text>Charisma Saving Throw: DC 10, one creature within 5 feet the sprite can see. Celestials, Fiends, and Undead automatically fail the save. Failure: The sprite knows the target's emotions and alignment.</text>
+      <text>Charisma Saving Throw: DC 10, one creature within 5 feet the sprite can see. Celestials, Fiends, and Undead automatically fail the save. Failure: The sprite knows the target&apos;s emotions and alignment.</text>
     </action>
     <slots/>
     <spells>invisibility</spells>
@@ -2652,7 +2652,7 @@ At will: Invisibility</text>
     <passive>13</passive>
     <languages/>
     <cr>1</cr>
-    <description>Source:	Player's Handbook 2024 p. 358</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 358</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -2696,14 +2696,14 @@ At will: Invisibility</text>
     <passive>10</passive>
     <languages>understands the languages you know</languages>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 328</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 328</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>equals your Proficiency Bonus</text>
     </trait>
     <trait>
       <name>Armor Class</name>
-      <text>11 + the spell's level</text>
+      <text>11 + the spell&apos;s level</text>
     </trait>
     <trait>
       <name>Hit Points</name>
@@ -2719,21 +2719,21 @@ At will: Invisibility</text>
     </trait>
     <action>
       <name>Multiattack</name>
-      <text>The spirit makes a number of attacks equal to half this spell's level (round down).</text>
+      <text>The spirit makes a number of attacks equal to half this spell&apos;s level (round down).</text>
     </action>
     <action>
       <name>Deathly Touch (Ghostly Only)</name>
-      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d8 + 3 + the spell's level Necrotic damage, and the target has the Frightened condition until the end of its next turn.</text>
+      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d8 + 3 + the spell&apos;s level Necrotic damage, and the target has the Frightened condition until the end of its next turn.</text>
       <attack>Deathly Touch|0|1d8+3</attack>
     </action>
     <action>
       <name>Grave Bolt (Skeletal Only)</name>
-      <text>Ranged Attack Roll: Bonus equals your spell attack modifier, range 150 ft. Hit: 2d4 + 3 + the spell's level Necrotic damage.</text>
+      <text>Ranged Attack Roll: Bonus equals your spell attack modifier, range 150 ft. Hit: 2d4 + 3 + the spell&apos;s level Necrotic damage.</text>
       <attack>Grave Bolt|0|2d4+3</attack>
     </action>
     <action>
       <name>Rotting Claw (Putrid Only)</name>
-      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d6 + 3 + the spell's level Slashing damage. If the target has the Poisoned condition, it has the Paralyzed condition until the end of its next turn.</text>
+      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d6 + 3 + the spell&apos;s level Slashing damage. If the target has the Poisoned condition, it has the Paralyzed condition until the end of its next turn.</text>
       <attack>Rotting Claw|0|1d6+3</attack>
     </action>
   </monster>
@@ -2761,7 +2761,7 @@ At will: Invisibility</text>
     <passive>10</passive>
     <languages/>
     <cr>1/8</cr>
-    <description>Source:	Player's Handbook 2024 p. 358</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 358</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -2797,7 +2797,7 @@ At will: Invisibility</text>
     <passive>11</passive>
     <languages/>
     <cr>1/2</cr>
-    <description>Source:	Player's Handbook 2024 p. 359</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 359</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -2833,7 +2833,7 @@ At will: Invisibility</text>
     <passive>13</passive>
     <languages>None</languages>
     <cr>0</cr>
-    <description>Source:	Player's Handbook 2024 p. 359</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 359</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -2868,14 +2868,14 @@ At will: Invisibility</text>
     <passive>15</passive>
     <languages/>
     <cr>1/4</cr>
-    <description>Source:	Player's Handbook 2024 p. 359</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 359</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
     </trait>
     <trait>
       <name>Pack Tactics</name>
-      <text>The wolf has Advantage on attack rolls against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.</text>
+      <text>The wolf has Advantage on attack rolls against a creature if at least one of the wolf&apos;s allies is within 5 feet of the creature and the ally doesn&apos;t have the Incapacitated condition.</text>
     </trait>
     <action>
       <name>Bite</name>
@@ -2905,9 +2905,9 @@ At will: Invisibility</text>
     <conditionImmune>exhaustion, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>8</passive>
-    <languages>understands the languages it knew in life but can't speak</languages>
+    <languages>understands the languages it knew in life but can&apos;t speak</languages>
     <cr>1/4</cr>
-    <description>Source:	Player's Handbook 2024 p. 359</description>
+    <description>Source:	Player&apos;s Handbook 2024 p. 359</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>

@@ -5,7 +5,7 @@
     <autolevel level="2">
       <feature optional="YES">
         <name>Fighting Style: Blind Warrior (HB)</name>
-        <text>You have blindsight with a range in feet equal to 5 times your proficiency bonus. In that range, you can see invisible targets and anything that isn't behind total cover or hidden from you.
+        <text>You have blindsight with a range in feet equal to 5 times your proficiency bonus. In that range, you can see invisible targets and anything that isn&apos;t behind total cover or hidden from you.
 
 Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 13 (Homebrew)</text>
         <special>fighting style blind warrior</special>
@@ -42,7 +42,7 @@ Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 13 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Fighting Style: Melee Marksman (HB)</name>
-        <text>Having a hostile creature within 5 feet of you doesn't impose disadvantage on your ranged weapon attacks, so long as you are attacking a creature within 5 feet.
+        <text>Having a hostile creature within 5 feet of you doesn&apos;t impose disadvantage on your ranged weapon attacks, so long as you are attacking a creature within 5 feet.
 
 When you make a ranged weapon attack against a creature within 5 feet, you can use your bonus action to make a melee attack against it with your ranged weapon. On hit, you deal bludgeoning damage equal to 1d4 + your Strength modifier.
 
@@ -84,7 +84,7 @@ Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 13 (Homebrew)</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Fighting Style: Blind Warrior (HB)</name>
-        <text>You have blindsight with a range in feet equal to 5 times your proficiency bonus. In that range, you can see invisible targets and anything that isn't behind total cover or hidden from you.
+        <text>You have blindsight with a range in feet equal to 5 times your proficiency bonus. In that range, you can see invisible targets and anything that isn&apos;t behind total cover or hidden from you.
 
 Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 13 (Homebrew)</text>
         <special>fighting style blind warrior</special>
@@ -121,7 +121,7 @@ Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 13 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Fighting Style: Melee Marksman (HB)</name>
-        <text>Having a hostile creature within 5 feet of you doesn't impose disadvantage on your ranged weapon attacks, so long as you are attacking a creature within 5 feet.
+        <text>Having a hostile creature within 5 feet of you doesn&apos;t impose disadvantage on your ranged weapon attacks, so long as you are attacking a creature within 5 feet.
 
 When you make a ranged weapon attack against a creature within 5 feet, you can use your bonus action to make a melee attack against it with your ranged weapon. On hit, you deal bludgeoning damage equal to 1d4 + your Strength modifier.
 
@@ -160,7 +160,7 @@ Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 13 (Homebrew)</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Fighting Style: Blind Warrior (HB)</name>
-        <text>You have blindsight with a range in feet equal to 5 times your proficiency bonus. In that range, you can see invisible targets and anything that isn't behind total cover or hidden from you.
+        <text>You have blindsight with a range in feet equal to 5 times your proficiency bonus. In that range, you can see invisible targets and anything that isn&apos;t behind total cover or hidden from you.
 
 Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 13 (Homebrew)</text>
         <special>fighting style blind warrior</special>
@@ -197,7 +197,7 @@ Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 13 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Fighting Style: Melee Marksman (HB)</name>
-        <text>Having a hostile creature within 5 feet of you doesn't impose disadvantage on your ranged weapon attacks, so long as you are attacking a creature within 5 feet.
+        <text>Having a hostile creature within 5 feet of you doesn&apos;t impose disadvantage on your ranged weapon attacks, so long as you are attacking a creature within 5 feet.
 
 When you make a ranged weapon attack against a creature within 5 feet, you can use your bonus action to make a melee attack against it with your ranged weapon. On hit, you deal bludgeoning damage equal to 1d4 + your Strength modifier.
 
@@ -239,7 +239,7 @@ Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 13 (Homebrew)</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Fighting Style: Blind Warrior (HB)</name>
-        <text>You have blindsight with a range in feet equal to 5 times your proficiency bonus. In that range, you can see invisible targets and anything that isn't behind total cover or hidden from you.
+        <text>You have blindsight with a range in feet equal to 5 times your proficiency bonus. In that range, you can see invisible targets and anything that isn&apos;t behind total cover or hidden from you.
 
 Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 13 (Homebrew)</text>
         <special>fighting style blind warrior</special>
@@ -286,7 +286,7 @@ Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 13 (Homebrew)</text>
   <feat>
     <name>Fighting Style: Blind Warrior (HB)</name>
     <prerequisite>Fighting Style Feature</prerequisite>
-    <text>You have blindsight with a range in feet equal to 5 times your proficiency bonus. In that range, you can see invisible targets and anything that isn't behind total cover or hidden from you.
+    <text>You have blindsight with a range in feet equal to 5 times your proficiency bonus. In that range, you can see invisible targets and anything that isn&apos;t behind total cover or hidden from you.
 
 Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 13 (Homebrew)</text>
     <special>fighting style blind warrior</special>
@@ -331,7 +331,7 @@ Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 13 (Homebrew)</text>
   <!--feat>
     <name>Fighting Style: Melee Marksman (HB)</name>
     <prerequisite>Fighting Style Feature</prerequisite>
-    <text>Having a hostile creature within 5 feet of you doesn't impose disadvantage on your ranged weapon attacks, so long as you are attacking a creature within 5 feet.
+    <text>Having a hostile creature within 5 feet of you doesn&apos;t impose disadvantage on your ranged weapon attacks, so long as you are attacking a creature within 5 feet.
 
 When you make a ranged weapon attack against a creature within 5 feet, you can use your bonus action to make a melee attack against it with your ranged weapon. On hit, you deal bludgeoning damage equal to 1d4 + your Strength modifier.
 

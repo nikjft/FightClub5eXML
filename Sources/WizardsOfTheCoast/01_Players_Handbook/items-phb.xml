@@ -7,7 +7,7 @@
     <weight>2</weight>
     <value>2.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
     <name>Acid (vial)</name>
@@ -22,25 +22,25 @@ Source:	Player's Handbook p. 148</text>
     <roll>2d6</roll>
   </item>
   <item>
-    <name>Alchemist's Fire (flask)</name>
+    <name>Alchemist&apos;s Fire (flask)</name>
     <detail/>
     <type>G</type>
     <weight>1</weight>
     <value>50.0</value>
     <property/>
-    <text>This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
+    <text>This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist&apos;s fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
 
 Source:	Player's Handbook p. 148</text>
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Alchemist's Supplies</name>
+    <name>Alchemist&apos;s Supplies</name>
     <detail>Artisan Tools</detail>
     <type>G</type>
     <weight>8</weight>
     <value>50.0</value>
     <property/>
-    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
+    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan&apos;s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan&apos;s tools requires a separate proficiency.
 
 Alchemist's supplies enable a character to produce useful concoctions, such as acid or alchemist's fire.
 
@@ -70,7 +70,7 @@ Source:	Player's Handbook p. 154,
     <weight/>
     <value>0.2</value>
     <property/>
-    <text>Source:	Player's Handbook p. 158</text>
+    <text>Source:	Player&apos;s Handbook p. 158</text>
   </item>
   <item>
     <name>Ale (Mug)</name>
@@ -79,7 +79,7 @@ Source:	Player's Handbook p. 154,
     <weight/>
     <value>0.04</value>
     <property/>
-    <text>Source:	Player's Handbook p. 158</text>
+    <text>Source:	Player&apos;s Handbook p. 158</text>
   </item>
   <item>
     <name>Amulet</name>
@@ -163,7 +163,7 @@ Source:	Player's Handbook p. 151</text>
     <weight>2</weight>
     <value>1.0</value>
     <property/>
-    <text>As an action, you can spill these tiny metal balls from their pouch to cover a level area 10 feet square. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn't need to make the saving throw.
+    <text>As an action, you can spill these tiny metal balls from their pouch to cover a level area 10 feet square. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn&apos;t need to make the saving throw.
 
 Source:	Player's Handbook p. 151</text>
   </item>
@@ -174,7 +174,7 @@ Source:	Player's Handbook p. 151</text>
     <weight/>
     <value>10.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 158</text>
+    <text>Source:	Player&apos;s Handbook p. 158</text>
   </item>
   <item>
     <name>Barrel</name>
@@ -217,7 +217,7 @@ Source:	Player's Handbook p. 153</text>
     <weight>7</weight>
     <value>1.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
     <name>Bell</name>
@@ -226,7 +226,7 @@ Source:	Player's Handbook p. 153</text>
     <weight/>
     <value>1.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
     <name>Bit and bridle</name>
@@ -235,7 +235,7 @@ Source:	Player's Handbook p. 153</text>
     <weight>1</weight>
     <value>2.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 157</text>
+    <text>Source:	Player&apos;s Handbook p. 157</text>
   </item>
   <item>
     <name>Blanket</name>
@@ -244,7 +244,7 @@ Source:	Player's Handbook p. 153</text>
     <weight>3</weight>
     <value>0.5</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
     <name>Block and Tackle</name>
@@ -269,13 +269,13 @@ Source:	Player's Handbook p. 151</text>
 Source:	Player's Handbook p. 151</text>
   </item>
   <item>
-    <name>Brewer's Supplies</name>
+    <name>Brewer&apos;s Supplies</name>
     <detail>Artisan Tools</detail>
     <type>G</type>
     <weight>9</weight>
     <value>20.0</value>
     <property/>
-    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
+    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan&apos;s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan&apos;s tools requires a separate proficiency.
 
 Brewing is the art of producing beer. Not only does beer serve as an alcoholic beverage, but the process of brewing purifies water. Crafting beer takes weeks of fermentation, but only a few hours of work.
 
@@ -321,7 +321,7 @@ Source:	Player's Handbook p. 153</text>
 Source:	Player's Handbook p. 152</text>
   </item>
   <item>
-    <name>Burglar's Pack</name>
+    <name>Burglar&apos;s Pack</name>
     <detail/>
     <type>G</type>
     <weight>44.5</weight>
@@ -347,13 +347,13 @@ Source:	Player's Handbook p. 152</text>
 Source:	Player's Handbook p. 151</text>
   </item>
   <item>
-    <name>Calligrapher's Supplies</name>
+    <name>Calligrapher&apos;s Supplies</name>
     <detail>Artisan Tools</detail>
     <type>G</type>
     <weight>5</weight>
     <value>10.0</value>
     <property/>
-    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
+    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan&apos;s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan&apos;s tools requires a separate proficiency.
 
 Calligraphy treats writing as a delicate, beautiful art. Calligraphers produce text that is pleasing to the eye, using a style that is difficult to forge. Their supplies also give them some ability to examine scripts and determine if they are legitimate, since a calligrapher's training involves long hours of studying writing and attempting to replicate its style and design.
 
@@ -382,7 +382,7 @@ Source:	Player's Handbook p. 154,
     <weight>0.1</weight>
     <value>0.05</value>
     <property/>
-    <text>As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw.
+    <text>As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn&apos;t need to make the saving throw.
 
 Source:	Player's Handbook p. 151</text>
   </item>
@@ -393,7 +393,7 @@ Source:	Player's Handbook p. 151</text>
     <weight>2</weight>
     <value>1.0</value>
     <property/>
-    <text>As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw.
+    <text>As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn&apos;t need to make the saving throw.
 
 Source:	Player's Handbook p. 151</text>
   </item>
@@ -404,7 +404,7 @@ Source:	Player's Handbook p. 151</text>
     <weight/>
     <value>50.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 157</text>
+    <text>Source:	Player&apos;s Handbook p. 157</text>
   </item>
   <item>
     <name>Candle</name>
@@ -429,13 +429,13 @@ Source:	Player's Handbook p. 151</text>
 Source:	Player's Handbook p. 157</text>
   </item>
   <item>
-    <name>Carpenter's Tools</name>
+    <name>Carpenter&apos;s Tools</name>
     <detail>Artisan Tools</detail>
     <type>G</type>
     <weight>6</weight>
     <value>8.0</value>
     <property/>
-    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
+    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan&apos;s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan&apos;s tools requires a separate proficiency.
 
 Skill at carpentry enables a character to construct wooden structures. A carpenter can build a house, a shack, a wooden cabinet, or similar items.
 
@@ -497,13 +497,13 @@ Source:	Player's Handbook p. 157</text>
 Source:	Player's Handbook p. 157</text>
   </item>
   <item>
-    <name>Cartographer's Tools</name>
+    <name>Cartographer&apos;s Tools</name>
     <detail>Artisan Tools</detail>
     <type>G</type>
     <weight>6</weight>
     <value>15.0</value>
     <property/>
-    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
+    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan&apos;s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan&apos;s tools requires a separate proficiency.
 
 Using cartographer's tools, you can create accurate maps to make travel easier for yourself and those who come after you. These maps can range from large-scale depictions of mountain ranges to diagrams that show the layout of a dungeon level.
 
@@ -546,7 +546,7 @@ Source:	Player's Handbook p. 151</text>
     <weight/>
     <value>0.01</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
     <name>Chariot</name>
@@ -588,7 +588,7 @@ Source:	Player's Handbook p. 157</text>
     <weight/>
     <value>0.3</value>
     <property/>
-    <text>Source:	Player's Handbook p. 158</text>
+    <text>Source:	Player&apos;s Handbook p. 158</text>
   </item>
   <item>
     <name>Cinnamon</name>
@@ -602,13 +602,13 @@ Source:	Player's Handbook p. 157</text>
 Source:	Player's Handbook p. 157</text>
   </item>
   <item>
-    <name>Climber's Kit</name>
+    <name>Climber&apos;s Kit</name>
     <detail/>
     <type>G</type>
     <weight>12</weight>
     <value>25.0</value>
     <property/>
-    <text>A climber's kit includes special pitons, boot tips, gloves, and a harness. You can use the climber's kit as an action to anchor yourself; when you do, you can't fall more than 25 feet from the point where you anchored yourself, and you can't climb more than 25 feet away from that point without undoing the anchor.
+    <text>A climber's kit includes special pitons, boot tips, gloves, and a harness. You can use the climber's kit as an action to anchor yourself; when you do, you can&apos;t fall more than 25 feet from the point where you anchored yourself, and you can&apos;t climb more than 25 feet away from that point without undoing the anchor.
 
 Source:	Player's Handbook p. 151</text>
   </item>
@@ -624,13 +624,13 @@ Source:	Player's Handbook p. 151</text>
 Source:	Player's Handbook p. 157</text>
   </item>
   <item>
-    <name>Cobbler's Tools</name>
+    <name>Cobbler&apos;s Tools</name>
     <detail>Artisan Tools</detail>
     <type>G</type>
     <weight>5</weight>
     <value>5.0</value>
     <property/>
-    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
+    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan&apos;s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan&apos;s tools requires a separate proficiency.
 
 Although the cobbler's trade might seem too humble for an adventurer, a good pair of boots will see a character across rugged wilderness and through deadly dungeons.
 
@@ -659,7 +659,7 @@ Source:	Player's Handbook p. 154,
     <weight>3</weight>
     <value>0.5</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
     <name>Common Wine (Pitcher)</name>
@@ -668,7 +668,7 @@ Source:	Player's Handbook p. 154,
     <weight/>
     <value>0.2</value>
     <property/>
-    <text>Source:	Player's Handbook p. 158</text>
+    <text>Source:	Player&apos;s Handbook p. 158</text>
   </item>
   <item>
     <name>Component Pouch</name>
@@ -677,18 +677,18 @@ Source:	Player's Handbook p. 154,
     <weight>2</weight>
     <value>25.0</value>
     <property/>
-    <text>A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description).
+    <text>A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell&apos;s description).
 
 Source:	Player's Handbook p. 151</text>
   </item>
   <item>
-    <name>Cook's Utensils</name>
+    <name>Cook&apos;s Utensils</name>
     <detail>Artisan Tools</detail>
     <type>G</type>
     <weight>8</weight>
     <value>1.0</value>
     <property/>
-    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
+    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan&apos;s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan&apos;s tools requires a separate proficiency.
 
 Adventuring is a hard life. With a cook along on the journey, your meals will be much better than the typical mix of hardtack and dried fruit.
 
@@ -751,7 +751,7 @@ Source:	Player's Handbook p. 143</text>
     <weight>4</weight>
     <value>5.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
     <name>Cotton Cloth (1 sq. yd.)</name>
@@ -793,7 +793,7 @@ Source:	Player's Handbook p. 151</text>
     <weight>5</weight>
     <value>2.0</value>
     <property/>
-    <text>Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.
+    <text>Using a crowbar grants advantage to Strength checks where the crowbar&apos;s leverage can be applied.
 
 Source:	Player's Handbook p. 151</text>
   </item>
@@ -825,7 +825,7 @@ Source:	Player's Handbook p. 154,
 		Xanathar's Guide to Everything p. 81</text>
   </item>
   <item>
-    <name>Diplomat's Pack</name>
+    <name>Diplomat&apos;s Pack</name>
     <detail/>
     <type>G</type>
     <weight>36</weight>
@@ -888,7 +888,7 @@ Source:	Player's Handbook p. 154,
     <weight/>
     <value>8.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 157</text>
+    <text>Source:	Player&apos;s Handbook p. 157</text>
   </item>
   <item>
     <name>Draft Horse</name>
@@ -897,7 +897,7 @@ Source:	Player's Handbook p. 154,
     <weight/>
     <value>50.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 157</text>
+    <text>Source:	Player&apos;s Handbook p. 157</text>
   </item>
   <item>
     <name>Dragonchess Set</name>
@@ -985,7 +985,7 @@ Source:	Player's Handbook p. 154,
 		Xanathar's Guide of Everything p. 83</text>
   </item>
   <item>
-    <name>Dungeoneer's Pack</name>
+    <name>Dungeoneer&apos;s Pack</name>
     <detail/>
     <type>G</type>
     <weight>61.5</weight>
@@ -1033,7 +1033,7 @@ Source:	Player's Handbook p. 143</text>
     <weight/>
     <value>200.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 157</text>
+    <text>Source:	Player&apos;s Handbook p. 157</text>
   </item>
   <item>
     <name>Emblem</name>
@@ -1049,7 +1049,7 @@ A cleric or paladin can use a holy symbol as a spellcasting focus. To use the sy
 Source:	Player's Handbook p. 151</text>
   </item>
   <item>
-    <name>Entertainer's Pack</name>
+    <name>Entertainer&apos;s Pack</name>
     <detail/>
     <type>G</type>
     <weight>38</weight>
@@ -1079,7 +1079,7 @@ Source:	Player's Handbook p. 151</text>
 Source:	Player's Handbook p. 157</text>
   </item>
   <item>
-    <name>Explorer's Pack</name>
+    <name>Explorer&apos;s Pack</name>
     <detail/>
     <type>G</type>
     <weight>59</weight>
@@ -1105,7 +1105,7 @@ Source:	Player's Handbook p. 151</text>
     <weight>10</weight>
     <value>0.05</value>
     <property/>
-    <text>Source:	Player's Handbook p. 157</text>
+    <text>Source:	Player&apos;s Handbook p. 157</text>
   </item>
   <item>
     <name>Fine Clothes</name>
@@ -1114,7 +1114,7 @@ Source:	Player's Handbook p. 151</text>
     <weight>6</weight>
     <value>15.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
     <name>Fine Wine (Bottle)</name>
@@ -1123,7 +1123,7 @@ Source:	Player's Handbook p. 151</text>
     <weight/>
     <value>10.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 158</text>
+    <text>Source:	Player&apos;s Handbook p. 158</text>
   </item>
   <item>
     <name>Fishing Tackle</name>
@@ -1243,13 +1243,13 @@ Source:	Player's Handbook p. 157</text>
 Source:	Player's Handbook p. 153</text>
   </item>
   <item>
-    <name>Glassblower's Tools</name>
+    <name>Glassblower&apos;s Tools</name>
     <detail>Artisan Tools</detail>
     <type>G</type>
     <weight>5</weight>
     <value>30.0</value>
     <property/>
-    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
+    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan&apos;s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan&apos;s tools requires a separate proficiency.
 
 Someone who is proficient with glassblower's tools has not only the ability to shape glass, but also specialized knowledge of the methods used to produce glass objects.
 
@@ -1319,7 +1319,7 @@ Source:	Player's Handbook p. 143</text>
     <weight>4</weight>
     <value>2.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
     <name>Hammer</name>
@@ -1328,10 +1328,10 @@ Source:	Player's Handbook p. 143</text>
     <weight>3</weight>
     <value>1.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
-    <name>Healer's Kit</name>
+    <name>Healer&apos;s Kit</name>
     <detail/>
     <type>G</type>
     <weight>3</weight>
@@ -1444,7 +1444,7 @@ Source:	Player's Handbook p. 154,
     <weight>1</weight>
     <value>25.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
     <name>Hunk of Cheese</name>
@@ -1453,7 +1453,7 @@ Source:	Player's Handbook p. 154,
     <weight/>
     <value>0.1</value>
     <property/>
-    <text>Source:	Player's Handbook p. 158</text>
+    <text>Source:	Player&apos;s Handbook p. 158</text>
   </item>
   <item>
     <name>Hunting Trap</name>
@@ -1485,7 +1485,7 @@ Source:	Player's Handbook p. 150</text>
     <weight/>
     <value>0.02</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
     <name>Inn, Aristocratic (per day)</name>
@@ -1493,7 +1493,7 @@ Source:	Player's Handbook p. 150</text>
     <type>G</type>
     <weight/>
     <value>4</value>
-    <text>Source:	Player's Handbook p. 158</text>
+    <text>Source:	Player&apos;s Handbook p. 158</text>
   </item>
   <item>
     <name>Inn, Comfortable (per day)</name>
@@ -1501,7 +1501,7 @@ Source:	Player's Handbook p. 150</text>
     <type>G</type>
     <weight/>
     <value>0.8</value>
-    <text>Source:	Player's Handbook p. 158</text>
+    <text>Source:	Player&apos;s Handbook p. 158</text>
   </item>
   <item>
     <name>Inn, Modest (per day)</name>
@@ -1509,7 +1509,7 @@ Source:	Player's Handbook p. 150</text>
     <type>G</type>
     <weight/>
     <value>0.5</value>
-    <text>Source:	Player's Handbook p. 158</text>
+    <text>Source:	Player&apos;s Handbook p. 158</text>
   </item>
   <item>
     <name>Inn, Poor (per day)</name>
@@ -1517,7 +1517,7 @@ Source:	Player's Handbook p. 150</text>
     <type>G</type>
     <weight/>
     <value>0.1</value>
-    <text>Source:	Player's Handbook p. 158</text>
+    <text>Source:	Player&apos;s Handbook p. 158</text>
   </item>
   <item>
     <name>Inn, Squalid (per day)</name>
@@ -1525,7 +1525,7 @@ Source:	Player's Handbook p. 150</text>
     <type>G</type>
     <weight/>
     <value>0.07</value>
-    <text>Source:	Player's Handbook p. 158</text>
+    <text>Source:	Player&apos;s Handbook p. 158</text>
   </item>
   <item>
     <name>Inn, Wealthy (per day)</name>
@@ -1533,7 +1533,7 @@ Source:	Player's Handbook p. 150</text>
     <type>G</type>
     <weight/>
     <value>2</value>
-    <text>Source:	Player's Handbook p. 158</text>
+    <text>Source:	Player&apos;s Handbook p. 158</text>
   </item>
   <item>
     <name>Iron</name>
@@ -1564,7 +1564,7 @@ Source:	Player's Handbook p. 153</text>
     <weight>0.5</weight>
     <value>0.1</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
     <name>Iron Spikes (10)</name>
@@ -1573,16 +1573,16 @@ Source:	Player's Handbook p. 153</text>
     <weight>5</weight>
     <value>1.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
-    <name>Jeweler's Tools</name>
+    <name>Jeweler&apos;s Tools</name>
     <detail>Artisan Tools</detail>
     <type>G</type>
     <weight>2</weight>
     <value>25.0</value>
     <property/>
-    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
+    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan&apos;s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan&apos;s tools requires a separate proficiency.
 
 Training with jeweler's tools includes the basic techniques needed to beautify gems. It also gives you expertise in identifying precious stones.
 
@@ -1635,13 +1635,13 @@ Source:	Player's Handbook p. 150</text>
 Source:	Player's Handbook p. 152</text>
   </item>
   <item>
-    <name>Leatherworker's Tools</name>
+    <name>Leatherworker&apos;s Tools</name>
     <detail>Artisan Tools</detail>
     <type>G</type>
     <weight>5</weight>
     <value>5.0</value>
     <property/>
-    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
+    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan&apos;s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan&apos;s tools requires a separate proficiency.
 
 Knowledge of leatherworking extends to lore concerning animal hides and their properties. It also confers knowledge of leather armor and similar goods.
 
@@ -1679,7 +1679,7 @@ Source:	Player's Handbook p. 157</text>
     <weight/>
     <value>0.02</value>
     <property/>
-    <text>Source:	Player's Handbook p. 158</text>
+    <text>Source:	Player&apos;s Handbook p. 158</text>
   </item>
   <item>
     <name>Lock</name>
@@ -1688,7 +1688,7 @@ Source:	Player's Handbook p. 157</text>
     <weight>1</weight>
     <value>10.0</value>
     <property/>
-    <text>A key is provided with the lock. Without the key, a creature proficient with thieves' tools can pick this lock with a successful DC 15 Dexterity check. Your DM may decide that better locks are available for higher prices.
+    <text>A key is provided with the lock. Without the key, a creature proficient with thieves&apos; tools can pick this lock with a successful DC 15 Dexterity check. Your DM may decide that better locks are available for higher prices.
 
 Source:	Player's Handbook p. 152</text>
   </item>
@@ -1768,7 +1768,7 @@ Source:	Player's Handbook p. 152</text>
     <weight>6</weight>
     <value>2.0</value>
     <property/>
-    <text>These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with thieves' tools can pick the manacles' lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.
+    <text>These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with thieves&apos; tools can pick the manacles&apos; lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.
 
 Source:	Player's Handbook p. 152</text>
   </item>
@@ -1784,13 +1784,13 @@ Source:	Player's Handbook p. 152</text>
 Source:	Player's Handbook p. 151</text>
   </item>
   <item>
-    <name>Mason's Tools</name>
+    <name>Mason&apos;s Tools</name>
     <detail>Artisan Tools</detail>
     <type>G</type>
     <weight>8</weight>
     <value>10.0</value>
     <property/>
-    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
+    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan&apos;s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan&apos;s tools requires a separate proficiency.
 
 Mason's tools allow you to craft stone structures, including walls and buildings crafted from brick.
 
@@ -1819,7 +1819,7 @@ Source:	Player's Handbook p. 154,
     <weight/>
     <value>25.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 157</text>
+    <text>Source:	Player&apos;s Handbook p. 157</text>
   </item>
   <item>
     <name>Meals, Aristocratic (per day)</name>
@@ -1827,7 +1827,7 @@ Source:	Player's Handbook p. 154,
     <type>G</type>
     <weight/>
     <value>2</value>
-    <text>Source:	Player's Handbook p. 158</text>
+    <text>Source:	Player&apos;s Handbook p. 158</text>
   </item>
   <item>
     <name>Meals, Comfortable (per day)</name>
@@ -1835,7 +1835,7 @@ Source:	Player's Handbook p. 154,
     <type>G</type>
     <weight/>
     <value>0.5</value>
-    <text>Source:	Player's Handbook p. 158</text>
+    <text>Source:	Player&apos;s Handbook p. 158</text>
   </item>
   <item>
     <name>Meals, Modest (per day)</name>
@@ -1843,7 +1843,7 @@ Source:	Player's Handbook p. 154,
     <type>G</type>
     <weight/>
     <value>0.3</value>
-    <text>Source:	Player's Handbook p. 158</text>
+    <text>Source:	Player&apos;s Handbook p. 158</text>
   </item>
   <item>
     <name>Meals, Poor (per day)</name>
@@ -1851,7 +1851,7 @@ Source:	Player's Handbook p. 154,
     <type>G</type>
     <weight/>
     <value>0.06</value>
-    <text>Source:	Player's Handbook p. 158</text>
+    <text>Source:	Player&apos;s Handbook p. 158</text>
   </item>
   <item>
     <name>Meals, Squalid (per day)</name>
@@ -1859,7 +1859,7 @@ Source:	Player's Handbook p. 154,
     <type>G</type>
     <weight/>
     <value>0.03</value>
-    <text>Source:	Player's Handbook p. 158</text>
+    <text>Source:	Player&apos;s Handbook p. 158</text>
   </item>
   <item>
     <name>Meals, Wealthy (per day)</name>
@@ -1867,10 +1867,10 @@ Source:	Player's Handbook p. 154,
     <type>G</type>
     <weight/>
     <value>0.8</value>
-    <text>Source:	Player's Handbook p. 158</text>
+    <text>Source:	Player&apos;s Handbook p. 158</text>
   </item>
   <item>
-    <name>Merchant's Scale</name>
+    <name>Merchant&apos;s Scale</name>
     <detail/>
     <type>G</type>
     <weight>3</weight>
@@ -1903,13 +1903,13 @@ Source:	Player's Handbook p. 152</text>
 Source:	Player's Handbook p. 157</text>
   </item>
   <item>
-    <name>Miner's Pick</name>
+    <name>Miner&apos;s Pick</name>
     <detail/>
     <type>G</type>
     <weight>10</weight>
     <value>2.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
     <name>Mule</name>
@@ -1918,16 +1918,16 @@ Source:	Player's Handbook p. 157</text>
     <weight/>
     <value>8.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 157</text>
+    <text>Source:	Player&apos;s Handbook p. 157</text>
   </item>
   <item>
-    <name>Navigator's Tools</name>
+    <name>Navigator&apos;s Tools</name>
     <detail>Tools</detail>
     <type>G</type>
     <weight>2</weight>
     <value>25.0</value>
     <property/>
-    <text>This set of instruments is used for navigation at sea. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.
+    <text>This set of instruments is used for navigation at sea. Proficiency with navigator&apos;s tools lets you chart a ship&apos;s course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.
 
 Proficiency with navigator's tools helps you determine a true course based on observing the stars. It also grants you insight into charts and maps while developing your sense of direction.
 
@@ -1968,16 +1968,16 @@ Source:	Player's Handbook p. 157</text>
     <weight>15</weight>
     <value>5.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 157</text>
+    <text>Source:	Player&apos;s Handbook p. 157</text>
   </item>
   <item>
-    <name>Painter's Supplies</name>
+    <name>Painter&apos;s Supplies</name>
     <detail>Artisan Tools</detail>
     <type>G</type>
     <weight>5</weight>
     <value>10.0</value>
     <property/>
-    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
+    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan&apos;s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan&apos;s tools requires a separate proficiency.
 
 Proficiency with painter's supplies represents your ability to paint and draw. You also acquire an understanding of art history, which can aid you in examining works of art.
 
@@ -2033,7 +2033,7 @@ Source:	Player's Handbook p. 154,
     <weight/>
     <value>0.2</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
     <name>Parchment (one sheet)</name>
@@ -2042,7 +2042,7 @@ Source:	Player's Handbook p. 154,
     <weight/>
     <value>0.1</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
     <name>Pepper</name>
@@ -2062,7 +2062,7 @@ Source:	Player's Handbook p. 157</text>
     <weight/>
     <value>5.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
     <name>Pig</name>
@@ -2093,7 +2093,7 @@ Source:	Player's Handbook p. 153</text>
     <weight>0.25</weight>
     <value>0.05</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
     <name>Platinum</name>
@@ -2155,13 +2155,13 @@ Source:	Player's Handbook p. 154,
 		Xanathar's Guide to Everything p. 81</text>
   </item>
   <item>
-    <name>Poisoner's Kit</name>
+    <name>Poisoner&apos;s Kit</name>
     <detail>Tools</detail>
     <type>G</type>
     <weight>2</weight>
     <value>50.0</value>
     <property/>
-    <text>A poisoner's kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.
+    <text>A poisoner&apos;s kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.
 
 Additionally, the Crafting and Harvesting Poison rules require the use of a poisoner's kit.
 
@@ -2193,7 +2193,7 @@ Source:	Player's Handbook p. 154</text>
     <weight>7</weight>
     <value>0.05</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
     <name>Pony</name>
@@ -2202,7 +2202,7 @@ Source:	Player's Handbook p. 154</text>
     <weight/>
     <value>30.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 157</text>
+    <text>Source:	Player&apos;s Handbook p. 157</text>
   </item>
   <item>
     <name>Portable Ram</name>
@@ -2216,13 +2216,13 @@ Source:	Player's Handbook p. 154</text>
 Source:	Player's Handbook p. 153</text>
   </item>
   <item>
-    <name>Potter's Tools</name>
+    <name>Potter&apos;s Tools</name>
     <detail>Artisan Tools</detail>
     <type>G</type>
     <weight>3</weight>
     <value>10.0</value>
     <property/>
-    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
+    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan&apos;s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan&apos;s tools requires a separate proficiency.
 
 Potter's tools are used to create a variety of ceramic objects, most typically pots and similar vessels.
 
@@ -2255,7 +2255,7 @@ Source:	Player's Handbook p. 154,
 Source:	Player's Handbook p. 153</text>
   </item>
   <item>
-    <name>Priest's Pack</name>
+    <name>Priest&apos;s Pack</name>
     <detail/>
     <type>G</type>
     <weight>24</weight>
@@ -2318,7 +2318,7 @@ Source:	Player's Handbook p. 151</text>
     <weight/>
     <value>75.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 157</text>
+    <text>Source:	Player&apos;s Handbook p. 157</text>
   </item>
   <item>
     <name>Riding Saddle</name>
@@ -2327,7 +2327,7 @@ Source:	Player's Handbook p. 151</text>
     <weight>25</weight>
     <value>10.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 157</text>
+    <text>Source:	Player&apos;s Handbook p. 157</text>
   </item>
   <item>
     <name>Robes</name>
@@ -2336,7 +2336,7 @@ Source:	Player's Handbook p. 151</text>
     <weight>4</weight>
     <value>1.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
     <name>Sack</name>
@@ -2356,7 +2356,7 @@ Source:	Player's Handbook p. 153</text>
     <weight>8</weight>
     <value>4.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 157</text>
+    <text>Source:	Player&apos;s Handbook p. 157</text>
   </item>
   <item>
     <name>Saffron</name>
@@ -2381,7 +2381,7 @@ Source:	Player's Handbook p. 157</text>
 Source:	Player's Handbook p. 157</text>
   </item>
   <item>
-    <name>Scholar's Pack</name>
+    <name>Scholar&apos;s Pack</name>
     <detail/>
     <type>G</type>
     <weight>10</weight>
@@ -2406,7 +2406,7 @@ Source:	Player's Handbook p. 151</text>
     <weight/>
     <value>0.5</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
     <name>Shawm</name>
@@ -2457,7 +2457,7 @@ Source:	Player's Handbook p. 157</text>
     <weight>5</weight>
     <value>2.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
     <name>Signal Whistle</name>
@@ -2466,7 +2466,7 @@ Source:	Player's Handbook p. 157</text>
     <weight/>
     <value>0.05</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
     <name>Signet Ring</name>
@@ -2475,7 +2475,7 @@ Source:	Player's Handbook p. 157</text>
     <weight/>
     <value>5.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
     <name>Silk (1 sq. yd.)</name>
@@ -2549,16 +2549,16 @@ Source:	Player's Handbook p. 157</text>
     <weight>10</weight>
     <value>2.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
-    <name>Smith's Tools</name>
+    <name>Smith&apos;s Tools</name>
     <detail>Artisan Tools</detail>
     <type>G</type>
     <weight>8</weight>
     <value>20.0</value>
     <property/>
-    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
+    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan&apos;s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan&apos;s tools requires a separate proficiency.
 
 Smith's tools allow you to work metal, heating it to alter its shape, repair damage, or work raw ingots into useful items.
 
@@ -2586,7 +2586,7 @@ Source:	Player's Handbook p. 154,
     <weight/>
     <value>0.02</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
     <name>Spellbook</name>
@@ -2628,7 +2628,7 @@ Source:	Player's Handbook p. 153</text>
     <weight/>
     <value>0.5</value>
     <property/>
-    <text>Source:	Player's Handbook p. 157</text>
+    <text>Source:	Player&apos;s Handbook p. 157</text>
   </item>
   <item>
     <name>Steel Mirror</name>
@@ -2637,7 +2637,7 @@ Source:	Player's Handbook p. 153</text>
     <weight>0.5</weight>
     <value>5.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
     <name>Tankard</name>
@@ -2651,7 +2651,7 @@ Source:	Player's Handbook p. 153</text>
 Source:	Player's Handbook p. 153</text>
   </item>
   <item>
-    <name>Thieves' Tools</name>
+    <name>Thieves&apos; Tools</name>
     <detail>Tools</detail>
     <type>G</type>
     <weight>1</weight>
@@ -2715,13 +2715,13 @@ Source:	Player's Handbook p. 154,
 Source:	Player's Handbook p. 153</text>
   </item>
   <item>
-    <name>Tinker's Tools</name>
+    <name>Tinker&apos;s Tools</name>
     <detail>Artisan Tools</detail>
     <type>G</type>
     <weight>10</weight>
     <value>50.0</value>
     <property/>
-    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
+    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan&apos;s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan&apos;s tools requires a separate proficiency.
 
 A set of tinker's tools is designed to enable you to repair many mundane objects. Though you can't manufacture much with tinker's tools, you can mend torn clothes, sharpen a worn sword, and patch a tattered suit of chain mail.
 
@@ -2765,13 +2765,13 @@ Source:	Player's Handbook p. 153</text>
 Source:	Player's Handbook p. 151</text>
   </item>
   <item>
-    <name>Traveler's Clothes</name>
+    <name>Traveler&apos;s Clothes</name>
     <detail>clothes, common</detail>
     <type>G</type>
     <weight>4</weight>
     <value>2.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
     <name>Trinket</name>
@@ -2956,7 +2956,7 @@ Source:	Player's Handbook p. 157</text>
     <weight/>
     <value>400.0</value>
     <property/>
-    <text>Source:	Player's Handbook p. 157</text>
+    <text>Source:	Player&apos;s Handbook p. 157</text>
   </item>
   <item>
     <name>Waterskin</name>
@@ -2970,13 +2970,13 @@ Source:	Player's Handbook p. 157</text>
 Source:	Player's Handbook p. 153</text>
   </item>
   <item>
-    <name>Weaver's Tools</name>
+    <name>Weaver&apos;s Tools</name>
     <detail>Artisan Tools</detail>
     <type>G</type>
     <weight>5</weight>
     <value>1.0</value>
     <property/>
-    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
+    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan&apos;s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan&apos;s tools requires a separate proficiency.
 
 Weaver's tools allow you to create cloth and tailor it into articles of clothing.
 
@@ -3017,16 +3017,16 @@ Source:	Player's Handbook p. 157</text>
     <weight>1</weight>
     <value>0.01</value>
     <property/>
-    <text>Source:	Player's Handbook p. 150</text>
+    <text>Source:	Player&apos;s Handbook p. 150</text>
   </item>
   <item>
-    <name>Woodcarver's Tools</name>
+    <name>Woodcarver&apos;s Tools</name>
     <detail>Artisan Tools</detail>
     <type>G</type>
     <weight>5</weight>
     <value>1.0</value>
     <property/>
-    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
+    <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan&apos;s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan&apos;s tools requires a separate proficiency.
 
 Woodcarver's tools allow you to craft intricate objects from wood, such as wooden tokens or arrows.
 
@@ -3076,12 +3076,12 @@ Wand
 Source:	Player's Handbook p. 151</text>
   </item>
   <item>
-    <name>Artisan's Tools</name>
+    <name>Artisan&apos;s Tools</name>
     <detail>generic variant, Artisan Tools</detail>
     <type>G</type>
     <weight/>
     <property/>
-    <text>Alchemist's Supplies
+    <text>Alchemist&apos;s Supplies
 Brewer's Supplies
 Calligrapher's Supplies
 Carpenter's Tools

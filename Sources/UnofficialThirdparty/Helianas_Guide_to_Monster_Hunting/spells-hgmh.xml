@@ -9,7 +9,7 @@
     <range>90 feet (20-foot-radius, 60-foot-tall cylinder)</range>
     <components>V, S, M (a drop of acid)</components>
     <classes>School: Conjuration, Druid, Sorcerer, Warlock, Wizard</classes>
-    <text>With a gentle patter, corrosive raindrops build to an acidic deluge in a 20-foot-radius, 60-foot-tall cylinder, centred on a point within range. When the rain begins, each creature in the area must make a Dexterity saving throw, taking 4d6 acid damage on failure or half as much damage on a success. For the duration, a creature must also make this saving throw when it enters the spell's area for the first time on its turn or ends its turn there.
+    <text>With a gentle patter, corrosive raindrops build to an acidic deluge in a 20-foot-radius, 60-foot-tall cylinder, centred on a point within range. When the rain begins, each creature in the area must make a Dexterity saving throw, taking 4d6 acid damage on failure or half as much damage on a success. For the duration, a creature must also make this saving throw when it enters the spell&apos;s area for the first time on its turn or ends its turn there.
 
 At Higher Levels:
 When you cast this spell using a spell slot of 4th level or higher, the acid damage increases by 1d6 for each slot level above 3rd.
@@ -95,7 +95,7 @@ Source:	Heliana's Guide to Monster Hunting p. 498 (Homebrew)</text>
     <range>Self (10-foot-radius sphere)</range>
     <components>V, S, M (a strip of magnesium)</components>
     <classes>Cleric, Paladin, Sorcerer, Warlock</classes>
-    <text>Bright light erupts from your form and dazzles those around you. For the duration, you emit bright light in a 50-foot radius and dim light for an additional 50 feet. Each creature that moves within 10 feet of you for the first time on its turn or that starts its turn there must make a Constitution saving throw. On a failure, a creature takes 3d10 radiant damage and is blinded until the start of its next turn. On a success, a creature takes half as much damage and isn't blinded.
+    <text>Bright light erupts from your form and dazzles those around you. For the duration, you emit bright light in a 50-foot radius and dim light for an additional 50 feet. Each creature that moves within 10 feet of you for the first time on its turn or that starts its turn there must make a Constitution saving throw. On a failure, a creature takes 3d10 radiant damage and is blinded until the start of its next turn. On a success, a creature takes half as much damage and isn&apos;t blinded.
 
 At Higher Levels:
 When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.
@@ -139,7 +139,7 @@ Source:	Heliana's Guide to Monster Hunting p. 499 (Homebrew)</text>
     <roll>1d20+25</roll>
   </spell>
   <spell>
-    <name>Can't Trip (HB)</name>
+    <name>Can&apos;t Trip (HB)</name>
     <level>0</level>
     <school>A</school>
     <time>1 action</time>
@@ -154,7 +154,7 @@ The number of creatures you can simultaneously target with this spell increases 
 Source:	Heliana's Guide to Monster Hunting p. 499 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Can'trip (HB)</name>
+    <name>Can&apos;trip (HB)</name>
     <level>0</level>
     <school>A</school>
     <time>1 action</time>
@@ -162,7 +162,7 @@ Source:	Heliana's Guide to Monster Hunting p. 499 (Homebrew)</text>
     <range>60 feet</range>
     <components>V, S</components>
     <classes>Bard, Sorcerer, Warlock, Wizard</classes>
-    <text>You temporarily tangle the Weave around a creature within range that you can see. Until the start of your next turn, each time the creature tries to cast a cantrip whilst this spell affects it, it must succeed on a spellcasting ability check against your spell save DC or waste its action (but not a spell slot). The spell ends if the target moves out of the spell's range.
+    <text>You temporarily tangle the Weave around a creature within range that you can see. Until the start of your next turn, each time the creature tries to cast a cantrip whilst this spell affects it, it must succeed on a spellcasting ability check against your spell save DC or waste its action (but not a spell slot). The spell ends if the target moves out of the spell&apos;s range.
 
 The maximum level of spell inhibited by this cantrip increases when you reach 5th level (1st-level spells), 11th level (2nd-level spells), and 17th level (3rd-level spells).
 
@@ -230,7 +230,7 @@ Source:	Heliana's Guide to Monster Hunting p. 500 (Homebrew)</text>
     <range>90 feet</range>
     <components>V, S, M (an aberration component)</components>
     <classes>School: Conjuration, Warlock, Wizard</classes>
-    <text>You call forth an aberration at random from the Anomalies, a distant and bizarre plane. Choose an unoccupied space within range. An aberration of challenge rating 5 or lower (GM's choice) appears in the space. The aberration disappears when it drops to 0 hit points or when the spell ends.
+    <text>You call forth an aberration at random from the Anomalies, a distant and bizarre plane. Choose an unoccupied space within range. An aberration of challenge rating 5 or lower (GM&apos;s choice) appears in the space. The aberration disappears when it drops to 0 hit points or when the spell ends.
 
 The aberration is friendly to you and your companions for the duration. Roll initiative for the aberration, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don't issue any commands to the aberration, it defends itself from hostile creatures, but otherwise takes no actions.
 
@@ -320,7 +320,7 @@ Source:	Heliana's Guide to Monster Hunting p. 501 (Homebrew)</text>
     <range>30 feet</range>
     <components>V, S, M (a tiny dreamcatcher)</components>
     <classes>School: Enchantment, Bard, Druid, Ranger, Warlock, Wizard</classes>
-    <text>Choose up to ten willing creatures you can see within range. For the duration, they gain the ability to lucidly dream whenever they sleep. While lucid dreaming, a creature always knows if the dream spell is being used to target it. In addition, when you cast this spell, each creature affected by it can choose to instantly fall asleep, even if that creature has a trait that normally prevents it from being magically put to sleep (such as elves' Fey Ancestry).
+    <text>Choose up to ten willing creatures you can see within range. For the duration, they gain the ability to lucidly dream whenever they sleep. While lucid dreaming, a creature always knows if the dream spell is being used to target it. In addition, when you cast this spell, each creature affected by it can choose to instantly fall asleep, even if that creature has a trait that normally prevents it from being magically put to sleep (such as elves&apos; Fey Ancestry).
 
 Source:	Heliana's Guide to Monster Hunting p. 501 (Homebrew)</text>
   </spell>
@@ -333,7 +333,7 @@ Source:	Heliana's Guide to Monster Hunting p. 501 (Homebrew)</text>
     <range>Touch</range>
     <components>V, S, M (some jellied eel)</components>
     <classes>School: Biomancy, School: Evocation, Druid, Sorcerer, Warlock, Wizard, Tamer (HB)</classes>
-    <text>You cause the skin of a willing creature you touch to produce a slimy, electrified mucous. The creature's unarmed strikes and natural weapon attacks become magical for the duration of the spell. The first time the creature hits with an unarmed strike or an attack using a natural weapon on its turn, it deals an additional 1d8 lightning damage as the stored lightning discharges.
+    <text>You cause the skin of a willing creature you touch to produce a slimy, electrified mucous. The creature&apos;s unarmed strikes and natural weapon attacks become magical for the duration of the spell. The first time the creature hits with an unarmed strike or an attack using a natural weapon on its turn, it deals an additional 1d8 lightning damage as the stored lightning discharges.
 
 Slimy:
 For the duration, the creature has advantage on checks and saves made to avoid being grappled or restrained, and disadvantage on any attempts it makes to grapple another creature.
@@ -360,7 +360,7 @@ Source:	Heliana's Guide to Monster Hunting p. 501 (Homebrew)</text>
     <range>Touch</range>
     <components>V, S, M (red, yellow and blue pigment)</components>
     <classes>School: Biomancy, School: Evocation, Druid, Sorcerer, Warlock, Wizard</classes>
-    <text>You touch a creature, absorbing the energy from its body and bolstering your metabolism. Make a melee spell attack against a creature you can reach. On a hit, the target takes 5d6 cold damage and can't take reactions until the end of its next turn. In addition, until the end of its next turn, its speed is reduced by 15 feet and your speed is increased by 15 feet.
+    <text>You touch a creature, absorbing the energy from its body and bolstering your metabolism. Make a melee spell attack against a creature you can reach. On a hit, the target takes 5d6 cold damage and can&apos;t take reactions until the end of its next turn. In addition, until the end of its next turn, its speed is reduced by 15 feet and your speed is increased by 15 feet.
 
 At Higher Levels:
 When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
@@ -426,7 +426,7 @@ Source:	Heliana's Guide to Monster Hunting p. 502 (Homebrew)</text>
     <range>Self</range>
     <components>V, S</components>
     <classes>School: Biomancy, School: Transmutation, Bard, Druid, Sorcerer, Warlock, Tamer (HB)</classes>
-    <text>With a pulse of adrenaline, a tremendous ferocity comes upon you. Make one weapon attack against a target within your reach or range. If this attack hits, the target takes additional 1d4 damage of the weapon's damage type.
+    <text>With a pulse of adrenaline, a tremendous ferocity comes upon you. Make one weapon attack against a target within your reach or range. If this attack hits, the target takes additional 1d4 damage of the weapon&apos;s damage type.
 
 This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4) and 17th level (4d4).
 
@@ -461,7 +461,7 @@ Source:	Heliana's Guide to Monster Hunting p. 503 (Homebrew)</text>
     <roll level="9">9d6</roll>
   </spell>
   <spell>
-    <name>Firther's Shadow (HB)</name>
+    <name>Firther&apos;s Shadow (HB)</name>
     <level>3</level>
     <school>EN</school>
     <time>1 action</time>
@@ -511,7 +511,7 @@ Source:	Heliana's Guide to Monster Hunting p. 503 (Homebrew)</text>
     <range>Touch</range>
     <components>V, S, M (adhesive tape with ducks drawn on it)</components>
     <classes>School: Transmutation, Bard, Cleric, Sorcerer, Wizard</classes>
-    <text>You imbue a broken item no larger than 20 feet in any dimension with pure belief. For the duration, the item is whole once more. In addition, if you were familiar with the item's magical function (GM's discretion) and its rarity was no higher than common, the item regains its magical properties for the duration.
+    <text>You imbue a broken item no larger than 20 feet in any dimension with pure belief. For the duration, the item is whole once more. In addition, if you were familiar with the item&apos;s magical function (GM&apos;s discretion) and its rarity was no higher than common, the item regains its magical properties for the duration.
 
 At Higher Levels:
 When you cast this spell using a spell slot of 3rd level or higher, the rarity of the item that can regain its magical properties increases to uncommon (3rd level), rare (5th level), very rare (7th level), or legendary (9th level).
@@ -547,7 +547,7 @@ Source:	Heliana's Guide to Monster Hunting p. 504 (Homebrew)</text>
     <time>1 action</time>
     <duration>1 hour</duration>
     <range>30 feet</range>
-    <components>V, S, M (a fish's fin)</components>
+    <components>V, S, M (a fish&apos;s fin)</components>
     <classes>School: Biomancy, School: Transmutation, Druid, Ranger, Sorcerer, Wizard, Tamer (HB)</classes>
     <text>You change the morphology of a willing creature within range. It grows webbed fingers and gains a swimming speed equal to its walking speed.
 
@@ -679,7 +679,7 @@ Source:	Heliana's Guide to Monster Hunting p. 505 (Homebrew)</text>
     <range>120 feet (40-foot-radius, 100-foot-high cylinder)</range>
     <components>V, S</components>
     <classes>School: Evocation, Sorcerer, Warlock, Wizard</classes>
-    <text>You strike the ground, choosing a point you can see within range to begin accumulating gravity. A 40-foot-radius, 100-foot-high cylinder centred on that point becomes difficult terrain until the start of your next turn. When the spell ends, the gravity reaches a critical magnitude, smashing all creatures in the cylinder downwards; each creature in the area must make a Strength saving throw. If the spell lasts its full duration and ends at the start of your next turn, then, on a failed saving throw, a creature takes 8d10 force damage and is knocked prone. If the spell ends before the start of your next turn, a creature takes 4d10 force damage on a failure instead. On a successful save, a creature takes half as much damage and isn't knocked prone.
+    <text>You strike the ground, choosing a point you can see within range to begin accumulating gravity. A 40-foot-radius, 100-foot-high cylinder centred on that point becomes difficult terrain until the start of your next turn. When the spell ends, the gravity reaches a critical magnitude, smashing all creatures in the cylinder downwards; each creature in the area must make a Strength saving throw. If the spell lasts its full duration and ends at the start of your next turn, then, on a failed saving throw, a creature takes 8d10 force damage and is knocked prone. If the spell ends before the start of your next turn, a creature takes 4d10 force damage on a failure instead. On a successful save, a creature takes half as much damage and isn&apos;t knocked prone.
 
 At Higher Levels:
 When you cast this spell using a spell slot of 6th level or higher, both damage values increase by 1d10 for each slot level above 5th.
@@ -705,14 +705,14 @@ Source:	Heliana's Guide to Monster Hunting p. 505 (Homebrew)</text>
     <range>Self (1000-foot-radius sphere)</range>
     <components>V</components>
     <classes>School: Transmutation, Druid, Tamer (HB)</classes>
-    <text>You utter a bestial, magically-augmented howl that can be heard for 1000 feet. The howl can manifest as any animal call you've heard, such as the screech of a hawk or trumpet of an elephant. Choose one creature with whom you are familiar as the recipient: if it can hear your howl, it understands your meaning and can respond in a likewise manner.
+    <text>You utter a bestial, magically-augmented howl that can be heard for 1000 feet. The howl can manifest as any animal call you&apos;ve heard, such as the screech of a hawk or trumpet of an elephant. Choose one creature with whom you are familiar as the recipient: if it can hear your howl, it understands your meaning and can respond in a likewise manner.
 
 Creatures other than your recipient that hear the howl and that are under the effects of the comprehend languages spell or similar magic, or that can understand beasts, can understand the howl's meaning. Otherwise, the howl is unintelligible to creatures that can hear it.
 
 Source:	Heliana's Guide to Monster Hunting p. 506 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Humperdink's Halitosis (HB)</name>
+    <name>Humperdink&apos;s Halitosis (HB)</name>
     <level>1</level>
     <school>T</school>
     <time>1 action</time>
@@ -747,7 +747,7 @@ Source:	Heliana's Guide to Monster Hunting p. 506 (Homebrew)</text>
     <range>Touch</range>
     <components>V, S</components>
     <classes>School: Transmutation, Bard, Cleric, Druid, Sorcerer, Warlock, Wizard, Tamer (HB)</classes>
-    <text>You touch a willing creature, causing it, and everything it is wearing and carrying, to become translucent. At the start of each of the target's turns for the duration, it can choose to become incorporeal (no action required) until the end of its turn. While incorporeal, it has advantage on Stealth checks; it gains resistance to nonmagical bludgeoning, piercing, and slashing damage; and it can move through other creatures and objects as if they were difficult terrain. If the target ends its turn inside an object, it is shunted to the nearest unoccupied space, taking 1d10 force damage for every 5 feet it is shunted.
+    <text>You touch a willing creature, causing it, and everything it is wearing and carrying, to become translucent. At the start of each of the target&apos;s turns for the duration, it can choose to become incorporeal (no action required) until the end of its turn. While incorporeal, it has advantage on Stealth checks; it gains resistance to nonmagical bludgeoning, piercing, and slashing damage; and it can move through other creatures and objects as if they were difficult terrain. If the target ends its turn inside an object, it is shunted to the nearest unoccupied space, taking 1d10 force damage for every 5 feet it is shunted.
 
 At Higher Levels:
 When you cast this spell using a spell slot level of 6th level or higher, you can choose to increase the spell's duration, or the number of targets, for each slot level above 5th. If you choose duration, the duration increases in increments to 10 minutes (6th level), 1 hour (7th level), 8 hours (8th level), or 24 hours (9th level). If you choose to increase the number of targets, the number increases by 1 for each slot level.
@@ -789,7 +789,7 @@ Source:	Heliana's Guide to Monster Hunting p. 506 (Homebrew)</text>
     <range>Self</range>
     <components>V, S, M (some pollen)</components>
     <classes>School: Biomancy, School: Necromancy, Cleric, Druid, Warlock</classes>
-    <text>With a mighty sneeze that can be heard up to 300 feet away, you blast forth a 30-foot cone of phlegm, bad breath, and viral pathogens. Each creature in the area must make a Dexterity saving throw. On a failed save, a creature takes 3d6 poison damage and is poisoned for the duration. On a successful save, the creature takes half as much damage and isn't poisoned. A poisoned creature can make a Constitution saving throw at the end of each of its turns, ending the effect on itself on a success.
+    <text>With a mighty sneeze that can be heard up to 300 feet away, you blast forth a 30-foot cone of phlegm, bad breath, and viral pathogens. Each creature in the area must make a Dexterity saving throw. On a failed save, a creature takes 3d6 poison damage and is poisoned for the duration. On a successful save, the creature takes half as much damage and isn&apos;t poisoned. A poisoned creature can make a Constitution saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 Whilst poisoned in this way, a creature must roll a d12 at the start of each of its turns. On a 3 or lower, it is racked by a coughing fit and becomes incapacitated until the start of its next turn. Each creature within 5 feet of a creature when it becomes incapacitated in this way must succeed on a Constitution saving throw or also become poisoned in this way for the spell's duration.
 
@@ -1087,7 +1087,7 @@ Source:	Heliana's Guide to Monster Hunting p. 510 (Homebrew)</text>
     <range>30 feet</range>
     <components>V, S, M (a miniature silver shield worth 10 gp, whic hthe spell consumes)</components>
     <classes>School: Abjuration, Bard, Cleric, Druid, Paladin, Ranger, Tamer (HB)</classes>
-    <text>You trace a warding sigil in the air, sending it to slowly circle a willing creature you can see for the next hour. Immediately before the target next takes damage, except psychic damage, the ward triggers. Until the end of the target's next turn, it has resistance to all damage excluding psychic, including the triggering damage. The warding sigil then disappears, and the spell ends on the target.
+    <text>You trace a warding sigil in the air, sending it to slowly circle a willing creature you can see for the next hour. Immediately before the target next takes damage, except psychic damage, the ward triggers. Until the end of the target&apos;s next turn, it has resistance to all damage excluding psychic, including the triggering damage. The warding sigil then disappears, and the spell ends on the target.
 
 At Higher Levels:
 When you cast this spell using a spell slot of 3rd level or higher, you may target one additional creature for each slot level above 2nd.
@@ -1131,7 +1131,7 @@ Source:	Heliana's Guide to Monster Hunting p. 510 (Homebrew)</text>
     <range>30 feet</range>
     <components>V</components>
     <classes>School: Abjuration, Bard, Cleric, Paladin, Tamer (HB)</classes>
-    <text>With a word, you coat a creature in a shimmering shield that absorbs the energy of incoming blows. The creature gains 15 temporary hit points the instant before it takes the triggering damage. These hit points last until the start of the creature's next turn.
+    <text>With a word, you coat a creature in a shimmering shield that absorbs the energy of incoming blows. The creature gains 15 temporary hit points the instant before it takes the triggering damage. These hit points last until the start of the creature&apos;s next turn.
 
 At Higher Levels:
 When you cast this spell using a spell slot of 3rd level or higher, you may choose to either increase the range of the spell by 30 feet or increase the number of temporary hit points gained by 5, for each slot level above 2nd.
@@ -1189,7 +1189,7 @@ Source:	Heliana's Guide to Monster Hunting p. 511 (Homebrew)</text>
     <roll level="17">4d4</roll>
   </spell>
   <spell>
-    <name>Stalker's Eye (HB)</name>
+    <name>Stalker&apos;s Eye (HB)</name>
     <level>0</level>
     <school>EN</school>
     <time>1 action</time>
@@ -1197,7 +1197,7 @@ Source:	Heliana's Guide to Monster Hunting p. 511 (Homebrew)</text>
     <range>Touch</range>
     <components>V, S, M (small magnifying lens)</components>
     <classes>School: Enchantment, Bard, Druid, Tamer (HB)</classes>
-    <text>A willing creature you touch gains a preternatural ability to perceive the weaknesses in a creature's defences. The first time the creature makes an attack while under the effect of this spell, it makes the attack with advantage. After it makes an attack, the spell ends.
+    <text>A willing creature you touch gains a preternatural ability to perceive the weaknesses in a creature&apos;s defences. The first time the creature makes an attack while under the effect of this spell, it makes the attack with advantage. After it makes an attack, the spell ends.
 
 This spell augments the creature's ability to strike at vital points when you reach certain levels. When you reach 5th level, the augmented attack scores a critical hit on a roll of 19 or 20. At 11th level, this range is increased to 18 to 20, and at 17th level, this range becomes 17 to 20.
 
@@ -1210,9 +1210,9 @@ Source:	Heliana's Guide to Monster Hunting p. 511 (Homebrew)</text>
     <time>1 action</time>
     <duration>Concentration, up to 1 minute</duration>
     <range>90 feet (20-foot-radius sphere)</range>
-    <components>V, S, M (a skunk's tail)</components>
+    <components>V, S, M (a skunk&apos;s tail)</components>
     <classes>School: Conjuration, Bard, Druid, Sorcerer, Warlock, Wizard</classes>
-    <text>Emanating from a point within range, a noxious, 20-foot-radius sphere of colourless fumes creates a choking, eye-watering miasma that penetrates through creatures' skin.
+    <text>Emanating from a point within range, a noxious, 20-foot-radius sphere of colourless fumes creates a choking, eye-watering miasma that penetrates through creatures&apos; skin.
 
 When a creature enters the spell's area for the first time on its turn or starts its turn there, it must make a Constitution saving throw. It takes 3d6 poison damage and becomes poisoned until the end of its next turn on a failure, or takes half as much damage and is not poisoned on a success. Whilst poisoned in this way, a creature has disadvantage on saving throws made to maintain its concentration.
 
@@ -1237,7 +1237,7 @@ Source:	Heliana's Guide to Monster Hunting p. 511 (Homebrew)</text>
     <range>30 feet</range>
     <components>V, S, M (some candy)</components>
     <classes>School: Biomancy, School: Transmutation, Bard, Cleric, Paladin, Sorcerer, Tamer (HB)</classes>
-    <text>Choose a willing creature that you can see within range. Until the spell ends, the target's speed is increased by 15 feet, and it gains a +1 bonus to AC. As a bonus action on each of its turns, it can take the Dash, Disengage, Hide, or Use an Object action.
+    <text>Choose a willing creature that you can see within range. Until the spell ends, the target&apos;s speed is increased by 15 feet, and it gains a +1 bonus to AC. As a bonus action on each of its turns, it can take the Dash, Disengage, Hide, or Use an Object action.
 
 When the spell ends, or if an affected creature does not spend movement up to its walking speed by the end of its turn, it then develops a stomach ache and is poisoned until the end of its next turn
 
@@ -1319,7 +1319,7 @@ Source:	Heliana's Guide to Monster Hunting p. 512 (Homebrew)</text>
     <range>90 feet</range>
     <components>V, S</components>
     <classes>School: Biomancy, Druid, Ranger, Warlock, Wizard</classes>
-    <text>You assault the internal chemistry of a creature you can see within range, causing bubbles of nitrogen to precipitate in its blood, forcing it to make a Constitution saving throw. On a failed save, the target takes 5d8 poison damage and is poisoned for 1 minute. On a successful save, the target takes half as much damage and isn't poisoned. If the target is completely submerged in water, increase the damage dice from d8s to d10s.
+    <text>You assault the internal chemistry of a creature you can see within range, causing bubbles of nitrogen to precipitate in its blood, forcing it to make a Constitution saving throw. On a failed save, the target takes 5d8 poison damage and is poisoned for 1 minute. On a successful save, the target takes half as much damage and isn&apos;t poisoned. If the target is completely submerged in water, increase the damage dice from d8s to d10s.
 
 The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.
 
@@ -1351,7 +1351,7 @@ Source:	Heliana's Guide to Monster Hunting p. 513 (Homebrew)</text>
     <range>90 feet</range>
     <components>V, S</components>
     <classes>School: Biomancy, School: Transmutation, Druid, Sorcerer, Warlock, Wizard</classes>
-    <text>You assault the internal chemistry of a creature you can see within range, causing bubbles of nitrogen to precipitate in its blood, forcing it to make a Constitution saving throw. On a failed save, the target takes 5d8 poison damage and is poisoned for 1 minute. On a successful save, the target takes half as much damage and isn't poisoned. If the target is completely submerged in water, increase the damage dice from d8s to d10s.
+    <text>You assault the internal chemistry of a creature you can see within range, causing bubbles of nitrogen to precipitate in its blood, forcing it to make a Constitution saving throw. On a failed save, the target takes 5d8 poison damage and is poisoned for 1 minute. On a successful save, the target takes half as much damage and isn&apos;t poisoned. If the target is completely submerged in water, increase the damage dice from d8s to d10s.
 
 The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.
 
@@ -1384,7 +1384,7 @@ Source:	Heliana's Guide to Monster Hunting p. 513 (Homebrew)</text>
     <components>V, S, M (a quiver containing at least
 one piece of ammunition)</components>
     <classes>School: Transmutation, Druid, Ranger</classes>
-    <text>You touch a quiver containing arrows or bolts, imbuing the ammunition currently in it with the spirit of a creature, plant, or fungus. For the duration, any creature hit (or in the case of 'Hawk', targeted) by one of the pieces of ammunition is subject to the effect of the spirit currently imbuing the quiver (see below), in addition to the attack's normal effects. As a bonus action, you can change which spirit imbues the quiver.
+    <text>You touch a quiver containing arrows or bolts, imbuing the ammunition currently in it with the spirit of a creature, plant, or fungus. For the duration, any creature hit (or in the case of 'Hawk&apos;, targeted) by one of the pieces of ammunition is subject to the effect of the spirit currently imbuing the quiver (see below), in addition to the attack&apos;s normal effects. As a bonus action, you can change which spirit imbues the quiver.
 
 Cat:
 The target takes an additional 1d6 slashing damage. If the attack roll was made with advantage, the additional damage is increased to 2d6.
@@ -1445,7 +1445,7 @@ Source:	Heliana's Guide to Monster Hunting p. 513 (Homebrew)</text>
     <range>60 feet</range>
     <components>S</components>
     <classes>School: Abjuration, Sorcerer, Warlock, Wizard</classes>
-    <text>You attempt to redirect a spell cast by a creature you can see. If the creature is casting a spell of 3rd level or lower, you can redirect the spell. If the spell involves a ranged spell attack, you can cause the ranged spell attack to target a different target of your choice within 10 feet of its original target. If the spell has an area of effect, you can shift the area of effect up to 10 feet in any direction. If the creature is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the creature's spell is redirected as described.
+    <text>You attempt to redirect a spell cast by a creature you can see. If the creature is casting a spell of 3rd level or lower, you can redirect the spell. If the spell involves a ranged spell attack, you can cause the ranged spell attack to target a different target of your choice within 10 feet of its original target. If the spell has an area of effect, you can shift the area of effect up to 10 feet in any direction. If the creature is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell&apos;s level. On a success, the creature&apos;s spell is redirected as described.
 
 At Higher Levels:
 When you cast this spell using a spell slot of 5th level or higher, the spell is automatically redirected as described if its level is less than the level of the spell slot you used.
@@ -1493,7 +1493,7 @@ Source:	Heliana's Guide to Monster Hunting p. 514 (Homebrew)</text>
     <range>60 feet</range>
     <components>V, S</components>
     <classes>School: Biomancy, School: Transmutation, Bard, Druid, Sorcerer, Warlock, Wizard</classes>
-    <text>In response to a creature vocalizing, you make a sharp sound and hold a finger up in an attempt to interrupt them. The target must succeed on a Constitution saving throw or become silenced as its mouth is fused shut for the duration. If you silence a target that is casting a spell with verbal components, the target's spell slot isn't expended, but its action is wasted.
+    <text>In response to a creature vocalizing, you make a sharp sound and hold a finger up in an attempt to interrupt them. The target must succeed on a Constitution saving throw or become silenced as its mouth is fused shut for the duration. If you silence a target that is casting a spell with verbal components, the target&apos;s spell slot isn&apos;t expended, but its action is wasted.
 
 At the end of each of its turns, the target can make a Strength saving throw as it tries to tear open its mouth. On a success, the target takes 1d8 slashing damage and is no longer silenced. Alternatively, as an action, the target can use a bladed implement to cut open its mouth, taking 1d8 slashing damage and ending the silence.
 

@@ -7,7 +7,7 @@
     <numSkills>2</numSkills>
     <armor>None</armor>
     <weapons>Simple Weapons, Shortswords</weapons>
-    <tools>Any one type of Artisan's Tools or any one Musical Instrument of your choice</tools>
+    <tools>Any one type of Artisan&apos;s Tools or any one Musical Instrument of your choice</tools>
     <wealth>5d4</wealth>
     <slotsReset>L</slotsReset>
     <subclass>Monastic Tradition</subclass>
@@ -26,11 +26,11 @@ Source:	Player's Handbook p. 76</text>
     </trait>
     <trait>
       <name>The Magic of Ki</name>
-      <text>Monks make careful study of a magical energy that most monastic traditions call ki. This energy is an element of the magic that suffuses the multiverse — specifically, the element that flows through living bodies. Monks harness this power within themselves to create magical effects and exceed their bodies' physical capabilities, and some of their special attacks can hinder the flow of ki in their opponents. Using this energy, monks channel uncanny speed and strength into their unarmed strikes. As they gain experience, their martial training and their mastery of ki gives them more power over their bodies and the bodies of their foes.</text>
+      <text>Monks make careful study of a magical energy that most monastic traditions call ki. This energy is an element of the magic that suffuses the multiverse — specifically, the element that flows through living bodies. Monks harness this power within themselves to create magical effects and exceed their bodies&apos; physical capabilities, and some of their special attacks can hinder the flow of ki in their opponents. Using this energy, monks channel uncanny speed and strength into their unarmed strikes. As they gain experience, their martial training and their mastery of ki gives them more power over their bodies and the bodies of their foes.</text>
     </trait>
     <trait>
       <name>Training and Asceticism</name>
-      <text>Small walled cloisters dot the landscapes of the worlds of D&amp;D, tiny refuges from the flow of ordinary life, where time seems to stand still. The monks who live there seek personal perfection through contemplation and rigorous training. Many entered the monastery as children, sent to live there when their parents died, when food couldn't be found to support them, or in return for some kindness that the monks had performed for their families.
+      <text>Small walled cloisters dot the landscapes of the worlds of D&amp;D, tiny refuges from the flow of ordinary life, where time seems to stand still. The monks who live there seek personal perfection through contemplation and rigorous training. Many entered the monastery as children, sent to live there when their parents died, when food couldn&apos;t be found to support them, or in return for some kindness that the monks had performed for their families.
 
 Some monks live entirely apart from the surrounding population, secluded from anything that might impede their spiritual progress. Others are sworn to isolation, emerging only to serve as spies or assassins at the command of their leader, a noble patron, or some other mortal or divine power.
 
@@ -40,7 +40,7 @@ For a monk, becoming an adventurer means leaving a structured, communal lifestyl
     </trait>
     <trait>
       <name>Creating a Monk</name>
-      <text>As you make your monk character, think about your connection to the monastery where you learned your skills and spent your formative years. Were you an orphan or a child left on the monastery's threshold? Did your parents promise you to the monastery in gratitude for a service performed by the monks? Did you enter this secluded life to hide from a crime you committed? Or did you choose the monastic life for yourself?
+      <text>As you make your monk character, think about your connection to the monastery where you learned your skills and spent your formative years. Were you an orphan or a child left on the monastery&apos;s threshold? Did your parents promise you to the monastery in gratitude for a service performed by the monks? Did you enter this secluded life to hide from a crime you committed? Or did you choose the monastic life for yourself?
 
 Consider why you left. Did the head of your monastery choose you for a particularly important mission beyond the cloister? Perhaps you were cast out because of some violation of the community's rules. Did you dread leaving, or were you happy to go? Is there something you hope to accomplish outside the monastery? Are you eager to return to your home?
 
@@ -77,7 +77,7 @@ Source:	Player's Handbook p. 163</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Multiclass Monk</name>
-        <text>If your group uses the optional rule on multiclassing in the Player's Handbook, here's what you need to know if you choose monk as one of your classes.
+        <text>If your group uses the optional rule on multiclassing in the Player&apos;s Handbook, here&apos;s what you need to know if you choose monk as one of your classes.
 
 Ability Score Minimum:
 As a multiclass character, you must have at least the following ability score(s) to take a level in this class, or to take a level in another class if you are already a monk.
@@ -109,7 +109,7 @@ Source:	Player's Handbook p. 76</text>
     <autolevel level="1">
       <feature>
         <name>Martial Arts</name>
-        <text>Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don't have the two-handed or heavy property.
+        <text>Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don&apos;t have the two-handed or heavy property.
 
 You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a shield.
 
@@ -223,7 +223,7 @@ Source:	Player's Handbook p. 78</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Monastic Tradition: Way of Shadow</name>
-        <text>Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadowdancers, and they serve as spies and assassins. Sometimes the members of a ninja monastery are family members, forming a clan sworn to secrecy about their arts and missions. Other monasteries are more like thieves' guilds, hiring out their services to nobles, rich merchants, or anyone else who can pay their fees. Regardless of their methods, the heads of these monasteries expect the unquestioning obedience of their students.
+        <text>Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadowdancers, and they serve as spies and assassins. Sometimes the members of a ninja monastery are family members, forming a clan sworn to secrecy about their arts and missions. Other monasteries are more like thieves&apos; guilds, hiring out their services to nobles, rich merchants, or anyone else who can pay their fees. Regardless of their methods, the heads of these monasteries expect the unquestioning obedience of their students.
 
 Source:	Player's Handbook p. 80</text>
       </feature>
@@ -309,7 +309,7 @@ Source:	Player's Handbook p. 79</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Way of the Open Hand: Open Hand Technique</name>
-        <text>You can manipulate your enemy's ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target.
+        <text>You can manipulate your enemy&apos;s ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target.
 
 	• It must succeed on a Dexterity saving throw or be knocked prone.
 	• It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.
@@ -330,7 +330,7 @@ Source:	Player's Handbook p. 79</text>
     <autolevel level="4" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -367,7 +367,7 @@ Source:	Player's Handbook p. 76</text>
     <autolevel level="5">
       <feature>
         <name>Stunning Strike</name>
-        <text>Starting at 5th level, you can interfere with the flow of ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
+        <text>Starting at 5th level, you can interfere with the flow of ki in an opponent&apos;s body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
 
 Stunned:
 	• A stunned creature is incapacitated, meaning it can't take actions or reactions, can't move, and can speak only falteringly.
@@ -458,7 +458,7 @@ Source:	Player's Handbook p. 79</text>
     <autolevel level="7">
       <feature>
         <name>Evasion</name>
-        <text>At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a fireball spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+        <text>At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon&apos;s lightning breath or a fireball spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 Source:	Player's Handbook p. 79</text>
       </feature>
@@ -484,7 +484,7 @@ Source:	Player's Handbook p. 79</text>
     <autolevel level="8" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -590,7 +590,7 @@ Source:	Player's Handbook p. 80</text>
     <autolevel level="12" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -653,7 +653,7 @@ Source:	Player's Handbook p. 76</text>
     <autolevel level="15">
       <feature>
         <name>Timeless Body</name>
-        <text>At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you can't be aged magically. You can still die of old age, however. In addition, you no longer need food or water.
+        <text>At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you can&apos;t be aged magically. You can still die of old age, however. In addition, you no longer need food or water.
 
 Source:	Player's Handbook p. 76</text>
       </feature>
@@ -670,7 +670,7 @@ Source:	Player's Handbook p. 76</text>
     <autolevel level="16" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -698,7 +698,7 @@ Source:	Player's Handbook p. 76</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Way of Shadow: Opportunist</name>
-        <text>At 17th level, you can exploit a creature's momentary distraction when it is hit by an attack. Whenever a creature within 5 feet of you is hit by an attack made by a creature other than you, you can use your reaction to make a melee attack against that creature.
+        <text>At 17th level, you can exploit a creature&apos;s momentary distraction when it is hit by an attack. Whenever a creature within 5 feet of you is hit by an attack made by a creature other than you, you can use your reaction to make a melee attack against that creature.
 
 Source:	Player's Handbook p. 80</text>
       </feature>
@@ -718,7 +718,7 @@ Source:	Player's Handbook p. 80</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Way of the Open Hand: Quivering Palm</name>
-        <text>You gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage.
+        <text>You gain the ability to set up lethal vibrations in someone&apos;s body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage.
 
 You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.
 
@@ -763,7 +763,7 @@ Source:	Player's Handbook p. 76</text>
     <autolevel level="19" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 

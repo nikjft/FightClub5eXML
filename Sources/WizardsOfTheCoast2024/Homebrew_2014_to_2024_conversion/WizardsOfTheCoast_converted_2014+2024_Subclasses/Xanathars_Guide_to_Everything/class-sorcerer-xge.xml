@@ -6,7 +6,7 @@
     <autolevel level="3">
       <feature optional="YES">
         <name>Sorcerous Origin: Divine Soul [2014]</name>
-        <text>Sometimes the spark of magic that fuels a sorcerer comes from a divine source that glimmers within the soul. Having such a blessed soul is a sign that your innate magic might come from a distant but powerful familial connection to a divine being. Perhaps your ancestor was an angel, transformed into a mortal and sent to fight in a god's name.
+        <text>Sometimes the spark of magic that fuels a sorcerer comes from a divine source that glimmers within the soul. Having such a blessed soul is a sign that your innate magic might come from a distant but powerful familial connection to a divine being. Perhaps your ancestor was an angel, transformed into a mortal and sent to fight in a god&apos;s name.
 
 Or your birth might align with an ancient prophecy, marking you as a servant of the gods or a chosen vessel of divine magic.
 
@@ -39,7 +39,7 @@ Source:	Xanathar's Guide to Everything p. 50</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Divine Soul: Favored by the Gods [2014]</name>
-        <text>Starting at 1st level, divine power guards your destiny. If you fail a saving throw or miss with an attack roll, you can roll 2d4 and add it to the total, possibly changing the outcome. Once you use this feature, you can't use it again until you finish a short or long rest.
+        <text>Starting at 1st level, divine power guards your destiny. If you fail a saving throw or miss with an attack roll, you can roll 2d4 and add it to the total, possibly changing the outcome. Once you use this feature, you can&apos;t use it again until you finish a short or long rest.
 
 Source:	Xanathar's Guide to Everything p. 50</text>
       </feature>
@@ -53,7 +53,7 @@ Source:	Xanathar's Guide to Everything p. 50</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Divine Soul: Empowered Healing [2014]</name>
-        <text>Starting at 6th level, the divine energy coursing through you can empower healing spells. Whenever you or an ally within 5 feet of you rolls dice to determine the number of hit points a spell restores, you can spend 1 sorcery point to reroll any number of those dice once, provided you aren't incapacitated. You can use this feature only once per turn.
+        <text>Starting at 6th level, the divine energy coursing through you can empower healing spells. Whenever you or an ally within 5 feet of you rolls dice to determine the number of hit points a spell restores, you can spend 1 sorcery point to reroll any number of those dice once, provided you aren&apos;t incapacitated. You can use this feature only once per turn.
 
 Source:	Xanathar's Guide to Everything p. 50</text>
       </feature>
@@ -62,7 +62,7 @@ Source:	Xanathar's Guide to Everything p. 50</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Divine Soul: Otherworldly Wings [2014]</name>
-        <text>Starting at 14th level, you can use a bonus action to manifest a pair of spectral wings from your back. While the wings are present, you have a flying speed of 30 feet. The wings last until you're incapacitated, you die, or you dismiss them as a bonus action.
+        <text>Starting at 14th level, you can use a bonus action to manifest a pair of spectral wings from your back. While the wings are present, you have a flying speed of 30 feet. The wings last until you&apos;re incapacitated, you die, or you dismiss them as a bonus action.
 
 The affinity you chose for your Divine Magic feature determines the appearance of the spectral wings: eagle wings for good or law, bat wings for evil or chaos, and dragonfly wings for neutrality.
 
@@ -120,7 +120,7 @@ Source:	Xanathar's Guide to Everything p. 51</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Shadow Magic: Strength of the Grave [2014]</name>
-        <text>Starting at 1st level, your existence in a twilight state between life and death makes you difficult to defeat. When damage reduces you to 0 hit points, you can make a Charisma saving throw (DC 5 + the damage taken). On a success, you instead drop to 1 hit point. You can't use this feature if you are reduced to 0 hit points by radiant damage or by a critical hit.
+        <text>Starting at 1st level, your existence in a twilight state between life and death makes you difficult to defeat. When damage reduces you to 0 hit points, you can make a Charisma saving throw (DC 5 + the damage taken). On a success, you instead drop to 1 hit point. You can&apos;t use this feature if you are reduced to 0 hit points by radiant damage or by a critical hit.
 
 After the saving throw succeeds, you can't use this feature again until you finish a long rest.
 
@@ -131,7 +131,7 @@ Source:	Xanathar's Guide to Everything p. 51</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Shadow Magic: Hound of Ill Omen [2014]</name>
-        <text>At 6th level, you gain the ability to call forth a howling creature of darkness to harass your foes. As a bonus action, you can spend 3 sorcery points to magically summon a hound of ill omen to target one creature you can see within 120 feet of you. The hound uses the dire wolf's statistics (see the Monster Manual or appendix C in the Player's Handbook), with the following changes:
+        <text>At 6th level, you gain the ability to call forth a howling creature of darkness to harass your foes. As a bonus action, you can spend 3 sorcery points to magically summon a hound of ill omen to target one creature you can see within 120 feet of you. The hound uses the dire wolf&apos;s statistics (see the Monster Manual or appendix C in the Player&apos;s Handbook), with the following changes:
 
 	• The hound is size Medium, not Large, and it counts as a monstrosity, not a beast.
 
@@ -227,7 +227,7 @@ Source:	Sword Coast Adventurer's Guide p. 137,
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Storm Sorcery: Storm's Fury [2014]</name>
+        <name>Storm Sorcery: Storm&apos;s Fury [2014]</name>
         <text>Starting at 14th level, when you are hit by a melee attack, you can use your reaction to deal lightning damage to the attacker. The damage equals your sorcerer level. The attacker must also make a Strength saving throw against your sorcerer spell save DC. On a failed save, the attacker is pushed in a straight line up to 20 feet away from you.
 
 Source:	Sword Coast Adventurer's Guide p. 137,

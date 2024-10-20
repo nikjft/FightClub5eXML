@@ -6,7 +6,7 @@
     <autolevel level="2">
       <feature optional="YES">
         <name>Druid Circle: Conflagration (HB)</name>
-        <text>When a druid's forest burns down, there are an occasional few who find a newfound power awakened by the inferno. These druids find within themselves an inner fire that fills them with burning passion and allows them to become frightening wielders of magical fire. Like the wildfire, they burn away the old and dead so that new life can spring up from the ashes.
+        <text>When a druid&apos;s forest burns down, there are an occasional few who find a newfound power awakened by the inferno. These druids find within themselves an inner fire that fills them with burning passion and allows them to become frightening wielders of magical fire. Like the wildfire, they burn away the old and dead so that new life can spring up from the ashes.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 8 (Homebrew)</text>
       </feature>
@@ -69,7 +69,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 8 (Homebrew)</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Druid Circle: Primeval Guardian (HB)</name>
-        <text>Druids who join the circle of the Primeval Guardian are avowed protectors of the natural world. The druids of this circle can enlarge themselves, their allies, and the natural world to terrifying effect. These Druids' guardian form grants them the ability to transform into a giant tree-like creature that slowly lumbers through the battlefield striking foes with long branches.
+        <text>Druids who join the circle of the Primeval Guardian are avowed protectors of the natural world. The druids of this circle can enlarge themselves, their allies, and the natural world to terrifying effect. These Druids&apos; guardian form grants them the ability to transform into a giant tree-like creature that slowly lumbers through the battlefield striking foes with long branches.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 9 (Homebrew)</text>
       </feature>
@@ -191,7 +191,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 10 (Homebrew)</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Spirit Shaman (HB): Spirit Link</name>
-        <text>Starting at 10th level, you can use your link with your spirit companion to sacrifice your energy and transfer it to your companion. Whenever your familiar takes damage you can magically take that damage, instead of the familiar taking it. This feature doesn't transfer any other effects that accompany the damage, and this damage can't be reduced in any way.
+        <text>Starting at 10th level, you can use your link with your spirit companion to sacrifice your energy and transfer it to your companion. Whenever your familiar takes damage you can magically take that damage, instead of the familiar taking it. This feature doesn&apos;t transfer any other effects that accompany the damage, and this damage can&apos;t be reduced in any way.
 
 In addition, if your familiar is dead, you can use your action and reduce your maximum hit points by 8 to instantly cast find familiar as though you had used your Spirit Companion feature to do so. This reduction lasts until you finish a long rest.
 
@@ -244,7 +244,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 11 (Homebrew)</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Twilight (HB): Speech from Beyond</name>
-        <text>At 6th level, you can cast speak with dead without material components, and you understand what the target of this casting says. It can understand your questions, even if you don't share a language or it is not intelligent enough to speak.
+        <text>At 6th level, you can cast speak with dead without material components, and you understand what the target of this casting says. It can understand your questions, even if you don&apos;t share a language or it is not intelligent enough to speak.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
@@ -264,7 +264,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 11 (Homebrew)</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Twilight (HB): Return from the Brink</name>
-        <text>At 14th level, you learn to alter the flow of life and death. Whenever an ally within 60 feet of you that you can see is reduced to 0 hit points, as a reaction you can spend a number of d8's from your pool equal to half your druid level or less. (minimum 1) Roll the spent dice.
+        <text>At 14th level, you learn to alter the flow of life and death. Whenever an ally within 60 feet of you that you can see is reduced to 0 hit points, as a reaction you can spend a number of d8&apos;s from your pool equal to half your druid level or less. (minimum 1) Roll the spent dice.
 
 The ally regains 1 hit point and gains a number of temporary hit points equal to double the result of the dice roll. The temporary hit points last for 10 minutes.
 

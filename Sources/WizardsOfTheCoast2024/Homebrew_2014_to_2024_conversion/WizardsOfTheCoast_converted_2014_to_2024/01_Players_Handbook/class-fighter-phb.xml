@@ -69,13 +69,13 @@ Source:	Player's Handbook p. 70</text>
     </trait>
     <trait>
       <name>Trained for Danger</name>
-      <text>Not every member of the city watch, the village militia, or the queen's army is a fighter. Most of these troops are relatively untrained soldiers with only the most basic combat knowledge. Veteran soldiers, military officers, trained bodyguards, dedicated knights, and similar figures are fighters.
+      <text>Not every member of the city watch, the village militia, or the queen&apos;s army is a fighter. Most of these troops are relatively untrained soldiers with only the most basic combat knowledge. Veteran soldiers, military officers, trained bodyguards, dedicated knights, and similar figures are fighters.
 
 Some fighters feel drawn to use their training as adventurers. The dungeon delving, monster slaying, and other dangerous work common among adventurers is second nature for a fighter, not all that different from the life he or she left behind. There are greater risks, perhaps, but also much greater rewards — few fighters in the city watch have the opportunity to discover a magic flame tongue sword, for example.</text>
     </trait>
     <trait>
       <name>Creating a Fighter</name>
-      <text>As you build your fighter, think about two related elements of your character's background: Where did you get your combat training, and what set you apart from the mundane warriors around you? Were you particularly ruthless? Did you get extra help from a mentor, perhaps because of your exceptional dedication? What drove you to this training in the first place? A threat to your homeland, a thirst for revenge, or a need to prove yourself might all have been factors.
+      <text>As you build your fighter, think about two related elements of your character&apos;s background: Where did you get your combat training, and what set you apart from the mundane warriors around you? Were you particularly ruthless? Did you get extra help from a mentor, perhaps because of your exceptional dedication? What drove you to this training in the first place? A threat to your homeland, a thirst for revenge, or a need to prove yourself might all have been factors.
 
 You might have enjoyed formal training in a noble's army or in a local militia. Perhaps you trained in a war academy, learning strategy, tactics, and military history. Or you might be self-taught — unpolished but well tested. Did you take up the sword as a way to escape the limits of life on a farm, or are you following a proud family tradition? Where did you acquire your weapons and armor? They might have been military issue or family heirlooms, or perhaps you scrimped and saved for years to buy them. Your armaments are now among your most important possessions — the only things that stand between you and death's embrace.
 
@@ -111,7 +111,7 @@ Source:	Player's Handbook p. 70</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Multiclass Fighter</name>
-        <text>If your group uses the optional rule on multiclassing in the Player's Handbook, here's what you need to know if you choose fighter as one of your classes.
+        <text>If your group uses the optional rule on multiclassing in the Player&apos;s Handbook, here&apos;s what you need to know if you choose fighter as one of your classes.
 
 Ability Score Minimum:
 As a multiclass character, you must have at least 1 of the following ability score(s) to take a level in this class, or to take a level in another class if you are already a fighter.
@@ -149,7 +149,7 @@ Source:	Player's Handbook p. 72</text>
     <autolevel level="1">
       <feature>
         <name>Fighting Style</name>
-        <text>You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.
+        <text>You adopt a particular style of fighting as your specialty. Choose one of the following options. You can&apos;t take the same Fighting Style option more than once, even if you get to choose again.
 
 Source:	Player's Handbook p. 72</text>
       </feature>
@@ -234,7 +234,7 @@ Source:	Player's Handbook p. 73</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Battle Master: Student of War</name>
-        <text>At 3rd level, you gain proficiency with one type of artisan's tools of your choice.
+        <text>At 3rd level, you gain proficiency with one type of artisan&apos;s tools of your choice.
 
 Source:	Player's Handbook p. 73</text>
       </feature>
@@ -290,7 +290,7 @@ Source:	Player's Handbook p. 72</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Martial Archetype: Eldritch Knight</name>
-        <text>The archetypal Eldritch Knight combines the martial mastery common to all fighters with a careful study of magic. Eldritch Knights use magical techniques similar to those practiced by wizards. They focus their study on two of the eight schools of magic—abjuration and evocation. Abjuration spells grant an Eldritch Knight additional protection in battle, and evocation spells deal damage to many foes at once, extending the fighter's reach in combat. These knights learn a comparatively small number of spells, committing them to memory instead of keeping them in a spellbook.
+        <text>The archetypal Eldritch Knight combines the martial mastery common to all fighters with a careful study of magic. Eldritch Knights use magical techniques similar to those practiced by wizards. They focus their study on two of the eight schools of magic—abjuration and evocation. Abjuration spells grant an Eldritch Knight additional protection in battle, and evocation spells deal damage to many foes at once, extending the fighter&apos;s reach in combat. These knights learn a comparatively small number of spells, committing them to memory instead of keeping them in a spellbook.
 
 Source:	Player's Handbook p. 74</text>
       </feature>
@@ -368,7 +368,7 @@ Source:	Player's Handbook p. 74</text>
     <autolevel level="4" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -390,7 +390,7 @@ Source:	Player's Handbook p. 72</text>
     <autolevel level="6" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 6th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 6th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -450,7 +450,7 @@ Source:	Player's Handbook p. 73</text>
     <autolevel level="7">
       <feature optional="YES">
         <name>Champion: Remarkable Athlete</name>
-        <text>Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.
+        <text>Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn&apos;t already use your proficiency bonus.
 
 In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier.
 
@@ -470,7 +470,7 @@ Source:	Player's Handbook p. 74</text>
     <autolevel level="8" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -481,7 +481,7 @@ Source:	Player's Handbook p. 72</text>
     <autolevel level="9">
       <feature>
         <name>Indomitable</name>
-        <text>Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
+        <text>Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can&apos;t use this feature again until you finish a long rest.
 
 You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.
 
@@ -575,7 +575,7 @@ Source:	Player's Handbook p. 72</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Eldritch Knight: Eldritch Strike</name>
-        <text>At 10th level, you learn how to make your weapon strikes undercut a creature's resistance to your spells. When you hit a creature with a weapon attack, that creature has disadvantage on the next saving throw it makes against a spell you cast before the end of your next turn.
+        <text>At 10th level, you learn how to make your weapon strikes undercut a creature&apos;s resistance to your spells. When you hit a creature with a weapon attack, that creature has disadvantage on the next saving throw it makes against a spell you cast before the end of your next turn.
 
 Source:	Player's Handbook p. 75</text>
       </feature>
@@ -593,7 +593,7 @@ Source:	Player's Handbook p. 72</text>
     <autolevel level="12" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -618,7 +618,7 @@ Source:	Player's Handbook p. 72</text>
     <autolevel level="14" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 14th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 14th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -688,7 +688,7 @@ Source:	Player's Handbook p. 74</text>
     <autolevel level="16" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -745,7 +745,7 @@ Source:	Player's Handbook p. 73</text>
     <autolevel level="18">
       <feature optional="YES">
         <name>Champion: Survivor</name>
-        <text>At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points.
+        <text>At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don&apos;t gain this benefit if you have 0 hit points.
 
 Source:	Player's Handbook p. 72</text>
       </feature>
@@ -763,7 +763,7 @@ Source:	Player's Handbook p. 74</text>
     <autolevel level="19" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 

@@ -5,7 +5,7 @@
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>Scientists are people that believe discovery and invention are vital to progress, and seek knowledge about the world in which they live. You are one of these people... but you take things a bit too far. To most people, your ideas are crazy: unnecessary at best, and reprehensible at worst. Because of this, you're shunned by your community, though whether your "madness" is legitimate or just a label slapped on you by people who don't understand is up to you. 
+      <text>Scientists are people that believe discovery and invention are vital to progress, and seek knowledge about the world in which they live. You are one of these people... but you take things a bit too far. To most people, your ideas are crazy: unnecessary at best, and reprehensible at worst. Because of this, you&apos;re shunned by your community, though whether your "madness" is legitimate or just a label slapped on you by people who don&apos;t understand is up to you. 
 
 You will want to discuss the reason(s) you left your home with your Dungeon Master. Did people harass you, or ignore you altogether? Were you run out of town for your bizarre experiments, or did you take your leave to try to find like-minded people? Are you searching for something obscure, or do you simply wish for freedom to study what and how you please?
 
@@ -34,7 +34,7 @@ d6 | Field of Study
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>Though they may have much in common, these are not the types of scholars that fill the halls of universities. They are radical free thinkers who are defined by ostracization. Greater society dismisses their ideas and goals as anything from foolish to evil, leaving them to work in their makeshift laboratories alone, for hours, days, or weeks at a time. They're obsessed. They're dedicated. Their ideas are strange — but rest assured, no two are the same.
+      <text>Though they may have much in common, these are not the types of scholars that fill the halls of universities. They are radical free thinkers who are defined by ostracization. Greater society dismisses their ideas and goals as anything from foolish to evil, leaving them to work in their makeshift laboratories alone, for hours, days, or weeks at a time. They&apos;re obsessed. They&apos;re dedicated. Their ideas are strange — but rest assured, no two are the same.
 
 d8 | Personality Trait
 1 | My creations are my children, and I treat them as such.
@@ -77,7 +77,7 @@ d6 | Flaw
     <proficiency>Performance, Survival</proficiency>
     <trait>
       <name>Description</name>
-      <text>You've travelled the world in pursuit of your culinary passions, and have learned much from your journeys. You go wherever great food takes you, spreading your knowledge and hoping to pick up some things along the way.
+      <text>You&apos;ve travelled the world in pursuit of your culinary passions, and have learned much from your journeys. You go wherever great food takes you, spreading your knowledge and hoping to pick up some things along the way.
 
 	• Skill Proficiencies: Performance, Survival
 	• Tool Proficiencies: Cook's Utensils
@@ -101,7 +101,7 @@ d6 | Purpose for Travel
     </trait>
     <trait>
       <name>Feature: Taste Analysis</name>
-      <text>You've tasted many different cuisines in your travels, and have developed a knack for flavor recognition. You have the ability to determine exactly what non-magical ingredients were used in any food you taste, and can recreate an almost identical meal when given the right ingredients.
+      <text>You&apos;ve tasted many different cuisines in your travels, and have developed a knack for flavor recognition. You have the ability to determine exactly what non-magical ingredients were used in any food you taste, and can recreate an almost identical meal when given the right ingredients.
 
 If these are ingredients you're very familiar with (such as ingredients from your homeland or meals you prepare often), then you can even make a meal that exceeds the original in terms of flavor and quality.</text>
     </trait>

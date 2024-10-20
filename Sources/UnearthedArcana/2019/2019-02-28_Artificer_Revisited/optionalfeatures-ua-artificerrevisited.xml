@@ -37,7 +37,7 @@ Source:	Unearthed Arcana: Artificer Revisited p. 12</text>
   <!--feat>
     <name>Infusion: Many-Handed Pouch (UA)</name>
     <prerequisite>4th level, 2–5 pouches</prerequisite>
-    <text>The infused pouches all share one interdimensional space of the same capacity as a single pouch. Thus, reaching into any of the pouches allows access to the same storage space. A pouch operates as long as it is within 100 miles of another one of the pouches; the pouch is otherwise empty and won't accept any contents.
+    <text>The infused pouches all share one interdimensional space of the same capacity as a single pouch. Thus, reaching into any of the pouches allows access to the same storage space. A pouch operates as long as it is within 100 miles of another one of the pouches; the pouch is otherwise empty and won&apos;t accept any contents.
 
 If this infusion ends, the items stored in the shared space move into one of the pouches, determined at random. The rest of the pouches become empty.
 
@@ -53,7 +53,7 @@ Source:	Unearthed Arcana: Artificer Revisited p. 13</text>
     <components>S</components>
     <duration/>
     <classes>Artificer Infusions</classes>
-    <text>The infused pouches all share one interdimensional space of the same capacity as a single pouch. Thus, reaching into any of the pouches allows access to the same storage space. A pouch operates as long as it is within 100 miles of another one of the pouches; the pouch is otherwise empty and won't accept any contents.
+    <text>The infused pouches all share one interdimensional space of the same capacity as a single pouch. Thus, reaching into any of the pouches allows access to the same storage space. A pouch operates as long as it is within 100 miles of another one of the pouches; the pouch is otherwise empty and won&apos;t accept any contents.
 
 If this infusion ends, the items stored in the shared space move into one of the pouches, determined at random. The rest of the pouches become empty.
 
@@ -71,7 +71,7 @@ Source:	Unearthed Arcana: Artificer Revisited p. 13</text>
   <!--feat>
     <name>Infusion: Repeating Shot (UA)</name>
     <prerequisite>A simple or martial weapon with the ammunition property (requires attunement)</prerequisite>
-    <text>This magic weapon grants a +1 bonus to attack and damage rolls made with it when it's used to make a ranged attack, and it ignores the loading property if it has it.
+    <text>This magic weapon grants a +1 bonus to attack and damage rolls made with it when it&apos;s used to make a ranged attack, and it ignores the loading property if it has it.
 
 The weapon requires no ammunition; it magically produces one piece of ammunition each time you make a ranged attack with it, unless you manually load it. The ammunition produced by the weapon vanishes the instant after the it hits or misses a target.
 
@@ -146,7 +146,7 @@ Source:	Unearthed Arcana: Artificer Revisited p. 9</text>
   <!--feat>
     <name>Infusion: Repulsion Shield (UA)</name>
     <prerequisite>8th level, A shield (requires attunement)</prerequisite>
-    <text>A creature gains a +1 bonus to Armor Class while wielding this shield. While holding it, the wielder can use a reaction immediately after being hit by a melee attack to push the attacker up to 15 feet away. Once used, this reaction can't be used again until the wielder finishes a short or long rest.
+    <text>A creature gains a +1 bonus to Armor Class while wielding this shield. While holding it, the wielder can use a reaction immediately after being hit by a melee attack to push the attacker up to 15 feet away. Once used, this reaction can&apos;t be used again until the wielder finishes a short or long rest.
 
 Source:	Unearthed Arcana: Artificer Revisited p. 14</text>
   </feat-->
@@ -160,7 +160,7 @@ Source:	Unearthed Arcana: Artificer Revisited p. 14</text>
   <!--feat>
     <name>Infusion: Returning Weapon (UA)</name>
     <prerequisite>A simple or martial weapon with the thrown property</prerequisite>
-    <text>This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to the wielder's hand immediately after it is used to make a ranged attack.
+    <text>This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to the wielder&apos;s hand immediately after it is used to make a ranged attack.
 
 Source:	Unearthed Arcana: Artificer Revisited p. 10</text>
   </feat-->

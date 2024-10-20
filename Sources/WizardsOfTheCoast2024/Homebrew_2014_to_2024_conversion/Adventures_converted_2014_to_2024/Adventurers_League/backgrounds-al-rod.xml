@@ -5,7 +5,7 @@
     <proficiency>Nature, Survival</proficiency>
     <trait>
       <name>Description</name>
-      <text>You are one of hundreds of refugees that were driven from Hillsfar or that fled the destruction of Myth Drannor and who now shelter in hidden camps under the northern eaves of the Cormanthor Forest. If you up grew in the camps, you have never been to a settlement other than the village of Elventree. As a guest of the elves, you have learned their ways and the ways of the forest. You are also a traumatized, as residual wild magic, energies released by the fall of Thultanar upon Myth Drannor, and the constant fear of raids hunting for non-humans to fight in Hillsfar's Arena have taken their toll on you, as they have on everyone in the camps.
+      <text>You are one of hundreds of refugees that were driven from Hillsfar or that fled the destruction of Myth Drannor and who now shelter in hidden camps under the northern eaves of the Cormanthor Forest. If you up grew in the camps, you have never been to a settlement other than the village of Elventree. As a guest of the elves, you have learned their ways and the ways of the forest. You are also a traumatized, as residual wild magic, energies released by the fall of Thultanar upon Myth Drannor, and the constant fear of raids hunting for non-humans to fight in Hillsfar&apos;s Arena have taken their toll on you, as they have on everyone in the camps.
 
 	• Skill Proficiencies: Nature, Survival
 	• Tool Proficiencies: One type of artisan's tools
@@ -76,7 +76,7 @@ Source:	Adventurers League: Rage Of Demons p. 6,
     </trait>
     <trait>
       <name>Feature: Red Plume and Mage Guild Contacts</name>
-      <text>You made a number of friends among the Red Plumes and the Mage's Guild when you lived at the Hillsfar Gate. They remember you fondly and help you in little ways when they can. You can invoke their assistance in and around Hillsfar to obtain food, as well as simple equipment for temporary use. You can also invoke it to gain access to the low-security areas of their garrisons, halls, and encampments. [Note: This feature is a variant of the Soldier feature.]</text>
+      <text>You made a number of friends among the Red Plumes and the Mage&apos;s Guild when you lived at the Hillsfar Gate. They remember you fondly and help you in little ways when they can. You can invoke their assistance in and around Hillsfar to obtain food, as well as simple equipment for temporary use. You can also invoke it to gain access to the low-security areas of their garrisons, halls, and encampments. [Note: This feature is a variant of the Soldier feature.]</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
@@ -120,7 +120,7 @@ d6 | Flaw
     <proficiency>Insight, Persuasion</proficiency>
     <trait>
       <name>Description</name>
-      <text>Before becoming an adventurer, you were a successful merchant operating out Hillsfar, the City of Trade. Your family operated warehouses, organized caravans, managed stores, or owned a ship and has trade contacts throughout the Moonsea region, as well as up and down the length of the Sword Coast. Perhaps they import ore, uncut gems, untreated furs, or grain into the City of Trade, or they export fine cloth, faceted gems, fine furs, or Dragon's Breath, a brandy-like liquor. Regardless, you've largely given that life up for some reason and have chosen to seek adventure instead. Nevertheless, the training you received then, and perhaps the contacts you made, serve you well as an adventurer.
+      <text>Before becoming an adventurer, you were a successful merchant operating out Hillsfar, the City of Trade. Your family operated warehouses, organized caravans, managed stores, or owned a ship and has trade contacts throughout the Moonsea region, as well as up and down the length of the Sword Coast. Perhaps they import ore, uncut gems, untreated furs, or grain into the City of Trade, or they export fine cloth, faceted gems, fine furs, or Dragon&apos;s Breath, a brandy-like liquor. Regardless, you&apos;ve largely given that life up for some reason and have chosen to seek adventure instead. Nevertheless, the training you received then, and perhaps the contacts you made, serve you well as an adventurer.
 
 	• Skill Proficiencies: Insight, Persuasion
 	• Tool Proficiencies: Vehicles (land) and vehicles (water)
@@ -133,7 +133,7 @@ Source:	Adventurers League: Rage Of Demons p. 7,
     </trait>
     <trait>
       <name>Feature: Factor</name>
-      <text>Although you've left the day-to-day life of a merchant behind, your family has assigned you the services of a loyal retainer from the business, a factor, husbanding agent, seafarer, caravan guard, or clerk. This individual is a commoner who can perform mundane tasks for you such as making purchases, delivering messages, and running errands. He or she will not fight for you and will not follow you into obviously dangerous areas (such as dungeons), and will leave if frequently endangered or abused. If he or she is killed, the family assigns you another within a few days. [Note: This feature is a variant of the Noble Knight's Retainers feature.]</text>
+      <text>Although you&apos;ve left the day-to-day life of a merchant behind, your family has assigned you the services of a loyal retainer from the business, a factor, husbanding agent, seafarer, caravan guard, or clerk. This individual is a commoner who can perform mundane tasks for you such as making purchases, delivering messages, and running errands. He or she will not fight for you and will not follow you into obviously dangerous areas (such as dungeons), and will leave if frequently endangered or abused. If he or she is killed, the family assigns you another within a few days. [Note: This feature is a variant of the Noble Knight&apos;s Retainers feature.]</text>
     </trait>
     <trait>
       <name>Variant Feature: Trade Contact</name>
@@ -181,7 +181,7 @@ d6 | Flaw
     <proficiency>Perception, Stealth</proficiency>
     <trait>
       <name>Description</name>
-      <text>Hillsfar is the City of Trade. However, the Great Law of Trade only protects "legitimate" trade, trade that passes through the city's sole gate, which the Red Plumes monitor and tax. And the Great Law of Humanity banishes non-humans from the city altogether. The two Great Laws create great demand and great risk for smugglers, who shepherd illicit goods and non-humans into and out of the city by secret routes. The Rogues Guild tightly controls all of this activity, taking its cut from sanctioned jobs and exacting punishment for independent jobs.
+      <text>Hillsfar is the City of Trade. However, the Great Law of Trade only protects "legitimate" trade, trade that passes through the city&apos;s sole gate, which the Red Plumes monitor and tax. And the Great Law of Humanity banishes non-humans from the city altogether. The two Great Laws create great demand and great risk for smugglers, who shepherd illicit goods and non-humans into and out of the city by secret routes. The Rogues Guild tightly controls all of this activity, taking its cut from sanctioned jobs and exacting punishment for independent jobs.
 
 Perhaps you trafficked Dragon's Breath (a brandy-like liquor) to avoid tariffs or contraband to avoid seizure, or maybe you are a human who sympathizes with the non-humans and worked as part of the network of secret routes and safe houses that helps them pass through Hillsfar. Either way, you have contacts in the smuggling community who can help you slip into and out of the city unnoticed, for a price.
 
@@ -197,7 +197,7 @@ Source:	Adventurers League: Rage Of Demons p. 8,
     </trait>
     <trait>
       <name>Feature: Secret Passage</name>
-      <text>You can call on your contacts within the smuggling community to secure secret passage into or out of Hillsfar for yourself and your adventuring companions, no questions asked, and no Red Plume entanglements. Because you're calling in a favor, you can't be certain they will be able to help on your timetable or at all. Your Dungeon Master will determine whether you can be smuggled into or out of the city. In return for your passage, you and your companions may owe the Rouges Guild a favor and/or may have to pay bribes. [Note: This feature is a variant of the Sailor feature.]</text>
+      <text>You can call on your contacts within the smuggling community to secure secret passage into or out of Hillsfar for yourself and your adventuring companions, no questions asked, and no Red Plume entanglements. Because you&apos;re calling in a favor, you can&apos;t be certain they will be able to help on your timetable or at all. Your Dungeon Master will determine whether you can be smuggled into or out of the city. In return for your passage, you and your companions may owe the Rouges Guild a favor and/or may have to pay bribes. [Note: This feature is a variant of the Sailor feature.]</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
@@ -241,7 +241,7 @@ d6 | Flaw
     <proficiency>Deception, Stealth</proficiency>
     <trait>
       <name>Description</name>
-      <text>Even though you are a non-human, despite Hillsfar's Great Law of Humanity, you continue to live in the City of Trade. You do so by maintaining a secret identity, forging documents, and wearing a disguise. Few, if any, know you aren't human.
+      <text>Even though you are a non-human, despite Hillsfar&apos;s Great Law of Humanity, you continue to live in the City of Trade. You do so by maintaining a secret identity, forging documents, and wearing a disguise. Few, if any, know you aren&apos;t human.
 
 If you're a halfling or gnome, you pass as a little person or a child. If you're a half-elf, half-orc, or genasi, you disguise your non-human features. Other races use a combination of disguise and concealing clothing to hide.
 

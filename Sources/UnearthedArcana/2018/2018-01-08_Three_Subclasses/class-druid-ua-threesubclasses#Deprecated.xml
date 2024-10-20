@@ -59,7 +59,7 @@ Source:	Unearthed Arcana: Three Subclasses p. 1</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Circle of Spores (UA): Spreading Spores</name>
-        <text>At 10th level, you gain the ability to seed an area with deadly spores. As a bonus action, you hurl fungal spores up to 30 feet away, where they swirl around in a 10-foot cube for 1 minute. While the cube of spores persists, you can't use your Halo of Spores feature, but any creature that starts its turn in the cube takes your Halo of Spores damage. The cube of spores vanishes early if you use this feature again.
+        <text>At 10th level, you gain the ability to seed an area with deadly spores. As a bonus action, you hurl fungal spores up to 30 feet away, where they swirl around in a 10-foot cube for 1 minute. While the cube of spores persists, you can&apos;t use your Halo of Spores feature, but any creature that starts its turn in the cube takes your Halo of Spores damage. The cube of spores vanishes early if you use this feature again.
 
 Source:	Unearthed Arcana: Three Subclasses p. 1</text>
       </feature>
@@ -68,7 +68,7 @@ Source:	Unearthed Arcana: Three Subclasses p. 1</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Circle of Spores (UA): Fungal Body</name>
-        <text>At 14th level, the fungal spores in your body alter you: you can't be blinded, deafened, frightened, or poisoned, and if an attack is a critical hit against you, it doesn't deal its extra damage to you.
+        <text>At 14th level, the fungal spores in your body alter you: you can&apos;t be blinded, deafened, frightened, or poisoned, and if an attack is a critical hit against you, it doesn&apos;t deal its extra damage to you.
 
 Source:	Unearthed Arcana: Three Subclasses p. 1</text>
       </feature>

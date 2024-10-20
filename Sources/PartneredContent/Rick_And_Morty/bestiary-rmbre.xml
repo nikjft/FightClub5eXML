@@ -68,10 +68,10 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) pier
 If Buster the Bear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.</text>
     </trait>
     <action>
-      <name>Bashin' Banjo</name>
+      <name>Bashin&apos; Banjo</name>
       <text>
 Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage.</text>
-      <attack>Bashin' Banjo|+4|1d8+2</attack>
+      <attack>Bashin&apos; Banjo|+4|1d8+2</attack>
     </action>
     <description>Buster the Bear is a lovable, roly-poly teddy bear with a plaid shirt, torn jeans, and a banjo.
 
@@ -201,7 +201,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) slashi
     <save/>
     <skill>Stealth +3</skill>
     <passive>9</passive>
-    <languages>Common understands but can't speak</languages>
+    <languages>Common understands but can&apos;t speak</languages>
     <cr>1/8</cr>
     <resist/>
     <immune/>

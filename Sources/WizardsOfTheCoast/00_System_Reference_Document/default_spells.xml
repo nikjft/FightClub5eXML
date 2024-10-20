@@ -64,7 +64,7 @@
         <range>30 feet</range>
         <components>V, S, M (a morsel of food)</components>
         <duration>24 hours</duration>
-        <text>This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast's Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the spell's duration. If you or one of your companions harms the target, the spell ends.</text>
+        <text>This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast&apos;s Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the spell&apos;s duration. If you or one of your companions harms the target, the spell ends.</text>
         <text>    At Higher Levels. When you cast this spell using a 2nd level spell slot or higher, you can affect one additional beast for each slot level above 1st.</text>
     </spell>
     
@@ -428,7 +428,7 @@
         <range>Self</range>
         <components>V</components>
         <duration>Concentration, up to 1 minute</duration>
-        <text>The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 2d6 radiant damage to the target, which becomes visible if it is invisible, and the target sheds dim light in a 5-foot radius and can't become invisible until the spell ends.</text>
+        <text>The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 2d6 radiant damage to the target, which becomes visible if it is invisible, and the target sheds dim light in a 5-foot radius and can&apos;t become invisible until the spell ends.</text>
         <text>    At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by 1d6 for each slot level above 2nd.</text>
     </spell>
     
@@ -629,8 +629,8 @@
         <range>30 feet</range>
         <components>V, S</components>
         <duration>Concentration, up to 1 minute</duration>
-        <text>Creatures of your choice that you can see within range and that can hear you must make a Wisdom saving throw. A target automatically succeeds on this saving throw if it can't be charmed. On a failed save, a target is affected by this spell. Until the spell ends, you can use a bonus action on each of your turns to designate a direction that is horizontal to you. Each affected target must use as much of its movement as possible to move in that direction on its next turn. It can take its action before it moves. After moving in this way, it can make another Wisdom saving throw to try to end the effect.</text>
-        <text>    A target isn't compelled to move into an obviously deadly hazard, such as a fire pit, but it will provoke opportunity attacks to move in the designated direction.</text>
+        <text>Creatures of your choice that you can see within range and that can hear you must make a Wisdom saving throw. A target automatically succeeds on this saving throw if it can&apos;t be charmed. On a failed save, a target is affected by this spell. Until the spell ends, you can use a bonus action on each of your turns to designate a direction that is horizontal to you. Each affected target must use as much of its movement as possible to move in that direction on its next turn. It can take its action before it moves. After moving in this way, it can make another Wisdom saving throw to try to end the effect.</text>
+        <text>    A target isn&apos;t compelled to move into an obviously deadly hazard, such as a fire pit, but it will provoke opportunity attacks to move in the designated direction.</text>
     </spell>
     
     <spell><name>Cone of Cold</name>
@@ -876,7 +876,7 @@
         <range>60 feet</range>
         <components>S</components>
         <duration>Instantaneous</duration>
-        <text>You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of or lower, its spell fails and has no effect. If it is casting a spell of or higher, make an ability check using your spellcasting ability. The DC equals 10+ the spell's level. On a success, the creature's spell fails and has no effect.</text>
+        <text>You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of or lower, its spell fails and has no effect. If it is casting a spell of or higher, make an ability check using your spellcasting ability. The DC equals 10+ the spell&apos;s level. On a success, the creature&apos;s spell fails and has no effect.</text>
         <text>    At Higher Level. When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used.</text>
     </spell>
     
@@ -1448,10 +1448,10 @@
         <components>V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier)</components>
         <duration>Instantaneous</duration>
         <text>You gain the service of a familiar, a spirit that takes an animal form you choose: bat, cat, crab, frog (toad), hawk. lizard, octopus, owl, poisonous snake, fish (quipper), rat, raven, sea horse, spider, or weasel. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a celestial, fey or fiend (your choice) instead of a beast.</text>
-        <text>    Your familiar acts independently of you, but it always obeys your commands. In combat, it rolls its own initiative and acts on its own turn. A familiar can't attack, but it can take other actions as normal.</text>
-        <text>    When the familiar drops to 0 hit points, it disappears, leaving behind no physical form. It reappears after you cast this spell again. While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as an action, you can see through your familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the familiar has. During this time, you are deaf and blind with regard to your own senses.</text>
+        <text>    Your familiar acts independently of you, but it always obeys your commands. In combat, it rolls its own initiative and acts on its own turn. A familiar can&apos;t attack, but it can take other actions as normal.</text>
+        <text>    When the familiar drops to 0 hit points, it disappears, leaving behind no physical form. It reappears after you cast this spell again. While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as an action, you can see through your familiar&apos;s eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the familiar has. During this time, you are deaf and blind with regard to your own senses.</text>
         <text>    As an action, you can temporarily dismiss your familiar. It disappears into a pocket dimension where it awaits you summons. Alternatively, you can dismiss it forever. As an action while it is temporarily dismissed, you can cause it to reappear in any unoccupied space within 30 feet of you.</text>
-        <text>    You can't have more than one familiar at a time. If you cast this spell while you already have a familiar, you instead cause it to adopt a new form. Choose one of the forms from the above list. Your familiar transforms into the chosen creature.</text>
+        <text>    You can&apos;t have more than one familiar at a time. If you cast this spell while you already have a familiar, you instead cause it to adopt a new form. Choose one of the forms from the above list. Your familiar transforms into the chosen creature.</text>
         <text>    Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.</text>
     </spell>
     
@@ -1521,8 +1521,8 @@
         <range>120 feet</range>
         <components>V, S</components>
         <duration>Instantaneous</duration>
-        <text>You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.</text>
-        <text>    This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).</text>
+        <text>You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn&apos;t being worn or carried.</text>
+        <text>    This spell&apos;s damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).</text>
     </spell>
     
     <spell><name>Fire Shield</name>
@@ -2062,7 +2062,7 @@
         <text>Divine light washes out from you and coalesces in a soft radiance in a 30 foot radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 5 foot radius and have advantage on all saving throws, and other creatures have disadvantage on attack rolls against them until the spell ends. In addition, when a fiend or an undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a Constitution saving throw or be blinded until the spell ends.</text>
     </spell>
     
-    <spell><name>Hunter's Mark</name>
+    <spell><name>Hunter&apos;s Mark</name>
         <level>1</level><school>D</school>
         <classes>Ranger</classes>
         <time>1 bonus action</time>
@@ -2784,7 +2784,7 @@
         <components>V, S</components>
         <duration>Instantaneous</duration>
         <text>You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.</text>
-        <text>    This spell's damage increases by 1d12 when you reach 5th level (2d12), 11th level (3d12), and 17 level (4d12).</text>
+        <text>    This spell&apos;s damage increases by 1d12 when you reach 5th level (2d12), 11th level (3d12), and 17 level (4d12).</text>
     </spell>
     
     <spell><name>Polymorph</name>

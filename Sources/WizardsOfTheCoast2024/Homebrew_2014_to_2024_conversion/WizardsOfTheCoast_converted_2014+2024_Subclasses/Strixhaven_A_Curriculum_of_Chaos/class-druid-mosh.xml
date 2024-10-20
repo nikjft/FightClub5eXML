@@ -114,7 +114,7 @@ Source:	Strixhaven: A Curriculum of Chaos p. 5</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Mage of Witherbloom: Witherbloom Brew [2014]</name>
-        <text>At 6th level, you gain proficiency with herbalism kits if you don't already have it.
+        <text>At 6th level, you gain proficiency with herbalism kits if you don&apos;t already have it.
 
 When you finish a long rest, you can use an herbalism kit and a pot or cauldron to create magical brews. You create a number of brews equal to your proficiency bonus. Each brew requires its own flask. A brew retains its magical potency for 24 hours or until it is used. For each brew, choose one of the following effects:
 
@@ -171,7 +171,7 @@ Source:	Strixhaven: A Curriculum of Chaos p. 5</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Mage of Witherbloom: Withering Vortex [2014]</name>
-        <text>At 14th level, when you cast a spell using a spell slot that deals necrotic damage to any number of creatures that aren't Undead or Constructs, choose one of the creatures that took damage. You drain an amount of life energy equal to half the damage dealt to the chosen creature. One creature other than yourself that you can see within 30 feet of you regains a number of hit points equal to the life energy drained.
+        <text>At 14th level, when you cast a spell using a spell slot that deals necrotic damage to any number of creatures that aren&apos;t Undead or Constructs, choose one of the creatures that took damage. You drain an amount of life energy equal to half the damage dealt to the chosen creature. One creature other than yourself that you can see within 30 feet of you regains a number of hit points equal to the life energy drained.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 

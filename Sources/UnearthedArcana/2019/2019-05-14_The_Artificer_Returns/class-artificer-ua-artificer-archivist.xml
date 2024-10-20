@@ -15,7 +15,7 @@ Source:	Unearthed Arcana: Artificer Revisited p. 7</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Archivist (UA): Archivist Spells</name>
-        <text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Archivist Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
+        <text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Archivist Spells table. These spells count as artificer spells for you, but they don&apos;t count against the number of artificer spells you prepare.
 
 Archivist Spells:
 Artificer Level | Spell
@@ -32,7 +32,7 @@ Source:	Unearthed Arcana: Artificer Revisited p. 7</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Archivist (UA): Artificial Mind</name>
-        <text>At 3rd level, you discover how to awaken a mind inside an object. Whenever you finish a long rest and your calligrapher's supplies are with you, you can magically rouse a keen mind within a Tiny, nonmagical object on which you write mystical symbols. The object is a magic item while the mind is inside it, and you can use it as a spellcasting focus. If you already have an artificial mind from this feature, the first one immediately dissipates.
+        <text>At 3rd level, you discover how to awaken a mind inside an object. Whenever you finish a long rest and your calligrapher&apos;s supplies are with you, you can magically rouse a keen mind within a Tiny, nonmagical object on which you write mystical symbols. The object is a magic item while the mind is inside it, and you can use it as a spellcasting focus. If you already have an artificial mind from this feature, the first one immediately dissipates.
 
 The magic item has the following properties.
 
@@ -66,7 +66,7 @@ Source:	Unearthed Arcana: Artificer Revisited p. 7</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Archivist (UA): The First Warforged Minds</name>
-        <text>Warforged were originally created by House Cannith to fight as subservient beings, having limited self-awareness. The development of the autonomous warforged consciousness has been presented as an accidental breakthrough. However, rumors abound that it was the work of pioneering archivist Aaren d'Cannith, who planted the seed of autonomy in the warforged mind. This fact is now difficult to verify, for the development team's records were destroyed and Aaren d'Cannith disappeared under mysterious circumstances. Many believe that Aaren is still determined to help the warforged evolve and that he might be working with the sinister Lord of Blades.
+        <text>Warforged were originally created by House Cannith to fight as subservient beings, having limited self-awareness. The development of the autonomous warforged consciousness has been presented as an accidental breakthrough. However, rumors abound that it was the work of pioneering archivist Aaren d'Cannith, who planted the seed of autonomy in the warforged mind. This fact is now difficult to verify, for the development team&apos;s records were destroyed and Aaren d&apos;Cannith disappeared under mysterious circumstances. Many believe that Aaren is still determined to help the warforged evolve and that he might be working with the sinister Lord of Blades.
 
 Source:	Unearthed Arcana: Artificer Revisited p. 7</text>
       </feature>
@@ -75,7 +75,7 @@ Source:	Unearthed Arcana: Artificer Revisited p. 7</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Archivist (UA): Tools of the Trade</name>
-        <text>By the time you adopt this specialty at 3rd level, you're deeply familiar with employing its tools.
+        <text>By the time you adopt this specialty at 3rd level, you&apos;re deeply familiar with employing its tools.
 
 Archivist: Proficiencies
 You gain proficiency with calligrapher's supplies and the forgery kit, assuming you don't already have them. You also gain calligrapher's supplies and a forgery kit for free—the result of tinkering you've done as you've prepared for this specialization.
@@ -90,7 +90,7 @@ Source:	Unearthed Arcana: Artificer Revisited p. 7</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Archivist (UA): Mind Network</name>
-        <text>At 6th level, you've learned how to use your artifices to access minds, both to communicate and to harm.
+        <text>At 6th level, you&apos;ve learned how to use your artifices to access minds, both to communicate and to harm.
 
 Archivist: Magical Telephony
 While you have your Artificial Mind item on your person, you can communicate telepathically with anyone carrying an item bearing one of your artificer infusions, as the mind transmits your thoughts to each other. That person can also communicate telepathically with you as long as they have the item. This two-way communication can even cross planar boundaries.

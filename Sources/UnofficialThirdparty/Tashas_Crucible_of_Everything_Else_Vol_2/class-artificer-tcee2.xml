@@ -6,13 +6,13 @@
     <autolevel level="3">
       <feature optional="YES">
         <name>Artificer Specialist: Kobold Engineer (HB)</name>
-        <text>Kobold engineers aren't all kobolds, but many are. The practice was named after the most prominent practitioners, kobold inventors that specialize in devising madcap, improvised weapons and traps designed to distract enemies while their companions attack. These weapons often include odd chemicals and animals collected from nature or conjured from thin air.
+        <text>Kobold engineers aren&apos;t all kobolds, but many are. The practice was named after the most prominent practitioners, kobold inventors that specialize in devising madcap, improvised weapons and traps designed to distract enemies while their companions attack. These weapons often include odd chemicals and animals collected from nature or conjured from thin air.
 
 Source:	Tasha's Crucible of Everything Else, Volume 2 p. 6 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Kobold Engineer (HB): Kobolt Engineer Spells</name>
-        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Kobold Engineer spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
+        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Kobold Engineer spells table. These spells count as artificer spells for you, but they don&apos;t count against the number of artificer spells you prepare.
 
 Kobolt Engineer Spells:
 Artificer Level | Spells
@@ -101,7 +101,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 7 (Homebrew)</text>
     <autolevel level="9">
       <feature optional="YES">
         <name>Kobold Engineer (HB): Warrens Excavator</name>
-        <text>You've discovered esoteric secrets of civil engineering magic. You gain a burrowing speed of 10 feet and can choose to leave a tunnel behind you that is just big enough to fit a creature of your size. This speed cannot be used to burrow through solid rock, ice, metal, wood, or similar substances.
+        <text>You&apos;ve discovered esoteric secrets of civil engineering magic. You gain a burrowing speed of 10 feet and can choose to leave a tunnel behind you that is just big enough to fit a creature of your size. This speed cannot be used to burrow through solid rock, ice, metal, wood, or similar substances.
 
 Creatures one size larger than you can also fit in the area, but must squeeze to do so. While squeezing, such a creature's speed is halved, it has disadvantage on attack rolls and Dexterity saving throws, and attack rolls against it have advantage.
 

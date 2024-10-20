@@ -42,7 +42,7 @@ Melee Weapon Attack:+4 to hit, reach 5 ft., one target. Hit: 1 piercing damage.<
     </action>
     <spells/>
     <slots/>
-    <description>Source:	Heliana's Guide to Monster Hunting p. 156 (Homebrew)</description>
+    <description>Source:	Heliana&apos;s Guide to Monster Hunting p. 156 (Homebrew)</description>
     <environment/>
   </monster>
 
@@ -64,7 +64,7 @@ Melee Weapon Attack:+4 to hit, reach 5 ft., one target. Hit: 1 piercing damage.<
     <save/>
     <skill>Arcana +4, History +4, Insight +2, Perception +2</skill>
     <passive>12</passive>
-    <languages>understands emotions and imagery but doesn't speak, telepathy 30 ft.</languages>
+    <languages>understands emotions and imagery but doesn&apos;t speak, telepathy 30 ft.</languages>
     <cr>1/8</cr>
     <exp>25</exp>
     <resist/>
@@ -1421,7 +1421,7 @@ Source:	Heliana's Guide to Monster Hunting p. 242 (Homebrew)</description>
       <text>+2</text>
     </trait>
     <trait>
-      <name>Cat's Grace</name>
+      <name>Cat&apos;s Grace</name>
       <text>
 When the rakitten falls and isn't incapacitated, it can subtract up to 30 feet from the fall when calculating falling damage. In addition, it has advantage on ability checks and saving throws made to avoid the prone condition.</text>
     </trait>
@@ -1464,7 +1464,7 @@ A spectral, magical, floating paw appears at a point the rakitten chooses within
 The rakitten can use its action to control the paw. It can use the paw to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. It can move the paw up to 30 feet each time it uses it. The paw can't attack, activate magic items, or carry more than 10 pounds.</text>
     </action>
     <action>
-      <name>Cat's Curse (Bonus Action)</name>
+      <name>Cat&apos;s Curse (Bonus Action)</name>
       <text>
 When the rakitten hits a creature with a claw attack on its turn, it can use a bonus action to attempt to afflict the creature with the cat's curse for 1 minute. The creature must succeed on a Charisma saving throw or be unable to benefit from spells of a level lower than the tamer's proficiency bonus. A creature affected by this curse can repeat the saving throw at the end of each of its turns, ending the effect on a success.
 
@@ -1487,7 +1487,7 @@ For the next minute, the rakitten can use a bonus action to teleport up to 30 fe
 After the rakitten uses this action, it can't do so again until its tamer finishes a long rest.</text>
     </trait>
     <action>
-      <name>Devil's Purr</name>
+      <name>Devil&apos;s Purr</name>
       <text>
 As an action, the rakitten lets out a low, thrumming purr. Each creature of the rakitten's choice within 30 feet of it that can hear it must succeed on a Wisdom saving throw or be charmed by the rakitten until the end of the rakitten's next turn. A creature charmed in this way regards the rakitten as its own offspring, acting protectively towards it.
 

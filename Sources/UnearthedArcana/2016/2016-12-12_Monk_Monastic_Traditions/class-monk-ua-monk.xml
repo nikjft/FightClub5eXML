@@ -85,7 +85,7 @@ Source:	Unearthed Arcana: Monk p. 1</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Way of Tranquility (UA): Emissary of Peace</name>
-        <text>At 6th level, you gain the ability to diffuse violent situations. Whenever you make a Charisma check to calm violent emotions or to counsel peace, you have advantage on the roll. You must make this entreaty in good faith; it doesn't apply if proficiency in the Deception or Intimidation skill applies to your check.
+        <text>At 6th level, you gain the ability to diffuse violent situations. Whenever you make a Charisma check to calm violent emotions or to counsel peace, you have advantage on the roll. You must make this entreaty in good faith; it doesn&apos;t apply if proficiency in the Deception or Intimidation skill applies to your check.
 
 You also gain proficiency in the Performance or Persuasion skill (choose one).
 
@@ -105,7 +105,7 @@ Source:	Unearthed Arcana: Monk p. 1</text>
     <autolevel level="11">
       <feature optional="YES">
         <name>Way of Tranquility (UA): Douse the Flames of War</name>
-        <text>At 11th level, you gain the ability to temporarily extinguish a creature's violent impulses.
+        <text>At 11th level, you gain the ability to temporarily extinguish a creature&apos;s violent impulses.
 
 As an action, you can touch a creature, and it must make a Wisdom saving throw with a DC equal to 8 + your proficiency bonus + your Wisdom modifier. The target automatically succeeds if it's missing any of its hit points. If the target fails the save, it can't attack for 1 minute. During that time, it also can't cast spells that deal damage or that force someone to make a saving throw.
 

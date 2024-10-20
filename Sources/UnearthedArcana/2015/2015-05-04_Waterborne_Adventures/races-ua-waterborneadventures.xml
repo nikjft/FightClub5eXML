@@ -32,7 +32,7 @@ Height = 5 feet + 4 inches + your size modifier in inches
 Weight in pounds = 175 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
-      <name>Conqueror's Virtue</name>
+      <name>Conqueror&apos;s Virtue</name>
       <text>From a young age, you focused on one of the three virtues of strength, cunning, or intellect. Your choice of your Strength, Intelligence, or Wisdom score increases by 1.</text>
     </trait>
     <trait>
@@ -53,7 +53,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Sea Reaver</name>
-      <text>You gain proficiency with navigator's tools and vehicles (water).</text>
+      <text>You gain proficiency with navigator&apos;s tools and vehicles (water).</text>
     </trait>
     <trait>
       <name>Languages</name>

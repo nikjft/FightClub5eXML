@@ -6,7 +6,7 @@
     <autolevel level="1">
       <feature optional="YES">
         <name>Divine Domain: Congregation Domain (HB)</name>
-        <text>Shepherds of their flocks and great orators, these clerics can heighten the potency of their prayers when others of their faith reinforce them. The congregation's strength is in numbers, and clerics who follow this domain almost never serve alone and are almost always found in at least pairs. Priests of the congregation can favor war or competence over battle might, but all are dedicated to leading large groups of worshippers, sharing their faith, and lending a hand to their co-religionists.
+        <text>Shepherds of their flocks and great orators, these clerics can heighten the potency of their prayers when others of their faith reinforce them. The congregation&apos;s strength is in numbers, and clerics who follow this domain almost never serve alone and are almost always found in at least pairs. Priests of the congregation can favor war or competence over battle might, but all are dedicated to leading large groups of worshippers, sharing their faith, and lending a hand to their co-religionists.
 
 At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.
 
@@ -25,7 +25,7 @@ Source:	Crown of the Oathbreaker p. 874 (Homebrew)</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Congregation Domain (HB): Bonus Cantrip</name>
-        <text>When you choose this domain at 1st level, you gain the guidance cantrip, which doesn't count against the number of cleric cantrips you know.
+        <text>When you choose this domain at 1st level, you gain the guidance cantrip, which doesn&apos;t count against the number of cleric cantrips you know.
 
 Source:	Crown of the Oathbreaker p. 874 (Homebrew)</text>
       </feature>
@@ -88,7 +88,7 @@ Source:	Crown of the Oathbreaker p. 875 (Homebrew)</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Divine Domain: Darkness Domain (HB)</name>
-        <text>The clerics of the Darkness Within are secretive individuals who detach themselves from society and keep to the shadows. They accommodate themselves to darkness and operate unseen, focusing on hiding what they deem significant from the eyes of those who seek them. The imprint of the Dark Star's reign still resonates with the populace of Aglarion, manifesting in the subconscious memory of the society as a whole. Those who follow the Darkness Within keep their faith to themselves even if they are not devoted to the ideology of the dark solar avatar of their dualistic god. They pray at midnight and venerate the new moon as the absolute peak of their god's power.
+        <text>The clerics of the Darkness Within are secretive individuals who detach themselves from society and keep to the shadows. They accommodate themselves to darkness and operate unseen, focusing on hiding what they deem significant from the eyes of those who seek them. The imprint of the Dark Star&apos;s reign still resonates with the populace of Aglarion, manifesting in the subconscious memory of the society as a whole. Those who follow the Darkness Within keep their faith to themselves even if they are not devoted to the ideology of the dark solar avatar of their dualistic god. They pray at midnight and venerate the new moon as the absolute peak of their god&apos;s power.
 
 At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.
 
@@ -107,7 +107,7 @@ Source:	Crown of the Oathbreaker p. 875 (Homebrew)</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Darkness Domain (HB): Dark Sight</name>
-        <text>Starting at 1st level, you gain darkvision 60 ft. and magical darkness doesn't impede your sight.
+        <text>Starting at 1st level, you gain darkvision 60 ft. and magical darkness doesn&apos;t impede your sight.
 
 If you already have darkvision, its range increases by 60 ft.
 
@@ -116,7 +116,7 @@ Source:	Crown of the Oathbreaker p. 875 (Homebrew)</text>
 
       <feature optional="YES">
         <name>Darkness Domain (HB): Cloak of Darkness</name>
-        <text>Starting at 1st level, as a bonus action, you can weave shadows around you into a magical cloak that hides your form and protects you from attacks. For 1 minute, creatures have disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn't rely on sight, as with blindsight or tremorsense, or can see through illusions, as with truesight. Once you use this feature, you can't use it again until you finish a short or long rest.
+        <text>Starting at 1st level, as a bonus action, you can weave shadows around you into a magical cloak that hides your form and protects you from attacks. For 1 minute, creatures have disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn&apos;t rely on sight, as with blindsight or tremorsense, or can see through illusions, as with truesight. Once you use this feature, you can&apos;t use it again until you finish a short or long rest.
 
 Source:	Crown of the Oathbreaker p. 875 (Homebrew)</text>
       </feature>
@@ -195,7 +195,7 @@ Source:	Crown of the Oathbreaker p. 875 (Homebrew)</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Ooze Domain (HB): Bonus Cantrip</name>
-        <text>When you choose this domain at 1st level, you gain the acid splash cantrip, which doesn't count against the number of cleric cantrips you know.
+        <text>When you choose this domain at 1st level, you gain the acid splash cantrip, which doesn&apos;t count against the number of cleric cantrips you know.
 
 Source:	Crown of the Oathbreaker p. 876 (Homebrew)</text>
       </feature>

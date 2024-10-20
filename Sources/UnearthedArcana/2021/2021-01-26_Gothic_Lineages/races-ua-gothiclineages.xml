@@ -6,7 +6,7 @@
     <speed>35</speed>
     <trait>
       <name>Description</name>
-      <text>Poised between the worlds of the living and the dead, dhampirs retain their grip on life yet are endlessly tested by vicious hungers. Their ties to the undead grant dhampirs a taste of a vampire's deathless prowess in the form of increased speed, darkvision, and a life-draining bite.
+      <text>Poised between the worlds of the living and the dead, dhampirs retain their grip on life yet are endlessly tested by vicious hungers. Their ties to the undead grant dhampirs a taste of a vampire&apos;s deathless prowess in the form of increased speed, darkvision, and a life-draining bite.
 
 With unique insights into the nature of the undead, many dhampirs become adventurers and monster hunters. Their reasons are often deeply personal. Some seek danger, imagining monsters as personifications of their own hungers. Others pursue revenge against whatever turned them into a dhampir. And still others embrace the solitude of the hunt, striving to distance themselves from those who'd tempt their hunger.
 
@@ -65,7 +65,7 @@ d8 | Origin
     </trait>
     <trait>
       <name>Vampiric Bite</name>
-      <text>Your fanged bite is a natural weapon, which counts as a simple melee weapon with which you are proficient. You add your Constitution modifier to the attack and damage rolls when you attack with your bite. Your bite deals 1d4 piercing damage on a hit. While you are missing half or more of your hit points, you have advantage on attack rolls you make with this bite. When you use your bite and hit a creature that isn't a Construct or an Undead, you can empower yourself in one of the following ways of your choice:
+      <text>Your fanged bite is a natural weapon, which counts as a simple melee weapon with which you are proficient. You add your Constitution modifier to the attack and damage rolls when you attack with your bite. Your bite deals 1d4 piercing damage on a hit. While you are missing half or more of your hit points, you have advantage on attack rolls you make with this bite. When you use your bite and hit a creature that isn&apos;t a Construct or an Undead, you can empower yourself in one of the following ways of your choice:
 
 	• Regain hit points equal to the damage dealt by the bite
 	• Gain a bonus to the next ability check or attack roll you make; the bonus equals the damage dealt by the bite
@@ -83,7 +83,7 @@ You can empower yourself with your bite a number of times equal to your proficie
     <speed>30</speed>
     <trait>
       <name>Description</name>
-      <text>Where wishing fails, ancient magic can offer a heart's desire—at least, for a time. Hexbloods are individuals infused with eldritch magic, fey energy, or mysterious witchcraft. Some who enter into bargains with hags gain their deepest wishes but eventually find themselves transformed. These changes evidence a hag's influence: ears that split in forked points, skin in wild shades, lengthy hair that regrows if cut, and an irremovable living crown. Along with these marks, hexbloods manifest hag-like traits, such as long life, darkvision, and a variety of magical methods to beguile the senses and avoid the same.
+      <text>Where wishing fails, ancient magic can offer a heart&apos;s desire—at least, for a time. Hexbloods are individuals infused with eldritch magic, fey energy, or mysterious witchcraft. Some who enter into bargains with hags gain their deepest wishes but eventually find themselves transformed. These changes evidence a hag&apos;s influence: ears that split in forked points, skin in wild shades, lengthy hair that regrows if cut, and an irremovable living crown. Along with these marks, hexbloods manifest hag-like traits, such as long life, darkvision, and a variety of magical methods to beguile the senses and avoid the same.
 
 While many hexbloods gain their lineage after making a deal with a hag, others reveal their nature as they age—particularly if a hag influenced them early in life or even before their birth. Many hexbloods turn to lives of adventure, seeking to discover the mysteries of their magic, to forge a connection with their fey natures, or to avoid a hag that obsesses over them.
 
@@ -105,11 +105,11 @@ If you are replacing your race with this lineage, replace any Ability Score Incr
     </trait>
     <trait>
       <name>Heir of Hags</name>
-      <text>One way hags create more of their kind is through the creation of hexbloods. Every hexblood exhibits features suggestive of the hag whose magic inspires their powers. This includes an unusual crown, often called a "eldercross" or "witch's turn."" This living, garland-like part of a hexblood's body extends from their temples and wraps behind the head, serving as a visible mark of the bargain between hag and hexblood, a debt owed, or a change to come.</text>
+      <text>One way hags create more of their kind is through the creation of hexbloods. Every hexblood exhibits features suggestive of the hag whose magic inspires their powers. This includes an unusual crown, often called a "eldercross" or "witch&apos;s turn."" This living, garland-like part of a hexblood&apos;s body extends from their temples and wraps behind the head, serving as a visible mark of the bargain between hag and hexblood, a debt owed, or a change to come.</text>
     </trait>
     <trait>
       <name>Becoming a Hag</name>
-      <text>Hags can undertake a ritual to irreversibly transform a hexblood they created into a new hag, either one of their own kind or that embodies the hexblood's nature. This requires that both the hag and hexblood be in the same place and consent to the lengthy ritual— circumstances most hexbloods shun but might come to accept over the course of centuries. Once a hexblood undergoes this irreversible ritual, they emerge as a hag NPC no longer under the control of the hexblood's player, unless the DM rules otherwise.</text>
+      <text>Hags can undertake a ritual to irreversibly transform a hexblood they created into a new hag, either one of their own kind or that embodies the hexblood&apos;s nature. This requires that both the hag and hexblood be in the same place and consent to the lengthy ritual— circumstances most hexbloods shun but might come to accept over the course of centuries. Once a hexblood undergoes this irreversible ritual, they emerge as a hag NPC no longer under the control of the hexblood&apos;s player, unless the DM rules otherwise.</text>
     </trait>
     <trait>
       <name>Hexblood Origins</name>
@@ -142,7 +142,7 @@ If you don't keep any of those elements or you choose this lineage at character 
     </trait>
     <trait>
       <name>Hex Magic</name>
-      <text>You can cast the Disguise Self and Hex spells with this trait. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you gain this lineage). Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spells slots you have.</text>
+      <text>You can cast the Disguise Self and Hex spells with this trait. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you gain this lineage). Once you cast either of these spells with this trait, you can&apos;t cast that spell with it again until you finish a long rest. You can also cast these spells using any spells slots you have.</text>
     </trait>
     <trait>
       <name>Magic Token</name>
@@ -163,7 +163,7 @@ Once you create a token using this feature, you can't do so again until you fini
     <speed>30</speed>
     <trait>
       <name>Description</name>
-      <text>Death isn't always the end. The reborn exemplify this, being individuals who have died yet, somehow, still live. Some reborn exhibit the scars of fatal fates, their ashen flesh, missing limbs, or bloodless veins making it clear that they've been touched by death. Other reborn are marvels of magic or science, being stitched together from disparate beings or bearing mysterious minds in manufactured bodies. Whatever their origins, reborn know a new life and seek experiences and answers all their own.
+      <text>Death isn&apos;t always the end. The reborn exemplify this, being individuals who have died yet, somehow, still live. Some reborn exhibit the scars of fatal fates, their ashen flesh, missing limbs, or bloodless veins making it clear that they&apos;ve been touched by death. Other reborn are marvels of magic or science, being stitched together from disparate beings or bearing mysterious minds in manufactured bodies. Whatever their origins, reborn know a new life and seek experiences and answers all their own.
 
 Source:	Unearthed Arcana 76: Gothic Lineages</text>
     </trait>

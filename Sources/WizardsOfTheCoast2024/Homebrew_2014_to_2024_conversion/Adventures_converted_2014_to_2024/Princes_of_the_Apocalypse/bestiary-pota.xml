@@ -281,7 +281,7 @@ The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spe
     </trait>
     <slots>0, 4, 3, 2</slots>
     <spells>acid splash, blade ward, light, mending, mold earth, earth tremor, expeditious retreat, shield, shatter, spider climb, slow</spells>
-    <description>The priests of the Black Earth are the drivers and organizers of Ogremoch's cult. They are the true believers, seeing Ogremoch as a divine force, and they have developed a twisted dogma to explain how the evil of elemental earth is destined to remake the world and rule over all. The Black Earth priests form a cabal of leaders whose fanaticism and magical power serve as the backbone of the cult. Individuals of unusual power hold higher rank in the cult, but the priests provide the cult leader with his or her authority over the rest of Ogremoch's followers.
+    <description>The priests of the Black Earth are the drivers and organizers of Ogremoch&apos;s cult. They are the true believers, seeing Ogremoch as a divine force, and they have developed a twisted dogma to explain how the evil of elemental earth is destined to remake the world and rule over all. The Black Earth priests form a cabal of leaders whose fanaticism and magical power serve as the backbone of the cult. Individuals of unusual power hold higher rank in the cult, but the priests provide the cult leader with his or her authority over the rest of Ogremoch&apos;s followers.
 
 Source:	Princes of the Apocalypse p. 195</description>
     <environment/>
@@ -529,7 +529,7 @@ The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spe
     </trait>
     <slots>0, 4, 3, 2</slots>
     <spells>chill touch, mage hand, minor illusion, prestidigitation, ray of frost, expeditious retreat, ice knife, magic missile, shield, blur, hold person, sleet storm</spells>
-    <description>Crushing Wave priests are the fanatical core of the cult. Gathering in secretive cabals, they perform dark rituals to glorify Olhydra as the embodiment of water's destructiveness. They believe that using water to kill their enemies, such as through ritual drowning, earns them Olhydra's favor.
+    <description>Crushing Wave priests are the fanatical core of the cult. Gathering in secretive cabals, they perform dark rituals to glorify Olhydra as the embodiment of water&apos;s destructiveness. They believe that using water to kill their enemies, such as through ritual drowning, earns them Olhydra&apos;s favor.
 
 Source:	Princes of the Apocalypse p. 205</description>
     <environment/>
@@ -693,7 +693,7 @@ Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 9 (1d12 + 3) pier
       <text>
 When an attacker the knight can see hits it with an attack, the knight can halve the damage against it.</text>
     </reaction>
-    <description>Dark Tide knights are the elite warriors of the Crushing Wave cult. By drawing upon Olhydra's dark power, they gain the ability to ride sea-creatures that normally wouldn't be suitable as mounts, and can even breathe underwater and share their mount's senses. The knights prefer to fight from or in the water, since they don't like to leave their mounts behind, but they can be fierce opponents on foot at need.
+    <description>Dark Tide knights are the elite warriors of the Crushing Wave cult. By drawing upon Olhydra's dark power, they gain the ability to ride sea-creatures that normally wouldn't be suitable as mounts, and can even breathe underwater and share their mount&apos;s senses. The knights prefer to fight from or in the water, since they don&apos;t like to leave their mounts behind, but they can be fierce opponents on foot at need.
 
 Unlike most other knights, Dark Tide knights disdain heavy armor, relying on the speed and ferocity of their attacks to carry them to victory.
 
@@ -807,7 +807,7 @@ Drannin makes three attacks with his greataxe.</text>
 Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) slashing damage.</text>
       <attack>Greataxe|+7|2d12+4</attack>
     </action>
-    <description>Drannin is a self-serving dwarf who has always felt that, due to his heritage, he was owed better than he received. When he didn't receive the accolades, he began to see everyone in his way as the problem, trying to keep him down, and he vowed to do whatever it took to turn the tables. He is currently intent on claiming the legendary axe Orcsplitter, the weapon buried with King Torhild Flametongue of Besilmer many centuries ago. The secret doors and puzzles of the Halls of the Hunting Axe have frustrated Drannin for a long time, but he now has a plan to dupe his cousin Gargosh into finding the axe for him (see the "Halls of the Hunting Axe" side trek in chapter 6). Drannin believes that with Orcsplitter in his possession he can establish himself as a powerful lord among his clan, and finally win the respect he thinks he deserves.
+    <description>Drannin is a self-serving dwarf who has always felt that, due to his heritage, he was owed better than he received. When he didn&apos;t receive the accolades, he began to see everyone in his way as the problem, trying to keep him down, and he vowed to do whatever it took to turn the tables. He is currently intent on claiming the legendary axe Orcsplitter, the weapon buried with King Torhild Flametongue of Besilmer many centuries ago. The secret doors and puzzles of the Halls of the Hunting Axe have frustrated Drannin for a long time, but he now has a plan to dupe his cousin Gargosh into finding the axe for him (see the "Halls of the Hunting Axe" side trek in chapter 6). Drannin believes that with Orcsplitter in his possession he can establish himself as a powerful lord among his clan, and finally win the respect he thinks he deserves.
 
 Drannin's most prized possession is his shield guardian. He stole the amulet that controls the shield guardian from a sorcerer some years back.
 
@@ -978,7 +978,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashi
 Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage.</text>
       <attack>Heavy Crossbow|+3|1d10+1</attack>
     </action>
-    <description>Eternal Flame guardians are dullards fascinated by the power of fire and eager to show the cult's enemies firsthand what it feels like to burn. They light things aflame to honor elemental fire and just for entertainment, but they don't always think ahead about what else nearby might catch fire.
+    <description>Eternal Flame guardians are dullards fascinated by the power of fire and eager to show the cult&apos;s enemies firsthand what it feels like to burn. They light things aflame to honor elemental fire and just for entertainment, but they don&apos;t always think ahead about what else nearby might catch fire.
 
 Source:	Princes of the Apocalypse p. 200</description>
     <environment/>
@@ -1063,7 +1063,7 @@ The fathomer can use its action to polymorph into a Medium serpent composed of w
 While in serpent form, the fathomer gains a swimming speed of 40 feet, the ability to breathe underwater, immunity to poison damage, as well as resistance to fire damage and bludgeoning, piercing, and slashing damage from nonmagical attacks. It also has immunity to the following conditions: exhaustion, grappled, paralyzed, poisoned, restrained, prone, unconscious. The serpent form can enter a hostile creature's space and stop there. In addition, if water can pass through a space, the serpent can do so without squeezing.</text>
     </trait>
     <trait>
-      <name>Olhydra's Armor (Human Form Only)</name>
+      <name>Olhydra&apos;s Armor (Human Form Only)</name>
       <text>
 The fathomer can cast mage armor at will, without expending material components.</text>
     </trait>
@@ -1150,7 +1150,7 @@ The knight is a 1st-level spellcaster. Its spellcasting ability is Charisma (spe
     </trait>
     <slots>0, 2</slots>
     <spells>gust, light, message, ray of frost, expeditious retreat, feather fall</spells>
-    <description>The Feathergale Knights are ambitious, wealthy folk from cities such as Waterdeep seduced by the air cult's promises of power. From the backs of hippogriffs or giant vultures, they survey the land around Feathergale Spire, guarding the entrance to the air cult's hidden temple.
+    <description>The Feathergale Knights are ambitious, wealthy folk from cities such as Waterdeep seduced by the air cult&apos;s promises of power. From the backs of hippogriffs or giant vultures, they survey the land around Feathergale Spire, guarding the entrance to the air cult&apos;s hidden temple.
 
 The knights are contemptuous of other elemental cultists, whom they view as depraved lunatics. Under lord commander Thurl Merosska, the Feathergale Knights see themselves as elite men and women who can make hard choices for the good of their realms. In reality, they are bound to Yan-C-Bin and are blind to their own corruption and decadence. Despite their refined manners and social sophistication, each has sealed that pact with the murder of a sentient being-deaths the knights have dubbed necessary for the security of the realm.
 
@@ -1245,7 +1245,7 @@ The flamewrath is a 7th-level spellcaster. Its spellcasting ability is Charisma 
     </trait>
     <slots>0, 4, 3, 3, 1</slots>
     <spells>control flames, fire bolt, friends, light, minor illusion, burning hands, color spray, mage armor, scorching ray, suggestion, fireball, hypnotic pattern, fire shield</spells>
-    <description>A flamewrath is a spellcaster that has earned the favor of Imix, the Prince of Elemental Fire, through a series of painful rites. A flamewrath's skin is burned and scarred. Inured to pain, the flamewrath revels in battle, using an array of fire spells to incinerate enemies who would try to douse the power of elemental fire. Melee combatants who draw too close face fires that can dance across the flamewrath's skin and burn attackers.
+    <description>A flamewrath is a spellcaster that has earned the favor of Imix, the Prince of Elemental Fire, through a series of painful rites. A flamewrath&apos;s skin is burned and scarred. Inured to pain, the flamewrath revels in battle, using an array of fire spells to incinerate enemies who would try to douse the power of elemental fire. Melee combatants who draw too close face fires that can dance across the flamewrath&apos;s skin and burn attackers.
 
 Source:	Princes of the Apocalypse p. 201</description>
     <environment/>
@@ -1427,7 +1427,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one Medium or Small creature agains
 Until the grapple ends, the target can't breathe, and Ghald has advantage on attack rolls against it.</text>
       <attack>Garrote|+7|2d4+4</attack>
     </action>
-    <description>Ghald is an 8-foot-tall, four-armed sahuagin who works with a partner, Unferth, for the Kraken Society in Yartar. He's careful not to emerge from his hiding place beneath the docks unless it's dark and rainy, and even then he hides under a bulky cloak. He and Unferth serve as the Kraken Society's top operatives in this part of the North, and specialize in advancing the agenda of the society through theft, intimidation, and assassination.
+    <description>Ghald is an 8-foot-tall, four-armed sahuagin who works with a partner, Unferth, for the Kraken Society in Yartar. He's careful not to emerge from his hiding place beneath the docks unless it&apos;s dark and rainy, and even then he hides under a bulky cloak. He and Unferth serve as the Kraken Society&apos;s top operatives in this part of the North, and specialize in advancing the agenda of the society through theft, intimidation, and assassination.
 
 When the thieves' guild known as the Hand of Yartar comes into possession of a powerful elemental weapon (see the "Dark Dealings in Yartar" side trek in chapter 6), Ghald and Unferth make sure the Kraken Society comes in with the top bid. They then make sure that no one else interferes.
 
@@ -1451,7 +1451,7 @@ Source:	Princes of the Apocalypse p. 210</description>
     <save>Dex +6, Int +4</save>
     <skill>Acrobatics +6, Deception +3, Perception +3, Stealth +9</skill>
     <passive>13</passive>
-    <languages>Thieves' cant plus any two languages</languages>
+    <languages>Thieves&apos; cant plus any two languages</languages>
     <cr>8</cr>
     <resist>poison</resist>
     <immune/>
@@ -1557,7 +1557,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) bludg
       <text>
 Hellenrae adds 3 to her AC against one melee or ranged weapon attack that would hit her. To do so, she must be able to sense the attacker with her blindsight. If the attack misses, Hellenrae can make one melee attack against the attacker if it is within her reach.</text>
     </reaction>
-    <description>The chief lieutenant of Marlos Urnrayle, Hellenrae lost her sight as a child. A bitter, angry orphan, she was taken in by a monastic order and trained to use her other senses to compensate. However, she took the monks' philosophy of self-denial and emptiness of mind to extremes, seeking to fill herself with the dark power she sensed sleeping in the earth and rock around her.
+    <description>The chief lieutenant of Marlos Urnrayle, Hellenrae lost her sight as a child. A bitter, angry orphan, she was taken in by a monastic order and trained to use her other senses to compensate. However, she took the monks&apos; philosophy of self-denial and emptiness of mind to extremes, seeking to fill herself with the dark power she sensed sleeping in the earth and rock around her.
 
 Hellenrae is a dour, unsmiling woman who habitually wears drab robes and a golden gargoyle mask with no eye holes. She despises weakness in any form. Therefore, she hates just about everybody, and barely tolerates the other Black Earth cultists.
 
@@ -1605,7 +1605,7 @@ The initiate can hold its breath for 30 minutes.</text>
 Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.</text>
       <attack>Dagger|+4|1d4+2</attack>
     </action>
-    <description>Howling Hatred initiates are attracted by the cult's philosophy of non-attachment and the rejection of material things, unaware of the cult's true nature. The cult attracts adherents of all kinds, from dreamy-eyed youths with little property to world-weary folk eager to put their faith in something as tangible and powerful as an elemental force.
+    <description>Howling Hatred initiates are attracted by the cult&apos;s philosophy of non-attachment and the rejection of material things, unaware of the cult&apos;s true nature. The cult attracts adherents of all kinds, from dreamy-eyed youths with little property to world-weary folk eager to put their faith in something as tangible and powerful as an elemental force.
 
 Initiates live on little but air for a month, believing that this regimen purifies them of bodily needs. In truth it makes their bodies so desperate for sustenance that they become susceptible to indoctrination. Soon, they can justify heinous acts within the context of the cult: Human sacrifice isn't an act of murder, but a freeing of the soul from the limitations of a physical shell; conjuring a whirlwind to destroy unbelievers isn't an act of terror but a demonstration of true faith.
 
@@ -1740,7 +1740,7 @@ The hurricane is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (sp
     </trait>
     <slots>0, 4, 2</slots>
     <spells>blade ward, gust, light, prestidigitation, feather fall, jump, thunderwave, gust of wind</spells>
-    <description>Hurricanes profess their disgust with decadence, and they dedicate their bodies and their minds to the world's destruction. Through breathing exercises and ascetic philosophy, skilled Howling Hatred initiates learn to imitate the cycling patterns of the hurricane. They believe the physical world must be shattered so that the creatures of the Material Plane can live unshackled by physical things.
+    <description>Hurricanes profess their disgust with decadence, and they dedicate their bodies and their minds to the world&apos;s destruction. Through breathing exercises and ascetic philosophy, skilled Howling Hatred initiates learn to imitate the cycling patterns of the hurricane. They believe the physical world must be shattered so that the creatures of the Material Plane can live unshackled by physical things.
 
 Hurricanes see the frenetic activity of the world in slow motion, and themselves at the calm center of the storm. Through meditation and mysticism they learn to summon powerful blasts of wind, catch missiles with ease, and fall like feathers.
 
@@ -1830,7 +1830,7 @@ Imix summons up to three fire elemental and loses 30 hit points for each element
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Imix can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Imix regains spent legendary actions at the start of its turn.</text>
+      <text>Imix can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Imix regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Heat Wave</name>
@@ -2122,8 +2122,8 @@ Miraj is an 11th-level spellcaster. His spellcasting ability is Charisma (spell 
 	• 6th level (1 slots): move earth</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 2, 1</slots>
-    <spells>pass without trace, acid splash, blade ward, friends, light, message, mold earth, chromatic orb, mage armor, magic missile, Maximilian's earthen grasp, shatter, suggestion, counterspell, erupting earth, polymorph, stoneskin, wall of stone, move earth</spells>
-    <description>Miraj is an earth genasi from Calimshan. He is a perfectionist who oversees the Black Earth cult's tunneling operations and specializes in magic and alchemical processes that shape stone. He also has an affinity for the element of water and styles himself a 'mud sorcerer.'
+    <spells>pass without trace, acid splash, blade ward, friends, light, message, mold earth, chromatic orb, mage armor, magic missile, Maximilian&apos;s earthen grasp, shatter, suggestion, counterspell, erupting earth, polymorph, stoneskin, wall of stone, move earth</spells>
+    <description>Miraj is an earth genasi from Calimshan. He is a perfectionist who oversees the Black Earth cult's tunneling operations and specializes in magic and alchemical processes that shape stone. He also has an affinity for the element of water and styles himself a &apos;mud sorcerer.&apos;
 Though he is the most accomplished spellcaster in the Cult of the Black Earth, he has no interest in challenging Marlos Urnrayle for leadership. He knows that he is no match for the medusa and is happy to pursue his experiments while Marlos leads.
 
 Source:	Princes of the Apocalypse p. 198</description>
@@ -2281,7 +2281,7 @@ Nurvureem exhales necrotic in a 60-foot line that is 5 feet wide. Each creature 
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.</text>
+      <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The dragon regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Detect</name>
@@ -2398,7 +2398,7 @@ Ogrémoch summons up to three earth elemental and loses 30 hit points for each e
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Ogrémoch can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Ogrémoch regains spent legendary actions at the start of its turn.</text>
+      <text>Ogrémoch can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Ogrémoch regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Illuminating Crystals</name>
@@ -2533,7 +2533,7 @@ Olhydra summons up to three water elemental and loses 30 hit points for each ele
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Olhydra can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Olhydra regains spent legendary actions at the start of its turn.</text>
+      <text>Olhydra can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Olhydra regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Crush</name>
@@ -2707,7 +2707,7 @@ Oreioth is a 6th-level spellcaster. His spellcasting ability is Intelligence (sp
     </trait>
     <slots>0, 4, 3, 3</slots>
     <spells>chill touch, minor illusion, prestidigitation, shocking grasp, false life, mage armor, magic missile, ray of sickness, crown of madness, misty step, animate dead, vampiric touch</spells>
-    <description>A lean, black-bearded young noble from Baldur's Gate, Oreioth is more at home among the dead than the living. He was cruel almost from the time he could talk, catching small creatures and killing them in hideously inventive ways to savor the power of life and death. He grew to be an embarrassment to his well-off family, who paid a tutor to channel his undeniable intelligence and curiosity into more positive outlets. They didn't know they had apprenticed the young Oreioth to a necromancer in need of an assistant for his researches.
+    <description>A lean, black-bearded young noble from Baldur&apos;s Gate, Oreioth is more at home among the dead than the living. He was cruel almost from the time he could talk, catching small creatures and killing them in hideously inventive ways to savor the power of life and death. He grew to be an embarrassment to his well-off family, who paid a tutor to channel his undeniable intelligence and curiosity into more positive outlets. They didn&apos;t know they had apprenticed the young Oreioth to a necromancer in need of an assistant for his researches.
 
 When Oreioth's master decided he had no more use for his apprentice, he sent Oreioth off to make his own way in the world. Oreioth worked his way northward, robbing graves and using his magic to intimidate or rob anyone weaker than him. Driven out of one decent town after another, he finally sought refuge in an old outlaw's lair he discovered near Lance Rock. There he commenced his newest round of experiments, avoiding all other living souls.
 
@@ -2799,7 +2799,7 @@ The razerblast makes three melee attacks.</text>
 Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.</text>
       <attack>Spear|+6|1d6+3</attack>
     </action>
-    <description>A razerblast seethes with hate for the enemies of the fire cult. The razerblast's elemental overlords have replaced its heart with a flaming orb that detonates if the razerblast dies.
+    <description>A razerblast seethes with hate for the enemies of the fire cult. The razerblast&apos;s elemental overlords have replaced its heart with a flaming orb that detonates if the razerblast dies.
 
 Razerblasts remember little of their life before they the power of elemental fire transformed them. Now they follow the orders of the flamewraths and the cult leaders without question. Razerblasts fight confidently because they know that even if they lose, they go out in a blaze of glory.
 
@@ -2857,7 +2857,7 @@ The target must succeed on a DC 18 Constitution saving throw or be paralyzed for
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The undead can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The undead regains spent legendary actions at the start of its turn.</text>
+      <text>The undead can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The undead regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Cantrip</name>
@@ -2909,7 +2909,7 @@ Renwick is an 18th-level spellcaster. Its spellcasting ability is Intelligence (
 	• 9th level (1 slots): power word kill</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
-    <spells>mage hand, prestidigitation, ray of frost, detect magic, magic missile, shield, thunderwave, detect thoughts, invisibility, Melf's acid arrow, mirror image, animate dead, counterspell, dispel magic, fireball, blight, dimension door, cloudkill, scrying, disintegrate, globe of invulnerability, finger of death, plane shift, dominate monster, power word stun, power word kill</spells>
+    <spells>mage hand, prestidigitation, ray of frost, detect magic, magic missile, shield, thunderwave, detect thoughts, invisibility, Melf&apos;s acid arrow, mirror image, animate dead, counterspell, dispel magic, fireball, blight, dimension door, cloudkill, scrying, disintegrate, globe of invulnerability, finger of death, plane shift, dominate monster, power word stun, power word kill</spells>
     <description>Source:	Princes of the Apocalypse p. 66</description>
     <environment/>
   </monster>
@@ -3056,7 +3056,7 @@ Shoalar is a 5th-level spellcaster. His spellcasting ability is Charisma (spell 
     </trait>
     <slots>0, 4, 3, 2</slots>
     <spells>shape water, create or destroy water, acid splash, chill touch, friends, prestidigitation, ray of frost, disguise self, mage armor, magic missile, hold person, misty step, tidal wave</spells>
-    <description>A plump water genasi armed with a jovial manner and biting sense of humor, Shoalar Quanderil seems like the last person one would expect to be a cruel member of a destructive cult. Nevertheless, Shoalar is the captain of a pirate ship that harries the Sword Coast, and a high-ranking Crushing Wave cultist. He sees Olhydra's power as a means to making himself as rich as possible.
+    <description>A plump water genasi armed with a jovial manner and biting sense of humor, Shoalar Quanderil seems like the last person one would expect to be a cruel member of a destructive cult. Nevertheless, Shoalar is the captain of a pirate ship that harries the Sword Coast, and a high-ranking Crushing Wave cultist. He sees Olhydra&apos;s power as a means to making himself as rich as possible.
 
 Source:	Princes of the Apocalypse p. 208</description>
     <environment/>
@@ -3125,10 +3125,10 @@ Source:	Princes of the Apocalypse p. 191</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>10</cr>
     <resist/>
-    <immune>poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</immune>
+    <immune>poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t adamantine</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
@@ -3211,7 +3211,7 @@ The Stonemelder is a 7th-level spellcaster. Its spellcasting ability is Charisma
 	• 4th level (1 slots): stoneskin</text>
     </trait>
     <slots>0, 4, 3, 3, 1</slots>
-    <spells>acid splash, blade ward, light, mending, mold earth, expeditious retreat, false life, shield, Maximilian's earthen grasp, shatter, erupting earth, meld into stone, stoneskin</spells>
+    <spells>acid splash, blade ward, light, mending, mold earth, expeditious retreat, false life, shield, Maximilian&apos;s earthen grasp, shatter, erupting earth, meld into stone, stoneskin</spells>
     <description>Stonemelders are spellcasters who gain their power from Ogremoch, using elemental earth magic to sheathe their bodies in carapaces of rock. They are elite champions of the cult and answer only to the cult leaders. Not even the Black Earth priests tell stonemelders what to do.
 
 Each stonemelder carries a weapon known as a Black Earth rod. Such a rod is like an ordinary mace, but in the hands of a stonemelder, it serves as a conduit for Ogremoch's wrath.
@@ -3414,7 +3414,7 @@ Vanifer is a 10th-level spellcaster. Her spellcasting ability is Charisma (spell
     </trait>
     <slots>0, 4, 3, 3, 3, 2</slots>
     <spells>chill touch, fire bolt, friends, mage hand, message, produce flame, thaumaturgy, burning hands, chromatic orb, hellish rebuke, shield, darkness, detect thoughts, misty step, scorching ray, counterspell, fireball, hypnotic pattern, wall of fire, dominate person</spells>
-    <description>Vanifer's rough childhood has hardened her heart against others. The world is a corrupt, painful place, she thinks, and deserving of a fiery end. For years, she was a dancer and concubine in a pasha's court in Calimshan. Later, she took up the mantle of prophet when she found Tinderstrike, and the same ruthless ambition and practiced manipulation that enabled her to escape a life of servitude serves her well as the head of a growing cult.
+    <description>Vanifer&apos;s rough childhood has hardened her heart against others. The world is a corrupt, painful place, she thinks, and deserving of a fiery end. For years, she was a dancer and concubine in a pasha&apos;s court in Calimshan. Later, she took up the mantle of prophet when she found Tinderstrike, and the same ruthless ambition and practiced manipulation that enabled her to escape a life of servitude serves her well as the head of a growing cult.
 
 For Vanifer, battle is best observed at a distance. She prefers to hurl destructive magic from afar. Those who challenge Vanifer in melee learn a painful lesson, as she and Tinderstrike make a formidable pair.
 
@@ -3475,7 +3475,7 @@ Wiggan is a 4th-level spellcaster. His spellcasting ability is Wisdom (spell sav
     </trait>
     <slots>0, 4, 3</slots>
     <spells>guidance, light, mending, shillelagh, thaumaturgy, animal friendship, cure wounds, healing word, inflict wounds, speak with animals, barkskin, spike growth, spiritual weapon</spells>
-    <description>Wiggan Nettlebee is the patriarch of the Nettlebee clan, a wealthy family of halflings that raise livestock and farm their land. He presents the outward appearance of a modest rancher, and he forbids extravagance on his farm. Thinking he had found a cult dedicated to the dominating nature and utilizing its darker aspects, Wiggan joined the Cult of the Black Earth. He still doesn't know the full extent of the cult's plans.
+    <description>Wiggan Nettlebee is the patriarch of the Nettlebee clan, a wealthy family of halflings that raise livestock and farm their land. He presents the outward appearance of a modest rancher, and he forbids extravagance on his farm. Thinking he had found a cult dedicated to the dominating nature and utilizing its darker aspects, Wiggan joined the Cult of the Black Earth. He still doesn&apos;t know the full extent of the cult&apos;s plans.
 
 Wiggan dislikes and distrusts outsiders. He believes they are all evildoers who would steal from him if they could. He sees the earth cult as a powerful and necessary ally toward securing his finances and sustaining his position. A greedy miser, Wiggan becomes visibly upset at the thought of parting with even a few spare coins from his hoard.
 
@@ -3621,7 +3621,7 @@ Yan-C-Bin summons up to three air elemental and loses 30 hit points for each ele
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Yan-C-Bin can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Yan-C-Bin regains spent legendary actions at the start of its turn.</text>
+      <text>Yan-C-Bin can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Yan-C-Bin regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Peal of Thunder</name>
@@ -3675,7 +3675,7 @@ Yan-C-Bin's innate spellcasting ability is Charisma (spell save DC 20, +12 to hi
 	• 2/Day each: chain lightning, cloudkill, haste</text>
     </trait>
     <spells>gust of wind, invisibility, lightning bolt, chain lightning, cloudkill, haste</spells>
-    <description>Yan-C-Bin (pronounced yan-see-bin) is the Prince of Evil Air. A being of great wisdom and malice, Yan-C-Bin's plots began at the forging of the worlds. Subtler than the other elemental princes, Yan-C-Bin operates unseen, studying his enemies from afar, ambushing them swiftly, and vanishing before his foes can retaliate.
+    <description>Yan-C-Bin (pronounced yan-see-bin) is the Prince of Evil Air. A being of great wisdom and malice, Yan-C-Bin&apos;s plots began at the forging of the worlds. Subtler than the other elemental princes, Yan-C-Bin operates unseen, studying his enemies from afar, ambushing them swiftly, and vanishing before his foes can retaliate.
 
 His natural form is an invisible vortex of howling, swirling air 30 feet high and 15 feet wide, but Yan-C-Bin sometimes takes the shape of a gaunt, venerable, dark-skinned human with wispy white hair and glowing white eyes. When he wishes to remain unseen, Yan-C-Bin manifests only as a gust of cold wind flowing silently past.
 

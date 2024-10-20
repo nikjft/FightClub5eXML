@@ -33,7 +33,7 @@ Weight in pounds = 55 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Hefty Claws</name>
@@ -134,7 +134,7 @@ Source:	Homebrew: Unfired Arcana</text>
     </trait>
     <trait>
       <name>Bite</name>
-      <text>Your fanged maw is a natural melee weapon, which you can use to make unarmed strikes. On a hit, it deals additional damage equal to your proficiency bonus, and the attack's damage type changes to acid or piercing (your choice).</text>
+      <text>Your fanged maw is a natural melee weapon, which you can use to make unarmed strikes. On a hit, it deals additional damage equal to your proficiency bonus, and the attack&apos;s damage type changes to acid or piercing (your choice).</text>
     </trait>
     <trait>
       <name>Darkvision</name>

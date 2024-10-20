@@ -7,7 +7,7 @@
     <numSkills>2</numSkills>
     <armor>light armor, medium armor</armor>
     <weapons>simple weapons</weapons>
-    <tools>Thieves' tools, tinker's tools, one type of artisan's tools of your choice</tools>
+    <tools>Thieves' tools, tinker&apos;s tools, one type of artisan&apos;s tools of your choice</tools>
     <spellAbility>Intelligence</spellAbility>
 
     <autolevel level="3"><slots>0, 2</slots></autolevel>
@@ -85,8 +85,8 @@ Source:	Unearthed Arcana: Artificer p. 5</text>
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Alchemist: Alchemist's Satchel</name>
-        <text>At 1st level, you craft an Alchemist's Satchel, a bag of reagents that you use to create a variety of concoctions. The bag and its contents are both magical, and this magic allows you to pull out exactly the right materials you need for your Alchemical Formula options, described below. After you use one of those options, the bag reclaims the materials.
+        <name>Alchemist: Alchemist&apos;s Satchel</name>
+        <text>At 1st level, you craft an Alchemist&apos;s Satchel, a bag of reagents that you use to create a variety of concoctions. The bag and its contents are both magical, and this magic allows you to pull out exactly the right materials you need for your Alchemical Formula options, described below. After you use one of those options, the bag reclaims the materials.
 
 If you lose this satchel, you can create a new one over the course of three days of work (eight hours each day) by expending 100 gp worth of leather, glass, and other raw materials.
 
@@ -119,7 +119,7 @@ Source:	Unearthed Arcana: Artificer p. 6</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Gunsmith: Master Smith</name>
-        <text>When you choose this specialization at 1st level, you gain proficiency with smith's tools, and you learn the mending cantrip.
+        <text>When you choose this specialization at 1st level, you gain proficiency with smith&apos;s tools, and you learn the mending cantrip.
 
 Source:	Unearthed Arcana: Artificer p. 6</text>
       </feature>
@@ -141,7 +141,7 @@ Source:	Unearthed Arcana: Artificer p. 6</text>
     <autolevel level="1">
       <feature>
         <name>Magic Item Analysis</name>
-        <text>Starting at 1st level, your understanding of magic items allows you to analyze and understand their secrets. You know the Artificer spells detect magic and identify, and you can cast them as rituals. You don't need to provide a material component when casting identify with this class feature.
+        <text>Starting at 1st level, your understanding of magic items allows you to analyze and understand their secrets. You know the Artificer spells detect magic and identify, and you can cast them as rituals. You don&apos;t need to provide a material component when casting identify with this class feature.
 
 Source:	Unearthed Arcana: Artificer p. 1</text>
       </feature>
@@ -159,7 +159,7 @@ Source:	Unearthed Arcana: Artificer p. 1</text>
     <autolevel level="2">
       <feature>
         <name>Wondrous Invention</name>
-        <text>At 2nd level, you gain the use of a magic item that you have crafted. Choose the item from the list of 2nd-level items below. Crafting an item is a difficult task. When you gain a magic item from this feature, it reflects long hours of study, tinkering, and experimentation that allowed you to finally complete the item. You are assumed to work on this item in your leisure time and to finish it when you level up. You complete another item of your choice when you reach certain levels in this class: 5th, 10th, 15th, and 20th level. The item you choose must be on the list for your current Artificer level or a lower level. These magic items are detailed in the Dungeon Master's Guide.
+        <text>At 2nd level, you gain the use of a magic item that you have crafted. Choose the item from the list of 2nd-level items below. Crafting an item is a difficult task. When you gain a magic item from this feature, it reflects long hours of study, tinkering, and experimentation that allowed you to finally complete the item. You are assumed to work on this item in your leisure time and to finish it when you level up. You complete another item of your choice when you reach certain levels in this class: 5th, 10th, 15th, and 20th level. The item you choose must be on the list for your current Artificer level or a lower level. These magic items are detailed in the Dungeon Master&apos;s Guide.
 
 2nd Level:
 Bag of holding, cap of water breathing, driftglobe, goggles of night, sending stones
@@ -201,7 +201,7 @@ Source:	Unearthed Arcana: Artificer p. 5</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Alchemist: Alchemist Spells</name>
-        <text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as Artificer spells for you, but they don't count against the number of Artificer spells you prepare.
+        <text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as Artificer spells for you, but they don&apos;t count against the number of Artificer spells you prepare.
 
 Alchemist Spells:
 Artificer Level | Spell
@@ -218,7 +218,7 @@ Source:	Unearthed Arcana: Artificer p. 5</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Alchemist: Experimental Elixir</name>
-        <text>Beginning at 3rd level, whenever you finish a long rest, you can magically produce an experimental elixir in an empty flask you touch. Roll on the Experimental Elixir table for the elixir's effect, which is triggered when someone drinks the elixir. As an action, a creature can drink the elixir or administer it to an incapacitated creature.
+        <text>Beginning at 3rd level, whenever you finish a long rest, you can magically produce an experimental elixir in an empty flask you touch. Roll on the Experimental Elixir table for the elixir&apos;s effect, which is triggered when someone drinks the elixir. As an action, a creature can drink the elixir or administer it to an incapacitated creature.
 
 Creating an experimental elixir requires you to have alchemist's supplies on your person, and any elixir you create with this feature lasts until it is drunk or until the end of your next long rest.
 
@@ -242,7 +242,7 @@ Source:	Unearthed Arcana: Artificer p. 5</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Alchemist: Tool Proficiency</name>
-        <text>When you adopt this specialization at 3rd level, you gain proficiency with alchemist's supplies. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.
+        <text>When you adopt this specialization at 3rd level, you gain proficiency with alchemist&apos;s supplies. If you already have this proficiency, you gain proficiency with one other type of artisan&apos;s tools of your choice.
 
 Source:	Unearthed Arcana: Artificer p. 5</text>
       </feature>
@@ -286,7 +286,7 @@ Source:	Unearthed Arcana: Artificer p. 5</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Alchemist: Alchemist Spells</name>
-        <text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as Artificer spells for you, but they don't count against the number of Artificer spells you prepare.
+        <text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as Artificer spells for you, but they don&apos;t count against the number of Artificer spells you prepare.
 
 Alchemist Spells:
 Artificer Level | Spell
@@ -303,7 +303,7 @@ Source:	Unearthed Arcana: Artificer p. 5</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Alchemist: Tools of the Trade</name>
-        <text>By the time you adopt this specialty at 3rd level, you're deeply familiar with employing its tools.
+        <text>By the time you adopt this specialty at 3rd level, you&apos;re deeply familiar with employing its tools.
 
 Proficiencies:
 You gain proficiency with alchemist's supplies and the herbalism kit, assuming you don't already have them. You also gain alchemist's supplies and an herbalism kit for free—the result of tinkering you've done as you've prepared for this specialization.
@@ -352,7 +352,7 @@ Source:	Unearthed Arcana: Artificer p. 1</text>
     <autolevel level="4">
       <feature>
         <name>Infuse Magic</name>
-        <text>Starting at 4th level, you gain the ability to channel your Artificer spells into objects for later use. When you cast an Artificer spell with a casting time of 1 action, you can increase its casting time to 1 minute. If you do so and hold a nonmagical item throughout the casting, you expend a spell slot, but none of the spell's effects occur. Instead, the spell transfers into that item for later use if the item doesn't already contain a spell from this feature.
+        <text>Starting at 4th level, you gain the ability to channel your Artificer spells into objects for later use. When you cast an Artificer spell with a casting time of 1 action, you can increase its casting time to 1 minute. If you do so and hold a nonmagical item throughout the casting, you expend a spell slot, but none of the spell&apos;s effects occur. Instead, the spell transfers into that item for later use if the item doesn&apos;t already contain a spell from this feature.
 
 Any creature holding the item thereafter can use an action to activate the spell if the creature has an Intelligence score of at least 6. The spell is cast using your spellcasting ability, targeting the creature that activates the item. If the spell targets more than one creature, the creature that activates the item selects the additional targets. If the spell has an area of effect, it is centered on the item. If the spell's range is self, it targets the creature that activates the item.
 
@@ -365,7 +365,7 @@ Source:	Unearthed Arcana: Artificer p. 1</text>
     <autolevel level="4" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th, 8th, 12th, 16th, and 18th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 4th, 8th, 12th, 16th, and 18th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 Source:	Unearthed Arcana: Artificer p. 1</text>
       </feature>

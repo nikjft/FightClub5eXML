@@ -21,7 +21,7 @@ Your DM might also allow you to take this subrace for a slain character. In that
     </trait>
     <trait>
       <name>Racial Adjustments</name>
-      <text>For races that don't have subrace options, taking on the Revenant subrace means making changes to your character's base traits, as follows. (This playtest article provides options only for human and dragonborn characters. Any other races which do not have subrace options should not be used with these Revenant subrace rules.)
+      <text>For races that don&apos;t have subrace options, taking on the Revenant subrace means making changes to your character&apos;s base traits, as follows. (This playtest article provides options only for human and dragonborn characters. Any other races which do not have subrace options should not be used with these Revenant subrace rules.)
 
 Human Revenant:
 If you want to play a human revenant, modify the human's Ability Score Increase trait to the following: Two different ability scores of your choice increase by 1. If you use the variant human traits, remove the Skills trait and the Feat trait.
@@ -31,7 +31,7 @@ If you want to play a dragonborn revenant, modify the dragonborn's Ability Score
     </trait>
     <trait>
       <name>Relentless Nature</name>
-      <text>Your DM assigns a goal to you—typically, one related to your character's death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
+      <text>Your DM assigns a goal to you—typically, one related to your character&apos;s death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
 
 	• If you are below half your hit point maximum at the start of your turn, you regain 1 hit point.
 
@@ -94,7 +94,7 @@ After you use your breath weapon, you can't use it again until you complete a sh
     </trait>
     <trait>
       <name>Relentless Nature</name>
-      <text>Your DM assigns a goal to you—typically, one related to your character's death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
+      <text>Your DM assigns a goal to you—typically, one related to your character&apos;s death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
 
 	• If you are below half your hit point maximum at the start of your turn, you regain 1 hit point.
 
@@ -129,7 +129,7 @@ Source:	Player's Handbook p. 20,
     </trait>
     <trait>
       <name>Life Span</name>
-      <text>Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.</text>
+      <text>Dwarves mature at the same rate as humans, but they&apos;re considered young until they reach the age of 50. On average, they live about 350 years.</text>
     </trait>
     <trait>
       <name>Alignment</name>
@@ -155,7 +155,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Tool Proficiency</name>
-      <text>You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools</text>
+      <text>You gain proficiency with the artisan's tools of your choice: smith's tools, brewer&apos;s supplies, or mason&apos;s tools</text>
     </trait>
     <trait>
       <name>Stonecunning</name>
@@ -163,7 +163,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Superior Darkvision</name>
-      <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray</text>
+      <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray</text>
     </trait>
     <trait>
       <name>Duergar Resilience</name>
@@ -171,7 +171,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Duergar Magic</name>
-      <text>When you reach 3rd level, you can cast the Enlarge/Reduce spell on yourself once with this trait, using only the spell's enlarge option. When you reach 5th level, you can cast the Invisibility spell on yourself once with this trait. You don't need material components for either spell, and you can't cast them while you're in direct sunlight, although sunlight has no effect on them once cast. You regain the ability to cast these spells with this trait when you finish a long rest. Intelligence is your spellcasting ability for these spells.</text>
+      <text>When you reach 3rd level, you can cast the Enlarge/Reduce spell on yourself once with this trait, using only the spell's enlarge option. When you reach 5th level, you can cast the Invisibility spell on yourself once with this trait. You don't need material components for either spell, and you can&apos;t cast them while you&apos;re in direct sunlight, although sunlight has no effect on them once cast. You regain the ability to cast these spells with this trait when you finish a long rest. Intelligence is your spellcasting ability for these spells.</text>
     </trait>
     <trait>
       <name>Sunlight Sensitivity</name>
@@ -179,7 +179,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Relentless Nature</name>
-      <text>Your DM assigns a goal to you—typically, one related to your character's death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
+      <text>Your DM assigns a goal to you—typically, one related to your character&apos;s death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
 
 	• If you are below half your hit point maximum at the start of your turn, you regain 1 hit point.
 
@@ -212,7 +212,7 @@ Source:	Player's Handbook p. 20,
     </trait>
     <trait>
       <name>Life Span</name>
-      <text>Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.</text>
+      <text>Dwarves mature at the same rate as humans, but they&apos;re considered young until they reach the age of 50. On average, they live about 350 years.</text>
     </trait>
     <trait>
       <name>Alignment</name>
@@ -234,7 +234,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Accustomed to life underground in your race's ancient past, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Accustomed to life underground in your race&apos;s ancient past, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Dwarven Resilience</name>
@@ -246,7 +246,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Tool Proficiency</name>
-      <text>You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools</text>
+      <text>You gain proficiency with the artisan's tools of your choice: smith's tools, brewer&apos;s supplies, or mason&apos;s tools</text>
     </trait>
     <trait>
       <name>Stonecunning</name>
@@ -259,7 +259,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Relentless Nature</name>
-      <text>Your DM assigns a goal to you—typically, one related to your character's death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
+      <text>Your DM assigns a goal to you—typically, one related to your character&apos;s death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
 
 	• If you are below half your hit point maximum at the start of your turn, you regain 1 hit point.
 
@@ -292,7 +292,7 @@ Source:	Player's Handbook p. 20,
     </trait>
     <trait>
       <name>Life Span</name>
-      <text>Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.</text>
+      <text>Dwarves mature at the same rate as humans, but they&apos;re considered young until they reach the age of 50. On average, they live about 350 years.</text>
     </trait>
     <trait>
       <name>Alignment</name>
@@ -314,7 +314,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Accustomed to life underground in your race's ancient past, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Accustomed to life underground in your race&apos;s ancient past, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Dwarven Resilience</name>
@@ -326,7 +326,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Tool Proficiency</name>
-      <text>You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools</text>
+      <text>You gain proficiency with the artisan's tools of your choice: smith's tools, brewer&apos;s supplies, or mason&apos;s tools</text>
     </trait>
     <trait>
       <name>Stonecunning</name>
@@ -338,7 +338,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Relentless Nature</name>
-      <text>Your DM assigns a goal to you—typically, one related to your character's death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
+      <text>Your DM assigns a goal to you—typically, one related to your character&apos;s death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
 
 	• If you are below half your hit point maximum at the start of your turn, you regain 1 hit point.
 
@@ -371,7 +371,7 @@ Source:	Player's Handbook p. 20,
     </trait>
     <trait>
       <name>Life Span</name>
-      <text>Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.</text>
+      <text>Dwarves mature at the same rate as humans, but they&apos;re considered young until they reach the age of 50. On average, they live about 350 years.</text>
     </trait>
     <trait>
       <name>Alignment</name>
@@ -397,7 +397,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Tool Proficiency</name>
-      <text>You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools</text>
+      <text>You gain proficiency with the artisan's tools of your choice: smith's tools, brewer&apos;s supplies, or mason&apos;s tools</text>
     </trait>
     <trait>
       <name>Stonecunning</name>
@@ -405,7 +405,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Relentless Nature</name>
-      <text>Your DM assigns a goal to you—typically, one related to your character's death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
+      <text>Your DM assigns a goal to you—typically, one related to your character&apos;s death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
 
 	• If you are below half your hit point maximum at the start of your turn, you regain 1 hit point.
 
@@ -441,7 +441,7 @@ Source:	Player's Handbook p. 23</text>
     </trait>
     <trait>
       <name>Alignment</name>
-      <text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.</text>
+      <text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others&apos; freedom as well as their own, and they are more often good than not.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -455,7 +455,7 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Keen Senses</name>
@@ -463,15 +463,15 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Fey Ancestry</name>
-      <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
+      <text>You have advantage on saving throws against being charmed, and magic can&apos;t put you to sleep.</text>
     </trait>
     <trait>
       <name>Trance</name>
-      <text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</text>
+      <text>Elves don&apos;t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</text>
     </trait>
     <trait>
       <name>Relentless Nature</name>
-      <text>Your DM assigns a goal to you—typically, one related to your character's death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
+      <text>Your DM assigns a goal to you—typically, one related to your character&apos;s death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
 
 	• If you are below half your hit point maximum at the start of your turn, you regain 1 hit point.
 
@@ -528,7 +528,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Unending Breath</name>
-      <text>You can hold your breath indefinitely while you're not incapacitated.</text>
+      <text>You can hold your breath indefinitely while you&apos;re not incapacitated.</text>
     </trait>
     <trait>
       <name>Mingle with the Wind</name>
@@ -536,7 +536,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Relentless Nature</name>
-      <text>Your DM assigns a goal to you—typically, one related to your character's death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
+      <text>Your DM assigns a goal to you—typically, one related to your character&apos;s death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
 
 	• If you are below half your hit point maximum at the start of your turn, you regain 1 hit point.
 
@@ -601,7 +601,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Relentless Nature</name>
-      <text>Your DM assigns a goal to you—typically, one related to your character's death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
+      <text>Your DM assigns a goal to you—typically, one related to your character&apos;s death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
 
 	• If you are below half your hit point maximum at the start of your turn, you regain 1 hit point.
 
@@ -670,7 +670,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Relentless Nature</name>
-      <text>Your DM assigns a goal to you—typically, one related to your character's death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
+      <text>Your DM assigns a goal to you—typically, one related to your character&apos;s death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
 
 	• If you are below half your hit point maximum at the start of your turn, you regain 1 hit point.
 	• If you die, you return to life 24 hours after death. If your body is destroyed, you reform within 1 mile of the place of your death at a spot determined by the DM. If your equipment was also destroyed, you do not regain it.
@@ -741,7 +741,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Relentless Nature</name>
-      <text>Your DM assigns a goal to you—typically, one related to your character's death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
+      <text>Your DM assigns a goal to you—typically, one related to your character&apos;s death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
 
 	• If you are below half your hit point maximum at the start of your turn, you regain 1 hit point.
 
@@ -792,7 +792,7 @@ Weight in pounds = 35 + your size modifier</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Gnome Cunning</name>
@@ -800,7 +800,7 @@ Weight in pounds = 35 + your size modifier</text>
     </trait>
     <trait>
       <name>Relentless Nature</name>
-      <text>Your DM assigns a goal to you—typically, one related to your character's death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
+      <text>Your DM assigns a goal to you—typically, one related to your character&apos;s death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
 
 	• If you are below half your hit point maximum at the start of your turn, you regain 1 hit point.
 
@@ -824,7 +824,7 @@ When your goal is complete, you finally find rest. You die and cannot be restore
     <spellAbility/>
     <trait>
       <name>Description</name>
-      <text>The comforts of home are the goals of most halflings' lives: a place to settle in peace and quiet, far from marauding monsters and clashing armies. Others form nomadic bands that travel constantly, lured by the open road and the wide horizon to discover the wonders of new lands and peoples. Halflings work readily with others, and they are loyal to their friends, whether halfling or otherwise. They can display remarkable ferocity when their friends, families, or communities are threatened.
+      <text>The comforts of home are the goals of most halflings&apos; lives: a place to settle in peace and quiet, far from marauding monsters and clashing armies. Others form nomadic bands that travel constantly, lured by the open road and the wide horizon to discover the wonders of new lands and peoples. Halflings work readily with others, and they are loyal to their friends, whether halfling or otherwise. They can display remarkable ferocity when their friends, families, or communities are threatened.
 
 Having met a cruel and undeserved end, you have returned to the realm of the living. As a Revenant, you thirst for revenge against those who wronged you in life, or seek to complete a final, critical task you left unfinished.
 
@@ -863,7 +863,7 @@ Weight in pounds = 35 + your size modifie</text>
     </trait>
     <trait>
       <name>Relentless Nature</name>
-      <text>Your DM assigns a goal to you—typically, one related to your character's death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
+      <text>Your DM assigns a goal to you—typically, one related to your character&apos;s death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
 
 	• If you are below half your hit point maximum at the start of your turn, you regain 1 hit point.
 
@@ -875,7 +875,7 @@ When your goal is complete, you finally find rest. You die and cannot be restore
     </trait>
     <trait>
       <name>Languages</name>
-      <text>You can speak, read, and write Common and Halfling. The Halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.</text>
+      <text>You can speak, read, and write Common and Halfling. The Halfling language isn&apos;t secret, but halflings are loath to share it with others. They write very little, so they don&apos;t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.</text>
     </trait>
   </race>
   <race>
@@ -887,7 +887,7 @@ When your goal is complete, you finally find rest. You die and cannot be restore
     <spellAbility/>
     <trait>
       <name>Description</name>
-      <text>In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that's why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
+      <text>In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that&apos;s why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
 
 Having met a cruel and undeserved end, you have returned to the realm of the living. As a Revenant, you thirst for revenge against those who wronged you in life, or seek to complete a final, critical task you left unfinished.
 
@@ -913,7 +913,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Relentless Nature</name>
-      <text>Your DM assigns a goal to you—typically, one related to your character's death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
+      <text>Your DM assigns a goal to you—typically, one related to your character&apos;s death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
 
 	• If you are below half your hit point maximum at the start of your turn, you regain 1 hit point.
 
@@ -937,7 +937,7 @@ When your goal is complete, you finally find rest. You die and cannot be restore
     <spellAbility>Charisma</spellAbility>
     <trait>
       <name>Description</name>
-      <text>To be greeted with stares and whispers, to suffer violence and insult on the street, to see mistrust and fear in every eye: this is the lot of the tiefling. And to twist the knife, tieflings know that this is because a pact struck generations ago infused the essence of Asmodeus, overlord of the Nine Hells (and many of the other powerful devils serving under him) into their bloodline. Their appearance and their nature are not their fault but the result of an ancient sin, for which they and their children and their children's children will always be held accountable.
+      <text>To be greeted with stares and whispers, to suffer violence and insult on the street, to see mistrust and fear in every eye: this is the lot of the tiefling. And to twist the knife, tieflings know that this is because a pact struck generations ago infused the essence of Asmodeus, overlord of the Nine Hells (and many of the other powerful devils serving under him) into their bloodline. Their appearance and their nature are not their fault but the result of an ancient sin, for which they and their children and their children&apos;s children will always be held accountable.
 
 The tieflings connected to Nessus command the power of fire and darkness, guided by a keener than normal intellect, as befits those linked to Asmodeus himself.
 
@@ -965,7 +965,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Hellish Resistance</name>
@@ -977,7 +977,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Relentless Nature</name>
-      <text>Your DM assigns a goal to you—typically, one related to your character's death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
+      <text>Your DM assigns a goal to you—typically, one related to your character&apos;s death. The goal must be a specific task you can complete, such as slaying an enemy or liberating an area and its people. Until you fulfill that goal, you gain the following benefits:
 
 	• If you are below half your hit point maximum at the start of your turn, you regain 1 hit point.
 

@@ -17,7 +17,7 @@ Source:	Xanathar's Guide to Everything p. 9</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Path of the Ancestral Guardian: Ancestral Protectors [2014]</name>
-        <text>Starting when you choose this path at 3rd level, spectral warriors appear when you enter your rage. While you're raging, the first creature you hit with an attack on your turn becomes the target of the warriors, which hinder its attacks. Until the start of your next turn, that target has disadvantage on any attack roll that isn't against you, and when the target hits a creature other than you with an attack, that creature has resistance to the damage dealt by the attack. The effect on the target ends early if your rage ends.
+        <text>Starting when you choose this path at 3rd level, spectral warriors appear when you enter your rage. While you&apos;re raging, the first creature you hit with an attack on your turn becomes the target of the warriors, which hinder its attacks. Until the start of your next turn, that target has disadvantage on any attack roll that isn&apos;t against you, and when the target hits a creature other than you with an attack, that creature has resistance to the damage dealt by the attack. The effect on the target ends early if your rage ends.
 
 Source:	Xanathar's Guide to Everything p. 10</text>
       </feature>
@@ -88,7 +88,7 @@ Source:	Xanathar's Guide to Everything p. 11</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Path of the Zealot: Divine Fury [2014]</name>
-        <text>Starting when you choose this path at 3rd level, you can channel divine fury into your weapon strikes. While you're raging, the first creature you hit on each of your turns with a weapon attack takes extra damage equal to 1d6 + half your barbarian level. The extra damage is necrotic or radiant; you choose the type of damage when you gain this feature.
+        <text>Starting when you choose this path at 3rd level, you can channel divine fury into your weapon strikes. While you&apos;re raging, the first creature you hit on each of your turns with a weapon attack takes extra damage equal to 1d6 + half your barbarian level. The extra damage is necrotic or radiant; you choose the type of damage when you gain this feature.
 
 Source:	Xanathar's Guide to Everything p. 11</text>
       </feature>
@@ -97,7 +97,7 @@ Source:	Xanathar's Guide to Everything p. 11</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Path of the Zealot: Warrior of the Gods [2014]</name>
-        <text>At 3rd level, your soul is marked for endless battle. If a spell, such as raise dead, has the sole effect of restoring you to life (but not undeath), the caster doesn't need material components to cast the spell on you.
+        <text>At 3rd level, your soul is marked for endless battle. If a spell, such as raise dead, has the sole effect of restoring you to life (but not undeath), the caster doesn&apos;t need material components to cast the spell on you.
 
 Source:	Xanathar's Guide to Everything p. 11</text>
       </feature>
@@ -117,7 +117,7 @@ Source:	Xanathar's Guide to Everything p. 9</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Path of the Storm Herald: Storm Soul [2014]</name>
-        <text>At 6th level, the storm grants you benefits even when your aura isn't active. The benefits are based on the environment you chose for your Storm Aura.
+        <text>At 6th level, the storm grants you benefits even when your aura isn&apos;t active. The benefits are based on the environment you chose for your Storm Aura.
 
 Source:	Xanathar's Guide to Everything p. 10</text>
       </feature>
@@ -126,7 +126,7 @@ Source:	Xanathar's Guide to Everything p. 10</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Path of the Storm Herald: Desert [2014]</name>
-        <text>You gain resistance to fire damage, and you don't suffer the effects of extreme heat, as described in the Dungeon Master's Guide. Moreover, as an action, you can touch a flammable object that isn't being worn or carried by anyone else and set it on fire.
+        <text>You gain resistance to fire damage, and you don't suffer the effects of extreme heat, as described in the Dungeon Master&apos;s Guide. Moreover, as an action, you can touch a flammable object that isn&apos;t being worn or carried by anyone else and set it on fire.
 
 Source:	Xanathar's Guide to Everything p. 10</text>
       </feature>
@@ -144,7 +144,7 @@ Source:	Xanathar's Guide to Everything p. 10</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Path of the Storm Herald: Tundra [2014]</name>
-        <text>You gain resistance to cold damage, and you don't suffer the effects of extreme cold, as described in the Dungeon Master's Guide. Moreover, as an action, you can touch water and turn a 5-foot cube of it into ice, which melts after 1 minute. This action fails if a creature is in the cube.
+        <text>You gain resistance to cold damage, and you don&apos;t suffer the effects of extreme cold, as described in the Dungeon Master&apos;s Guide. Moreover, as an action, you can touch water and turn a 5-foot cube of it into ice, which melts after 1 minute. This action fails if a creature is in the cube.
 
 Source:	Xanathar's Guide to Everything p. 10</text>
       </feature>
@@ -153,7 +153,7 @@ Source:	Xanathar's Guide to Everything p. 10</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Path of the Zealot: Fanatical Focus [2014]</name>
-        <text>Starting at 6th level, the divine power that fuels your rage can protect you. If you fail a saving throw while you're raging, you can reroll it, and you must use the new roll. You can use this ability only once per rage.
+        <text>Starting at 6th level, the divine power that fuels your rage can protect you. If you fail a saving throw while you&apos;re raging, you can reroll it, and you must use the new roll. You can use this ability only once per rage.
 
 Source:	Xanathar's Guide to Everything p. 11</text>
       </feature>

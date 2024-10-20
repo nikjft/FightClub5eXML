@@ -29,7 +29,7 @@ Source:	LaserLlama: Wizard Arcane Traditions v2.0.1 p. 2 (Homebrew)</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Hedge Magic (HB): On the Fly</name>
-        <text>Your skill with basic magic is second to none, allowing you to spontaneously cast low-level spells that you haven't prepared. Beginning at 6th level, you can use your action to cast any spell of 2nd-level or lower from your spellbook, even if you don't have the spell prepared, expending the appropriate spell slot. The spell must have a casting time of one action.
+        <text>Your skill with basic magic is second to none, allowing you to spontaneously cast low-level spells that you haven&apos;t prepared. Beginning at 6th level, you can use your action to cast any spell of 2nd-level or lower from your spellbook, even if you don&apos;t have the spell prepared, expending the appropriate spell slot. The spell must have a casting time of one action.
 
 You can cast a spell in this way a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
@@ -89,7 +89,7 @@ Source:	LaserLlama: Wizard Arcane Traditions v2.0.1 p. 3 (Homebrew)</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Familiarist (HB): Bonded Transposition</name>
-        <text>The otherworldly bond between you and your familiar has grown. Starting at 6th level, you can use an action to switch places with your familiar, each instantly teleporting to the other's space, so long as you can see your Greater Familiar.
+        <text>The otherworldly bond between you and your familiar has grown. Starting at 6th level, you can use an action to switch places with your familiar, each instantly teleporting to the other&apos;s space, so long as you can see your Greater Familiar.
 
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses each time you finish a long rest.
 
@@ -118,7 +118,7 @@ Source:	LaserLlama: Wizard Arcane Traditions v2.0.1 p. 3 (Homebrew)</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Arcane Tradition: Ritualist (HB)</name>
-        <text>Wizards spend their lives memorizing esoteric formulas that allow them to produce wondrous arcane effects. However, when produced spontaneously, spells are extremely taxing on the caster. To preserve their power, most wizards learn to cast ritual spells, spells that take longer to produce, but aren't as draining on said wizard's magical stamina. Some wizards, known as Ritualists, dedicate their great intellect to mastery over the deliberate and reliable magic of ritual spellcasting.
+        <text>Wizards spend their lives memorizing esoteric formulas that allow them to produce wondrous arcane effects. However, when produced spontaneously, spells are extremely taxing on the caster. To preserve their power, most wizards learn to cast ritual spells, spells that take longer to produce, but aren&apos;t as draining on said wizard&apos;s magical stamina. Some wizards, known as Ritualists, dedicate their great intellect to mastery over the deliberate and reliable magic of ritual spellcasting.
 
 Source:	LaserLlama: Wizard Arcane Traditions v2.0.1 p. 4 (Homebrew)</text>
       </feature>
@@ -130,7 +130,7 @@ Source:	LaserLlama: Wizard Arcane Traditions v2.0.1 p. 4 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Ritualist (HB): Arcane Anthology</name>
-        <text>You have learned to perform arcane rituals not normally known to wizards. At 2nd level, you add two 1st-level ritual spells of your choice from any spell list to your spellbook. In addition, you can copy ritual spells from any class's spell list into your spellbook, though you must otherwise follow the normal rules for copying these spells into your spellbook.
+        <text>You have learned to perform arcane rituals not normally known to wizards. At 2nd level, you add two 1st-level ritual spells of your choice from any spell list to your spellbook. In addition, you can copy ritual spells from any class&apos;s spell list into your spellbook, though you must otherwise follow the normal rules for copying these spells into your spellbook.
 
 Any non-wizard spell you add to your spellbook with this feature counts as wizard spell for you, but you can only cast it as a ritual, unless you've learned it by some other means.
 
@@ -182,13 +182,13 @@ Source:	LaserLlama: Wizard Arcane Traditions v2.0.1 p. 5 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>The School of Alchemy (HB): Alchemical Savant</name>
-        <text>When you adopt this Arcane Tradition at 2nd level, you learn the secrets of arcane alchemy. You gain proficiency with both alchemist's supplies and glassblower's tools. When you reach 10th level in this class, you can add double your proficiency bonus to any ability check you make that uses these tools.
+        <text>When you adopt this Arcane Tradition at 2nd level, you learn the secrets of arcane alchemy. You gain proficiency with both alchemist&apos;s supplies and glassblower&apos;s tools. When you reach 10th level in this class, you can add double your proficiency bonus to any ability check you make that uses these tools.
 
 Source:	LaserLlama: Wizard Arcane Traditions v2.0.1 p. 5 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>The School of Alchemy (HB): Arcane Elixirs</name>
-        <text>Also at 2nd level, you learn to create potent potions known as Arcane Elixirs. During a long rest, you can spend 1 hour with your alchemist's supplies to create your Arcane Elixirs, which can mimic the effects of certain spells in your spellbook.
+        <text>Also at 2nd level, you learn to create potent potions known as Arcane Elixirs. During a long rest, you can spend 1 hour with your alchemist&apos;s supplies to create your Arcane Elixirs, which can mimic the effects of certain spells in your spellbook.
 
 You can create an Arcane Elixir that mimics the effect of any spell from your spellbook that has a casting time of one action and targets only one creature. Any Arcane Elixirs you create appear as Tiny glass vials or flasks of iridescent liquid, and reproduce the spell effect at its lowest possible level.
 
@@ -202,7 +202,7 @@ Source:	LaserLlama: Wizard Arcane Traditions v2.0.1 p. 5 (Homebrew)</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>The School of Alchemy (HB): Efficient Arcana</name>
-        <text>Your alchemical knowledge and skill has improved. Starting at 6th level, you can spend 10 minutes with your alchemist's supplies, which can be during a short rest, to recycle one of your unused Arcane Elixirs, changing its effect to another spell of your choice of the same level from your spellbook.
+        <text>Your alchemical knowledge and skill has improved. Starting at 6th level, you can spend 10 minutes with your alchemist&apos;s supplies, which can be during a short rest, to recycle one of your unused Arcane Elixirs, changing its effect to another spell of your choice of the same level from your spellbook.
 
 Moreover, you can use an action to create an Arcane Elixir of a spell you have prepared, expending the spell slot as you normally would. An Arcane Elixir of the spell then appears in your empty hand. A spell used to create an Elixir in this way must meet all the requirements for being an Arcane Elixir.
 
@@ -220,7 +220,7 @@ Source:	LaserLlama: Wizard Arcane Traditions v2.0.1 p. 5 (Homebrew)</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>The School of Alchemy (HB): Greater Homunculus</name>
-        <text>Upon reaching 14th level, you achieve the ultimate goal of every alchemist, the creation of artificial life. You learn the clone spell. Using your alchemist's supplies, you can cast a special version of clone by spending 8 hours, which can be during a long rest, moulding organic material into an exact copy of yourself. All of your clone's game statistics are the same as yours, but you share Hit Dice and spell slots.
+        <text>Upon reaching 14th level, you achieve the ultimate goal of every alchemist, the creation of artificial life. You learn the clone spell. Using your alchemist&apos;s supplies, you can cast a special version of clone by spending 8 hours, which can be during a long rest, moulding organic material into an exact copy of yourself. All of your clone&apos;s game statistics are the same as yours, but you share Hit Dice and spell slots.
 
 In combat, your clone shares your initiative and acts on your turn. Though, it can only take the Dodge action unless you use your bonus action to issue it a telepathic command.
 
@@ -369,7 +369,7 @@ Source:	LaserLlama: Wizard Arcane Traditions v2.0.1 p. 7 (Homebrew)</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>The School of Chronomancy (HB): Master Chronomancer</name>
-        <text>Your mastery over the magic of time rivals the most powerful creatures of the multiverse. Starting at 14th level, you can use your power to undo events in time. When a creature within 60 feet of you ends its turn, you can choose to undo anything that occurred during that creature's turn. The target instantly returns to the space it began its turn, regains any expended spell slots or abilities, and any effects of their actions are undone. The creature then repeats its turn exactly as before, though you are aware of the actions it will take.
+        <text>Your mastery over the magic of time rivals the most powerful creatures of the multiverse. Starting at 14th level, you can use your power to undo events in time. When a creature within 60 feet of you ends its turn, you can choose to undo anything that occurred during that creature&apos;s turn. The target instantly returns to the space it began its turn, regains any expended spell slots or abilities, and any effects of their actions are undone. The creature then repeats its turn exactly as before, though you are aware of the actions it will take.
 
 Once you use this reaction to rewind time, you must finish a long rest before you can use it again, unless you expend a spell slot of 6th-level or higher to use it an additional time.
 
@@ -438,7 +438,7 @@ Source:	LaserLlama: Wizard Arcane Traditions v2.0.1 p. 8 (Homebrew)</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Arcane Tradition: The School of Hexcraft (HB)</name>
-        <text>Some who study the arcane aren't satisfied with traditional schools of wizardry and turn to the dark arts in their hunger for power. Striking out into the wild, they seek out beings from the lower planes, creatures from the Shadowfell, or vile covens of hags in order to learn otherworldly eldritch magic.
+        <text>Some who study the arcane aren&apos;t satisfied with traditional schools of wizardry and turn to the dark arts in their hunger for power. Striking out into the wild, they seek out beings from the lower planes, creatures from the Shadowfell, or vile covens of hags in order to learn otherworldly eldritch magic.
 
 Many who follow this path are willing to sacrifice anything, even their eternal soul, in order to learn sinister magics often reserved for those who enter pacts with eldritch entities.
 

@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <spell>
     <name>Arcane Eye</name>
@@ -69,7 +70,7 @@
     <classes>Warlock (The Undead)</classes>
   </spell-->
   <spell>
-    <name>Leomund's Secret Chest</name>
+    <name>Leomund&apos;s Secret Chest</name>
     <classes>Cleric (Arcana)</classes>
   </spell>
   <spell>
@@ -85,7 +86,7 @@
     <classes>Cleric (Arcana)</classes>
   </spell>
   <spell>
-    <name>Nystul's Magic Aura</name>
+    <name>Nystul&apos;s Magic Aura</name>
     <classes>Cleric (Arcana)</classes>
   </spell>
   <spell>

@@ -5,7 +5,7 @@
     <proficiency>Persuasion, Survival</proficiency>
     <trait>
       <name>Description</name>
-      <text>You spent a significant amount of time somewhere influenced by a portal to another plane of existence or by intense planar forces. You're accustomed to experiences that would leave others reeling in terror or enraptured by otherworldly beauty, and you're as comfortable dealing with fiends and celestials as you are with vendors in town.
+      <text>You spent a significant amount of time somewhere influenced by a portal to another plane of existence or by intense planar forces. You&apos;re accustomed to experiences that would leave others reeling in terror or enraptured by otherworldly beauty, and you&apos;re as comfortable dealing with fiends and celestials as you are with vendors in town.
 
 	• Skill Proficiencies: Persuasion, Survival
 	• Languages: Two of your choice (Abyssal, Celestial, or Infernal recommended)
@@ -43,7 +43,7 @@ d6 | Trinket
     <proficiency>Intimidation, Survival</proficiency>
     <trait>
       <name>Description</name>
-      <text>Though you aren't a Giant, you grew up among giants. Maybe you were an orphan taken in by a sympathetic family of stone giants who raised you as one of their own. Or perhaps you lived in a lost prehistoric pocket of the world, surrounded by giants and fearsome behemoths or hulking dinosaurs.
+      <text>Though you aren&apos;t a Giant, you grew up among giants. Maybe you were an orphan taken in by a sympathetic family of stone giants who raised you as one of their own. Or perhaps you lived in a lost prehistoric pocket of the world, surrounded by giants and fearsome behemoths or hulking dinosaurs.
 
 Something about your environment—perhaps the food or water that sustained you through childhood, elemental magic inherent in the site of your home, or some verdant blessing of growth placed on you—ensured that you grew to a remarkable size. With the aid of this magic, you have learned how to embody the titanic might of giants. You are used to moving through a world much bigger than you, and that is reflected in your skills, attitude, and perspective on life.
 
@@ -125,7 +125,7 @@ d6 | Trinket
     <proficiency>History, Perception</proficiency>
     <trait>
       <name>Description</name>
-      <text>You've dedicated your life to studying the practice of runecraft. Whether you were personally taught by a master rune carver or learned by poring over engravings in ancient ruins, you understand how to tap into the supernatural power held within runes.
+      <text>You&apos;ve dedicated your life to studying the practice of runecraft. Whether you were personally taught by a master rune carver or learned by poring over engravings in ancient ruins, you understand how to tap into the supernatural power held within runes.
 
 The art of runecraft was initially created by the giants of yore, but over time, the practice has been adopted by individuals of all races and backgrounds. As such, though Giant runes are the most common, many rune carvers incorporate symbols from their native languages into the craft.
 

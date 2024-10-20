@@ -1,17 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <class>
     <name>Fighter</name>
     <autolevel level="3">
       <feature optional="YES">
         <name>Martial Archetype: Purple Dragon Knight (Banneret)</name>
-        <text>Purple Dragon Knights are warriors who hail from the kingdom of Cormyr. Pledged to protect the crown, they take the fight against evil beyond the kingdom's borders. They are tasked with wandering the land as knights errant, relying on their judgment, bravery, and fidelity to guide them in defeating evildoers.
+        <text>Purple Dragon Knights are warriors who hail from the kingdom of Cormyr. Pledged to protect the crown, they take the fight against evil beyond the kingdom&apos;s borders. They are tasked with wandering the land as knights errant, relying on their judgment, bravery, and fidelity to guide them in defeating evildoers.
 
 A Purple Dragon Knight inspires greatness in others by committing brave deeds in battle. The mere presence of a knight in a hamlet is enough to cause some orcs and bandits to seek easier prey. A lone knight is a skilled warrior, but a knight leading a band of allies can transform even the most poorly equipped militia into a ferocious war band.
 
-A knight prefers to lead through deeds, not words. As a knight spearheads an attack, the knight's actions can awaken reserves of courage and conviction in allies that they never suspected they had.
+A knight prefers to lead through deeds, not words. As a knight spearheads an attack, the knight&apos;s actions can awaken reserves of courage and conviction in allies that they never suspected they had.
 
-Source:	Sword Coast Adventurer's Guide p. 128</text>
+Source:	Sword Coast Adventurer&apos;s Guide p. 128</text>
       </feature>
     </autolevel>
 
@@ -22,7 +23,7 @@ Source:	Sword Coast Adventurer's Guide p. 128</text>
 
 When you use your Second Wind feature, you can choose up to three creatures within 60 feet of you that are allied with you. Each one regains hit points equal to your fighter level, provided that the creature can see or hear you.
 
-Source:	Sword Coast Adventurer's Guide p. 128</text>
+Source:	Sword Coast Adventurer&apos;s Guide p. 128</text>
       </feature>
     </autolevel>
 
@@ -33,7 +34,7 @@ Source:	Sword Coast Adventurer's Guide p. 128</text>
 
 Banneret serves as the generic name for this archetype if you use it in other campaign settings or to model warlords other than the Purple Dragon Knights.
 
-Source:	Sword Coast Adventurer's Guide p. 128</text>
+Source:	Sword Coast Adventurer&apos;s Guide p. 128</text>
       </feature>
     </autolevel>
 
@@ -46,7 +47,7 @@ At 7th level, you gain proficiency in the Persuasion skill. If you are already p
 
 Your proficiency bonus is doubled for any ability check you make that uses Persuasion. You receive this benefit regardless of the skill proficiency you gain from this feature.
 
-Source:	Sword Coast Adventurer's Guide p. 128</text>
+Source:	Sword Coast Adventurer&apos;s Guide p. 128</text>
         <proficiency>Persuasion</proficiency>
         <modifier category="skill">Persuasion+%0</modifier>
       </feature>
@@ -59,16 +60,16 @@ Source:	Sword Coast Adventurer's Guide p. 128</text>
 
 Starting at 18th level, you can choose two allies within 60 feet of you, rather than one.
 
-Source:	Sword Coast Adventurer's Guide p. 128</text>
+Source:	Sword Coast Adventurer&apos;s Guide p. 128</text>
       </feature>
     </autolevel>
 
     <autolevel level="15">
       <feature optional="YES">
         <name>Purple Dragon Knight (Banneret): Bulwark</name>
-        <text>Beginning at 15th level, you can extend the benefit of your Indomitable feature to an ally. When you decide to use Indomitable to reroll an Intelligence, a Wisdom, or a Charisma saving throw and you aren't incapacitated, you can choose one ally within 60 feet of you that also failed its saving throw against the same effect. If that creature can see or hear you, it can reroll its saving throw and must use the new roll.
+        <text>Beginning at 15th level, you can extend the benefit of your Indomitable feature to an ally. When you decide to use Indomitable to reroll an Intelligence, a Wisdom, or a Charisma saving throw and you aren&apos;t incapacitated, you can choose one ally within 60 feet of you that also failed its saving throw against the same effect. If that creature can see or hear you, it can reroll its saving throw and must use the new roll.
 
-Source:	Sword Coast Adventurer's Guide p. 128</text>
+Source:	Sword Coast Adventurer&apos;s Guide p. 128</text>
       </feature>
     </autolevel>
 
@@ -77,7 +78,7 @@ Source:	Sword Coast Adventurer's Guide p. 128</text>
         <name>Purple Dragon Knight (Banneret): Inspiring Surge</name>
         <text>Starting at 18th level, you can choose two allies within 60 feet of you, rather than one.
 
-Source:	Sword Coast Adventurer's Guide p. 128</text>
+Source:	Sword Coast Adventurer&apos;s Guide p. 128</text>
       </feature>
     </autolevel>
   </class>

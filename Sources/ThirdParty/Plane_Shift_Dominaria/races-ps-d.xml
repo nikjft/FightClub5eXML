@@ -29,11 +29,11 @@ Source:	Plane Shift: Dominaria p. 6 (Third Party)</text>
     </trait>
     <trait>
       <name>Flight</name>
-      <text>You have a flying speed of 30 feet. You can't use your flying speed while you wear medium or heavy armor. (If your campaign uses the variant rule for encumbrance, you can't use your flying speed if you are encumbered.)</text>
+      <text>You have a flying speed of 30 feet. You can&apos;t use your flying speed while you wear medium or heavy armor. (If your campaign uses the variant rule for encumbrance, you can&apos;t use your flying speed if you are encumbered.)</text>
     </trait>
     <trait>
       <name>Hawkeyed</name>
-      <text>You have proficiency in the Perception skill. In addition, attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.</text>
+      <text>You have proficiency in the Perception skill. In addition, attacking at long range doesn&apos;t impose disadvantage on your ranged weapon attack rolls.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -49,7 +49,7 @@ Source:	Plane Shift: Dominaria p. 6 (Third Party)</text>
     <spellAbility/>
     <trait>
       <name>Description</name>
-      <text>The people of Keld are human, but they are like no other humans anywhere. Nearly all adults stand over six feet tall, and heights above seven feet are not uncommon. They are massively muscled and have gray skin, ranging from an ashy gray-white to a deeper bluegray. The typical Keldon's hairline points sharply down in the middle of the forehead and at either temple, but recedes elsewhere—sometimes dramatically. Keldons are remarkably resistant to the cold of their homeland, baring skin even in near-freezing temperatures without discomfort.
+      <text>The people of Keld are human, but they are like no other humans anywhere. Nearly all adults stand over six feet tall, and heights above seven feet are not uncommon. They are massively muscled and have gray skin, ranging from an ashy gray-white to a deeper bluegray. The typical Keldon&apos;s hairline points sharply down in the middle of the forehead and at either temple, but recedes elsewhere—sometimes dramatically. Keldons are remarkably resistant to the cold of their homeland, baring skin even in near-freezing temperatures without discomfort.
 
 Keldons value self-reliance, strength, and courage above all else. Anything that is the product of their own labor is a fine thing. Anything else is treated with a healthy dose of skepticism. At best, they are a proud, pragmatic, passionate people, and their loyalty is fierce once earned. At worst, they can be reckless, hot-tempered, and violent—and no small number of Keldons still consider these qualities virtues rather than vices.
 
@@ -77,7 +77,7 @@ Source:	Plane Shift: Dominaria</text>
     </trait>
     <trait>
       <name>Icehaven Born</name>
-      <text>You are naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master's Guide.</text>
+      <text>You are naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master&apos;s Guide.</text>
     </trait>
     <trait>
       <name>Languages</name>

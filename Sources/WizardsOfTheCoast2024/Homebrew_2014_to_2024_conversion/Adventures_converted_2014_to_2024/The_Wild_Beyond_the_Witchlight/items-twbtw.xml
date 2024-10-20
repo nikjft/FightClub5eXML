@@ -6,7 +6,7 @@
     <type>W</type>
     <magic>YES</magic>
     <weight/>
-    <text>This magic vehicle is a 10-foot-diameter leaf that floats on water. It has tendrils that propel it across land and across the water's surface (but not underwater), as well as through the air. It has a walking, flying, and swimming speed of 20 feet, and it can hover. It moves according to your spoken directions while you are riding it.
+    <text>This magic vehicle is a 10-foot-diameter leaf that floats on water. It has tendrils that propel it across land and across the water&apos;s surface (but not underwater), as well as through the air. It has a walking, flying, and swimming speed of 20 feet, and it can hover. It moves according to your spoken directions while you are riding it.
 
 The lily pad can transport up to 300 pounds without hindrance. It can carry up to twice this weight, but it moves at half speed if it carries more than its normal capacity.
 
@@ -79,7 +79,7 @@ Source:	The Wild Beyond the Witchlight p. 209</text>
     <roll>1d6+4</roll>
   </item>
   <item>
-    <name>Iggwilv's Cauldron [2014]</name>
+    <name>Iggwilv&apos;s Cauldron [2014]</name>
     <detail>artifact (requires attunement by a spellcaster)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -136,7 +136,7 @@ Source:	The Wild Beyond the Witchlight p. 209</text>
     <type>W</type>
     <magic>YES</magic>
     <weight>25</weight>
-    <text>You can use this contraption to fly, provided your weight (including whatever you are wearing or carrying) doesn't exceed 300 pounds. The ornithopter has a flying speed of 30 feet, and it moves according to your spoken directions while you are riding it. It can't hover. If the ornithopter loses its rider while airborne, it falls and can't fly again for 1d6 + 4 days.
+    <text>You can use this contraption to fly, provided your weight (including whatever you are wearing or carrying) doesn't exceed 300 pounds. The ornithopter has a flying speed of 30 feet, and it moves according to your spoken directions while you are riding it. It can&apos;t hover. If the ornithopter loses its rider while airborne, it falls and can&apos;t fly again for 1d6 + 4 days.
 
 The ornithopter is 8 feet long, has a 14-foot wingspan, and weighs 25 pounds.
 
@@ -173,7 +173,7 @@ Source:	The Wild Beyond the Witchlight p. 212</text>
     <type>W</type>
     <magic>YES</magic>
     <weight/>
-    <text>As an action, you make a few snips with these iron shears and cause the shadow of a Humanoid creature you can see within 5 feet of you to detach from its source. If the creature is unwilling to give up its shadow, it can make a DC 15 Charisma saving throw, retaining its shadow on a success. Whether or not the shadow is snipped, this property of the scissors can't be used again until the next dawn.
+    <text>As an action, you make a few snips with these iron shears and cause the shadow of a Humanoid creature you can see within 5 feet of you to detach from its source. If the creature is unwilling to give up its shadow, it can make a DC 15 Charisma saving throw, retaining its shadow on a success. Whether or not the shadow is snipped, this property of the scissors can&apos;t be used again until the next dawn.
 
 The detached shadow is rooted to the spot where it was snipped until you use a bonus action to cause it to behave in one of the following ways, either of which is possible only if you can see the shadow:
 
@@ -274,7 +274,7 @@ Source:	The Wild Beyond the Witchlight p. 27</text>
     <type>W</type>
     <magic>YES</magic>
     <weight/>
-    <text>This ornate pocket watch is fastened to the end of a gold chain. It glows with a faint golden light when opened, and it makes a soft ticking noise that can be heard only by the creature holding it. The face of the watch shows a miniature painting of the Witchlight Carnival ringed by a tiny henge, orbited at night by a mote of light small enough to slip through the eye of a needle. This light causes the henge to cast shadows, and these shadows allow the watch's owner to track the passage of time.
+    <text>This ornate pocket watch is fastened to the end of a gold chain. It glows with a faint golden light when opened, and it makes a soft ticking noise that can be heard only by the creature holding it. The face of the watch shows a miniature painting of the Witchlight Carnival ringed by a tiny henge, orbited at night by a mote of light small enough to slip through the eye of a needle. This light causes the henge to cast shadows, and these shadows allow the watch&apos;s owner to track the passage of time.
 
 Carnival Setup and Takedown. The creature attuned to the watch can use an action to initiate the packing up or the unpacking of the Witchlight Carnival, provided the creature and the carnival are on the same plane of existence. In the span of 1 hour, all objects that are elements of the carnival are magically whisked about until everything is packed up and ready for travel, or unpacked and assembled. The watch has no effect on creatures, which can move about freely and safely while the carnival is being set up or taken down. Once the process of packing up or unpacking the carnival begins, it can't be stopped until the task is complete. When the watch is used to pack up or unpack the carnival, this property cannot be used again until 8 hours have elapsed.
 
@@ -289,7 +289,7 @@ Additional Properties. The pocket watch has the following additional properties:
 Source:	The Wild Beyond the Witchlight p. 25</text>
   </item>
   <item>
-    <name>Woodcutter's Axe [2014]</name>
+    <name>Woodcutter&apos;s Axe [2014]</name>
     <detail>greataxe, rare</detail>
     <type>M</type>
     <magic>YES</magic>

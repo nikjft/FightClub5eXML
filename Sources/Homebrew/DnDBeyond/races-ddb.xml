@@ -21,7 +21,7 @@ Source:	DnDBeyond Unearthed Arcana (Homebrew), GmCorsair</text>
     </trait>
     <trait category="description">
       <name>Mousefolk Names</name>
-      <text>When a Mousefolk is old enough to read, they are taken by an elder to the clan's archives to study the lore and histories of their people. After several years, the individual is allowed to pick their own name, either adopting the name of a past hero, or inventing a new name for themselves.
+      <text>When a Mousefolk is old enough to read, they are taken by an elder to the clan&apos;s archives to study the lore and histories of their people. After several years, the individual is allowed to pick their own name, either adopting the name of a past hero, or inventing a new name for themselves.
 
 Male Names: Aengus, Ashwin, Aynselle, Boris, Byrnstan, Celanawe, Colin, Demitri, Elric, Esegar, Finn, Gregory, Joseph, Luke, Martin, Matthias, Mattimeo, Odric, Seyth, Thom, Waldwin
 
@@ -35,7 +35,7 @@ Historical Names: Abershaw, Bluebell, Dalgill, Faolan, Garrow, Gamilon, Grimwold
     </trait>
     <trait>
       <name>Alignment</name>
-      <text>Most Mousefolk are neutral, and tend towards good. They try to keep the conflicts of the other races at arm's length, but display remarkable ferocity when their friends, families, or communities are threatened. A reverence for nature and life is close to the heart of Mousefolk, and they are loath to take a life if it can be avoided. They prefer to live quiet and unassuming lives, giving honest work for honest pay.</text>
+      <text>Most Mousefolk are neutral, and tend towards good. They try to keep the conflicts of the other races at arm&apos;s length, but display remarkable ferocity when their friends, families, or communities are threatened. A reverence for nature and life is close to the heart of Mousefolk, and they are loath to take a life if it can be avoided. They prefer to live quiet and unassuming lives, giving honest work for honest pay.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -55,7 +55,7 @@ Historical Names: Abershaw, Bluebell, Dalgill, Faolan, Garrow, Gamilon, Grimwold
     </trait>
     <trait>
       <name>Artistry</name>
-      <text>You gain proficiency with one type of artisan's tools or one musical instrument</text>
+      <text>You gain proficiency with one type of artisan&apos;s tools or one musical instrument</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -83,7 +83,7 @@ Source:	DnDBeyond Unearthed Arcana (Homebrew), GmCorsair</text>
     </trait>
     <trait category="description">
       <name>Mousefolk Names</name>
-      <text>When a Mousefolk is old enough to read, they are taken by an elder to the clan's archives to study the lore and histories of their people. After several years, the individual is allowed to pick their own name, either adopting the name of a past hero, or inventing a new name for themselves.
+      <text>When a Mousefolk is old enough to read, they are taken by an elder to the clan&apos;s archives to study the lore and histories of their people. After several years, the individual is allowed to pick their own name, either adopting the name of a past hero, or inventing a new name for themselves.
 
 Male Names: Aengus, Ashwin, Aynselle, Boris, Byrnstan, Celanawe, Colin, Demitri, Elric, Esegar, Finn, Gregory, Joseph, Luke, Martin, Matthias, Mattimeo, Odric, Seyth, Thom, Waldwin
 
@@ -97,7 +97,7 @@ Historical Names: Abershaw, Bluebell, Dalgill, Faolan, Garrow, Gamilon, Grimwold
     </trait>
     <trait>
       <name>Alignment</name>
-      <text>Most Mousefolk are neutral, and tend towards good. They try to keep the conflicts of the other races at arm's length, but display remarkable ferocity when their friends, families, or communities are threatened. A reverence for nature and life is close to the heart of Mousefolk, and they are loath to take a life if it can be avoided. They prefer to live quiet and unassuming lives, giving honest work for honest pay.</text>
+      <text>Most Mousefolk are neutral, and tend towards good. They try to keep the conflicts of the other races at arm&apos;s length, but display remarkable ferocity when their friends, families, or communities are threatened. A reverence for nature and life is close to the heart of Mousefolk, and they are loath to take a life if it can be avoided. They prefer to live quiet and unassuming lives, giving honest work for honest pay.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -155,7 +155,7 @@ Source:	DnDBeyond Unearthed Arcana (Homebrew), StrayChowChow</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Underfoot</name>
@@ -197,7 +197,7 @@ Source:	DnDBeyond Unearthed Arcana (Homebrew), StrayChowChow</text>
     </trait>
     <trait>
       <name>Superior Darkvision</name>
-      <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Underfoot</name>
@@ -247,7 +247,7 @@ Source:	DnDBeyond Unearthed Arcana (Homebrew), StrayChowChow</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Underfoot</name>
@@ -293,7 +293,7 @@ Source:	DnDBeyond Unearthed Arcana (Homebrew), StrayChowChow</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Underfoot</name>

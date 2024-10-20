@@ -12,7 +12,7 @@
 
     <trait>
       <name>Barbarian</name>
-      <text>Barbarians are mighty warriors who are powered by primal forces of the multiverse that manifest as a Rage. More than a mere emotion—and not limited to anger—this Rage is an incarnation of a predator's ferocity, a storm's fury, and a sea's turmoil.
+      <text>Barbarians are mighty warriors who are powered by primal forces of the multiverse that manifest as a Rage. More than a mere emotion—and not limited to anger—this Rage is an incarnation of a predator's ferocity, a storm&apos;s fury, and a sea&apos;s turmoil.
 
 Some Barbarians personify their Rage as a fierce spirit or revered forebear. Others see it as a connection to the pain and anguish of the world, as an impersonal tangle of wild magic, or as an expression of their own deepest self. For every Barbarian, their Rage is a power that fuels not just battle prowess, but also uncanny reflexes and heightened senses.
 
@@ -51,7 +51,7 @@ Source:	Player's Handbook 2024 p. 51</text>
     <autolevel level="1">
       <feature>
         <name>Rage</name>
-        <text>You can imbue yourself with a primal power called Rage, a force that grants you extraordinary might and resilience. You can enter it as a Bonus Action if you aren't wearing Heavy armor.
+        <text>You can imbue yourself with a primal power called Rage, a force that grants you extraordinary might and resilience. You can enter it as a Bonus Action if you aren&apos;t wearing Heavy armor.
 
 You can enter your Rage the number of times shown for your Barbarian level in the Rages column of the Barbarian Features table. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
 
@@ -87,7 +87,7 @@ Source:	Player's Handbook 2024 p. 51</text>
       </counter>
       <feature>
         <name>Unarmored Defense</name>
-        <text>While you aren't wearing any armor, your base Armor Class equals 10 plus your Dexterity and Constitution modifiers. You can use a Shield and still gain this benefit.
+        <text>While you aren&apos;t wearing any armor, your base Armor Class equals 10 plus your Dexterity and Constitution modifiers. You can use a Shield and still gain this benefit.
 
 Source:	Player's Handbook 2024 p. 51</text>
         <special>unarmored defense constitution</special>
@@ -105,7 +105,7 @@ Source:	Player's Handbook 2024 p. 52</text>
     <autolevel level="2">
       <feature>
         <name>Danger Sense</name>
-        <text>You gain an uncanny sense of when things aren't as they should be, giving you an edge when you dodge perils. You have Advantage on Dexterity saving throws unless you have the Incapacitated condition.
+        <text>You gain an uncanny sense of when things aren&apos;t as they should be, giving you an edge when you dodge perils. You have Advantage on Dexterity saving throws unless you have the Incapacitated condition.
 
 Source:	Player's Handbook 2024 p. 52</text>
       </feature>
@@ -120,7 +120,7 @@ Source:	Player's Handbook 2024 p. 52</text>
     <autolevel level="3">
       <feature>
         <name>Barbarian Subclass</name>
-        <text>You gain a Barbarian subclass of your choice. The Path of the Berserker, Path of the Wild Heart, Path of the World Tree, and Path of the Zealot subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Barbarian levels. For the rest of your career, you gain each of your subclass's features that are of your Barbarian level or lower.
+        <text>You gain a Barbarian subclass of your choice. The Path of the Berserker, Path of the Wild Heart, Path of the World Tree, and Path of the Zealot subclasses are detailed after this class&apos;s description. A subclass is a specialization that grants you features at certain Barbarian levels. For the rest of your career, you gain each of your subclass&apos;s features that are of your Barbarian level or lower.
 
 Source:	Player's Handbook 2024 p. 52</text>
       </feature>
@@ -157,7 +157,7 @@ Source:	Player's Handbook 2024 p. 53</text>
       </feature>
       <feature>
         <name>Fast Movement</name>
-        <text>Your speed increases by 10 feet while you aren't wearing Heavy armor.
+        <text>Your speed increases by 10 feet while you aren&apos;t wearing Heavy armor.
 
 Source:	Player's Handbook 2024 p. 53</text>
         <modifier category="bonus">speed +10</modifier>
@@ -199,7 +199,7 @@ Source:	Player's Handbook 2024 p. 53</text>
     <autolevel level="9">
       <feature>
         <name>Brutal Strike</name>
-        <text>If you use Reckless Attack, you can forgo any Advantage on one Strength-based attack roll of your choice on your turn. The chosen attack roll mustn't have Disadvantage. If the chosen attack roll hits, the target takes an extra 1d10 damage of the same type dealt by the weapon or Unarmed Strike, and you can cause one Brutal Strike effect of your choice. You have the following effect options.
+        <text>If you use Reckless Attack, you can forgo any Advantage on one Strength-based attack roll of your choice on your turn. The chosen attack roll mustn&apos;t have Disadvantage. If the chosen attack roll hits, the target takes an extra 1d10 damage of the same type dealt by the weapon or Unarmed Strike, and you can cause one Brutal Strike effect of your choice. You have the following effect options.
 
 Forceful Blow:
 The target is pushed 15 feet straight away from you. You can then move up to half your Speed straight toward the target without provoking Opportunity Attacks.
@@ -214,7 +214,7 @@ Source:	Player's Handbook 2024 p. 53</text>
     <autolevel level="11">
       <feature>
         <name>Relentless Rage</name>
-        <text>Your Rage can keep you fighting despite grievous wounds. If you drop to 0 Hit Points while your Rage is active and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, your Hit Points instead change to a number equal to twice your Barbarian level.
+        <text>Your Rage can keep you fighting despite grievous wounds. If you drop to 0 Hit Points while your Rage is active and don&apos;t die outright, you can make a DC 10 Constitution saving throw. If you succeed, your Hit Points instead change to a number equal to twice your Barbarian level.
 
 Each time you use this feature after the first, the DC increases by 5. When you finish a Short or Long Rest, the DC resets to 10.
 
@@ -254,7 +254,7 @@ Source:	Player's Handbook 2024 p. 53</text>
     <autolevel level="15">
       <feature>
         <name>Persistent Rage</name>
-        <text>When you roll Initiative, you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can't do so again until you finish a Long Rest.
+        <text>When you roll Initiative, you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can&apos;t do so again until you finish a Long Rest.
 
 In addition, your Rage is so fierce that it now lasts for 10 minutes without you needing to do anything to extend it from round to round. Your Rage ends early if you have the Unconscious condition (not just the Incapacitated condition) or don Heavy armor.
 
@@ -340,7 +340,7 @@ Source:	Player's Handbook 2024 p. 54</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Path Of The Berserker: Mindless Rage</name>
-        <text>You have Immunity to the Charmed and Frightened conditions while your Rage is active. If you're Charmed or Frightened when you enter your Rage, the condition ends on you.
+        <text>You have Immunity to the Charmed and Frightened conditions while your Rage is active. If you&apos;re Charmed or Frightened when you enter your Rage, the condition ends on you.
 
 Source:	Player's Handbook 2024 p. 54</text>
       </feature>
@@ -358,7 +358,7 @@ Source:	Player's Handbook 2024 p. 54</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Path Of The Berserker: Intimidating Presence</name>
-        <text>As a Bonus Action, you can strike terror into others with your menacing presence and primal power. When you do so, each creature of your choice in a 30-foot Emanation originating from you must make a Wisdom saving throw (DC 8 plus your Strength modifier and Proficiency Bonus). On a failed save, a creature has the Frightened condition for 1 minute. At the end of each of the Frightened creature's turns, the creature repeats the save, ending the effect on itself on a success.
+        <text>As a Bonus Action, you can strike terror into others with your menacing presence and primal power. When you do so, each creature of your choice in a 30-foot Emanation originating from you must make a Wisdom saving throw (DC 8 plus your Strength modifier and Proficiency Bonus). On a failed save, a creature has the Frightened condition for 1 minute. At the end of each of the Frightened creature&apos;s turns, the creature repeats the save, ending the effect on itself on a success.
 
 Once you use this feature, you can't use it again until you finish a Long Rest unless you expend a use of your Rage (no action required) to restore your use of it.
 
@@ -481,7 +481,7 @@ Source:	Player's Handbook 2024 p. 56</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Path Of The World Tree: Battering Roots</name>
-        <text>During your turn, your reach is 10 feet greater with any Melee weapon that has the Heavy or Versatile property, as tendrils of the World Tree extend from you. When you hit with such a weapon on your turn, you can activate the Push or Topple mastery property in addition to a different mastery property you're using with that weapon.
+        <text>During your turn, your reach is 10 feet greater with any Melee weapon that has the Heavy or Versatile property, as tendrils of the World Tree extend from you. When you hit with such a weapon on your turn, you can activate the Push or Topple mastery property in addition to a different mastery property you&apos;re using with that weapon.
 
 Source:	Player's Handbook 2024 p. 56</text>
       </feature>
@@ -521,7 +521,7 @@ Source:	Player's Handbook 2024 p. 57</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Path Of The Zealot: Warrior Of The Gods</name>
-        <text>A divine entity helps ensure you can continue the fight. You have a pool of four d12s that you can spend to heal yourself. As a Bonus Action, you can expend dice from the pool, roll them, and regain a number of Hit Points equal to the roll's total.
+        <text>A divine entity helps ensure you can continue the fight. You have a pool of four d12s that you can spend to heal yourself. As a Bonus Action, you can expend dice from the pool, roll them, and regain a number of Hit Points equal to the roll&apos;s total.
 
 Your pool regains all expended dice when you finish a Long Rest.
 
@@ -572,7 +572,7 @@ Source:	Player's Handbook 2024 p. 57</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Path Of The Zealot: Rage Of The Gods</name>
-        <text>When you activate your Rage, you can assume the form of a divine warrior. This form lasts for 1 minute or until you drop to 0 Hit Points. Once you use this feature, you can't do so again until you finish a Long Rest.
+        <text>When you activate your Rage, you can assume the form of a divine warrior. This form lasts for 1 minute or until you drop to 0 Hit Points. Once you use this feature, you can&apos;t do so again until you finish a Long Rest.
 
 While in this form, you gain the benefits below.
 

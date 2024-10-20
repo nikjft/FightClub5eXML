@@ -24,7 +24,7 @@ Source:	Unearthed Arcana: Cleric Divine Domains p. 1</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Forge Domain (UA): Blessing of the Forge</name>
-        <text>At 1st level, you gain the ability to imbue magic into a weapon or armor. At the end of a long rest, touch one nonmagical object that is a suit of armor or a simple or martial weapon. Until the end of your next long rest, the object becomes a magic item, granting a +1 bonus to AC if it's armor or a +1 bonus to attack and damage rolls if it's a weapon.
+        <text>At 1st level, you gain the ability to imbue magic into a weapon or armor. At the end of a long rest, touch one nonmagical object that is a suit of armor or a simple or martial weapon. Until the end of your next long rest, the object becomes a magic item, granting a +1 bonus to AC if it&apos;s armor or a +1 bonus to attack and damage rolls if it&apos;s a weapon.
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
@@ -43,7 +43,7 @@ Source:	Unearthed Arcana: Cleric Divine Domains p. 1</text>
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Forge Domain (UA): Channel Divinity: Artisan's Blessing</name>
+        <name>Forge Domain (UA): Channel Divinity: Artisan&apos;s Blessing</name>
         <text>Starting at 2nd level, you can use your Channel Divinity to create simple items.
 
 Starting at the beginning of a short rest, you conduct a ritual to your deity that grants you the ability to craft a finished item that is at least part metal. The item is completed at the end of the rest.
@@ -79,7 +79,7 @@ Source:	Unearthed Arcana: Cleric Divine Domains p. 1</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Forge Domain (UA): Saint of Forge and Fire</name>
-        <text>At 17th level, your affinity for fire and metal becomes more powerful due to your deity's blessing. You gain immunity to fire damage, and while you're wearing heavy armor, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
+        <text>At 17th level, your affinity for fire and metal becomes more powerful due to your deity&apos;s blessing. You gain immunity to fire damage, and while you&apos;re wearing heavy armor, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
 
 Source:	Unearthed Arcana: Cleric Divine Domains p. 1</text>
       </feature>
@@ -88,7 +88,7 @@ Source:	Unearthed Arcana: Cleric Divine Domains p. 1</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Divine Domain: Grave Domain (UA)</name>
-        <text>Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse's workings. To resist death, or to desecrate the dead's rest, is an abomination. Deities of the grave include Kelemvor, WeeJas, the ancestral spirits of the Undying Court, Hades, Anubis, and Osiris. These deities teach their followers to respect the dead and pay them due homage. Followers of these deities seek to put restless spirits to rest, destroy the undead wherever they find them, and ease the suffering of dying creatures. Their magic also allows them to stave off a creature's death, though they refuse to use such magic to extend a creature's lifespan beyond its mortal limits.
+        <text>Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse's workings. To resist death, or to desecrate the dead's rest, is an abomination. Deities of the grave include Kelemvor, WeeJas, the ancestral spirits of the Undying Court, Hades, Anubis, and Osiris. These deities teach their followers to respect the dead and pay them due homage. Followers of these deities seek to put restless spirits to rest, destroy the undead wherever they find them, and ease the suffering of dying creatures. Their magic also allows them to stave off a creature&apos;s death, though they refuse to use such magic to extend a creature&apos;s lifespan beyond its mortal limits.
 
 At each indicated cleric level, add the listed spells to your spells prepared.
 
@@ -116,7 +116,7 @@ Source:	Unearthed Arcana: Cleric Divine Domains p. 2</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Grave Domain (UA): Circle of Mortality</name>
-        <text>At 1st level, you gain the ability to manipulate the line between life and death. When you cast a spell that restores hit points to a living creature currently at 0, treat any dice rolled to determine the spell's healing as having rolled their maximum result. In addition, if you have the spare the dying cantrip, you can cast it as a bonus action.
+        <text>At 1st level, you gain the ability to manipulate the line between life and death. When you cast a spell that restores hit points to a living creature currently at 0, treat any dice rolled to determine the spell&apos;s healing as having rolled their maximum result. In addition, if you have the spare the dying cantrip, you can cast it as a bonus action.
 
 Source:	Unearthed Arcana: Cleric Divine Domains p. 2</text>
       </feature>
@@ -136,7 +136,7 @@ Source:	Unearthed Arcana: Cleric Divine Domains p. 2</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Grave Domain (UA): Channel Divinity: Path to the Grave</name>
-        <text>Starting at 2nd level, you can use your Channel Divinity to mark another creature's life force for termination.
+        <text>Starting at 2nd level, you can use your Channel Divinity to mark another creature&apos;s life force for termination.
 
 As an action, you touch a creature. The next time that creature takes damage from a spell or an attack from you or an ally, it is vulnerable to that spell or attack's damage. If the source of damage has multiple damage types, the creature is vulnerable to all of them. The vulnerability applies only to the first time that source inflicts damage, and then ends.
 
@@ -148,8 +148,8 @@ Source:	Unearthed Arcana: Cleric Divine Domains p. 2</text>
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Grave Domain (UA): Sentinel at Death's Door</name>
-        <text>Starting at 6th level, you gain the ability to impede death's progress.
+        <name>Grave Domain (UA): Sentinel at Death&apos;s Door</name>
+        <text>Starting at 6th level, you gain the ability to impede death&apos;s progress.
 
 As a reaction when you or an ally that you can see within 30 feet of you suffers a critical hit, you can turn that attack into a normal hit. Any effects triggered by a critical hit are canceled.
 
@@ -171,7 +171,7 @@ Source:	Unearthed Arcana: Cleric Divine Domains p. 2</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Grave Domain (UA): Keeper of Souls</name>
-        <text>At 17th level, you gain the ability to manipulate the boundary between life and death. When an enemy you can see dies within 30 feet of you, you or one ally of your choice that is within 30 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature as long as you aren't incapacitated, but no more than once per round.
+        <text>At 17th level, you gain the ability to manipulate the boundary between life and death. When an enemy you can see dies within 30 feet of you, you or one ally of your choice that is within 30 feet of you regains hit points equal to the enemy&apos;s number of Hit Dice. You can use this feature as long as you aren&apos;t incapacitated, but no more than once per round.
 
 Source:	Unearthed Arcana: Cleric Divine Domains p. 2</text>
       </feature>
@@ -180,7 +180,7 @@ Source:	Unearthed Arcana: Cleric Divine Domains p. 2</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Divine Domain: Protection Domain (UA)</name>
-        <text>The protection domain is the purview of deities who charge their followers to shield the weak from the strong. The gods' faithful dwell in villages and towns on the borderlands, where they help bolster defenses and seek out evils to defeat. These gods believe that a strong shield and a suit of armor is the best defense against evil, second only to a stout mace on hand to respond to any attacks in kind. Deities who grant this domain include Helm, Ilmater, Torm, Tyr, Heironeous, St. Cuthbert, Paladine, Dol Dorn, the Silver Flame, Bahamut, Yondalla, Athena, and Odin.
+        <text>The protection domain is the purview of deities who charge their followers to shield the weak from the strong. The gods&apos; faithful dwell in villages and towns on the borderlands, where they help bolster defenses and seek out evils to defeat. These gods believe that a strong shield and a suit of armor is the best defense against evil, second only to a stout mace on hand to respond to any attacks in kind. Deities who grant this domain include Helm, Ilmater, Torm, Tyr, Heironeous, St. Cuthbert, Paladine, Dol Dorn, the Silver Flame, Bahamut, Yondalla, Athena, and Odin.
 
 At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.
 
@@ -228,7 +228,7 @@ Source:	Unearthed Arcana: Cleric Divine Domains p. 3</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Protection Domain (UA): Blessed Healer</name>
-        <text>Beginning at 6th level, the healing spells you cast on others can heal you as well. When you cast a spell with a spell slot and it restores hit points to any creature other than you this turn, you regain hit points equal to 2 + the spell's level.
+        <text>Beginning at 6th level, the healing spells you cast on others can heal you as well. When you cast a spell with a spell slot and it restores hit points to any creature other than you this turn, you regain hit points equal to 2 + the spell&apos;s level.
 
 Source:	Unearthed Arcana: Cleric Divine Domains p. 3</text>
       </feature>

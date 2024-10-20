@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <background>
     <name>Strixhaven Lorehold Student [2014]</name>
     <proficiency>History, Religion</proficiency>
     <trait>
       <name>Description</name>
-      <text>You have spent your youth preparing to be a student of Lorehold College, reading every book on the college's recommended reading list for prospective students. Your academic passions are in the broad field of history. You might dream of using magic to contact great historical figures or your own ancestors or of recreating the mighty magic of a distant age.
+      <text>You have spent your youth preparing to be a student of Lorehold College, reading every book on the college&apos;s recommended reading list for prospective students. Your academic passions are in the broad field of history. You might dream of using magic to contact great historical figures or your own ancestors or of recreating the mighty magic of a distant age.
 
 	• Skill Proficiencies: History, Religion
 	• Languages: Two of your choice
@@ -33,11 +34,11 @@ Consider customizing how your spells look when you cast them. Your Lorehold spel
       <name>Building a Lorehold Character</name>
       <text>Any class or subclass that deals with knowledge of the past can be a good fit in Lorehold. Bards thrive in Lorehold, and wizards (particularly those of the School of Divination) are numerous among its students. Clerics (often with the Knowledge or Light domains) are also quite common.
 
-For a more unusual take on a Lorehold student, you could consider playing a barbarian with a primal connection to the past (perhaps adopting the Path of the Ancestral Guardian from Xanathar's Guide to Everything) or a paladin whose Oath of the Ancients gives a concrete link to history.</text>
+For a more unusual take on a Lorehold student, you could consider playing a barbarian with a primal connection to the past (perhaps adopting the Path of the Ancestral Guardian from Xanathar&apos;s Guide to Everything) or a paladin whose Oath of the Ancients gives a concrete link to history.</text>
     </trait>
     <trait>
       <name>Lorehold Trinkets</name>
-      <text>When you make your character, you may roll once on the Lorehold Trinkets table, instead of on the Trinkets table in the Player's Handbook, for your starting trinket.
+      <text>When you make your character, you may roll once on the Lorehold Trinkets table, instead of on the Trinkets table in the Player&apos;s Handbook, for your starting trinket.
 
 Lorehold Trinkets:
 d6 | Trinket
@@ -57,8 +58,8 @@ d6 | Personality Trait
 2 | By searching for these lost artifacts, I hope to find who I really am along the way.
 3 | I can barely go a minute without talking about my research. I have so much knowledge in my head, and it needs to be let out somewhere!
 4 | The spirits of the dead are so much more interesting to talk with than living classmates.
-5 | I can speak eloquently about the historical ramifications of an ancient war. But ask me to add two-digit numbers together, and I'm a mess.
-6 | In the end, it's all just entropy. Everything falls apart someday.</text>
+5 | I can speak eloquently about the historical ramifications of an ancient war. But ask me to add two-digit numbers together, and I&apos;m a mess.
+6 | In the end, it&apos;s all just entropy. Everything falls apart someday.</text>
     </trait>
   </background>
   <background>
@@ -69,9 +70,9 @@ d6 | Personality Trait
       <text>You are an artist, and you have been preparing to hone your craft according to the traditions of Prismari College. Whatever your medium—sculpture, dance, paint, music, drama, architecture, or any other field—you have grand visions of bringing your art to life in a fusion of magic and creativity.
 
 	• Skill Proficiencies: Acrobatics, Performance
-	• Tool Proficiencies: One type of musical instrument or artisan's tools
+	• Tool Proficiencies: One type of musical instrument or artisan&apos;s tools
 	• Languages: One of your choice
-	• Equipment: A bottle of black ink, an ink pen, a set of artisan's tools or a musical instrument (one of your choice), a school uniform, and a pouch containing 10 gp
+	• Equipment: A bottle of black ink, an ink pen, a set of artisan&apos;s tools or a musical instrument (one of your choice), a school uniform, and a pouch containing 10 gp
 
 Source:	Strixhaven: A Curriculum of Chaos p. 32</text>
     </trait>
@@ -93,13 +94,13 @@ Consider customizing how your spells look when you cast them. You might wield yo
     </trait>
     <trait>
       <name>Building a Prismari Character</name>
-      <text>Any class or subclass that wields elemental forces of cold, fire, lightning, and wind can be a good fit in Prismari. Druids and sorcerers are common in Prismari, and wizards who study the Schools of Evocation or Transmutation are also well represented. Clerics aren't very common in this school, but some with the Tempest domain end up here.
+      <text>Any class or subclass that wields elemental forces of cold, fire, lightning, and wind can be a good fit in Prismari. Druids and sorcerers are common in Prismari, and wizards who study the Schools of Evocation or Transmutation are also well represented. Clerics aren&apos;t very common in this school, but some with the Tempest domain end up here.
 
 Beyond the ranks of traditional spellcasters, Prismari students also include monks who follow the Way of the Four Elements. Some acrobatic rogues and fighters (including those who emulate the archetype of the Eldritch Knight) also delight in the athleticism of Prismari performance.</text>
     </trait>
     <trait>
       <name>Prismari Trinkets</name>
-      <text>When you make your character, you may roll once on the Prismari Trinkets table, instead of on the Trinkets table in the Player's Handbook, for your starting trinket.
+      <text>When you make your character, you may roll once on the Prismari Trinkets table, instead of on the Trinkets table in the Player&apos;s Handbook, for your starting trinket.
 
 Prismari Trinkets:
 d6 | Trinket
@@ -115,11 +116,11 @@ d6 | Trinket
       <text>Though the curriculum of Prismari College attracts many outgoing and driven artists, the school has no shortage of shy scholars and lackadaisical blowhards among its ranks. The Prismari Personality Traits table suggests a variety of traits you might adopt for your character.
 
 d6 | Personality Trait
-1 | I'm the life of the party, and I expect everyone's attention when I walk into a room.
-2 | Two weeks ago, I was enthralled with my latest project. Now, I think it's garbage and deserves to be destroyed.
-3 | I believe everyone has the ability to express their truest selves through art, and I'm happy to quietly push them in the right direction.
+1 | I&apos;m the life of the party, and I expect everyone&apos;s attention when I walk into a room.
+2 | Two weeks ago, I was enthralled with my latest project. Now, I think it&apos;s garbage and deserves to be destroyed.
+3 | I believe everyone has the ability to express their truest selves through art, and I&apos;m happy to quietly push them in the right direction.
 4 | Everyone is a critic, and I work to win them all over.
-5 | I'm beset with such an overwhelming sense of ennui regarding my art. Nothing quite captures my attention anymore.
+5 | I&apos;m beset with such an overwhelming sense of ennui regarding my art. Nothing quite captures my attention anymore.
 6 | Instead of confronting my negative emotions, I channel them into explosive artistic displays.</text>
     </trait>
   </background>
@@ -128,10 +129,10 @@ d6 | Personality Trait
     <proficiency>Arcana, Nature</proficiency>
     <trait>
       <name>Description</name>
-      <text>In preparation to become a student of Quandrix College, you have spent years working through the college's math problems for prospective students. Your interests concentrate on the mathematical principles and patterns found in the natural world. You might lean more toward mathematics or physics, or you delve into more abstract studies of metaphysics, arcana, or logic.
+      <text>In preparation to become a student of Quandrix College, you have spent years working through the college&apos;s math problems for prospective students. Your interests concentrate on the mathematical principles and patterns found in the natural world. You might lean more toward mathematics or physics, or you delve into more abstract studies of metaphysics, arcana, or logic.
 
 	• Skill Proficiencies: Arcana, Nature
-	• Tool Proficiencies: One type of artisan's tools
+	• Tool Proficiencies: One type of artisan&apos;s tools
 	• Languages: One of your choice
 	• Equipment: A bottle of black ink, an ink pen, an abacus, a book of arcane theory, a school uniform, and a pouch containing 15 gp
 
@@ -161,7 +162,7 @@ Aside from traditional spellcasters, a few characters of other classes find home
     </trait>
     <trait>
       <name>Quandrix Trinkets</name>
-      <text>When you make your character, you may roll once on the Quandrix Trinkets table, instead of on the Trinkets table in the Player's Handbook, for your starting trinket.
+      <text>When you make your character, you may roll once on the Quandrix Trinkets table, instead of on the Trinkets table in the Player&apos;s Handbook, for your starting trinket.
 
 Quandrix Trinkets:
 d6 | Trinket
@@ -177,11 +178,11 @@ d6 | Trinket
       <text>With subjects ranging from the physical and tangible to the paradoxical and strange, the student body of Quandrix College includes an eclectic mix of individuals. The Quandrix Personality Traits table suggests a variety of traits you might adopt for your character.
 
 d6 | Personality Trait
-1 | When I find a subject I'm interested in, I won't stop studying until I know everything about it. It keeps me up at night.
-2 | I hope this all makes sense to me one day. Until then, I'm going to keep faking it.
+1 | When I find a subject I&apos;m interested in, I won&apos;t stop studying until I know everything about it. It keeps me up at night.
+2 | I hope this all makes sense to me one day. Until then, I&apos;m going to keep faking it.
 3 | Equations and patterns come naturally to my mind. I wish friendship came just as easily.
-4 | I believe I'm always the smartest person in the room. And I'll prove it, even if no one asks me to.
-5 | If these classes have taught me anything, it's that reality is a lie, and nothing matters. So why bother?
+4 | I believe I&apos;m always the smartest person in the room. And I&apos;ll prove it, even if no one asks me to.
+5 | If these classes have taught me anything, it&apos;s that reality is a lie, and nothing matters. So why bother?
 6 | Before I graduate, I want to achieve something mathematically impossible. I must leave a legacy!</text>
     </trait>
   </background>
@@ -210,9 +211,9 @@ Level | Spells
 2nd | Calm Emotions, Darkness
 3rd | Beacon of Hope, Daylight
 4th | Compulsion, Confusion
-5th | Dominate Person, Rary's Telepathic Bond
+5th | Dominate Person, Rary&apos;s Telepathic Bond
 
-Consider customizing how your spells look when you cast them. Your Silverquill spells might be accompanied by visual effects resembling splotches of ink or radiating ripples of golden light. Any auditory effects of your spells often sound like amplified echoes of your own voice speaking the spells' verbal components—even amid the crash of lightning or a fiery eruption.</text>
+Consider customizing how your spells look when you cast them. Your Silverquill spells might be accompanied by visual effects resembling splotches of ink or radiating ripples of golden light. Any auditory effects of your spells often sound like amplified echoes of your own voice speaking the spells&apos; verbal components—even amid the crash of lightning or a fiery eruption.</text>
     </trait>
     <trait>
       <name>Building a Silverquill Character</name>
@@ -222,28 +223,28 @@ A number of both paladins and rogues attend Silverquill College as well, highlig
     </trait>
     <trait>
       <name>Silverquill Trinkets</name>
-      <text>When you make your character, you may roll once on the Silverquill Trinkets table, instead of on the Trinkets table in the Player's Handbook, for your starting trinket.
+      <text>When you make your character, you may roll once on the Silverquill Trinkets table, instead of on the Trinkets table in the Player&apos;s Handbook, for your starting trinket.
 
 Silverquill Trinkets:
 d6 | Trinket
 1 | A black leather notebook filled with half-finished poems
 2 | A set of flashcards detailing different colloquialisms and their meanings
 3 | A canteen that makes any liquid drunk from it taste sweet
-4 | A forged permission slip granting access to the special archives of Strixhaven's libraries
+4 | A forged permission slip granting access to the special archives of Strixhaven&apos;s libraries
 5 | A stylish silver pin that references a famous series of novels about warlocks
-6 | A stack of small pieces of parchment, each enchanted to stick to whatever surface it's pressed against and peel off easily</text>
+6 | A stack of small pieces of parchment, each enchanted to stick to whatever surface it&apos;s pressed against and peel off easily</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>With the college's intense standards looming over them, Silverquill students range from cocky and cutthroat to overwhelmed perfectionists. The Silverquill Personality Traits table suggests a variety of traits you might adopt for your character.
+      <text>With the college&apos;s intense standards looming over them, Silverquill students range from cocky and cutthroat to overwhelmed perfectionists. The Silverquill Personality Traits table suggests a variety of traits you might adopt for your character.
 
 d6 | Personality Trait
-1 | I'll say whatever I need to in order to maintain my high social status.
-2 | I prefer saying the blunt truth over a pretty lie, and I don't particularly care whose feelings I hurt.
+1 | I&apos;ll say whatever I need to in order to maintain my high social status.
+2 | I prefer saying the blunt truth over a pretty lie, and I don&apos;t particularly care whose feelings I hurt.
 3 | I believe that uplifting my peers is the best way to succeed.
-4 | I've mastered the art of using humor as a defense, and I always have a charming joke ready.
+4 | I&apos;ve mastered the art of using humor as a defense, and I always have a charming joke ready.
 5 | I always wait before speaking, analyzing the situation for whichever angle is most advantageous to my goals.
-6 | No one knows about the all-nighters I've pulled to keep my magic looking effortless, and I'm going to keep it that way.</text>
+6 | No one knows about the all-nighters I&apos;ve pulled to keep my magic looking effortless, and I&apos;m going to keep it that way.</text>
     </trait>
   </background>
   <background>
@@ -278,13 +279,13 @@ Consider customizing how your spells look when you cast them. Your Witherbloom s
     </trait>
     <trait>
       <name>Building a Witherbloom Character</name>
-      <text>Druids and warlocks make up most of Witherbloom's student body. A few wizards (mostly those who study the School of Necromancy) and clerics (including those with the Divine Domains of Life or Nature) also find their home in Witherbloom.
+      <text>Druids and warlocks make up most of Witherbloom&apos;s student body. A few wizards (mostly those who study the School of Necromancy) and clerics (including those with the Divine Domains of Life or Nature) also find their home in Witherbloom.
 
 A number of rangers and barbarians study at Witherbloom as well, and some rogues learn how to create and use poisons during their studies at this college.</text>
     </trait>
     <trait>
       <name>Witherbloom Trinkets</name>
-      <text>When you make your character, you may roll once on the Witherbloom Trinkets table, instead of on the Trinkets table in the Player's Handbook, for your starting trinket.
+      <text>When you make your character, you may roll once on the Witherbloom Trinkets table, instead of on the Trinkets table in the Player&apos;s Handbook, for your starting trinket.
 
 Witherbloom Trinkets:
 d6 | Trinket
@@ -302,10 +303,10 @@ d6 | Trinket
 d6 | Personality Trait
 1 | I love brewing up a new recipe, even if some might be repulsed by my choice of ingredients. Or the final product. Or both.
 2 | My fashion sense is like my garden: withered, black, and weird.
-3 | I'm going to befriend every single monster in this swamp if it's the last thing I do.
+3 | I&apos;m going to befriend every single monster in this swamp if it&apos;s the last thing I do.
 4 | Everything in this world dies eventually. The question is, what will you do with the time you have left?
 5 | I know we just met, but when you die, may I have your bones? For research.
-6 | Don't interrupt me; I'm brooding.</text>
+6 | Don&apos;t interrupt me; I&apos;m brooding.</text>
     </trait>
   </background>
 </compendium>

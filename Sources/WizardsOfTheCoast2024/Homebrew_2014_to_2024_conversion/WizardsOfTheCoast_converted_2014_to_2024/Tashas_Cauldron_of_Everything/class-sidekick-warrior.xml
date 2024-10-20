@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <class>
     <name>Warrior Sidekick [2014]</name>
@@ -16,7 +17,7 @@
 
 A sidekick gains the following class features as it gains levels in this class, as summarized on the Warrior table.
 
-Source:	Tasha's Cauldron of Everything p. 146</text>
+Source:	Tasha&apos;s Cauldron of Everything p. 146</text>
       </feature>
     </autolevel>
 
@@ -29,7 +30,7 @@ In addition, the sidekick gains proficiency in two skills of your choice from th
 
 The sidekick gains proficiency with all armor, and if it is a humanoid or has a simple or martial weapon in its stat block, it gains proficiency with shields and all simple and martial weapons.
 
-Source:	Tasha's Cauldron of Everything p. 146</text>
+Source:	Tasha&apos;s Cauldron of Everything p. 146</text>
       </feature>
     </autolevel>
 
@@ -40,9 +41,9 @@ Source:	Tasha's Cauldron of Everything p. 146</text>
 
 Attacker: The sidekick gains a +2 bonus to all attack rolls.
 
-Defender: The sidekick can use its reaction to impose disadvantage on the attack roll of a creature within 5 feet of it whose target isn't the sidekick, provided the sidekick can see the attacker.
+Defender: The sidekick can use its reaction to impose disadvantage on the attack roll of a creature within 5 feet of it whose target isn&apos;t the sidekick, provided the sidekick can see the attacker.
 
-Source:	Tasha's Cauldron of Everything p. 146</text>
+Source:	Tasha&apos;s Cauldron of Everything p. 146</text>
       </feature>
     </autolevel>
 
@@ -53,25 +54,25 @@ Source:	Tasha's Cauldron of Everything p. 146</text>
 
 The sidekick can use this feature twice between rests starting at 20th level.
 
-Source:	Tasha's Cauldron of Everything p. 146</text>
+Source:	Tasha&apos;s Cauldron of Everything p. 146</text>
       </feature>
     </autolevel>
 
     <autolevel level="3">
       <feature>
         <name>Improved Critical</name>
-        <text>Starting at 3rd level, the sidekick's attack rolls score a critical hit on a roll of 19 or 20 on the d20.
+        <text>Starting at 3rd level, the sidekick&apos;s attack rolls score a critical hit on a roll of 19 or 20 on the d20.
 
-Source:	Tasha's Cauldron of Everything p. 146</text>
+Source:	Tasha&apos;s Cauldron of Everything p. 146</text>
       </feature>
     </autolevel>
 
     <autolevel level="4" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+        <text>When you reach 4th level, and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can&apos;t increase an ability score above 20 using this feature.
 
-Source:	Tasha's Cauldron of Everything p. 146</text>
+Source:	Tasha&apos;s Cauldron of Everything p. 146</text>
       </feature>
     </autolevel>
     <autolevel level="6">
@@ -83,7 +84,7 @@ The number of attacks increases to three when the sidekick reaches 15th level.
 
 If the sidekick has the Multiattack action, it can use Extra Attack or Multiattack on a turn, not both.
 
-Source:	Tasha's Cauldron of Everything p. 147</text>
+Source:	Tasha&apos;s Cauldron of Everything p. 147</text>
       </feature>
     </autolevel>
 
@@ -92,25 +93,25 @@ Source:	Tasha's Cauldron of Everything p. 147</text>
         <name>Battle Readiness</name>
         <text>After the sidekick reaches 7th level, it has advantage on initiative rolls.
 
-Source:	Tasha's Cauldron of Everything p. 147</text>
+Source:	Tasha&apos;s Cauldron of Everything p. 147</text>
       </feature>
     </autolevel>
 
     <autolevel level="8" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+        <text>When you reach 4th level, and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can&apos;t increase an ability score above 20 using this feature.
 
-Source:	Tasha's Cauldron of Everything p. 146</text>
+Source:	Tasha&apos;s Cauldron of Everything p. 146</text>
       </feature>
     </autolevel>
 
     <autolevel level="10">
       <feature>
         <name>Improved Defense</name>
-        <text>At 10th level, the sidekick's Armor Class increases by 1.
+        <text>At 10th level, the sidekick&apos;s Armor Class increases by 1.
 
-Source:	Tasha's Cauldron of Everything p. 147</text>
+Source:	Tasha&apos;s Cauldron of Everything p. 147</text>
         <modifier category="bonus">ac +1</modifier>
       </feature>
     </autolevel>
@@ -118,47 +119,47 @@ Source:	Tasha's Cauldron of Everything p. 147</text>
     <autolevel level="11">
       <feature>
         <name>Indomitable</name>
-        <text>Starting at 11th level, the sidekick can reroll a saving throw that it fails, but it must use the new roll. When it uses this feature, it can't use the feature again unless it finishes a long rest.
+        <text>Starting at 11th level, the sidekick can reroll a saving throw that it fails, but it must use the new roll. When it uses this feature, it can&apos;t use the feature again unless it finishes a long rest.
 
 The sidekick can use this feature twice between long rests starting at 18th level.
 
-Source:	Tasha's Cauldron of Everything p. 147</text>
+Source:	Tasha&apos;s Cauldron of Everything p. 147</text>
       </feature>
     </autolevel>
 
     <autolevel level="12" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+        <text>When you reach 4th level, and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can&apos;t increase an ability score above 20 using this feature.
 
-Source:	Tasha's Cauldron of Everything p. 146</text>
+Source:	Tasha&apos;s Cauldron of Everything p. 146</text>
       </feature>
     </autolevel>
 
     <autolevel level="14" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+        <text>When you reach 4th level, and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can&apos;t increase an ability score above 20 using this feature.
 
-Source:	Tasha's Cauldron of Everything p. 146</text>
+Source:	Tasha&apos;s Cauldron of Everything p. 146</text>
       </feature>
     </autolevel>
 
     <autolevel level="16" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+        <text>When you reach 4th level, and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can&apos;t increase an ability score above 20 using this feature.
 
-Source:	Tasha's Cauldron of Everything p. 146</text>
+Source:	Tasha&apos;s Cauldron of Everything p. 146</text>
       </feature>
     </autolevel>
 
     <autolevel level="19" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+        <text>When you reach 4th level, and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can&apos;t increase an ability score above 20 using this feature.
 
-Source:	Tasha's Cauldron of Everything p. 146</text>
+Source:	Tasha&apos;s Cauldron of Everything p. 146</text>
       </feature>
     </autolevel>
   </class>

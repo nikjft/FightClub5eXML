@@ -20,7 +20,7 @@ Source:	The Mad Scientist by u/Camunon p. 2 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>The Mad Scientist (HB): Pseudoscience Manipulation</name>
-        <text>When you adopt this specialization at 3rd level, you gain proficiency with one type of artisan's tools of your choice.
+        <text>When you adopt this specialization at 3rd level, you gain proficiency with one type of artisan&apos;s tools of your choice.
 
 Additionally, you have a bonus of +1 to all your Intelligence (Arcana), Intelligence (History), Intelligence (Investigation), Wisdom (Medicine) and Wisdom (Survival) ability checks. This increases to +2 when you reach 12th level.
 
@@ -28,7 +28,7 @@ Source:	The Mad Scientist by u/Camunon p. 2 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>The Mad Scientist (HB): Mad Scientist Spells</name>
-        <text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Mad Scientist Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
+        <text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Mad Scientist Spells table. These spells count as artificer spells for you, but they don&apos;t count against the number of artificer spells you prepare.
 
 Mad Scientist Spell List:
 Artificer Level | Spell
@@ -52,7 +52,7 @@ Source:	The Mad Scientist by u/Camunon p. 2 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>The Mad Scientist (HB): Crazy Contraption</name>
-        <text>At 3rd level, your unbridled genius gives you a knack for inventing the unthinkable, usually in disregard of your own safety. This may be channeled into a flash of inspiration, allowing you to build an insane gadget of unprecedented design. Using tinker's tools or smith's tools, you can spend 1 hour building the contraption in an unoccupied space on a horizontal surface within 5 feet of you.
+        <text>At 3rd level, your unbridled genius gives you a knack for inventing the unthinkable, usually in disregard of your own safety. This may be channeled into a flash of inspiration, allowing you to build an insane gadget of unprecedented design. Using tinker&apos;s tools or smith&apos;s tools, you can spend 1 hour building the contraption in an unoccupied space on a horizontal surface within 5 feet of you.
 
 Have your DM roll on the Crazy Contraption table, and then describe to you the resulting creation.
 
@@ -73,7 +73,7 @@ Source:	The Mad Scientist by u/Camunon p. 2 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>The Mad Scientist (HB): Expanded Contraptions</name>
-        <text>If you truly wish to bring up the craziness with your character, crank it up to eleven, and blow it out of the tavern, then you may opt to use this expanded d20 list with 14 new options, instead of the usual d6 one. You may also feel free to remove or add any number of your own options, as well as mix them around in the table. The objective is to maximize the amount of fun gained when roleplaying this archetype, so the only real limit here is your imagination (and the DM's patience for your shenanigans)
+        <text>If you truly wish to bring up the craziness with your character, crank it up to eleven, and blow it out of the tavern, then you may opt to use this expanded d20 list with 14 new options, instead of the usual d6 one. You may also feel free to remove or add any number of your own options, as well as mix them around in the table. The objective is to maximize the amount of fun gained when roleplaying this archetype, so the only real limit here is your imagination (and the DM&apos;s patience for your shenanigans)
 
 When using Omnifabrication, you may choose to build a temporary version of an item from this list, instead of picking a 3rd level feature from a different Artificer Specialization. If adhering by this optional rule, the requirement to roll a d6 each time you activate your chosen item is changed to a d8.
 

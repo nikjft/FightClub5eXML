@@ -8,9 +8,9 @@
     <time>1 action</time>
     <duration>Instantaneous</duration>
     <range>Self (40-foot cone)</range>
-    <components>V, S, M (a dove's feather)</components>
+    <components>V, S, M (a dove&apos;s feather)</components>
     <classes>School: Conjuration, Cleric, Paladin, Warlock, Wizard</classes>
-    <text>You test the confidence of a group of creatures before the gods by conjuring a vision of the upper planes. Each creature in a 40-foot cone in a direction you choose must make a Charisma saving throw. On a failed save, a creature takes 5d6 radiant damage and is stunned until the end of its next turn by the incomprehensible glories that it sees. On a successful save, it takes half as much damage and isn't stunned.
+    <text>You test the confidence of a group of creatures before the gods by conjuring a vision of the upper planes. Each creature in a 40-foot cone in a direction you choose must make a Charisma saving throw. On a failed save, a creature takes 5d6 radiant damage and is stunned until the end of its next turn by the incomprehensible glories that it sees. On a successful save, it takes half as much damage and isn&apos;t stunned.
 
 At Higher Levels:
 When you cast this spell using a spell slot of 5th level or higher, the size of the cone increases by 10 feet for each slot level above 4th.
@@ -346,7 +346,7 @@ Creatures that start their turn within 10 feet of the puppet must make an Intell
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 61 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Dartak's Retribution (HB)</name>
+    <name>Dartak&apos;s Retribution (HB)</name>
     <level>4</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -411,7 +411,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 62 (Homebrew)</text>
     <roll description="Level 17">5d6</roll>
   </spell>
   <spell>
-    <name>Elminster's Evoked Delivery (HB)</name>
+    <name>Elminster&apos;s Evoked Delivery (HB)</name>
     <level>3</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -420,7 +420,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 62 (Homebrew)</text>
     <range>Unlimited</range>
     <components>V, S, M (a small bit of sealing wax, which the spell consumes)</components>
     <classes>School: Evocation, Artificer, Bard, Sorcerer, Wizard</classes>
-    <text>You instantaneously shunt an object through the fabric of space to a willing creature with which you are familiar. The object can be no larger than 1 foot on a side and weigh no more than 10 pounds. When you cast the spell, the recipient is magically informed what the object is. If the creature is willing, the object appears in empty space within 5 feet of the creature (the creature's choice). If the creature is on another plane of existence, is incapacitated, is proofed against magical detection or location, or is unwilling to receive the object, the spell fails.
+    <text>You instantaneously shunt an object through the fabric of space to a willing creature with which you are familiar. The object can be no larger than 1 foot on a side and weigh no more than 10 pounds. When you cast the spell, the recipient is magically informed what the object is. If the creature is willing, the object appears in empty space within 5 feet of the creature (the creature&apos;s choice). If the creature is on another plane of existence, is incapacitated, is proofed against magical detection or location, or is unwilling to receive the object, the spell fails.
 
 At Higher Levels:
 When you cast this spell using a spell slot of 4th level or higher, the maximum dimensions increase by both 1 foot on each side and 10 pounds for each slot level above 3rd.
@@ -481,7 +481,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 63 (Homebrew)</text>
     <roll>1d4</roll>
   </spell>
   <spell>
-    <name>Nystul's False Trail (HB)</name>
+    <name>Nystul&apos;s False Trail (HB)</name>
     <level>4</level>
     <school>I</school>
     <ritual>NO</ritual>
@@ -518,7 +518,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 64 (Homebrew)</text>
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 64 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Tenser's Climbing Wall (HB)</name>
+    <name>Tenser&apos;s Climbing Wall (HB)</name>
     <level>2</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -591,7 +591,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 65 (Homebrew)</text>
     <range>Self (30 foot line)</range>
     <components>V, S</components>
     <classes>School: Conjuration, Artificer, Druid, Sorcerer, Wizard</classes>
-    <text>A stroke of electricity forming a line 30 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must succeed on a Dexterity saving throw or take 1d6 lightning damage. The electricity ignites flammable objects in the area that aren't being worn or carried.
+    <text>A stroke of electricity forming a line 30 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must succeed on a Dexterity saving throw or take 1d6 lightning damage. The electricity ignites flammable objects in the area that aren&apos;t being worn or carried.
 
 This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 

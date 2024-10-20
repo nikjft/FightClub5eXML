@@ -9,7 +9,7 @@
     <spellAbility/>
     <trait>
       <name>Description</name>
-      <text>Aetherborn come into being spontaneously as part of the aether refinement process. Their bodies and minds are apparently formed out of some interaction between the volatile elements of aether that are removed during refinement and the psychic impressions created by the people involved in the process. But each aetherborn is a unique individual, not a mere copy of some other person's mind and shape. This race is little understood, and few aetherborn are willing to waste any of their short lives allowing vedalken scholars to study their biological and psychological characteristics.
+      <text>Aetherborn come into being spontaneously as part of the aether refinement process. Their bodies and minds are apparently formed out of some interaction between the volatile elements of aether that are removed during refinement and the psychic impressions created by the people involved in the process. But each aetherborn is a unique individual, not a mere copy of some other person&apos;s mind and shape. This race is little understood, and few aetherborn are willing to waste any of their short lives allowing vedalken scholars to study their biological and psychological characteristics.
 
 Aetherborn are a strange living by-product of the process of aether refinement, cast in humanoid form but lacking any of the biological qualities of other races. They don't eat or sleep, and they don't reproduce—nor do they have any physical sexual characteristics. Language that categorizes people into male or female categories thus breaks down when it comes to aetherborn. Most aetherborn prefer that others use the pronoun "they" to refer to them, since it doesn't attribute a gender that they don't possess. Only a relative few prefer "he" or "she" having chosen to adopt a gender.
 
@@ -29,7 +29,7 @@ Source:	Plane Shift: Kaladesh p. 17 (Third Party)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Thanks to your heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Thanks to your heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Born of Aether</name>
@@ -71,7 +71,7 @@ Source:	Plane Shift: Kaladesh p. 19 (Third Party)</text>
     </trait>
     <trait>
       <name>Life Span</name>
-      <text>Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.</text>
+      <text>Dwarves mature at the same rate as humans, but they&apos;re considered young until they reach the age of 50. On average, they live about 350 years.</text>
     </trait>
     <trait>
       <name>Alignment</name>
@@ -93,7 +93,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Accustomed to life underground in your race's ancient past, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Accustomed to life underground in your race&apos;s ancient past, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Dwarven Resilience</name>
@@ -105,8 +105,8 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
       <modifier category="bonus">HP +1</modifier>
     </trait>
     <trait>
-      <name>Artisan's Expertise</name>
-      <text>You gain proficiency with two kinds of artisan's tools of your choice. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. In addition, whenever you make an Intelligence (History) check related to the origin of any architectural construction (including buildings, public works such as canals and aqueducts, and the massive cogwork that underlies much of the construction of Ghirapur), you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.</text>
+      <name>Artisan&apos;s Expertise</name>
+      <text>You gain proficiency with two kinds of artisan&apos;s tools of your choice. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. In addition, whenever you make an Intelligence (History) check related to the origin of any architectural construction (including buildings, public works such as canals and aqueducts, and the massive cogwork that underlies much of the construction of Ghirapur), you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -136,7 +136,7 @@ Source:	Plane Shift: Kaladesh p. 21 (Third Party)</text>
     </trait>
     <trait>
       <name>Alignment</name>
-      <text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.</text>
+      <text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others&apos; freedom as well as their own, and they are more often good than not.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -150,7 +150,7 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Keen Senses</name>
@@ -162,11 +162,11 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Fey Ancestry</name>
-      <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
+      <text>You have advantage on saving throws against being charmed, and magic can&apos;t put you to sleep.</text>
     </trait>
     <trait>
       <name>Trance</name>
-      <text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+      <text>Elves don&apos;t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
 
 If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.</text>
     </trait>
@@ -204,7 +204,7 @@ Source:	Plane Shift: Kaladesh p. 21 (Third Party)</text>
     </trait>
     <trait>
       <name>Alignment</name>
-      <text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.</text>
+      <text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others&apos; freedom as well as their own, and they are more often good than not.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -218,7 +218,7 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Keen Senses</name>
@@ -230,11 +230,11 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Fey Ancestry</name>
-      <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
+      <text>You have advantage on saving throws against being charmed, and magic can&apos;t put you to sleep.</text>
     </trait>
     <trait>
       <name>Trance</name>
-      <text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+      <text>Elves don&apos;t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
 
 If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.</text>
     </trait>

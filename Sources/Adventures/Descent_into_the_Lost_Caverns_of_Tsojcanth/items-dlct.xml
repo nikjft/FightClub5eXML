@@ -10,7 +10,7 @@
     <property/>
     <ac>16</ac>
     <strength>13</strength>
-    <text>This magic armor appears as a pot of bubbling black ichor. When you attune to it, the ichor adheres to and contours to your skin, and the pot disappears. The armor can be worn under normal clothes, and it doesn't impede bodily functions. Once you put it on, it can't be removed unless you choose to do so or you die, at which point the pot reappears and the ichor flows back into it.
+    <text>This magic armor appears as a pot of bubbling black ichor. When you attune to it, the ichor adheres to and contours to your skin, and the pot disappears. The armor can be worn under normal clothes, and it doesn&apos;t impede bodily functions. Once you put it on, it can&apos;t be removed unless you choose to do so or you die, at which point the pot reappears and the ichor flows back into it.
 
 While wearing the armor, you have resistance to poison damage. The armor also doesn't impose disadvantage on Dexterity (Stealth) checks.
 
@@ -31,7 +31,7 @@ Source:	Descent into the Lost Caverns of Tsojcanth p. 14,
     <property/>
     <ac>18</ac>
     <strength>15</strength>
-    <text>This magic armor appears as a pot of bubbling black ichor. When you attune to it, the ichor adheres to and contours to your skin, and the pot disappears. The armor can be worn under normal clothes, and it doesn't impede bodily functions. Once you put it on, it can't be removed unless you choose to do so or you die, at which point the pot reappears and the ichor flows back into it.
+    <text>This magic armor appears as a pot of bubbling black ichor. When you attune to it, the ichor adheres to and contours to your skin, and the pot disappears. The armor can be worn under normal clothes, and it doesn&apos;t impede bodily functions. Once you put it on, it can&apos;t be removed unless you choose to do so or you die, at which point the pot reappears and the ichor flows back into it.
 
 While wearing the armor, you have resistance to poison damage. The armor also doesn't impose disadvantage on Dexterity (Stealth) checks.
 
@@ -51,7 +51,7 @@ Source:	Descent into the Lost Caverns of Tsojcanth p. 14,
     <value/>
     <property/>
     <ac>14</ac>
-    <text>This magic armor appears as a pot of bubbling black ichor. When you attune to it, the ichor adheres to and contours to your skin, and the pot disappears. The armor can be worn under normal clothes, and it doesn't impede bodily functions. Once you put it on, it can't be removed unless you choose to do so or you die, at which point the pot reappears and the ichor flows back into it.
+    <text>This magic armor appears as a pot of bubbling black ichor. When you attune to it, the ichor adheres to and contours to your skin, and the pot disappears. The armor can be worn under normal clothes, and it doesn&apos;t impede bodily functions. Once you put it on, it can&apos;t be removed unless you choose to do so or you die, at which point the pot reappears and the ichor flows back into it.
 
 While wearing the armor, you have resistance to poison damage. The armor also doesn't impose disadvantage on Dexterity (Stealth) checks.
 
@@ -70,7 +70,7 @@ Source:	Descent into the Lost Caverns of Tsojcanth p. 14,
     <property/>
     <ac>17</ac>
     <strength>15</strength>
-    <text>This magic armor appears as a pot of bubbling black ichor. When you attune to it, the ichor adheres to and contours to your skin, and the pot disappears. The armor can be worn under normal clothes, and it doesn't impede bodily functions. Once you put it on, it can't be removed unless you choose to do so or you die, at which point the pot reappears and the ichor flows back into it.
+    <text>This magic armor appears as a pot of bubbling black ichor. When you attune to it, the ichor adheres to and contours to your skin, and the pot disappears. The armor can be worn under normal clothes, and it doesn&apos;t impede bodily functions. Once you put it on, it can&apos;t be removed unless you choose to do so or you die, at which point the pot reappears and the ichor flows back into it.
 
 While wearing the armor, you have resistance to poison damage. The armor also doesn't impose disadvantage on Dexterity (Stealth) checks.
 
@@ -83,7 +83,7 @@ Source:	Descent into the Lost Caverns of Tsojcanth p. 14,
   </item>
 
   <item>
-    <name>Iggwilv's Horn</name>
+    <name>Iggwilv&apos;s Horn</name>
     <detail>Instrument, rare (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -131,7 +131,7 @@ The potion is separated into seven brightly colored bands of immiscible liquids 
 Source:	Descent into the Lost Caverns of Tsojcanth p. 15</text>
   </item>
   <item>
-    <name>Tasha's Creeping Keelboat</name>
+    <name>Tasha&apos;s Creeping Keelboat</name>
     <detail>Vehicle (land/water), very rare (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>

@@ -76,7 +76,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 12 (Homebrew)</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Martial Archetype: Warlord (HB)</name>
-        <text>A warlord is a leader among fighters, a skilled commander gifted with tactical genius and keen insight. Warlords draw from their experiences and the maneuvers and tactics used by their predecessors to dictate a battle's terms.
+        <text>A warlord is a leader among fighters, a skilled commander gifted with tactical genius and keen insight. Warlords draw from their experiences and the maneuvers and tactics used by their predecessors to dictate a battle&apos;s terms.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 13 (Homebrew)</text>
       </feature>
@@ -93,7 +93,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 13 (Homebrew)</text>
 Source:	Mordenkainen's Codex of Allies v1.3 p. 13 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Warlord (HB): Commander's Presence</name>
+        <name>Warlord (HB): Commander&apos;s Presence</name>
         <text>At 3rd level, as long as you are not incapacitated, your presence allows you to inspire and issue commands to allies around you. Your presence extends 50 feet from you in all directions. As a bonus action or in place of one of your weapon attacks as part of the Attack action, you can spend one command point to allow one creature within your presence that can see or hear you to take one of the following maneuvers.
 
 Charge:
@@ -128,7 +128,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 13 (Homebrew)</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Warlord (HB): Focused Presence</name>
-        <text>Starting at 10th level, as a bonus action or in place of one of your weapon attacks as part of the Attack action you can designate a 50 foot area within 120 feet of you. Your Commander's Presence shifts position from around you to the area you designated and remains there until you use this ability again or you are incapacitated. You can also end this effect as a bonus action.
+        <text>Starting at 10th level, as a bonus action or in place of one of your weapon attacks as part of the Attack action you can designate a 50 foot area within 120 feet of you. Your Commander&apos;s Presence shifts position from around you to the area you designated and remains there until you use this ability again or you are incapacitated. You can also end this effect as a bonus action.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 13 (Homebrew)</text>
       </feature>
@@ -144,7 +144,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 13 (Homebrew)</text>
     <autolevel level="18">
       <feature optional="YES">
         <name>Warlord (HB): Unified Command</name>
-        <text>Starting at 18th level, your commands can unleash a devastating combination of your allies' abilities.
+        <text>Starting at 18th level, your commands can unleash a devastating combination of your allies&apos; abilities.
 
 Shield Wall:
 You can use your action and spend 2 command points to target up to three allies. The targets gain +1 AC until the start of your next turn. If two or more of the targeted allies are adjacent to each other, they gain an additional +1 AC for each adjacent ally targeted by this ability.
@@ -172,8 +172,8 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 14 (Homebrew)</text>
 Source:	Mordenkainen's Codex of Allies v1.3 p. 14 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Witch Hunter (HB): Hunter's Mysticism</name>
-        <text>Starting at 3rd level, your study of supernatural arcana gives you a limited ability to use magic. You can cast detect magic as a ritual. You can cast protection from evil and good, but you can't cast it again with this feature until you finish a long rest. You also learn one of the following cantrips, green-flame blade, or produce flame. Wisdom is your spellcasting ability for these spells.
+        <name>Witch Hunter (HB): Hunter&apos;s Mysticism</name>
+        <text>Starting at 3rd level, your study of supernatural arcana gives you a limited ability to use magic. You can cast detect magic as a ritual. You can cast protection from evil and good, but you can&apos;t cast it again with this feature until you finish a long rest. You also learn one of the following cantrips, green-flame blade, or produce flame. Wisdom is your spellcasting ability for these spells.
 
 In addition, you gain the ability to speak one of the following languages of your choice: Abyssal, Celestial, or Infernal.
 
@@ -181,7 +181,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 14 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Witch Hunter (HB): Purified Defenses</name>
-        <text>Starting at 3rd level, you learn to ward yourself against damage from many monsters' attacks. You gain resistance to one of the following damage types: acid, necrotic, poison, or psychic.
+        <text>Starting at 3rd level, you learn to ward yourself against damage from many monsters&apos; attacks. You gain resistance to one of the following damage types: acid, necrotic, poison, or psychic.
 
 When you finish a long rest you can switch your resistance to another from among these options. You can only benefit from one of the resistances gained from this feature at a time.
 
@@ -214,8 +214,8 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 14 (Homebrew)</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Witch Hunter (HB): Hunter's Spellblade</name>
-        <text>Starting at 15th level, you learn to weave your spells into your attacks more effectively. When you take the Attack action on your turn, you can replace one of your attacks with a spell attack using the cantrip you learned from Hunter's Mysticism. You can use this feature up to three times, and you regain all expended uses when you finish a short or long rest.
+        <name>Witch Hunter (HB): Hunter&apos;s Spellblade</name>
+        <text>Starting at 15th level, you learn to weave your spells into your attacks more effectively. When you take the Attack action on your turn, you can replace one of your attacks with a spell attack using the cantrip you learned from Hunter&apos;s Mysticism. You can use this feature up to three times, and you regain all expended uses when you finish a short or long rest.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 14 (Homebrew)</text>
       </feature>

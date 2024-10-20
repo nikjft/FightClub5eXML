@@ -11,7 +11,7 @@ Source:	Subclasses That Shouldn't Exist v1 p. 15 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Disco Soul (HB): Legend of the Ones and Twos</name>
-        <text>Upon choosing this subclass at 1st level, you gain proficiency with musical instruments, which can be used as your spellcasting focus. Additionally, you learn the Dancing Lights and Minor Illusion cantrips I you don't already know them.
+        <text>Upon choosing this subclass at 1st level, you gain proficiency with musical instruments, which can be used as your spellcasting focus. Additionally, you learn the Dancing Lights and Minor Illusion cantrips I you don&apos;t already know them.
 
 When you cast a spell of 1st level or higher, you can simultaneously cast a cantrip that doesn't deal damage as part of the same action. Doing so grants you and any allies within 30 feet a +1 bonus to AC until the start of your next turn. You can use this feature a number of times equal to your proficiency bonus per long rest.
 
@@ -41,7 +41,7 @@ Source:	Subclasses That Shouldn't Exist v1 p. 15 (Homebrew)</text>
     <autolevel level="18">
       <feature optional="YES">
         <name>Disco Soul (HB): Eternal Encore</name>
-        <text>Once per long rest, as a bonus action, you can initiate an Eternal Encore for 1 minute. During this time, you can use Legend of the Ones and Twos without expending a use of the feature, and the AC bonus increases to +3. Cantrips cast on you or an ally grant temporary hit points equal to your Charisma modifier, and cantrips that deal damage deal additional thunder damage equal to your Charisma modifier. Once you use this action, you can't use it again until you finish a long rest, unless you spend 5 sorcery points to use it again.
+        <text>Once per long rest, as a bonus action, you can initiate an Eternal Encore for 1 minute. During this time, you can use Legend of the Ones and Twos without expending a use of the feature, and the AC bonus increases to +3. Cantrips cast on you or an ally grant temporary hit points equal to your Charisma modifier, and cantrips that deal damage deal additional thunder damage equal to your Charisma modifier. Once you use this action, you can&apos;t use it again until you finish a long rest, unless you spend 5 sorcery points to use it again.
 
 Source:	Subclasses That Shouldn't Exist v1 p. 15 (Homebrew)</text>
       </feature>

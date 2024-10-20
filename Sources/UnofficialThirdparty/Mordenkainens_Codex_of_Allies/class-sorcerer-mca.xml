@@ -5,7 +5,7 @@
     <autolevel level="1">
       <feature optional="YES">
         <name>Sorcerous Origin: Ancestral Weapon (HB)</name>
-        <text>Your innate magic remained dormant until the first time you picked up the legendary weapon of your bloodline. Ancestral weapons derive their power from many sources. Some weapons are blessed by a god or powerful being. Others are forged with magic within them and bound to the family's blood. Some are even said to hold fragments of the previous wielders' souls within them. Ancestral weapons are sometimes sentient, or able to communicate with the wielder, but this is not always so. When an ancestral weapon is held by one with the blood of lineage, they are granted both martial prowess and the magical ability of their ancestors.
+        <text>Your innate magic remained dormant until the first time you picked up the legendary weapon of your bloodline. Ancestral weapons derive their power from many sources. Some weapons are blessed by a god or powerful being. Others are forged with magic within them and bound to the family&apos;s blood. Some are even said to hold fragments of the previous wielders&apos; souls within them. Ancestral weapons are sometimes sentient, or able to communicate with the wielder, but this is not always so. When an ancestral weapon is held by one with the blood of lineage, they are granted both martial prowess and the magical ability of their ancestors.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 26 (Homebrew)</text>
       </feature>
@@ -16,7 +16,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 26 (Homebrew)</text>
 Source:	Mordenkainen's Codex of Allies v1.3 p. 26 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Ancestral Weapon (HB): Ancient's Aegis</name>
+        <name>Ancestral Weapon (HB): Ancient&apos;s Aegis</name>
         <text>Starting at 1st level, as a bonus action, you can grant an aegis to one allied creature you can see within 60 feet of you. The aegis takes the form of a spectral shield-bearer that protects the target. The aegis can absorb a number of points of bludgeoning, piercing, or slashing damage equal to 4 + half your sorcerer level. This effect lasts for 1 minute, until the aegis is depleted, until you use it again, or until you are incapacitated.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 26 (Homebrew)</text>
@@ -46,8 +46,8 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 26 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Ancestral Weapon (HB): Ancient's Assistance</name>
-        <text>Starting at 14th level, when a creature you can see within 60 feet of you hits a target protected by your Ancient's Aegis with a melee attack, you can use your reaction to teleport to an unoccupied space you can see within 5 feet of the attacker. You can then make one melee weapon attack against the attacker. If that attack hits, it deals an extra 2d10 force damage. This extra damage increases to 3d10 at 17th level. You can teleport in this manner a number of times equal to your Charisma modifier, and you regain any expended uses when you finish a short or long rest.
+        <name>Ancestral Weapon (HB): Ancient&apos;s Assistance</name>
+        <text>Starting at 14th level, when a creature you can see within 60 feet of you hits a target protected by your Ancient&apos;s Aegis with a melee attack, you can use your reaction to teleport to an unoccupied space you can see within 5 feet of the attacker. You can then make one melee weapon attack against the attacker. If that attack hits, it deals an extra 2d10 force damage. This extra damage increases to 3d10 at 17th level. You can teleport in this manner a number of times equal to your Charisma modifier, and you regain any expended uses when you finish a short or long rest.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 26 (Homebrew)</text>
       </feature>
@@ -61,7 +61,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 26 (Homebrew)</text>
     <autolevel level="18">
       <feature optional="YES">
         <name>Ancestral Weapon (HB): Mastering of the Lineage</name>
-        <text>Beginning at 18th level, your weapon allows you to call forth many protector spirits of your ancient bloodline. Whenever you use your Ancient's Aegis to protect an ally, you can choose up to three creatures to gain its benefits.
+        <text>Beginning at 18th level, your weapon allows you to call forth many protector spirits of your ancient bloodline. Whenever you use your Ancient&apos;s Aegis to protect an ally, you can choose up to three creatures to gain its benefits.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 26 (Homebrew)</text>
       </feature>
@@ -77,7 +77,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 27 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Phoenix Soul (HB): Ignite</name>
-        <text>At 1st level, as an action, you can magically ignite a flammable object you touch with your hand that isn't being worn or carried.
+        <text>At 1st level, as an action, you can magically ignite a flammable object you touch with your hand that isn&apos;t being worn or carried.
 
 Starting at 14th level, you can ignite creatures in this manner. When you touch a creature, it takes 1d6 fire damage and it must make a Constitution saving throw against your spell save DC or ignite in flames. At the start of each of its turns for 1 minute, or until the effect ends, the ignited creature must repeat the saving throw. On a failed save, it takes 1d6 fire damage. On a successful save, the effect ends. If the target or a creature within 5 feet of it uses an action to put out the flames, or if some other effect douses the flames (such as the target being submerged in water), the effect ends.
 
@@ -113,7 +113,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 27 (Homebrew)</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Phoenix Soul (HB): Nourishing Fire</name>
-        <text>Starting at 14th level, when you expend a spell slot to cast a spell that includes a fire damage roll, you regain hit points equal to the slot's level + your Charisma modifier
+        <text>Starting at 14th level, when you expend a spell slot to cast a spell that includes a fire damage roll, you regain hit points equal to the slot&apos;s level + your Charisma modifier
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 27 (Homebrew)</text>
       </feature>
@@ -149,7 +149,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 28 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Primordial Chaos (HB): Reckless Casting</name>
-        <text>Starting at 1st level, you can attempt to cast a spell you haven't learned by using the chaotic energy of the inner planes. When you use this ability, you use your action and choose one of the following options:
+        <text>Starting at 1st level, you can attempt to cast a spell you haven&apos;t learned by using the chaotic energy of the inner planes. When you use this ability, you use your action and choose one of the following options:
 
 	• Roll on the Reckless Casting table for cantrips and cast the resulting spell as part of this action.
 

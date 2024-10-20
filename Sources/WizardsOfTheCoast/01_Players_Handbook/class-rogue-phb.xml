@@ -7,7 +7,7 @@
     <numSkills>4</numSkills>
     <armor>Light Armor</armor>
     <weapons>Simple Weapons, Hand Crossbows, Longswords, Rapiers, Shortswords</weapons>
-    <tools>Thieves' Tools</tools>
+    <tools>Thieves&apos; Tools</tools>
     <wealth>4d4x10</wealth>
     <spellAbility>Intelligence</spellAbility>
     <slotsReset>L</slotsReset>
@@ -71,13 +71,13 @@ When it comes to combat, rogues prioritize cunning over brute strength. A rogue 
     </trait>
     <trait>
       <name>A Shady Living</name>
-      <text>Every town and city has its share of rogues. Most of them live up to the worst stereotypes of the class, making a living as burglars, assassins, cutpurses, and con artists. Often, these scoundrels are organized into thieves' guilds or crime families. Plenty of rogues operate independently, but even they sometimes recruit apprentices to help them in their scams and heists. A few rogues make an honest living as locksmiths, investigators, or exterminators, which can be a dangerous job in a world where dire rats — and wererats — haunt the sewers.
+      <text>Every town and city has its share of rogues. Most of them live up to the worst stereotypes of the class, making a living as burglars, assassins, cutpurses, and con artists. Often, these scoundrels are organized into thieves&apos; guilds or crime families. Plenty of rogues operate independently, but even they sometimes recruit apprentices to help them in their scams and heists. A few rogues make an honest living as locksmiths, investigators, or exterminators, which can be a dangerous job in a world where dire rats — and wererats — haunt the sewers.
 
 As adventurers, rogues fall on both sides of the law. Some are hardened criminals who decide to seek their fortune in treasure hoards, while others take up a life of adventure to escape from the law. Some have learned and perfected their skills with the explicit purpose of infiltrating ancient ruins and hidden crypts in search of treasure.</text>
     </trait>
     <trait>
       <name>Creating a Rogue</name>
-      <text>As you create your rogue character, consider the character's relationship to the law. Do you have a criminal past — or present? Are you on the run from the law or from an angry thieves' guild master? Or did you leave your guild in search of bigger risks and bigger rewards? Is it greed that drives you in your adventures, or some other desire or ideal?
+      <text>As you create your rogue character, consider the character&apos;s relationship to the law. Do you have a criminal past — or present? Are you on the run from the law or from an angry thieves&apos; guild master? Or did you leave your guild in search of bigger risks and bigger rewards? Is it greed that drives you in your adventures, or some other desire or ideal?
 
 What was the trigger that led you away from your previous life? Did a great con or heist gone terribly wrong cause you to reevaluate your career? Maybe you were lucky and a successful robbery gave you the coin you needed to escape the squalor of your life. Did wanderlust finally call you away from your home? Perhaps you suddenly found yourself cut off from your family or your mentor, and you had to find a new means of support. Or maybe you made a new friend — another member of your adventuring party — who showed you new possibilities for earning a living and employing your particular talents.
 Quick Build
@@ -113,7 +113,7 @@ Source:	Player's Handbook p. 94</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Multiclass Rogue</name>
-        <text>If your group uses the optional rule on multiclassing in the Player's Handbook, here's what you need to know if you choose rogue as one of your classes.
+        <text>If your group uses the optional rule on multiclassing in the Player&apos;s Handbook, here&apos;s what you need to know if you choose rogue as one of your classes.
 
 Ability Score Minimum:
 As a multiclass character, you must have at least the following ability score(s) to take a level in this class, or to take a level in another class if you are already a rogue.
@@ -135,7 +135,7 @@ Source:	Player's Handbook p. 163</text>
     <autolevel level="1">
       <feature>
         <name>Expertise</name>
-        <text>At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
+        <text>At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves&apos; tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
 
 At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain this benefit.
 
@@ -146,7 +146,7 @@ Source:	Player's Handbook p. 94</text>
     <autolevel level="1">
       <feature>
         <name>Sneak Attack</name>
-        <text>Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
+        <text>Beginning at 1st level, you know how to strike subtly and exploit a foe&apos;s distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
 
 You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
 
@@ -158,8 +158,8 @@ Source:	Player's Handbook p. 94</text>
 
     <autolevel level="1">
       <feature>
-        <name>Thieves' Cant</name>
-        <text>During your rogue training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
+        <name>Thieves&apos; Cant</name>
+        <text>During your rogue training you learned thieves&apos; cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves&apos; cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
 
 In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
 
@@ -281,7 +281,7 @@ Source:	Player's Handbook p. 97</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Assassin: Bonus Proficiencies</name>
-        <text>When you choose this archetype at 3rd level, you gain proficiency with the disguise kit and the poisoner's kit.
+        <text>When you choose this archetype at 3rd level, you gain proficiency with the disguise kit and the poisoner&apos;s kit.
 
 Source:	Player's Handbook p. 97</text>
       </feature>
@@ -290,7 +290,7 @@ Source:	Player's Handbook p. 97</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Assassin: Assassinate</name>
-        <text>Starting at 3rd level, you are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, any hit you score against a creature that is surprised is a critical hit.
+        <text>Starting at 3rd level, you are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn&apos;t taken a turn in the combat yet. In addition, any hit you score against a creature that is surprised is a critical hit.
 
 Source:	Player's Handbook p. 97</text>
       </feature>
@@ -299,7 +299,7 @@ Source:	Player's Handbook p. 97</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Roguish Archetype: Thief</name>
-        <text>You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn't employ.
+        <text>You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn&apos;t employ.
 
 Source:	Player's Handbook p. 97</text>
       </feature>
@@ -308,7 +308,7 @@ Source:	Player's Handbook p. 97</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Thief: Fast Hands</name>
-        <text>Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity (Sleight of Hand) check, use your thieves' tools to disarm a trap or open a lock, or take the Use an Object action.
+        <text>Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity (Sleight of Hand) check, use your thieves&apos; tools to disarm a trap or open a lock, or take the Use an Object action.
 
 Source:	Player's Handbook p. 97</text>
       </feature>
@@ -328,7 +328,7 @@ Source:	Player's Handbook p. 97</text>
     <autolevel level="4" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -339,7 +339,7 @@ Source:	Player's Handbook p. 94</text>
     <autolevel level="5">
       <feature>
         <name>Uncanny Dodge</name>
-        <text>Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
+        <text>Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack&apos;s damage against you.
 
 Source:	Player's Handbook p. 94</text>
       </feature>
@@ -348,7 +348,7 @@ Source:	Player's Handbook p. 94</text>
     <autolevel level="6">
       <feature>
         <name>Expertise</name>
-        <text>At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain the benefit of Expertise.
+        <text>At 6th level, you can choose two more of your proficiencies (in skills or with thieves&apos; tools) to gain the benefit of Expertise.
 
 Source:	Player's Handbook p. 94</text>
       </feature>
@@ -357,7 +357,7 @@ Source:	Player's Handbook p. 94</text>
     <autolevel level="7">
       <feature>
         <name>Evasion</name>
-        <text>Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an ice storm spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+        <text>Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon&apos;s fiery breath or an ice storm spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 Source:	Player's Handbook p. 94</text>
       </feature>
@@ -366,7 +366,7 @@ Source:	Player's Handbook p. 94</text>
     <autolevel level="8" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -395,7 +395,7 @@ Source:	Player's Handbook p. 97</text>
     <autolevel level="9">
       <feature optional="YES">
         <name>Assassin: Infiltration Expertise</name>
-        <text>Starting at 9th level, you can unfailingly create false identities for yourself. You must spend seven days and 25 gp to establish the history, profession, and affiliations for an identity. You can't establish an identity that belongs to someone else. For example, you might acquire appropriate clothing, letters of introduction, and official-looking certification to establish yourself as a member of a trading house from a remote city so you can insinuate yourself into the company of other wealthy merchants.
+        <text>Starting at 9th level, you can unfailingly create false identities for yourself. You must spend seven days and 25 gp to establish the history, profession, and affiliations for an identity. You can&apos;t establish an identity that belongs to someone else. For example, you might acquire appropriate clothing, letters of introduction, and official-looking certification to establish yourself as a member of a trading house from a remote city so you can insinuate yourself into the company of other wealthy merchants.
 
 Thereafter, if you adopt the new identity as a disguise, other creatures believe you to be that person until given an obvious reason not to.
 
@@ -415,7 +415,7 @@ Source:	Player's Handbook p. 97</text>
     <autolevel level="10" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 10th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 10th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -435,7 +435,7 @@ Source:	Player's Handbook p. 94</text>
     <autolevel level="12" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -464,7 +464,7 @@ Source:	Player's Handbook p. 97</text>
     <autolevel level="13">
       <feature optional="YES">
         <name>Assassin: Impostor</name>
-        <text>At 13th level, you gain the ability to unerringly mimic another person's speech, writing, and behavior. You must spend at least three hours studying these three components of the person's behavior, listening to speech, examining handwriting, and observing mannerism.
+        <text>At 13th level, you gain the ability to unerringly mimic another person&apos;s speech, writing, and behavior. You must spend at least three hours studying these three components of the person&apos;s behavior, listening to speech, examining handwriting, and observing mannerism.
 
 Your ruse is indiscernible to the casual observer. If a wary creature suspects something is amiss, you have advantage on any Charisma (Deception) check you make to avoid detection.
 
@@ -503,7 +503,7 @@ Source:	Player's Handbook p. 94</text>
     <autolevel level="16" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -549,8 +549,8 @@ Source:	Player's Handbook p. 97</text>
 
     <autolevel level="17">
       <feature optional="YES">
-        <name>Thief: Thief's Reflexes</name>
-        <text>When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can't use this feature when you are surprised.
+        <name>Thief: Thief&apos;s Reflexes</name>
+        <text>When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can&apos;t use this feature when you are surprised.
 
 Source:	Player's Handbook p. 97</text>
       </feature>
@@ -559,7 +559,7 @@ Source:	Player's Handbook p. 97</text>
     <autolevel level="18">
       <feature>
         <name>Elusive</name>
-        <text>Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated.
+        <text>Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren&apos;t incapacitated.
 
 Source:	Player's Handbook p. 94</text>
       </feature>
@@ -568,7 +568,7 @@ Source:	Player's Handbook p. 94</text>
     <autolevel level="19" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 

@@ -16,7 +16,7 @@ Source:	Elemental Evil Player's Companion p. 5,
     </trait>
     <trait>
       <name>Life Span</name>
-      <text>Aarakocra reach maturity by age 3. Compared to humans, aarakocra don't usually live longer than 30 years.</text>
+      <text>Aarakocra reach maturity by age 3. Compared to humans, aarakocra don&apos;t usually live longer than 30 years.</text>
     </trait>
     <trait>
       <name>Alignment</name>
@@ -34,7 +34,7 @@ Weight in pounds = 70 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Flight</name>
-      <text>You have a flying speed of 50 feet. To use this speed, you can't be wearing medium or heavy armor.</text>
+      <text>You have a flying speed of 50 feet. To use this speed, you can&apos;t be wearing medium or heavy armor.</text>
     </trait>
     <trait>
       <name>Talons</name>
@@ -84,7 +84,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Unending Breath</name>
-      <text>You can hold your breath indefinitely while you're not incapacitated.</text>
+      <text>You can hold your breath indefinitely while you&apos;re not incapacitated.</text>
     </trait>
     <trait>
       <name>Mingle with the Wind</name>

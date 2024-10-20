@@ -16,7 +16,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 31 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Wayfinder (HB): Spellcasting</name>
-        <text>You learn to tap into the power of nature to cast spells, much as a druid does. See chapter 10 of the Basic Rules or the Player's Handbook for the general rules of spell- casting and chapter 11 for the druid spell list.
+        <text>You learn to tap into the power of nature to cast spells, much as a druid does. See chapter 10 of the Basic Rules or the Player&apos;s Handbook for the general rules of spell- casting and chapter 11 for the druid spell list.
 
 Cantrips:
 You learn two cantrips of your choice from the druid spell list. You learn an additional druid cantrip of your choice at 10th level.
@@ -42,7 +42,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 31 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Wayfinder (HB): Lead the Way</name>
-        <text>You gain proficiency with either cartographer's tools or navigator's tools (your choice).
+        <text>You gain proficiency with either cartographer&apos;s tools or navigator&apos;s tools (your choice).
 
 Additionally, whenever you succeed on a Strength-, Dexterity-, or Wisdom-based skill check, friendly creatures that can see or hear when you make the check learn from your prowess. Each of those creatures has advantage on the first ability check it makes to attempt the same task within the next 10 minutes.
 
@@ -52,7 +52,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 32 (Homebrew)</text>
     <autolevel level="9">
       <feature optional="YES">
         <name>Wayfinder (HB): Terrain Mastery</name>
-        <text>You've learned to magically manipulate the terrain itself. Any enemy that is in difficult terrain when you start your turn has disadvantage on the first saving throw it makes against a spell you cast during that turn.
+        <text>You&apos;ve learned to magically manipulate the terrain itself. Any enemy that is in difficult terrain when you start your turn has disadvantage on the first saving throw it makes against a spell you cast during that turn.
 
 Moreover, moving through difficult terrain created by your spells doesn't cost you or your allies extra movement.
 
@@ -62,14 +62,14 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 32 (Homebrew)</text>
     <autolevel level="13">
       <feature optional="YES">
         <name>Wayfinder (HB): Wild Sense</name>
-        <text>You're always ready for when an enemy strikes and can magically grant others that same awareness. You can't be surprised while you are conscious. Whenever a creature you can see or hear within 60 feet of you is surprised, you can use your reaction to cause that creature to be no longer surprised.
+        <text>You&apos;re always ready for when an enemy strikes and can magically grant others that same awareness. You can&apos;t be surprised while you are conscious. Whenever a creature you can see or hear within 60 feet of you is surprised, you can use your reaction to cause that creature to be no longer surprised.
 
 Source:	Tasha's Crucible of Everything Else, Volume 2 p. 32 (Homebrew)</text>
       </feature>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Wayfinder (HB): Nature's Fury</name>
+        <name>Wayfinder (HB): Nature&apos;s Fury</name>
         <text>You press your advantage against foes with unsteady positioning. Whenever you make an attack against a creature that is in difficult terrain, you score a critical hit on a roll of 19 or 20.
 
 Additionally, whenever you damage a hostile creature with your Sneak Attack, allies that can see you learn from your approach. The next attack roll one of those allies makes against the creature before the start of your next turn is made with advantage.

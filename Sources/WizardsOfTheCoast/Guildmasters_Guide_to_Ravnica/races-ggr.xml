@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <race>
     <name>Centaur (Legacy)</name>
@@ -13,7 +14,7 @@
 
 In the sprawling city of Ravnica, where "open road" seems like a contradiction and "open plain" is sheer nonsense, centaurs nevertheless retain a love of wide spaces and the freedom to travel. As much as they can, centaurs run—in wide plazas, spacious parks, and expanses of rubble and ruin. They race the wind, hooves thundering and tails streaming behind them, until the next wall looms in their path and brings them to a stop.
 
-Source:	Guildmasters' Guide to Ravnica p. 15,
+Source:	Guildmasters&apos; Guide to Ravnica p. 15,
 		Mythic Odysseys of Theros p. 19</text>
     </trait>
     <trait>
@@ -72,8 +73,8 @@ In addition, any climb that requires hands and feet is especially difficult for 
       <name>Description</name>
       <text>Goblins occupy an uneasy place in a dangerous world, and they react by lashing out at any creatures they believe they can bully. Cunning in battle and cruel in victory, goblins are fawning and servile in defeat, just as in their own society lower castes must scrape before those of greater status and as goblin tribes bow before other goblinoids.
 
-Source:	Guildmasters' Guide to Ravnica p. 16,
-		Explorer's Guide to Wildemount p. 174</text>
+Source:	Guildmasters&apos; Guide to Ravnica p. 16,
+		Explorer&apos;s Guide to Wildemount p. 174</text>
     </trait>
     <trait>
       <name>Life Span</name>
@@ -95,11 +96,11 @@ Weight in pounds = 35 + your size modifier</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Fury of the Small</name>
-      <text>When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest.</text>
+      <text>When you damage a creature with an attack or a spell and the creature&apos;s size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can&apos;t use it again until you finish a short or long rest.</text>
     </trait>
     <trait>
       <name>Nimble Escape</name>
@@ -123,7 +124,7 @@ Weight in pounds = 35 + your size modifier</text>
 
 As they say, "There are three things all wise men fear: the sea in storm, a night with no moon, and the anger of a gentle man."
 
-Source:	Guildmasters' Guide to Ravnica p. 17</text>
+Source:	Guildmasters&apos; Guide to Ravnica p. 17</text>
     </trait>
     <trait>
       <name>Life Span</name>
@@ -148,13 +149,13 @@ Source:	Guildmasters' Guide to Ravnica p. 17</text>
     </trait>
     <trait>
       <name>Natural Armor</name>
-      <text>You have thick, leathery skin. When you aren't wearing armor, your AC is 12 + your Constitution modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor.</text>
+      <text>You have thick, leathery skin. When you aren&apos;t wearing armor, your AC is 12 + your Constitution modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield&apos;s benefits apply as normal while you use your natural armor.</text>
     </trait>
     <trait>
       <name>Trunk</name>
       <text>You can grasp things with your trunk, and you can use it as a snorkel. It has a reach of 5 feet, and it can lift a number of pounds equal to five times your Strength score. You can use it to do the following simple tasks: lift, drop, hold, push, or pull an object or a creature; open or close a door or a container; grapple someone; or make an unarmed strike. Your DM might allow other simple tasks to be added to that list of options.
 
-Your trunk can't wield weapons or shields or do anything that requires manual precision, such as using tools or magic items or performing the somatic components of a spell.</text>
+Your trunk can&apos;t wield weapons or shields or do anything that requires manual precision, such as using tools or magic items or performing the somatic components of a spell.</text>
     </trait>
     <trait>
       <name>Keen Smell</name>
@@ -178,7 +179,7 @@ Your trunk can't wield weapons or shields or do anything that requires manual pr
 
 The minotaurs of Ravnica are strong in body. dedication, and courage. They are at home on the battlefield , willing to fight for their various causes. They combine a burning fury in battle with keen tactics that make them excellent commanders as well as valuable shock troops.
 
-Source:	Guildmasters' Guide to Ravnica p. 18,
+Source:	Guildmasters&apos; Guide to Ravnica p. 18,
 		Mythic Odysseys of Theros p. 22</text>
     </trait>
     <trait>
@@ -193,7 +194,7 @@ Source:	Guildmasters' Guide to Ravnica p. 18,
       <name>Size</name>
       <text>Minotaurs average over 6 feet in height, and they have stocky builds. Your size is Medium.
 
-Here's how to determine your height and weight randomly, starting with rolling a size modifier:
+Here&apos;s how to determine your height and weight randomly, starting with rolling a size modifier:
 
 Size modifier = 2d8
 Height = 5 feet + 4 inches + your size modifier in inches
@@ -233,7 +234,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 
 The Simic Combine uses magic to fuse different life forms together. In recent years, the Simic Combine has extended this research to humanoid subjects, magically transferring the traits of various animals into humans, elves, and vedalken. The goal of the Guardian Project is to build a Simic army of soldiers perfectly adapted to a variety of combat situations. These hyper-evolved specimens are called Simic hybrids, though they sometimes refer to themselves as guardians.
 
-Source:	Guildmasters' Guide to Ravnica p. 20</text>
+Source:	Guildmasters&apos; Guide to Ravnica p. 20</text>
     </trait>
     <trait>
       <name>Ability Score Increases</name>
@@ -245,7 +246,7 @@ Source:	Guildmasters' Guide to Ravnica p. 20</text>
     </trait>
     <trait>
       <name>Alignment</name>
-      <text>Most hybrids share the generally neutral outlook of the Simic Combine. They are more interested in scientific research and the standing of their guild than in moral or ethical questions. Those who leave the Combine, however, often do so because their philosophical outlook and alignment are more in line with a different guild's.</text>
+      <text>Most hybrids share the generally neutral outlook of the Simic Combine. They are more interested in scientific research and the standing of their guild than in moral or ethical questions. Those who leave the Combine, however, often do so because their philosophical outlook and alignment are more in line with a different guild&apos;s.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -253,7 +254,7 @@ Source:	Guildmasters' Guide to Ravnica p. 20</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -265,17 +266,17 @@ Source:	Guildmasters' Guide to Ravnica p. 20</text>
 
 At 1st level, choose one of the following options:
 
-	• Manta Glide: You have ray-like fins that you can use as wings to slow your fall or allow you to glide. When you fall and aren't incapacitated, you can subtract up to 100 feet from the fall when calculating falling damage, and you can move up to 2 feet horizontally for every 1 foot you descend.
+	• Manta Glide: You have ray-like fins that you can use as wings to slow your fall or allow you to glide. When you fall and aren&apos;t incapacitated, you can subtract up to 100 feet from the fall when calculating falling damage, and you can move up to 2 feet horizontally for every 1 foot you descend.
 
 	• Nimble Climber: You have a climbing speed equal to your walking speed.
 
 	• Underwater Adaptation: You can breathe air and water, and you have a swimming speed equal to your walking speed.
 
-At 5th level, your body evolves further, developing new characteristics. Choose one of the options you didn't take at 1st level, or one of the following options:
+At 5th level, your body evolves further, developing new characteristics. Choose one of the options you didn&apos;t take at 1st level, or one of the following options:
 
-	• Grappling Appendage: You have two special appendages growing alongside your arms. Choose whether they're both claws or tentacles. As an action, you can use one of them to try to grapple a creature. Each one is also a natural weapon, which you can use to make an unarmed strike. If you hit with it, the target takes bludgeoning damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. Immediately after hitting, you can try to grapple the target as a bonus action. These appendages can't precisely manipulate anything and can't wield weapons, magic items, or other specialized equipment.
+	• Grappling Appendage: You have two special appendages growing alongside your arms. Choose whether they&apos;re both claws or tentacles. As an action, you can use one of them to try to grapple a creature. Each one is also a natural weapon, which you can use to make an unarmed strike. If you hit with it, the target takes bludgeoning damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. Immediately after hitting, you can try to grapple the target as a bonus action. These appendages can&apos;t precisely manipulate anything and can&apos;t wield weapons, magic items, or other specialized equipment.
 
-	• Carapace: Your skin in places is covered by a thick shell. You gain a +1 bonus to AC when you're not wearing heavy armor.
+	• Carapace: Your skin in places is covered by a thick shell. You gain a +1 bonus to AC when you&apos;re not wearing heavy armor.
 
 	• Acid Spit: As an action, you can spray acid from glands in your mouth, targeting one creature or object you can see within 30 feet of you. The target takes 2d10 acid damage unless it succeeds on a Dexterity saving throw against a DC equal to 8 + your Constitution modifier + your proficiency bonus. This damage increases by 1d10 when you reach 11th level (3d10) and 17th level (4d10). You can use this trait a number of times equal to your Consitution modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.</text>
     </trait>
@@ -293,7 +294,7 @@ At 5th level, your body evolves further, developing new characteristics. Choose 
 
 Vedalken are tall and slender, standing almost a head taller than humans on average but weighing about the same. Their hairless skin comes in a range of shades of blue. Their eyes are darker shades of blue or violet. They lack external ears, their noses are broad and flat, and they are partially amphibious.
 
-Source:	Guildmasters' Guide to Ravnica p. 21</text>
+Source:	Guildmasters&apos; Guide to Ravnica p. 21</text>
     </trait>
     <trait>
       <name>Life Span</name>
@@ -315,11 +316,11 @@ Source:	Guildmasters' Guide to Ravnica p. 21</text>
       <name>Tireless Precision</name>
       <text>You are proficient in one of the following skills of your choice: Arcana, History, Investigation, Medicine, Performance, or Sleight of Hand.  You are also proficient with one tool of your choice.
 
-Whenever you make an ability check with the chosen skill or tool, roll a d4 and add the number rolled to the check's total.</text>
+Whenever you make an ability check with the chosen skill or tool, roll a d4 and add the number rolled to the check&apos;s total.</text>
     </trait>
     <trait>
       <name>Partially Amphibious</name>
-      <text>By absorbing oxygen through your skin, you can breathe underwater for up to 1 hour. Once you've reached that limit, you can't use this trait again until you finish a long rest.</text>
+      <text>By absorbing oxygen through your skin, you can breathe underwater for up to 1 hour. Once you&apos;ve reached that limit, you can&apos;t use this trait again until you finish a long rest.</text>
     </trait>
     <trait>
       <name>Languages</name>

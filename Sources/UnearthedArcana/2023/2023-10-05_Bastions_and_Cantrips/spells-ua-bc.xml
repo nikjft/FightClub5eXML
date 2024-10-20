@@ -29,7 +29,7 @@ Source:	Unearthed Arcana: Bastions and Cantrips p. 22</text>
     <components>V, S</components>
     <duration>Instantaneous</duration>
     <classes>School: Abjuration, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Bard, Sorcerer, Warlock, Wizard</classes>
-    <text>You trace a sigil of warding, imposing Disadvantage on the creature's attack roll against you.
+    <text>You trace a sigil of warding, imposing Disadvantage on the creature&apos;s attack roll against you.
 
 Source:	Unearthed Arcana: Bastions and Cantrips p. 22</text>
     <roll/>
@@ -43,7 +43,7 @@ Source:	Unearthed Arcana: Bastions and Cantrips p. 22</text>
     <components>V, S</components>
     <duration>Instantaneous</duration>
     <classes>School: Necromancy, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Sorcerer, Warlock, Wizard</classes>
-    <text>You channel the chill of the grave toward one creature you try to touch. Make a melee spell attack against the target. On a hit, the target takes 1d10 Necrotic damage, and it can't regain Hit Points until the end of your next turn.
+    <text>You channel the chill of the grave toward one creature you try to touch. Make a melee spell attack against the target. On a hit, the target takes 1d10 Necrotic damage, and it can&apos;t regain Hit Points until the end of your next turn.
 
 Cantrip Upgrade:
 This spell's damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
@@ -63,7 +63,7 @@ Source:	Unearthed Arcana: Bastions and Cantrips p. 22</text>
     <components>S, M (some makeup)</components>
     <duration>Concentration, up to 1 minute</duration>
     <classes>School: Enchantment, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Bard, Sorcerer, Warlock, Wizard, Wizard (Psionics (UA))</classes>
-    <text>You magically emanate a sense of friendship toward one visible creature within range. The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target succeeds automatically if it isn't a Humanoid, if you're fighting it, or if you have cast this spell on it within the past 24 hours.
+    <text>You magically emanate a sense of friendship toward one visible creature within range. The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target succeeds automatically if it isn&apos;t a Humanoid, if you&apos;re fighting it, or if you have cast this spell on it within the past 24 hours.
 
 The spell ends early if the target takes damage or if you make an attack roll, deal damage, or force anyone to make a saving throw.
 
@@ -121,7 +121,7 @@ Source:	Unearthed Arcana: Bastions and Cantrips p. 23</text>
     <components>V, S, M (mistletoe, a shamrock leaf, and a Club or Quarterstaff)</components>
     <duration>1 minute</duration>
     <classes>School: Transformation, Touch Spells, Druid, Sorcerer (Giant Soul (UA))</classes>
-    <text>A Club or Quarterstaff you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon's damage die becomes a d8. If the attack deals damage, it can be Force damage or the weapon's normal damage type (your choice).
+    <text>A Club or Quarterstaff you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon&apos;s damage die becomes a d8. If the attack deals damage, it can be Force damage or the weapon&apos;s normal damage type (your choice).
 
 The spell ends early if you cast it again or if you let go of the weapon.
 
@@ -143,7 +143,7 @@ Source:	Unearthed Arcana: Bastions and Cantrips p. 23</text>
     <components>V, S</components>
     <duration>Instantaneous</duration>
     <classes>School: Evocation, Touch Spells, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Sorcerer, Wizard, Artificer, Sorcerer (Giant Soul (UA))</classes>
-    <text>Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. On a hit, the target takes 1d8 Lightning damage, and it can't make Opportunity Attacks until the start of its next turn.
+    <text>Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. On a hit, the target takes 1d8 Lightning damage, and it can&apos;t make Opportunity Attacks until the start of its next turn.
 
 Cantrip Upgrade:
 This spell's damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
@@ -180,7 +180,7 @@ Source:	Unearthed Arcana: Bastions and Cantrips p. 23</text>
     <components>S, M (a weapon with which you have proficiency)</components>
     <duration>Instantaneous</duration>
     <classes>School: Divination, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Bard, Sorcerer, Warlock, Wizard</classes>
-    <text>Guided by a flash of magical insight, you make one attack with the weapon used in the spell's casting. The attack uses your spellcasting ability for the attack and damage rolls instead of using Strength or Dexterity. If the attack deals damage, it can be Radiant damage or the weapon's normal damage type (your choice).
+    <text>Guided by a flash of magical insight, you make one attack with the weapon used in the spell&apos;s casting. The attack uses your spellcasting ability for the attack and damage rolls instead of using Strength or Dexterity. If the attack deals damage, it can be Radiant damage or the weapon&apos;s normal damage type (your choice).
 
 Cantrip Upgrade:
 Whether you choose to deal Radiant damage or the weapon's normal damage type, the attack deals extra Radiant damage when you reach levels 5 (1d6), 11 (2d6), and 17 (3d6).

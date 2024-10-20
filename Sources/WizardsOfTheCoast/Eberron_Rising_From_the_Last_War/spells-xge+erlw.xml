@@ -123,11 +123,11 @@
     <classes>Mark of Warding</classes>
   </spell>
   <spell>
-    <name>Leomund's Secret Chest</name>
+    <name>Leomund&apos;s Secret Chest</name>
     <classes>Mark of Warding</classes>
   </spell>
   <spell>
-    <name>Mordenkainen's Faithful Hound</name>
+    <name>Mordenkainen&apos;s Faithful Hound</name>
     <classes>Mark of Warding</classes>
   </spell>
   <spell>
@@ -304,7 +304,7 @@
     <classes>Mark of Hospitality</classes>
   </spell>
   <spell>
-    <name>Leomund's Tiny Hut</name>
+    <name>Leomund&apos;s Tiny Hut</name>
     <classes>Mark of Hospitality</classes>
   </spell>
   <spell>
@@ -312,7 +312,7 @@
     <classes>Mark of Hospitality</classes>
   </spell>
   <spell>
-    <name>Mordenkainen's Private Sanctum</name>
+    <name>Mordenkainen&apos;s Private Sanctum</name>
     <classes>Mark of Hospitality</classes>
   </spell>
   <spell>
@@ -362,7 +362,7 @@
     <classes>Mark of Making</classes>
   </spell>
   <spell>
-    <name>Tenser's Floating Disk</name>
+    <name>Tenser&apos;s Floating Disk</name>
     <classes>Mark of Making</classes>
   </spell>
   <spell>
@@ -464,7 +464,7 @@
     <classes>Mark of Sentinel</classes>
   </spell>
   <spell>
-    <name>Bigby's Hand</name>
+    <name>Bigby&apos;s Hand</name>
     <classes>Mark of Sentinel</classes>
   </spell>
 </compendium>

@@ -77,7 +77,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 219</description>
     <environment/>
   </monster>
   <monster>
-    <name>Devil's Ride [2014]</name>
+    <name>Devil&apos;s Ride [2014]</name>
     <size>L</size>
     <type>vehicle (500 lb.)</type>
     <alignment>Unaligned</alignment>
@@ -128,7 +128,7 @@ Drive and steer the Devil's Ride.</text>
       <text>
 If the Devil's Ride is able to move, the driver can use its reaction to grant the Devil's Ride advantage on a Dexterity saving throw.</text>
     </reaction>
-    <description>A Devil's Ride is a two-wheeled infernal war machine that handles like a motorcycle. It has spiked wheels, a screaming engine, and a cowl shaped vaguely like a grinning devil's visage, with horns for handle bars. What the vehicle lacks in weapons, it makes up for with speed and maneuverability.
+    <description>A Devil&apos;s Ride is a two-wheeled infernal war machine that handles like a motorcycle. It has spiked wheels, a screaming engine, and a cowl shaped vaguely like a grinning devil&apos;s visage, with horns for handle bars. What the vehicle lacks in weapons, it makes up for with speed and maneuverability.
 
 Source:	Baldur's Gate: Descent Into Avernus p. 218</description>
     <environment/>

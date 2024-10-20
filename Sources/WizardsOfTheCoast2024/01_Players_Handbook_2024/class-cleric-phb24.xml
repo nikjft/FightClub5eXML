@@ -73,7 +73,7 @@ Source:	Player's Handbook 2024 p. 69</text>
     <autolevel level="1">
       <feature>
         <name>Spellcasting</name>
-        <text>You have learned to cast spells through prayer and meditation. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Cleric spells, which appear on the Cleric spell list later in the class's description.
+        <text>You have learned to cast spells through prayer and meditation. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Cleric spells, which appear on the Cleric spell list later in the class&apos;s description.
 
 Cantrips:
 You know three cantrips of your choice from the Cleric spell list. Guidance, Sacred Flame, and Thaumaturgy are recommended.
@@ -148,7 +148,7 @@ Source:	Player's Handbook 2024 p. 70</text>
     <autolevel level="2">
       <feature>
         <name>Channel Divinity</name>
-        <text>You can channel divine energy directly from the Outer Planes to fuel magical effects. You start with two such effects: Divine Spark and Turn Undead, each of which is described below. Each time you use this class's Channel Divinity, choose which Channel Divinity effect from this class to create. You gain additional effect options at higher Cleric levels.
+        <text>You can channel divine energy directly from the Outer Planes to fuel magical effects. You start with two such effects: Divine Spark and Turn Undead, each of which is described below. Each time you use this class&apos;s Channel Divinity, choose which Channel Divinity effect from this class to create. You gain additional effect options at higher Cleric levels.
 
 You can use this class's Channel Divinity twice. You regain one of its expended uses when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest. You gain additional uses when you reach certain Cleric levels, as shown in the Channel Divinity column of the Cleric Features table.
 
@@ -174,7 +174,7 @@ Source:	Player's Handbook 2024 p. 70</text>
     <autolevel level="3">
       <feature>
         <name>Cleric Subclass</name>
-        <text>You gain a Cleric subclass of your choice. The Life Domain, Light Domain, Trickery Domain, and War Domain subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Cleric levels. For the rest of your career, you gain each of your subclass's features that are of your Cleric level or lower.
+        <text>You gain a Cleric subclass of your choice. The Life Domain, Light Domain, Trickery Domain, and War Domain subclasses are detailed after this class&apos;s description. A subclass is a specialization that grants you features at certain Cleric levels. For the rest of your career, you gain each of your subclass&apos;s features that are of your Cleric level or lower.
 
 Source:	Player's Handbook 2024 p. 71</text>
       </feature>
@@ -192,7 +192,7 @@ Source:	Player's Handbook 2024 p. 71</text>
     <autolevel level="5">
       <feature>
         <name>Sear Undead</name>
-        <text>Whenever you use Turn Undead, you can roll a number of d8s equal to your Wisdom modifier (minimum of 1d8) and add the rolls together. Each Undead that fails its saving throw against that use of Turn Undead takes Radiant damage equal to the roll's total. This damage doesn't end the turn effect.
+        <text>Whenever you use Turn Undead, you can roll a number of d8s equal to your Wisdom modifier (minimum of 1d8) and add the rolls together. Each Undead that fails its saving throw against that use of Turn Undead takes Radiant damage equal to the roll&apos;s total. This damage doesn&apos;t end the turn effect.
 
 Source:	Player's Handbook 2024 p. 71</text>
       </feature>
@@ -245,7 +245,7 @@ Source:	Player's Handbook 2024 p. 71</text>
     <autolevel level="10">
       <feature>
         <name>Divine Intervention</name>
-        <text>You can call on your deity or pantheon to intervene on your behalf. As a Magic action, choose any Cleric spell of level 5 or lower that doesn't require a Reaction to cast. As part of the same action, you cast that spell without expending a spell slot or needing Material components. You can't use this feature again until you finish a Long Rest.
+        <text>You can call on your deity or pantheon to intervene on your behalf. As a Magic action, choose any Cleric spell of level 5 or lower that doesn&apos;t require a Reaction to cast. As part of the same action, you cast that spell without expending a spell slot or needing Material components. You can&apos;t use this feature again until you finish a Long Rest.
 
 Source:	Player's Handbook 2024 p. 71</text>
       </feature>
@@ -321,7 +321,7 @@ Source:	Player's Handbook 2024 p. 71</text>
     <autolevel level="20">
       <feature>
         <name>Greater Divine Intervention</name>
-        <text>You can call on even more powerful divine intervention. When you use your Divine Intervention feature, you can choose Wish when you select a spell. If you do so, you can't use Divine Intervention again until you finish 2d4 Long Rests.
+        <text>You can call on even more powerful divine intervention. When you use your Divine Intervention feature, you can choose Wish when you select a spell. If you do so, you can&apos;t use Divine Intervention again until you finish 2d4 Long Rests.
 
 Source:	Player's Handbook 2024 p. 71</text>
       </feature>
@@ -341,7 +341,7 @@ Source:	Player's Handbook 2024 p. 73</text>
       </feature>
       <feature optional="YES">
         <name>Life Domain: Disciple Of Life</name>
-        <text>When a spell you cast with a spell slot restores Hit Points to a creature, that creature regains additional Hit Points on the turn you cast the spell. The additional Hit Points equal 2 plus the spell slot's level.
+        <text>When a spell you cast with a spell slot restores Hit Points to a creature, that creature regains additional Hit Points on the turn you cast the spell. The additional Hit Points equal 2 plus the spell slot&apos;s level.
 
 Source:	Player's Handbook 2024 p. 73</text>
       </feature>
@@ -369,7 +369,7 @@ Source:	Player's Handbook 2024 p. 73</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Life Domain: Blessed Healer</name>
-        <text>The healing spells you cast on others heal you as well. Immediately after you cast a spell with a spell slot that restores Hit Points to one or more creatures other than yourself, you regain Hit Points equal to 2 plus the spell slot's level.
+        <text>The healing spells you cast on others heal you as well. Immediately after you cast a spell with a spell slot that restores Hit Points to one or more creatures other than yourself, you regain Hit Points equal to 2 plus the spell slot&apos;s level.
 
 Source:	Player's Handbook 2024 p. 72</text>
       </feature>
@@ -378,7 +378,7 @@ Source:	Player's Handbook 2024 p. 72</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Life Domain: Supreme Healing</name>
-        <text>When you would normally roll one or more dice to restore Hit Points to a creature with a spell or Channel Divinity, don't roll those dice for the healing; instead use the highest number possible for each die. For example, instead of restoring 2d6 Hit Points to a creature with a spell, you restore 12.
+        <text>When you would normally roll one or more dice to restore Hit Points to a creature with a spell or Channel Divinity, don&apos;t roll those dice for the healing; instead use the highest number possible for each die. For example, instead of restoring 2d6 Hit Points to a creature with a spell, you restore 12.
 
 Source:	Player's Handbook 2024 p. 72</text>
       </feature>
@@ -465,7 +465,7 @@ Source:	Player's Handbook 2024 p. 75</text>
       </feature>
       <feature optional="YES">
         <name>Trickery Domain: Invoke Duplicity</name>
-        <text>As a Bonus Action, you can expend one use of your Channel Divinity to create a perfect visual illusion of yourself in an unoccupied space you can see within 30 feet of yourself. The illusion is intangible and doesn't occupy its space. It lasts for 1 minute, but it ends early if you dismiss it (no action required) or have the Incapacitated condition. The illusion is animated and mimics your expressions and gestures. While it persists, you gain the following benefits.
+        <text>As a Bonus Action, you can expend one use of your Channel Divinity to create a perfect visual illusion of yourself in an unoccupied space you can see within 30 feet of yourself. The illusion is intangible and doesn&apos;t occupy its space. It lasts for 1 minute, but it ends early if you dismiss it (no action required) or have the Incapacitated condition. The illusion is animated and mimics your expressions and gestures. While it persists, you gain the following benefits.
 
 Cast Spells:
 You can cast spells as though you were in the illusion's space, but you must use your own senses.
@@ -495,7 +495,7 @@ Source:	Player's Handbook 2024 p. 76</text>
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Trickery Domain: Trickster's Transposition</name>
+        <name>Trickery Domain: Trickster&apos;s Transposition</name>
         <text>Whenever you take the Bonus Action to create or move the illusion of your Invoke Duplicity, you can teleport, swapping places with the illusion.
 
 Source:	Player's Handbook 2024 p. 76</text>
@@ -531,7 +531,7 @@ Source:	Player's Handbook 2024 p. 76</text>
       </feature>
       <feature optional="YES">
         <name>War Domain: Guided Strike</name>
-        <text>When you or a creature within 30 feet of you misses with an attack roll, you can expend one use of your Channel Divinity and give that roll a +10 bonus, potentially causing it to hit. When you use this feature to benefit another creature's attack roll, you must take a Reaction to do so.
+        <text>When you or a creature within 30 feet of you misses with an attack roll, you can expend one use of your Channel Divinity and give that roll a +10 bonus, potentially causing it to hit. When you use this feature to benefit another creature&apos;s attack roll, you must take a Reaction to do so.
 
 Source:	Player's Handbook 2024 p. 77</text>
       </feature>
@@ -558,8 +558,8 @@ Source:	Player's Handbook 2024 p. 77</text>
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>War Domain: War God's Blessing</name>
-        <text>You can expend a use of your Channel Divinity to cast Shield of Faith or Spiritual Weapon rather than expending a spell slot. When you cast either spell in this way, the spell doesn't require Concentration. Instead the spell lasts for 1 minute, but it ends early if you cast that spell again, have the Incapacitated condition, or die.
+        <name>War Domain: War God&apos;s Blessing</name>
+        <text>You can expend a use of your Channel Divinity to cast Shield of Faith or Spiritual Weapon rather than expending a spell slot. When you cast either spell in this way, the spell doesn&apos;t require Concentration. Instead the spell lasts for 1 minute, but it ends early if you cast that spell again, have the Incapacitated condition, or die.
 
 Source:	Player's Handbook 2024 p. 77</text>
       </feature>

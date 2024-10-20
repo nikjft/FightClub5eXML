@@ -57,7 +57,7 @@ Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one ta
 Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. Hit: 6 (1d6 + 3) piercing damage.</text>
       <attack>Shortbow|+6|1d6+3</attack>
     </action>
-    <description>Source:	Essentials Kit: Storm Lord's Wrath</description>
+    <description>Source:	Essentials Kit: Storm Lord&apos;s Wrath</description>
     <environment/>
   </monster>
   <monster>
@@ -93,7 +93,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
       <attack>Sting|+4|1d6+2</attack>
       <attack>Sting||3d6</attack>
     </action>
-    <description>Source:	Essentials Kit: Storm Lord's Wrath</description>
+    <description>Source:	Essentials Kit: Storm Lord&apos;s Wrath</description>
     <environment/>
   </monster>
   <monster>
@@ -144,7 +144,7 @@ The spellcaster's spellcasting ability is Wisdom (spell save DC 14, +6 to hit wi
     </trait>
     <slots>0, 4, 3, 3, 1</slots>
     <spells>guidance, light, resistance, sacred flame, bless, cure wounds, shield of faith, aid, lesser restoration, protection from energy, revivify, death ward</spells>
-    <description>Source:	Essentials Kit: Storm Lord's Wrath</description>
+    <description>Source:	Essentials Kit: Storm Lord&apos;s Wrath</description>
     <environment/>
   </monster>
   <monster>
@@ -195,7 +195,7 @@ The spellcaster's spellcasting ability is Intelligence (spell save DC 14, +6 to 
     </trait>
     <slots>0, 4, 3, 3, 1</slots>
     <spells>fire bolt, light, mage hand, minor illusion, burning hands, shield, sleep, flaming sphere, invisibility, fireball, fly, wall of fire</spells>
-    <description>Source:	Essentials Kit: Storm Lord's Wrath</description>
+    <description>Source:	Essentials Kit: Storm Lord&apos;s Wrath</description>
     <environment/>
   </monster>
   <monster>
@@ -217,7 +217,7 @@ The spellcaster's spellcasting ability is Intelligence (spell save DC 14, +6 to 
     <passive>14</passive>
     <languages>Terran</languages>
     <cr>10</cr>
-    <resist>bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</resist>
+    <resist>bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t adamantine</resist>
     <immune>poison</immune>
     <vulnerable/>
     <conditionImmune>exhaustion, petrified, poisoned</conditionImmune>
@@ -244,7 +244,7 @@ Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) pierc
 Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) slashing damage.</text>
       <attack>Lightning Bolt Blades|+8|2d4+4</attack>
     </action>
-    <description>Source:	Essentials Kit: Storm Lord's Wrath</description>
+    <description>Source:	Essentials Kit: Storm Lord&apos;s Wrath</description>
     <environment/>
   </monster>
   <monster>
@@ -264,7 +264,7 @@ Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) slashi
     <save/>
     <skill>Perception +5</skill>
     <passive>15</passive>
-    <languages>understands Infernal but can't speak it</languages>
+    <languages>understands Infernal but can&apos;t speak it</languages>
     <cr>3</cr>
     <resist/>
     <immune>cold</immune>
@@ -294,7 +294,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) pierci
 Tooth-N-Claw exhales an icy blast in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 21 (6d6) cold damage on a failed save, or half as much damage on a successful one.</text>
       <attack>Freezing Breath||6d6</attack>
     </action>
-    <description>Source:	Essentials Kit: Storm Lord's Wrath</description>
+    <description>Source:	Essentials Kit: Storm Lord&apos;s Wrath</description>
     <environment/>
   </monster>
   <monster>
@@ -362,7 +362,7 @@ Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2)
       <text>
 The warrior imposes disadvantage on the attack roll of a creature within 5 feet of it whose target isn't the warrior. The warrior must be able to see the attacker.</text>
     </reaction>
-    <description>Source:	Essentials Kit: Storm Lord's Wrath</description>
+    <description>Source:	Essentials Kit: Storm Lord&apos;s Wrath</description>
     <environment/>
   </monster>
 </compendium>

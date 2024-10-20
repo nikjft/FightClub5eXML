@@ -74,7 +74,7 @@ Source:	Tasha's Cauldron of Everything p. 38</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Circle of Stars: Star Map [2014]</name>
-        <text>You've created a star chart as part of your heavenly studies. It is a Tiny object and can serve as a spellcasting focus for your druid spells. You determine its form by rolling on the Star Map table or by choosing one.
+        <text>You&apos;ve created a star chart as part of your heavenly studies. It is a Tiny object and can serve as a spellcasting focus for your druid spells. You determine its form by rolling on the Star Map table or by choosing one.
 
 Star Map:
 d6 | Map Form
@@ -257,7 +257,7 @@ Source:	Tasha's Cauldron of Everything p. 38</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Circle of Wildfire: Cauterizing Flames [2014]</name>
-        <text>You gain the ability to turn death into magical flames that can heal or incinerate. When a Small or larger creature dies within 30 feet of you or your wildfire spirit, a harmless spectral flame springs forth in the dead creature's space and flickers there for 1 minute. When a creature you can see enters that space, you can use your reaction to extinguish the spectral flame there and either heal the creature or deal fire damage to it. The healing or damage equals 2d10 + your Wisdom modifier.
+        <text>You gain the ability to turn death into magical flames that can heal or incinerate. When a Small or larger creature dies within 30 feet of you or your wildfire spirit, a harmless spectral flame springs forth in the dead creature&apos;s space and flickers there for 1 minute. When a creature you can see enters that space, you can use your reaction to extinguish the spectral flame there and either heal the creature or deal fire damage to it. The healing or damage equals 2d10 + your Wisdom modifier.
 
 You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
@@ -281,7 +281,7 @@ Source:	Tasha's Cauldron of Everything p. 39</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Circle of Spores: Fungal Body [2014]</name>
-        <text>At 14th level, the fungal spores in your body alter you: you can't be blinded, deafened, frightened, or poisoned, and any critical hit against you counts as a normal hit instead, unless you're incapacitated.
+        <text>At 14th level, the fungal spores in your body alter you: you can&apos;t be blinded, deafened, frightened, or poisoned, and any critical hit against you counts as a normal hit instead, unless you&apos;re incapacitated.
 
 Source:	Tasha's Cauldron of Everything p. 36</text>
       </feature>

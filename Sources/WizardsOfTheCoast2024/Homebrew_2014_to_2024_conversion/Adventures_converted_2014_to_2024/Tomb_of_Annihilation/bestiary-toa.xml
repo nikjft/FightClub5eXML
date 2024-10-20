@@ -88,7 +88,7 @@ Greater restoration, remove curse, or similar magic ends the curse on the target
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Acererak can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Acererak regains spent legendary actions at the start of his turn.</text>
+      <text>Acererak can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Acererak regains spent legendary actions at the start of his turn.</text>
     </legendary>
     <legendary>
       <name>At-Will Spell</name>
@@ -171,8 +171,8 @@ Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one ta
 The dwarf's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no material components:
 	• 1/Day each: hunter's mark, jump, pass without trace, speak with animals, speak with plants</text>
     </trait>
-    <spells>hunter's mark, jump, pass without trace, speak with animals, speak with plants</spells>
-    <description>The albino dwarves of Chult were driven from their subterranean homes by volcanic activity, and those who didn't seek refuge in Port Nyanzaru adapted to living in the jungle. They make armor out of dinosaur hide; shape weapons out of dinosaur bones, flint, and wood; and craft ornate jewelry out of bones, feathers, tusks, and stone beads. Albino dwarves haven't forgotten how to forge metal, but they seldom have the means to do so.
+    <spells>hunter&apos;s mark, jump, pass without trace, speak with animals, speak with plants</spells>
+    <description>The albino dwarves of Chult were driven from their subterranean homes by volcanic activity, and those who didn&apos;t seek refuge in Port Nyanzaru adapted to living in the jungle. They make armor out of dinosaur hide; shape weapons out of dinosaur bones, flint, and wood; and craft ornate jewelry out of bones, feathers, tusks, and stone beads. Albino dwarves haven&apos;t forgotten how to forge metal, but they seldom have the means to do so.
 
 Albino Dwarf Spirit Warriors:
 An albino dwarf can become so attuned to the land of Chult that a benevolent nature spirit takes notice and bestows a powerful charm on the dwarf, granting it innate spellcasting abilities. These dwarf spirit warriors dedicate themselves to preserving the natural beauty of Chult and battling unnatural threats. An albino dwarf spirit warrior has the statistics of an albino dwarf warrior, except it has a challenge rating of 1 (200 XP) and gains an Innate Spellcasting feature.
@@ -215,7 +215,7 @@ The dwarf has advantage on saving throws against poison.</text>
 Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) slashing damage.</text>
       <attack>Handaxe|+3|1d6+1</attack>
     </action>
-    <description>The albino dwarves of Chult were driven from their subterranean homes by volcanic activity, and those who didn't seek refuge in Port Nyanzaru adapted to living in the jungle. They make armor out of dinosaur hide; shape weapons out of dinosaur bones, flint, and wood; and craft ornate jewelry out of bones, feathers, tusks, and stone beads. Albino dwarves haven't forgotten how to forge metal, but they seldom have the means to do so.
+    <description>The albino dwarves of Chult were driven from their subterranean homes by volcanic activity, and those who didn&apos;t seek refuge in Port Nyanzaru adapted to living in the jungle. They make armor out of dinosaur hide; shape weapons out of dinosaur bones, flint, and wood; and craft ornate jewelry out of bones, feathers, tusks, and stone beads. Albino dwarves haven&apos;t forgotten how to forge metal, but they seldom have the means to do so.
 
 Source:	Tomb of Annihilation p. 210</description>
     <environment/>
@@ -442,7 +442,7 @@ The Ring of Winter has 12 charges and regains all its expended charges daily at 
 
 The ice creature obeys only its creator's commands. The object or creature appears in an unoccupied space within 60 feet of Artus. It melts into a pool of normal water after 24 hours or when it drops to 0 hit points. In extreme heat, it loses 5 (1d10) hit points per minute as it melts. Use the guidelines in chapter 8 of the Dungeon Master's Guide to determine the hit points of an inanimate object if they become necessary.</text>
     </action>
-    <description>A former member of the Harpers, Artus Cimber is the keeper of the Ring of Winter. He found the ring in the jungles of Chult, where he also met his wife, Alisanda. The ring halts its wearer's natural aging and has allowed Artus to survive well beyond his natural lifespan. The ring also defies magical attempts to divine its location and that of its wearer. On his fingers above the knuckles, Artus has tattooed the names of his dearly departed animal companions-a pair of talking wombats named Byrt and Lugg.
+    <description>A former member of the Harpers, Artus Cimber is the keeper of the Ring of Winter. He found the ring in the jungles of Chult, where he also met his wife, Alisanda. The ring halts its wearer&apos;s natural aging and has allowed Artus to survive well beyond his natural lifespan. The ring also defies magical attempts to divine its location and that of its wearer. On his fingers above the knuckles, Artus has tattooed the names of his dearly departed animal companions-a pair of talking wombats named Byrt and Lugg.
 
 Artus has spent most of his life trying to keep the Ring of Winter out of evil hands, but his return to Chult is focused on reuniting with his beloved Alisanda, who disappeared along with the city of Mezro during the Spellplague. No longer content to wait for Alisanda and Mezro to return on their own, Artus has been seeking the means to bring them back. He believes that Saja N'baza, an ancient guardian naga, can help him. As such, his search has been focused on locating the ruins of Orolunga, where the naga is said to dwell. Fate has handed Artus a saurial traveling companion named Dragonbait, whom he met in Port Nyanzaru. The two are always on the move. Consequently, their location in the adventure is randomly determined.
 
@@ -653,7 +653,7 @@ The atropal summons a wraith which materializes within 30 feet of it in an unocc
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The undead (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The undead (titan) regains spent legendary actions at the start of its turn.</text>
+      <text>The undead (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The undead (titan) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Touch</name>
@@ -670,7 +670,7 @@ The atropal uses its Ray of Cold.</text>
       <text>
 The atropal lets out a withering wail. Any creature within 120 feet of the atropal that can hear the wail must succeed on a DC 19 Constitution saving throw or gain 1 level of exhaustion.</text>
     </legendary>
-    <description>An atropal is a ghastly, unfinished creation of an evil god, cast adrift and abandoned long ago. Since an atropal was never truly alive, it can't be raised from the dead or resurrected by any means. Even divine intervention can't breathe true life into this hateful, miserable horror.
+    <description>An atropal is a ghastly, unfinished creation of an evil god, cast adrift and abandoned long ago. Since an atropal was never truly alive, it can&apos;t be raised from the dead or resurrected by any means. Even divine intervention can&apos;t breathe true life into this hateful, miserable horror.
 
 An atropal is malformed and unfinished. Its wet, wrinkled, and bloated body is surmounted by a hairless, overlarge head set with glassy, vacant eyes. It constantly drools stinking ichor as it mouths obscenities. Its arms are too slender, with tiny hands ending in cruelly shaped nails. An atropal never walks but always floats, with its atrophied, dead legs hanging useless below it.
 
@@ -702,10 +702,10 @@ Source:	Tomb of Annihilation p. 214</description>
     <save/>
     <skill>Perception +5, Stealth +4</skill>
     <passive>15</passive>
-    <languages>Common (can't speak in tiger form)</languages>
+    <languages>Common (can&apos;t speak in tiger form)</languages>
     <cr>4</cr>
     <resist/>
-    <immune>bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</immune>
+    <immune>bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</immune>
     <vulnerable/>
     <conditionImmune/>
     <senses>darkvision 60 ft.</senses>
@@ -780,7 +780,7 @@ The statistics presented in this section assume a base creature of human. Howeve
     <save>Dex +6, Int +4</save>
     <skill>Acrobatics +6, Deception +3, Perception +3, Stealth +9</skill>
     <passive>13</passive>
-    <languages>Thieves' cant, Common, Dwarvish</languages>
+    <languages>Thieves&apos; cant, Common, Dwarvish</languages>
     <cr>8</cr>
     <resist>poison</resist>
     <immune/>
@@ -833,7 +833,7 @@ Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3)
       <attack>Longbow|+6|1d8+3</attack>
       <attack>Longbow||7d6</attack>
     </action>
-    <description>Bag of Nails yearns for a hunter's death. Senility has taken hold, and now he sees all creatures as his prey.
+    <description>Bag of Nails yearns for a hunter&apos;s death. Senility has taken hold, and now he sees all creatures as his prey.
 
 He explains that he came to Omu to find a fabled treasure called the Navel of the Moon. He hoped to use its alleged powers to find his lost son, but he has long since given up hope of ever finding it.
 
@@ -857,7 +857,7 @@ Source:	Tomb of Annihilation p. 102</description>
     <save>Wis +0</save>
     <skill/>
     <passive>8</passive>
-    <languages>understands all languages it spoke in life but can't speak</languages>
+    <languages>understands all languages it spoke in life but can&apos;t speak</languages>
     <cr>1/4</cr>
     <resist/>
     <immune>poison</immune>
@@ -1083,7 +1083,7 @@ Source:	Tomb of Annihilation p. 100</description>
     <save>Wis +6, Cha +7</save>
     <skill>Athletics +5, Medicine +6</skill>
     <passive>13</passive>
-    <languages>understands Common but can't speak</languages>
+    <languages>understands Common but can&apos;t speak</languages>
     <cr>5</cr>
     <resist/>
     <immune/>
@@ -1384,10 +1384,10 @@ Eku's spellcasting ability is Charisma (spell save DC 14). It can innately cast 
     <save/>
     <skill>Perception +2</skill>
     <passive>12</passive>
-    <languages>Common (can't speak in boar form)</languages>
+    <languages>Common (can&apos;t speak in boar form)</languages>
     <cr>4</cr>
     <resist/>
-    <immune>bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</immune>
+    <immune>bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</immune>
     <vulnerable/>
     <conditionImmune/>
     <senses/>
@@ -1774,7 +1774,7 @@ Whenever an effect knocks the turtle prone, it can make a DC 10 Constitution sav
 Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 18 (4d6 + 4) slashing damage.</text>
       <attack>Bite|+6|4d6+4</attack>
     </action>
-    <description>Giant snapping turtles can grow to be 12 feet in diameter. Although they appear slow and ponderous, they are capable of startling bursts of speed and will aggressively attack smaller creatures that approach them. One snap of a giant turtle's jaws can cut a human in half, and these creatures aren't fussy about what they eat.
+    <description>Giant snapping turtles can grow to be 12 feet in diameter. Although they appear slow and ponderous, they are capable of startling bursts of speed and will aggressively attack smaller creatures that approach them. One snap of a giant turtle&apos;s jaws can cut a human in half, and these creatures aren&apos;t fussy about what they eat.
 
 Source:	Tomb of Annihilation p. 222</description>
     <environment/>
@@ -2056,7 +2056,7 @@ Source:	Tomb of Annihilation p. 33</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ifan Talro'a [2014]</name>
+    <name>Ifan Talro&apos;a [2014]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Any alignment</alignment>
@@ -2162,7 +2162,7 @@ Source:	Tomb of Annihilation p. 225</description>
     <save>Dex +6, Int +4</save>
     <skill>Acrobatics +6, Deception +3, Perception +3, Stealth +9</skill>
     <passive>13</passive>
-    <languages>Thieves' cant plus any two languages</languages>
+    <languages>Thieves&apos; cant plus any two languages</languages>
     <cr>8</cr>
     <resist>poison</resist>
     <immune/>
@@ -2680,7 +2680,7 @@ Source:	Tomb of Annihilation p. 227</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>1</cr>
     <resist>bludgeoning, piercing, slashing from nonmagical attacks</resist>
     <immune>poison</immune>
@@ -2754,7 +2754,7 @@ Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one ta
 Musharib's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no material components:
 	• 1/Day each: hunter's mark, jump, pass without trace, speak with animals, speak with plants</text>
     </trait>
-    <spells>hunter's mark, jump, pass without trace, speak with animals, speak with plants</spells>
+    <spells>hunter&apos;s mark, jump, pass without trace, speak with animals, speak with plants</spells>
     <description>Source:	Tomb of Annihilation p. 34</description>
     <environment/>
   </monster>
@@ -2847,7 +2847,7 @@ Source:	Tomb of Annihilation p. 228</description>
     <environment/>
   </monster>
   <monster>
-    <name>Nanny Pu'pu [2014]</name>
+    <name>Nanny Pu&apos;pu [2014]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Neutral Evil</alignment>
@@ -3616,7 +3616,7 @@ Shago adds 3 to its AC against one melee attack that would hit it. To do so, Sha
     <save/>
     <skill/>
     <passive>9</passive>
-    <languages>understands all languages it spoke in life but can't speak</languages>
+    <languages>understands all languages it spoke in life but can&apos;t speak</languages>
     <cr>1/4</cr>
     <resist/>
     <immune>poison</immune>
@@ -3660,10 +3660,10 @@ Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) 
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>6</cr>
     <resist/>
-    <immune>lightning, poison; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</immune>
+    <immune>lightning, poison; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t adamantine</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
@@ -3957,7 +3957,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashi
 Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d6 + 3) piercing damage.</text>
       <attack>Shortbow|+5|1d6+3</attack>
     </action>
-    <description>Tabaxi are catfolk who hail from the land of Maztica. The ultimate wanderers, Tabaxi rarely stay in one place for long. They love to collect interesting artifacts, gather tales, and lay eyes on all the world's wonders. This curiosity pushes them to leave no secrets uncovered, and no treasures or legends lost. They revere a fickle deity called the Cat Lord, who is said to wander the world.
+    <description>Tabaxi are catfolk who hail from the land of Maztica. The ultimate wanderers, Tabaxi rarely stay in one place for long. They love to collect interesting artifacts, gather tales, and lay eyes on all the world&apos;s wonders. This curiosity pushes them to leave no secrets uncovered, and no treasures or legends lost. They revere a fickle deity called the Cat Lord, who is said to wander the world.
 
 Tabaxi hunters are trained to survive in the wild, making them excellent guides. Tabaxi minstrels gather in small troupes and make themselves at home in any settlement, earning coin through music and storytelling.
 
@@ -4019,7 +4019,7 @@ Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) slashing d
 Ranged Weapon Attack: +4 to hit, range 20/ 60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.</text>
       <attack>Dart|+4|1d4+2</attack>
     </action>
-    <description>Tabaxi are catfolk who hail from the land of Maztica. The ultimate wanderers, Tabaxi rarely stay in one place for long. They love to collect interesting artifacts, gather tales, and lay eyes on all the world's wonders. This curiosity pushes them to leave no secrets uncovered, and no treasures or legends lost. They revere a fickle deity called the Cat Lord, who is said to wander the world.
+    <description>Tabaxi are catfolk who hail from the land of Maztica. The ultimate wanderers, Tabaxi rarely stay in one place for long. They love to collect interesting artifacts, gather tales, and lay eyes on all the world&apos;s wonders. This curiosity pushes them to leave no secrets uncovered, and no treasures or legends lost. They revere a fickle deity called the Cat Lord, who is said to wander the world.
 
 Tabaxi hunters are trained to survive in the wild, making them excellent guides. Tabaxi minstrels gather in small troupes and make themselves at home in any settlement, earning coin through music and storytelling.
 
@@ -4101,7 +4101,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) pierci
     <passive>13</passive>
     <languages>the languages it knew in life</languages>
     <cr>3</cr>
-    <resist>necrotic; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>necrotic; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <immune>poison</immune>
     <vulnerable/>
     <conditionImmune>exhaustion, poisoned</conditionImmune>
@@ -4158,10 +4158,10 @@ Source:	Tomb of Annihilation p. 135</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>5</cr>
     <resist/>
-    <immune>lightning, poison; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</immune>
+    <immune>lightning, poison; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t adamantine</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
@@ -4393,7 +4393,7 @@ The target must succeed on a DC 18 Constitution saving throw or be paralyzed for
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>Valindra can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Valindra regains spent legendary actions at the start of its turn.</text>
+      <text>Valindra can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Valindra regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Cantrip</name>
@@ -4432,8 +4432,8 @@ Valindra is an 18th-level spellcaster. Her spellcasting ability is Intelligence 
 	• 9th level (1 slots): power word kill</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
-    <spells>mage hand, prestidigitation, ray of frost, detect magic, magic missile, shield, thunderwave, detect thoughts, invisibility, Melf's acid arrow, mirror image, animate dead, counterspell, dispel magic, fireball, blight, dimension door, cloudkill, scrying, disintegrate, globe of invulnerability, finger of death, plane shift, dominate monster, power word stun, power word kill</spells>
-    <description>Liches are the remains of great wizards who embrace undeath as a means of preserving themselves. They further their own power at any cost, having no interest in the affairs of the living except where those affairs interfere with their own. Scheming and insane, they hunger for long-forgotten knowledge and the most terrible secrets. Because the shadow of death doesn't hang over them, they can conceive plans that take years, decades, or centuries to come to fruition.
+    <spells>mage hand, prestidigitation, ray of frost, detect magic, magic missile, shield, thunderwave, detect thoughts, invisibility, Melf&apos;s acid arrow, mirror image, animate dead, counterspell, dispel magic, fireball, blight, dimension door, cloudkill, scrying, disintegrate, globe of invulnerability, finger of death, plane shift, dominate monster, power word stun, power word kill</spells>
+    <description>Liches are the remains of great wizards who embrace undeath as a means of preserving themselves. They further their own power at any cost, having no interest in the affairs of the living except where those affairs interfere with their own. Scheming and insane, they hunger for long-forgotten knowledge and the most terrible secrets. Because the shadow of death doesn&apos;t hang over them, they can conceive plans that take years, decades, or centuries to come to fruition.
 
 A lich is a gaunt and skeletal humanoid with withered flesh stretched tight across its bones. Its eyes succumbed to decay long ago, but points of light burn in its empty sockets. It is often garbed in the moldering remains of fine clothing and jewelry worn and dulled by the passage of time.
 
@@ -4487,7 +4487,7 @@ Volo is a 1st-level spellcaster. His spellcasting ability is Intelligence (spell
     </trait>
     <slots>0, 2</slots>
     <spells>friends, mending, prestidigitation, comprehend languages, detect magic, disguise self</spells>
-    <description>The bombastic world traveler Volothamp Geddarmn has come to Chult to deliver signed copies of his latest book, Volo's Guide to Monsters. In addition to setting up audiences with the seven merchant princes of Port Nyanzaru (whom he knows well), Volo is visiting local taverns to promote his work, and the characters might meet him at some point in the city. Volo is a font of information (not all of it accurate), but he won't join the party under any circumstances. He might, however, allow the characters to tag along while he visits each merchant prince in turn.
+    <description>The bombastic world traveler Volothamp Geddarmn has come to Chult to deliver signed copies of his latest book, Volo&apos;s Guide to Monsters. In addition to setting up audiences with the seven merchant princes of Port Nyanzaru (whom he knows well), Volo is visiting local taverns to promote his work, and the characters might meet him at some point in the city. Volo is a font of information (not all of it accurate), but he won&apos;t join the party under any circumstances. He might, however, allow the characters to tag along while he visits each merchant prince in turn.
 
 The personable Volo is more than willing to share 1d4 + 1 rumors from the Jungle Rumors table at the end of chapter 1, which he's overheard since arriving in Port Nyanzaru.
 
@@ -4501,7 +4501,7 @@ Source:	Tomb of Annihilation p. 235,
     <environment/>
   </monster>
   <monster>
-    <name>Wakanga O'tamu [2014]</name>
+    <name>Wakanga O&apos;tamu [2014]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Any alignment</alignment>
@@ -4612,7 +4612,7 @@ Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) pierci
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands Aquan but doesn't speak</languages>
+    <languages>understands Aquan but doesn&apos;t speak</languages>
     <cr>3</cr>
     <resist>fire; bludgeoning, piercing, slashing from nonmagical attacks</resist>
     <immune>poison</immune>
@@ -4659,7 +4659,7 @@ If the target is Medium or smaller, it is grappled (escape DC 13) and pulled 5 f
     <passive>13</passive>
     <languages>the languages he knew in life</languages>
     <cr>4</cr>
-    <resist>necrotic; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>necrotic; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <immune>poison</immune>
     <vulnerable/>
     <conditionImmune>exhaustion, poisoned</conditionImmune>
@@ -4686,7 +4686,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) necrot
 
 The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</text>
       <attack>Life Drain|+4|1d6+2</attack>
-      <text>A humanoid slain by this attack rises 24 hours later as a zombie under the Withers's control, unless the humanoid is restored to life or its body is destroyed. Withers can have no more than twelve zombies under its control at one time.</text>
+      <text>A humanoid slain by this attack rises 24 hours later as a zombie under the Withers&apos;s control, unless the humanoid is restored to life or its body is destroyed. Withers can have no more than twelve zombies under its control at one time.</text>
     </action>
     <action>
       <name>Longsword</name>
@@ -4708,7 +4708,7 @@ Withers is a 9th-level spellcaster. His spellcasting ability is Intelligence (sp
     </trait>
     <slots>0, 4, 4, 3, 3, 1</slots>
     <spells>acid splash, mage hand, minor illusion, prestidigitation, detect magic, expeditious retreat, feather fall, thunderwave, darkness, hold person, rope trick, dispel magic, lightning bolt, blight, wall of fire, telekinesis</spells>
-    <description>Before he was turned into an undead creature, Withers was an Omuan engineer named Gorra. Like all of Omu's citizens, Gorra was enslaved and put to work constructing the tomb. When Acererak sacrificed his workers to their own dungeon, Gorra's traps performed the best.
+    <description>Before he was turned into an undead creature, Withers was an Omuan engineer named Gorra. Like all of Omu&apos;s citizens, Gorra was enslaved and put to work constructing the tomb. When Acererak sacrificed his workers to their own dungeon, Gorra&apos;s traps performed the best.
 
 Source:	Tomb of Annihilation p. 145</description>
     <environment/>
@@ -4763,7 +4763,7 @@ Xandala is a 9th-level spellcaster. Her spellcasting ability is Charisma (spell 
     </trait>
     <slots>0, 4, 4, 3, 3, 1</slots>
     <spells>acid splash, fire bolt, light, mage hand, ray of frost, chromatic orb, feather fall, shield, invisibility, misty step, fireball, fly, ice storm, polymorph, dominate person</spells>
-    <description>The half-elf sorcerer Xandala has come to Chult in search of the Ring of Winter, an artifact in Artus Cimber's possession. Xandala knows that the ring has kept Artus alive for over a century, and she craves its power. If she meets the characters, Xandala pretends to be Artus's daughter and tries to convince them to help her find him. Her plan is to cast dominate person on Artus and force him to give her the ring, then escape using her fly spell.
+    <description>The half-elf sorcerer Xandala has come to Chult in search of the Ring of Winter, an artifact in Artus Cimber&apos;s possession. Xandala knows that the ring has kept Artus alive for over a century, and she craves its power. If she meets the characters, Xandala pretends to be Artus&apos;s daughter and tries to convince them to help her find him. Her plan is to cast dominate person on Artus and force him to give her the ring, then escape using her fly spell.
 
 Xandala's magic traces back to a draconic bloodline, and parts of her skin are covered by a thin sheen of protective scales. She has befriended a pseudodragon named Summerwise, who thinks that Xandala's quest for the ring is dangerous but has given up trying to talk the sorcerer out of it. Summerwise can be turned against Xandala by good-aligned characters.
 
@@ -4823,7 +4823,7 @@ If the target is a humanoid that drops to 0 hit points as a result of this damag
       <text>
 The creeper's flowers release a strong musk that targets all humanoids within 30 feet of it. Each target must succeed on a DC 11 Wisdom saving throw or be charmed by the creeper for 1 minute. A creature charmed in this way does nothing on its turn except move as close as it can to the creeper. A creature charmed by the creeper can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
     </action>
-    <description>A yellow musk creeper is an unholy vine whose flowers resemble an orchid's. Bright yellow with splashes of purple, these flowers expel a musk that attracts prey. A yellow musk creeper clings to walls, pillars, gravestones, door frames, or statuary in shadowy locations, remaining motionless until it strikes.
+    <description>A yellow musk creeper is an unholy vine whose flowers resemble an orchid&apos;s. Bright yellow with splashes of purple, these flowers expel a musk that attracts prey. A yellow musk creeper clings to walls, pillars, gravestones, door frames, or statuary in shadowy locations, remaining motionless until it strikes.
 
 Humanoid Hosts:
 A yellow musk creeper destroys the minds of humanoids, then implants bulbs in those it kills. Twenty-four hours after being implanted, a bulb sprouts a creeper vine that magically animates the host corpse, turning it into a yellow musk zombie under the young vine's control. In addition to protecting the defenseless plant, the zombie acts as fertilizer for the young creeper vine, which grows to full size in seven days. Once it is fully grown, the new yellow musk creeper becomes mobile and bursts from its zombie host, whereupon the zombie collapses into a mound of dead offal. If the zombie is destroyed before the creeper emerges, the creeper withers and dies.
@@ -4869,7 +4869,7 @@ If damage reduces the zombie to 0 hit points, it must make a Constitution saving
 Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) bludgeoning damage.</text>
       <attack>Slam|+3|1d8+1</attack>
     </action>
-    <description>A yellow musk creeper is an unholy vine whose flowers resemble an orchid's. Bright yellow with splashes of purple, these flowers expel a musk that attracts prey. A yellow musk creeper clings to walls, pillars, gravestones, door frames, or statuary in shadowy locations, remaining motionless until it strikes.
+    <description>A yellow musk creeper is an unholy vine whose flowers resemble an orchid&apos;s. Bright yellow with splashes of purple, these flowers expel a musk that attracts prey. A yellow musk creeper clings to walls, pillars, gravestones, door frames, or statuary in shadowy locations, remaining motionless until it strikes.
 
 Humanoid Hosts:
 A yellow musk creeper destroys the minds of humanoids, then implants bulbs in those it kills. Twenty-four hours after being implanted, a bulb sprouts a creeper vine that magically animates the host corpse, turning it into a yellow musk zombie under the young vine's control. In addition to protecting the defenseless plant, the zombie acts as fertilizer for the young creeper vine, which grows to full size in seven days. Once it is fully grown, the new yellow musk creeper becomes mobile and bursts from its zombie host, whereupon the zombie collapses into a mound of dead offal. If the zombie is destroyed before the creeper emerges, the creeper withers and dies.
@@ -5288,7 +5288,7 @@ Zindar is a 14th-level spellcaster. His spellcasting ability is Charisma (spell 
     </trait>
     <slots>6, 4, 3, 3, 3, 1, 1</slots>
     <spells>fire bolt, friends, light, mage hand, mending, message, magic missile, shield, sleep, detect thoughts, knock, clairvoyance, tongues, dominate beast, stoneskin, hold monster, telekinesis, true seeing, fire storm</spells>
-    <description>This half-gold dragon runs Port Nyanzaru's docks and keeps track of ship manifests. A sorcerer of impressive ability, Zindar is well paid by the merchant princes for his work. He is also a key member of the Ytepka Society and a great source of information about the city. Zindar has a soft spot for adventurers, but he knows the dangers of Chult well enough to understand that most of those who embark on expeditions to explore the jungle never return.
+    <description>This half-gold dragon runs Port Nyanzaru&apos;s docks and keeps track of ship manifests. A sorcerer of impressive ability, Zindar is well paid by the merchant princes for his work. He is also a key member of the Ytepka Society and a great source of information about the city. Zindar has a soft spot for adventurers, but he knows the dangers of Chult well enough to understand that most of those who embark on expeditions to explore the jungle never return.
 
 Zindar makes extensive use of spells in his day-today work, casting message to deliver missives to dock workers, detect thoughts for reading ship captains' minds, knock for unsealing containers for inspection, clairvoyance for peering into ship holds, dominate beast to pacify nervous animals, and so forth.
 

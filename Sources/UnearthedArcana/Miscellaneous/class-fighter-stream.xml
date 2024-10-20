@@ -5,7 +5,7 @@
     <autolevel level="3">
       <feature optional="YES">
         <name>Martial Archetype: Warlord (Livestream)</name>
-        <text>Transcribed on 2018-03-28. [Square bracketed text] denotes transcriber's annotations.
+        <text>Transcribed on 2018-03-28. [Square bracketed text] denotes transcriber&apos;s annotations.
 
 Source:	Livestream</text>
       </feature>
@@ -28,7 +28,7 @@ Source:	Livestream</text>
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Warlord (Livestream): Tactician's Insight</name>
+        <name>Warlord (Livestream): Tactician&apos;s Insight</name>
         <text>Starting at 3rd level, you can grant your allies useful tactical insights while they are in the area of your tactical focus.
 
 You gain a number of uses of insight based on your fighter level.
@@ -66,7 +66,7 @@ Source:	Livestream</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Warlord (Livestream): Clear the area</name>
-        <text>If an ally hits a creature in your tactical focus with an attack, the ally can move that creature 5 ft. in addition to the attack's other effects.
+        <text>If an ally hits a creature in your tactical focus with an attack, the ally can move that creature 5 ft. in addition to the attack&apos;s other effects.
 
 Source:	Livestream</text>
       </feature>
@@ -93,7 +93,7 @@ Source:	Livestream</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Warlord (Livestream): Get Down</name>
-        <text>If an allied creature in your tactical focus must make a Dexterity saving throw it can use its reaction to move up to its speed. If this movement takes it out of the range or area of the effect that caused the saving throw, it is no longer subjected to the effect. [In future, this may be changed to instead give advantage on the saving throw, or require the creature to drop prone, or cancel the creature's next move.]
+        <text>If an allied creature in your tactical focus must make a Dexterity saving throw it can use its reaction to move up to its speed. If this movement takes it out of the range or area of the effect that caused the saving throw, it is no longer subjected to the effect. [In future, this may be changed to instead give advantage on the saving throw, or require the creature to drop prone, or cancel the creature&apos;s next move.]
 
 Source:	Livestream</text>
       </feature>
@@ -128,7 +128,7 @@ Source:	Livestream</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Martial Archetype: Weapon Master (Livestream)</name>
-        <text>Transcribed on 2018-10-13. [Square bracketed text] denotes transcriber's annotations.
+        <text>Transcribed on 2018-10-13. [Square bracketed text] denotes transcriber&apos;s annotations.
 
 A weapon master follows the fighting techniques of the Sublime way. This martial discipline combines a variety of sources, from arcane and divine magic to the hardened resolve of a master warrior, to produce astounding battlefield effects.
 
@@ -175,7 +175,7 @@ Source:	Livestream</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Weapon Master (Livestream): Masterful Strike</name>
-        <text>When you reach 3rd level, you gain the ability to use a martial exploit to land a telling blow. When you make a weapon attack, you can expend a martial exploit. Roll the dice for your exploit along with your attack. If your attack misses, you can use one or more of the exploit's dice results as a bonus to your attack. If the attack hits, apply any unused dice as a bonus to your weapon damage roll.
+        <text>When you reach 3rd level, you gain the ability to use a martial exploit to land a telling blow. When you make a weapon attack, you can expend a martial exploit. Roll the dice for your exploit along with your attack. If your attack misses, you can use one or more of the exploit&apos;s dice results as a bonus to your attack. If the attack hits, apply any unused dice as a bonus to your weapon damage roll.
 
 Source:	Livestream</text>
       </feature>
@@ -184,7 +184,7 @@ Source:	Livestream</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Weapon Master (Livestream): Path of the Shadow Harlequin</name>
-        <text>The Shadow Harlequin path is a school of artful sword play and mesmerizing flourishes. Its practitioners attack a foe's mind and body, maneuvering their foes into tactical blunders with cunning feints and sudden, surprising moves.
+        <text>The Shadow Harlequin path is a school of artful sword play and mesmerizing flourishes. Its practitioners attack a foe&apos;s mind and body, maneuvering their foes into tactical blunders with cunning feints and sudden, surprising moves.
 
 Shadow Harlequins typically fight with light, agile weapons, such as rapiers and short swords, but their talents are useful to almost any warrior.
 
@@ -248,7 +248,7 @@ Source:	Livestream</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Slayer (Livestream): Slayer</name>
-        <text>A slayer is a fighter who specializes in bringing down the mightiest monsters wth a few, resounding blows. Some slayers target specific types of monsters, such as dwarven giant slayers who patrol the mountain's peaks or human dragon slayers who train to defeat wyrms of all types.
+        <text>A slayer is a fighter who specializes in bringing down the mightiest monsters wth a few, resounding blows. Some slayers target specific types of monsters, such as dwarven giant slayers who patrol the mountain&apos;s peaks or human dragon slayers who train to defeat wyrms of all types.
 
 Source:	Livestream</text>
       </feature>
@@ -277,7 +277,7 @@ Source:	Livestream</text>
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Slayer (Livestream): Slayer's Exploits</name>
+        <name>Slayer (Livestream): Slayer&apos;s Exploits</name>
         <text>When you reach 3rd level, you gain several martial exploits that allow you to lay low even the mightiest foe. The ability to use a martial exploit to land a telling blow. You gain the Adamantine Bones, Bell Ringer, and Masterful Strike exploits.
 
 Slayer (Livestream): Adamantine Bones
@@ -372,7 +372,7 @@ Source:	Livestream</text>
 
     <autolevel level="7">
       <feature optional="YES">
-        <name>Slayer (Livestream): Slayer's Diplomacy</name>
+        <name>Slayer (Livestream): Slayer&apos;s Diplomacy</name>
         <text>Starting at 7th level, you blend your martial talent with the softer skills needed to navigate the world. If you are holding a weapon when you make a Charisma (Intimidation) check, you gain a bonus to the roll equal to your proficiency bonus. You use your weapon to assist in your check, such as pole vaulting with your staff, using your sword to aid your balance, or menacing an enemy with a bloodied flail.
 
 Source:	Livestream</text>
@@ -494,7 +494,7 @@ Source:	Livestream</text>
     <autolevel level="18">
       <feature optional="YES">
         <name>Warlord (Livestream): Perfect Coordination</name>
-        <text>Starting at 18th level, you gain the ability to unleash a devastating combination of your allies' abilities. As a bonus action, select up to five allies who can see or hear you. They can use their reactions to immediately take actions.
+        <text>Starting at 18th level, you gain the ability to unleash a devastating combination of your allies&apos; abilities. As a bonus action, select up to five allies who can see or hear you. They can use their reactions to immediately take actions.
 
 Once you use this ability, you cannot use it again until you complete a long rest.
 

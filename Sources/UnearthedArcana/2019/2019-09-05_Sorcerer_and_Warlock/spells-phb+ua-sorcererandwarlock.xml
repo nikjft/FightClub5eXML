@@ -37,7 +37,7 @@
     <classes>Sorcerer (Aberrant Mind (UA))</classes>
   </spell> -->
   <spell>
-    <name>Evard's Black Tentacles</name>
+    <name>Evard&apos;s Black Tentacles</name>
     <classes>Warlock (Lurker in the Deep (UA))</classes>
     <!-- <classes>Sorcerer (Aberrant Mind (UA)), Warlock (Lurker in the Deep (UA))</classes> -->
   </spell>
@@ -58,7 +58,7 @@
     <classes>Sorcerer (Aberrant Mind (UA))</classes>
   </spell>
   <spell>
-    <name>Rary's Telepathic Bond</name>
+    <name>Rary&apos;s Telepathic Bond</name>
     <classes>Sorcerer (Aberrant Mind (UA))</classes>
   </spell>
   <spell>

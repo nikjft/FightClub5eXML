@@ -62,7 +62,7 @@ Druids are often found guarding sacred sites or watching over regions of unspoil
     </trait>
     <trait>
       <name>Creating a Druid</name>
-      <text>When making a druid, consider why your character has such a close bond with nature. Perhaps your character lives in a society where the Old Faith still thrives, or was raised by a druid after being abandoned in the depths of a forest. Perhaps your character had a dramatic encounter with the spirits of nature, coming face to face with a giant eagle or dire wolf and surviving the experience. Maybe your character was born during an epic storm or a volcanic eruption, which was interpreted as a sign that becoming a druid was part of your character's destiny.
+      <text>When making a druid, consider why your character has such a close bond with nature. Perhaps your character lives in a society where the Old Faith still thrives, or was raised by a druid after being abandoned in the depths of a forest. Perhaps your character had a dramatic encounter with the spirits of nature, coming face to face with a giant eagle or dire wolf and surviving the experience. Maybe your character was born during an epic storm or a volcanic eruption, which was interpreted as a sign that becoming a druid was part of your character&apos;s destiny.
 
 Have you always been an adventurer as part of your druidic calling, or did you first spend time as a caretaker of a sacred grove or spring? Perhaps your homeland was befouled by evil, and you took up an adventuring life in hopes of finding a new home or purpose.
 
@@ -97,7 +97,7 @@ Source:	Player's Handbook p. 64</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Multiclass Druid</name>
-        <text>If your group uses the optional rule on multiclassing in the Player's Handbook, here's what you need to know if you choose druid as one of your classes.
+        <text>If your group uses the optional rule on multiclassing in the Player&apos;s Handbook, here&apos;s what you need to know if you choose druid as one of your classes.
 
 Ability Score Minimum:
 As a multiclass character, you must have at least the following ability score(s) to take a level in this class, or to take a level in another class if you are already a druid.
@@ -118,7 +118,7 @@ Source:	Player's Handbook p. 64</text>
     <autolevel level="1">
       <feature>
         <name>Druidic</name>
-        <text>You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom (Perception) check but can't decipher it without magic.
+        <text>You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message&apos;s presence with a successful DC 15 Wisdom (Perception) check but can&apos;t decipher it without magic.
 
 Source:	Player's Handbook p. 64</text>
       </feature>
@@ -206,7 +206,7 @@ Source:	Player's Handbook p. 67</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Druid Circle: Circle of the Land</name>
-        <text>The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle's mysterious rites.
+        <text>The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle&apos;s wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle&apos;s mysterious rites.
 
 Source:	Player's Handbook p. 68</text>
       </feature>
@@ -215,7 +215,7 @@ Source:	Player's Handbook p. 68</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Circle of the Land: Bonus Cantrip</name>
-        <text>When you choose this circle at 2nd level, you learn one additional druid cantrip of your choice. This cantrip doesn't count against the number of druid cantrips you know.
+        <text>When you choose this circle at 2nd level, you learn one additional druid cantrip of your choice. This cantrip doesn&apos;t count against the number of druid cantrips you know.
 
 Source:	Player's Handbook p. 68</text>
       </feature>
@@ -224,7 +224,7 @@ Source:	Player's Handbook p. 68</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Circle of the Land: Natural Recovery</name>
-        <text>Starting at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher. You can't use this feature again until you finish a long rest.
+        <text>Starting at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher. You can&apos;t use this feature again until you finish a long rest.
 
 For example, when you are a 4th-level druid, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level slot or two 1st-level slots.
 
@@ -360,7 +360,7 @@ Source:	Player's Handbook p. 68</text>
 
       <feature optional="YES">
         <name>Circle of the Land: Arctic</name>
-        <text>At each indicated level, add the listed spells to your druid spell list. These spells are always prepared and don't count against the number of spells you prepare each day.
+        <text>At each indicated level, add the listed spells to your druid spell list. These spells are always prepared and don&apos;t count against the number of spells you prepare each day.
 
 3rd | hold person, spike growth
 5th | sleet storm, slow
@@ -371,7 +371,7 @@ Source:	Player's Handbook p. 68</text>
       </feature>
       <feature optional="YES">
         <name>Circle of the Land: Coast</name>
-        <text>At each indicated level, add the listed spells to your druid spell list. These spells are always prepared and don't count against the number of spells you prepare each day.
+        <text>At each indicated level, add the listed spells to your druid spell list. These spells are always prepared and don&apos;t count against the number of spells you prepare each day.
 
 3rd | mirror image, misty step
 5th | water breathing, water walk
@@ -382,7 +382,7 @@ Source:	Player's Handbook p. 68</text>
       </feature>
       <feature optional="YES">
         <name>Circle of the Land: Desert</name>
-        <text>At each indicated level, add the listed spells to your druid spell list. These spells are always prepared and don't count against the number of spells you prepare each day.
+        <text>At each indicated level, add the listed spells to your druid spell list. These spells are always prepared and don&apos;t count against the number of spells you prepare each day.
 
 3rd | blur, silence
 5th | create food and water, protection from energy
@@ -393,7 +393,7 @@ Source:	Player's Handbook p. 68</text>
       </feature>
       <feature optional="YES">
         <name>Circle of the Land: Forest</name>
-        <text>At each indicated level, add the listed spells to your druid spell list. These spells are always prepared and don't count against the number of spells you prepare each day.
+        <text>At each indicated level, add the listed spells to your druid spell list. These spells are always prepared and don&apos;t count against the number of spells you prepare each day.
 
 3rd | barkskin, spider climb
 5th | call lightning, plant growth
@@ -404,7 +404,7 @@ Source:	Player's Handbook p. 68</text>
       </feature>
       <feature optional="YES">
         <name>Circle of the Land: Grassland</name>
-        <text>At each indicated level, add the listed spells to your druid spell list. These spells are always prepared and don't count against the number of spells you prepare each day.
+        <text>At each indicated level, add the listed spells to your druid spell list. These spells are always prepared and don&apos;t count against the number of spells you prepare each day.
 
 3rd | invisibility, pass without trace
 5th | daylight, haste
@@ -415,7 +415,7 @@ Source:	Player's Handbook p. 68</text>
       </feature>
       <feature optional="YES">
         <name>Circle of the Land: Mountain</name>
-        <text>At each indicated level, add the listed spells to your druid spell list. These spells are always prepared and don't count against the number of spells you prepare each day.
+        <text>At each indicated level, add the listed spells to your druid spell list. These spells are always prepared and don&apos;t count against the number of spells you prepare each day.
 
 3rd | spider climb, spike growth
 5th | lightning bolt, meld into stone
@@ -426,7 +426,7 @@ Source:	Player's Handbook p. 68</text>
       </feature>
       <feature optional="YES">
         <name>Circle of the Land: Swamp</name>
-        <text>At each indicated level, add the listed spells to your druid spell list. These spells are always prepared and don't count against the number of spells you prepare each day.
+        <text>At each indicated level, add the listed spells to your druid spell list. These spells are always prepared and don&apos;t count against the number of spells you prepare each day.
 
 3rd | darkness, Melf's acid arrow
 5th | water walk, stinking cloud
@@ -437,7 +437,7 @@ Source:	Player's Handbook p. 68</text>
       </feature>
       <feature optional="YES">
         <name>Circle of the Land: Underdark</name>
-        <text>At each indicated level, add the listed spells to your druid spell list. These spells are always prepared and don't count against the number of spells you prepare each day.
+        <text>At each indicated level, add the listed spells to your druid spell list. These spells are always prepared and don&apos;t count against the number of spells you prepare each day.
 
 3rd | spider climb, web
 5th | gaseous form, stinking cloud
@@ -460,7 +460,7 @@ Source:	Player's Handbook p. 64</text>
     <autolevel level="4" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -479,7 +479,7 @@ Source:	Player's Handbook p. 64</text>
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Circle of the Land: Land's Stride</name>
+        <name>Circle of the Land: Land&apos;s Stride</name>
         <text>Starting at 6th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
 In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the entangle spell.
@@ -509,7 +509,7 @@ Source:	Player's Handbook p. 64</text>
     <autolevel level="8" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -528,8 +528,8 @@ Source:	Player's Handbook p. 64</text>
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Circle of the Land: Nature's Ward</name>
-        <text>When you reach 10th level, you can't be charmed or frightened by elementals or fey, and you are immune to poison and disease.
+        <name>Circle of the Land: Nature&apos;s Ward</name>
+        <text>When you reach 10th level, you can&apos;t be charmed or frightened by elementals or fey, and you are immune to poison and disease.
 
 Source:	Player's Handbook p. 68</text>
       </feature>
@@ -547,7 +547,7 @@ Source:	Player's Handbook p. 69</text>
     <autolevel level="12" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -566,7 +566,7 @@ Source:	Player's Handbook p. 64</text>
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Circle of the Land: Nature's Sanctuary</name>
+        <name>Circle of the Land: Nature&apos;s Sanctuary</name>
         <text>When you reach 14th level, creatures of the natural world sense your connection to nature and become hesitant to attack you. When a beast or plant creature attacks you, that creature must make a Wisdom saving throw against your druid spell save DC. On a failed save, the creature must choose a different target, or the attack automatically misses. On a successful save, the creature is immune to this effect for 24 hours.
 
 The creature is aware of this effect before it makes its attack against you.
@@ -587,7 +587,7 @@ Source:	Player's Handbook p. 69</text>
     <autolevel level="16" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -607,7 +607,7 @@ Source:	Player's Handbook p. 64</text>
     <autolevel level="18">
       <feature>
         <name>Beast Spells</name>
-        <text>Beginning at 18th level, you can cast many of your druid spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druid spell while in a beast shape, but you aren't able to provide material components.
+        <text>Beginning at 18th level, you can cast many of your druid spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druid spell while in a beast shape, but you aren&apos;t able to provide material components.
 
 Source:	Player's Handbook p. 64</text>
       </feature>
@@ -616,7 +616,7 @@ Source:	Player's Handbook p. 64</text>
     <autolevel level="19" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 

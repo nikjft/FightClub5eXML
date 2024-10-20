@@ -65,7 +65,7 @@ d6 | Flaw
     <proficiency>Deception, Sleight of Hand</proficiency>
     <trait>
       <name>Description</name>
-      <text>You have always had a way with people. You know what makes them tick, you can tease out their hearts' desires after a few minutes of conversation, and with a few leading questions you can read them like they were children's books. It's a useful talent, and one that you're perfectly willing to use for your advantage.
+      <text>You have always had a way with people. You know what makes them tick, you can tease out their hearts' desires after a few minutes of conversation, and with a few leading questions you can read them like they were children's books. It&apos;s a useful talent, and one that you&apos;re perfectly willing to use for your advantage.
 
 You know what people want and you deliver, or rather, you promise to deliver. Common sense should steer people away from things that sound too good to be true, but common sense seems to be in short supply when you're around. The bottle of pink-colored liquid will surely cure that unseemly rash, this ointment — nothing more than a bit of fat with a sprinkle of silver dust — can restore youth and vigor, and there's a bridge in the city that just happens to be for sale. These marvels sound implausible, but you make them sound like the real deal.
 
@@ -136,7 +136,7 @@ d6 | Flaw
     <proficiency>Deception, Stealth</proficiency>
     <trait>
       <name>Description</name>
-      <text>You are an experienced criminal with a history of breaking the law. You have spent a lot of time among other criminals and still have contacts within the criminal underworld. You're far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization, and you have survived up to this point by flouting the rules and regulations of society.
+      <text>You are an experienced criminal with a history of breaking the law. You have spent a lot of time among other criminals and still have contacts within the criminal underworld. You&apos;re far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization, and you have survived up to this point by flouting the rules and regulations of society.
 
 	• Skill Proficiencies: Deception, Stealth
 	• Tool Proficiencies: One type of gaming set, thieves' tools
@@ -146,7 +146,7 @@ Source:	Player's Handbook p. 129</text>
     </trait>
     <trait>
       <name>Criminal Specialty</name>
-      <text>There are many kinds of criminals, and within a thieves' guild or similar criminal organization, individual members have particular specialties. Even criminals who operate outside of such organizations have strong preferences for certain kinds of crimes over others.
+      <text>There are many kinds of criminals, and within a thieves&apos; guild or similar criminal organization, individual members have particular specialties. Even criminals who operate outside of such organizations have strong preferences for certain kinds of crimes over others.
 
 Choose the role you played in your criminal life, or roll on the table below.
 
@@ -236,11 +236,11 @@ d10 | Routines
     </trait>
     <trait>
       <name>Feature: By Popular Demand</name>
-      <text>You can always find a place to perform, usually in an inn or tavern but possibly with a circus, at a theater, or even in a noble's court. At such a place, you receive free lodging and food of a modest or comfortable standard (depending on the quality of the establishment), as long as you perform each night. In addition, your performance makes you something of a local figure. When strangers recognize you in a town where you have performed, they typically take a liking to you.</text>
+      <text>You can always find a place to perform, usually in an inn or tavern but possibly with a circus, at a theater, or even in a noble&apos;s court. At such a place, you receive free lodging and food of a modest or comfortable standard (depending on the quality of the establishment), as long as you perform each night. In addition, your performance makes you something of a local figure. When strangers recognize you in a town where you have performed, they typically take a liking to you.</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>Successful entertainers have to be able to capture and hold an audience's attention, so they tend to have flamboyant or forceful personalities. They're inclined toward the romantic and often cling to high-minded ideals about the practice of art and the appreciation of beauty.
+      <text>Successful entertainers have to be able to capture and hold an audience&apos;s attention, so they tend to have flamboyant or forceful personalities. They&apos;re inclined toward the romantic and often cling to high-minded ideals about the practice of art and the appreciation of beauty.
 
 d8 | Personality Trait
 1 | I know a story relevant to almost every situation.
@@ -355,7 +355,7 @@ d6 | Flaw
     <proficiency>Insight, Persuasion</proficiency>
     <trait>
       <name>Description</name>
-      <text>You are a member of an artisan's guild, skilled in a particular field and closely associated with other artisans. You are a well-established part of the mercantile world, freed by talent and wealth from the constraints of a feudal social order. You learned your skills as an apprentice to a master artisan, under the sponsorship of your guild, until you became a master in your own right.
+      <text>You are a member of an artisan&apos;s guild, skilled in a particular field and closely associated with other artisans. You are a well-established part of the mercantile world, freed by talent and wealth from the constraints of a feudal social order. You learned your skills as an apprentice to a master artisan, under the sponsorship of your guild, until you became a master in your own right.
 
 	• Skill Proficiencies: Insight, Persuasion
 	• Tool Proficiencies: One type of artisan's tools
@@ -405,7 +405,7 @@ As a member of your guild, you know the skills needed to create finished items f
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>Guild artisans are among the most ordinary people in the world — until they set down their tools and take up an adventuring career. They understand the value of hard work and the importance of community, but they're vulnerable to sins of greed and covetousness.
+      <text>Guild artisans are among the most ordinary people in the world — until they set down their tools and take up an adventuring career. They understand the value of hard work and the importance of community, but they&apos;re vulnerable to sins of greed and covetousness.
 
 d8 | Personality Trait
 1 | I believe that anything worth doing is worth doing right. I can't help it — I'm a perfectionist.
@@ -550,7 +550,7 @@ Source:	Player's Handbook p. 135</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>Nobles are born and raised to a very different lifestyle than most people ever experience, and their personalities reflect that upbringing. A noble title comes with a plethora of bonds — responsibilities to family, to other nobles (including the sovereign), to the people entrusted to the family's care, or even to the title itself. But this responsibility is often a good way to undermine a noble.
+      <text>Nobles are born and raised to a very different lifestyle than most people ever experience, and their personalities reflect that upbringing. A noble title comes with a plethora of bonds — responsibilities to family, to other nobles (including the sovereign), to the people entrusted to the family&apos;s care, or even to the title itself. But this responsibility is often a good way to undermine a noble.
 
 d8 | Personality Trait
 1 | My eloquent flattery makes everyone I talk to feel like the most wonderful and important person in the world.
@@ -592,7 +592,7 @@ d6 | Flaw
     <proficiency>Athletics, Survival</proficiency>
     <trait>
       <name>Description</name>
-      <text>You grew up in the wilds, far from civilization and the comforts of town and technology. You've witnessed the migration of herds larger than forests, survived weather more extreme than any city-dweller could comprehend, and enjoyed the solitude of being the only thinking creature for miles in any direction. The wilds are in your blood, whether you were a nomad, an explorer, a recluse, a hunter-gatherer, or even a marauder. Even in places where you don't know the specific features of the terrain, you know the ways of the wild.
+      <text>You grew up in the wilds, far from civilization and the comforts of town and technology. You&apos;ve witnessed the migration of herds larger than forests, survived weather more extreme than any city-dweller could comprehend, and enjoyed the solitude of being the only thinking creature for miles in any direction. The wilds are in your blood, whether you were a nomad, an explorer, a recluse, a hunter-gatherer, or even a marauder. Even in places where you don&apos;t know the specific features of the terrain, you know the ways of the wild.
 
 	• Skill Proficiencies: Athletics, Survival
 	• Tool Proficiencies: One type of musical instrument
@@ -603,7 +603,7 @@ Source:	Player's Handbook p. 136</text>
     </trait>
     <trait>
       <name>Origin</name>
-      <text>You've been to strange places and seen things that others cannot begin to fathom. Consider some of the distant lands you have visited, and how they impacted you. You can roll on the following table to determine your occupation during your time in the wild, or choose one that best fits your character.
+      <text>You&apos;ve been to strange places and seen things that others cannot begin to fathom. Consider some of the distant lands you have visited, and how they impacted you. You can roll on the following table to determine your occupation during your time in the wild, or choose one that best fits your character.
 
 Outlander Origin:
 d10 | Origin
@@ -750,12 +750,12 @@ What were your duties on board — boatswain, captain, navigator, cook, or some 
 Source:	Player's Handbook p. 139</text>
     </trait>
     <trait>
-      <name>Feature: Ship's Passage</name>
-      <text>When you need to, you can secure free passage on a sailing ship for yourself and your adventuring companions. You might sail on the ship you served on, or another ship you have good relations with (perhaps one captained by a former crewmate). Because you're calling in a favor, you can't be certain of a schedule or route that will meet your every need. Your Dungeon Master will determine how long it takes to get where you need to go. In return for your free passage, you and your companions are expected to assist the crew during the voyage.</text>
+      <name>Feature: Ship&apos;s Passage</name>
+      <text>When you need to, you can secure free passage on a sailing ship for yourself and your adventuring companions. You might sail on the ship you served on, or another ship you have good relations with (perhaps one captained by a former crewmate). Because you&apos;re calling in a favor, you can&apos;t be certain of a schedule or route that will meet your every need. Your Dungeon Master will determine how long it takes to get where you need to go. In return for your free passage, you and your companions are expected to assist the crew during the voyage.</text>
     </trait>
     <trait>
       <name>Variant Feature: Bad Reputation</name>
-      <text>If your character has a sailor background, you may select this background feature instead of Ship's Passage.
+      <text>If your character has a sailor background, you may select this background feature instead of Ship&apos;s Passage.
 
 No matter where you go, people are afraid of you due to your reputation. When you are in a civilized settlement, you can get away with minor criminal offenses, such as refusing to pay for food at a tavern or breaking down doors at a local shop, since most people will not report your activity to the authorities.</text>
     </trait>
@@ -876,7 +876,7 @@ d6 | Flaw
     <proficiency>Sleight of Hand, Stealth</proficiency>
     <trait>
       <name>Description</name>
-      <text>You grew up on the streets alone, orphaned, and poor. You had no one to watch over you or to provide for you, so you learned to provide for yourself. You fought fiercely over food and kept a constant watch out for other desperate souls who might steal from you. You slept on rooftops and in alleyways, exposed to the elements, and endured sickness without the advantage of medicine or a place to recuperate. You've survived despite all odds, and did so through cunning, strength, speed, or some combination of each.
+      <text>You grew up on the streets alone, orphaned, and poor. You had no one to watch over you or to provide for you, so you learned to provide for yourself. You fought fiercely over food and kept a constant watch out for other desperate souls who might steal from you. You slept on rooftops and in alleyways, exposed to the elements, and endured sickness without the advantage of medicine or a place to recuperate. You&apos;ve survived despite all odds, and did so through cunning, strength, speed, or some combination of each.
 
 You begin your adventuring career with enough money to live modestly but securely for at least ten days. How did you come by that money? What allowed you to break free of your desperate circumstances and embark on a better life?
 
@@ -945,7 +945,7 @@ Source:	Player's Handbook p. 130</text>
     </trait>
     <trait>
       <name>Spy Specialty</name>
-      <text>There are many kinds of spies, and within a thieves' guild or similar criminal organization, individual members have particular specialties. Even spies who operate outside of such organizations have strong preferences for certain kinds of crimes over others.
+      <text>There are many kinds of spies, and within a thieves&apos; guild or similar criminal organization, individual members have particular specialties. Even spies who operate outside of such organizations have strong preferences for certain kinds of crimes over others.
 
 Choose the role you played in your criminal life, or roll on the table below.
 
@@ -1019,11 +1019,11 @@ Source:	Player's Handbook p. 131</text>
     </trait>
     <trait>
       <name>Feature: By Popular Demand</name>
-      <text>You can always find a place to perform, usually in an inn or tavern but possibly with a circus, at a theater, or even in a noble's court. At such a place, you receive free lodging and food of a modest or comfortable standard (depending on the quality of the establishment), as long as you perform each night. In addition, your performance makes you something of a local figure. When strangers recognize you in a town where you have performed, they typically take a liking to you.</text>
+      <text>You can always find a place to perform, usually in an inn or tavern but possibly with a circus, at a theater, or even in a noble&apos;s court. At such a place, you receive free lodging and food of a modest or comfortable standard (depending on the quality of the establishment), as long as you perform each night. In addition, your performance makes you something of a local figure. When strangers recognize you in a town where you have performed, they typically take a liking to you.</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>Successful entertainers have to be able to capture and hold an audience's attention, so they tend to have flamboyant or forceful personalities. They're inclined toward the romantic and often cling to high-minded ideals about the practice of art and the appreciation of beauty.
+      <text>Successful entertainers have to be able to capture and hold an audience&apos;s attention, so they tend to have flamboyant or forceful personalities. They&apos;re inclined toward the romantic and often cling to high-minded ideals about the practice of art and the appreciation of beauty.
 
 d8 | Personality Trait
 1 | I know a story relevant to almost every situation.
@@ -1066,7 +1066,7 @@ d6 | Flaw
     <proficiency>Insight, Persuasion</proficiency>
     <trait>
       <name>Description</name>
-      <text>Instead of an artisans' guild, you might belong to a guild of traders, caravan masters, or shopkeepers. You don't craft items yourself but earn a living by buying and selling the works of others (or the raw materials artisans need to practice their craft). Your guild might be a large merchant consortium (or family) with interests across the region. Perhaps you transported goods from one place to another, by ship, wagon, or caravan, or bought them from traveling traders and sold them in your own little shop. In some ways, the traveling merchant's life lends itself to adventure far more than the life of an artisan.
+      <text>Instead of an artisans' guild, you might belong to a guild of traders, caravan masters, or shopkeepers. You don&apos;t craft items yourself but earn a living by buying and selling the works of others (or the raw materials artisans need to practice their craft). Your guild might be a large merchant consortium (or family) with interests across the region. Perhaps you transported goods from one place to another, by ship, wagon, or caravan, or bought them from traveling traders and sold them in your own little shop. In some ways, the traveling merchant&apos;s life lends itself to adventure far more than the life of an artisan.
 
 	• Skill Proficiencies: Insight, Persuasion
 	• Tool Proficiencies: Navigator's tools
@@ -1114,7 +1114,7 @@ You must pay dues of 5 gp per month to the guild. If you miss payments, you must
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>Guild artisans are among the most ordinary people in the world — until they set down their tools and take up an adventuring career. They understand the value of hard work and the importance of community, but they're vulnerable to sins of greed and covetousness.
+      <text>Guild artisans are among the most ordinary people in the world — until they set down their tools and take up an adventuring career. They understand the value of hard work and the importance of community, but they&apos;re vulnerable to sins of greed and covetousness.
 
 d8 | Personality Trait
 1 | I believe that anything worth doing is worth doing right. I can't help it — I'm a perfectionist.
@@ -1174,7 +1174,7 @@ Source:	Player's Handbook p. 135</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>Nobles are born and raised to a very different lifestyle than most people ever experience, and their personalities reflect that upbringing. A noble title comes with a plethora of bonds — responsibilities to family, to other nobles (including the sovereign), to the people entrusted to the family's care, or even to the title itself. But this responsibility is often a good way to undermine a noble.
+      <text>Nobles are born and raised to a very different lifestyle than most people ever experience, and their personalities reflect that upbringing. A noble title comes with a plethora of bonds — responsibilities to family, to other nobles (including the sovereign), to the people entrusted to the family&apos;s care, or even to the title itself. But this responsibility is often a good way to undermine a noble.
 
 d8 | Personality Trait
 1 | My eloquent flattery makes everyone I talk to feel like the most wonderful and important person in the world.
@@ -1217,7 +1217,7 @@ d6 | Flaw
     <proficiency>Athletics, Perception</proficiency>
     <trait>
       <name>Description</name>
-      <text>You spent your youth under the sway of a dread pirate, a ruthless cutthroat who taught you how to survive in a world of sharks and savages. You've indulged in larceny on the high seas and sent more than one deserving soul to a briny grave. Fear and bloodshed are no strangers to you, and you've garnered a somewhat unsavory reputation in many a port town.
+      <text>You spent your youth under the sway of a dread pirate, a ruthless cutthroat who taught you how to survive in a world of sharks and savages. You&apos;ve indulged in larceny on the high seas and sent more than one deserving soul to a briny grave. Fear and bloodshed are no strangers to you, and you&apos;ve garnered a somewhat unsavory reputation in many a port town.
 
 	• Skill Proficiencies: Athletics, Perception
 	• Tool Proficiencies: Navigator's tools, vehicles (water)
@@ -1227,7 +1227,7 @@ Source:	Player's Handbook p. 139</text>
     </trait>
     <trait>
       <name>Feature: Bad Reputation</name>
-      <text>If your character has a sailor background, you may select this background feature instead of Ship's Passage.
+      <text>If your character has a sailor background, you may select this background feature instead of Ship&apos;s Passage.
 
 No matter where you go, people are afraid of you due to your reputation. When you are in a civilized settlement, you can get away with minor criminal offenses, such as refusing to pay for food at a tavern or breaking down doors at a local shop, since most people will not report your activity to the authorities.</text>
     </trait>

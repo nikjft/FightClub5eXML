@@ -33,7 +33,7 @@ Source:	Dungeons of Drakkenheim p. 244</text>
     </trait>
     <trait>
       <name>Variant Feature: Last of the Line</name>
-      <text>In the years following the destruction of Drakkenheim, calamity and misfortune wracked your house leaving you the sole surviving heir. Penniless and without land, you have come to Drakkenheim to rebuild your family's legacy.</text>
+      <text>In the years following the destruction of Drakkenheim, calamity and misfortune wracked your house leaving you the sole surviving heir. Penniless and without land, you have come to Drakkenheim to rebuild your family&apos;s legacy.</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
@@ -221,7 +221,7 @@ d7 | Flaw
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>Not everyone left Drakkenheim after the meteor. Some stayed behind, searching the ruins for things they lost: friends and family, or just seeking out treasure and artefacts. You know what places in the city are the most dangerous, what paths are the best to take, and often have an idea of the fastest ways to travel. Despite the Haze, and dangers, you've managed to survive, but carry the weight of Drakkenheim's madness with you.
+      <text>Not everyone left Drakkenheim after the meteor. Some stayed behind, searching the ruins for things they lost: friends and family, or just seeking out treasure and artefacts. You know what places in the city are the most dangerous, what paths are the best to take, and often have an idea of the fastest ways to travel. Despite the Haze, and dangers, you&apos;ve managed to survive, but carry the weight of Drakkenheim&apos;s madness with you.
 
 	• Skill Proficiency: Two of the following: Perception, Survival, Stealth, Athletics
 	• Equipment: Cook's utensils, climber's kit, a shovel, a pair of thick gloves, a cloak with a hood
@@ -231,7 +231,7 @@ Source:	Dungeons of Drakkenheim p. 247</text>
     </trait>
     <trait>
       <name>Feature: Makeshift Meals</name>
-      <text>You know how to purify food and rations found in the ruins. When you take a short rest, you prepare a meal for a number of creatures equal to your proficiency bonus. Creatures who consume the food regain hit points equal to your level. Once they do, they can't regain hit points from another one of your meals until they finish a long rest.</text>
+      <text>You know how to purify food and rations found in the ruins. When you take a short rest, you prepare a meal for a number of creatures equal to your proficiency bonus. Creatures who consume the food regain hit points equal to your level. Once they do, they can&apos;t regain hit points from another one of your meals until they finish a long rest.</text>
     </trait>
     <trait>
       <name>Mark of Survival</name>
@@ -304,8 +304,8 @@ Source:	Dungeons of Drakkenheim p. 248</text>
       <text>You double your proficiency bonus when making any ability check to search the ruins of Drakkenheim.</text>
     </trait>
     <trait>
-      <name>Treasure Hunters' Secrets</name>
-      <text>1d8 | Treasure Hunters' Secrets
+      <name>Treasure Hunters&apos; Secrets</name>
+      <text>1d8 | Treasure Hunters&apos; Secrets
 1 | You keep a cryptic map to a lost treasure that you have always wanted to uncover.
 2 | You have a coin that is heads on both sides, helpful for winning a chance game.
 3 | You have a magnifying spyglass you use to examine items.

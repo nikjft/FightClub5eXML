@@ -5,7 +5,7 @@
     <autolevel level="1">
       <feature optional="YES">
         <name>Sorcerous Origin: Psionic Soul (UA)</name>
-        <text>One day a light blazed forth within you—the illumination of psionic power. Your mind now simmers with this power, the full extent of which you won't fully grasp for years to come. You can touch other minds with it and alter the world around you by using it to control the magical energy of the multiverse. Will this power shine from you as a hopeful beacon to others? Or will you be a source of terror to those who feel the stab of your mind and witness the strange manifestations of your might?
+        <text>One day a light blazed forth within you—the illumination of psionic power. Your mind now simmers with this power, the full extent of which you won&apos;t fully grasp for years to come. You can touch other minds with it and alter the world around you by using it to control the magical energy of the multiverse. Will this power shine from you as a hopeful beacon to others? Or will you be a source of terror to those who feel the stab of your mind and witness the strange manifestations of your might?
 
 Among githyanki and githzerai, the powers of Psionic Soul sorcerers are revered and marshaled on both sides of the gith war. In Eberron, many kalashtar dream of discovering this origin's abilities within themselves, and in Athas, more sorcerers are born with a Psionic Soul than with any other source of power. In the glades of primeval woods touched by the Feywild, children sometimes awaken to the wonders of psionic power. And in communities that survive Far Realm incursions, some folk are mutated into horrific aberrations, while a lucky few not only remain themselves, but also discover that psionic energy now suffuses their minds.
 
@@ -87,7 +87,7 @@ Source:	Unearthed Arcana: 2020 Psionic Options Revisited p. 5</text>
     <autolevel level="18">
       <feature optional="YES">
         <name>Psionic Soul (UA): Psychic Aura</name>
-        <text>If your Psionic Talent die is available, you can unleash your psionic power in a crackling aura of psychic energy; as a bonus action, you can magically radiate this transparent, 30-foot-radius aura for 1 minute or until you're incapacitated or lose the use of your Psionic Talent die.
+        <text>If your Psionic Talent die is available, you can unleash your psionic power in a crackling aura of psychic energy; as a bonus action, you can magically radiate this transparent, 30-foot-radius aura for 1 minute or until you&apos;re incapacitated or lose the use of your Psionic Talent die.
 
 Whenever a creature starts its turn in the aura or moves into it for the first time on a turn, you can roll your Psionic Talent die and deal psychic damage to the creature, equaling the number rolled plus your Charisma modifier. If the creature takes any of this damage, its speed is halved until the start of its next turn.
 

@@ -5,13 +5,13 @@
     <autolevel level="3">
       <feature optional="YES">
         <name>Ranger Archetype: Party Planner Conclave (HB)</name>
-        <text>The Party Planner Conclave Ranger is a master of meticulous preparation and strategic foresight, blending the art of hosting with the adventuring life. With spells and abilities tailored for planning and aiding their comrades, they ensure every venture is as well-prepared as a meticulously organized festivity, employing their familiar to maintain rituals and enhance the party's capabilities. Whether laying the groundwork for combat or social encounters, their unique blend of foresight and magical hospitality ensures that every party is a success, in and out of battle.
+        <text>The Party Planner Conclave Ranger is a master of meticulous preparation and strategic foresight, blending the art of hosting with the adventuring life. With spells and abilities tailored for planning and aiding their comrades, they ensure every venture is as well-prepared as a meticulously organized festivity, employing their familiar to maintain rituals and enhance the party&apos;s capabilities. Whether laying the groundwork for combat or social encounters, their unique blend of foresight and magical hospitality ensures that every party is a success, in and out of battle.
 
 Source:	Subclasses That Shouldn't Exist v1 p. 13 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Party Planner Conclave (HB): Party Planner Magic</name>
-        <text>Starting at 3r4d level, you gain additional spells reflecting your expertise in planning, communication, and ensuring comfort and safety for your allies. These spells don't count against the number of ranger spells you know.
+        <text>Starting at 3r4d level, you gain additional spells reflecting your expertise in planning, communication, and ensuring comfort and safety for your allies. These spells don&apos;t count against the number of ranger spells you know.
 
 Spell Level | Spells
 3rd | find familiar
@@ -44,7 +44,7 @@ Source:	Subclasses That Shouldn't Exist v1 p. 13 (Homebrew)</text>
     <autolevel level="11">
       <feature optional="YES">
         <name>Party Planner Conclave (HB): Comfort Camping</name>
-        <text>By 11th level, your expertise in creating safe and comfortable spaces for your allies to rest is unparalleled. When you cast Tiny Hut with the help of your familiar, the spell includes the effects of a Heroes' Feast (without needing the material components) and allows you and your allies to gain the benefits of a short rest in half the normal time provided you spend it uninterrupted.
+        <text>By 11th level, your expertise in creating safe and comfortable spaces for your allies to rest is unparalleled. When you cast Tiny Hut with the help of your familiar, the spell includes the effects of a Heroes&apos; Feast (without needing the material components) and allows you and your allies to gain the benefits of a short rest in half the normal time provided you spend it uninterrupted.
 
 Source:	Subclasses That Shouldn't Exist v1 p. 13 (Homebrew)</text>
       </feature>
@@ -67,7 +67,7 @@ Source:	Subclasses That Shouldn't Exist v1 p. 13 (Homebrew)</text>
     <classes>Ranger (Party Planner (HB))</classes>
   </spell>
   <spell>
-    <name>Leomund's Tiny Hut</name>
+    <name>Leomund&apos;s Tiny Hut</name>
     <classes>Ranger (Party Planner (HB))</classes>
   </spell>
   <spell>
@@ -75,7 +75,7 @@ Source:	Subclasses That Shouldn't Exist v1 p. 13 (Homebrew)</text>
     <classes>Ranger (Party Planner (HB))</classes>
   </spell>
   <spell>
-    <name>Rary's Telepathic Bond</name>
+    <name>Rary&apos;s Telepathic Bond</name>
     <classes>Ranger (Party Planner (HB))</classes>
   </spell>
 </compendium>

@@ -19,7 +19,7 @@
     <save/>
     <skill>medicine +8, persuasion +3, religion +5</skill>
     <passive>13</passive>
-    <languages>Birdfolk, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, can also understand Auran but can&apos;t speak it</languages>
     <cr>2</cr>
     <exp>450</exp>
     <resist/>
@@ -94,7 +94,7 @@ Source:	Humblewood Campaign Setting p. 190</description>
     <save/>
     <skill/>
     <passive>11</passive>
-    <languages>understands Ignan, but can't speak</languages>
+    <languages>understands Ignan, but can&apos;t speak</languages>
     <cr>4</cr>
     <exp>1100</exp>
     <resist>Fire</resist>
@@ -148,7 +148,7 @@ The ashsnake breathes out a cloud of superheated ash in a 15-foot cone. Each cre
     </action>
     <spells/>
     <slots/>
-    <description>"Beneath the ash it lies in wait. A hiss, a snap, and it's too late."
+    <description>"Beneath the ash it lies in wait. A hiss, a snap, and it&apos;s too late."
 — From The Epic of Fire, a centuries old poem
 
 Ashsnakes are huge monstrosities which resemble snakes molded from volcanic magma. Their bodies seeth with an internal heat below the charcoal-gray scales that cover their forms. While the blazing light emanating from their empty eye sockets makes it appear as though ashsnakes can see, they rely entirely on vibrations to assess their surroundings.
@@ -299,7 +299,7 @@ Source:	Humblewood Campaign Setting p. 179</description>
     <save/>
     <skill/>
     <passive>9</passive>
-    <languages>understands Auran and Birdfolk, but can't speak</languages>
+    <languages>understands Auran and Birdfolk, but can&apos;t speak</languages>
     <cr>1/4</cr>
     <exp>50</exp>
     <resist/>
@@ -330,7 +330,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) pierci
     </action>
     <spells/>
     <slots/>
-    <description>Deceased birdfolk granted a semblance of life through necromantic spells don't have memory per se, but their skeletal bodies retain familiarity with tasks they performed in life. They also remain skilled with weapons they wielded in life, making them useful guards or servants.
+    <description>Deceased birdfolk granted a semblance of life through necromantic spells don&apos;t have memory per se, but their skeletal bodies retain familiarity with tasks they performed in life. They also remain skilled with weapons they wielded in life, making them useful guards or servants.
 
 Unnatural Life:
 Animated skeletons are common among the practitioners of the necromantic arts. Even at the Avium, where necromancy is forbidden in practice, it is taught in theory. A common exception is the use of animated skeletons for menial tasks around the college. The reanimation of birdfolk who did not give their express consent in life is seen as a violation of their memory, so these skeletons usually consist of former college staff who desired to stay and help long past their own time. Not all scholars agree that even this relatively benign form of necromancy should be allowed, while others don't see why permission from the dead should be necessary, believing that "dead is dead". Though the consent policy remains in place, heady debates over the ethics of certain forms of necromancy have resulted in the shunning of more morally flexible scholars.
@@ -355,7 +355,7 @@ Source:	Humblewood Campaign Setting p. 180</description>
     <save>con +6, wis +2</save>
     <skill/>
     <passive>9</passive>
-    <languages>understands Auran, Birdfolk, and any other languages it knew in life, but can't speak</languages>
+    <languages>understands Auran, Birdfolk, and any other languages it knew in life, but can&apos;t speak</languages>
     <cr>5</cr>
     <exp>1800</exp>
     <resist/>
@@ -397,7 +397,7 @@ One creature the cobblefright has grappled must make a DC 14 Constitution saving
     </action>
     <spells/>
     <slots/>
-    <description>Cobblefrights are undead monstrosities created through dark necromancy. Rumored to have been orig-inally devised by the mad necromancer Lathrus of the Night's Call, cobblefrights are made by linking several birdfolk skeletons together to form one frightening creature with enhanced physical properties. Among those who have studied Lathrus' research, only the most reckless have tried to create a cobblefright of their own, often to disastrous effect.
+    <description>Cobblefrights are undead monstrosities created through dark necromancy. Rumored to have been orig-inally devised by the mad necromancer Lathrus of the Night&apos;s Call, cobblefrights are made by linking several birdfolk skeletons together to form one frightening creature with enhanced physical properties. Among those who have studied Lathrus&apos; research, only the most reckless have tried to create a cobblefright of their own, often to disastrous effect.
 
 Horror of Horrors:
 Cobblefrights are generally pieced together from the skeletons of five or six birdfolk. The combination of multiple bodies allows not only for a larger and more robust design, but also vastly increases the quantity of necromantic energies cobblefrights contain. This increased capacity for power provides cobblefrights with tremendous strength, as much as a dozen birdfolk combined. It also grants cobblefright bones greater durability. Their remarkable power and resilience is somewhat of a double-edged sword, as cobblefrights also require a large amount of necromantic energy to be sustained. The surviving records of cobblefright creators note that, quite unexpectedly, the creatures developed the ability to drain the life force of other living beings, replenishing their own energy in the process. This makes cobblefrights useful as independent sentries, so long as they have a steady supply of living beings to fuel them.
@@ -1059,7 +1059,7 @@ The wakewyrm makes a bite attack against a Large or smaller creature it is grapp
     </action>
     <spells/>
     <slots/>
-    <description>Wakewyrms are massive reptiles that have aspects of both snakes and eels. On rare occasions they've been spotted close to the shores of the Talongrip Coast, though many are quick to dismiss these accounts. Their name originates from the powerful tidal waves their bodies cause, which pose a considerable threat to nearby vessels.
+    <description>Wakewyrms are massive reptiles that have aspects of both snakes and eels. On rare occasions they&apos;ve been spotted close to the shores of the Talongrip Coast, though many are quick to dismiss these accounts. Their name originates from the powerful tidal waves their bodies cause, which pose a considerable threat to nearby vessels.
 
 Ocean Tales:
 Despite their size, wakewyrms are elusive, able to hide within the vast expanse of the ocean. The rarity of this creature has bred many rumors about the exact nature of wakewyrms. All sailors know at least a few stories about bizarre creatures of the sea, including fantastical accounts of wakewyrms that lurk in the ocean's gloomy depths, able to sink an entire fleet of ships. Such tales are more often fabrications than not, as few have actually encountered these creatures.
@@ -1090,7 +1090,7 @@ Source:	Humblewood Campaign Setting p. 187</description>
     <save/>
     <skill>perception +5, persuasion +4, athletics +2</skill>
     <passive>15</passive>
-    <languages>Birdfolk, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, can also understand Auran but can&apos;t speak it</languages>
     <cr>2</cr>
     <exp>450</exp>
     <resist/>
@@ -1137,7 +1137,7 @@ Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one ta
     </action>
     <spells/>
     <slots/>
-    <description>It may be odd to see birdfolk working the docks and ships of Saltar's Port, but the sea is a way of life for some folk. Jobs in the seafaring industry are as lucrative as they are tough. For the birdfolk that choose to ply their trade on the water, life is about order and efficiency. One improperly stowed barrel or poorly lashed line can spell disaster on the sea. Dockmasters take their marine jobs very seriously.
+    <description>It may be odd to see birdfolk working the docks and ships of Saltar&apos;s Port, but the sea is a way of life for some folk. Jobs in the seafaring industry are as lucrative as they are tough. For the birdfolk that choose to ply their trade on the water, life is about order and efficiency. One improperly stowed barrel or poorly lashed line can spell disaster on the sea. Dockmasters take their marine jobs very seriously.
 
 Source:	Humblewood Campaign Setting p. 190</description>
     <environment/>
@@ -1160,7 +1160,7 @@ Source:	Humblewood Campaign Setting p. 190</description>
     <save/>
     <skill>Nature +4</skill>
     <passive>10</passive>
-    <languages>Birdfolk, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, can also understand Auran but can&apos;t speak it</languages>
     <cr>0</cr>
     <exp>10</exp>
     <resist/>
@@ -1208,7 +1208,7 @@ Source:	Humblewood Campaign Setting p. 190</description>
     <save/>
     <skill>Perception +2</skill>
     <passive>12</passive>
-    <languages>Birdfolk, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, can also understand Auran but can&apos;t speak it</languages>
     <cr>1/8</cr>
     <exp>25</exp>
     <resist/>
@@ -1234,7 +1234,7 @@ Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one ta
     </action>
     <spells/>
     <slots/>
-    <description>Aspiring recruits from all over the Wood flock to the Perch Guard headquarters in the capital of Alderheart to join their ranks. After successful training, these newly sworn guards return to their home perch. They serve with pride, acting as the perch's first line of defense. Under the Humblefolk Treaty, members of the Perch Guard are tasked to aid nearby villages on the forest floor whenever necessary. In larger cities like Alderheart, the Perch Guard are also responsible for dealing with inner city issues such as robbery, bar fights, and investi-gating and arresting criminals.
+    <description>Aspiring recruits from all over the Wood flock to the Perch Guard headquarters in the capital of Alderheart to join their ranks. After successful training, these newly sworn guards return to their home perch. They serve with pride, acting as the perch&apos;s first line of defense. Under the Humblefolk Treaty, members of the Perch Guard are tasked to aid nearby villages on the forest floor whenever necessary. In larger cities like Alderheart, the Perch Guard are also responsible for dealing with inner city issues such as robbery, bar fights, and investi-gating and arresting criminals.
 
 Source:	Humblewood Campaign Setting p. 191</description>
     <environment/>
@@ -1257,7 +1257,7 @@ Source:	Humblewood Campaign Setting p. 191</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>Birdfolk, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, can also understand Auran but can&apos;t speak it</languages>
     <cr>1/8</cr>
     <exp>25</exp>
     <resist/>
@@ -1305,7 +1305,7 @@ Source:	Humblewood Campaign Setting p. 191</description>
     <save/>
     <skill>Athletics +3</skill>
     <passive>10</passive>
-    <languages>Birdfolk, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, can also understand Auran but can&apos;t speak it</languages>
     <cr>1/8</cr>
     <exp>25</exp>
     <resist/>
@@ -1362,7 +1362,7 @@ Source:	Humblewood Campaign Setting p. 191</description>
     <save/>
     <skill>Athletics +4</skill>
     <passive>10</passive>
-    <languages>Birdfolk, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, can also understand Auran but can&apos;t speak it</languages>
     <cr>1/8</cr>
     <exp>25</exp>
     <resist/>
@@ -1394,7 +1394,7 @@ Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one ta
     </action>
     <spells/>
     <slots/>
-    <description>The bulk of the Perch Guard's military force are a light infantry called "The Spears." They train relentlessly with polearm weapons perfectly suited for branch-to-branch combat. Many are also skilled at ranged attacks with these weapons, as well as performing special diving maneuvers, making them an even greater threat to enemies below. In times of peace, skirmishers often serve as skilled hunters, following the direction of trackers to collect enough food for entire villages.
+    <description>The bulk of the Perch Guard&apos;s military force are a light infantry called "The Spears." They train relentlessly with polearm weapons perfectly suited for branch-to-branch combat. Many are also skilled at ranged attacks with these weapons, as well as performing special diving maneuvers, making them an even greater threat to enemies below. In times of peace, skirmishers often serve as skilled hunters, following the direction of trackers to collect enough food for entire villages.
 
 Source:	Humblewood Campaign Setting p. 191</description>
     <environment/>
@@ -1461,7 +1461,7 @@ The general adds 2 to their AC against one melee attack that would hit them. The
     </reaction>
     <spells/>
     <slots/>
-    <description>Bandit clans are commanded by generals. Serving as both a battle-tested warrior and master strategist, they alone coordinate the disparate band of thieves and outlaws that make up the collective. While military monikers are used to refer to bandit leadership, more than combat prowess is needed to maintain order in these volatile organizations. A dominating personality and charismatic voice are as necessary as a swift blade and a sharp mind. Cervans don't typically take to brigandry, but their practical skills and ability to survive in even the most adverse situations make those with loose morals and dubious ambitions a natural fit.
+    <description>Bandit clans are commanded by generals. Serving as both a battle-tested warrior and master strategist, they alone coordinate the disparate band of thieves and outlaws that make up the collective. While military monikers are used to refer to bandit leadership, more than combat prowess is needed to maintain order in these volatile organizations. A dominating personality and charismatic voice are as necessary as a swift blade and a sharp mind. Cervans don&apos;t typically take to brigandry, but their practical skills and ability to survive in even the most adverse situations make those with loose morals and dubious ambitions a natural fit.
 
 Source:	Humblewood Campaign Setting p. 193</description>
     <environment/>
@@ -1533,7 +1533,7 @@ Benna Seridan adds 2 to her AC against one melee attack that would hit her. Benn
     </reaction>
     <spells>spike growth</spells>
     <slots/>
-    <description>Benna is a tall, scarred grove cervan, who wears a red bandana over her lost left eye. The leader of the Bandit Coalition, she is an idealist who believes that Alderheart's canopy, the symbol of birdfolk power in the region, should be burned and its resources looted to help those displaced by the flames. Benna lived a tranquil village life until her mother, a respected village elder and seer, foretold that the flames would come. Word was sent to Alderheart's Council, asking for supplies and aid, both of which were denied because the Council didn't believe in the power of the seer's visions. When the flames had all but consumed the village, birdfolk support arrived, but it was too late. Benna lost her family. She also lost her left eye and left ear due to the burns she sustained while helping others escape from the blaze. She fell in with the bandits and quickly rose through their ranks, thanks to her passion and purpose. She is a seasoned veteran who has been building the bandit forces, and utilizing the organization to care for humblefolk left homeless by the spreading fires. Benna Seridan uses the cervan bandit general stat block, but the scimitar in her main hand is a blade of the wood *(+1 to attack and damage rolls, see Appendix D: New Magic Items), and a shortsword (1d6 + 3 piercing damage) in her offhand.
+    <description>Benna is a tall, scarred grove cervan, who wears a red bandana over her lost left eye. The leader of the Bandit Coalition, she is an idealist who believes that Alderheart's canopy, the symbol of birdfolk power in the region, should be burned and its resources looted to help those displaced by the flames. Benna lived a tranquil village life until her mother, a respected village elder and seer, foretold that the flames would come. Word was sent to Alderheart's Council, asking for supplies and aid, both of which were denied because the Council didn&apos;t believe in the power of the seer&apos;s visions. When the flames had all but consumed the village, birdfolk support arrived, but it was too late. Benna lost her family. She also lost her left eye and left ear due to the burns she sustained while helping others escape from the blaze. She fell in with the bandits and quickly rose through their ranks, thanks to her passion and purpose. She is a seasoned veteran who has been building the bandit forces, and utilizing the organization to care for humblefolk left homeless by the spreading fires. Benna Seridan uses the cervan bandit general stat block, but the scimitar in her main hand is a blade of the wood *(+1 to attack and damage rolls, see Appendix D: New Magic Items), and a shortsword (1d6 + 3 piercing damage) in her offhand.
 
 Stat Block Origin: Cevan Bandit General
 Source:	Humblewood Campaign Setting p. 193</description>
@@ -1558,7 +1558,7 @@ Source:	Humblewood Campaign Setting p. 193</description>
     <save/>
     <skill>Deception +5, Insight +6, Persuasion +5</skill>
     <passive>13</passive>
-    <languages>Birdfolk, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, can also understand Auran but can&apos;t speak it</languages>
     <cr>1/8</cr>
     <exp>25</exp>
     <resist/>
@@ -1599,7 +1599,7 @@ Bita adds 2 to her AC against one melee attack that would hit her. To do so, Bit
     </reaction>
     <spells/>
     <slots/>
-    <description>Bita is a bright gallus whose elegant white plumage resembles that of a peacock. As the Birdfolk Council's Speaker, she is always first to address those who have been granted an audience with the Council. She takes her duties as the Speaker and as a Council member very seriously. Despite her profound affection for Humblewood and its citizens, she often comes off as severe and cold. Bita believes in doing what's best for the folks of the Wood, and sometimes this means making level-headed, tough decisions. Bita uses the noble stat block, adjusted with the racial traits of a bright gallus. She is lawful good.
+    <description>Bita is a bright gallus whose elegant white plumage resembles that of a peacock. As the Birdfolk Council&apos;s Speaker, she is always first to address those who have been granted an audience with the Council. She takes her duties as the Speaker and as a Council member very seriously. Despite her profound affection for Humblewood and its citizens, she often comes off as severe and cold. Bita believes in doing what&apos;s best for the folks of the Wood, and sometimes this means making level-headed, tough decisions. Bita uses the noble stat block, adjusted with the racial traits of a bright gallus. She is lawful good.
 
 Stat Block Origin: Noble
 Source:	Humblewood Campaign Setting p. 193</description>
@@ -1624,7 +1624,7 @@ Source:	Humblewood Campaign Setting p. 193</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>Birdfolk, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, can also understand Auran but can&apos;t speak it</languages>
     <cr>1/8</cr>
     <exp>25</exp>
     <resist/>
@@ -1740,7 +1740,7 @@ The general adds 2 to their AC against one melee attack that would hit them. The
     </reaction>
     <spells/>
     <slots/>
-    <description>Bandit clans are commanded by generals. Serving as both a battle-tested warrior and master strategist, they alone coordinate the disparate band of thieves and outlaws that make up the collective. While military monikers are used to refer to bandit leadership, more than combat prowess is needed to maintain order in these volatile organizations. A dominating personality and charismatic voice are as necessary as a swift blade and a sharp mind. Cervans don't typically take to brigandry, but their practical skills and ability to survive in even the most adverse situations make those with loose morals and dubious ambitions a natural fit.
+    <description>Bandit clans are commanded by generals. Serving as both a battle-tested warrior and master strategist, they alone coordinate the disparate band of thieves and outlaws that make up the collective. While military monikers are used to refer to bandit leadership, more than combat prowess is needed to maintain order in these volatile organizations. A dominating personality and charismatic voice are as necessary as a swift blade and a sharp mind. Cervans don&apos;t typically take to brigandry, but their practical skills and ability to survive in even the most adverse situations make those with loose morals and dubious ambitions a natural fit.
 
 Source:	Humblewood Campaign Setting p. 193</description>
     <environment/>
@@ -1811,7 +1811,7 @@ Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludge
     </action>
     <spells>guidance, light, spare the dying, bless, cure wounds, guiding bolt, shield of faith, calm emotions, warding bond</spells>
     <slots>0,4,2</slots>
-    <description>Cervan villages are typically led by a community elder who is wise both in politics as well as the ways of the Amaranthine. Priests provide guidance to the community, ensuring that rituals are properly observed and customs upheld. As storytellers and keepers of a village's history, they are trusted with the myths and folktales used to impart knowledge necessary for survival in the forest.
+    <description>Cervan villages are typically led by a community elder who is wise both in politics as well as the ways of the Amaranthine. Priests provide guidance to the community, ensuring that rituals are properly observed and customs upheld. As storytellers and keepers of a village&apos;s history, they are trusted with the myths and folktales used to impart knowledge necessary for survival in the forest.
 
 Source:	Humblewood Campaign Setting p. 193</description>
     <environment/>
@@ -1834,7 +1834,7 @@ Source:	Humblewood Campaign Setting p. 193</description>
     <save>dex +6, int +5</save>
     <skill>Insight +5, Nature +5, Perception +8, Stealth +9</skill>
     <passive>18</passive>
-    <languages>Birdfolk, Thieves' Cant, and any one other language. Can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, Thieves&apos; Cant, and any one other language. Can also understand Auran but can&apos;t speak it</languages>
     <cr>5</cr>
     <exp>1800</exp>
     <resist/>
@@ -1897,7 +1897,7 @@ Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one ta
     </action>
     <spells/>
     <slots/>
-    <description>Frequently members of criminal organizations, contract killers can be found in the Wood's largest and most politically complex perches. They serve powerful figures with a lack of scruples and an abundance of coin. Assassins are trained from a young age to become deadly masters of their craft, learning how to skulk the branchroads and keep hidden in the canopy to time the perfect ambush. Corvums, with their natural intelligence and cunning, make the best assassins.
+    <description>Frequently members of criminal organizations, contract killers can be found in the Wood&apos;s largest and most politically complex perches. They serve powerful figures with a lack of scruples and an abundance of coin. Assassins are trained from a young age to become deadly masters of their craft, learning how to skulk the branchroads and keep hidden in the canopy to time the perfect ambush. Corvums, with their natural intelligence and cunning, make the best assassins.
 
 Source:	Humblewood Campaign Setting p. 194</description>
     <environment/>
@@ -1967,7 +1967,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashi
     </action>
     <spells>fire bolt, light, mage hand, prestidigitation, detect magic, mage armor, magic missile, shield, augury, misty step, clairvoyance, counterspell, fly, greater invisibility, locate creature, scrying</spells>
     <slots>0,4,2,3,3,1</slots>
-    <description>Diviners specialize in esoteric spells and rituals, which can be used to see the threads of fate that move the world. Even when such predictions fail, they usually reveal useful information in the process. Corvums prize knowledge in all its forms, often dealing in secrets the way others deal in goods, and so many are drawn to practice the diviner's art.
+    <description>Diviners specialize in esoteric spells and rituals, which can be used to see the threads of fate that move the world. Even when such predictions fail, they usually reveal useful information in the process. Corvums prize knowledge in all its forms, often dealing in secrets the way others deal in goods, and so many are drawn to practice the diviner&apos;s art.
 
 Source:	Humblewood Campaign Setting p. 194</description>
     <environment/>
@@ -1991,7 +1991,7 @@ Source:	Humblewood Campaign Setting p. 194</description>
     <save>int +6, wis +4</save>
     <skill>Arcana +6, History +6, Religion +6</skill>
     <passive>11</passive>
-    <languages>Birdfolk, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, can also understand Auran but can&apos;t speak it</languages>
     <cr>6</cr>
     <exp>2300</exp>
     <resist/>
@@ -2038,7 +2038,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashi
     </action>
     <spells>fire bolt, light, mage hand, prestidigitation, detect magic, mage armor, magic missile, shield, augury, misty step, clairvoyance, counterspell, fly, greater invisibility, locate creature, scrying</spells>
     <slots>0,4,2,3,3,1</slots>
-    <description>This slender dusk corvum's plumage resembles that of a black-billed magpie. A professor of divination at the Avium, his brilliant mind is often held back by paranoia, an unfortunate side-effect of the diviner's line of work. This has led faculty to view his predictions cautiously, and has earned him a reputation as a bit of an oddbird around campus. He is smart and capable, however, and can be a useful ally to the party in the last two parts of the adventure. Corvax shouldn't ever be in combat.
+    <description>This slender dusk corvum's plumage resembles that of a black-billed magpie. A professor of divination at the Avium, his brilliant mind is often held back by paranoia, an unfortunate side-effect of the diviner&apos;s line of work. This has led faculty to view his predictions cautiously, and has earned him a reputation as a bit of an oddbird around campus. He is smart and capable, however, and can be a useful ally to the party in the last two parts of the adventure. Corvax shouldn&apos;t ever be in combat.
 
 Stat Block Origin: Corvum Diviner
 Source:	Humblewood Campaign Setting p. 194</description>
@@ -2062,7 +2062,7 @@ Source:	Humblewood Campaign Setting p. 194</description>
     <save>int +7, wis +3</save>
     <skill>Arcana +7, Deception +5, Medicine +3</skill>
     <passive>10</passive>
-    <languages>Birdfolk, any two other languages, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, any two other languages, can also understand Auran but can&apos;t speak it</languages>
     <cr>6</cr>
     <exp>2300</exp>
     <resist/>
@@ -2146,7 +2146,7 @@ Source:	Humblewood Campaign Setting p. 194</description>
     <save>int +7, wis +3</save>
     <skill>Arcana +7, Deception +5, Medicine +3</skill>
     <passive>10</passive>
-    <languages>Birdfolk, any two other languages, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, any two other languages, can also understand Auran but can&apos;t speak it</languages>
     <cr>6</cr>
     <exp>2300</exp>
     <resist/>
@@ -2208,7 +2208,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashi
     </action>
     <spells>chill touch, light, mage hand, prestidigitation, disguise self, false life, mage armor, magic missile, misty step, ray of enfeeblement, suggestion, animate dead, counterspell, fear, blight, greater invisibility, dominate person</spells>
     <slots>0,4,3,3,3,1</slots>
-    <description>Odwald is a haggard old kindled corvum, resembling a thick billed raven with coarse, hoary feathers, ruffled from years of adventuring. Odwald has a sharp mind but a faint heart. A member of the illustrious Ebonhart family, a noble house that dates back to the founding of Alderheart, Odwald was an arcane prodigy who grew up in a world which expected him to be brilliant. While magic always came naturally to him, the pressure of his family's expectations weighed heavily upon him, and filled him with a deep-seated fear of failure. Months ago, he was tricked by an unknown entity into weakening the seal that held the aspect of fire beneath the Scorched Grove. Ever since he has blamed himself for the worsening conditions in the Wood. He has no solution for stopping the aspect, and this terrifies him. Shortly after saving his friend Riffin, desperation drove him back to his alma mater, the Avium, where he has since worked with forbidden magics in secrecy. Using a secret door he discovered during his time as a student, Odwald converted several inaccessible and defunct classrooms into a makeshift laboratory where he toils tirelessly, experimenting with dark and dangerous magics in the hopes of discovering a way to stop the aspect. Odwald uses the corvum necromancer stat block. His alignment is chaotic neutral.
+    <description>Odwald is a haggard old kindled corvum, resembling a thick billed raven with coarse, hoary feathers, ruffled from years of adventuring. Odwald has a sharp mind but a faint heart. A member of the illustrious Ebonhart family, a noble house that dates back to the founding of Alderheart, Odwald was an arcane prodigy who grew up in a world which expected him to be brilliant. While magic always came naturally to him, the pressure of his family&apos;s expectations weighed heavily upon him, and filled him with a deep-seated fear of failure. Months ago, he was tricked by an unknown entity into weakening the seal that held the aspect of fire beneath the Scorched Grove. Ever since he has blamed himself for the worsening conditions in the Wood. He has no solution for stopping the aspect, and this terrifies him. Shortly after saving his friend Riffin, desperation drove him back to his alma mater, the Avium, where he has since worked with forbidden magics in secrecy. Using a secret door he discovered during his time as a student, Odwald converted several inaccessible and defunct classrooms into a makeshift laboratory where he toils tirelessly, experimenting with dark and dangerous magics in the hopes of discovering a way to stop the aspect. Odwald uses the corvum necromancer stat block. His alignment is chaotic neutral.
 
 Stat Block Origin: Corvum Necromancer
 Source:	Humblewood Campaign Setting p. 194</description>
@@ -2253,7 +2253,7 @@ Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeonin
     </action>
     <spells/>
     <slots/>
-    <description>Eliza Pennygleam is an eluran, a group of cat-like people from the west. While not native to Humblewood, elurans are commonly seen along the roads as part of merchant caravans, and behind merchant stalls in the capital. Eliza is a savvy merchant, on her way to Alderheart to take over her late sister's shop. She is a natural bargainer, but she is also charitable to those who have faced hardships. Eliza uses the commoner stat block. She is neutral good.
+    <description>Eliza Pennygleam is an eluran, a group of cat-like people from the west. While not native to Humblewood, elurans are commonly seen along the roads as part of merchant caravans, and behind merchant stalls in the capital. Eliza is a savvy merchant, on her way to Alderheart to take over her late sister&apos;s shop. She is a natural bargainer, but she is also charitable to those who have faced hardships. Eliza uses the commoner stat block. She is neutral good.
 
 Stat Block Origin: Commoner
 Source:	Humblewood Campaign Setting p. 196</description>
@@ -2332,7 +2332,7 @@ Source:	Humblewood Campaign Setting p. 196</description>
     <save/>
     <skill>Insight +6, Nature +2, Medicine +6, Perception +6</skill>
     <passive>16</passive>
-    <languages>Birdfolk, Druidic, Sylvan, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, Druidic, Sylvan, can also understand Auran but can&apos;t speak it</languages>
     <cr>4</cr>
     <exp>1100</exp>
     <resist/>
@@ -2416,7 +2416,7 @@ Source:	Humblewood Campaign Setting p. 196</description>
     <save>dex +7</save>
     <skill>Acrobatics +7, Insight +6, Perception +6, Stealth +7</skill>
     <passive>16</passive>
-    <languages>Birdfolk, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, can also understand Auran but can&apos;t speak it</languages>
     <cr>5</cr>
     <exp>1800</exp>
     <resist/>
@@ -2439,7 +2439,7 @@ When falling at least 10 feet, the monk can spend a reaction to fly up to their 
 As a bonus action, the monk can use their powerful feathered arms to propel themselves upward up to half their movement speed. The monk can use it in conjunction with a regular jump, but not while gliding.</text>
     </trait>
     <trait>
-      <name>Wind's Grace</name>
+      <name>Wind&apos;s Grace</name>
       <text>
 While moving, the monk can move along vertical surfaces and across liquids without falling.</text>
     </trait>
@@ -2496,7 +2496,7 @@ Source:	Humblewood Campaign Setting p. 196</description>
     <save>int +7, wis +5</save>
     <skill>Arcana +7, Deception +3, Medicine +5</skill>
     <passive>12</passive>
-    <languages>Birdfolk, Hedge, Sylvan, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, Hedge, Sylvan, can also understand Auran but can&apos;t speak it</languages>
     <cr>6</cr>
     <exp>2300</exp>
     <resist/>
@@ -2542,9 +2542,9 @@ Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) bludge
       <attack>Staff|+2|1d6-1</attack>
       <attack>Two-Handed|+2|1d8-1</attack>
     </action>
-    <spells>chill touch, light, mage hand, prestidigitation, false life, mage armor, magic missile, sleep, misty step, ray of enfeeblement, web, animate dead, counterspell, fear, blight, evard's black tentacles, passwall, cure wounds</spells>
+    <spells>chill touch, light, mage hand, prestidigitation, false life, mage armor, magic missile, sleep, misty step, ray of enfeeblement, web, animate dead, counterspell, fear, blight, evard&apos;s black tentacles, passwall, cure wounds</spells>
     <slots>0,4, 3, 3, 3, 1</slots>
-    <description>Gallus aren't typically drawn down the path of necromancy, but a few mavericks with arcane talent and the inclination to study the darker side of magic have found success in The Avium. More commonly, such necromancers study the art theoretically, learning how it disrupts the balance of life and death so that their students can be taught how to effectively counter such vile spells.
+    <description>Gallus aren&apos;t typically drawn down the path of necromancy, but a few mavericks with arcane talent and the inclination to study the darker side of magic have found success in The Avium. More commonly, such necromancers study the art theoretically, learning how it disrupts the balance of life and death so that their students can be taught how to effectively counter such vile spells.
 
 Source:	Humblewood Campaign Setting p. 198</description>
     <environment/>
@@ -2567,7 +2567,7 @@ Source:	Humblewood Campaign Setting p. 198</description>
     <save>int +7, wis +5</save>
     <skill>Arcana +7, Deception +3, Medicine +5</skill>
     <passive>12</passive>
-    <languages>Birdfolk, Hedge, Sylvan, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, Hedge, Sylvan, can also understand Auran but can&apos;t speak it</languages>
     <cr>6</cr>
     <exp>2300</exp>
     <resist/>
@@ -2613,9 +2613,9 @@ Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) bludge
       <attack>Staff|+2|1d6-1</attack>
       <attack>Two-Handed|+2|1d8-1</attack>
     </action>
-    <spells>chill touch, light, mage hand, prestidigitation, false life, mage armor, magic missile, sleep, misty step, ray of enfeeblement, web, animate dead, counterspell, fear, blight, evard's black tentacles, passwall</spells>
+    <spells>chill touch, light, mage hand, prestidigitation, false life, mage armor, magic missile, sleep, misty step, ray of enfeeblement, web, animate dead, counterspell, fear, blight, evard&apos;s black tentacles, passwall</spells>
     <slots>0,4,3,3,3,1</slots>
-    <description>This huden gallus' plumage resembles a ptarmigan, and she usually wears a pince-nez on her beak. A professor of advanced theoretical necromancy, Glinda is known for having strange opinions about her field of study. Unlike most birdfolk, she sees necromancy as a manipulation of life energies on par with druidic magic. She is a kind soul, and only practices the lighter forms of necromancy. However, she has been performing secret experiments on the servitor skeletons in the Avium, hoping to develop a cutting-edge resurrection spell. This violates campus policies, which ban practical necromancy, and could cause her to lose her job. Glinda uses the gallus necromancer stat block. Her alignment is chaotic good.
+    <description>This huden gallus&apos; plumage resembles a ptarmigan, and she usually wears a pince-nez on her beak. A professor of advanced theoretical necromancy, Glinda is known for having strange opinions about her field of study. Unlike most birdfolk, she sees necromancy as a manipulation of life energies on par with druidic magic. She is a kind soul, and only practices the lighter forms of necromancy. However, she has been performing secret experiments on the servitor skeletons in the Avium, hoping to develop a cutting-edge resurrection spell. This violates campus policies, which ban practical necromancy, and could cause her to lose her job. Glinda uses the gallus necromancer stat block. Her alignment is chaotic good.
 
 Source:	Humblewood Campaign Setting p. 198</description>
     <environment/>
@@ -2639,7 +2639,7 @@ Source:	Humblewood Campaign Setting p. 198</description>
     <save/>
     <skill>Deception +6, Insight +6, Persuasion +6</skill>
     <passive>13</passive>
-    <languages>Birdfolk, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, can also understand Auran but can&apos;t speak it</languages>
     <cr>1/8</cr>
     <exp>25</exp>
     <resist>Poison</resist>
@@ -2764,7 +2764,7 @@ Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one ta
 The bard curls up into a spiny ball. While curled up in this way they cannot move, attack, or cast spells with somatic components, and their base armor class becomes 19. Any creature that misses the hedge bard with a melee attack while they are curled up takes 2d4 points of piercing damage from their sharp quills. If a creature hits the bard while they are curled up, however, the bard is knocked prone in their space at the end of the turn. The bard may uncurl themselves at any point during their turn.</text>
       <attack>Curl Up||2d4</attack>
     </action>
-    <spells>gust barrier, prestidigitation, vicious mockery, charm person, healing word, tasha's hideous laughter, thunderwave, invisibility, shatter, suggestion</spells>
+    <spells>gust barrier, prestidigitation, vicious mockery, charm person, healing word, tasha&apos;s hideous laughter, thunderwave, invisibility, shatter, suggestion</spells>
     <slots>0,4,3</slots>
     <description>Recognized for being excellent diplomats and mediators, hedges are less well known for their love of music. Those who turn their natural charm towards the talent of entertaining can find great success. Some of the most gifted performers are blessed with magical talents. While most hedges use these powers for good, others choose a more sinister path, using their bardic talents to cheat, dupe, or steal from common folk.
 
@@ -2810,7 +2810,7 @@ The witch is a 2nd-level spellcaster. Their spellcasting ability is Charisma (sp
 	• 1st level (2 slots): charm person, hellish rebuke, unseen servant</text>
     </trait>
     <trait>
-      <name>Dark One's Blessing</name>
+      <name>Dark One&apos;s Blessing</name>
       <text>
 When the witch reduces a hostile creature to 0 hit points, the witch gains 5 temporary hit points.</text>
     </trait>
@@ -2889,7 +2889,7 @@ Susan is a 2nd-level spellcaster. Her spellcasting ability is Charisma (spell sa
 	• 1st level (2 slots): charm person, hellish rebuke, unseen servant</text>
     </trait>
     <trait>
-      <name>Dark One's Blessing</name>
+      <name>Dark One&apos;s Blessing</name>
       <text>
 When Susan reduces a hostile creature to 0 hit points, she gains 5 temporary hit points.</text>
     </trait>
@@ -3062,7 +3062,7 @@ The swashbuckler reduces the damage dealt by one melee attack that would hit the
     </reaction>
     <spells/>
     <slots/>
-    <description>A common figure in many jerbeen folktales, a swashbuckler is a champion who fights with finesse and daring. Natural leaders, swashbucklers keep their wits about them during a duel, pressing small advantages to win the day. Jerbeen swashbucklers often train in the tradition of their Amaranthine, Gaspard. Each year swashbucklers participate in fencing matches held in Gaspard's honor. Not all swashbucklers follow this path, with some using their talents for brigandry.
+    <description>A common figure in many jerbeen folktales, a swashbuckler is a champion who fights with finesse and daring. Natural leaders, swashbucklers keep their wits about them during a duel, pressing small advantages to win the day. Jerbeen swashbucklers often train in the tradition of their Amaranthine, Gaspard. Each year swashbucklers participate in fencing matches held in Gaspard&apos;s honor. Not all swashbucklers follow this path, with some using their talents for brigandry.
 
 Source:	Humblewood Campaign Setting p. 200</description>
     <environment/>
@@ -3086,7 +3086,7 @@ Source:	Humblewood Campaign Setting p. 200</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>Birdfolk, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, can also understand Auran but can&apos;t speak it</languages>
     <cr>0</cr>
     <exp>10</exp>
     <resist/>
@@ -3143,7 +3143,7 @@ Source:	Humblewood Campaign Setting p. 199</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>Birdfolk, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, can also understand Auran but can&apos;t speak it</languages>
     <cr>0</cr>
     <exp>10</exp>
     <resist/>
@@ -3189,7 +3189,7 @@ Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) slashing d
     </action>
     <spells/>
     <slots/>
-    <description>An energetic and curious young dusk corvum scholar who is currently working on a dissertation in Winnowing Reach. Kenna's research focuses on the properties of various slimes around the region. She is a student of the Avium, and hopes her findings will earn her a grant to fund yet more study of these fascinating creatures. Kenna is a native of Winnowing Reach, and knows the village well. She is a little precocious and takes risks for her work. Kenna uses the commoner stat block, adjusted with the racial traits of a dusk corvum. She is chaotic good.
+    <description>An energetic and curious young dusk corvum scholar who is currently working on a dissertation in Winnowing Reach. Kenna&apos;s research focuses on the properties of various slimes around the region. She is a student of the Avium, and hopes her findings will earn her a grant to fund yet more study of these fascinating creatures. Kenna is a native of Winnowing Reach, and knows the village well. She is a little precocious and takes risks for her work. Kenna uses the commoner stat block, adjusted with the racial traits of a dusk corvum. She is chaotic good.
 
 Stat Block Origin: Commoner
 Source:	Humblewood Campaign Setting p. 200</description>
@@ -3213,7 +3213,7 @@ Source:	Humblewood Campaign Setting p. 200</description>
     <save/>
     <skill>Medicine +7, Persuasion +4, Religion +2</skill>
     <passive>13</passive>
-    <languages>Birdfolk, one other language, can understand Auran but can't speak it</languages>
+    <languages>Birdfolk, one other language, can understand Auran but can&apos;t speak it</languages>
     <cr>2</cr>
     <exp>450</exp>
     <resist/>
@@ -3260,11 +3260,11 @@ Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeonin
       <attack>Two-Handed|+2|1d8</attack>
     </action>
     <action>
-      <name>Ardea's Vigor (1/Day)</name>
+      <name>Ardea&apos;s Vigor (1/Day)</name>
       <recharge>1/Day</recharge>
       <text>
 The cleric calls on the powers of Ardea to imbue their allies with her protective life force. The luma cleric and up to 3 allies within 30 feet gain 5 (2d4) temporary hit points. For one minute, anyone under this effect gains 5 temporary hit points at the start of each of their turns.</text>
-      <attack>Ardea's Vigor||2d4</attack>
+      <attack>Ardea&apos;s Vigor||2d4</attack>
     </action>
     <action>
       <name>Songbird (Recharges after a Long Rest)</name>
@@ -3274,7 +3274,7 @@ The cleric can cast charm person. Charisma is their spellcasting ability (spell 
     </action>
     <spells>light, sacred flame, thaumaturgy, bless, cure wounds, guiding bolt, lesser restoration, spiritual weapon, beacon of hope, dispel magic, charm person</spells>
     <slots>0,4,3,2</slots>
-    <description>Clerics of Ardea travel the Wood on holy pilgrimages to sacred groves resplendent with life fostered by the Dawnmother. They spread Ardea's message of kindness wherever they go, taking it upon themselves to protect all life, great and small. Clerics serve the communities they pass through as healers, mediators, and occasionally as valiant defenders. Lumas who heed the call of the Amaranthine find their natural charisma and mystic talents to be of great help as they walk the cleric's path.
+    <description>Clerics of Ardea travel the Wood on holy pilgrimages to sacred groves resplendent with life fostered by the Dawnmother. They spread Ardea&apos;s message of kindness wherever they go, taking it upon themselves to protect all life, great and small. Clerics serve the communities they pass through as healers, mediators, and occasionally as valiant defenders. Lumas who heed the call of the Amaranthine find their natural charisma and mystic talents to be of great help as they walk the cleric&apos;s path.
 
 Source:	Humblewood Campaign Setting p. 201</description>
     <environment/>
@@ -3571,7 +3571,7 @@ The brute adds 2 to his AC against one melee attack that would hit them. The bru
     </reaction>
     <spells/>
     <slots/>
-    <description>Although many in the bandit coalition follow noble ideals, there have always been a handful of unreliable members, only concerned with their own advancement. These ruthless brutes are scoundrels through and through, willing to seize power within the coalition by any means necessary. Mapachs don't have more knaves among them as a matter of course, but the infamy of a few such villains has further sullied their reputation in the eyes of perch-dwellers.
+    <description>Although many in the bandit coalition follow noble ideals, there have always been a handful of unreliable members, only concerned with their own advancement. These ruthless brutes are scoundrels through and through, willing to seize power within the coalition by any means necessary. Mapachs don&apos;t have more knaves among them as a matter of course, but the infamy of a few such villains has further sullied their reputation in the eyes of perch-dwellers.
 
 Source:	Humblewood Campaign Setting p. 202</description>
     <environment/>
@@ -3641,7 +3641,7 @@ Krall adds 2 to his AC against one melee attack that would hit him. Krall must s
     </reaction>
     <spells/>
     <slots/>
-    <description>Although many in the bandit coalition follow noble ideals, there have always been a handful of unreliable members, only concerned with their own advancement.These ruthless brutes are scoundrels through and through, willing to seize power within the coalition by any means necessary. Mapachs don't have more knaves among them as a matter of course, but the infamy of a few such villains has further sullied their reputation in the eyes of perch-dwellers.
+    <description>Although many in the bandit coalition follow noble ideals, there have always been a handful of unreliable members, only concerned with their own advancement.These ruthless brutes are scoundrels through and through, willing to seize power within the coalition by any means necessary. Mapachs don&apos;t have more knaves among them as a matter of course, but the infamy of a few such villains has further sullied their reputation in the eyes of perch-dwellers.
 
 Krall, the Scavenger King:
  Krall is an imposing mapach, standing nearly 6 feet tall with a solid build and matted fur that is missing in patches. He was close friends with Benna, although he didn't share her altruism and instead believed that those who couldn't carry their weight should be left behind. He expects complete loyalty from his followers, and favors hit-and-run tactics. He and his troops exact tolls on poorly-defended caravans for passage along the roads, which many pay to avoid his wrath. Krall uses the mapach brute stat block.
@@ -3697,7 +3697,7 @@ Melee or Ranged Weapon Attack: +4 to hit, range 5 ft., one target. Hit: 4 (1d4 +
       <attack>Dagger|+4|1d4+2</attack>
     </action>
     <action>
-      <name>Tinker's Toys</name>
+      <name>Tinker&apos;s Toys</name>
       <text>
 The tinkerer uses one of the following options (roll a d4 or choose one); the tinkerer can use each one no more than once per day:
 
@@ -3712,7 +3712,7 @@ The tinkerer turns the crank on a small gadget that sprays nettles at a target. 
 
 4. Grease Balloon:
 The tinkerer targets a 10-foot by 10-foot area up to 15 feet away, and makes it slick with grease. The area is considered difficult terrain, and each creature standing in the area must succeed on a DC 11 Dexterity saving throw or fall prone. A creature that enters the area or ends its turn there must also succeed on a DC 11 Dexterity saving throw or fall prone.</text>
-      <attack>Tinker's Toys||1d4</attack>
+      <attack>Tinker&apos;s Toys||1d4</attack>
       <attack>Nettle Gun|+4|1d4+2</attack>
       <attack>Piercing||1d10</attack>
     </action>
@@ -3742,7 +3742,7 @@ Source:	Humblewood Campaign Setting p. 203</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>Birdfolk, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, can also understand Auran but can&apos;t speak it</languages>
     <cr>0</cr>
     <exp>10</exp>
     <resist/>
@@ -3778,7 +3778,7 @@ Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashi
     </action>
     <spells/>
     <slots/>
-    <description>Mordane is a prim-and-proper elderly swift strig, who keeps his gray and white feathers preened, and his librarian robes freshly pressed. He is wise but old fashioned, and prefers to read in solitude when off shift, rather than fraternize with his peers. Despite his social shortcomings, he's an experienced librarian, and has incredible knowledge of even the oldest parts of the lower library. Mordane uses the commoner stat block, adjusted with the racial traits of a swift strig. He is neutral.
+    <description>Mordane is a prim-and-proper elderly swift strig, who keeps his gray and white feathers preened, and his librarian robes freshly pressed. He is wise but old fashioned, and prefers to read in solitude when off shift, rather than fraternize with his peers. Despite his social shortcomings, he&apos;s an experienced librarian, and has incredible knowledge of even the oldest parts of the lower library. Mordane uses the commoner stat block, adjusted with the racial traits of a swift strig. He is neutral.
 
 Stat Block Origin: Commoner
 Source:	Humblewood Campaign Setting p. 203</description>
@@ -3848,7 +3848,7 @@ Oakheart magically animates one or two trees he can see within 60 feet of him. T
     </action>
     <spells/>
     <slots/>
-    <description>Oakheart is a huge tree-shaped creature with charred bark that smolders in places, and many small flames which burn on his branches, giving the impression of leaves. Once a treant, he bathed in the primal energies of the Scorched Grove, transforming into an entity so thoroughly possessed of the element of flame that he's capable of serving as The Borealus' keeper. He is the artifact's guardian, and will not relinquish the staff until he has been convinced that whoever has disturbed him can control the staff's considerable power, and that they mean to maintain the natural balance he sacrificed himself to protect.
+    <description>Oakheart is a huge tree-shaped creature with charred bark that smolders in places, and many small flames which burn on his branches, giving the impression of leaves. Once a treant, he bathed in the primal energies of the Scorched Grove, transforming into an entity so thoroughly possessed of the element of flame that he's capable of serving as The Borealus' keeper. He is the artifact&apos;s guardian, and will not relinquish the staff until he has been convinced that whoever has disturbed him can control the staff&apos;s considerable power, and that they mean to maintain the natural balance he sacrificed himself to protect.
 
 Source:	Humblewood Campaign Setting p. 203</description>
     <environment/>
@@ -3871,7 +3871,7 @@ Source:	Humblewood Campaign Setting p. 203</description>
     <save/>
     <skill>History +2, Perception +6, Stealth +4, Survival +6</skill>
     <passive>16</passive>
-    <languages>Birdfolk, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, can also understand Auran but can&apos;t speak it</languages>
     <cr>1/2</cr>
     <exp>100</exp>
     <resist/>
@@ -3956,7 +3956,7 @@ Source:	Humblewood Campaign Setting p. 203</description>
     <save/>
     <skill>Athletics +3, Stealth +7, Survival +5</skill>
     <passive>13</passive>
-    <languages>Birdfolk, Mapach, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, Mapach, can also understand Auran but can&apos;t speak it</languages>
     <cr>4</cr>
     <exp>1100</exp>
     <resist/>
@@ -4031,7 +4031,7 @@ Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft., range 20/60 ft., one targ
 Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.</text>
       <attack>Talons|+5|1d4+3</attack>
     </action>
-    <spells>cure wounds, fog cloud, hunter's mark, protection from evil and good</spells>
+    <spells>cure wounds, fog cloud, hunter&apos;s mark, protection from evil and good</spells>
     <slots>0,3</slots>
     <description>The ranger is an iconic figure in raptor stories and myths, and has inspired many to follow in their legendary footsteps. Outfitted for rough living in the wilds, these rangers are consummate archers and exceptional hunters. With supernatural eyesight and quick reflexes, raptors are ideally suited to the life of a hunter. Many who chose this path find themselves the inspiration for new tales.
 
@@ -4059,7 +4059,7 @@ Source:	Humblewood Campaign Setting p. 203</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>Birdfolk, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, can also understand Auran but can&apos;t speak it</languages>
     <cr>0</cr>
     <exp>10</exp>
     <resist/>
@@ -4072,7 +4072,7 @@ Source:	Humblewood Campaign Setting p. 203</description>
       <text>+2</text>
     </trait>
     <trait>
-      <name>Hunter's Training</name>
+      <name>Hunter&apos;s Training</name>
       <text>
 Rhys has proficiency with the longbow, shortbow, and spear. Additionally, her familiarity with the longbow means that it is not considered a heavy weapon for her.</text>
     </trait>
@@ -4124,7 +4124,7 @@ Source:	Humblewood Campaign Setting p. 203</description>
     <save>con +5, wis +4</save>
     <skill/>
     <passive>11</passive>
-    <languages>Birdfolk, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, can also understand Auran but can&apos;t speak it</languages>
     <cr>3</cr>
     <exp>700</exp>
     <resist/>
@@ -4177,7 +4177,7 @@ The knight casts the gust of wind spell (save DC 15).</text>
     </action>
     <spells>gust of wind</spells>
     <slots/>
-    <description>The Perch Guard produces many skilled soldiers, but only those who possess a great degree of talent are trained to become knights. The knights of Alderheart's Perch Guard are taught how to protect others by creating opportunities for allies to regroup or retreat as necessary. Experts in sword-and-shield fighting, the knight's heavily-armoured fighting style allows them to hold the line against even the fiercest of enemies. The strig knight listed is equipped with a wing crest shield (see Humblewood Campaign Setting Appendix D: New Magic Items).
+    <description>The Perch Guard produces many skilled soldiers, but only those who possess a great degree of talent are trained to become knights. The knights of Alderheart&apos;s Perch Guard are taught how to protect others by creating opportunities for allies to regroup or retreat as necessary. Experts in sword-and-shield fighting, the knight&apos;s heavily-armoured fighting style allows them to hold the line against even the fiercest of enemies. The strig knight listed is equipped with a wing crest shield (see Humblewood Campaign Setting Appendix D: New Magic Items).
 
 Source:	Humblewood Campaign Setting p. 204</description>
     <environment/>
@@ -4201,7 +4201,7 @@ Source:	Humblewood Campaign Setting p. 204</description>
     <save>con +5, wis +4</save>
     <skill/>
     <passive>11</passive>
-    <languages>Birdfolk, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, can also understand Auran but can&apos;t speak it</languages>
     <cr>3</cr>
     <exp>700</exp>
     <resist/>
@@ -4278,7 +4278,7 @@ Source:	Humblewood Campaign Setting p. 204</description>
     <save/>
     <skill>Acrobatics +6, Perception +4, Survival +4</skill>
     <passive>14</passive>
-    <languages>Birdfolk, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, can also understand Auran but can&apos;t speak it</languages>
     <cr>3</cr>
     <exp>700</exp>
     <resist/>
@@ -4313,7 +4313,7 @@ The tracker rolls advantage on Strength (Athletics) checks made to climb any sur
 The tracker has advantage on Dexterity (Stealth) checks when they attempt to hide in a forest.</text>
     </trait>
     <trait>
-      <name>Reya's Keen Eye</name>
+      <name>Reya&apos;s Keen Eye</name>
       <text>
 The tracker can make Wisdom (Perception) checks as a bonus action to try and find hidden creatures.</text>
     </trait>
@@ -4341,7 +4341,7 @@ Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one ta
 Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.</text>
       <attack>Talons|+5|1d4+3</attack>
     </action>
-    <spells>elevated sight, hunter's mark, longstrider, speak with animals</spells>
+    <spells>elevated sight, hunter&apos;s mark, longstrider, speak with animals</spells>
     <slots>0,3</slots>
     <description>Capable of moving swiftly through the wilderness, trackers help find those who have lost their way in the forest. Accomplished survivalists, they are familiar with hidden pathways throughout the Wood. Often found alongside woodland beasts, many have formed bonds with these creatures, and find their aid useful in locating lost travelers. For Strigs, known for being at ease even in the harshest environments, becoming a tracker can prove a satisfying challenge. Some use their skills to double as bounty hunters, which can provide for an even more thrilling chase.
 
@@ -4367,7 +4367,7 @@ Source:	Humblewood Campaign Setting p. 206</description>
     <save>int +7, wis +5</save>
     <skill>Nature +4, Medicine +5, Perception +5</skill>
     <passive>15</passive>
-    <languages>Birdfolk, Druidic, Sylvan, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, Druidic, Sylvan, can also understand Auran but can&apos;t speak it</languages>
     <cr>2</cr>
     <exp>450</exp>
     <resist/>
@@ -4405,7 +4405,7 @@ Havel can communicate simple ideas to living plants, and is able to interpret th
     </trait>
     <spells>druidcraft, gust barrier, produce flame, cure wounds, elevated sight, entangle, thunderwave, barkskin, gust of wind</spells>
     <slots>0,4,3</slots>
-    <description>Havel is a frail but courageous huden gallus, with pheasant-like plumage. He is a dear friend of Tevor, and the two have fallen for each other during their time together in Alderheart. Havel is a Summerblossom, a rank given to experienced members of the Tenders. He has been working at the Tenders' headquarters in the Trunk district, where he provides aid to the refugees. He is also skilled in the use of natural magic, and while normally too sickly to adventure, could still assist the party with his talents.
+    <description>Havel is a frail but courageous huden gallus, with pheasant-like plumage. He is a dear friend of Tevor, and the two have fallen for each other during their time together in Alderheart. Havel is a Summerblossom, a rank given to experienced members of the Tenders. He has been working at the Tenders&apos; headquarters in the Trunk district, where he provides aid to the refugees. He is also skilled in the use of natural magic, and while normally too sickly to adventure, could still assist the party with his talents.
 
 Stat Block Origin: Noble
 Source:	Humblewood Campaign Setting p. 207</description>
@@ -4429,7 +4429,7 @@ Source:	Humblewood Campaign Setting p. 207</description>
     <save/>
     <skill>Athletics +4</skill>
     <passive>12</passive>
-    <languages>Birdfolk, Druidic, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, Druidic, can also understand Auran but can&apos;t speak it</languages>
     <cr>1/4</cr>
     <exp>50</exp>
     <resist>Poison</resist>
@@ -4683,7 +4683,7 @@ When a creature the noble can see makes an attack roll against an ally, the nobl
     </reaction>
     <spells/>
     <slots/>
-    <description>Although founded by birdfolk, Alderheart is home to several noble families of influential humblefolk. Among them are vulpins, who find both their charms and wiles perfectly suited to the political intrigue of Alderheart's high society. Some vulpin nobles can trace their lineage back to ancient royalty.
+    <description>Although founded by birdfolk, Alderheart is home to several noble families of influential humblefolk. Among them are vulpins, who find both their charms and wiles perfectly suited to the political intrigue of Alderheart&apos;s high society. Some vulpin nobles can trace their lineage back to ancient royalty.
 
 Source:	Humblewood Campaign Setting p. 207</description>
     <environment/>
@@ -4756,7 +4756,7 @@ Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeonin
     </action>
     <spells>light, sacred flame, thaumaturgy, cure wounds, disguise self, guiding bolt, lesser restoration, mirror image, spiritual weapon, blink, spirit guardians</spells>
     <slots>0, 4, 3, 2</slots>
-    <description>Priests of the Amaranthine Kren tend shrines in her honor, and share stories of her guile and cunning with visitors. These tales emphasize humility, wariness, and teach listeners to keep their wits about them at all times. In rare cases, these priests are given divine gifts by their Amaranthine. Conferred a portion of Kren's supernatural slyness, they often seek to humble those who have grown too proud.
+    <description>Priests of the Amaranthine Kren tend shrines in her honor, and share stories of her guile and cunning with visitors. These tales emphasize humility, wariness, and teach listeners to keep their wits about them at all times. In rare cases, these priests are given divine gifts by their Amaranthine. Conferred a portion of Kren&apos;s supernatural slyness, they often seek to humble those who have grown too proud.
 
 Source:	Humblewood Campaign Setting p. 207</description>
     <environment/>
@@ -4829,7 +4829,7 @@ Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeonin
     </action>
     <spells>light, sacred flame, thaumaturgy, cure wounds, disguise self, guiding bolt, lesser restoration, mirror image, spiritual weapon, blink, spirit guardians</spells>
     <slots>0, 4, 3, 2</slots>
-    <description>A scarred, gray-and-russet-furred vulpin cleric of Kren, Shyla serves as Krall's lieutenant. Krall saved her life when she was a child, orphaned in the Wood, and she has been grateful to him ever since. Her loyalty to Krall is absolute, and she believes that Krall will only cut loose those who can't pull their weight. Shyla uses the vulpin priest of kren stat block.
+    <description>A scarred, gray-and-russet-furred vulpin cleric of Kren, Shyla serves as Krall&apos;s lieutenant. Krall saved her life when she was a child, orphaned in the Wood, and she has been grateful to him ever since. Her loyalty to Krall is absolute, and she believes that Krall will only cut loose those who can&apos;t pull their weight. Shyla uses the vulpin priest of kren stat block.
 
 Stat Block Origin: Vulpin Priest of Kren
 Source:	Humblewood Campaign Setting p. 207</description>
@@ -4854,7 +4854,7 @@ Source:	Humblewood Campaign Setting p. 207</description>
     <save/>
     <skill>Deception +5, Insight +6, Persuasion +5</skill>
     <passive>13</passive>
-    <languages>Birdfolk, can also understand Auran but can't speak it</languages>
+    <languages>Birdfolk, can also understand Auran but can&apos;t speak it</languages>
     <cr>1/8</cr>
     <exp>25</exp>
     <resist/>
@@ -4905,7 +4905,7 @@ Walden adds 2 to his AC against one melee attack that would hit him. To do so, W
     </reaction>
     <spells/>
     <slots/>
-    <description>A fastidious, easily agitated, middle-aged kindled corvum with drab black feathers. As the Magistrate of Winnowing Reach, he is a prominent political figure in the region. Walden isn't a particularly good or kind man, but he tries to be a reasonable and honorable one. He will not break his bargains, and likewise won't tolerate anything on the party's part which could be conceived as oath-breaking, dishonesty, or actions that might bring harm to the Reach. He cares deeply for his citizens, but that sometimes fails to come across as his political ambitions tend to get in the way. Walden has known Kenna Brightspark since she was but a fledgeling. Walden uses the noble stat block, adjusted with the racial traits of a kindled corvum. He is lawful neutral.
+    <description>A fastidious, easily agitated, middle-aged kindled corvum with drab black feathers. As the Magistrate of Winnowing Reach, he is a prominent political figure in the region. Walden isn't a particularly good or kind man, but he tries to be a reasonable and honorable one. He will not break his bargains, and likewise won&apos;t tolerate anything on the party&apos;s part which could be conceived as oath-breaking, dishonesty, or actions that might bring harm to the Reach. He cares deeply for his citizens, but that sometimes fails to come across as his political ambitions tend to get in the way. Walden has known Kenna Brightspark since she was but a fledgeling. Walden uses the noble stat block, adjusted with the racial traits of a kindled corvum. He is lawful neutral.
 
 Stat Block Origin: Noble
 Source:	Humblewood Campaign Setting p. 209</description>

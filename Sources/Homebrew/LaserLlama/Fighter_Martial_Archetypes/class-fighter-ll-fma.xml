@@ -79,8 +79,8 @@ Should a Paladin break or forsake their Oath in your game, the Crusader Archetyp
 Source:	LaserLlama: Martial Archetypes v2.2.0 p. 3 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Crusader (HB): Crusader's Ire</name>
-        <text>You mark your foes for divine judgment. As a bonus action, you can Mark a creature within 60 feet as the target of your Crusader's Ire, granting you the following benefits:
+        <name>Crusader (HB): Crusader&apos;s Ire</name>
+        <text>You mark your foes for divine judgment. As a bonus action, you can Mark a creature within 60 feet as the target of your Crusader&apos;s Ire, granting you the following benefits:
 
 	• Once per turn when you miss the creature with a weapon attack, you can immediately make another weapon attack against that creature using the same weapon.
 
@@ -93,7 +93,7 @@ Your Mark lasts for 1 minute, or until the Marked creature is slain. Once you Ma
 Source:	LaserLlama: Martial Archetypes v2.2.0 p. 3 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Crusader (HB): Crusader's Ire</name>
+        <name>Crusader (HB): Crusader&apos;s Ire</name>
         <text>You gain proficiency in Religion, and whenever you make an Intelligence (Religion) check related to the god or cause you serve you add double your proficiency bonus to your roll.
 
 Source:	LaserLlama: Martial Archetypes v2.2.0 p. 3 (Homebrew)</text>
@@ -102,7 +102,7 @@ Source:	LaserLlama: Martial Archetypes v2.2.0 p. 3 (Homebrew)</text>
     <autolevel level="7">
       <feature optional="YES">
         <name>Crusader (HB): Renewed Fervor</name>
-        <text>Your fanaticism grants you bursts of fervor in battle. When you use Second Wind you regain the use of Crusader's Ire.
+        <text>Your fanaticism grants you bursts of fervor in battle. When you use Second Wind you regain the use of Crusader&apos;s Ire.
 
 In addition, when you Mark a creature as the target of your Crusader's Ire, you can move up to 30 feet toward it as part of the same bonus action without expending your movement.
 
@@ -122,7 +122,7 @@ Source:	LaserLlama: Martial Archetypes v2.2.0 p. 3 (Homebrew)</text>
     <autolevel level="15">
       <feature optional="YES">
         <name>Crusader (HB): Righteous Judment</name>
-        <text>You are the arbiter of divine wrath. When you hit the target of Crusader's Ire with a weapon attack, you can end the Mark to have your attack to deal maximum damage instead of rolling.
+        <text>You are the arbiter of divine wrath. When you hit the target of Crusader&apos;s Ire with a weapon attack, you can end the Mark to have your attack to deal maximum damage instead of rolling.
 
 If the attack reduces the target to 0 hit points you instantly regain the use of Crusader's Ire.
 
@@ -132,7 +132,7 @@ Source:	LaserLlama: Martial Archetypes v2.2.0 p. 4 (Homebrew)</text>
     <autolevel level="18">
       <feature optional="YES">
         <name>Crusader (HB): Legendary Crusader</name>
-        <text>When the target of Crusader's Ire target's you with an attack, you can use your reaction to make a single weapon attack against that creature. If you use this reaction after the attack hits you, your weapon attack is made with advantage.
+        <text>When the target of Crusader&apos;s Ire target&apos;s you with an attack, you can use your reaction to make a single weapon attack against that creature. If you use this reaction after the attack hits you, your weapon attack is made with advantage.
 
 Source:	LaserLlama: Martial Archetypes v2.2.0 p. 4 (Homebrew)</text>
       </feature>
@@ -236,7 +236,7 @@ Source:	LaserLlama: Martial Archetypes v2.2.0 p. 5 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Guardian (HB): Warrior Smith</name>
-        <text>You gain the skills to maintain your arms and armor so that you may defend your allies to the best of your ability. You gain proficiency in leatherworker's and smith's tools.
+        <text>You gain the skills to maintain your arms and armor so that you may defend your allies to the best of your ability. You gain proficiency in leatherworker&apos;s and smith&apos;s tools.
 
 During a long rest, you can spend 1 hour using either set of tools to reinforce one shield or a set of armor you touch. This object grants its wearer a special +1 bonus to its Armor Class until the end of your next long rest.
 
@@ -480,7 +480,7 @@ Source:	LaserLlama: Martial Archetypes v2.2.0 p. 8 (Homebrew)</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Martial Artist (HB): Evasive Footwork</name>
-        <text>You have trained to evade your foes' strikes in combat. When you take the Attack action on your turn and make at least one unarmed strike, you can take the Disengage or Dash action in place of one of your attacks on that turn.
+        <text>You have trained to evade your foes&apos; strikes in combat. When you take the Attack action on your turn and make at least one unarmed strike, you can take the Disengage or Dash action in place of one of your attacks on that turn.
 
 Source:	LaserLlama: Martial Archetypes v2.2.0 p. 8 (Homebrew)</text>
       </feature>
@@ -536,7 +536,7 @@ Source:	LaserLlama: Martial Archetypes v2.2.0 p. 9 (Homebrew)</text>
     <autolevel level="7">
       <feature optional="YES">
         <name>Master of Hounds (HB): Iron Jaws</name>
-        <text>Your Hound has been infused with a portion of your own fighting spirit. Your Hound's Bite and Maul attacks ignore resistance to nonmagical piercing and slashing damage.
+        <text>Your Hound has been infused with a portion of your own fighting spirit. Your Hound&apos;s Bite and Maul attacks ignore resistance to nonmagical piercing and slashing damage.
 
 In addition, any creature that is at least one size smaller than your Hound has disadvantage on its Strength saving throw to resist your Loyal Hound's grapple.
 
@@ -587,7 +587,7 @@ Source:	LaserLlama: Martial Archetypes v2.2.0 p. 10 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Quartermaster (HB): Down to Earth</name>
-        <text>You have mastered the skills to provide. You gain proficiency with cook's utensils, land vehicles, and in Animal Handling. Moreover, when you make an ability check that uses one of these proficiencies, you treat a d20 roll of 7 or lower as an 8.
+        <text>You have mastered the skills to provide. You gain proficiency with cook&apos;s utensils, land vehicles, and in Animal Handling. Moreover, when you make an ability check that uses one of these proficiencies, you treat a d20 roll of 7 or lower as an 8.
 
 Source:	LaserLlama: Martial Archetypes v2.2.0 p. 10 (Homebrew)</text>
       </feature>
@@ -814,7 +814,7 @@ Source:	LaserLlama: Martial Archetypes v2.2.0 p. 13 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Tinker Knight (HB): Analytical Mind</name>
-        <text>You gain proficiency with tinker's tools and smith's tools. If you are already proficient with these tools, you instead gain proficiency with another set of tools of your choice.
+        <text>You gain proficiency with tinker&apos;s tools and smith&apos;s tools. If you are already proficient with these tools, you instead gain proficiency with another set of tools of your choice.
 
 Moreover, whenever you make a check that uses tinker's tools, you can treat a d20 roll of 7 or lower as an 8.
 
@@ -897,8 +897,8 @@ Source:	LaserLlama: Martial Archetypes v2.2.0 p. 14 (Homebrew)</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Tinker Knight (HB): Tinker's Expertise</name>
-        <text>Your proficiency bonus is doubled for any ability check that uses your proficiency with tinker's tools or smith's tools.
+        <name>Tinker Knight (HB): Tinker&apos;s Expertise</name>
+        <text>Your proficiency bonus is doubled for any ability check that uses your proficiency with tinker&apos;s tools or smith&apos;s tools.
 
 In addition, items modified by your Schematics count as magical for overcoming resistances and immunities, and you can apply Schematics to magic weapons and armor.
 
@@ -938,7 +938,7 @@ Source:	LaserLlama: Martial Archetypes v2.2.0 p. 13 (Homebrew)</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Martial Archetype: Witch Knight (HB)</name>
-        <text>Those who walk the dark path of the Witch Knight are driven by an overwhelming desire to destroy the great evils of the world. Those especially dedicated, those willing to give up anything, are often approached by Eldritch Powers, beings of otherworldly might. These benefactors offer power in return for a fraction of the warrior's soul or unquestioning fealty.
+        <text>Those who walk the dark path of the Witch Knight are driven by an overwhelming desire to destroy the great evils of the world. Those especially dedicated, those willing to give up anything, are often approached by Eldritch Powers, beings of otherworldly might. These benefactors offer power in return for a fraction of the warrior&apos;s soul or unquestioning fealty.
 
 Source:	LaserLlama: Martial Archetypes v2.2.0 p. 14 (Homebrew)</text>
       </feature>

@@ -343,7 +343,7 @@ Melee Weapon Attack: +5 to hit, reach 15 ft., one target Hit: 7 (1d8 + 3) bludge
     <conditionImmune/>
     <senses/>
     <passive>12</passive>
-    <languages>Common, Draconic, Thieves' cant</languages>
+    <languages>Common, Draconic, Thieves&apos; cant</languages>
     <cr>1</cr>
     <description>Source:	Dragons of Stormwreck Isle p. 47</description>
     <trait>

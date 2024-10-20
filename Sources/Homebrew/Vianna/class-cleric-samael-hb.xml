@@ -61,7 +61,7 @@ Source:	Plane Shift: Amonkhet p. 28</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Samael Domain (HB): Embodiment of Samael</name>
-        <text>At 6th level, you become remarkably adept at channeling magical energy to compel others. If you cast a spell of the enchantment school using a spell slot of 1st level or higher, you can change the spell's casting time to 1 bonus action for this casting, provided the spell's casting time is normally 1 action.
+        <text>At 6th level, you become remarkably adept at channeling magical energy to compel others. If you cast a spell of the enchantment school using a spell slot of 1st level or higher, you can change the spell&apos;s casting time to 1 bonus action for this casting, provided the spell&apos;s casting time is normally 1 action.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
 
@@ -81,7 +81,7 @@ Source:	Plane Shift: Amonkhet p. 28</text>
 
     <autolevel level="17">
       <feature optional="YES">
-        <name>Samael Domain (HB): Samael's Wrath</name>
+        <name>Samael Domain (HB): Samael&apos;s Wrath</name>
         <text>Starting at 17th level, enemies you designate for destruction wilt under the combined efforts of you and your allies. If you deal your Divine Strike damage to a creature on your turn, you can curse that creature until the start of your next turn. The next time one of your allies hits the cursed creature with an attack, the target also takes 2d8 psychic damage, and the curse ends. You can curse a creature in this way only once per turn.
 
 Source:	Guildmasters' Guide to Ravnica p. 25,

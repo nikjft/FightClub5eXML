@@ -5,7 +5,7 @@
     <!--autolevel level="2">
       <feature optional="YES">
         <name>Druid Circle: Circle of Dreams (UA)</name>
-        <text>Druids who are members of the Circle of Dreams hail from regions that have strong ties to the Feywild. The druids' guardianship of the natural world makes for a natural alliance between them and good-aligned fey. These druids seek to fill the world with merriment and light. Their magic mends wounds and brings joy to downcast hearts, and the realms they protect are gleaming, fruitful places.
+        <text>Druids who are members of the Circle of Dreams hail from regions that have strong ties to the Feywild. The druids&apos; guardianship of the natural world makes for a natural alliance between them and good-aligned fey. These druids seek to fill the world with merriment and light. Their magic mends wounds and brings joy to downcast hearts, and the realms they protect are gleaming, fruitful places.
 
 Source:	Unearthed Arcana: Druid p. 1</text>
       </feature>
@@ -80,7 +80,7 @@ Source:	Unearthed Arcana: Druid p. 1</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Circle of the Shepherd (UA): Spirit Bond</name>
-        <text>Starting at 2nd level, you gain the ability to call forth animal spirits and use them to influence the world around you. As a bonus action, you magically summon a Medium spirit to an unoccupied space you can see within 60 feet of you. The spirit creates an aura in a 30-foot radius around it, it doesn't occupy its space, it is immobile, and it counts as neither a creature nor an object.
+        <text>Starting at 2nd level, you gain the ability to call forth animal spirits and use them to influence the world around you. As a bonus action, you magically summon a Medium spirit to an unoccupied space you can see within 60 feet of you. The spirit creates an aura in a 30-foot radius around it, it doesn&apos;t occupy its space, it is immobile, and it counts as neither a creature nor an object.
 
 The spirit persists for 1 minute. Once you use this feature, you can't use it again until you finish a short or long rest.
 
@@ -111,7 +111,7 @@ Source:	Unearthed Arcana: Druid p. 1</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Circle of the Shepherd (UA): Guardian Spirit</name>
-        <text>At 10th level, you gain the services of a spirit that watches over you and protects you from harm. Whenever you finish a long rest, you gain the benefits of a death ward spell. The spell's duration is extended to 24 hours.
+        <text>At 10th level, you gain the services of a spirit that watches over you and protects you from harm. Whenever you finish a long rest, you gain the benefits of a death ward spell. The spell&apos;s duration is extended to 24 hours.
 
 Source:	Unearthed Arcana: Druid p. 1</text>
       </feature>
@@ -141,7 +141,7 @@ Source:	Unearthed Arcana: Druid p. 2</text>
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Circle of Twilight (UA): Harvest's Scythe</name>
+        <name>Circle of Twilight (UA): Harvest&apos;s Scythe</name>
         <text>Starting at 2nd level, you learn to unravel and harvest the life energy of other creatures. You can augment your spells to drain the life force from creatures. You have a pool of energy represented by a number of d10s equal to your druid level.
 
 When you roll damage for a spell, you can increase that damage by spending dice from the pool. You can spend a number of dice equal to half your druid level or less. Roll the spent dice and add them to the damage as necrotic damage. If you kill one or more hostile creatures with a spell augmented in this way, you or an ally of your choice that you can see within 30 feet of you regains 2 hit points per die spent to increase the spell's damage, or 5 hit points per die if at least one of the slain creatures was undead.
@@ -155,7 +155,7 @@ Source:	Unearthed Arcana: Druid p. 2</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Circle of Twilight (UA): Speech Beyond the Grave</name>
-        <text>At 6th level, you gain the ability to reach beyond death's veil in search of knowledge. Using this feature, you can cast speak with dead without material components, and you understand what the target of this casting says. It can understand your questions, even if you don't share a language or it is not intelligent enough to speak.
+        <text>At 6th level, you gain the ability to reach beyond death&apos;s veil in search of knowledge. Using this feature, you can cast speak with dead without material components, and you understand what the target of this casting says. It can understand your questions, even if you don&apos;t share a language or it is not intelligent enough to speak.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
@@ -177,7 +177,7 @@ Source:	Unearthed Arcana: Druid p. 2</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Circle of Twilight (UA): Paths of the Dead</name>
-        <text>At 14th level, your mastery of death allows you to tread the paths used by ghosts and other spirits. Using this feature, you can cast etherealness. Once the spell ends, you can't cast it with this feature again until you finish a short or long rest.
+        <text>At 14th level, your mastery of death allows you to tread the paths used by ghosts and other spirits. Using this feature, you can cast etherealness. Once the spell ends, you can&apos;t cast it with this feature again until you finish a short or long rest.
 
 Source:	Unearthed Arcana: Druid p. 2</text>
       </feature>

@@ -66,7 +66,7 @@ Source:	Player's Handbook 2024 p. 153</text>
     <autolevel level="1">
       <feature>
         <name>Eldritch Invocations</name>
-        <text>You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the "Eldritch Invocation Options" section later in this class's description (added as spells in the Eldritch Invocations spell list).
+        <text>You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the "Eldritch Invocation Options" section later in this class&apos;s description (added as spells in the Eldritch Invocations spell list).
 
 Prerequisites:
 If an invocation has a prerequisite, you must meet it to learn that invocation. For example, if an invocation requires you to be a level S+ Warlock, you can select the invocation once you reach Warlock level 5.
@@ -108,7 +108,7 @@ Source:	Player's Handbook 2024 p. 153</text>
     <autolevel level="1">
       <feature>
         <name>Pact Magic</name>
-        <text>Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. The entity is a voice in the shadows-its identity unclear- but its boon to you is concrete: the ability to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Warlock spells, which appear in the Warlock spell list later in the class's description.
+        <text>Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. The entity is a voice in the shadows-its identity unclear- but its boon to you is concrete: the ability to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Warlock spells, which appear in the Warlock spell list later in the class&apos;s description.
 
 Cantrips:
 You know two Warlock cantrips of your choice. Eldritch Blast and Prestidigitation are recommended. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.
@@ -159,7 +159,7 @@ Source:	Player's Handbook 2024 p. 153</text>
     <autolevel level="2">
       <feature>
         <name>Magical Cunning</name>
-        <text>You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can't do so again until you finish a Long Rest.
+        <text>You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can&apos;t do so again until you finish a Long Rest.
 
 Source:	Player's Handbook 2024 p. 154</text>
       </feature>
@@ -173,7 +173,7 @@ Source:	Player's Handbook 2024 p. 154</text>
     <autolevel level="3">
       <feature>
         <name>Warlock Subclass</name>
-        <text>You gain a Warlock subclass of your choice. The Archfey Patron, Celestial Patron, Fiend Patron, and Great Old One Patron subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass's features that are of your Warlock level or lower.
+        <text>You gain a Warlock subclass of your choice. The Archfey Patron, Celestial Patron, Fiend Patron, and Great Old One Patron subclasses are detailed after this class&apos;s description. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass&apos;s features that are of your Warlock level or lower.
 
 Source:	Player's Handbook 2024 p. 154</text>
       </feature>
@@ -200,7 +200,7 @@ Source:	Player's Handbook 2024 p. 155</text>
     <autolevel level="9">
       <feature>
         <name>Contact Patron</name>
-        <text>In the past, you usually contacted your patron through intermediaries. Now you can communicate directly; you always have the Contact Other Plane spell prepared. With this feature, you can cast the spell without expending a spell slot to contact your patron, and you automatically succeed on the spell's saving throw.
+        <text>In the past, you usually contacted your patron through intermediaries. Now you can communicate directly; you always have the Contact Other Plane spell prepared. With this feature, you can cast the spell without expending a spell slot to contact your patron, and you automatically succeed on the spell&apos;s saving throw.
 
 Once you cast the spell with this feature, you can't do so in this way again until you finish a Long Rest.
 
@@ -410,7 +410,7 @@ Source:	Player's Handbook 2024 p. 160</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Celestial Patron: Radiant Soul</name>
-        <text>Your link to your patron allows you to serve as a conduit for radiant energy. You have Resistance to Radiant damage. Once per turn, when a spell you cast deals Radiant or Fire damage, you can add your Charisma modifier to that spell's damage against one of the spell's targets.
+        <text>Your link to your patron allows you to serve as a conduit for radiant energy. You have Resistance to Radiant damage. Once per turn, when a spell you cast deals Radiant or Fire damage, you can add your Charisma modifier to that spell&apos;s damage against one of the spell&apos;s targets.
 
 Source:	Player's Handbook 2024 p. 160</text>
       </feature>
@@ -564,7 +564,7 @@ Source:	Player's Handbook 2024 p. 161</text>
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Fiend Patron: Dark One's Blessing</name>
+        <name>Fiend Patron: Dark One&apos;s Blessing</name>
         <text>When you reduce an enemy to 0 Hit Points, you gain Temporary Hit Points equal to your Charisma modifier plus your Warlock level (minimum of 1 Temporary Hit Point). You also gain this benefit if someone else reduces an enemy within 10 feet of you to 0 Hit Points.
 
 Source:	Player's Handbook 2024 p. 161</text>
@@ -589,8 +589,8 @@ Source:	Player's Handbook 2024 p. 161</text>
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Fiend Patron: Dark One's Own Luck</name>
-        <text>You can call on your fiendish patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add 1d1O to your roll. You can do so after seeing the roll but before any of the roll's effects occur.
+        <name>Fiend Patron: Dark One&apos;s Own Luck</name>
+        <text>You can call on your fiendish patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add 1d1O to your roll. You can do so after seeing the roll but before any of the roll&apos;s effects occur.
 
 You can use this feature a number of times equal to your Charisma modifier (minimum of once), but you can use it no more than once per roll. You regain all expended uses when you finish a Long Rest.
 
@@ -610,7 +610,7 @@ Source:	Player's Handbook 2024 p. 162</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Fiend Patron: Hurl Through Hell</name>
-        <text>Once per turn when you hit a creature with an attack roll, you can try to instantly transport the target through the Lower Planes. The target must succeed on a Charisma saving throw against your spell save DC, or the target disappears and hurtles through a nightmare landscape. The target takes 8d10 Psychic damage if it isn't a Fiend, and it has the Incapacitated condition until the end of your next turn, when it returns to the space it previously occupied or the nearest unoccupied space.
+        <text>Once per turn when you hit a creature with an attack roll, you can try to instantly transport the target through the Lower Planes. The target must succeed on a Charisma saving throw against your spell save DC, or the target disappears and hurtles through a nightmare landscape. The target takes 8d10 Psychic damage if it isn&apos;t a Fiend, and it has the Incapacitated condition until the end of your next turn, when it returns to the space it previously occupied or the nearest unoccupied space.
 
 Once you use this feature, you can't use it again until you finish a Long Rest unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
 
@@ -697,7 +697,7 @@ Source:	Player's Handbook 2024 p. 163</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Great Old One Patron: Thought Shield</name>
-        <text>Your thoughts can't be read by telepathy or other means unless you allow it. You also have Resistance to Psychic damage, and whenever a creature deals Psychic damage to you, that creature takes the same amount of damage that you take.
+        <text>Your thoughts can&apos;t be read by telepathy or other means unless you allow it. You also have Resistance to Psychic damage, and whenever a creature deals Psychic damage to you, that creature takes the same amount of damage that you take.
 
 Source:	Player's Handbook 2024 p. 163</text>
       </feature>
@@ -706,7 +706,7 @@ Source:	Player's Handbook 2024 p. 163</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Great Old One Patron: Create Thrall</name>
-        <text>When you cast Summon Aberration, you can modify it so that it doesn't require Concentration. If you do so, the spell's duration becomes 1 minute for that casting, and when summoned, the Aberration has a number of Temporary Hit Points equal to your Warlock level plus your Charisma modifier
+        <text>When you cast Summon Aberration, you can modify it so that it doesn&apos;t require Concentration. If you do so, the spell&apos;s duration becomes 1 minute for that casting, and when summoned, the Aberration has a number of Temporary Hit Points equal to your Warlock level plus your Charisma modifier
 
 In addition, the first time each turn the Aberration hits a creature under the effect of your Hex, the Aberration deals extra Psychic damage to the target equal to the bonus damage of that spell.
 

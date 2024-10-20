@@ -7,7 +7,7 @@
     <autolevel level="3">
       <feature optional="YES">
         <name>Bard College: College of Discord (HB)</name>
-        <text>Bards of the College of Discord yearn to take the performances to the next level. While some artists feel the need to prepare or learn progressions within a harmonic framework, the extemporaneous nature of the bard's study encourages inventing variations in their musical repertoire mid performance. This practice usually bleeds into their outlook on life and, whether with accompaniment or solo, these bards are excited to delve into the unknown, no matter the vibe.
+        <text>Bards of the College of Discord yearn to take the performances to the next level. While some artists feel the need to prepare or learn progressions within a harmonic framework, the extemporaneous nature of the bard&apos;s study encourages inventing variations in their musical repertoire mid performance. This practice usually bleeds into their outlook on life and, whether with accompaniment or solo, these bards are excited to delve into the unknown, no matter the vibe.
 
 Source:	Xanathar's Lost Notes To Everything Else p. 10 (Homebrew)</text>
       </feature>
@@ -25,7 +25,7 @@ Source:	Xanathar's Lost Notes To Everything Else p. 10 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>College of Discord (HB): Battaglia</name>
-        <text>Also at 3rd level, you're able to anticipate the rhythm of battle and adjust to disrupt the flow of your enemies. As a bonus action on your turn, you can choose to teleport to an unoccupied square adjacent to any number of creatures you can see within 30 feet of you. Any Large or smaller creature within 5 feet of your new location must succeed on a Strength saving throw or be knocked prone. At 6th level, the radius of this effect increases to 10 feet, and to 15 feet at 14th level.
+        <text>Also at 3rd level, you&apos;re able to anticipate the rhythm of battle and adjust to disrupt the flow of your enemies. As a bonus action on your turn, you can choose to teleport to an unoccupied square adjacent to any number of creatures you can see within 30 feet of you. Any Large or smaller creature within 5 feet of your new location must succeed on a Strength saving throw or be knocked prone. At 6th level, the radius of this effect increases to 10 feet, and to 15 feet at 14th level.
 
 You can use this feature a number of times equal to your Charisma modifier and regain all expended uses after you finish a short or long rest.
 
@@ -73,13 +73,13 @@ Source:	Xanathar's Lost Notes To Everything Else p. 11 (Homebrew)</text>
         </feature>
         <feature optional="YES">
             <name>College of Keys (HB): Bonus Proficiency</name>
-            <text>When you join the College of Keys at 3rd level, you gain proficiency with thieves' tools, if you don't already have it.
+            <text>When you join the College of Keys at 3rd level, you gain proficiency with thieves&apos; tools, if you don&apos;t already have it.
 
 Source:	Xanathar's Lost Notes To Everything Else p. 11 (Homebrew)</text>
         </feature>
         <feature optional="YES">
             <name>College of Keys (HB): Key Change</name>
-            <text>Also at 3rd level, you learn to bend locks and traps with dashing style. If you have Expertise in one of your Charisma skills, you can use that skill instead of making a Dexterity check with your thieves' tools.
+            <text>Also at 3rd level, you learn to bend locks and traps with dashing style. If you have Expertise in one of your Charisma skills, you can use that skill instead of making a Dexterity check with your thieves&apos; tools.
 
 Source:	Xanathar's Lost Notes To Everything Else p. 11 (Homebrew)</text>
         </feature>

@@ -90,13 +90,13 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 8 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Path of the Alchemical Brute (HB): Alchemical Preparation</name>
-        <text>You have refined your experiments and discovered alchemical formulae that, when administered, can alter your body and mind whenever you enter a rage. You know 3 alchemical formulae from the Alchemical Formulae list below. You prepare doses of these formulae when you finish a long rest, provided you have a set of Alchemist's supplies available to you. You prepare one dose of each formula, which are unstable and lose their potency 24 hours after you prepare them. The physical nature of how you administer your formulae is up to you (such as vials of liquid you drink, a mist you inhale, an injection, etc.)
+        <text>You have refined your experiments and discovered alchemical formulae that, when administered, can alter your body and mind whenever you enter a rage. You know 3 alchemical formulae from the Alchemical Formulae list below. You prepare doses of these formulae when you finish a long rest, provided you have a set of Alchemist&apos;s supplies available to you. You prepare one dose of each formula, which are unstable and lose their potency 24 hours after you prepare them. The physical nature of how you administer your formulae is up to you (such as vials of liquid you drink, a mist you inhale, an injection, etc.)
 
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 8 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Path of the Alchemical Brute (HB): Alchemical Formulae</name>
-        <text>The Path of the Alchemical Brute grants barbarians an array of options to augment their physical and mental states when raging. When you gain a feature that allows you to discover alchemical formulae, you choose from those in the 'Alchemical Formulae' spell list. You can select an alchemical formula only once, unless otherwise specified.</text>
+        <text>The Path of the Alchemical Brute grants barbarians an array of options to augment their physical and mental states when raging. When you gain a feature that allows you to discover alchemical formulae, you choose from those in the &apos;Alchemical Formulae&apos; spell list. You can select an alchemical formula only once, unless otherwise specified.</text>
       </feature>
       <feature optional="YES">
         <name>Path of the Alchemical Brute (HB): Augmented Fortitude</name>
@@ -192,7 +192,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 11 (Homebrew)</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Path of Infiltration (HB): Traceless Intruder</name>
-        <text>While you're raging, you are under the effects of a nondetection spell, and whenever you would trigger an abjuration spell, such as by walking through the area of an alarm or glyph of warding, you can make a Constitution saving throw (DC 10 + the spell's level). On a successful save, the spell isn't triggered.  
+        <text>While you're raging, you are under the effects of a nondetection spell, and whenever you would trigger an abjuration spell, such as by walking through the area of an alarm or glyph of warding, you can make a Constitution saving throw (DC 10 + the spell&apos;s level). On a successful save, the spell isn&apos;t triggered.  
 
 Additionally, while you benefit from your Danger Sense, the damage you take from traps is halved. This includes magical traps, such as the glyph of warding or symbol spells.
 
@@ -202,7 +202,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 11 (Homebrew)</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Path of Infiltration (HB): Stride of Shadows</name>
-        <text>As an action on your turn, you can take on an incorporeal, shadowy form. Until the end of the turn, you can move through creatures and objects as if they were difficult terrain. If you occupy the same spot as a solid object or creature when the turn ends, you are immediately shunted to the nearest unoccupied space and take 1d10 force damage for every 5 feet you are moved. If you take this action while raging, your rage doesn't end early at the end of the turn.
+        <text>As an action on your turn, you can take on an incorporeal, shadowy form. Until the end of the turn, you can move through creatures and objects as if they were difficult terrain. If you occupy the same spot as a solid object or creature when the turn ends, you are immediately shunted to the nearest unoccupied space and take 1d10 force damage for every 5 feet you are moved. If you take this action while raging, your rage doesn&apos;t end early at the end of the turn.
 
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 11 (Homebrew)</text>
         <roll>1d10</roll>
@@ -231,7 +231,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 8 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Path of the Cosmic Juggernaut (HB): Psionic Shunt</name>
-        <text>You can bend space and move matter to manipulate your surroundings. As a bonus action, you can move a Large or smaller creature or object that isn't being worn or carried. The target must be within 30 feet of you and you can move it up to 10 feet in any horizontal direction. If the target is a creature, it must succeed on a Strength saving throw to avoid being moved (DC 8 + your proficiency bonus + your Constitution modifier). When you reach 10th level, the distance increases to 20 feet.
+        <text>You can bend space and move matter to manipulate your surroundings. As a bonus action, you can move a Large or smaller creature or object that isn&apos;t being worn or carried. The target must be within 30 feet of you and you can move it up to 10 feet in any horizontal direction. If the target is a creature, it must succeed on a Strength saving throw to avoid being moved (DC 8 + your proficiency bonus + your Constitution modifier). When you reach 10th level, the distance increases to 20 feet.
 
 If the target strikes something during this movement, the target and what it strikes each take 1d6 bludgeoning damage. If the target strikes a creature, the creature can make a Dexterity saving throw against the same DC to avoid this damage. When you reach 10th level, the damage increases to 2d6.
 
@@ -261,7 +261,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 8 (Homebrew)</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Path of the Cosmic Juggernaut (HB): Gravity Smash</name>
-        <text>You can use your action to strike the ground, distorting time and space around you. Each creature within 10 feet of you must make a Constitution saving throw (DC 8 + your proficiency bonus + your Constitution modifier) or be lifted 5 feet upwards and become stunned and suspended in the air until the end of your next turn. You can use this feature only once per rage, and your rage doesn't end early if you end a turn during which you use this feature.
+        <text>You can use your action to strike the ground, distorting time and space around you. Each creature within 10 feet of you must make a Constitution saving throw (DC 8 + your proficiency bonus + your Constitution modifier) or be lifted 5 feet upwards and become stunned and suspended in the air until the end of your next turn. You can use this feature only once per rage, and your rage doesn&apos;t end early if you end a turn during which you use this feature.
 
 Source:	Tasha's Crucible of Everything Else, Volume 2 p. 9 (Homebrew)</text>
       </feature>
@@ -271,7 +271,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 9 (Homebrew)</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Primal Path: Path of the Dragonheart (HB)</name>
-        <text>Tales whispered around campfires speak of fearsome warriors with the strength of dragons burning in their veins. There are few who walk the Path of the Drag onheart, for it is one of unparalleled presence on the battlefield. A unique bond forged with dragonkind fuels each dragonheart's rage, endowing these warriors with increased stamina and fortitude, as well as the ability to channel destructive energy through their weapons. The most stalwart dragonhearts even learn to share aspects of their bond with others.
+        <text>Tales whispered around campfires speak of fearsome warriors with the strength of dragons burning in their veins. There are few who walk the Path of the Drag onheart, for it is one of unparalleled presence on the battlefield. A unique bond forged with dragonkind fuels each dragonheart&apos;s rage, endowing these warriors with increased stamina and fortitude, as well as the ability to channel destructive energy through their weapons. The most stalwart dragonhearts even learn to share aspects of their bond with others.
 
 The exact nature of these barbarians is shrouded in mystery. Some sources say that these men and women gain their abilities by slaying a dragon and eating its heart. Others claim that a dragon can share its strength with a worthy soul through a deep, spiritual bond. Still, more argue that the heart of a dragon literally beats in the chest of the warrior who follows this path.
 
@@ -333,7 +333,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 10 (Homebrew)</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Path of the Dragonheart (HB): Heart of Courage</name>
-        <text>You assume some of the epic presence of dragonkind. You and any creature bound to you through your Soul Bond can't be frightened while you're raging. If you or the creature are frightened when you enter your rage, the fear is suspended for the duration of the rage.
+        <text>You assume some of the epic presence of dragonkind. You and any creature bound to you through your Soul Bond can&apos;t be frightened while you&apos;re raging. If you or the creature are frightened when you enter your rage, the fear is suspended for the duration of the rage.
 
 Source:	Tasha's Crucible of Everything Else, Volume 2 p. 10 (Homebrew)</text>
       </feature>
@@ -353,7 +353,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 10 (Homebrew)</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Primal Path: Path of the Horned King (HB)</name>
-        <text>Since ancient days, men have gathered to honor the gods of the hunt—but every so often, one of these cults is truly devoted to Baphomet, the Horned King, the father of minotaurs. Those that knowingly and willingly beseech the demon prince's favor are endowed with ebon horns and a violent temper, making them little more than beasts hiding beneath a man's flesh.
+        <text>Since ancient days, men have gathered to honor the gods of the hunt—but every so often, one of these cults is truly devoted to Baphomet, the Horned King, the father of minotaurs. Those that knowingly and willingly beseech the demon prince&apos;s favor are endowed with ebon horns and a violent temper, making them little more than beasts hiding beneath a man&apos;s flesh.
 
 Source:	Tasha's Crucible of Everything Else, Volume 2 p. 10 (Homebrew)</text>
       </feature>
@@ -376,7 +376,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 10 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Path of the Horned King (HB): The Horned King's Favor</name>
+        <name>Path of the Horned King (HB): The Horned King&apos;s Favor</name>
         <text>Starting at 6th level, attacks made with your horns count as magical for the purposes of overcoming resis- tance and immunity to nonmagical attacks.
 
 Source:	Tasha's Crucible of Everything Else, Volume 2 p. 11 (Homebrew)</text>
@@ -393,7 +393,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 11 (Homebrew)</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Path of the Horned King (HB): Strength in Bloodlust</name>
-        <text>At 10th level, your descent into bloodlust quickens, lending you strength. When you hit a creature with your horns while you're raging, you can deal extra damage equal to your proficiency bonus.
+        <text>At 10th level, your descent into bloodlust quickens, lending you strength. When you hit a creature with your horns while you&apos;re raging, you can deal extra damage equal to your proficiency bonus.
 
 Source:	Tasha's Crucible of Everything Else, Volume 2 p. 11 (Homebrew)</text>
       </feature>

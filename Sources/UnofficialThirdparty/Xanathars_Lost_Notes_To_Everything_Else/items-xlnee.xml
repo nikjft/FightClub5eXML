@@ -30,7 +30,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 61 (Homebrew)</text>
     <weight>20</weight>
     <value/>
     <ac>14</ac>
-    <text>While the magic of this armor doesn't provide any additional protection, armor of ease can be slept in with no detrimental effects.
+    <text>While the magic of this armor doesn&apos;t provide any additional protection, armor of ease can be slept in with no detrimental effects.
 
 This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer's vital organs while leaving the wearer relatively unencumbered.
 
@@ -44,7 +44,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 61 (Homebrew)</text>
     <weight>20</weight>
     <value/>
     <ac>13</ac>
-    <text>Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
+    <text>Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer&apos;s upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
 
 Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
 
@@ -59,7 +59,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 61 (Homebrew)</text>
     <value/>
     <ac>15</ac>
     <stealth>1</stealth>
-    <text>Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
+    <text>Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer&apos;s upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
 
 Half plate consists of shaped metal plates that cover most of the wearer's body. It does not include leg protection beyond simple greaves that are attached with leather straps.
 
@@ -75,7 +75,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 61 (Homebrew)</text>
     <weight>12</weight>
     <value/>
     <ac>12</ac>
-    <text>Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
+    <text>Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer&apos;s upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
 
 This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor.
 
@@ -90,7 +90,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 61 (Homebrew)</text>
     <value/>
     <ac>14</ac>
     <stealth>1</stealth>
-    <text>Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
+    <text>Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer&apos;s upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
 
 This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets.
 
@@ -107,7 +107,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 61 (Homebrew)</text>
     <value/>
     <ac>14</ac>
     <stealth>1</stealth>
-    <text>Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
+    <text>Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer&apos;s upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
 
 Spiked armor is a rare type of medium armor made by dwarves. It consists of a leather coat and leggings covered with spikes that are usually made of metal.
 
@@ -122,7 +122,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 61 (Homebrew)</text>
     <type>W</type>
     <weight/>
     <value/>
-    <text>This appears to be a simple, unassuming black leather belt when wrapped around the user's waist. When removed, a small diamond can be seen stitched into the belt's underside. Each time this belt is buckled, it sounds like a sword being drawn from a sheath. As part of an attack, you can draw a hidden +2 dagger from the belt. If the dagger leaves your hands it ceases to exist at the end of your turn. The belt doesn't run out of daggers. You must be wearing the belt to use this property.
+    <text>This appears to be a simple, unassuming black leather belt when wrapped around the user's waist. When removed, a small diamond can be seen stitched into the belt&apos;s underside. Each time this belt is buckled, it sounds like a sword being drawn from a sheath. As part of an attack, you can draw a hidden +2 dagger from the belt. If the dagger leaves your hands it ceases to exist at the end of your turn. The belt doesn&apos;t run out of daggers. You must be wearing the belt to use this property.
 
 Source:	Xanathar's Lost Notes to Everything Else p. 61 (Homebrew)</text>
   </item>
@@ -133,7 +133,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 61 (Homebrew)</text>
     <type>W</type>
     <weight/>
     <value/>
-    <text>This metal belt is made of silver monkeys locked arm in arm with tiny pieces of jade for each primate's eyes. While wearing it, you feel the tickling urge to treat the world as a playground by swinging on objects, climbing trees, and scaling buildings. While wearing this belt, you add double your proficiency to Strength (Athletics) checks to climb.
+    <text>This metal belt is made of silver monkeys locked arm in arm with tiny pieces of jade for each primate&apos;s eyes. While wearing it, you feel the tickling urge to treat the world as a playground by swinging on objects, climbing trees, and scaling buildings. While wearing this belt, you add double your proficiency to Strength (Athletics) checks to climb.
 
 As an action, any tail you have becomes prehensile for an hour. If you don't have a tail, you grow a 3-foot prehensile tail out of your posterior for an hour. You can hang from your tail, provided it has something to hold onto. Your tail also acts as a third arm and hand, allowing you to manipulate and wield objects that weigh 5 lbs. or less. In this state you could hold three weapons at once, but you can still only fight with two at a time. You can't use this ability again until you have completed a long rest.
 
@@ -207,7 +207,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 62 (Homebrew)</text>
     <dmg1>1d6</dmg1>
     <dmg2/>
     <dmgType>S</dmgType>
-    <text>While holding this scimitar, you can use a bonus action to activate its brambles. When you do, several barbed vines coil around its crossguard, over your wrist, and dig into your flesh. At the start of each of your turns, it drains 2 hit points from you to empower its poison. While attached to you in this way, you can't be disarmed by normal means, and you are resistant to poison damage and immune to the poisoned condition. Each time the weapon drains your hit points, it gains one charge, to a maximum of 5 charges. The weapon continues to drain your hit points while fully charged.
+    <text>While holding this scimitar, you can use a bonus action to activate its brambles. When you do, several barbed vines coil around its crossguard, over your wrist, and dig into your flesh. At the start of each of your turns, it drains 2 hit points from you to empower its poison. While attached to you in this way, you can&apos;t be disarmed by normal means, and you are resistant to poison damage and immune to the poisoned condition. Each time the weapon drains your hit points, it gains one charge, to a maximum of 5 charges. The weapon continues to drain your hit points while fully charged.
 
 On a hit, its vicious barbs lash out from the scimitar and rake your target with venomous brambles, expending all charges within its vines. The creature must make a Constitution saving throw with a DC equal to 10 + your proficiency bonus. On a failure, the creature takes 1d4 poison damage for each charge spent.
 
@@ -2625,12 +2625,12 @@ Source:	Xanathar's Lost Notes to Everything Else p. 64 (Homebrew)</text>
     <type>W</type>
     <weight/>
     <value/>
-    <text>This pen writes in black ink with no need to dip the pen. As an action, the pen wielder can spray a jet of ink into the eyes of a creature within 10 feet. The creature must succeed on a DC 10 Dexterity saving throw or be blinded until the start of its next turn. Once this feature is used, the pen won't function until a full week passes.
+    <text>This pen writes in black ink with no need to dip the pen. As an action, the pen wielder can spray a jet of ink into the eyes of a creature within 10 feet. The creature must succeed on a DC 10 Dexterity saving throw or be blinded until the start of its next turn. Once this feature is used, the pen won&apos;t function until a full week passes.
 
 Source:	Xanathar's Lost Notes to Everything Else p. 64 (Homebrew)</text>
   </item>
   <item>
-    <name>Healer's Hand Crossbow</name>
+    <name>Healer&apos;s Hand Crossbow</name>
     <detail>very rare (requires attunement)</detail>
     <magic>YES</magic>
     <type>R</type>
@@ -2640,7 +2640,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 64 (Homebrew)</text>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <range>30/120</range>
-    <text>Made from the wood of yew trees charred by lighting, this heavy crossbow is studded with hearts carved of rose zircon. You gain a +1 bonus to attack and damage rolls made with the crossbow. Before shooting the crossbow you may turn a nonmagical bolt loaded in the weapon into a healing bolt as no action. If you don't use the bolt within an hour after converting it, it reverts back into a normal bolt. When struck with a healing bolt the target takes damage as normal and then heals a number of hit points equal to 4d10 + 4. You can't shoot another healing bolt from the crossbow until you complete a short or long rest.
+    <text>Made from the wood of yew trees charred by lighting, this heavy crossbow is studded with hearts carved of rose zircon. You gain a +1 bonus to attack and damage rolls made with the crossbow. Before shooting the crossbow you may turn a nonmagical bolt loaded in the weapon into a healing bolt as no action. If you don&apos;t use the bolt within an hour after converting it, it reverts back into a normal bolt. When struck with a healing bolt the target takes damage as normal and then heals a number of hit points equal to 4d10 + 4. You can&apos;t shoot another healing bolt from the crossbow until you complete a short or long rest.
 
 Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
 
@@ -2661,7 +2661,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 64 (Homebrew)</text>
     <modifier category="bonus">Weapon Damage +1</modifier>
   </item>
   <item>
-    <name>Healer's Heavy Crossbow</name>
+    <name>Healer&apos;s Heavy Crossbow</name>
     <detail>very rare (requires attunement)</detail>
     <magic>YES</magic>
     <type>R</type>
@@ -2671,7 +2671,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 64 (Homebrew)</text>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <range>100/400</range>
-    <text>Made from the wood of yew trees charred by lighting, this heavy crossbow is studded with hearts carved of rose zircon. You gain a +1 bonus to attack and damage rolls made with the crossbow. Before shooting the crossbow you may turn a nonmagical bolt loaded in the weapon into a healing bolt as no action. If you don't use the bolt within an hour after converting it, it reverts back into a normal bolt. When struck with a healing bolt the target takes damage as normal and then heals a number of hit points equal to 4d10 + 4. You can't shoot another healing bolt from the crossbow until you complete a short or long rest.
+    <text>Made from the wood of yew trees charred by lighting, this heavy crossbow is studded with hearts carved of rose zircon. You gain a +1 bonus to attack and damage rolls made with the crossbow. Before shooting the crossbow you may turn a nonmagical bolt loaded in the weapon into a healing bolt as no action. If you don&apos;t use the bolt within an hour after converting it, it reverts back into a normal bolt. When struck with a healing bolt the target takes damage as normal and then heals a number of hit points equal to 4d10 + 4. You can&apos;t shoot another healing bolt from the crossbow until you complete a short or long rest.
 
 Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
 
@@ -2692,7 +2692,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 64 (Homebrew)</text>
     <modifier category="bonus">Weapon Damage +1</modifier>
   </item>
   <item>
-    <name>Healer's Light Crossbow</name>
+    <name>Healer&apos;s Light Crossbow</name>
     <detail>very rare (requires attunement)</detail>
     <magic>YES</magic>
     <type>R</type>
@@ -2702,7 +2702,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 64 (Homebrew)</text>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <range>80/320</range>
-    <text>Made from the wood of yew trees charred by lighting, this heavy crossbow is studded with hearts carved of rose zircon. You gain a +1 bonus to attack and damage rolls made with the crossbow. Before shooting the crossbow you may turn a nonmagical bolt loaded in the weapon into a healing bolt as no action. If you don't use the bolt within an hour after converting it, it reverts back into a normal bolt. When struck with a healing bolt the target takes damage as normal and then heals a number of hit points equal to 4d10 + 4. You can't shoot another healing bolt from the crossbow until you complete a short or long rest.
+    <text>Made from the wood of yew trees charred by lighting, this heavy crossbow is studded with hearts carved of rose zircon. You gain a +1 bonus to attack and damage rolls made with the crossbow. Before shooting the crossbow you may turn a nonmagical bolt loaded in the weapon into a healing bolt as no action. If you don&apos;t use the bolt within an hour after converting it, it reverts back into a normal bolt. When struck with a healing bolt the target takes damage as normal and then heals a number of hit points equal to 4d10 + 4. You can&apos;t shoot another healing bolt from the crossbow until you complete a short or long rest.
 
 Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
 
@@ -2721,7 +2721,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 64 (Homebrew)</text>
     <modifier category="bonus">Weapon Damage +1</modifier>
   </item>
   <item>
-    <name>Healer's Light Repeating Crossbow</name>
+    <name>Healer&apos;s Light Repeating Crossbow</name>
     <detail>very rare (requires attunement)</detail>
     <magic>YES</magic>
     <type>R</type>
@@ -2730,7 +2730,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 64 (Homebrew)</text>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <range>40/160</range>
-    <text>Made from the wood of yew trees charred by lighting, this heavy crossbow is studded with hearts carved of rose zircon. You gain a +1 bonus to attack and damage rolls made with the crossbow. Before shooting the crossbow you may turn a nonmagical bolt loaded in the weapon into a healing bolt as no action. If you don't use the bolt within an hour after converting it, it reverts back into a normal bolt. When struck with a healing bolt the target takes damage as normal and then heals a number of hit points equal to 4d10 + 4. You can't shoot another healing bolt from the crossbow until you complete a short or long rest.
+    <text>Made from the wood of yew trees charred by lighting, this heavy crossbow is studded with hearts carved of rose zircon. You gain a +1 bonus to attack and damage rolls made with the crossbow. Before shooting the crossbow you may turn a nonmagical bolt loaded in the weapon into a healing bolt as no action. If you don&apos;t use the bolt within an hour after converting it, it reverts back into a normal bolt. When struck with a healing bolt the target takes damage as normal and then heals a number of hit points equal to 4d10 + 4. You can&apos;t shoot another healing bolt from the crossbow until you complete a short or long rest.
 
 This crossbow is fitted with a cartridge that can hold up to six crossbow bolts. It automatically reloads after firing until the cartridge runs out of ammunition. Reloading the cartridge takes an action.
 
@@ -2768,7 +2768,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 64 (Homebrew)</text>
     <value/>
     <property>S,T,M</property>
     <range>5/15</range>
-    <text>This black net is adorned with skulls carved of ruby and shrieks when thrown. When you hit a target with the net you speak a command word that turns the net into a twisting iron cage for 1 hour. While transformed this way the DC for the Strength check to break free of the net rises to 18, the iron net has AC 15, 50 hit points, and immunity to poison and psychic damage. Once you have used this ability you can't use it again until dawn the next day. If the net is destroyed, it reforms in 24 hours.
+    <text>This black net is adorned with skulls carved of ruby and shrieks when thrown. When you hit a target with the net you speak a command word that turns the net into a twisting iron cage for 1 hour. While transformed this way the DC for the Strength check to break free of the net rises to 18, the iron net has AC 15, 50 hit points, and immunity to poison and psychic damage. Once you have used this ability you can&apos;t use it again until dawn the next day. If the net is destroyed, it reforms in 24 hours.
 
 Special: A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
@@ -2789,7 +2789,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 65 (Homebrew)</text>
     <property>F,R,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>S</dmgType>
-    <text>When cracked this whip lets loose a series of giggles from the twisted mouths carved along the bottom of its obsidian handle. Most impressive is the incredibly strong whip itself, which is fleshy and similar to the long suction-cupped tentacle of an octopus. As an action you can use the whip can to grab an object weighing 50 pounds or less within reach and then drag it to you. If the item is held by another creature, roll a Dexterity check contested by the creature's opposing Strength check. If your Dexterity check is greater, you remove the object and drag it to you.
+    <text>When cracked this whip lets loose a series of giggles from the twisted mouths carved along the bottom of its obsidian handle. Most impressive is the incredibly strong whip itself, which is fleshy and similar to the long suction-cupped tentacle of an octopus. As an action you can use the whip can to grab an object weighing 50 pounds or less within reach and then drag it to you. If the item is held by another creature, roll a Dexterity check contested by the creature&apos;s opposing Strength check. If your Dexterity check is greater, you remove the object and drag it to you.
 
 Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
@@ -2837,7 +2837,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 65 (Homebrew)</text>
     <type>W</type>
     <weight/>
     <value/>
-    <text>This rolled-up piece of parchment has the capacity to pull details out of an intelligent creature's mind and display it on its surface. When a creature with an Intelligence of 4 or higher holds the parchment and concentrates on a specific scene or individual, after 10 minutes of concentrating the parchment displays a black-and-while sketch of that scene or individual. It can only create a representation that the creature actually sees and remembers. The sketch is as accurate and detailed as the memory of the creature.
+    <text>This rolled-up piece of parchment has the capacity to pull details out of an intelligent creature&apos;s mind and display it on its surface. When a creature with an Intelligence of 4 or higher holds the parchment and concentrates on a specific scene or individual, after 10 minutes of concentrating the parchment displays a black-and-while sketch of that scene or individual. It can only create a representation that the creature actually sees and remembers. The sketch is as accurate and detailed as the memory of the creature.
 
 Source:	Xanathar's Lost Notes to Everything Else p. 65 (Homebrew)</text>
   </item>
@@ -2896,7 +2896,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 66 (Homebrew)</text>
     <type>W</type>
     <weight/>
     <value/>
-    <text>This small fly is carved of black pearl and no bigger than the real thing. The small fly is hard to spot and requires a DC 17 Wisdom (Perception) check to detect. You can use an action to speak the item's command word to make the fly come alive. While it is activated and within 300 feet of you, you can use your action to move the fly 30 feet and you see and hear through the item for up to one hour. During this time you are deaf and blind with regard to your own senses. If the fly moves more than 300 feet away from you, it is deactivated. You can deactivate the fly by speaking the command word again as an action. Once the fly has been activated it can't be reactivated for another 24 hours.
+    <text>This small fly is carved of black pearl and no bigger than the real thing. The small fly is hard to spot and requires a DC 17 Wisdom (Perception) check to detect. You can use an action to speak the item&apos;s command word to make the fly come alive. While it is activated and within 300 feet of you, you can use your action to move the fly 30 feet and you see and hear through the item for up to one hour. During this time you are deaf and blind with regard to your own senses. If the fly moves more than 300 feet away from you, it is deactivated. You can deactivate the fly by speaking the command word again as an action. Once the fly has been activated it can&apos;t be reactivated for another 24 hours.
 
 Source:	Xanathar's Lost Notes to Everything Else p. 66 (Homebrew)</text>
   </item>
@@ -2947,24 +2947,24 @@ Source:	Xanathar's Lost Notes to Everything Else p. 67 (Homebrew)</text>
     <modifier category="bonus">Weapon Damage +1</modifier>
   </item>
   <item>
-    <name>Traitor's Tabard</name>
+    <name>Traitor&apos;s Tabard</name>
     <detail>common (requires attunement)</detail>
     <magic>YES</magic>
     <type>W</type>
     <weight/>
     <value/>
-    <text>When the fog of war is at its thickest, soldiers know to attack anyone wearing the enemy's colors or emblems. The traitor's tabard is a finely tailored piece of clothing that can be worn over armor. As an action, the creature wearing the tabard can change the color and crest on the tabard to anything they want.
+    <text>When the fog of war is at its thickest, soldiers know to attack anyone wearing the enemy&apos;s colors or emblems. The traitor&apos;s tabard is a finely tailored piece of clothing that can be worn over armor. As an action, the creature wearing the tabard can change the color and crest on the tabard to anything they want.
 
 Source:	Xanathar's Lost Notes to Everything Else p. 67 (Homebrew)</text>
   </item>
   <item>
-    <name>Tromberd's Ladle</name>
+    <name>Tromberd&apos;s Ladle</name>
     <detail>rare</detail>
     <magic>YES</magic>
     <type>W</type>
     <weight/>
     <value/>
-    <text>This silver ladle was created by a dwarven cook named Tromberd, who acted as a cook for a successful adventuring party. As an acolyte of Moradin, Tromberd combined his divine, metalworking, and culinary skills to take his profession to new heights. He created a magical ladle that imbued the meals it made with magical healing properties. While the name and exploits of the adventuring company was lost to the ages, Tromberd's magical ladle has survived and continues to serve astounding and magical meals.
+    <text>This silver ladle was created by a dwarven cook named Tromberd, who acted as a cook for a successful adventuring party. As an acolyte of Moradin, Tromberd combined his divine, metalworking, and culinary skills to take his profession to new heights. He created a magical ladle that imbued the meals it made with magical healing properties. While the name and exploits of the adventuring company was lost to the ages, Tromberd&apos;s magical ladle has survived and continues to serve astounding and magical meals.
 
 When the ladle is used to cook a pot of soup or stew for at least 2 hours of constant stirring, the meal becomes magical food that can feed up to 8 creatures. The meal must contain at least 20 gp worth of ingredients, including rare herbs and spices. If the meal is eaten as part of a long rest, the number of hit dice recovered by the creatures eating the meal at the end of the long rest increases by 2 (to the creature's normal maximum). The creatures also gain 10 temporary hit points at the end of that long rest. Once used, the ladle's magic can't be used again until a week passes. The creature who cooks the meal can't gain the magical benefits of the food.
 

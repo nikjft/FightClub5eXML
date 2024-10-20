@@ -83,7 +83,7 @@ Source:	Player's Handbook 2024 p. 222</text>
     <magic/>
     <weight>2</weight>
     <value>0.1</value>
-    <text>Light: When you take the Attack action on your turn and. attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a Shortsword in one hand and a Dagger in the other using the Attack action and a Bonus Action, but you don't add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
+    <text>Light: When you take the Attack action on your turn and. attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack&apos;s damage unless that modifier is negative. For example, you can attack with a Shortsword in one hand and a Dagger in the other using the Attack action and a Bonus Action, but you don&apos;t add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
 
 Slow (Mastery): If you hit a creature with this weapon and deal damage to it, you can reduce its Speed by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction doesn't exceed 10 feet.
 
@@ -133,7 +133,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>2</weight>
     <value>5</value>
-    <text>Light: When you take the Attack action on your turn and. attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a Shortsword in one hand and a Dagger in the other using the Attack action and a Bonus Action, but you don't add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
+    <text>Light: When you take the Attack action on your turn and. attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack&apos;s damage unless that modifier is negative. For example, you can attack with a Shortsword in one hand and a Dagger in the other using the Attack action and a Bonus Action, but you don&apos;t add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
 
 Thrown: If a weapon has the Thrown property, you can throw the weapon to make a ranged attack, and you can draw that weapon as part of the attack. If the weapon is a Melee weapon, use the same ability modifier for the attack and damage rolls that you use for a melee attack with that weapon.
 
@@ -167,7 +167,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>2</weight>
     <value>2</value>
-    <text>Light: When you take the Attack action on your turn and. attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a Shortsword in one hand and a Dagger in the other using the Attack action and a Bonus Action, but you don't add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
+    <text>Light: When you take the Attack action on your turn and. attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack&apos;s damage unless that modifier is negative. For example, you can attack with a Shortsword in one hand and a Dagger in the other using the Attack action and a Bonus Action, but you don&apos;t add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
 
 Thrown: If a weapon has the Thrown property, you can throw the weapon to make a ranged attack, and you can draw that weapon as part of the attack. If the weapon is a Melee weapon, use the same ability modifier for the attack and damage rolls that you use for a melee attack with that weapon.
 
@@ -213,7 +213,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>2</weight>
     <value>1</value>
-    <text>Light: When you take the Attack action on your turn and. attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a Shortsword in one hand and a Dagger in the other using the Attack action and a Bonus Action, but you don't add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
+    <text>Light: When you take the Attack action on your turn and. attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack&apos;s damage unless that modifier is negative. For example, you can attack with a Shortsword in one hand and a Dagger in the other using the Attack action and a Bonus Action, but you don&apos;t add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
 
 Nick (Mastery): When you make the extra attack of the Light property, you can make it as part of the Attack action in· stead of as a Bonus Action. You can make this extra attack only once per turn.
 
@@ -265,7 +265,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>5</weight>
     <value>25</value>
-    <text>Ammunition: You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon's range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight; the rest is lost.
+    <text>Ammunition: You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon&apos;s range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight; the rest is lost.
 
 Loading: You can fire only one piece of ammunition from a Loading weapon when you use an action, a Bonus Action, or a Reaction to fire it, regardless of the number of attacks you can normally make.
 
@@ -285,7 +285,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>2</weight>
     <value>25</value>
-    <text>Ammunition: You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon's range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight; the rest is lost.
+    <text>Ammunition: You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon&apos;s range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight; the rest is lost.
 
 Two-Handed: A Two-Handed weapon requires two hands when you attack with it.
 
@@ -302,7 +302,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <type>R</type>
     <magic/>
     <value>0.1</value>
-    <text>Ammunition: You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon's range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight; the rest is lost.
+    <text>Ammunition: You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon&apos;s range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight; the rest is lost.
 
 Slow (Mastery): If you hit a creature with this weapon and deal damage to it, you can reduce its Speed by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction doesn't exceed 10 feet.
 
@@ -346,7 +346,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>6</weight>
     <value>20</value>
-    <text>Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and  your Dexterity score isn't at least 13.
+    <text>Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it&apos;s a Ranged weapon and  your Dexterity score isn&apos;t at least 13.
 
 Reach: A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for Opportunity Attacks with it.
 
@@ -365,7 +365,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>7</weight>
     <value>30</value>
-    <text>Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and  your Dexterity score isn't at least 13.
+    <text>Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it&apos;s a Ranged weapon and  your Dexterity score isn&apos;t at least 13.
 
 Two-Handed: A Two-Handed weapon requires two hands when you attack with it.
 
@@ -382,7 +382,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>6</weight>
     <value>50</value>
-    <text>Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and  your Dexterity score isn't at least 13.
+    <text>Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it&apos;s a Ranged weapon and  your Dexterity score isn&apos;t at least 13.
 
 Two-Handed: A Two-Handed weapon requires two hands when you attack with it.
 
@@ -399,7 +399,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>6</weight>
     <value>20</value>
-    <text>Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and  your Dexterity score isn't at least 13.
+    <text>Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it&apos;s a Ranged weapon and  your Dexterity score isn&apos;t at least 13.
 
 Reach: A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for Opportunity Attacks with it.
 
@@ -418,7 +418,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>6</weight>
     <value>10</value>
-    <text>A Lance requires two hands to wield when you aren't mounted.
+    <text>A Lance requires two hands to wield when you aren&apos;t mounted.
 
 Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and  your Dexterity score isn't at least 13.
 
@@ -455,7 +455,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>10</weight>
     <value>10</value>
-    <text>Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and  your Dexterity score isn't at least 13.
+    <text>Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it&apos;s a Ranged weapon and  your Dexterity score isn&apos;t at least 13.
 
 Two-Handed: A Two-Handed weapon requires two hands when you attack with it.
 
@@ -484,7 +484,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>18</weight>
     <value>5</value>
-    <text>Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and  your Dexterity score isn't at least 13.
+    <text>Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it&apos;s a Ranged weapon and  your Dexterity score isn&apos;t at least 13.
 
 Reach: A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for Opportunity Attacks with it.
 
@@ -620,7 +620,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>1</weight>
     <value>10</value>
-    <text>Ammunition: You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon's range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight; the rest is lost.
+    <text>Ammunition: You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon&apos;s range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight; the rest is lost.
 
 Loading: You can fire only one piece of ammunition from a Loading weapon when you use an action, a Bonus Action, or a Reaction to fire it, regardless of the number of attacks you can normally make.
 
@@ -638,7 +638,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>3</weight>
     <value>75</value>
-    <text>Ammunition: You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon's range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight; the rest is lost.
+    <text>Ammunition: You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon&apos;s range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight; the rest is lost.
 
 Light: When you take the Attack action on your turn and. attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a Shortsword in one hand and a Dagger in the other using the Attack action and a Bonus Action, but you don't add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
 
@@ -658,7 +658,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>18</weight>
     <value>50</value>
-    <text>Ammunition: You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon's range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight; the rest is lost.
+    <text>Ammunition: You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon&apos;s range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight; the rest is lost.
 
 Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and  your Dexterity score isn't at least 13.
 
@@ -680,7 +680,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>2</weight>
     <value>50</value>
-    <text>Ammunition: You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon's range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight; the rest is lost.
+    <text>Ammunition: You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon&apos;s range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight; the rest is lost.
 
 Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and  your Dexterity score isn't at least 13.
 
@@ -700,7 +700,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>10</weight>
     <value>500</value>
-    <text>Ammunition: You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon's range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight; the rest is lost.
+    <text>Ammunition: You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon&apos;s range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight; the rest is lost.
 
 Loading: You can fire only one piece of ammunition from a Loading weapon when you use an action, a Bonus Action, or a Reaction to fire it, regardless of the number of attacks you can normally make.
 
@@ -720,7 +720,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>3</weight>
     <value>250</value>
-    <text>Ammunition: You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon's range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight; the rest is lost.
+    <text>Ammunition: You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon&apos;s range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight; the rest is lost.
 
 Loading: You can fire only one piece of ammunition from a Loading weapon when you use an action, a Bonus Action, or a Reaction to fire it, regardless of the number of attacks you can normally make.
 
@@ -738,7 +738,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>8</weight>
     <value>5</value>
-    <text>Source:	Player's Handbook 2024 p. 219</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 219</text>
     <ac>11</ac>
     <stealth>YES</stealth>
   </item>
@@ -748,7 +748,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>10</weight>
     <value>10</value>
-    <text>Source:	Player's Handbook 2024 p. 219</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 219</text>
     <ac>11</ac>
   </item>
   <item>
@@ -757,7 +757,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>13</weight>
     <value>45</value>
-    <text>Source:	Player's Handbook 2024 p. 219</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 219</text>
     <ac>12</ac>
   </item>
   <item>
@@ -766,7 +766,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>12</weight>
     <value>10</value>
-    <text>Source:	Player's Handbook 2024 p. 219</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 219</text>
     <ac>12</ac>
   </item>
   <item>
@@ -775,7 +775,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>20</weight>
     <value>50</value>
-    <text>Source:	Player's Handbook 2024 p. 219</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 219</text>
     <ac>13</ac>
   </item>
   <item>
@@ -784,7 +784,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>45</weight>
     <value>50</value>
-    <text>Source:	Player's Handbook 2024 p. 219</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 219</text>
     <ac>14</ac>
     <stealth>YES</stealth>
   </item>
@@ -794,7 +794,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>20</weight>
     <value>400</value>
-    <text>Source:	Player's Handbook 2024 p. 219</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 219</text>
     <ac>14</ac>
   </item>
   <item>
@@ -803,7 +803,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>40</weight>
     <value>750</value>
-    <text>Source:	Player's Handbook 2024 p. 219</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 219</text>
     <ac>15</ac>
     <stealth>YES</stealth>
   </item>
@@ -813,7 +813,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>40</weight>
     <value>30</value>
-    <text>Source:	Player's Handbook 2024 p. 219</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 219</text>
     <ac>14</ac>
     <stealth>YES</stealth>
   </item>
@@ -823,7 +823,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>55</weight>
     <value>75</value>
-    <text>Source:	Player's Handbook 2024 p. 219</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 219</text>
     <ac>16</ac>
     <strength>13</strength>
     <stealth>YES</stealth>
@@ -834,7 +834,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>60</weight>
     <value>200</value>
-    <text>Source:	Player's Handbook 2024 p. 219</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 219</text>
     <ac>17</ac>
     <strength>15</strength>
     <stealth>YES</stealth>
@@ -845,7 +845,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>65</weight>
     <value>1500</value>
-    <text>Source:	Player's Handbook 2024 p. 219</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 219</text>
     <ac>18</ac>
     <strength>15</strength>
     <stealth>YES</stealth>
@@ -856,7 +856,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>6</weight>
     <value>10</value>
-    <text>Source:	Player's Handbook 2024 p. 219</text>
+    <text>Source:	Player&apos;s Handbook 2024 p. 219</text>
     <ac>2</ac>
   </item>
   <item>

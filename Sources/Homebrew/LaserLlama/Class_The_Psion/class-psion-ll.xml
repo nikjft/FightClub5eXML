@@ -258,7 +258,7 @@ Source:	LaserLlama: The Psion v2.3.0 p. 3</text>
     <autolevel level="1">
       <feature>
         <name>Multiclass Psion</name>
-        <text>If your group uses the optional rule on multiclassing in the Player's Handbook, here's what you need to know if you choose the psion as one of your classes.
+        <text>If your group uses the optional rule on multiclassing in the Player&apos;s Handbook, here&apos;s what you need to know if you choose the psion as one of your classes.
 
 Ability Score Minimum:
 As a multiclass character, you must have at least the following ability score(s) to take a level in this class, or to take a level in another class if you are already a psion.
@@ -403,7 +403,7 @@ Source:	LaserLlama: The Psion v2.3.0 p. 4</text>
     <autolevel level="4" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two ability scores by 1. As normal, you can't increase one of your ability scores above 20 using this feature.
+        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two ability scores by 1. As normal, you can&apos;t increase one of your ability scores above 20 using this feature.
 
 Source:	LaserLlama: The Psion v2.3.0 p. 5</text>
       </feature>
@@ -412,7 +412,7 @@ Source:	LaserLlama: The Psion v2.3.0 p. 5</text>
     <autolevel level="8" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two ability scores by 1. As normal, you can't increase one of your ability scores above 20 using this feature.
+        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two ability scores by 1. As normal, you can&apos;t increase one of your ability scores above 20 using this feature.
 
 Source:	LaserLlama: The Psion v2.3.0 p. 5</text>
       </feature>
@@ -421,7 +421,7 @@ Source:	LaserLlama: The Psion v2.3.0 p. 5</text>
     <autolevel level="10">
       <feature>
         <name>Consumptive Power</name>
-        <text>Starting at 10th level, whenever you would spend Psi Points, you can expend your hit points instead. When you do, reduce your current and maximum hit points by twice the number of Psi Points you'd normally spend. This reduction cannot be lessened in any way, but is restored after a long rest.
+        <text>Starting at 10th level, whenever you would spend Psi Points, you can expend your hit points instead. When you do, reduce your current and maximum hit points by twice the number of Psi Points you&apos;d normally spend. This reduction cannot be lessened in any way, but is restored after a long rest.
 
 Source:	LaserLlama: The Psion v2.3.0 p. 5</text>
       </feature>
@@ -443,7 +443,7 @@ Source:	LaserLlama: The Psion v2.3.0 p. 5</text>
     <autolevel level="12" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two ability scores by 1. As normal, you can't increase one of your ability scores above 20 using this feature.
+        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two ability scores by 1. As normal, you can&apos;t increase one of your ability scores above 20 using this feature.
 
 Source:	LaserLlama: The Psion v2.3.0 p. 5</text>
       </feature>
@@ -478,7 +478,7 @@ Source:	LaserLlama: The Psion v2.3.0 p. 5</text>
     <autolevel level="16" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two ability scores by 1. As normal, you can't increase one of your ability scores above 20 using this feature.
+        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two ability scores by 1. As normal, you can&apos;t increase one of your ability scores above 20 using this feature.
 
 Source:	LaserLlama: The Psion v2.3.0 p. 5</text>
       </feature>
@@ -500,7 +500,7 @@ Source:	LaserLlama: The Psion v2.3.0 p. 5</text>
     <autolevel level="19" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two ability scores by 1. As normal, you can't increase one of your ability scores above 20 using this feature.
+        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two ability scores by 1. As normal, you can&apos;t increase one of your ability scores above 20 using this feature.
 
 Source:	LaserLlama: The Psion v2.3.0 p. 5</text>
       </feature>
@@ -528,7 +528,7 @@ Source:	LaserLlama: The Psion v2.3.0 p. 6</text>
         </feature>
         <feature optional="YES">
             <name>Empath Spells</name>
-            <text>You learn certain spells at the Psion levels in the table below. They become Psion spells, but don't count against your total of Spells Known and can't be replaced when you gain a level.
+            <text>You learn certain spells at the Psion levels in the table below. They become Psion spells, but don&apos;t count against your total of Spells Known and can&apos;t be replaced when you gain a level.
 
 Empath Spells:
 Psion Level | Spell
@@ -581,7 +581,7 @@ Source:	LaserLlama: The Psion v2.3.0 p. 6</text>
       <autolevel level="14">
         <feature optional="YES">
             <name>Empathic Control</name>
-            <text>You can emotionally overload the minds of other creatures. Whenever you cause a creature to be charmed or frightened, you can expend 1 (additional) Psi Point to enhance the effect for one creature. For as long as it is charmed or frightened by that effect, the creature's speed is 0 and it is incapacitated.
+            <text>You can emotionally overload the minds of other creatures. Whenever you cause a creature to be charmed or frightened, you can expend 1 (additional) Psi Point to enhance the effect for one creature. For as long as it is charmed or frightened by that effect, the creature&apos;s speed is 0 and it is incapacitated.
 
 You also gain immunity to being charmed and frightened.
 
@@ -637,7 +637,7 @@ Source:	LaserLlama: The Psion v2.3.0 p. 7</text>
     <autolevel level="3">
         <feature optional="YES">
             <name>Enlightened: Mystical Precision</name>
-            <text>Through intense dedication and practice, you have learned to utilize your psionic power in subtle ways, unnoticeable to the untrained eye. Whenever you manifest a Psion spell, you can expend 1 additional Psi Point to manifest it without providing the spell's somatic or verbal components, or manifesting any of the normal outward signs of your Psionics.
+            <text>Through intense dedication and practice, you have learned to utilize your psionic power in subtle ways, unnoticeable to the untrained eye. Whenever you manifest a Psion spell, you can expend 1 additional Psi Point to manifest it without providing the spell&apos;s somatic or verbal components, or manifesting any of the normal outward signs of your Psionics.
 
 Source:	LaserLlama: The Psion v2.3.0 p. 7</text>
         </feature>
@@ -689,7 +689,7 @@ Source:	LaserLlama: The Psion v2.3.0 p. 8</text>
         </feature>
         <feature optional="YES">
             <name>Immortal Spells</name>
-            <text>You learn certain spells at the Psion levels in the table below. They become Psion spells, but don't count against your total of Spells Known and can't be replaced when you gain a level.
+            <text>You learn certain spells at the Psion levels in the table below. They become Psion spells, but don&apos;t count against your total of Spells Known and can&apos;t be replaced when you gain a level.
 
 Immortal Spells:
 Psion Level | Spell
@@ -773,7 +773,7 @@ Source:	LaserLlama: The Psion v2.3.0 p. 9</text>
         </feature>
         <feature optional="YES">
             <name>Outsider Spells</name>
-            <text>You learn certain spells at the Psion levels in the table below. They become Psion spells, but don't count against your total of Spells Known and can't be replaced when you gain a level.
+            <text>You learn certain spells at the Psion levels in the table below. They become Psion spells, but don&apos;t count against your total of Spells Known and can&apos;t be replaced when you gain a level.
 
 Outsider Spells:
 Psion Level | Spell
@@ -850,7 +850,7 @@ Source:	LaserLlama: The Psion v2.3.0 p. 10</text>
         </feature>
         <feature optional="YES">
             <name>Visionary Spells</name>
-            <text>You learn certain spells at the Psion levels in the table below. They become Psion spells, but don't count against your total of Spells Known and can't be replaced when you gain a level.
+            <text>You learn certain spells at the Psion levels in the table below. They become Psion spells, but don&apos;t count against your total of Spells Known and can&apos;t be replaced when you gain a level.
 
 Visionary Spells:
 Psion Level | Spell
@@ -972,7 +972,7 @@ Source:	LaserLlama: The Psion v2.3.0 p. 11</text>
         </feature>
         <feature optional="YES">
             <name>Wilder Spells</name>
-            <text>You learn certain spells at the Psion levels in the table below. They become Psion spells, but don't count against your total of Spells Known and can't be replaced when you gain a level.
+            <text>You learn certain spells at the Psion levels in the table below. They become Psion spells, but don&apos;t count against your total of Spells Known and can&apos;t be replaced when you gain a level.
 
 Wilder Spells:
 Psion Level | Spell

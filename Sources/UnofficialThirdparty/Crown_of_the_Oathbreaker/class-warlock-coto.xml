@@ -27,7 +27,7 @@ Source:	Crown of the Oathbreaker p. 898 (Homebrew)</text>
     </feature>
     <feature optional="YES">
       <name>Chaos Wielder (HB): Wild Magic</name>
-      <text>Starting at 1st level, your spells can have unforeseen consequences. You can choose to apply a Wild Magic Surge effect immediately after you cast the spell. Roll for a random effect on the Wild Magic Surge table on page 104 of the Player's Handbook.
+      <text>Starting at 1st level, your spells can have unforeseen consequences. You can choose to apply a Wild Magic Surge effect immediately after you cast the spell. Roll for a random effect on the Wild Magic Surge table on page 104 of the Player&apos;s Handbook.
 
 You can use this feature a number of times equal to half your warlock levels rounded down, and you regain all expended uses when you finish a long rest.
 
@@ -37,7 +37,7 @@ Source:	Crown of the Oathbreaker p. 898 (Homebrew)</text>
   <autolevel level="6">
     <feature optional="YES">
       <name>Chaos Wielder (HB): Flows of Chaos</name>
-      <text>Starting at 6th level, you can manipulate fate using the power of chaos. When any creature makes an attack roll, ability check, or saving throw, you can use your reaction to roll 1d4 and apply the number rolled as a bonus or penalty to the creature's roll. You can do so after the creature rolls but before any effects of the roll occur. At 10th level, this dice increases to 1d6, and at 14th level this dice increases to 1d8.
+      <text>Starting at 6th level, you can manipulate fate using the power of chaos. When any creature makes an attack roll, ability check, or saving throw, you can use your reaction to roll 1d4 and apply the number rolled as a bonus or penalty to the creature&apos;s roll. You can do so after the creature rolls but before any effects of the roll occur. At 10th level, this dice increases to 1d6, and at 14th level this dice increases to 1d8.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
@@ -57,7 +57,7 @@ Source:	Crown of the Oathbreaker p. 899 (Homebrew)</text>
   <autolevel level="14">
     <feature optional="YES">
       <name>Chaos Wielder (HB): Twisted Fate</name>
-      <text>Starting at 14th level, you can manipulate your fate and those of others. When any creature makes an attack roll, ability check, or saving throw, you can use your reaction to give advantage or disadvantage to the creature's roll. You can do so after the creature rolls but before any effects of the roll occur.
+      <text>Starting at 14th level, you can manipulate your fate and those of others. When any creature makes an attack roll, ability check, or saving throw, you can use your reaction to give advantage or disadvantage to the creature&apos;s roll. You can do so after the creature rolls but before any effects of the roll occur.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
@@ -90,7 +90,7 @@ Spell Level | Spells
 Source:	Crown of the Oathbreaker p. 899 (Homebrew)</text>
     </feature>
     <feature optional="YES">
-      <name>Dragon Patron (HB): Dragon's Tongue</name>
+      <name>Dragon Patron (HB): Dragon&apos;s Tongue</name>
       <text>Starting at 1st level, you can speak, read, and write Draconic.
 
 Additionally, whenever you make a Charisma ability check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.
@@ -98,7 +98,7 @@ Additionally, whenever you make a Charisma ability check when interacting with d
 Source:	Crown of the Oathbreaker p. 899 (Homebrew)</text>
     </feature>
     <feature optional="YES">
-      <name>Dragon Patron (HB): Dragon's Claws</name>
+      <name>Dragon Patron (HB): Dragon&apos;s Claws</name>
       <text>Starting at 1st level, your hands be come clawlike that you can use to make attacks. The claws have a reach of 5 feet, can be used as an unarmed strike, and deal 1d6 + Strength modifier slashing damage on a hit.
 
 Source:	Crown of the Oathbreaker p. 899 (Homebrew)</text>
@@ -114,7 +114,7 @@ Source:	Crown of the Oathbreaker p. 899 (Homebrew)</text>
   </autolevel>
   <autolevel level="10">
     <feature optional="YES">
-      <name>Dragon Patron (HB): Dragon's Senses</name>
+      <name>Dragon Patron (HB): Dragon&apos;s Senses</name>
       <text>Starting at 10th level, you gain blindsight 30 ft.
 
 Additionally, you sense the presence of any treasure worth over 100 gold pieces within 120 feet of you. This ability merely reveals that treasure is present. You don't learn the location of the treasure, but you do learn its general value. This ability can't locate treasure if any thickness of lead, even a thin sheet, blocks a direct path between you and the object.
@@ -125,7 +125,7 @@ Source:	Crown of the Oathbreaker p. 899 (Homebrew)</text>
   <autolevel level="14">
     <feature optional="YES">
       <name>Dragon Patron (HB): Dragon Wings</name>
-      <text>Starting at 14th level, you gain the ability to sprout a pair of dragon wings from your back, gaining a fly speed equal to your walking speed. You can create these wings as a bonus action on your turn. They last until you dismiss them as a bonus action on your turn. You can't manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.
+      <text>Starting at 14th level, you gain the ability to sprout a pair of dragon wings from your back, gaining a fly speed equal to your walking speed. You can create these wings as a bonus action on your turn. They last until you dismiss them as a bonus action on your turn. You can&apos;t manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.
 
 Source:	Crown of the Oathbreaker p. 899 (Homebrew)</text>
     </feature>
@@ -166,8 +166,8 @@ Spell Level | Spells
 Source:	Crown of the Oathbreaker p. 900 (Homebrew)</text>
     </feature>
     <feature optional="YES">
-      <name>Witchservant (HB): Hag's Form</name>
-      <text>Starting at 1st level, you can mimic the shape-changing ability of your hag patron. As a bonus action, you can magically polymorph into a Small or Medium humanoid for one hour. Your statistics are the same in each form. Any equipment you are wearing or carrying isn't transformed. You revert to your true form if you die.
+      <name>Witchservant (HB): Hag&apos;s Form</name>
+      <text>Starting at 1st level, you can mimic the shape-changing ability of your hag patron. As a bonus action, you can magically polymorph into a Small or Medium humanoid for one hour. Your statistics are the same in each form. Any equipment you are wearing or carrying isn&apos;t transformed. You revert to your true form if you die.
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
@@ -183,7 +183,7 @@ Source:	Crown of the Oathbreaker p. 900 (Homebrew)</text>
   <autolevel level="6">
     <feature optional="YES">
       <name>Witchservant (HB): Painful Incantation</name>
-      <text>Starting at 6th level, you can cause intense pain with your damaging spells. As a bonus action, you can choose to use painful incantation when you roll damage for a spell and force the damaged creature to make a Constitution saving throw (DC 8 + proficiency bonus + Charisma modifier). On a failed save, the target creature's speed is halved, it has disadvantage on attacks, skill checks, Strength and Dexterity saving throws for 1 minute, and if the target tries to cast a spell during this time, it must first succeed on a Constitution saving throw or the casting fails and the spell is wasted.
+      <text>Starting at 6th level, you can cause intense pain with your damaging spells. As a bonus action, you can choose to use painful incantation when you roll damage for a spell and force the damaged creature to make a Constitution saving throw (DC 8 + proficiency bonus + Charisma modifier). On a failed save, the target creature&apos;s speed is halved, it has disadvantage on attacks, skill checks, Strength and Dexterity saving throws for 1 minute, and if the target tries to cast a spell during this time, it must first succeed on a Constitution saving throw or the casting fails and the spell is wasted.
 
 A target suffering from this pain can make a Constitution saving throw at the end of each of its turns. On a successful save, the pain ends.
 

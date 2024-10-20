@@ -29,7 +29,7 @@ Source:	Sword Coast Adventurer's Guide p. 141
     <autolevel level="3">
       <feature optional="YES">
         <name>Bladesinging: Bladesinger Styles [2014]</name>
-        <text>From its inception as a martial and magical art, Bladesinging has been tied to the sword, more specifically the longsword. Yet many generations of study gave rise to various styles of Bladesinging based on the melee weapon employed. The techniques of these styles are passed from master to students in small schools, some of which have a building dedicated to instruction. Even the newest styles are hundreds of years old, but are still taught by their original creators due to the long lives of elves. Most schools of Bladesinging are in Evermeet or Evereska. One was started in Myth Drannor, but the city's destruction has scattered those students who survived.
+        <text>From its inception as a martial and magical art, Bladesinging has been tied to the sword, more specifically the longsword. Yet many generations of study gave rise to various styles of Bladesinging based on the melee weapon employed. The techniques of these styles are passed from master to students in small schools, some of which have a building dedicated to instruction. Even the newest styles are hundreds of years old, but are still taught by their original creators due to the long lives of elves. Most schools of Bladesinging are in Evermeet or Evereska. One was started in Myth Drannor, but the city&apos;s destruction has scattered those students who survived.
 
 Styles of Bladesinging are broadly categorized based on the type of weapon employed, and each is associated with a category of animal. Within that style are specializations named after specific animal types, based on the types of spells employed, the techniques of the master, and the particular weapon used. Bladesingers who apprentice to a master typically get a tattoo of their chosen style's animal. Some bladesingers learn multiple styles and bear many tattoos, wearing a warning on their skin of their deadly skills.
 
@@ -50,7 +50,7 @@ Source:	Tasha's Cauldron of Everything p. 76
     <autolevel level="3">
       <feature optional="YES">
         <name>Bladesinging: Bladesong [2014]</name>
-        <text>Starting at 2nd level, you can invoke a secret elven magic called the Bladesong, provided you aren't wearing medium or heavy armor or using a shield. It graces you with supernatural speed, agility, and focus.
+        <text>Starting at 2nd level, you can invoke a secret elven magic called the Bladesong, provided you aren&apos;t wearing medium or heavy armor or using a shield. It graces you with supernatural speed, agility, and focus.
 
 You can use a bonus action to start the Bladesong, which lasts for 1 minute. It ends early if you are incapacitated, if you don medium or heavy armor or a shield, or if you use two hands to make an attack with a weapon. You can also dismiss Bladesong at any time you choose (no action required).
 
@@ -115,7 +115,7 @@ Source:	Tasha's Cauldron of Everything p. 76
     <autolevel level="10">
       <feature optional="YES">
         <name>Bladesinging: Song of Defense [2014]</name>
-        <text>Beginning at 10th level, you can direct your magic to absorb damage while your bladesong is active. When you take damage, you can use your reaction to expend one spell slot and reduce that damage to you by an amount equal to five times the spell's slot level.
+        <text>Beginning at 10th level, you can direct your magic to absorb damage while your bladesong is active. When you take damage, you can use your reaction to expend one spell slot and reduce that damage to you by an amount equal to five times the spell&apos;s slot level.
 
 Source:	Tasha's Cauldron of Everything p. 76
 		Sword Coast Adventurer's Guide p. 141</text>
@@ -151,7 +151,7 @@ Source:	Tasha's Cauldron of Everything p. 76
     <autolevel level="3">
       <feature optional="YES">
         <name>Arcane Tradition: Order of Scribes [2014]</name>
-        <text>Magic of the book-that's what many folk call wizardry. The name is apt, given how much time wizards spend poring over tomes and penning theories about the nature of magic. It's rare to see wizards traveling without books and scrolls sprouting from their bags, and a wizard would go to great lengths to plumb an archive of ancient knowledge.
+        <text>Magic of the book-that&apos;s what many folk call wizardry. The name is apt, given how much time wizards spend poring over tomes and penning theories about the nature of magic. It&apos;s rare to see wizards traveling without books and scrolls sprouting from their bags, and a wizard would go to great lengths to plumb an archive of ancient knowledge.
 
 Among wizards, the Order of Scribes is the most bookish. It takes many forms in different worlds, but its primary mission is the same everywhere: recording magical discoveries so that wizardry can flourish. And while all wizards value spellbooks, a wizard in the Order of Scribes magically awakens their book, turning it into a trusted companion. All wizards study books, but a wizardly scribe talks to theirs!
 
@@ -196,7 +196,7 @@ Source:	Tasha's Cauldron of Everything p. 77</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Order of Scribes: Manifest Mind [2014]</name>
-        <text>You can conjure forth the mind of your Awakened Spellbook. As a bonus action while the book is on your person, you can cause the mind to manifest as a Tiny spectral object, hovering in an unoccupied space of your choice within 60 feet of you. The spectral mind is intangible and doesn't occupy its space, and it sheds dim light in a 10-foot radius. It looks like a ghostly tome, a cascade of text, or a scholar from the past (your choice).
+        <text>You can conjure forth the mind of your Awakened Spellbook. As a bonus action while the book is on your person, you can cause the mind to manifest as a Tiny spectral object, hovering in an unoccupied space of your choice within 60 feet of you. The spectral mind is intangible and doesn&apos;t occupy its space, and it sheds dim light in a 10-foot radius. It looks like a ghostly tome, a cascade of text, or a scholar from the past (your choice).
 
 While manifested, the spectral mind can hear and see, and it has darkvision with a range of 60 feet. The mind can telepathically share with you what it sees and hears (no action required).
 

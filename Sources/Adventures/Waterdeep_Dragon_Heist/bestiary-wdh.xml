@@ -63,7 +63,7 @@ Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 11 (1d12 + 5) slas
 Ranged Weapon Attack: +6 to hit, range 100/400 ft., one target. Hit: 7 (1d10 + 2) piercing damage.</text>
       <attack>Heavy Crossbow|+6|1d10+2</attack>
     </action>
-    <description>Ahmaergo, Xanathar's majordomo, has a fascination with minotaurs. Although outwardly civil, the shield dwarf is as devious and corrupt as the worst devil, yet also unflinchingly loyal to his beholder master.
+    <description>Ahmaergo, Xanathar&apos;s majordomo, has a fascination with minotaurs. Although outwardly civil, the shield dwarf is as devious and corrupt as the worst devil, yet also unflinchingly loyal to his beholder master.
 
 After the beholder, Ahmaergo is the most influential member of the Xanathar Guild.
 
@@ -206,7 +206,7 @@ In a new form, Aurinax retains its alignment, hit points, Hit Dice, ability to s
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.</text>
+      <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The dragon regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Detect</name>
@@ -387,7 +387,7 @@ Barnibus is a 7th-level spellcaster. His spellcasting ability is Intelligence (s
 	• 4th level (1 slots): locate creature, Otiluke's resilient sphere</text>
     </trait>
     <slots>0, 4, 3, 3, 1</slots>
-    <spells>blade ward, light, mage hand, message, comprehend languages, identify, detect magic, mage armor, shield, detect thoughts, suggestion, clairvoyance, sending, locate creature, Otiluke's resilient sphere</spells>
+    <spells>blade ward, light, mage hand, message, comprehend languages, identify, detect magic, mage armor, shield, detect thoughts, suggestion, clairvoyance, sending, locate creature, Otiluke&apos;s resilient sphere</spells>
     <description>Barnibus works for the Watchful Order of Magists and Protectors, investigating crimes that involve the use of magic. He comes across as prickly and secretive, confiding only in Saeth Cromley, a retired sergeant of the City Watch who assists in many of his investigations.
 
 A lifelong bachelor, Barnibus has a small, tidy estate in the Sea Ward that he inherited from his grandmother. When not serving the Watchful Order, he spends his days reading and writing books in his library.
@@ -431,7 +431,7 @@ Bepis can move through a space occupied by a creature of a size larger than him<
       <text>
 Bepis has advantage on saving throws against being frightened.</text>
     </trait>
-    <description>Bepis Honeymaker is a honey merchant who was kidnapped from his Trades Ward home a month ago. The Xanathar Guild tried to ransom him back, but seemingly his relatives either couldn't pay or decided not to. (In truth, his rotten in-laws destroyed the ransom notes and told Bepis's wife and children that he ran away with another family.) Ahmaergo has put him to work as a cook but threatens to give him over to the mind flayer Nihiloor every so often.
+    <description>Bepis Honeymaker is a honey merchant who was kidnapped from his Trades Ward home a month ago. The Xanathar Guild tried to ransom him back, but seemingly his relatives either couldn&apos;t pay or decided not to. (In truth, his rotten in-laws destroyed the ransom notes and told Bepis&apos;s wife and children that he ran away with another family.) Ahmaergo has put him to work as a cook but threatens to give him over to the mind flayer Nihiloor every so often.
 
 Source:	Waterdeep: Dragon Heist p. 112</description>
     <environment/>
@@ -453,7 +453,7 @@ Source:	Waterdeep: Dragon Heist p. 112</description>
     <save>Dex +7, Int +3</save>
     <skill>Acrobatics +7, Athletics +3, Perception +3, Sleight of hand +7, Stealth +7</skill>
     <passive>13</passive>
-    <languages>Common, Thieves' cant</languages>
+    <languages>Common, Thieves&apos; cant</languages>
     <cr>5</cr>
     <resist/>
     <immune/>
@@ -498,7 +498,7 @@ Ranged Weapon Attack: +7 to hit, range 30/120 ft., one target. Hit: 7 (1d6 + 4) 
       <text>
 The Black Viper halves the damage that she takes from an attack that hits her. She must be able to see the attacker.</text>
     </reaction>
-    <description>The Black Viper was a notorious burglar, pickpocket, mugger, and assassin who died a century ago, after a long and nefarious career. Esvele Rosznar, a brash young noble, has recently adopted the Black Viper's persona to lead a secret life of crime. Like many other nobles, Esvele gossips about the Black Viper's exploits to lend credence to the villain's mystique.
+    <description>The Black Viper was a notorious burglar, pickpocket, mugger, and assassin who died a century ago, after a long and nefarious career. Esvele Rosznar, a brash young noble, has recently adopted the Black Viper's persona to lead a secret life of crime. Like many other nobles, Esvele gossips about the Black Viper&apos;s exploits to lend credence to the villain&apos;s mystique.
 
 The Rosznar family was convicted of slave trading-highly illegal in Waterdeep-and banished over a hundred years ago, but has since returned. The Rosznars' inability to regain the respect they feel they deserve rankles them. The slave trade has continued in Amn and elsewhere, and it's not like other noble houses don't have skeletons in their closets. But just because of a little family squabble that went public, the Rosznar name has been said with a sneer for a century. As part of the family's constant effort to prove this conception wrong and win others' respect, Esvele has been brought up to be the most proper noble possible, partaking in lessons of etiquette, dance, and poise as befits someone of her station.
 
@@ -701,8 +701,8 @@ Davil is a 12th-level spellcaster. His spellcasting ability is Charisma (spell s
 	• 6th level (1 slots): Otto's irresistible dance</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 2, 1</slots>
-    <spells>mage hand, mending, minor illusion, vicious mockery, cure wounds, disguise self, sleep, crown of madness, invisibility, suggestion, nondetection, sending, tongues, compulsion, freedom of movement, polymorph, dominate person, greater restoration, Otto's irresistible dance</spells>
-    <description>Within the Waterdeep division of the Black Network, Davil is accorded the title of Master of Opportunities and Negotiations because he's good at sniffing out lucrative business deals, and he makes friends easily.
+    <spells>mage hand, mending, minor illusion, vicious mockery, cure wounds, disguise self, sleep, crown of madness, invisibility, suggestion, nondetection, sending, tongues, compulsion, freedom of movement, polymorph, dominate person, greater restoration, Otto&apos;s irresistible dance</spells>
+    <description>Within the Waterdeep division of the Black Network, Davil is accorded the title of Master of Opportunities and Negotiations because he&apos;s good at sniffing out lucrative business deals, and he makes friends easily.
 
 Like many sun elves, Davil has an affinity for magic and is gifted with the kind of patience that comes with a long life span. Unlike most, he's not the least bit pretentious or aloof. He keeps a room at the Yawning Portal and does all his business in the establishment's taproom. He negotiates deals with grace and aplomb, even while drunk, and uses an elven lute as a spellcasting focus.
 
@@ -878,7 +878,7 @@ The drow's spellcasting ability is Charisma (spell save DC 12) It can innately c
 	• 1/Day each: darkness, faerie fire, levitate (self only)</text>
     </trait>
     <spells>dancing lights, darkness, faerie fire, levitate</spells>
-    <description>Firearms aren't widely available in the North, but some members of Bregan D'aerthe are equipped with Lantanese pistols, bullets, and packets of smokepowder. These drow gunslingers are expert pistoleers, as skilled with their guns as the best archers are with their bows.
+    <description>Firearms aren&apos;t widely available in the North, but some members of Bregan D&apos;aerthe are equipped with Lantanese pistols, bullets, and packets of smokepowder. These drow gunslingers are expert pistoleers, as skilled with their guns as the best archers are with their bows.
 
 Source:	Waterdeep: Dragon Heist p. 201</description>
     <environment/>
@@ -946,7 +946,7 @@ On a roll of 20, he lops off one of the target's limbs, or some other part of it
 Ranged Weapon Attack: +6 to hit, range 60/240 ft., one target. Hit: 13 (2d10 + 2) piercing damage.</text>
       <attack>Double Crossbow|+6|2d10+2</attack>
     </action>
-    <description>Durnan is the owner and proprietor of the Yawning Portal. Although he looks like a middle-aged man whose best days are behind him, Durnan has a sharp mind and can still swing a sword when he must. He doesn't like talking about his past, and he won't reveal anything about his time as an adventurer.
+    <description>Durnan is the owner and proprietor of the Yawning Portal. Although he looks like a middle-aged man whose best days are behind him, Durnan has a sharp mind and can still swing a sword when he must. He doesn&apos;t like talking about his past, and he won&apos;t reveal anything about his time as an adventurer.
 
 If Durnan has any living family members, he doesn't speak of them. He rarely says two words when one will do. He has a dark sense of humor and spares no pity on those who take the risk of entering Undermountain.
 
@@ -1119,7 +1119,7 @@ The gnome is a 1st-level spellcaster. Its spellcasting ability is Intelligence. 
     </trait>
     <slots>0, 2</slots>
     <spells>fire bolt, mending, prestidigitation, burning hands, disguise self, shield</spells>
-    <description>An engineer who maintains and operates the Scarlet Marpenoth, a submarine, currently attached below Jarlaxle's flagship the Eyecatcher
+    <description>An engineer who maintains and operates the Scarlet Marpenoth, a submarine, currently attached below Jarlaxle&apos;s flagship the Eyecatcher
 
 Source:	Waterdeep: Dragon Heist p. 141</description>
     <environment/>
@@ -1172,7 +1172,7 @@ Fala is a 4th-level spellcaster. Their spellcasting ability is Wisdom. They have
     </trait>
     <slots>0, 4, 3</slots>
     <spells>druidcraft, produce flame, shillelagh, entangle, longstrider, speak with animals, thunderwave, animal messenger, barkskin</spells>
-    <description>Fala Lefaliir is an outgoing wood elf with long, braided hair. Like the elven god Corellon Larethian, Fala is neither male nor female. If referred to as "he" or "she," Fala gently requests to be addressed by name or as "they." Fala is friends with a member of the Zhentarim named Ziraj, who saved Fala's life. He visits Fala from time to time, and Fala has set aside a room for him on the second floor. Fala runs Correllon's Crown, a herbalist shop in Trollskull Alley
+    <description>Fala Lefaliir is an outgoing wood elf with long, braided hair. Like the elven god Corellon Larethian, Fala is neither male nor female. If referred to as "he" or "she," Fala gently requests to be addressed by name or as "they." Fala is friends with a member of the Zhentarim named Ziraj, who saved Fala&apos;s life. He visits Fala from time to time, and Fala has set aside a room for him on the second floor. Fala runs Correllon&apos;s Crown, a herbalist shop in Trollskull Alley
 
 Source:	Waterdeep: Dragon Heist p. 32</description>
     <environment/>
@@ -1215,7 +1215,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 slashing damage.
     <environment/>
   </monster>
   <monster>
-    <name>Fel'rekt Lafeen</name>
+    <name>Fel&apos;rekt Lafeen</name>
     <size>M</size>
     <type>humanoid (elf)</type>
     <alignment>Any alignment</alignment>
@@ -1402,7 +1402,7 @@ Or Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 4 (1d4 + 2
       <text>
 The rider wears a magic ring with which it can cast the feather fall spell on itself once as a reaction to falling. After the spell is cast, the ring becomes nonmagical.</text>
     </action>
-    <description>The City Guard is Waterdeep's army, charged with protecting the city's walls and gates, government buildings, harbor, and officials. The City Guard also patrols the roads to Amphail, Goldenfields, and Daggerford.
+    <description>The City Guard is Waterdeep&apos;s army, charged with protecting the city&apos;s walls and gates, government buildings, harbor, and officials. The City Guard also patrols the roads to Amphail, Goldenfields, and Daggerford.
 
 Ranks in the City Guard:
 Members of the City Guard have ranks. From lowest to highest, they are:
@@ -1469,7 +1469,7 @@ Grinda is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spe
     <environment/>
   </monster>
   <monster>
-    <name>Grum'shar</name>
+    <name>Grum&apos;shar</name>
     <size>M</size>
     <type>humanoid (half-orc)</type>
     <alignment>Chaotic Evil</alignment>
@@ -1615,7 +1615,7 @@ Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 12 (1d10 + 7) blu
 
 If the target is a creature, Hlam can choose one of the following additional effects:</text>
       <attack>Unarmed Strike|+12|1d10+7</attack>
-      <text>The target must succeed on a DC 18 Strength saving throw or drop one item it is holding (Hlam's choice).
+      <text>The target must succeed on a DC 18 Strength saving throw or drop one item it is holding (Hlam&apos;s choice).
 
 The target must succeed on a DC 18 Dexterity saving throw or be knocked prone.
 
@@ -1653,7 +1653,7 @@ Hlam reduces the bludgeoning damage he takes from a fall by 100.</text>
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Hlam can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Hlam regains spent legendary actions at the start of its turn.</text>
+      <text>Hlam can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Hlam regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Quick Step</name>
@@ -1743,7 +1743,7 @@ Hrabbaz makes three attacks with his morningstar.</text>
 Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage.</text>
       <attack>Morningstar|+8|1d8+5</attack>
     </action>
-    <description>Hrabbaz is a muscle-bound half-orc with a cleft palate who serves the lord and lady of House Gralhund as a bodyguard. He is well mannered and dresses impeccably-a disarming appearance that belies a murderous heart. Though he has great respect for Lady Yalah Gralhund, he is less fond of her moody husband, and wouldn't be sad to see Orond knocked down a peg or two.
+    <description>Hrabbaz is a muscle-bound half-orc with a cleft palate who serves the lord and lady of House Gralhund as a bodyguard. He is well mannered and dresses impeccably-a disarming appearance that belies a murderous heart. Though he has great respect for Lady Yalah Gralhund, he is less fond of her moody husband, and wouldn&apos;t be sad to see Orond knocked down a peg or two.
 
 Source:	Waterdeep: Dragon Heist p. 205</description>
     <environment/>
@@ -1807,8 +1807,8 @@ Istrid is a 9th-level spellcaster. Her spellcasting ability is Wisdom (spell sav
 	• 5th level (1 slots): flame strike, mass cure wounds, hold monster</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 1</slots>
-    <spells>light, mending, sacred flame, spare the dying, divine favor, guiding bolt, healing word, shield of faith, lesser restoration, magic weapon, hold person, silence, spiritual weapon, beacon of hope, crusader's mantle, dispel magic, revivify, spirit guardians, water walk, banishment, freedom of movement, guardian of faith, stoneskin, flame strike, mass cure wounds, hold monster</spells>
-    <description>Istrid is regarded as the Black Network's Master of Trade and Coin in Waterdeep. The shield dwarf operates an illegal lending operation out of a heavily guarded warehouse in the Dock Ward, offering loans to those in need of coin. Her interest rates are comparable to those of her competitors (including noble families of bankers such as the Cassalanters and the Irlingstars), but the penalties for not paying back Istrid's loans are severe.
+    <spells>light, mending, sacred flame, spare the dying, divine favor, guiding bolt, healing word, shield of faith, lesser restoration, magic weapon, hold person, silence, spiritual weapon, beacon of hope, crusader&apos;s mantle, dispel magic, revivify, spirit guardians, water walk, banishment, freedom of movement, guardian of faith, stoneskin, flame strike, mass cure wounds, hold monster</spells>
+    <description>Istrid is regarded as the Black Network&apos;s Master of Trade and Coin in Waterdeep. The shield dwarf operates an illegal lending operation out of a heavily guarded warehouse in the Dock Ward, offering loans to those in need of coin. Her interest rates are comparable to those of her competitors (including noble families of bankers such as the Cassalanters and the Irlingstars), but the penalties for not paying back Istrid&apos;s loans are severe.
 
 Istrid worships Vergadain, the dwarven god of wealth and luck. She likes having others indebted to her, and she employs thugs and enforcers to collect on her loans. If those resources prove inadequate, Istrid can call on her old adventuring companions for assistance.
 
@@ -1949,7 +1949,7 @@ Jandar is a 4th-level spellcaster. His spellcasting ability is Wisdom. Jandar ha
     </trait>
     <slots>0, 4, 3</slots>
     <spells>thaumaturgy, light, sacred flame, thaumaturgy, command, inflict wounds, shield of faith, hold person, spiritual weapon</spells>
-    <description>As the head chef of Cassalanter Villa, Jandar determines each day's menu and oversees all activity in the kitchen.
+    <description>As the head chef of Cassalanter Villa, Jandar determines each day&apos;s menu and oversees all activity in the kitchen.
 
 Source:	Waterdeep: Dragon Heist p. 116</description>
     <environment/>
@@ -2040,7 +2040,7 @@ Ranged Weapon Attack: +11 to hit, range 20/60 ft., one target. Hit: 8 (1d4 + 6) 
     <legendary>
       <name>Legendary Actions (2/Turn)</name>
       <recharge>2/Turn</recharge>
-      <text>Jarlaxle can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Jarlaxle regains spent legendary actions at the start of its turn.</text>
+      <text>Jarlaxle can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Jarlaxle regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Quick Step</name>
@@ -2061,7 +2061,7 @@ Jarlaxle's innate spellcasting ability is Charisma (spell save DC 17, +9 to hit 
 	• 1/Day each: darkness, faerie fire, levitate (self only)</text>
     </trait>
     <spells>dancing lights, darkness, faerie fire, levitate</spells>
-    <description>Jarlaxle is a flamboyant, swashbuckling drow iconoclast. He leads a renegade drow faction called Bregan D'aerthe, made up of disenfranchised male drow, most of them culled from destroyed or disgraced houses. Gifted with a sharp mind, a sense of humor, puissant skill with a blade, and a wealth of useful magic items, Jarlaxle infiltrated the city of Luskan, brought a kind of order to its lawlessness, and declared himself its secret lord.
+    <description>Jarlaxle is a flamboyant, swashbuckling drow iconoclast. He leads a renegade drow faction called Bregan D&apos;aerthe, made up of disenfranchised male drow, most of them culled from destroyed or disgraced houses. Gifted with a sharp mind, a sense of humor, puissant skill with a blade, and a wealth of useful magic items, Jarlaxle infiltrated the city of Luskan, brought a kind of order to its lawlessness, and declared himself its secret lord.
 
 Jarlaxle likes to weave a tangled web of schemes that leave his enemies baffled-the latest of which is a plan to legitimize Luskan by making it a member of the Lords' Alliance. The city's unsavory reputation has thwarted all previous efforts, and the current leaders of the Lords' Alliance have voiced their opposition to Luskan's admittance. A few have flatly declared that the city will never be welcome in the alliance. Nonetheless, Jarlaxle aims to persuade Laeral Silverhand, the Open Lord of Waterdeep, to champion Luskan's cause-even if that means losing other alliance members in the process. Tying Luskan's fortunes to those of Waterdeep would increase Jarlaxle's political and economic power on the Sword Coast.
 
@@ -2227,13 +2227,13 @@ Kalain is a 4th-level spellcaster. Her spellcasting ability is Charisma. She has
     </trait>
     <slots>0, 4, 3</slots>
     <spells>friends, mage hand, vicious mockery, charm person, healing word, heroism, sleep, thunderwave, invisibility, shatter</spells>
-    <description>Kalain, was once a famous Waterdavian painter, but now Kalain's spirit is broken, leading to the onset of madness. She locks herself away, content to let time erode the last of her conscience.
+    <description>Kalain, was once a famous Waterdavian painter, but now Kalain&apos;s spirit is broken, leading to the onset of madness. She locks herself away, content to let time erode the last of her conscience.
 
 Source:	Waterdeep: Dragon Heist p. 89</description>
     <environment/>
   </monster>
   <monster>
-    <name>Krebbyg Masq'il'yr</name>
+    <name>Krebbyg Masq&apos;il&apos;yr</name>
     <size>M</size>
     <type>humanoid (elf)</type>
     <alignment>Any alignment</alignment>
@@ -2319,7 +2319,7 @@ Krebbyg's spellcasting ability is Charisma (spell save DC 12) It can innately ca
     <passive>10</passive>
     <languages>Common</languages>
     <cr>2</cr>
-    <resist>bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</resist>
+    <resist>bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t adamantine</resist>
     <immune>poison</immune>
     <vulnerable/>
     <conditionImmune>exhaustion, petrified, poisoned</conditionImmune>
@@ -2446,7 +2446,7 @@ Laeral is a 19th-level spellcaster. Her spellcasting ability is Intelligence (sp
 	• 9th level (1 slots): time stop</text>
     </trait>
     <slots>0, 0, 0, 3, 3, 3, 2, 1, 1, 1</slots>
-    <spells>light, mage hand, minor illusion, prestidigitation, ray of frost, detect magic, disguise self, magic missile, shield, detect thoughts, invisibility, misty step, counterspell, fly, sending, tongues, banishment, greater invisibility, Otiluke's resilient sphere, cone of cold, geas, Rary's telepathic bond, globe of invulnerability, mass suggestion, prismatic spray, teleport, feeblemind, power word stun, time stop</spells>
+    <spells>light, mage hand, minor illusion, prestidigitation, ray of frost, detect magic, disguise self, magic missile, shield, detect thoughts, invisibility, misty step, counterspell, fly, sending, tongues, banishment, greater invisibility, Otiluke&apos;s resilient sphere, cone of cold, geas, Rary&apos;s telepathic bond, globe of invulnerability, mass suggestion, prismatic spray, teleport, feeblemind, power word stun, time stop</spells>
     <description>Anamanué Laeral Silverhand was born in the Year of the Cowl (765 DR), the fifth of seven daughters of the goddess Mystra. Each of the Seven Sisters is a powerful and ageless beauty with a penchant for arcane magic.
 
 Long ago, Laeral ruled a kingdom called Stornanter and held the title of Witch-Queen of the North. After that, she led a band of adventurers called the Nine. She met and married Khelben Arunsun, who would later become the Blackstaff, the Lord Mage of Waterdeep. After Khelben died, Laeral retired from public life. She resurfaced after the Spellplague and the Sundering, weakened by Mystra's death, rebirth, and withdrawal from the world.
@@ -2523,7 +2523,7 @@ Laiba is a 4th-level spellcaster. Her spellcasting ability is Wisdom. Laiba has 
     </trait>
     <slots>0, 4, 3</slots>
     <spells>thaumaturgy, light, sacred flame, thaumaturgy, command, inflict wounds, shield of faith, hold person, spiritual weapon</spells>
-    <description>Laiba Rosse, better known as "Nana," is the caretaker and private tutor for Terenzio and Elzerina, and she does her best to keep track of their every move. Even so, the two often sneak away from her watchful eye. Nana dresses in flowing red robes. She relaxes in the twins' playroom (area C17) when she's not with the children.
+    <description>Laiba Rosse, better known as "Nana," is the caretaker and private tutor for Terenzio and Elzerina, and she does her best to keep track of their every move. Even so, the two often sneak away from her watchful eye. Nana dresses in flowing red robes. She relaxes in the twins&apos; playroom (area C17) when she&apos;s not with the children.
 
 Source:	Waterdeep: Dragon Heist p. 116</description>
     <environment/>
@@ -2630,7 +2630,7 @@ Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) pierci
       <text>
 The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.</text>
     </reaction>
-    <description>A handsome, eloquent, and fair-minded half-elf in his thirties. He's known for his finely honed sense of poetic justice and for meting out unconventional punishments.
+    <description>A handsome, eloquent, and fair-minded half-elf in his thirties. He&apos;s known for his finely honed sense of poetic justice and for meting out unconventional punishments.
 
 Source:	Waterdeep: Dragon Heist p. 82</description>
     <environment/>
@@ -2692,7 +2692,7 @@ The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence. T
     </trait>
     <slots>0, 4, 3, 3, 3, 1</slots>
     <spells>fire bolt, light, mage hand, prestidigitation, detect magic, mage armor, magic missile, shield, misty step, suggestion, counterspell, fireball, fly, greater invisibility, ice storm, cone of cold</spells>
-    <description>One of Manshoon's lieutenants
+    <description>One of Manshoon&apos;s lieutenants
 
 Source:	Waterdeep: Dragon Heist p. 149</description>
     <environment/>
@@ -2760,8 +2760,8 @@ Manshoon is an 18th-level spellcaster. His spellcasting ability is Intelligence 
 	• 9th level (1 slots): imprisonment, power word kill</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
-    <spells>fire bolt, light, mage hand, prestidigitation, shocking grasp, detect magic, mage armor, magic missile, shield, detect thoughts, mirror image, misty step, counterspell, lightning bolt, sending, fire shield, greater invisibility, polymorph, Bigby's hand, scrying, wall of force, flesh to stone, globe of invulnerability, finger of death, simulacrum, feeblemind, mind blank, imprisonment, power word kill</spells>
-    <description>Referred to in this adventure simply as "Manshoon," this clone of the ancient archwizard infiltrated Waterdeep years ago and has been hiding out in Kolat Towers ever since, in the city's Southern Ward.
+    <spells>fire bolt, light, mage hand, prestidigitation, shocking grasp, detect magic, mage armor, magic missile, shield, detect thoughts, mirror image, misty step, counterspell, lightning bolt, sending, fire shield, greater invisibility, polymorph, Bigby&apos;s hand, scrying, wall of force, flesh to stone, globe of invulnerability, finger of death, simulacrum, feeblemind, mind blank, imprisonment, power word kill</spells>
+    <description>Referred to in this adventure simply as "Manshoon," this clone of the ancient archwizard infiltrated Waterdeep years ago and has been hiding out in Kolat Towers ever since, in the city&apos;s Southern Ward.
 
 The original Manshoon was one of the founders of the Zhentarim. Evil to the core, he made enemies all across Faerûn, including other powerful spellcasters such as Khelben Arunsun and Elminster. Fearing that he might be destroyed by his foes, Manshoon magically crafted several clones-but a mishap caused all of them to be awakened at once, whereupon they tried to destroy one another in a series of conflicts that came to be known as the Manshoon Wars.
 
@@ -2826,8 +2826,8 @@ Manshoon is an 18th-level spellcaster. His spellcasting ability is Intelligence 
 	• 5th level (3 slots): Bigby's hand, scrying, wall of force</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 3</slots>
-    <spells>fire bolt, light, mage hand, prestidigitation, shocking grasp, detect magic, mage armor, magic missile, shield, detect thoughts, mirror image, misty step, counterspell, lightning bolt, sending, fire shield, greater invisibility, polymorph, Bigby's hand, scrying, wall of force</spells>
-    <description>Manshoon uses the simulacrum spell to create a magical duplicate of himself as needed. He has customized the spell to increase his simulacrum's hit points at the expense of its spellcasting ability.
+    <spells>fire bolt, light, mage hand, prestidigitation, shocking grasp, detect magic, mage armor, magic missile, shield, detect thoughts, mirror image, misty step, counterspell, lightning bolt, sending, fire shield, greater invisibility, polymorph, Bigby&apos;s hand, scrying, wall of force</spells>
+    <description>Manshoon uses the simulacrum spell to create a magical duplicate of himself as needed. He has customized the spell to increase his simulacrum&apos;s hit points at the expense of its spellcasting ability.
 
 Manshoon can have only one simulacrum at any given time, and he uses it as a subordinate to command his Zhentarim minions in the field. If his simulacrum is destroyed, Manshoon creates another. Each simulacrum has the statistics of Manshoon, with these changes:
 
@@ -3018,7 +3018,7 @@ Melannor is a 4th-level spellcaster. His spellcasting ability is Wisdom. He has 
     </trait>
     <slots>0, 4, 3</slots>
     <spells>druidcraft, produce flame, shillelagh, entangle, longstrider, speak with animals, thunderwave, animal messenger, barkskin</spells>
-    <description>Melannor Fellbranch, the friendly but humorless groundskeeper of Phaulkonmere, a compound located one block south of Kolat Towers, is the characters' main contact in the Emerald Enclave
+    <description>Melannor Fellbranch, the friendly but humorless groundskeeper of Phaulkonmere, a compound located one block south of Kolat Towers, is the characters&apos; main contact in the Emerald Enclave
 
 Source:	Waterdeep: Dragon Heist p. 36</description>
     <environment/>
@@ -3174,7 +3174,7 @@ Source:	Waterdeep: Dragon Heist p. 211</description>
     <environment/>
   </monster>
   <monster>
-    <name>Nar'l Xibrindas</name>
+    <name>Nar&apos;l Xibrindas</name>
     <size>M</size>
     <type>humanoid (elf)</type>
     <alignment>Lawful Evil</alignment>
@@ -3245,8 +3245,8 @@ Nar'l is a 10th-level spellcaster. His spellcasting ability is Intelligence. Nar
 	• 5th level (2 slots): cloudkill</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 2</slots>
-    <spells>dancing lights, darkness, faerie fire, levitate, mage hand, minor illusion, poison spray, ray of frost, mage armor, magic missile, shield, witch bolt, alter self, misty step, web, sending, lightning bolt, Evard's black tentacles, greater invisibility, cloudkill</spells>
-    <description>Xanathar's advisor is a nervous and conniving male drow named Nar'l Xibrindas. Nar'l's house was wiped out long ago, but he and his elder brother Soluun survived and joined Bregan D'aerthe. A year ago, Nar'l was given the difficult task of infiltrating the Xanathar Guild and getting as close to the beholder as possible. Not only did he succeed, but in the course of gaining Xanathar's trust, he managed to convince the beholder to eliminate its other advisors. The beholder's paranoia will eventually cause Xanathar to question the drow's loyalty, though, and Nar'l has become increasingly worried about his future. If forced to decide between himself and Bregan D'aerthe, he'll choose the former and betray his drow allies to save his own skin.
+    <spells>dancing lights, darkness, faerie fire, levitate, mage hand, minor illusion, poison spray, ray of frost, mage armor, magic missile, shield, witch bolt, alter self, misty step, web, sending, lightning bolt, Evard&apos;s black tentacles, greater invisibility, cloudkill</spells>
+    <description>Xanathar's advisor is a nervous and conniving male drow named Nar'l Xibrindas. Nar'l's house was wiped out long ago, but he and his elder brother Soluun survived and joined Bregan D'aerthe. A year ago, Nar'l was given the difficult task of infiltrating the Xanathar Guild and getting as close to the beholder as possible. Not only did he succeed, but in the course of gaining Xanathar's trust, he managed to convince the beholder to eliminate its other advisors. The beholder's paranoia will eventually cause Xanathar to question the drow's loyalty, though, and Nar'l has become increasingly worried about his future. If forced to decide between himself and Bregan D&apos;aerthe, he&apos;ll choose the former and betray his drow allies to save his own skin.
 
 Xanathar is aware that something is off with Nar'l, and recently assigned him a grell bodyguard. The grell has instructions to dispose of Nar'l at the first sign of disloyalty.
 
@@ -3366,7 +3366,7 @@ Nihiloor's innate spellcasting ability is Intelligence (spell save DC 15). It ca
     <save>Dex +6</save>
     <skill>Acrobatics +8, Perception +2</skill>
     <passive>12</passive>
-    <languages>understands one language known to its creator but can't speak</languages>
+    <languages>understands one language known to its creator but can&apos;t speak</languages>
     <cr>4</cr>
     <resist>bludgeoning, piercing, slashing from nonmagical attacks</resist>
     <immune/>
@@ -3430,7 +3430,7 @@ Source:	Waterdeep: Dragon Heist p. 212</description>
     <environment/>
   </monster>
   <monster>
-    <name>Noska Ur'gray</name>
+    <name>Noska Ur&apos;gray</name>
     <size>M</size>
     <type>humanoid (dwarf)</type>
     <alignment>Lawful Evil</alignment>
@@ -3620,7 +3620,7 @@ Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) pierci
       <text>
 Orond adds 2 to its AC against one melee attack that would hit it. To do so, Orond must see the attacker and be wielding a melee weapon.</text>
     </reaction>
-    <description>The Gralhunds are nobles who trade in arms and mercenaries, and whose family motto is "We see both sides." Orond is the patriarch, but he's not a quick-thinking or cultured sort-and deep down, he knows it. He leaves most of the plotting and socializing to his wife, Yalah, to whom he is devoted.
+    <description>The Gralhunds are nobles who trade in arms and mercenaries, and whose family motto is "We see both sides." Orond is the patriarch, but he&apos;s not a quick-thinking or cultured sort-and deep down, he knows it. He leaves most of the plotting and socializing to his wife, Yalah, to whom he is devoted.
 
 When several of the Masked Lords were assassinated in quick succession some years ago, Lord Gralhund had expected his wife to fill one of the vacancies. That never happened, though, despite many promises and bribes. After she was passed over, Orond became insanely angry, and he has remained that way ever since.
 
@@ -3654,13 +3654,13 @@ Source:	Waterdeep: Dragon Heist p. 213</description>
     <passive>8</passive>
     <languages>Infernal, telepathy 120 ft.</languages>
     <cr>8</cr>
-    <resist>cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <immune>fire, poison</immune>
     <vulnerable/>
     <conditionImmune>poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede Osvaldo's darkvision.</text>
     </trait>
@@ -3740,7 +3740,7 @@ The cultist has advantage on saving throws against being charmed or frightened.<
 Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.</text>
       <attack>Scimitar|+3|1d6+1</attack>
     </action>
-    <description>The dwarf Ott Steeltoes has the nerve-wracking task of tending to Xanathar's pet fish, Sylgar. In his spare time, he worships Zuggtmoy, the demon queen of fungi, and cultivates mushrooms, spores, and molds. He wears a leather skullcap stitched with fake beholder eyestalks.
+    <description>The dwarf Ott Steeltoes has the nerve-wracking task of tending to Xanathar&apos;s pet fish, Sylgar. In his spare time, he worships Zuggtmoy, the demon queen of fungi, and cultivates mushrooms, spores, and molds. He wears a leather skullcap stitched with fake beholder eyestalks.
 
 Source:	Waterdeep: Dragon Heist p. 214</description>
     <environment/>
@@ -3793,7 +3793,7 @@ The Dwarf is a 1st-level spellcaster. Its spellcasting ability is Intelligence. 
     </trait>
     <slots>0, 2</slots>
     <spells>fire bolt, mending, prestidigitation, burning hands, disguise self, shield</spells>
-    <description>This bald-headed and tattooed dwarf operates Xanathar's "panopticus" magical surveillance system.
+    <description>This bald-headed and tattooed dwarf operates Xanathar&apos;s "panopticus" magical surveillance system.
 
 Apprentice wizards are novice arcane spellcasters who serve more experienced wizards or attend school. They perform menial work, such as cooking and cleaning, in exchange for education in the ways of magic.
 
@@ -3925,7 +3925,7 @@ Or Ranged Weapon Attack: +6 to hit, range 20/60 ft., one target. Hit: 6 (1d4 + 4
 Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.</text>
       <attack>Rapier|+6|1d8+4</attack>
     </action>
-    <description>Renaer is the estranged son of Dagult Neverember, the former Open Lord of Waterdeep and the current Lord of Neverwinter. Father and son detest one another, and Renaer is least happy when he finds himself forced to deal with some mess his father left behind. Qualities that both share include striking good looks, a love of drink, and a flair for diplomacy. What Renaer lacks is his father's belligerence, ill temper, and bad judgment.
+    <description>Renaer is the estranged son of Dagult Neverember, the former Open Lord of Waterdeep and the current Lord of Neverwinter. Father and son detest one another, and Renaer is least happy when he finds himself forced to deal with some mess his father left behind. Qualities that both share include striking good looks, a love of drink, and a flair for diplomacy. What Renaer lacks is his father&apos;s belligerence, ill temper, and bad judgment.
 
 Renaer lives off a sizable inheritance left to him by his mother. Approaching middle age, he has given up adventuring and settled down somewhat. As a Harper, he spends a lot of time defending Waterdavians against those who, like his father, would deprive them of their coin and rights. He owns Neverember House, a four-story residence in the Sea Ward. Renaer spends as little time there as possible, however, since it's constantly under surveillance by spies loyal to his father. His friends have an open invitation to use the house as they please, while Renaer spends most of his free time in taverns and festhalls.
 
@@ -4039,7 +4039,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) pierci
 Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage.</text>
       <attack>Heavy Crossbow|+3|1d10+1</attack>
     </action>
-    <description>Saeth Cromley is a retired sergeant of the City Watch, a likable fellow with a sharp, sarcastic wit. He occasionally comes out of retirement at the request of Barnibus Blastwind, and he assists the mage in investigating unusual crimes in the city. Cromley helps Barnibus relate to the common folk, and he is good at coaxing information out of them. Though Cromley was once a strict proponent of Watch regulations and dress codes, he has grown a bit lax in both matters now that he's officially retired.
+    <description>Saeth Cromley is a retired sergeant of the City Watch, a likable fellow with a sharp, sarcastic wit. He occasionally comes out of retirement at the request of Barnibus Blastwind, and he assists the mage in investigating unusual crimes in the city. Cromley helps Barnibus relate to the common folk, and he is good at coaxing information out of them. Though Cromley was once a strict proponent of Watch regulations and dress codes, he has grown a bit lax in both matters now that he&apos;s officially retired.
 
 Source:	Waterdeep: Dragon Heist p. 216</description>
     <environment/>
@@ -4159,10 +4159,10 @@ Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one ta
     <save/>
     <skill>Perception +2, Stealth +4</skill>
     <passive>12</passive>
-    <languages>Common, Halfling, Thieves' cant</languages>
+    <languages>Common, Halfling, Thieves&apos; cant</languages>
     <cr>2</cr>
     <resist/>
-    <immune>bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</immune>
+    <immune>bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</immune>
     <vulnerable/>
     <conditionImmune/>
     <senses>darkvision 60 ft. (rat form only)</senses>
@@ -4211,7 +4211,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) pierci
 Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.</text>
       <attack>Hand Crossbow (Humanoid or Hybrid Form Only)|+4|1d6+2</attack>
     </action>
-    <description> Member of the Shard Shunner gang hired by Emmek Frewn to disrupt the characters' running of the Trollskull Manor
+    <description> Member of the Shard Shunner gang hired by Emmek Frewn to disrupt the characters&apos; running of the Trollskull Manor
 
 Source:	Waterdeep: Dragon Heist p. 42</description>
     <environment/>
@@ -4268,7 +4268,7 @@ Skeemo is a 9th-level spellcaster. His spellcasting ability is Intelligence (spe
     </trait>
     <slots>0, 4, 3, 3, 3, 1</slots>
     <spells>fire bolt, light, mage hand, prestidigitation, detect magic, mage armor, magic missile, shield, misty step, suggestion, counterspell, fireball, fly, greater invisibility, ice storm, cone of cold</spells>
-    <description>Skeemo became the Master of Magic for the Black Network in Waterdeep, setting up a cover in the Trades Ward in the form of a cramped little shop called Weirdbottle's Concoctions. Most of his potions and elixirs are nonmagical, but he crafts magical ones for his Zhent friends.
+    <description>Skeemo became the Master of Magic for the Black Network in Waterdeep, setting up a cover in the Trades Ward in the form of a cramped little shop called Weirdbottle&apos;s Concoctions. Most of his potions and elixirs are nonmagical, but he crafts magical ones for his Zhent friends.
 
 Skeemo can add "sellout" to his credentials, his services having been bought by House Gralhund and the Black Network operatives loyal to Manshoon. The rock gnome uses paper birds (see appendix A) to send messages both to his new friends and his old ones.
 
@@ -4353,7 +4353,7 @@ Soluun's spellcasting ability is Charisma. It can innately cast the following sp
 	• 1/Day each: darkness, faerie fire, levitate (self only)</text>
     </trait>
     <spells>dancing lights, darkness, faerie fire, levitate</spells>
-    <description>Soluun is a sadistic, fanatical bully who is fiercely loyal to Bregan D'aerthe, and to Jarlaxle in particular. His younger brother, Nar'l, has infiltrated the Xanathar Guild. Soluun considers Nar'l a weakling who turned to arcane magic by way of compensation, and he has never had much faith in his brother or his abilities.
+    <description>Soluun is a sadistic, fanatical bully who is fiercely loyal to Bregan D'aerthe, and to Jarlaxle in particular. His younger brother, Nar&apos;l, has infiltrated the Xanathar Guild. Soluun considers Nar&apos;l a weakling who turned to arcane magic by way of compensation, and he has never had much faith in his brother or his abilities.
 
 Soluun has a burning hatred of surface elves and halfelves, having been taught from a young age to kill them as opportunity permits. When not engaged in a Bregan D'aerthe operation, Soluun spends his nights haunting the darkened streets and alleys of Waterdeep, looking for solitary elves or half-elves to pick off. He conceals his nighttime escapades as well as he can, but Jarlaxle, Fel'rekt, and Krebbyg know what he's up to.
 
@@ -4487,7 +4487,7 @@ The swarm ignores movement restrictions caused by webbing.</text>
 Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's space. 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.</text>
       <attack>Bites|+3|4d4</attack>
     </action>
-    <description>A swarm of tiny constructed spiders which attack anyone messing with Jarlaxle's chest aboard the Scarlet Marpenoth
+    <description>A swarm of tiny constructed spiders which attack anyone messing with Jarlaxle&apos;s chest aboard the Scarlet Marpenoth
 
 Source:	Waterdeep: Dragon Heist p. 143</description>
     <environment/>
@@ -4526,7 +4526,7 @@ Sylgar can breathe only underwater.</text>
       <text>
 Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage.</text>
     </action>
-    <description>Xanathar's pet fish.
+    <description>Xanathar&apos;s pet fish.
 
 Source:	Waterdeep: Dragon Heist p. 220</description>
     <environment/>
@@ -4629,7 +4629,7 @@ Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slash
 Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.</text>
       <attack>Shortbow|+6|1d6+2</attack>
     </action>
-    <description>Tashlyn is Master of Arms and Mercenaries for the Waterdeep Zhentarim. In this role, she provides armor, weapons, and training to sellswords on the Black Network's payroll.
+    <description>Tashlyn is Master of Arms and Mercenaries for the Waterdeep Zhentarim. In this role, she provides armor, weapons, and training to sellswords on the Black Network&apos;s payroll.
 
 Tashlyn has established a useful cover by serving as a bodyguard to Vorondar Levelstone, a dwarf magister stationed at the South Gate. She likes the dwarf and has earned his confidence, allowing her to reach the rank of captain in the City Guard. In that position, she watches over traffic that passes through the gate-and ensures that her associates in the Black Network can come and go freely.
 
@@ -4708,7 +4708,7 @@ Thorvin has advantage on saving throws against poison and resistance to poison d
 Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.</text>
       <attack>Club|+2|1d4</attack>
     </action>
-    <description>Thorvin serves as Xanathar's chief engineer and trapsmith. He also serves the Harpers as a paid informant, keeping that faction apprised of Xanathar's plans as well as he can. Thorvin uses the ruse of maintenance inspections to cover up secret meetings he holds with Harper spies in Skullport and elsewhere.
+    <description>Thorvin serves as Xanathar&apos;s chief engineer and trapsmith. He also serves the Harpers as a paid informant, keeping that faction apprised of Xanathar&apos;s plans as well as he can. Thorvin uses the ruse of maintenance inspections to cover up secret meetings he holds with Harper spies in Skullport and elsewhere.
 
 Thorvin wears iron-rimmed spectacles and carries a large, heavy wrench that doubles as a club. He also carries mason's tools, smith's tools, and thieves' tools, and has proficiency with all three.
 
@@ -4823,7 +4823,7 @@ Tissina is a 4th-level spellcaster. Her spellcasting ability is Wisdom. Tissina 
     </trait>
     <slots>0, 4, 3</slots>
     <spells>thaumaturgy, light, sacred flame, thaumaturgy, command, inflict wounds, shield of faith, hold person, spiritual weapon</spells>
-    <description>Madame Khyret is the personal attendant to Ammalia Cassalanter and is the family's chief housemaid. Madame Khyret dresses in a long black gown and wears a headdress with black tassels. She is an aging tiefling and she spends most of her time in the master sitting room
+    <description>Madame Khyret is the personal attendant to Ammalia Cassalanter and is the family&apos;s chief housemaid. Madame Khyret dresses in a long black gown and wears a headdress with black tassels. She is an aging tiefling and she spends most of her time in the master sitting room
 
 Source:	Waterdeep: Dragon Heist p. 116</description>
     <environment/>
@@ -4845,7 +4845,7 @@ Source:	Waterdeep: Dragon Heist p. 116</description>
     <save>Dex +6, Int +4</save>
     <skill>Acrobatics +6, Deception +3, Perception +3, Stealth +9</skill>
     <passive>13</passive>
-    <languages>Common, Orc, Thieves' cant</languages>
+    <languages>Common, Orc, Thieves&apos; cant</languages>
     <cr>8</cr>
     <resist>poison</resist>
     <immune/>
@@ -4887,7 +4887,7 @@ Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. Hit: 7 (1d8 + 3) 
       <attack>Light Crossbow|+6|1d8+3</attack>
       <attack>Light Crossbow||7d6</attack>
     </action>
-    <description>Urstul Floxin works for Manshoon, and he is the highest-ranking member of the Zhentarim squad stationed at House Gralhund. Urstul is a glorified thug with all the charm and breeding of a snake, but the Gralhunds tolerate him because he feeds them useful information culled from his spies throughout the city. Urstul takes his orders from Manshoon's current simulacrum, which comes and goes from House Gralhund by way of a teleportation circle (connected to the circle in Kolat Towers).
+    <description>Urstul Floxin works for Manshoon, and he is the highest-ranking member of the Zhentarim squad stationed at House Gralhund. Urstul is a glorified thug with all the charm and breeding of a snake, but the Gralhunds tolerate him because he feeds them useful information culled from his spies throughout the city. Urstul takes his orders from Manshoon&apos;s current simulacrum, which comes and goes from House Gralhund by way of a teleportation circle (connected to the circle in Kolat Towers).
 
 Urstul is a large, heavyset man in his forties. He storms about House Gralhund like he owns the place. He has a collection of black flying snakes that he uses as couriers to deliver messages to underlings throughout the city.
 
@@ -4956,8 +4956,8 @@ Vajra is an 18th-level spellcaster. Her spellcasting ability is Intelligence (sp
 	• 9th level (1 slots): imprisonment</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
-    <spells>fire bolt, light, mage hand, message, prestidigitation, detect magic, identify, mage armor, thunderwave, invisibility, misty step, web, counterspell, fly, sending, banishment, fire shield, stoneskin, Bigby's hand, geas, telekinesis, chain lightning, globe of invulnerability, forcecage, prismatic spray, antimagic field, power word stun, imprisonment</spells>
-    <description>Vajra is a capable wizard in her mid-thirties, the youngest person ever to hold the position of Blackstaff. As the High Wizard of Waterdeep, she is charged with using all the magic and resources at her disposal to defend the city against threats. She was handpicked for the job by Khelben Arunsun, and wields the Blackstaff from which Khelben derived his name and the title of the office. Vajra isn't the city's most powerful wizard, but she can hold her own. Despite her many gifts, she still questions her ability to meet the demands of her role, and she rarely makes a decision without first soliciting the advice of the Blackstaff, which contains Khelben Arunsun's spirit as well as the spirits of all the other Blackstaffs who preceded her. She also gets intelligence from many other sources, both through her own network of spies and from Harper agents.
+    <spells>fire bolt, light, mage hand, message, prestidigitation, detect magic, identify, mage armor, thunderwave, invisibility, misty step, web, counterspell, fly, sending, banishment, fire shield, stoneskin, Bigby&apos;s hand, geas, telekinesis, chain lightning, globe of invulnerability, forcecage, prismatic spray, antimagic field, power word stun, imprisonment</spells>
+    <description>Vajra is a capable wizard in her mid-thirties, the youngest person ever to hold the position of Blackstaff. As the High Wizard of Waterdeep, she is charged with using all the magic and resources at her disposal to defend the city against threats. She was handpicked for the job by Khelben Arunsun, and wields the Blackstaff from which Khelben derived his name and the title of the office. Vajra isn't the city&apos;s most powerful wizard, but she can hold her own. Despite her many gifts, she still questions her ability to meet the demands of her role, and she rarely makes a decision without first soliciting the advice of the Blackstaff, which contains Khelben Arunsun&apos;s spirit as well as the spirits of all the other Blackstaffs who preceded her. She also gets intelligence from many other sources, both through her own network of spies and from Harper agents.
 
 Vajra runs Blackstaff Academy, a school for mages, out of Blackstaff Tower in the Castle Ward. She is also in charge of Force Grey, an order of highly skilled adventurers who are called upon to defend the city in times of need. Vajra is always looking for new adventurers to fill the ranks of Force Grey, and she is particularly interested in those who can bring unique skills, abilities, or spells to the mix.
 
@@ -5353,7 +5353,7 @@ Xanathar shoots three of the following magical eye rays at random (reroll duplic
 
 5. Enervation Ray: The targeted creature must make a DC 16 Constitution saving throw, taking 36 (8d8) necrotic damage on a failed save, or half as much damage on a successful one.</text>
       <attack>Eye Rays||8d8</attack>
-      <text>6. Telekinetic Ray: If the target is a creature, it must succeed on a DC 16 Strength saving throw or Xanathar moves it up to 30 feet in any direction. It is restrained by the ray's telekinetic grip until the start of Xanathar's next turn or until Xanathar is incapacitated.
+      <text>6. Telekinetic Ray: If the target is a creature, it must succeed on a DC 16 Strength saving throw or Xanathar moves it up to 30 feet in any direction. It is restrained by the ray&apos;s telekinetic grip until the start of Xanathar&apos;s next turn or until Xanathar is incapacitated.
 
 If the target is an object weighing 300 pounds or less that isn't being worn or carried, it is moved up to 30 feet in any direction. Xanathar can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or a container.
 
@@ -5375,7 +5375,7 @@ The target dies if the ray reduces it to 0 hit points.</text>
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Xanathar can take 3 legendary actions, using the Eye Ray option below. It can take only one legendary action at a time and only at the end of another creature's turn. Xanathar regains spent legendary actions at the start of its turn.</text>
+      <text>Xanathar can take 3 legendary actions, using the Eye Ray option below. It can take only one legendary action at a time and only at the end of another creature&apos;s turn. Xanathar regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Eye Ray</name>
@@ -5622,7 +5622,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludge
 
 If the target is a creature, the adept can choose one of the following additional effects:</text>
       <attack>Unarmed Strike|+5|1d8+3</attack>
-      <text>	• The target must succeed on a DC 13 Strength saving throw or drop one item it is holding (adept's choice).
+      <text>	• The target must succeed on a DC 13 Strength saving throw or drop one item it is holding (adept&apos;s choice).
 
 	• The target must succeed on a DC 13 Dexterity saving throw or be knocked prone.
 
@@ -5702,7 +5702,7 @@ Ziraj is a 10th-level spellcaster. His spellcasting ability is Charisma. He has 
     </trait>
     <slots>0, 4, 3, 2</slots>
     <spells>command, protection from evil and good, thunderous smite, branding smite, find steed, blinding smite, dispel magic</spells>
-    <description>Ziraj is a half-orc hunter who wields an oversized bow that shoots correspondingly large arrows. He is the Master of Assassination for the Black Network. If Ziraj sets out to kill someone, it's because one of his friends (Davil, Istrid, Skeemo, or Tashlyn) asked him to. The characters might become Ziraj's prey, or Ziraj might come to their aid to eliminate a common enemy. He's the strong, silent type.
+    <description>Ziraj is a half-orc hunter who wields an oversized bow that shoots correspondingly large arrows. He is the Master of Assassination for the Black Network. If Ziraj sets out to kill someone, it's because one of his friends (Davil, Istrid, Skeemo, or Tashlyn) asked him to. The characters might become Ziraj&apos;s prey, or Ziraj might come to their aid to eliminate a common enemy. He&apos;s the strong, silent type.
 
 The City Watch has received reports of a figure who haunts the rooftops of Waterdeep-a hulking shadow that glares from its perch, rains down death in the form of long black arrows, and slinks off without so much as a whisper. Where he comes from-if he even has a home-remains a mystery, as does the question of where he might show up next.
 

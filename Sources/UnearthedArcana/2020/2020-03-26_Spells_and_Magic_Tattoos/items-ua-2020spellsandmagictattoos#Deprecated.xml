@@ -38,7 +38,7 @@ Source:	Unearthed Arcana: 2020 Spells And Magic Tattoos p. 8</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>This tattoo depicts protective imagery and uses ink that resembles liquid metal. While you aren't wearing armor, the tattoo grants you an Armor Class of 15 + your Dexterity modifier (maximum of +2). You can use a shield and still gain this benefit.
+    <text>This tattoo depicts protective imagery and uses ink that resembles liquid metal. While you aren&apos;t wearing armor, the tattoo grants you an Armor Class of 15 + your Dexterity modifier (maximum of +2). You can use a shield and still gain this benefit.
 
 Tattoo Attunement:
 To attune to this item, you hold the needle to your skin where you want the tattoo to appear, pressing the needle there throughout the attunement process. When the attunement is complete, the needle turns into the ink that becomes the tattoo, which appears on the skin. If you have multiple magic tattoos, they count as a single magic item with regard to the number of magic items you can attune to.
@@ -54,7 +54,7 @@ Source:	Unearthed Arcana: 2020 Spells And Magic Tattoos p. 9</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>This tattoo depicts protective imagery and uses ink that resembles liquid metal. While you aren't wearing armor, the tattoo grants you an Armor Class of 12 + your Dexterity modifier. You can use a shield and still gain this benefit.
+    <text>This tattoo depicts protective imagery and uses ink that resembles liquid metal. While you aren&apos;t wearing armor, the tattoo grants you an Armor Class of 12 + your Dexterity modifier. You can use a shield and still gain this benefit.
 
 Tattoo Attunement:
 To attune to this item, you hold the needle to your skin where you want the tattoo to appear, pressing the needle there throughout the attunement process. When the attunement is complete, the needle turns into the ink that becomes the tattoo, which appears on the skin. If you have multiple magic tattoos, they count as a single magic item with regard to the number of magic items you can attune to.
@@ -70,7 +70,7 @@ Source:	Unearthed Arcana: 2020 Spells And Magic Tattoos p. 9</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>This tattoo depicts protective imagery and uses ink that resembles liquid metal. While you aren't wearing armor, the tattoo grants you an Armor Class of 18. You can use a shield and still gain this benefit.
+    <text>This tattoo depicts protective imagery and uses ink that resembles liquid metal. While you aren&apos;t wearing armor, the tattoo grants you an Armor Class of 18. You can use a shield and still gain this benefit.
 
 Tattoo Attunement:
 To attune to this item, you hold the needle to your skin where you want the tattoo to appear, pressing the needle there throughout the attunement process. When the attunement is complete, the needle turns into the ink that becomes the tattoo, which appears on the skin. If you have multiple magic tattoos, they count as a single magic item with regard to the number of magic items you can attune to.
@@ -161,7 +161,7 @@ Source:	Unearthed Arcana: 2020 Spells And Magic Tattoos p. 11</text>
     <roll>1d10</roll>
   </item-->
   <!--item>
-    <name>Illuminator's Tattoo (UA)</name>
+    <name>Illuminator&apos;s Tattoo (UA)</name>
     <detail>Wondrous item (tattoo)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -223,7 +223,7 @@ Source:	Unearthed Arcana: 2020 Spells And Magic Tattoos p. 11</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>This tattoo is dark in color and abstract. While it's on your skin, you have advantage on Dexterity (Stealth) checks.
+    <text>This tattoo is dark in color and abstract. While it&apos;s on your skin, you have advantage on Dexterity (Stealth) checks.
 
 Shadowy Defense:
 When you take damage, you can use your reaction to become shadowy and insubstantial for a moment, reducing the damage you take by half. Once used, this reaction can't be used again until the next dawn.
@@ -242,7 +242,7 @@ Source:	Unearthed Arcana: 2020 Spells And Magic Tattoos p. 12</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>This tattoo contains a single spell, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin where you want the tattoo to appear and speak the command word. The needle turns into the ink that becomes the tattoo, which appears on your skin. Once the tattoo is on your skin, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.
+    <text>This tattoo contains a single spell, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin where you want the tattoo to appear and speak the command word. The needle turns into the ink that becomes the tattoo, which appears on your skin. Once the tattoo is on your skin, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell&apos;s duration. Once the spell ends, the tattoo vanishes from your skin.
 
 A spell cast from this tattoo has a spellcasting ability modifier of +3, a save DC of 13 and an attack bonus of +5.
 
@@ -255,7 +255,7 @@ Source:	Unearthed Arcana: 2020 Spells And Magic Tattoos p. 11</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>This tattoo contains a single spell, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin where you want the tattoo to appear and speak the command word. The needle turns into the ink that becomes the tattoo, which appears on your skin. Once the tattoo is on your skin, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.
+    <text>This tattoo contains a single spell, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin where you want the tattoo to appear and speak the command word. The needle turns into the ink that becomes the tattoo, which appears on your skin. Once the tattoo is on your skin, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell&apos;s duration. Once the spell ends, the tattoo vanishes from your skin.
 
 A spell cast from this tattoo has a spellcasting ability modifier of +3, a save DC of 13 and an attack bonus of +5.
 
@@ -268,7 +268,7 @@ Source:	Unearthed Arcana: 2020 Spells And Magic Tattoos p. 11</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>This tattoo contains a single spell, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin where you want the tattoo to appear and speak the command word. The needle turns into the ink that becomes the tattoo, which appears on your skin. Once the tattoo is on your skin, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.
+    <text>This tattoo contains a single spell, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin where you want the tattoo to appear and speak the command word. The needle turns into the ink that becomes the tattoo, which appears on your skin. Once the tattoo is on your skin, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell&apos;s duration. Once the spell ends, the tattoo vanishes from your skin.
 
 A spell cast from this tattoo has a spellcasting ability modifier of +4, a save DC of 15 and an attack bonus of +7.
 
@@ -281,7 +281,7 @@ Source:	Unearthed Arcana: 2020 Spells And Magic Tattoos p. 11</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>This tattoo contains a single spell, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin where you want the tattoo to appear and speak the command word. The needle turns into the ink that becomes the tattoo, which appears on your skin. Once the tattoo is on your skin, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.
+    <text>This tattoo contains a single spell, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin where you want the tattoo to appear and speak the command word. The needle turns into the ink that becomes the tattoo, which appears on your skin. Once the tattoo is on your skin, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell&apos;s duration. Once the spell ends, the tattoo vanishes from your skin.
 
 A spell cast from this tattoo has a spellcasting ability modifier of +4, a save DC of 15 and an attack bonus of +7.
 
@@ -294,7 +294,7 @@ Source:	Unearthed Arcana: 2020 Spells And Magic Tattoos p. 11</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>This tattoo contains a single spell, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin where you want the tattoo to appear and speak the command word. The needle turns into the ink that becomes the tattoo, which appears on your skin. Once the tattoo is on your skin, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.
+    <text>This tattoo contains a single spell, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin where you want the tattoo to appear and speak the command word. The needle turns into the ink that becomes the tattoo, which appears on your skin. Once the tattoo is on your skin, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell&apos;s duration. Once the spell ends, the tattoo vanishes from your skin.
 
 A spell cast from this tattoo has a spellcasting ability modifier of +5, a save DC of 17 and an attack bonus of +9.
 
@@ -307,7 +307,7 @@ Source:	Unearthed Arcana: 2020 Spells And Magic Tattoos p. 11</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>This tattoo contains a single spell, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin where you want the tattoo to appear and speak the command word. The needle turns into the ink that becomes the tattoo, which appears on your skin. Once the tattoo is on your skin, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.
+    <text>This tattoo contains a single spell, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin where you want the tattoo to appear and speak the command word. The needle turns into the ink that becomes the tattoo, which appears on your skin. Once the tattoo is on your skin, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell&apos;s duration. Once the spell ends, the tattoo vanishes from your skin.
 
 A spell cast from this tattoo has a spellcasting ability modifier of +3, a save DC of 13, and an attack bonus of +5.
 

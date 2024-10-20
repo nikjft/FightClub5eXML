@@ -16,7 +16,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 37 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>The Ancient Wyrm (HB): Dragon Type</name>
-        <text>Your patron bestows upon you gifts and powers according to their nature. Choose your patron's dragon type, which includes a damage type and a favored treasure. These will affect later features you gain from this subclass. Choose from black (acid, onyxes), blue (lightning, sapphires), brass (fire, textiles), bronze (light- ning, ceramics), copper (acid, books), gold (fire, pearls), green (poison, elves), red (fire, rubies), silver (cold, paintings), or white (cold, ivory).
+        <text>Your patron bestows upon you gifts and powers according to their nature. Choose your patron&apos;s dragon type, which includes a damage type and a favored treasure. These will affect later features you gain from this subclass. Choose from black (acid, onyxes), blue (lightning, sapphires), brass (fire, textiles), bronze (light- ning, ceramics), copper (acid, books), gold (fire, pearls), green (poison, elves), red (fire, rubies), silver (cold, paintings), or white (cold, ivory).
 
 Dragon Type:
 Dragon Type | Damage Type | Favored Treasure
@@ -35,7 +35,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 38 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>The Ancient Wyrm (HB): Expanded Spell List</name>
-        <text>Your dragon patron lets you choose from an expanded list of spells when you learn a warlock spell. The following spells connected to your patron's dragon type are added to the warlock spell list for you.
+        <text>Your dragon patron lets you choose from an expanded list of spells when you learn a warlock spell. The following spells connected to your patron&apos;s dragon type are added to the warlock spell list for you.
 
 Black Wyrm Expanded Spells:
 Spell Level | Spells
@@ -159,7 +159,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 39 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>The Ancient Wyrm (HB): Borrowed Audacity</name>
-        <text>Also at 10th level, you gain resistance to your patron's damage type and have advantage on saving throws against fear.
+        <text>Also at 10th level, you gain resistance to your patron&apos;s damage type and have advantage on saving throws against fear.
 
 In addition, you become immune to the Frightful Presence feature of any creature.
 
@@ -169,7 +169,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 39 (Homebrew)</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>The Ancient Wyrm (HB): Draconic Avatar</name>
-        <text>Starting at 14th level, you can call forth a powerful avatar of your patron as an action. You must conduct a 1-hour ritual to prepare this feature, which can be done as part of a short or long rest and only prepares this feature for 24 hours. This ceremony consumes 500 gp worth of treasure, or half that if the treasure is the patron's favored treasure.
+        <text>Starting at 14th level, you can call forth a powerful avatar of your patron as an action. You must conduct a 1-hour ritual to prepare this feature, which can be done as part of a short or long rest and only prepares this feature for 24 hours. This ceremony consumes 500 gp worth of treasure, or half that if the treasure is the patron&apos;s favored treasure.
 
 To summon the draconic avatar, you must spend a warlock spell slot. It acts on its own initiative count and obeys your commands (no action required by you). You can communicate with it telepathically as long as it is within 60 feet of you. It disappears after 1 minute, if you or it are reduced to 0 hit points, or if you dismiss it early as an action.
 
@@ -203,13 +203,13 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 40 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>The Cryptic Oracle (HB): Hidden Knowledge</name>
-        <text>You gain proficiency in one of the following skills of your choice: Arcana, History, Nature, or Religion. You also learn the guidance cantrip. It counts as a warlock cantrip for you, but it doesn't count against your number of cantrips known.
+        <text>You gain proficiency in one of the following skills of your choice: Arcana, History, Nature, or Religion. You also learn the guidance cantrip. It counts as a warlock cantrip for you, but it doesn&apos;t count against your number of cantrips known.
 
 Source:	Tasha's Crucible of Everything Else, Volume 2 p. 40 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>The Cryptic Oracle (HB): Rule of Three</name>
-        <text>You can deliver riddles with your patron's power to aid your allies or confound your foes. As a bonus action, choose a creature other than you that is within 60 feet of you. If the creature can hear and understand you, it must make an Intelligence saving throw against your warlock spell save DC to attempt to solve the riddle.
+        <text>You can deliver riddles with your patron&apos;s power to aid your allies or confound your foes. As a bonus action, choose a creature other than you that is within 60 feet of you. If the creature can hear and understand you, it must make an Intelligence saving throw against your warlock spell save DC to attempt to solve the riddle.
 
 If the creature succeeds on its saving throw, you can choose to grant it a boon, which the creature can spend to gain advantage on one type of roll of your choice:
 an attack roll, an ability check, or a saving throw. If the creature fails its saving throw, you can either grant yourself the boon, or cause the creature to suffer a curse in the form of disadvantage on its next roll of the chosen type. The boon or curse fades when the roll is made, or when the recipient finishes a long rest.
@@ -234,7 +234,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 40 (Homebrew)</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>The Cryptic Oracle (HB): Inscrutable Mind</name>
-        <text>Your thoughts can't be read by telepathy or other means unless you allow it, and Wisdom (Insight) checks made to discern your intentions or sincerity are made with disadvantage.
+        <text>Your thoughts can&apos;t be read by telepathy or other means unless you allow it, and Wisdom (Insight) checks made to discern your intentions or sincerity are made with disadvantage.
 
 In addition, you also gain proficiency in Intelligence saving throws.
 
@@ -294,7 +294,7 @@ Once you have used this feature, you cannot do so again until you finish a short
 Source:	Tasha's Crucible of Everything Else, Volume 2 p. 42 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>The Great Ooze (HB): Psuedopod's Reach</name>
+        <name>The Great Ooze (HB): Psuedopod&apos;s Reach</name>
         <text>Your limbs can take on an unnatural, ooze-like quality. As a bonus action, you can make a melee spell attack against one creature within 10 feet of you. On a hit, the target takes acid damage equal to your Charisma modifier.
 
 Source:	Tasha's Crucible of Everything Else, Volume 2 p. 42 (Homebrew)</text>
@@ -319,7 +319,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 42 (Homebrew)</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>The Great Ooze (HB): Erode</name>
-        <text>You are able to rain down corrosive globules, reducing the effectiveness of your foes' armor and weapons.
+        <text>You are able to rain down corrosive globules, reducing the effectiveness of your foes&apos; armor and weapons.
 
 As an action, choose a number of nonmagical weapons or suits of armor that you can see within 60 feet of you, up to your Warlock level. If the target is a weapon, it receives a -2 penalty to attack and damage rolls. If the target is a suit of armor, it receives a -2 penalty to the Armor Class it provides. These changes are permanent, and can only be applied to an object once.
 

@@ -97,7 +97,7 @@ Source:	Player's Handbook 2024 p. 201</text>
   </feat>
   <feat>
     <name>Origin: Savage Attacker</name>
-    <text>You've trained to deal particularly damaging strikes. Once per turn when you hit a target with a weapon, you can roll the weapon's damage dice twice and use either roll against the target.
+    <text>You&apos;ve trained to deal particularly damaging strikes. Once per turn when you hit a target with a weapon, you can roll the weapon&apos;s damage dice twice and use either roll against the target.
 
 Source:	Player's Handbook 2024 p. 201</text>
   </feat>
@@ -436,7 +436,7 @@ Source:	Player's Handbook 2024 p. 203</text>
   <feat>
     <name>Fey-Touched (Intelligence)</name>
     <prerequisite>Level 4+</prerequisite>
-    <text>Your exposure to the Feywild's magic grants you the following benefits.
+    <text>Your exposure to the Feywild&apos;s magic grants you the following benefits.
 
 Ability Score Increase:
 Increase your Intelligence score by 1, to a maximum of 20.
@@ -450,7 +450,7 @@ Source:	Player's Handbook 2024 p. 204</text>
   <feat>
     <name>Fey-Touched (Wisdom)</name>
     <prerequisite>Level 4+</prerequisite>
-    <text>Your exposure to the Feywild's magic grants you the following benefits.
+    <text>Your exposure to the Feywild&apos;s magic grants you the following benefits.
 
 Ability Score Increase:
 Increase your Wisdom score by 1, to a maximum of 20.
@@ -464,7 +464,7 @@ Source:	Player's Handbook 2024 p. 204</text>
   <feat>
     <name>Fey-Touched (Charisma)</name>
     <prerequisite>Level 4+</prerequisite>
-    <text>Your exposure to the Feywild's magic grants you the following benefits.
+    <text>Your exposure to the Feywild&apos;s magic grants you the following benefits.
 
 Ability Score Increase:
 Increase your Charisma score by 1, to a maximum of 20.
@@ -1153,7 +1153,7 @@ Source:	Player's Handbook 2024 p. 207</text>
   <feat>
     <name>Shadow-Touched (Intelligence)</name>
     <prerequisite>Level 4+</prerequisite>
-    <text>Your exposure to the Shadowfell's magic grants you the following benefits.
+    <text>Your exposure to the Shadowfell&apos;s magic grants you the following benefits.
 
 Ability Score Increase:
 Increase your Intelligence score by 1, to a maximum of 20.
@@ -1167,7 +1167,7 @@ Source:	Player's Handbook 2024 p. 207</text>
   <feat>
     <name>Shadow-Touched (Wisdom)</name>
     <prerequisite>Level 4+</prerequisite>
-    <text>Your exposure to the Shadowfell's magic grants you the following benefits.
+    <text>Your exposure to the Shadowfell&apos;s magic grants you the following benefits.
 
 Ability Score Increase:
 Increase your Wisdom score by 1, to a maximum of 20.
@@ -1181,7 +1181,7 @@ Source:	Player's Handbook 2024 p. 207</text>
   <feat>
     <name>Shadow-Touched (Charisma)</name>
     <prerequisite>Level 4+</prerequisite>
-    <text>Your exposure to the Shadowfell's magic grants you the following benefits.
+    <text>Your exposure to the Shadowfell&apos;s magic grants you the following benefits.
 
 Ability Score Increase:
 Increase your Charisma score by 1, to a maximum of 20.

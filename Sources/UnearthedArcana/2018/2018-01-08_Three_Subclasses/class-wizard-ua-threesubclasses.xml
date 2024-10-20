@@ -44,7 +44,7 @@ Source:	Unearthed Arcana: Three Subclasses p. 2</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>School of Invention (UA): Reckless Casting</name>
-        <text>Starting at 2nd level, you can attempt to cast a spell you don't have prepared. When you use this ability, you use your action and choose one of the following options:
+        <text>Starting at 2nd level, you can attempt to cast a spell you don&apos;t have prepared. When you use this ability, you use your action and choose one of the following options:
 
 	• Roll on the Reckless Casting table for cantrips and cast the resulting spell as part of this action.
 
@@ -145,7 +145,7 @@ Source:	Unearthed Arcana: Three Subclasses p. 2</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>School of Invention (UA): Prodigious Inspiration</name>
-        <text>At 10th level, you have attained a greater mastery of spell preparation. As a bonus action, you can replace one spell you have prepared with another spell from your spellbook. You can't use this ability again until you finish a short or long rest.
+        <text>At 10th level, you have attained a greater mastery of spell preparation. As a bonus action, you can replace one spell you have prepared with another spell from your spellbook. You can&apos;t use this ability again until you finish a short or long rest.
 
 Source:	Unearthed Arcana: Three Subclasses p. 2</text>
       </feature>
@@ -263,7 +263,7 @@ Source:	Unearthed Arcana: Three Subclasses p. 2</text>
     <classes>Wizard (School of Invention)</classes>
   </spell>
   <spell>
-    <name>Melf's Acid Arrow</name>
+    <name>Melf&apos;s Acid Arrow</name>
     <classes>Wizard (School of Invention)</classes>
   </spell>
   <spell>
@@ -323,7 +323,7 @@ Source:	Unearthed Arcana: Three Subclasses p. 2</text>
     <classes>Wizard (School of Invention)</classes>
   </spell>
   <spell>
-    <name>Evard's Black Tentacles</name>
+    <name>Evard&apos;s Black Tentacles</name>
     <classes>Wizard (School of Invention)</classes>
   </spell>
   <spell>

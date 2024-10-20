@@ -36,11 +36,11 @@ d12 | Monster Type
     </trait>
     <trait>
       <name>Feature: A Little Off</name>
-      <text>You have a reputation for being a little odd, almost as if you're uncomfortable in your own skin and around people. Whenever you act in a way that is strange or taboo, but not intentionally offensive, dangerous, or against the law, people tend to ignore you. This lets you get away with strange behavior like showing up at parties you weren't invited to, pushing through a crowd to shake a noble's hand, eating food off of someone else's plate, or taking a nap in a public place. Most people brush you off as weird, but harmless.</text>
+      <text>You have a reputation for being a little odd, almost as if you're uncomfortable in your own skin and around people. Whenever you act in a way that is strange or taboo, but not intentionally offensive, dangerous, or against the law, people tend to ignore you. This lets you get away with strange behavior like showing up at parties you weren't invited to, pushing through a crowd to shake a noble&apos;s hand, eating food off of someone else&apos;s plate, or taking a nap in a public place. Most people brush you off as weird, but harmless.</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>As a person who was once something else, you are never truly at peace. You're not used to your new form or home and your old lair doesn't suit the new you. Former monsters are restless and many use their old bloodlust to defend those they would have once devoured from threats that are all too familiar. Even those who accept their new place know deep inside them is violence waiting for release.
+      <text>As a person who was once something else, you are never truly at peace. You&apos;re not used to your new form or home and your old lair doesn&apos;t suit the new you. Former monsters are restless and many use their old bloodlust to defend those they would have once devoured from threats that are all too familiar. Even those who accept their new place know deep inside them is violence waiting for release.
 
 d8 | Personality Trait
 1 | I only use my hands and not utensils when I eat.
@@ -151,7 +151,7 @@ d8 | Flaw
     <proficiency>Animal Handling, Nature</proficiency>
     <trait>
       <name>Description</name>
-      <text>You were what most common folk are - a farmer. You worked on a lord's estate, their land, or you worked for a company and you produced resources from the land in return for food, shelter, clothing, protection, and other benefits. Farmers focus on raising living things and harvesting various useful goods - mostly food - from the land. Farmers make up the vast majority of the peasantry, alongside other raw resource producers, such as miners and fishermen. Farmers are a hearty, enduring folk, they work long hours under the sun often doing dirty and exhausting or even disgusting work.
+      <text>You were what most common folk are - a farmer. You worked on a lord&apos;s estate, their land, or you worked for a company and you produced resources from the land in return for food, shelter, clothing, protection, and other benefits. Farmers focus on raising living things and harvesting various useful goods - mostly food - from the land. Farmers make up the vast majority of the peasantry, alongside other raw resource producers, such as miners and fishermen. Farmers are a hearty, enduring folk, they work long hours under the sun often doing dirty and exhausting or even disgusting work.
 
 How did you become a farmer, and for how long were you one? What did you do on your farm? Were you the landlord of the farm, or were you just a farmhand? And what caused you to leave that life behind? Was your home destroyed by war? Were you cast out for some crime? Did you flee taxes you could not pay? Were you called to join the Lord's army? Was your home stolen by an unscrupulous rival? How did you learn your current profession?
 
@@ -176,21 +176,21 @@ d6 | Farm
     </trait>
     <trait>
       <name>Feature: Of The land</name>
-      <text>You lack the formal education of the higher classes, but for how little you may know there is a great deal that you understand. You have a practical, working knowledge of astrology and meteorology, and can easily track the time and date as well as predict the weather within a few hours, or days if you're lucky. You understand the "secrets of life"; the needs of life (water, light, air, salt, etc.), the patterns of physical inheritance, and the connections between different plants and animals.
+      <text>You lack the formal education of the higher classes, but for how little you may know there is a great deal that you understand. You have a practical, working knowledge of astrology and meteorology, and can easily track the time and date as well as predict the weather within a few hours, or days if you&apos;re lucky. You understand the "secrets of life"; the needs of life (water, light, air, salt, etc.), the patterns of physical inheritance, and the connections between different plants and animals.
 
 At the DM's discretion, this can be represented by allowing a farmer to cast commune with nature once per long rest, except that the range is limited to environments common to you within 10 feet and you can only choose one of the first two choices.</text>
     </trait>
     <trait>
       <name>Variant Feature: Of The People</name>
-      <text>For better or for worse, you are just very normal. Among commoners and on the road, most people just don't notice you, and security checks at city gates or on the road are often brisk and half-hearted. People tend to trust that you're just another face in the crowd. However, whenever you are some place commoners should not be, or normally are not seen, you stand out like a sore thumb and draw a good deal of attention, one way or another. You are unlikely to be preceded by your reputation, if you even have one, and if you do, nobody expects you to be them.</text>
+      <text>For better or for worse, you are just very normal. Among commoners and on the road, most people just don&apos;t notice you, and security checks at city gates or on the road are often brisk and half-hearted. People tend to trust that you&apos;re just another face in the crowd. However, whenever you are some place commoners should not be, or normally are not seen, you stand out like a sore thumb and draw a good deal of attention, one way or another. You are unlikely to be preceded by your reputation, if you even have one, and if you do, nobody expects you to be them.</text>
     </trait>
     <trait>
       <name>Variant Farmer: Fieldhand</name>
-      <text>From working away endlessly in the fields all day, you've become a pretty sturdy individual who can endure quite a lot. Those that face you know they're in for a long and grueling fight.</text>
+      <text>From working away endlessly in the fields all day, you&apos;ve become a pretty sturdy individual who can endure quite a lot. Those that face you know they&apos;re in for a long and grueling fight.</text>
     </trait>
     <trait>
       <name>Variant Feature: Work Until You Drop</name>
-      <text>Now when most think about a Farmer, they don't exactly think of some complete badass going out to slay dragons, rescue consistently imperiled nobility, and save the day. More often than not they're simply seen as peasant; background individuals that aren't much of a threat. However, they can be a lot tougher than expected.
+      <text>Now when most think about a Farmer, they don't exactly think of some complete badass going out to slay dragons, rescue consistently imperiled nobility, and save the day. More often than not they&apos;re simply seen as peasant; background individuals that aren&apos;t much of a threat. However, they can be a lot tougher than expected.
 
 As a Farmer, you aren't made to deal massive amount of damage right away. However, what you excel at is delivering constant damage and wearing an opponent out over time. You're used to playing the waiting game, and fighting creatures is no different for you. Every encounter with you is an endurance match that others don't often succeed in, as you are made to withstand quite a good deal of damage and frequently hinder your enemies.
 
@@ -261,7 +261,7 @@ In your pursuit of a veteran palate you have tasted foods both fair and foul, an
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>Many things can influence a person's life long love affair with food. Maybe you were starving and lost and rescued by a traveling chef. Perhaps are inheriting your love from your grandparent who showed you tried and true recipes passed down the generations. You might even have been a beggar that dreamed of dining on the choice cuts of meat in decadent sauces that only the rich were privy to and decided to only dine on the best. Whatever the reason food is your passion!
+      <text>Many things can influence a person&apos;s life long love affair with food. Maybe you were starving and lost and rescued by a traveling chef. Perhaps are inheriting your love from your grandparent who showed you tried and true recipes passed down the generations. You might even have been a beggar that dreamed of dining on the choice cuts of meat in decadent sauces that only the rich were privy to and decided to only dine on the best. Whatever the reason food is your passion!
 
 d8 | Personality Trait
 1 | Cooking is like a dance and the kitchen is my dance floor.
@@ -316,14 +316,14 @@ You have made it your mission to taste and create only the finest and most expen
 Source:	DnDBeyond Unearthed Arcana (Homebrew)</text>
     </trait>
     <trait>
-      <name>Feature: Chef in Sheep's Clothing</name>
+      <name>Feature: Chef in Sheep&apos;s Clothing</name>
       <text>In situations involving the social, political, and economic elite you are able to gain entry by your reputation and bearing alone, and may even be hired to cook some of your famous dishes. Wealthy people will often go out of their way to try to convince you to cook for them, you have advantage on persuasion rolls against them.
 
 When dealing with other cooks you have an inspired an almost religious reverence for your techniques and cooking styles. Any persuasion or intimidation roll against cooks have advantage.</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>Many things can influence a person's life long love affair with food. Maybe you were starving and lost and rescued by a traveling chef. Perhaps are inheriting your love from your grandparent who showed you tried and true recipes passed down the generations. You might even have been a beggar that dreamed of dining on the choice cuts of meat in decadent sauces that only the rich were privy to and decided to only dine on the best. Whatever the reason food is your passion!
+      <text>Many things can influence a person&apos;s life long love affair with food. Maybe you were starving and lost and rescued by a traveling chef. Perhaps are inheriting your love from your grandparent who showed you tried and true recipes passed down the generations. You might even have been a beggar that dreamed of dining on the choice cuts of meat in decadent sauces that only the rich were privy to and decided to only dine on the best. Whatever the reason food is your passion!
 
 d8 | Personality Trait
 1 | Cooking is like a dance and the kitchen is my dance floor.
@@ -366,7 +366,7 @@ d6 | Flaw
     <proficiency>Persuasion, Sleight of Hand</proficiency>
     <trait>
       <name>Description</name>
-      <text>Nobles, politicians, criminals, the common man; hell, maybe even an orc or two. At some point in your life, you have been with all manner of society's finest and worst through your profession. Your profession, whether through freedom of choice, or a cruel twist of unfortunate events, is one that utilizes a very specific set of skills: the art of seduction. Though your circumstances may be unfortunate, you use them to your advantage. Whether it is using your body to persuade a client to change their mind on an issue, using your unique skill set to distract clients while you steal from right under their noses, or even playing the part of a cheap assassin.
+      <text>Nobles, politicians, criminals, the common man; hell, maybe even an orc or two. At some point in your life, you have been with all manner of society&apos;s finest and worst through your profession. Your profession, whether through freedom of choice, or a cruel twist of unfortunate events, is one that utilizes a very specific set of skills: the art of seduction. Though your circumstances may be unfortunate, you use them to your advantage. Whether it is using your body to persuade a client to change their mind on an issue, using your unique skill set to distract clients while you steal from right under their noses, or even playing the part of a cheap assassin.
 
 When making a character with this background ask yourself these question: What led your character to these circumstances? Was it a twisted and unfortunate fate? Or was it a vocation of choice? How much do you charge for your services? Are you self employed, or do you work under a pimp? Where do you work? Where is your place of work? These are the questions you must consider and consider wisely, for they will shape your character, in the beginning of their journey at least.
 
@@ -378,7 +378,7 @@ When making a character with this background ask yourself these question: What l
 Source:	DnDBeyond Unearthed Arcana (Homebrew)</text>
     </trait>
     <trait>
-      <name>Feature: Seducer's Wiles</name>
+      <name>Feature: Seducer&apos;s Wiles</name>
       <text>Your experiences with every creature have taught you how to use your tempting looks and inviting attitude to bring anyone of either gender in your embrace. You can call upon a creature  that can see and hear you, and gain its attention without it suspecting something (other than what you offer).</text>
     </trait>
     <trait>
@@ -391,11 +391,11 @@ Source:	DnDBeyond Unearthed Arcana (Homebrew)</text>
     </trait>
     <trait>
       <name>Variant Feature: Jaded</name>
-      <text>During your work, you've come across some truly twisted stuff, both people's actions and the people themselves. Some of which you experienced much more closely than you'd probably have preferred. As such, precious little truly shocks you anymore. You tend to remain relatively calm and rational through events and scenes that leave others sick to their stomach.</text>
+      <text>During your work, you've come across some truly twisted stuff, both people&apos;s actions and the people themselves. Some of which you experienced much more closely than you&apos;d probably have preferred. As such, precious little truly shocks you anymore. You tend to remain relatively calm and rational through events and scenes that leave others sick to their stomach.</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>When creating a Courtesan, think about how they feel about their situation. Do they enjoy their work? Do they hate it? Is there a reason they're doing it? This can be useful in deciding how your Courtesan will act.
+      <text>When creating a Courtesan, think about how they feel about their situation. Do they enjoy their work? Do they hate it? Is there a reason they&apos;re doing it? This can be useful in deciding how your Courtesan will act.
 
 d8 | Personality Trait
 1 | I am highly flamboyant; I like to exaggerate my movements and mannerisms.
@@ -439,7 +439,7 @@ d6 | Flaw
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>You are, or once were, a member of a cult — a religious splinter sect or a secret society of occult study. You might still be active within the cult, receiving orders from its secret masters. Or perhaps you've rejected its authority, and now the cult wants to bring you back into the fold... or silence you forever. In either case, you live at the crossroads of criminality and faith or arcane study.
+      <text>You are, or once were, a member of a cult — a religious splinter sect or a secret society of occult study. You might still be active within the cult, receiving orders from its secret masters. Or perhaps you&apos;ve rejected its authority, and now the cult wants to bring you back into the fold... or silence you forever. In either case, you live at the crossroads of criminality and faith or arcane study.
 
 Work with your DM to determine the nature of the cult's devotion. It might be a god, celestial, demon, devil, dragon, fey, or genie. It might be a cabal dedicated to arcane study, with an archmage or lich at its head. A cult without strictly enforced rules is soon stamped out by the forces of orthodoxy, however; no matter what your cult's nature, their dictates present challenges in the daily lives of adherents.
 
@@ -451,7 +451,7 @@ Source:	DnDBeyond Unearthed Arcana (Homebrew)</text>
     </trait>
     <trait>
       <name>Feature: Cult Network</name>
-      <text>You know the locations of your cult's safehouses, shrines, and sanctums in many settlements and wilderness areas. In such a network, you can find at least one loyal member of the cult, who can provide food and a safe place to rest for you and up to six people that you vouch for. Large cities always have a safehouse, while smaller settlements are 50% likely to have one. Remote wilderness areas have one safehouse in any 100-square-mile area. If you have left the cult, you can use the safehouse, drawing attention from the cult only 50% of the time.</text>
+      <text>You know the locations of your cult&apos;s safehouses, shrines, and sanctums in many settlements and wilderness areas. In such a network, you can find at least one loyal member of the cult, who can provide food and a safe place to rest for you and up to six people that you vouch for. Large cities always have a safehouse, while smaller settlements are 50% likely to have one. Remote wilderness areas have one safehouse in any 100-square-mile area. If you have left the cult, you can use the safehouse, drawing attention from the cult only 50% of the time.</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
@@ -499,7 +499,7 @@ d6 | Flaw
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>You are a member of a cult, either presently or formerly. You devoted long, strenuous days of your life towards whatever intangible, metaphysical force that guides your faith, but at last, that has changed. Perhaps your deity of choice reached out to you to give you a mission, perhaps you finally hung up the dark robes and ceremonial knife to start a new chapter in your life, whatever the case may be, you've decided to take what you've learned from your life as a worshiper of the ungodly, and embark on a new chapter of your life as an adventurer.
+      <text>You are a member of a cult, either presently or formerly. You devoted long, strenuous days of your life towards whatever intangible, metaphysical force that guides your faith, but at last, that has changed. Perhaps your deity of choice reached out to you to give you a mission, perhaps you finally hung up the dark robes and ceremonial knife to start a new chapter in your life, whatever the case may be, you&apos;ve decided to take what you&apos;ve learned from your life as a worshiper of the ungodly, and embark on a new chapter of your life as an adventurer.
 
 Talk with your DM to figure out the specifics of your cult of origin, to see if there are any other areas of play that might be influenced by your experience with dark rituals and the arcane.
 
@@ -511,8 +511,8 @@ Source:	DnDBeyond Unearthed Arcana Homebrew,
 		Player's Handbook p. 127</text>
     </trait>
     <trait>
-      <name>Feature: Shadow-Caller's Instinct</name>
-      <text>As a cultist, you have a connection to places of worship, and the rituals used to summon extraplanar beings. You have advantage when making an Arcana or Religion check to uncover the origins or purpose of an object relating to Demons, Devils, or Aberrations. Talk to your DM if you wish to swap out one of these creature types for one that more closely resembles your cult's theme.</text>
+      <name>Feature: Shadow-Caller&apos;s Instinct</name>
+      <text>As a cultist, you have a connection to places of worship, and the rituals used to summon extraplanar beings. You have advantage when making an Arcana or Religion check to uncover the origins or purpose of an object relating to Demons, Devils, or Aberrations. Talk to your DM if you wish to swap out one of these creature types for one that more closely resembles your cult&apos;s theme.</text>
     </trait>
     <trait>
       <name>Variant Feature: Void-Touched Charisma</name>
@@ -561,7 +561,7 @@ d6 | Flaw
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>You are familiar with wealth and status. You once carried a noble title, and your family still owns land, collects taxes, and wields significant political influence. Something in your past caused you to run from your family. Be it a banishment, voluntary exile to protect your family, or another reason, you no longer reap the rewards of your family's name. If your family still holds status and your relationship with them is still favorable, perhaps they send you gifts in hopes that you return safely. Alternatively, perhaps you were forced into exile and your family has stripped everything from you, including your name and rank.
+      <text>You are familiar with wealth and status. You once carried a noble title, and your family still owns land, collects taxes, and wields significant political influence. Something in your past caused you to run from your family. Be it a banishment, voluntary exile to protect your family, or another reason, you no longer reap the rewards of your family&apos;s name. If your family still holds status and your relationship with them is still favorable, perhaps they send you gifts in hopes that you return safely. Alternatively, perhaps you were forced into exile and your family has stripped everything from you, including your name and rank.
 
 Work with your DM to come up with an appropriate title and determine how much authority that title carries or carried. A noble title doesn't stand on its own—it's connected to an entire family, and whatever title you hold, you will pass it down to your own children. Not only do you need to determine your noble title, but you should also work with the DM to describe your family and their influence on you. Also work out the details of your reason for running away, and the impact that may have on your family, your house, your country, or even the world itself.
 

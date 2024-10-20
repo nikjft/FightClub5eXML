@@ -5,7 +5,7 @@
     <autolevel level="3">
       <feature optional="YES">
         <name>Fighting Style: Blind Fighting [2014]</name>
-        <text>You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
+        <text>You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn&apos;t behind total cover, even if you&apos;re blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
 
 Source:	Tasha's Cauldron of Everything p. 41</text>
         <special>fighting style blind fighting</special>
@@ -19,7 +19,7 @@ Source:	Tasha's Cauldron of Everything p. 41</text>
       </feature>
       <feature optional="YES">
         <name>Fighting Style: Superior Technique [2014]</name>
-        <text>You learn one maneuver of your choice from among those available to the fighter archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
+        <text>You learn one maneuver of your choice from among those available to the fighter archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver&apos;s effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
 
 You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
 
@@ -37,7 +37,7 @@ Source:	Tasha's Cauldron of Everything p. 41</text>
       </feature>
       <feature optional="YES">
         <name>Fighting Style: Unarmed Fighting [2014]</name>
-        <text>Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier on a hit. If you aren't wielding any weapons or a shield when you make the attack roll, the d6 becomes a d8.
+        <text>Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier on a hit. If you aren&apos;t wielding any weapons or a shield when you make the attack roll, the d6 becomes a d8.
 
 At the start of each of your turns, you can deal 1d4 bludgeoning damage to one creature grappled by you.
 
@@ -48,7 +48,7 @@ Source:	Tasha's Cauldron of Everything p. 41</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Fighting Style: Blind Fighting [2014]</name>
-        <text>You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
+        <text>You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn&apos;t behind total cover, even if you&apos;re blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
 
 Source:	Tasha's Cauldron of Everything p. 41</text>
         <special>fighting style blind fighting</special>
@@ -62,7 +62,7 @@ Source:	Tasha's Cauldron of Everything p. 41</text>
       </feature>
       <feature optional="YES">
         <name>Fighting Style: Superior Technique [2014]</name>
-        <text>You learn one maneuver of your choice from among those available to the fighter archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
+        <text>You learn one maneuver of your choice from among those available to the fighter archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver&apos;s effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
 
 You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
 
@@ -80,7 +80,7 @@ Source:	Tasha's Cauldron of Everything p. 41</text>
       </feature>
       <feature optional="YES">
         <name>Fighting Style: Unarmed Fighting [2014]</name>
-        <text>Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier on a hit. If you aren't wielding any weapons or a shield when you make the attack roll, the d6 becomes a d8.
+        <text>Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier on a hit. If you aren&apos;t wielding any weapons or a shield when you make the attack roll, the d6 becomes a d8.
 
 At the start of each of your turns, you can deal 1d4 bludgeoning damage to one creature grappled by you.
 
@@ -97,7 +97,7 @@ Source:	Tasha's Cauldron of Everything p. 41</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Martial Archetype: Rune Knight [2014]</name>
-        <text>Rune Knights enhance their martial prowess using the supernatural power of runes, an ancient practice that originated with giants. Rune cutters can be found among any family of giants, and you likely learned your methods first or second hand from such a mystical artisan. Whether you found the giant's work carved into a hill or cave, learned of the runes from a sage, or met the giant in person, you studied the giant's craft and learned how to apply magic runes to empower your equipment.
+        <text>Rune Knights enhance their martial prowess using the supernatural power of runes, an ancient practice that originated with giants. Rune cutters can be found among any family of giants, and you likely learned your methods first or second hand from such a mystical artisan. Whether you found the giant&apos;s work carved into a hill or cave, learned of the runes from a sage, or met the giant in person, you studied the giant&apos;s craft and learned how to apply magic runes to empower your equipment.
 
 Source:	Tasha's Cauldron of Everything p. 44</text>
       </feature>
@@ -106,7 +106,7 @@ Source:	Tasha's Cauldron of Everything p. 44</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Rune Knight: Bonus Proficiencies [2014]</name>
-        <text>You gain proficiency with smith's tools, and you learn to speak, read, and write Giant.
+        <text>You gain proficiency with smith&apos;s tools, and you learn to speak, read, and write Giant.
 
 Source:	Tasha's Cauldron of Everything p. 44</text>
       </feature>
@@ -114,7 +114,7 @@ Source:	Tasha's Cauldron of Everything p. 44</text>
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Rune Knight: Giant's Might [2014]</name>
+        <name>Rune Knight: Giant&apos;s Might [2014]</name>
         <text>You have learned how to imbue yourself with the might of giants. As a bonus action, you magically gain the following benefits, which last for 1 minute:
 
 	• If you are smaller than Large, you become Large, along with anything you are wearing. If you lack the room to become Large, your size doesn't change.
@@ -126,7 +126,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 Source:	Tasha's Cauldron of Everything p. 44</text>
       </feature>
       <counter>
-        <name>Giant's Might</name>
+        <name>Giant&apos;s Might</name>
         <value>2</value>
         <reset>L</reset>
       </counter>
@@ -184,7 +184,7 @@ Source:	Tasha's Cauldron of Everything p. 44</text>
 
     <autolevel level="5">
       <counter>
-        <name>Giant's Might</name>
+        <name>Giant&apos;s Might</name>
         <value>3</value>
         <reset>L</reset>
       </counter>
@@ -208,7 +208,7 @@ Source:	Tasha's Cauldron of Everything p. 44</text>
 
     <autolevel level="9">
       <counter>
-        <name>Giant's Might</name>
+        <name>Giant&apos;s Might</name>
         <value>4</value>
         <reset>L</reset>
       </counter>
@@ -232,7 +232,7 @@ Source:	Tasha's Cauldron of Everything p. 44</text>
 
     <autolevel level="13">
       <counter>
-        <name>Giant's Might</name>
+        <name>Giant&apos;s Might</name>
         <value>5</value>
         <reset>L</reset>
       </counter>
@@ -254,7 +254,7 @@ Source:	Tasha's Cauldron of Everything p. 44</text>
 
     <autolevel level="17">
       <counter>
-        <name>Giant's Might</name>
+        <name>Giant&apos;s Might</name>
         <value>6</value>
         <reset>L</reset>
       </counter>
@@ -268,7 +268,7 @@ Source:	Tasha's Cauldron of Everything p. 44</text>
     <autolevel level="18">
       <feature optional="YES">
         <name>Rune Knight: Runic Juggernaut [2014]</name>
-        <text>You learn how to amplify your rune-powered transformation. As a result, the extra damage you deal with the Giant's Might feature increases to 1d10. Moreover, when you use that feature, your size can increase to Huge, and while you are that size, your reach increases by 5 feet.
+        <text>You learn how to amplify your rune-powered transformation. As a result, the extra damage you deal with the Giant&apos;s Might feature increases to 1d10. Moreover, when you use that feature, your size can increase to Huge, and while you are that size, your reach increases by 5 feet.
 
 Source:	Tasha's Cauldron of Everything p. 44</text>
       </feature>

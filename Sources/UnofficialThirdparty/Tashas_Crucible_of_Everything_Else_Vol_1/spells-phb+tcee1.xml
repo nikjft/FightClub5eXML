@@ -46,7 +46,7 @@
     <classes>Cleric (Inquisition (HB))</classes>
   </spell>
   <spell>
-    <name>Hunter's Mark</name>
+    <name>Hunter&apos;s Mark</name>
     <classes>Cleric (Inquisition (HB))</classes>
   </spell>
   <spell>
@@ -152,7 +152,7 @@
     <classes>Cleric (Trade (HB))</classes>
   </spell>
   <spell>
-    <name>Leomund's Secret Chest</name>
+    <name>Leomund&apos;s Secret Chest</name>
     <classes>Cleric (Trade (HB))</classes>
   </spell>
   <spell>
@@ -303,7 +303,7 @@
     <classes>Warlock (Creeping Vine (HB))</classes>
   </spell>
   <spell>
-    <name>Evard's Black Tentacles</name>
+    <name>Evard&apos;s Black Tentacles</name>
     <classes>Warlock (Creeping Vine (HB))</classes>
   </spell>
   <spell>
@@ -357,7 +357,7 @@
     <classes>Warlock (Inevitable (HB))</classes>
   </spell>
   <spell>
-    <name>Otiluke's Resilient Sphere</name>
+    <name>Otiluke&apos;s Resilient Sphere</name>
     <classes>Warlock (Inevitable (HB))</classes>
   </spell>
   <spell>
@@ -444,7 +444,7 @@
     <classes>Bard</classes>
   </spell>
   <spell>
-    <name>Tenser's Transformation</name>
+    <name>Tenser&apos;s Transformation</name>
     <classes>Bard</classes>
   </spell>
   <spell>
@@ -490,15 +490,15 @@
     <classes>Druid</classes>
   </spell>
   <spell>
-    <name>Maximilian's Earthen Grasp</name>
+    <name>Maximilian&apos;s Earthen Grasp</name>
     <classes>Druid</classes>
   </spell>
   <spell>
-    <name>Snilloc's Snowball Swarm</name>
+    <name>Snilloc&apos;s Snowball Swarm</name>
     <classes>Druid</classes>
   </spell>
   <spell>
-    <name>Melf's Minute Meteors</name>
+    <name>Melf&apos;s Minute Meteors</name>
     <classes>Druid</classes>
   </spell>
   <spell>
@@ -526,7 +526,7 @@
     <classes>Druid</classes>
   </spell>
   <spell>
-    <name>Abi-Dalzim's Horrid Wilting</name>
+    <name>Abi-Dalzim&apos;s Horrid Wilting</name>
     <classes>Druid</classes>
   </spell>
   <spell>
@@ -617,7 +617,7 @@
     <classes>Sorcerer</classes>
   </spell>
   <spell>
-    <name>Tenser's Transformation</name>
+    <name>Tenser&apos;s Transformation</name>
     <classes>Sorcerer</classes>
   </spell>
   <spell>
@@ -658,7 +658,7 @@
     <classes>Warlock</classes>
   </spell>
   <spell>
-    <name>Abi-Dalzim's Horrid Wilting</name>
+    <name>Abi-Dalzim&apos;s Horrid Wilting</name>
     <classes>Warlock</classes>
   </spell-->
 

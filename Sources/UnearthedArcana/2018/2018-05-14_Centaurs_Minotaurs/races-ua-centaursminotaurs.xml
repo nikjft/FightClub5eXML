@@ -37,11 +37,11 @@ Weight in pounds = 600 + (2d12 × your size modifier)</text>
     </trait>
     <trait>
       <name>Charge</name>
-      <text>If you move at least 20 feet straight toward a target and then hit it with a melee weapon attack on the same turn, roll the weapon's damage dice twice and add them together. Once you use this ability, you can't use it again until you finish a short or long rest.</text>
+      <text>If you move at least 20 feet straight toward a target and then hit it with a melee weapon attack on the same turn, roll the weapon&apos;s damage dice twice and add them together. Once you use this ability, you can&apos;t use it again until you finish a short or long rest.</text>
     </trait>
     <trait>
       <name>Hooves</name>
-      <text>Your hooves are natural melee weapons, with which you're proficient. If you hit with a hoof, the target takes bludgeoning damage equal to 1d6 + your Strength modifier.</text>
+      <text>Your hooves are natural melee weapons, with which you&apos;re proficient. If you hit with a hoof, the target takes bludgeoning damage equal to 1d6 + your Strength modifier.</text>
     </trait>
     <trait>
       <name>Equine Build</name>
@@ -95,7 +95,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Horns</name>
-      <text>Your horns are natural melee weapons, with which you're proficient. When you hit with them, the target takes piercing damage equal to 1d6 + your Strength modifier.</text>
+      <text>Your horns are natural melee weapons, with which you&apos;re proficient. When you hit with them, the target takes piercing damage equal to 1d6 + your Strength modifier.</text>
     </trait>
     <trait>
       <name>Goring Rush</name>

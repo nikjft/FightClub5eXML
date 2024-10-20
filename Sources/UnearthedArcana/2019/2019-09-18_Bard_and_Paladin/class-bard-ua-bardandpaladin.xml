@@ -23,7 +23,7 @@ Source:	Unearthed Arcana: Bard And Paladin p. 1</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>College of Eloquence (UA): Universal Speech</name>
-        <text>You have gained the ability to speak and reason with any creature. As a bonus action, you can expend one of your uses of Bardic Inspiration. When you do so, roll your Bardic Inspiration die, and choose a number of creatures within 60 feet of you that you can see equal to the roll. For 10 minutes, the chosen creatures can magically understand you, regardless of the language you speak, and you have advantage on Charisma checks made to influence them. This feature works even on a creature that doesn't speak any languages.
+        <text>You have gained the ability to speak and reason with any creature. As a bonus action, you can expend one of your uses of Bardic Inspiration. When you do so, roll your Bardic Inspiration die, and choose a number of creatures within 60 feet of you that you can see equal to the roll. For 10 minutes, the chosen creatures can magically understand you, regardless of the language you speak, and you have advantage on Charisma checks made to influence them. This feature works even on a creature that doesn&apos;t speak any languages.
 
 Source:	Unearthed Arcana: Bard And Paladin p. 1</text>
       </feature>

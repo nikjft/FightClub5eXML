@@ -23,7 +23,7 @@ Source:	Humblewood Campaign Setting p. 36</text>
 Source:	Humblewood Campaign Setting p. 36</text>
       </feature>
       <feature optional="YES">
-        <name>The College of the Road: Wanderer's Lore</name>
+        <name>The College of the Road: Wanderer&apos;s Lore</name>
         <text>At 3rd level, you can share any useful tidbits of information you have come across in your travels to help others to see problems from a new angle. When a creature has a Bardic Inspiration die granted by you, they may make a single Arcana, History, Nature, or Religion check with advantage. The creature may choose whether or not to add the Bardic Inspiration die to this roll.
 
 Source:	Humblewood Campaign Setting p. 36</text>
@@ -32,21 +32,21 @@ Source:	Humblewood Campaign Setting p. 36</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>The College of the Road: Improved Tricks</name>
-        <text>At 6th and 14th levels, your Traveler's Tricks become stronger. By practicing the tricks you know, and encountering stronger adventurers who share their knowledge with you, your mastery over your tricks increases.
+        <text>At 6th and 14th levels, your Traveler&apos;s Tricks become stronger. By practicing the tricks you know, and encountering stronger adventurers who share their knowledge with you, your mastery over your tricks increases.
 
 Source:	Humblewood Campaign Setting p. 36</text>
       </feature>
       <feature optional="YES">
         <name>The College of the Road: Favorite Tricks</name>
-        <text>At 6th level, you have gained enough mastery over one of your Traveler's Tricks that you can use it whenever it's needed. You may choose one Traveler's Trick that you know and designate it as your favorite trick. If you roll initiative and have no uses of Bardic Inspiration remaining, you regain one use of it. Any Bardic Inspiration gained in this way can only be used to perform your favorite trick.
+        <text>At 6th level, you have gained enough mastery over one of your Traveler's Tricks that you can use it whenever it&apos;s needed. You may choose one Traveler&apos;s Trick that you know and designate it as your favorite trick. If you roll initiative and have no uses of Bardic Inspiration remaining, you regain one use of it. Any Bardic Inspiration gained in this way can only be used to perform your favorite trick.
 
 At 14th level you can select a second favorite trick from among Traveler's Tricks you know.
 
 Source:	Humblewood Campaign Setting p. 36</text>
       </feature>
       <feature optional="YES">
-        <name>The College of the Road: Traveler's Trick Options</name>
-        <text>The Traveler's Trick feature lets you choose options for it at certain levels. The options are presented here in alphabetical order. Each one is associated with a different class, and those marked with an asterisk (*) are magical effects.
+        <name>The College of the Road: Traveler&apos;s Trick Options</name>
+        <text>The Traveler&apos;s Trick feature lets you choose options for it at certain levels. The options are presented here in alphabetical order. Each one is associated with a different class, and those marked with an asterisk (*) are magical effects.
 
 Unlike traditional bard abilities which rely on skill or panache to be properly executed, the greatest asset for picking up tricks along the road is common sense and an openness to learning new ideas. Wisdom affects how powerful your traveler's tricks are, as well as how hard they are to counter. If an option requires a saving throw, your Traveler's Trick save DC equals 8 + your proficiency bonus + your Wisdom modifier.
 
@@ -133,13 +133,13 @@ Source:	Humblewood Campaign Setting p. 37</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>The College of the Road: Improved Tricks</name>
-        <text>At 6th and 14th levels, your Traveler's Tricks become stronger. By practicing the tricks you know, and encountering stronger adventurers who share their knowledge with you, your mastery over your tricks increases.
+        <text>At 6th and 14th levels, your Traveler&apos;s Tricks become stronger. By practicing the tricks you know, and encountering stronger adventurers who share their knowledge with you, your mastery over your tricks increases.
 
 Source:	Humblewood Campaign Setting p. 36</text>
       </feature>
       <feature optional="YES">
         <name>The College of the Road: Favorite Tricks</name>
-        <text>At 6th level, you have gained enough mastery over one of your Traveler's Tricks that you can use it whenever it's needed. You may choose one Traveler's Trick that you know and designate it as your favorite trick. If you roll initiative and have no uses of Bardic Inspiration remaining, you regain one use of it. Any Bardic Inspiration gained in this way can only be used to perform your favorite trick.
+        <text>At 6th level, you have gained enough mastery over one of your Traveler's Tricks that you can use it whenever it&apos;s needed. You may choose one Traveler&apos;s Trick that you know and designate it as your favorite trick. If you roll initiative and have no uses of Bardic Inspiration remaining, you regain one use of it. Any Bardic Inspiration gained in this way can only be used to perform your favorite trick.
 
 At 14th level you can select a second favorite trick from among Traveler's Tricks you know.
 

@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <spell>
     <name>Acid Splash [2014]</name>
@@ -65,7 +66,7 @@
     <classes>Ranger (Primal Awareness)</classes>
   </spell>
   <spell>
-    <name>Bigby's Hand [2014]</name>
+    <name>Bigby&apos;s Hand [2014]</name>
     <classes>Artificer, Warlock (Fathomless), Sorcerer</classes>
   </spell>
   <spell>
@@ -225,7 +226,7 @@
     <classes>Artificer, Bard, Druid</classes>
   </spell>
   <spell>
-    <name>Evard's Black Tentacles [2014]</name>
+    <name>Evard&apos;s Black Tentacles [2014]</name>
     <classes>Sorcerer (Aberrant Mind)</classes>
   </spell>
   <spell>
@@ -369,11 +370,11 @@
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Leomund's Secret Chest [2014]</name>
+    <name>Leomund&apos;s Secret Chest [2014]</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Leomund's Tiny Hut [2014]</name>
+    <name>Leomund&apos;s Tiny Hut [2014]</name>
     <classes>Cleric (Twilight)</classes>
   </spell>
   <spell>
@@ -429,7 +430,7 @@
     <classes>Warlock (Genie), Warlock (Genie Dao), Ranger</classes>
   </spell>
   <spell>
-    <name>Melf's Acid Arrow [2014]</name>
+    <name>Melf&apos;s Acid Arrow [2014]</name>
     <classes>Artificer (Alchemist)</classes>
   </spell>
   <spell>
@@ -457,11 +458,11 @@
     <classes>Cleric (Twilight), Paladin (Watchers)</classes>
   </spell>
   <spell>
-    <name>Mordenkainen's Faithful Hound [2014]</name>
+    <name>Mordenkainen&apos;s Faithful Hound [2014]</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Mordenkainen's Private Sanctum [2014]</name>
+    <name>Mordenkainen&apos;s Private Sanctum [2014]</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
@@ -469,7 +470,7 @@
     <classes>Paladin (Watchers)</classes>
   </spell>
   <spell>
-    <name>Otiluke's Resilient Sphere [2014]</name>
+    <name>Otiluke&apos;s Resilient Sphere [2014]</name>
     <classes>Artificer, Cleric (Peace)</classes>
   </spell>
   <spell>
@@ -517,7 +518,7 @@
     <classes>Artificer (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Rary's Telepathic Bond [2014]</name>
+    <name>Rary&apos;s Telepathic Bond [2014]</name>
     <classes>Cleric (Peace), Sorcerer (Aberrant Mind), Bard</classes>
   </spell>
   <spell>

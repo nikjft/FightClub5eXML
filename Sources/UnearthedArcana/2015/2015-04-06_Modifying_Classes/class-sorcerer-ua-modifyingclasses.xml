@@ -23,7 +23,7 @@ Source:	Unearthed Arcana: Modifying Classes p. 8</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Favored Soul (UA): Chosen of the Gods</name>
-        <text>At 1st level, you choose one of the cleric class's divine domains. You add that domain's spells for 1st-level clerics to your known spells. These spells do not count against the number of spells you can know, and they are considered to be sorcerer spells for you. When you reach 3rd, 5th, 7th, and 9th levels in the sorcerer class, you likewise learn your domain's spells that become available at those levels.
+        <text>At 1st level, you choose one of the cleric class's divine domains. You add that domain&apos;s spells for 1st-level clerics to your known spells. These spells do not count against the number of spells you can know, and they are considered to be sorcerer spells for you. When you reach 3rd, 5th, 7th, and 9th levels in the sorcerer class, you likewise learn your domain&apos;s spells that become available at those levels.
 
 Source:	Unearthed Arcana: Modifying Classes p. 8</text>
       </feature>
@@ -52,7 +52,7 @@ Source:	Unearthed Arcana: Modifying Classes p. 8</text>
     <autolevel level="18">
       <feature optional="YES">
         <name>Favored Soul (UA): Power of the Chosen</name>
-        <text>Starting at 18th level, when you cast one of the spells you learned from your Chosen of the Gods class feature, you regain hit points equal to your Charisma modifier (minimum of +1) + the spell's level.
+        <text>Starting at 18th level, when you cast one of the spells you learned from your Chosen of the Gods class feature, you regain hit points equal to your Charisma modifier (minimum of +1) + the spell&apos;s level.
 
 Source:	Unearthed Arcana: Modifying Classes p. 8</text>
       </feature>

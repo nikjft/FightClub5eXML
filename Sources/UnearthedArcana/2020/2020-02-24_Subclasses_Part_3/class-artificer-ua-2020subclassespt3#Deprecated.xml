@@ -5,7 +5,7 @@
     <autolevel level="3">
       <feature optional="YES">
         <name>Artificer Specialist: Armorer (UA)</name>
-        <text>An artificer who specializes as an Armorer modifies armor to function almost like a second skin. The armor is enhanced to hone the artificer's magic, unleash potent attacks, and generate a formidable defense. The artificer bonds with this armor, becoming one with it even as they experiment with it and refine its magical capabilities.
+        <text>An artificer who specializes as an Armorer modifies armor to function almost like a second skin. The armor is enhanced to hone the artificer&apos;s magic, unleash potent attacks, and generate a formidable defense. The artificer bonds with this armor, becoming one with it even as they experiment with it and refine its magical capabilities.
 
 Source:	Unearthed Arcana: 2020 Subclasses Pt3 p. 1</text>
       </feature>
@@ -48,7 +48,7 @@ Source:	Unearthed Arcana: 2020 Subclasses Pt3 p. 1</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Armorer (UA): Armorer Spells</name>
-        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Armorer Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
+        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Armorer Spells table. These spells count as artificer spells for you, but they don&apos;t count against the number of artificer spells you prepare.
 
 Armorer Spells:
 Artificer Level | Spell
@@ -84,7 +84,7 @@ Source:	Unearthed Arcana: 2020 Subclasses Pt3 p. 1</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Armorer (UA): Tools of the Trade</name>
-        <text>You gain proficiency with heavy armor. You also gain proficiency with smith's tools. If you already have this tool proficiency, you gain proficiency with one other type of artisan's tools of your choice.
+        <text>You gain proficiency with heavy armor. You also gain proficiency with smith&apos;s tools. If you already have this tool proficiency, you gain proficiency with one other type of artisan&apos;s tools of your choice.
 
 Source:	Unearthed Arcana: 2020 Subclasses Pt3 p. 1</text>
       </feature>

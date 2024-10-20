@@ -217,7 +217,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 44 (Homebrew)</text>
     <range/>
     <components>(2 Sorcery Points)</components>
     <classes>Sling</classes>
-    <text>When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's entire force. To do so, you spend 2 sorcery points and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw, and takes no damage if it would normally take half damage on a successful save.
+    <text>When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell&apos;s entire force. To do so, you spend 2 sorcery points and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw, and takes no damage if it would normally take half damage on a successful save.
 
 If you know the Careful Spell Metamagic option when you take this Sling, you can replace that option with a different Metamagic option. You cannot replace it with a Sling.
 
@@ -453,7 +453,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 10 (Homebrew)</text>
     <components/>
     <duration/>
     <classes>Alchemical Formulae</classes>
-    <text>During a rage infused with this formula, you may release a deafening howl of your alchemically enhanced fury as an action. Each creature in a 15-foot cone originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d6 thunder damage, is deafened for 1 minute, and pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't deafened or pushed.
+    <text>During a rage infused with this formula, you may release a deafening howl of your alchemically enhanced fury as an action. Each creature in a 15-foot cone originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d6 thunder damage, is deafened for 1 minute, and pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn&apos;t deafened or pushed.
 
 This damage increases by 1d6 when you reach 6th level (3d6), 9th level (4d6), 12th level (5d6), 15th level (6d6), and 18th level (7d6) in this class.
 
@@ -533,7 +533,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 29 (Homebrew)</text>
     <components>V, S, M (2 ki points)</components>
     <duration>Instantaneous</duration>
     <classes>Monk (Way of the Four Elements Remastered)</classes>
-    <text>You can create a blast of compressed air that strikes like a mighty fist. As an action, you can spend 2 ki points and choose a creature within 30 feet of you. That creature must make a Strength saving throw. On a failed save, the creature takes 3d10 thunder damage, plus an extra 1d10 thunder damage for each additional ki point you spend, and you can push the creature up to 20 feet away from you and knock it prone. On a successful save, the creature takes half as much damage and you don't push it or knock it prone.
+    <text>You can create a blast of compressed air that strikes like a mighty fist. As an action, you can spend 2 ki points and choose a creature within 30 feet of you. That creature must make a Strength saving throw. On a failed save, the creature takes 3d10 thunder damage, plus an extra 1d10 thunder damage for each additional ki point you spend, and you can push the creature up to 20 feet away from you and knock it prone. On a successful save, the creature takes half as much damage and you don&apos;t push it or knock it prone.
 
 Prone:
 	• A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.
@@ -594,7 +594,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 29 (Homebrew)</text>
     <components>(1 ki point)</components>
     <duration>Instantaneous</duration>
     <classes>Monk (Way of the Four Elements Remastered)</classes>
-    <text>As an action, you can spend 1 ki point to choose an area of ice or water no larger than 30 feet on a side within 120 feet of you. You can change water to ice within the area and vice versa, and you can reshape ice in the area in any manner you choose. You can raise or lower the ice's elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can't exceed half the area's largest dimension. For example, if you affect a 30-foot square, you can create a pillar up to 15 feet high, raise or lower the square's elevation by up to 15 feet, dig a trench up to 15 feet deep, and so on. You can't shape the ice to trap or injure a creature in the area.
+    <text>As an action, you can spend 1 ki point to choose an area of ice or water no larger than 30 feet on a side within 120 feet of you. You can change water to ice within the area and vice versa, and you can reshape ice in the area in any manner you choose. You can raise or lower the ice's elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can't exceed half the area's largest dimension. For example, if you affect a 30-foot square, you can create a pillar up to 15 feet high, raise or lower the square&apos;s elevation by up to 15 feet, dig a trench up to 15 feet deep, and so on. You can&apos;t shape the ice to trap or injure a creature in the area.
 
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 29 (Homebrew)</text>
   </spell-->
@@ -662,7 +662,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 29 (Homebrew)</text>
     <components>(2 ki points)</components>
     <duration>Instantaneous</duration>
     <classes>Monk (Way of the Four Elements Remastered)</classes>
-    <text>You can spend 2 ki points as an action to create a whip of water that shoves and pulls a creature to unbalance it. A creature that you can see that is within 30 feet of you must make a Dexterity saving throw. On a failed save, the creature takes 3d10 bludgeoning damage, plus an extra 1d10 bludgeoning damage for each additional ki point you spend, and you can either knock it prone or pull it up to 25 feet closer to you. On a successful save, the creature takes half as much damage, and you don't pull it or knock it prone.
+    <text>You can spend 2 ki points as an action to create a whip of water that shoves and pulls a creature to unbalance it. A creature that you can see that is within 30 feet of you must make a Dexterity saving throw. On a failed save, the creature takes 3d10 bludgeoning damage, plus an extra 1d10 bludgeoning damage for each additional ki point you spend, and you can either knock it prone or pull it up to 25 feet closer to you. On a successful save, the creature takes half as much damage, and you don&apos;t pull it or knock it prone.
 
 Prone:
 	• A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.

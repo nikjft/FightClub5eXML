@@ -335,7 +335,7 @@ The hobgoblin sprays acid in a 10-foot cone. Each creature in the area must make
     <save/>
     <skill/>
     <passive>9</passive>
-    <languages>understands all languages it spoke in life but can't speak</languages>
+    <languages>understands all languages it spoke in life but can&apos;t speak</languages>
     <cr>1/4</cr>
     <resist/>
     <immune>poison</immune>
@@ -374,7 +374,7 @@ Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) 
     <save/>
     <skill>Perception +8</skill>
     <passive>18</passive>
-    <languages>understands Draconic but can't speak</languages>
+    <languages>understands Draconic but can&apos;t speak</languages>
     <cr>6</cr>
     <resist/>
     <immune/>
@@ -785,7 +785,7 @@ A rogue modron loses the Axiomatic Mind trait and can have any alignment other t
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands Common but can't speak</languages>
+    <languages>understands Common but can&apos;t speak</languages>
     <cr>0</cr>
     <resist/>
     <immune>poison</immune>

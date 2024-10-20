@@ -67,7 +67,7 @@ Source:	Player's Handbook 2024 p. 119</text>
     <autolevel level="1">
       <feature>
         <name>Spellcasting</name>
-        <text>You have learned to channel the magical essence of nature to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Ranger spells. which appear in the Ranger spell list later in the class's description.
+        <text>You have learned to channel the magical essence of nature to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Ranger spells. which appear in the Ranger spell list later in the class&apos;s description.
 
 Spell Slots:
 The Ranger Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
@@ -109,7 +109,7 @@ Source:	Player's Handbook 2024 p. 119</text>
     <autolevel level="1">
       <feature>
         <name>Favored Enemy</name>
-        <text>You always have the Hunter's Mark spell prepared. You can cast it twice without expending a spell slot. and you regain all expended uses of this ability when you finish a Long Rest.
+        <text>You always have the Hunter&apos;s Mark spell prepared. You can cast it twice without expending a spell slot. and you regain all expended uses of this ability when you finish a Long Rest.
 
 The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favored Enemy column of the Ranger Features table.
 
@@ -163,7 +163,7 @@ Source:	Player's Handbook 2024 p. 120</text>
     <autolevel level="3">
       <feature>
         <name>Ranger Subclass</name>
-        <text>You gain a Ranger subclass of your choice. The Beast Master, Fey Wanderer, Gloom Stalker, and Hunter subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass's features that are of your Ranger level or lower.
+        <text>You gain a Ranger subclass of your choice. The Beast Master, Fey Wanderer, Gloom Stalker, and Hunter subclasses are detailed after this class&apos;s description. A subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass&apos;s features that are of your Ranger level or lower.
 
 Source:	Player's Handbook 2024 p. 120</text>
       </feature>
@@ -195,7 +195,7 @@ Source:	Player's Handbook 2024 p. 120</text>
     <autolevel level="6">
       <feature>
         <name>Roving</name>
-        <text>Your Speed increases by 10 feet while you aren't wearing Heavy armor. You also have a Climb Speed and a Swim Speed equal to your Speed.
+        <text>Your Speed increases by 10 feet while you aren&apos;t wearing Heavy armor. You also have a Climb Speed and a Swim Speed equal to your Speed.
 
 Source:	Player's Handbook 2024 p. 121</text>
         <modifier category="bonus">speed +10</modifier>
@@ -252,7 +252,7 @@ Source:	Player's Handbook 2024 p. 120</text>
     <autolevel level="13">
       <feature>
         <name>Relentless Hunter</name>
-        <text>Taking damage can't break your Concentration on Hunter's Mark.
+        <text>Taking damage can&apos;t break your Concentration on Hunter&apos;s Mark.
 
 Source:	Player's Handbook 2024 p. 121</text>
       </feature>
@@ -265,7 +265,7 @@ Source:	Player's Handbook 2024 p. 121</text>
 
     <autolevel level="14">
       <feature>
-        <name>Nature's Veil</name>
+        <name>Nature&apos;s Veil</name>
         <text>You invoke spirits of nature to magically hide yourself. As a Bonus Action, you can give yourself the Invisible condition until the end of your next turn.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain a ll expended uses when you finish a Long Rest.
@@ -286,7 +286,7 @@ Source:	Player's Handbook 2024 p. 120</text>
     <autolevel level="17">
       <feature>
         <name>Precise Hunter</name>
-        <text>You have Advantage on attack rolls against the creature currently marked by your Hunter's Mark.
+        <text>You have Advantage on attack rolls against the creature currently marked by your Hunter&apos;s Mark.
 
 Source:	Player's Handbook 2024 p. 121</text>
       </feature>
@@ -318,7 +318,7 @@ Source:	Player's Handbook 2024 p. 121</text>
     <autolevel level="20">
       <feature>
         <name>Foe Slayer</name>
-        <text>The damage die of your Hunter's Mark is a d10 rather than a d6.
+        <text>The damage die of your Hunter&apos;s Mark is a d10 rather than a d6.
 
 Source:	Player's Handbook 2024 p. 121</text>
       </feature>
@@ -367,7 +367,7 @@ Source:	Player's Handbook 2024 p. 123</text>
     <autolevel level="11">
       <feature optional="YES">
         <name>Beast Master: Bestial Fury</name>
-        <text>When you command your Primal Companion beast to take the Beast's Strike action, the beast can use it twice.
+        <text>When you command your Primal Companion beast to take the Beast&apos;s Strike action, the beast can use it twice.
 
 In addition, the first time each turn it hits a creature under the effect of your Hunter's Mark spell, the beast deals extra Force damage equal to the bonus damage of that spell.
 
@@ -543,7 +543,7 @@ Source:	Player's Handbook 2024 p. 126</text>
 
     <autolevel level="11">
       <feature optional="YES">
-        <name>Gloom Stalker: Stalker's Flurry</name>
+        <name>Gloom Stalker: Stalker&apos;s Flurry</name>
         <text>The Psychic damage of your Dreadful Strike becomes 2d8. In addition, when you use the Dreadful Strike effect of your Dread Ambusher feature, you can cause one of the following additional effects.
 
 Sudden Strike:
@@ -577,8 +577,8 @@ Source:	Player's Handbook 2024 p. 127</text>
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Hunter: Hunter's Lore</name>
-        <text>You can call on the forces of nature to reveal certain strengths and weaknesses of your prey. While a creature is marked by your Hunter's Mark, you know whether that creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are.
+        <name>Hunter: Hunter&apos;s Lore</name>
+        <text>You can call on the forces of nature to reveal certain strengths and weaknesses of your prey. While a creature is marked by your Hunter&apos;s Mark, you know whether that creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are.
 
 Source:	Player's Handbook 2024 p. 127</text>
       </feature>
@@ -586,7 +586,7 @@ Source:	Player's Handbook 2024 p. 127</text>
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Hunter: Hunter's Prey</name>
+        <name>Hunter: Hunter&apos;s Prey</name>
         <text>You gain one of the following feature options of your choice. Whenever you finish a Short or Long Rest, you can replace the chosen option with the other one.
 
 Colossus Slayer:
@@ -616,8 +616,8 @@ Source:	Player's Handbook 2024 p. 127</text>
 
     <autolevel level="11">
       <feature optional="YES">
-        <name>Hunter: Superior Hunter's Prey</name>
-        <text>Once per turn when you deal damage to a creature marked by your Hunter's Mark, you can also deal that spell's extra damage to a different creature that you can see within 30 feet of the first creature.
+        <name>Hunter: Superior Hunter&apos;s Prey</name>
+        <text>Once per turn when you deal damage to a creature marked by your Hunter&apos;s Mark, you can also deal that spell&apos;s extra damage to a different creature that you can see within 30 feet of the first creature.
 
 Source:	Player's Handbook 2024 p. 127</text>
       </feature>
@@ -625,7 +625,7 @@ Source:	Player's Handbook 2024 p. 127</text>
 
     <autolevel level="15">
       <feature optional="YES">
-        <name>Hunter: Superior Hunter's Defense</name>
+        <name>Hunter: Superior Hunter&apos;s Defense</name>
         <text>When you take damage, you can take a Reaction to give yourself Resistance to that damage and any other damage of the same type until the end of the current turn.
 
 Source:	Player's Handbook 2024 p. 127</text>

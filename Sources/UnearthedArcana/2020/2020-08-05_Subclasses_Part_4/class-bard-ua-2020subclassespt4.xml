@@ -14,7 +14,7 @@ Source:	Unearthed Arcana: 2020 Subclasses Pt4 p. 1</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>College of Spirits (UA): Guiding Whispers</name>
-        <text>You can reach out to spirits to guide you and others. You learn the guidance cantrip, which doesn't count against the number of bard cantrips you know. For you, it has a range of 60 feet when you cast it.
+        <text>You can reach out to spirits to guide you and others. You learn the guidance cantrip, which doesn&apos;t count against the number of bard cantrips you know. For you, it has a range of 60 feet when you cast it.
 
 Source:	Unearthed Arcana: 2020 Subclasses Pt4 p. 1</text>
       </feature>
@@ -34,7 +34,7 @@ Source:	Unearthed Arcana: 2020 Subclasses Pt4 p. 1</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>College of Spirits (UA): Tales from Beyond</name>
-        <text>You reach out to spirits who tell their tales through you. While you are holding your Spiritual Focus, you can use a bonus action to expend one use of your Bardic Inspiration and roll on the Spirits' Tales table using your Bardic Inspiration die to determine the tale told. You retain the tale in mind until you bestow the tale's effect or you finish a short or long rest.
+        <text>You reach out to spirits who tell their tales through you. While you are holding your Spiritual Focus, you can use a bonus action to expend one use of your Bardic Inspiration and roll on the Spirits&apos; Tales table using your Bardic Inspiration die to determine the tale told. You retain the tale in mind until you bestow the tale&apos;s effect or you finish a short or long rest.
 
 You can use an action to choose one creature you can see within 30 feet of you (this can be you) to be the target of the tale's effect. Once you do so, you can't bestow the tale's effect again until you roll it again.
 
@@ -84,7 +84,7 @@ Source:	Unearthed Arcana: 2020 Subclasses Pt4 p. 1</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>College of Spirits (UA): Mystical Connection</name>
-        <text>Your connection to spirits has become semi-permanent. Whenever you use your Tales from Beyond feature, you can roll a d6 and use it instead of expending a Bardic Inspiration die. You still use your Bardic Inspiration die for the tale's effect, without expending it.
+        <text>Your connection to spirits has become semi-permanent. Whenever you use your Tales from Beyond feature, you can roll a d6 and use it instead of expending a Bardic Inspiration die. You still use your Bardic Inspiration die for the tale&apos;s effect, without expending it.
 
 Source:	Unearthed Arcana: 2020 Subclasses Pt4 p. 1</text>
       </feature>

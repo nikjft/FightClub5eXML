@@ -5,7 +5,7 @@
     <proficiency>Deception, Insight</proficiency>
     <trait>
       <name>Description</name>
-      <text>You are an informant for the Tears of Virulence who now lord over Phlan, but are also a double agent for original town guard of Phlan, the Black Fists. For the Tears you've been tasked with ferreting out the secrets of Phlan's criminal underworld, insurgency, and the common peoples of Phlan. In exchange for reporting on the activities of dissenters, criminals, and other rebel elements, the Tears of Virulence leave you alone to conduct your affairs in peace.
+      <text>You are an informant for the Tears of Virulence who now lord over Phlan, but are also a double agent for original town guard of Phlan, the Black Fists. For the Tears you&apos;ve been tasked with ferreting out the secrets of Phlan&apos;s criminal underworld, insurgency, and the common peoples of Phlan. In exchange for reporting on the activities of dissenters, criminals, and other rebel elements, the Tears of Virulence leave you alone to conduct your affairs in peace.
 
 In reality you work for the deposed Black Fists, sharing misinformation with the Tears of Virulence that often helps the Black Fists and other Phlan insurgents.
 
@@ -160,7 +160,7 @@ d6 | Flaw
     <proficiency>Animal Handling, Stealth</proficiency>
     <trait>
       <name>Description</name>
-      <text>The Iron Route, once the primary trade route between Phlan and Zhentil Keep, used to be a site of extensive banditry until the Phlan's recent occupation. Your time as an erstwhile bandit has given you plenty of experience in the saddle and a knack for acquiring and appraising other people's mounts, pets, and vehicles among other things. This particular set of skills has become very lucrative for you by working for the underground as a horse thief for a local guild of thieves and other shadowy organizations.
+      <text>The Iron Route, once the primary trade route between Phlan and Zhentil Keep, used to be a site of extensive banditry until the Phlan&apos;s recent occupation. Your time as an erstwhile bandit has given you plenty of experience in the saddle and a knack for acquiring and appraising other people&apos;s mounts, pets, and vehicles among other things. This particular set of skills has become very lucrative for you by working for the underground as a horse thief for a local guild of thieves and other shadowy organizations.
 
 	• Skill Proficiencies: Animal Handling, Stealth
 	• Tool Proficiencies: One type of gaming set, vehicles (land)
@@ -216,7 +216,7 @@ d6 | Flaw
     <proficiency>Stealth, Survival</proficiency>
     <trait>
       <name>Description</name>
-      <text>The taking of Phlan by Vorgansharax is a clear memory in your mind. You were going about your everyday business when the green dragon's forces spilled out of the sewers and assailed your home. Many of Phlan's citizens, young and old alike, were captured, killed, or offered as tribute to the Maimed Virulence. You, yourself were one of those captured. But, either with the help of adventurers or through your own wits and sheer determination, you escaped.
+      <text>The taking of Phlan by Vorgansharax is a clear memory in your mind. You were going about your everyday business when the green dragon&apos;s forces spilled out of the sewers and assailed your home. Many of Phlan&apos;s citizens, young and old alike, were captured, killed, or offered as tribute to the Maimed Virulence. You, yourself were one of those captured. But, either with the help of adventurers or through your own wits and sheer determination, you escaped.
 
 Rather than flee the region, you've chosen to stay and fight. Finding refuge outside the town and the deadly thicket surrounding it, you strike out against the Tears of the Virulence and their monstrous allies. You've learned to survive in dire and desperate circumstances, with supplies running low and the arrival of reinforcements uncertain. You've grown accustomed to acting under the cover of night, dealing what blows you can to avenge the friends and family you lost within the currently occupied Phlan. You will drive Vorgansharax out, or you die trying.
 
@@ -230,7 +230,7 @@ Source:	Curse of Strahd: Optional Backgrounds p. 6</text>
     </trait>
     <trait>
       <name>Origin</name>
-      <text>Removed from your life as a townsperson, you've adapted to rough life in the wilds surrounding Phlan. The trade you practiced still influences your outlook, the manner in which you approach situations, and the way you contribute to the resistance movement against the Maimed Virulence. You can roll on the following table to determine what your occupation was before the fall, or choose one that best fits your character (select from either the general column or the specific column, but not both).
+      <text>Removed from your life as a townsperson, you&apos;ve adapted to rough life in the wilds surrounding Phlan. The trade you practiced still influences your outlook, the manner in which you approach situations, and the way you contribute to the resistance movement against the Maimed Virulence. You can roll on the following table to determine what your occupation was before the fall, or choose one that best fits your character (select from either the general column or the specific column, but not both).
 
 Origin:
 d8 | Origin (General) | Origin (Specific)
@@ -245,11 +245,11 @@ d8 | Origin (General) | Origin (Specific)
     </trait>
     <trait>
       <name>Feature: Guerilla</name>
-      <text>You've come to know the surrounding forests, streams, caves, and other natural features in which you can take refuge - or set up ambushes. You can quickly survey your environment for advantageous features. Additionally, you can scavenge around your natural surroundings to cobble together simple supplies (such as improvised torches, rope, patches of fabric, etc.) that are consumed after use. [Note: This feature is a variant of the Outlander feature.]</text>
+      <text>You&apos;ve come to know the surrounding forests, streams, caves, and other natural features in which you can take refuge - or set up ambushes. You can quickly survey your environment for advantageous features. Additionally, you can scavenge around your natural surroundings to cobble together simple supplies (such as improvised torches, rope, patches of fabric, etc.) that are consumed after use. [Note: This feature is a variant of the Outlander feature.]</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>You have given up the life you knew as a citizen of Phlan. However, the Maimed Virulence's invasion resonates deep inside you. Perhaps you have a few friends or family members who were able to escape with you. Or, perhaps, everyone you held dear either perished or went missing during the fall. You may know of someone who is, against all odds, surviving within the thicket and you long to liberate them from a life of peril within the town.
+      <text>You have given up the life you knew as a citizen of Phlan. However, the Maimed Virulence&apos;s invasion resonates deep inside you. Perhaps you have a few friends or family members who were able to escape with you. Or, perhaps, everyone you held dear either perished or went missing during the fall. You may know of someone who is, against all odds, surviving within the thicket and you long to liberate them from a life of peril within the town.
 
 d8 | Personality Trait
 1 | My patience knows no bounds, so long as my goal is in sight.
@@ -351,7 +351,7 @@ d6 | Flaw
     <proficiency>Animal Handling, Nature</proficiency>
     <trait>
       <name>Description</name>
-      <text>You were born into a nomadic tribe that called the Ticklebelly Hills home. You migrated from location to location, living off the land with your tribe. The tribe would seasonally travel south into the Grass Sea and the Giant's Cairn, north into the Dragonspine Mountains, and even occasionally east across the Stojanow River to the borders of the Quivering forest.
+      <text>You were born into a nomadic tribe that called the Ticklebelly Hills home. You migrated from location to location, living off the land with your tribe. The tribe would seasonally travel south into the Grass Sea and the Giant&apos;s Cairn, north into the Dragonspine Mountains, and even occasionally east across the Stojanow River to the borders of the Quivering forest.
 
 In your migrations, your people have come to know the stone giant tribes that populate the Giant's Cairn. The dragon cultists came to the hills one day — magic-users wearing purple and riding horrid beasts, black-clad warriors wearing wicked masks, and even soldiers from the nearby town of Phlan. Then the dragon called Vorgansharax arrived and laired in the hills, causing horrid thickets to grow and animals to act unusually. The cultists began raiding nomad camps for victims to offer to the wyrm. Eventually, the dragon moved on to attack Phlan, but life was never again the same for the nomads of the Ticklebelly Hills.
 
@@ -366,11 +366,11 @@ Source:	Curse of Strahd: Optional Backgrounds p. 9</text>
     </trait>
     <trait>
       <name>Feature: At Home in the Wild</name>
-      <text>The wilderness is your home and you are comfortable dwelling in it. You can find a place to hide, rest, or recuperate when out in the wild. This place of rest is secure enough to conceal you from most natural threats. Threats that are supernatural, magical, or are actively seeking you out might do so with difficulty depending on the nature of the threat (as determined by the DM). However, this feature doesn't shield or conceal you from scrying, mental probing, nor from threats that don't necessarily require the five senses to find you. [Note: This feature is a variant of the Folk Hero feature.]</text>
+      <text>The wilderness is your home and you are comfortable dwelling in it. You can find a place to hide, rest, or recuperate when out in the wild. This place of rest is secure enough to conceal you from most natural threats. Threats that are supernatural, magical, or are actively seeking you out might do so with difficulty depending on the nature of the threat (as determined by the DM). However, this feature doesn&apos;t shield or conceal you from scrying, mental probing, nor from threats that don&apos;t necessarily require the five senses to find you. [Note: This feature is a variant of the Folk Hero feature.]</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>Ticklebelly nomads only venture into civilization when necessary. You are social within your tribe, with tribes of other nomads, and even with the stone giant tribes that populate the Giant's Cairn. However, other communities tend to either put you on your guard or put you in a state of wonder. Was it this wonder that enticed you into a life of adventuring? On the other hand, you are fiercely protective of and dedicated to your tribe. Perhaps it was this dedication that led you to venture out; either of your own will or at the behest of your tribe's leaders.
+      <text>Ticklebelly nomads only venture into civilization when necessary. You are social within your tribe, with tribes of other nomads, and even with the stone giant tribes that populate the Giant&apos;s Cairn. However, other communities tend to either put you on your guard or put you in a state of wonder. Was it this wonder that enticed you into a life of adventuring? On the other hand, you are fiercely protective of and dedicated to your tribe. Perhaps it was this dedication that led you to venture out; either of your own will or at the behest of your tribe&apos;s leaders.
 
 d8 | Personality Trait
 1 | I eagerly inject myself into the unknown.

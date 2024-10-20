@@ -108,7 +108,7 @@ Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60 ft., one ta
 Ranged Weapon Attack: +2 to hit, range 30/120 ft., one target. Hit: 2 (1d4) bludgeoning damage.</text>
       <attack>Sling|+2|1d4</attack>
     </action>
-    <description>Adventurers who undertake the Mountain's Toe Quest meet Don-Jon Raskin, a fearless troubleshooter who has experienced more than his fair share of adventures.
+    <description>Adventurers who undertake the Mountain&apos;s Toe Quest meet Don-Jon Raskin, a fearless troubleshooter who has experienced more than his fair share of adventures.
 
 Source:	Essentials Kit: Dragon of Icespire Peak p. 56</description>
     <environment/>
@@ -223,7 +223,7 @@ Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) blud
 Gorthok shoots a bolt of lightning at one creature it can see within 120 feet of it. The target must make a DC 15 Dexterity saving throw, taking 18 (4d8) lightning damage on a failed save, or half as much damage on a successful one.</text>
       <attack>Lightning Bolt||4d8</attack>
     </action>
-    <description>Gorthok is a primal nature spirit that takes the form of a boar as big as an elephant, with lightning that dances along its tusks. Gorthok serves the will of Talos, god of storms, and can be summoned during stormy weather to do the bidding of Talos's evil followers. Like its patron deity, Gorthok revels in destruction.
+    <description>Gorthok is a primal nature spirit that takes the form of a boar as big as an elephant, with lightning that dances along its tusks. Gorthok serves the will of Talos, god of storms, and can be summoned during stormy weather to do the bidding of Talos&apos;s evil followers. Like its patron deity, Gorthok revels in destruction.
 
 Source:	Essentials Kit: Dragon of Icespire Peak p. 58</description>
     <environment/>

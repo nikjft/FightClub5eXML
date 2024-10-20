@@ -25,7 +25,7 @@ Source:	Wayfinder's Guide to Eberron</text>
     </trait>
     <trait>
       <name>Alignment</name>
-      <text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.</text>
+      <text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others&apos; freedom as well as their own, and they are more often good than not.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -39,7 +39,7 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Keen Senses</name>
@@ -47,11 +47,11 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Fey Ancestry</name>
-      <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
+      <text>You have advantage on saving throws against being charmed, and magic can&apos;t put you to sleep.</text>
     </trait>
     <trait>
       <name>Trance</name>
-      <text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+      <text>Elves don&apos;t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
 
 If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.</text>
     </trait>
@@ -91,7 +91,7 @@ Source:	Wayfinder's Guide to Eberron</text>
     </trait>
     <trait>
       <name>Alignment</name>
-      <text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.</text>
+      <text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others&apos; freedom as well as their own, and they are more often good than not.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -105,7 +105,7 @@ Weight in pounds = 100 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Keen Senses</name>
@@ -113,11 +113,11 @@ Weight in pounds = 100 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Fey Ancestry</name>
-      <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
+      <text>You have advantage on saving throws against being charmed, and magic can&apos;t put you to sleep.</text>
     </trait>
     <trait>
       <name>Trance</name>
-      <text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+      <text>Elves don&apos;t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
 
 If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.</text>
     </trait>
@@ -147,7 +147,7 @@ If you meditate during a long rest, you finish the rest after only 4 hours. You 
     <spellAbility/>
     <trait>
       <name>Description</name>
-      <text>Bugbears rely on stealth and strength to attack, preferring to operate at night. When they're not in battle, bugbears spend much of their time resting or dozing, and bully weaker creatures into doing their bidding. From the viewpoint of the rest of the world, their aggression and savagery are thankfully offset by their rarity and lethargy.
+      <text>Bugbears rely on stealth and strength to attack, preferring to operate at night. When they&apos;re not in battle, bugbears spend much of their time resting or dozing, and bully weaker creatures into doing their bidding. From the viewpoint of the rest of the world, their aggression and savagery are thankfully offset by their rarity and lethargy.
 
 Source:	Eberron: Rising from the Last War p. 25</text>
     </trait>
@@ -165,7 +165,7 @@ Source:	Eberron: Rising from the Last War p. 25</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Long-Limbed</name>
@@ -198,7 +198,7 @@ Source:	Eberron: Rising from the Last War p. 25</text>
     <spellAbility/>
     <trait>
       <name>Description</name>
-      <text>Changelings can shift their forms with a thought. Many changelings use this gift as a form of artistic and emotional expression. It's also an invaluable tool for grifters, spies, and others who wish to deceive. This leads many people to treat changelings with suspicion.
+      <text>Changelings can shift their forms with a thought. Many changelings use this gift as a form of artistic and emotional expression. It&apos;s also an invaluable tool for grifters, spies, and others who wish to deceive. This leads many people to treat changelings with suspicion.
 
 Source:	Eberron: Rising from the Last War p. 17,
 		Wayfinder's Guide to Eberron p. 60</text>
@@ -227,7 +227,7 @@ Weight in pounds = 115 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Shapechanger</name>
-      <text>As an action, you can change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height and weight, but not so much that your size changes. You can make yourself appear as a member of another race, though none of your game statistics change. You can't duplicate the appearance of a creature you've never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. Your clothing and equipment aren't changed by this trait.
+      <text>As an action, you can change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height and weight, but not so much that your size changes. You can make yourself appear as a member of another race, though none of your game statistics change. You can't duplicate the appearance of a creature you&apos;ve never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. Your clothing and equipment aren&apos;t changed by this trait.
 
 You stay in the new form until you use an action to revert to your true form or until you die.</text>
     </trait>
@@ -274,11 +274,11 @@ Weight in pounds = 35 + your size modifier</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Fury of the Small</name>
-      <text>When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest.</text>
+      <text>When you damage a creature with an attack or a spell and the creature&apos;s size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can&apos;t use it again until you finish a short or long rest.</text>
     </trait>
     <trait>
       <name>Nimble Escape</name>
@@ -298,7 +298,7 @@ Weight in pounds = 35 + your size modifier</text>
     <spellAbility/>
     <trait>
       <name>Description</name>
-      <text>War is the lifeblood of hobgoblins. Its glories are the dreams that inspire them. Its horrors don't feature in their nightmares. Cowardice is more terrible to hobgoblins than dying, for they carry their living acts into the afterlife. A hero in death becomes a hero eternal.
+      <text>War is the lifeblood of hobgoblins. Its glories are the dreams that inspire them. Its horrors don&apos;t feature in their nightmares. Cowardice is more terrible to hobgoblins than dying, for they carry their living acts into the afterlife. A hero in death becomes a hero eternal.
 
 Source:	Eberron: Rising from the Last War p. 26,
 		Explorer's Guide to Wildemount p. 175</text>
@@ -323,7 +323,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Martial Training</name>
@@ -331,7 +331,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Saving Face</name>
-      <text>Hobgoblins are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a short or long rest.</text>
+      <text>Hobgoblins are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can&apos;t use it again until you finish a short or long rest.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -401,13 +401,13 @@ d10 | Quirk
     </trait>
     <trait>
       <name>Mind Link</name>
-      <text>You can speak telepathically to any creature you can see, provided the creature is within a number of feet of you equal to 10 times your level. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
+      <text>You can speak telepathically to any creature you can see, provided the creature is within a number of feet of you equal to 10 times your level. You don&apos;t need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
 
 When you're using this trait to speak telepathically to a creature, you can use your action to give that creature the ability to speak telepathically with you for 1 hour or until you end this effect as an action. To use this ability, the creature must be able to see you and must be within this trait's range. You can give this ability to only one creature at a time; giving it to a creature takes it away from another creature who has it.</text>
     </trait>
     <trait>
       <name>Severed from Dreams</name>
-      <text>Kalashtar sleep, but they don't connect to the plane of dreams as other creatures do. Instead, their minds draw from the memories of their otherworldly spirit while they sleep. As such, you are immune to spells and other magical effects that require you to dream, like dream, but not to spells and other magical effects that put you to sleep, like sleep.</text>
+      <text>Kalashtar sleep, but they don&apos;t connect to the plane of dreams as other creatures do. Instead, their minds draw from the memories of their otherworldly spirit while they sleep. As such, you are immune to spells and other magical effects that require you to dream, like dream, but not to spells and other magical effects that put you to sleep, like sleep.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -451,7 +451,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Aggressive</name>
@@ -480,7 +480,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
     <spellAbility/>
     <trait>
       <name>Description</name>
-      <text>Shifters are sometimes called the weretouched, as many believe that they are the descendants of humans and lycanthropes. They are humanoids with a bestial aspect; while they cannot fully change shape they can temporarily enhance their animalistic features — a state they call shifting. Whatever their origins, shifters have evolved into a unique race. A shifter walks on the knife's edge between the wilds and the world around them. Do they embrace their primal instincts or the path of civilization?
+      <text>Shifters are sometimes called the weretouched, as many believe that they are the descendants of humans and lycanthropes. They are humanoids with a bestial aspect; while they cannot fully change shape they can temporarily enhance their animalistic features — a state they call shifting. Whatever their origins, shifters have evolved into a unique race. A shifter walks on the knife&apos;s edge between the wilds and the world around them. Do they embrace their primal instincts or the path of civilization?
 
 Beasthide often signifies the bear or boar: stoic, stubborn and thick-skinned.
 
@@ -509,7 +509,7 @@ Weight in pounds = 90 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Shifting</name>
@@ -539,7 +539,7 @@ Once you shift, you can't do so again until you finish a short or long rest.</te
     <spellAbility/>
     <trait>
       <name>Description</name>
-      <text>Shifters are sometimes called the weretouched, as many believe that they are the descendants of humans and lycanthropes. They are humanoids with a bestial aspect; while they cannot fully change shape they can temporarily enhance their animalistic features — a state they call shifting. Whatever their origins, shifters have evolved into a unique race. A shifter walks on the knife's edge between the wilds and the world around them. Do they embrace their primal instincts or the path of civilization?
+      <text>Shifters are sometimes called the weretouched, as many believe that they are the descendants of humans and lycanthropes. They are humanoids with a bestial aspect; while they cannot fully change shape they can temporarily enhance their animalistic features — a state they call shifting. Whatever their origins, shifters have evolved into a unique race. A shifter walks on the knife&apos;s edge between the wilds and the world around them. Do they embrace their primal instincts or the path of civilization?
 
 Longtooth shifters typically have lupine traits and prefer to run with a pack.
 
@@ -568,7 +568,7 @@ Weight in pounds = 90 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Shifting</name>
@@ -598,7 +598,7 @@ Once you shift, you can't do so again until you finish a short or long rest.</te
     <spellAbility/>
     <trait>
       <name>Description</name>
-      <text>Shifters are sometimes called the weretouched, as many believe that they are the descendants of humans and lycanthropes. They are humanoids with a bestial aspect; while they cannot fully change shape they can temporarily enhance their animalistic features | a state they call shifting. Whatever their origins, shifters have evolved into a unique race. A shifter walks on the knife's edge between the wilds and the world around them. Do they embrace their primal instincts or the path of civilization?
+      <text>Shifters are sometimes called the weretouched, as many believe that they are the descendants of humans and lycanthropes. They are humanoids with a bestial aspect; while they cannot fully change shape they can temporarily enhance their animalistic features | a state they call shifting. Whatever their origins, shifters have evolved into a unique race. A shifter walks on the knife&apos;s edge between the wilds and the world around them. Do they embrace their primal instincts or the path of civilization?
 
 Swiftstride are often predatory and feline, but a swiftstride could also be a cunning rat who darts through the shadows.
 
@@ -627,7 +627,7 @@ Weight in pounds = 90 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Shifting</name>
@@ -641,7 +641,7 @@ Once you shift, you can't do so again until you finish a short or long rest.</te
     </trait>
     <trait>
       <name>Shifting Feature</name>
-      <text>While shifted, your walking speed increases by 10 feet. Additionally, you can move up to 10 feet as a reaction when a creature ends its turn within 5 feet of you. This reactive movement doesn't provoke opportunity attacks.</text>
+      <text>While shifted, your walking speed increases by 10 feet. Additionally, you can move up to 10 feet as a reaction when a creature ends its turn within 5 feet of you. This reactive movement doesn&apos;t provoke opportunity attacks.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -657,7 +657,7 @@ Once you shift, you can't do so again until you finish a short or long rest.</te
     <spellAbility/>
     <trait>
       <name>Description</name>
-      <text>Shifters are sometimes called the weretouched, as many believe that they are the descendants of humans and lycanthropes. They are humanoids with a bestial aspect; while they cannot fully change shape they can temporarily enhance their animalistic features | a state they call shifting. Whatever their origins, shifters have evolved into a unique race. A shifter walks on the knife's edge between the wilds and the world around them. Do they embrace their primal instincts or the path of civilization?
+      <text>Shifters are sometimes called the weretouched, as many believe that they are the descendants of humans and lycanthropes. They are humanoids with a bestial aspect; while they cannot fully change shape they can temporarily enhance their animalistic features | a state they call shifting. Whatever their origins, shifters have evolved into a unique race. A shifter walks on the knife&apos;s edge between the wilds and the world around them. Do they embrace their primal instincts or the path of civilization?
 
 Wildhunt shifters are born from any creature that tracks its prey.
 
@@ -686,7 +686,7 @@ Weight in pounds = 90 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Shifting</name>
@@ -700,7 +700,7 @@ Once you shift, you can't do so again until you finish a short or long rest.</te
     </trait>
     <trait>
       <name>Shifting Feature</name>
-      <text>While shifted, you have advantage on Wisdom checks, and no creature within 30 feet of you can make an attack roll with advantage against you, unless you're incapacitated.</text>
+      <text>While shifted, you have advantage on Wisdom checks, and no creature within 30 feet of you can make an attack roll with advantage against you, unless you&apos;re incapacitated.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -767,8 +767,8 @@ Weight in pounds = 270 + (1d4 × your size modifier)</text>
 	• You don't need to sleep, and magic can't put you to sleep.</text>
     </trait>
     <trait>
-      <name>Sentry's Rest</name>
-      <text>When you take a long rest, you must spend at least six hours in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn't render you unconscious, and you can see and hear as normal.</text>
+      <name>Sentry&apos;s Rest</name>
+      <text>When you take a long rest, you must spend at least six hours in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn&apos;t render you unconscious, and you can see and hear as normal.</text>
     </trait>
     <trait>
       <name>Integrated Protection</name>
@@ -808,7 +808,7 @@ Source:	Player's Handbook p. 20,
     </trait>
     <trait>
       <name>Life Span</name>
-      <text>Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.</text>
+      <text>Dwarves mature at the same rate as humans, but they&apos;re considered young until they reach the age of 50. On average, they live about 350 years.</text>
     </trait>
     <trait>
       <name>Alignment</name>
@@ -830,7 +830,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Accustomed to life underground in your race's ancient past, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Accustomed to life underground in your race&apos;s ancient past, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Dwarven Resilience</name>
@@ -842,19 +842,19 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Tool Proficiency</name>
-      <text>You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools.</text>
+      <text>You gain proficiency with the artisan's tools of your choice: smith's tools, brewer&apos;s supplies, or mason&apos;s tools.</text>
     </trait>
     <trait>
       <name>Stonecunning</name>
       <text>Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.</text>
     </trait>
     <trait>
-      <name>Warder's Intuition</name>
-      <text>When you make an Intelligence (Investigation) check or an ability check using thieves' tools, you can roll a d4 and add the number rolled to the ability check.</text>
+      <name>Warder&apos;s Intuition</name>
+      <text>When you make an Intelligence (Investigation) check or an ability check using thieves&apos; tools, you can roll a d4 and add the number rolled to the ability check.</text>
     </trait>
     <trait>
       <name>Wards and Seals</name>
-      <text>You can cast the Alarm and Mage Armor spells with this trait. Starting at 3rd level, you can also cast the Arcane Lock spell with it. Once you cast either spell with this trait, you can't cast that spell again until you finish a Long Rest. Intelligence is your Spellcasting Ability for these spells, and you don't require material components when you cast them with this trait.</text>
+      <text>You can cast the Alarm and Mage Armor spells with this trait. Starting at 3rd level, you can also cast the Arcane Lock spell with it. Once you cast either spell with this trait, you can&apos;t cast that spell again until you finish a Long Rest. Intelligence is your Spellcasting Ability for these spells, and you don&apos;t require material components when you cast them with this trait.</text>
     </trait>
     <trait>
       <name>Spells of the Mark</name>
@@ -890,7 +890,7 @@ Source:	Player's Handbook p. 20,
     </trait>
     <trait>
       <name>Life Span</name>
-      <text>Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.</text>
+      <text>Dwarves mature at the same rate as humans, but they&apos;re considered young until they reach the age of 50. On average, they live about 350 years.</text>
     </trait>
     <trait>
       <name>Alignment</name>
@@ -912,7 +912,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Dwarven Resilience</name>
@@ -924,7 +924,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Tool Proficiency</name>
-      <text>You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools.</text>
+      <text>You gain proficiency with the artisan's tools of your choice: smith's tools, brewer&apos;s supplies, or mason&apos;s tools.</text>
     </trait>
     <trait>
       <name>Stonecunning</name>
@@ -936,7 +936,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Master of Locks</name>
-      <text>When you make an Intelligence (History), Intelligence (Investigation), or Thieves' Tools check involving lock and trap mechanisms, you can roll one Intuition die, a d4, and add the number rolled to the ability check.</text>
+      <text>When you make an Intelligence (History), Intelligence (Investigation), or Thieves&apos; Tools check involving lock and trap mechanisms, you can roll one Intuition die, a d4, and add the number rolled to the ability check.</text>
     </trait>
     <trait>
       <name>Wards and Seals</name>
@@ -966,7 +966,7 @@ Source:	Player's Handbook p. 23,
     </trait>
     <trait>
       <name>Alignment</name>
-      <text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.</text>
+      <text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others&apos; freedom as well as their own, and they are more often good than not.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -980,7 +980,7 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Keen Senses</name>
@@ -988,11 +988,11 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Fey Ancestry</name>
-      <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
+      <text>You have advantage on saving throws against being charmed, and magic can&apos;t put you to sleep.</text>
     </trait>
     <trait>
       <name>Trance</name>
-      <text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+      <text>Elves don&apos;t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
 
 If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.</text>
     </trait>
@@ -1002,7 +1002,7 @@ If you meditate during a long rest, you finish the rest after only 4 hours. You 
     </trait>
     <trait>
       <name>Shape Shadows</name>
-      <text>You know the Minor Illusion cantrip. Starting at 3rd level, you can also cast the Invisibility spell with this trait. Once you cast either spell with this trait, you can't cast that spell again until you finish a long rest. Charisma is your Spellcasting Ability for these spells.</text>
+      <text>You know the Minor Illusion cantrip. Starting at 3rd level, you can also cast the Invisibility spell with this trait. Once you cast either spell with this trait, you can&apos;t cast that spell again until you finish a long rest. Charisma is your Spellcasting Ability for these spells.</text>
     </trait>
     <trait>
       <name>Spells of the Mark</name>
@@ -1043,7 +1043,7 @@ Source:	Player's Handbook p. 23,
     </trait>
     <trait>
       <name>Alignment</name>
-      <text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.</text>
+      <text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others&apos; freedom as well as their own, and they are more often good than not.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -1057,7 +1057,7 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Keen Senses</name>
@@ -1065,11 +1065,11 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Fey Ancestry</name>
-      <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
+      <text>You have advantage on saving throws against being charmed, and magic can&apos;t put you to sleep.</text>
     </trait>
     <trait>
       <name>Trance</name>
-      <text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+      <text>Elves don&apos;t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
 
 If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.</text>
     </trait>
@@ -1087,7 +1087,7 @@ If you meditate during a long rest, you finish the rest after only 4 hours. You 
     </trait>
     <trait>
       <name>Slip Into Shadows</name>
-      <text>You can use the Hide action as a bonus action, even if you have no cover or if you're under observation. Regardless of whether you succeed or fail, once you use this ability, you can't use it again until you finish a short or long rest.</text>
+      <text>You can use the Hide action as a bonus action, even if you have no cover or if you&apos;re under observation. Regardless of whether you succeed or fail, once you use this ability, you can&apos;t use it again until you finish a short or long rest.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -1129,7 +1129,7 @@ Weight in pounds = 35 + your size modifier</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Gnome Cunning</name>
@@ -1137,11 +1137,11 @@ Weight in pounds = 35 + your size modifier</text>
     </trait>
     <trait>
         <name>Gifted Scribe</name>
-      <text>Whenever you make an Intelligence (History) or an Ability Check involving Calligrapher's Supplies, you can roll a d4 and add the number rolled to the total ability check.</text>
+      <text>Whenever you make an Intelligence (History) or an Ability Check involving Calligrapher&apos;s Supplies, you can roll a d4 and add the number rolled to the total ability check.</text>
       </trait>
     <trait>
-        <name>Scribe's Insight</name>
-      <text>ou know the Message cantrip. You can also cast the Comprehend Languages spell with this trait. Starting at 3rd level, you can also cast the Magic Mouth spell with it. Once you cast either spell with this trait, you can't cast that spell again until you finish a Long Rest. Intelligence is your Spellcasting Ability for these spells.</text>
+        <name>Scribe&apos;s Insight</name>
+      <text>ou know the Message cantrip. You can also cast the Comprehend Languages spell with this trait. Starting at 3rd level, you can also cast the Magic Mouth spell with it. Once you cast either spell with this trait, you can&apos;t cast that spell again until you finish a Long Rest. Intelligence is your Spellcasting Ability for these spells.</text>
       </trait>
     <trait>
         <name>Spells of the Mark</name>
@@ -1194,7 +1194,7 @@ Weight in pounds = 35 + your size modifier</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Gnome Cunning</name>
@@ -1202,10 +1202,10 @@ Weight in pounds = 35 + your size modifier</text>
     </trait>
     <trait>
         <name>Gifted Scribe</name>
-      <text>You are proficient with calligrapher's supplies and the forgery kit. When you make an ability check using either one of these tools, you can roll one Intuition die, a d4, and add the number rolled to the ability check.</text>
+      <text>You are proficient with calligrapher&apos;s supplies and the forgery kit. When you make an ability check using either one of these tools, you can roll one Intuition die, a d4, and add the number rolled to the ability check.</text>
       </trait>
     <trait>
-        <name>Scribe's Insight</name>
+        <name>Scribe&apos;s Insight</name>
       <text>You can cast comprehend languages once with this trait, and you regain the ability to do so when you finish a long rest. Intelligence is your spellcasting ability for it.</text>
       </trait>
     <trait>
@@ -1241,7 +1241,7 @@ Source:	Player's Handbook p. 38,
     </trait>
     <trait>
       <name>Alignment</name>
-      <text>Half-elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others' demands, and sometimes prove unreliable, or at least unpredictable.</text>
+      <text>Half-elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others&apos; demands, and sometimes prove unreliable, or at least unpredictable.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -1255,11 +1255,11 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Fey Ancestry</name>
-      <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
+      <text>You have advantage on saving throws against being charmed, and magic can&apos;t put you to sleep.</text>
     </trait>
     <trait>
       <name>Deductive Intuition</name>
@@ -1311,7 +1311,7 @@ Source:	Player's Handbook p. 38,
     </trait>
     <trait>
       <name>Alignment</name>
-      <text>Half-elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others' demands, and sometimes prove unreliable, or at least unpredictable.</text>
+      <text>Half-elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others&apos; demands, and sometimes prove unreliable, or at least unpredictable.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -1325,11 +1325,11 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Fey Ancestry</name>
-      <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
+      <text>You have advantage on saving throws against being charmed, and magic can&apos;t put you to sleep.</text>
     </trait>
     <trait>
         <name>Deductive Intuition</name>
@@ -1365,7 +1365,7 @@ Source:	Player's Handbook p. 38,
     </trait>
     <trait>
       <name>Alignment</name>
-      <text>Half-elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others' demands, and sometimes prove unreliable, or at least unpredictable.</text>
+      <text>Half-elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others&apos; demands, and sometimes prove unreliable, or at least unpredictable.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -1379,23 +1379,23 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Fey Ancestry</name>
-      <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
+      <text>You have advantage on saving throws against being charmed, and magic can&apos;t put you to sleep.</text>
     </trait>
     <trait>
-      <name>Windwright's Intuition</name>
-      <text>Whenever you make a Dexterity (Acrobatics) check or any Ability Check involving Navigator's Tools, you can roll a d4 and add the number rolled to the total ability check.</text>
+      <name>Windwright&apos;s Intuition</name>
+      <text>Whenever you make a Dexterity (Acrobatics) check or any Ability Check involving Navigator&apos;s Tools, you can roll a d4 and add the number rolled to the total ability check.</text>
     </trait>
     <trait>
-      <name>Storm's Boon</name>
+      <name>Storm&apos;s Boon</name>
       <text>You have resistance to Lightning damage.</text>
     </trait>
     <trait>
       <name>Headwinds</name>
-      <text>You know the Gust cantrip. Starting at 3rd level, you can also cast the Gust of Wind spell with it. Once you cast this spell with this trait, you can't cast that spell again until you finish a Long Rest. Charisma is your Spellcasting Ability for this spell.</text>
+      <text>You know the Gust cantrip. Starting at 3rd level, you can also cast the Gust of Wind spell with it. Once you cast this spell with this trait, you can&apos;t cast that spell again until you finish a Long Rest. Charisma is your Spellcasting Ability for this spell.</text>
     </trait>
     <trait>
       <name>Spells of the Mark</name>
@@ -1432,7 +1432,7 @@ Source:	Player's Handbook p. 38,
     </trait>
     <trait>
       <name>Alignment</name>
-      <text>Half-elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others' demands, and sometimes prove unreliable, or at least unpredictable.</text>
+      <text>Half-elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others&apos; demands, and sometimes prove unreliable, or at least unpredictable.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -1446,22 +1446,22 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Fey Ancestry</name>
-      <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
+      <text>You have advantage on saving throws against being charmed, and magic can&apos;t put you to sleep.</text>
     </trait>
     <trait>
       <name>Sea Monkey</name>
       <text>Your base walking speed is 30 feet, and you have a swim speed of 30 feet.</text>
     </trait>
     <trait>
-      <name>Windwright's Intuition</name>
+      <name>Windwright&apos;s Intuition</name>
       <text>When you make a Dexterity (Acrobatics) check or any ability check involving operating or maintaining a water or air vehicle, you can roll one Intuition die, a d4, and add the number rolled to the ability check.</text>
     </trait>
     <trait>
-      <name>Storm's Blessing</name>
+      <name>Storm&apos;s Blessing</name>
       <text>You have resistance to lightning damage.</text>
     </trait>
     <trait>
@@ -1510,15 +1510,15 @@ Weight in pounds = 140 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
-      <name>Hunter's Intuition</name>
+      <name>Hunter&apos;s Intuition</name>
       <text>Your mark sharpens your senses and helps you find your prey. When you make a Wisdom (Perception) or Wisdom (Survival) check, you can roll a d4 and add the number rolled to the ability check.</text>
     </trait>
     <trait>
-      <name>Finder's Magic</name>
-      <text>You can cast the hunter's mark spell with this trait. Starting at 3rd level, you can also cast the locate object spell with it. Once you cast either spell with this trait, you can't cast that spell with it again until you finish a long rest. Wisdom is your spellcasting ability for these spells.</text>
+      <name>Finder&apos;s Magic</name>
+      <text>You can cast the hunter&apos;s mark spell with this trait. Starting at 3rd level, you can also cast the locate object spell with it. Once you cast either spell with this trait, you can&apos;t cast that spell with it again until you finish a long rest. Wisdom is your spellcasting ability for these spells.</text>
     </trait>
     <trait>
       <name>Spells of the Mark</name>
@@ -1573,12 +1573,12 @@ Weight in pounds = 140 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.
 
 Source:	Wayfinder's Guide to Eberron Chapter 4</text>
     </trait>
     <trait>
-      <name>Hunter's Intuition</name>
+      <name>Hunter&apos;s Intuition</name>
       <text>Your mark sharpens your senses and helps you find your prey. When you make a Wisdom (Perception) or Wisdom (Survival) check, you can roll one Intuition die, a d4, and add the number rolled to the ability check.</text>
     </trait>
     <trait>
@@ -1588,7 +1588,7 @@ Source:	Wayfinder's Guide to Eberron Chapter 4</text>
 When tracking your quarry, double the result of your Intuition die. When your quarry is within 60 feet of you, you have a sense of its location: it can't be hidden from you, gains no benefit from invisibility, and your attacks against it ignore half cover. Once you use this trait, you cannot use it again until you finish a short or long rest.</text>
     </trait>
     <trait>
-      <name>Nature's Voice</name>
+      <name>Nature&apos;s Voice</name>
       <text>When you reach 3rd level you gain the ability to cast locate animal or plant, but only as a ritual.</text>
     </trait>
     <trait>
@@ -1603,7 +1603,7 @@ When tracking your quarry, double the result of your Intuition die. When your qu
     <speed>25</speed>
     <trait>
       <name>Description</name>
-      <text>The comforts of home are the goals of most halflings' lives: a place to settle in peace and quiet, far from marauding monsters and clashing armies. Others form nomadic bands that travel constantly, lured by the open road and the wide horizon to discover the wonders of new lands and peoples. Halflings work readily with others, and they are loyal to their friends, whether halfling or otherwise. They can display remarkable ferocity when their friends, families, or communities are threatened.
+      <text>The comforts of home are the goals of most halflings&apos; lives: a place to settle in peace and quiet, far from marauding monsters and clashing armies. Others form nomadic bands that travel constantly, lured by the open road and the wide horizon to discover the wonders of new lands and peoples. Halflings work readily with others, and they are loyal to their friends, whether halfling or otherwise. They can display remarkable ferocity when their friends, families, or communities are threatened.
 
 A halfling with the Mark of Healing can save a life with a touch, restoring vitality and the will to live. When dealing with mundane medicine, the mark helps its bearer sense the nature of maladies, aiding them in finding a cure. When equipped with dragonshard focus items, the mark can even draw the dead back from the depths of Dolurrh.
 
@@ -1647,7 +1647,7 @@ Weight in pounds = 35 + your size modifie</text>
     </trait>
     <trait>
       <name>Healing Touch</name>
-      <text>You can cast the Cure Wounds spell with this trait. Beginning at 3rd level, you can also cast the Lesser Restoration spell with this trait. Once you cast either spell with this trait, you can't cast that spell again until you finish a long rest. Wisdom is your Spellcasting Ability for these spells.</text>
+      <text>You can cast the Cure Wounds spell with this trait. Beginning at 3rd level, you can also cast the Lesser Restoration spell with this trait. Once you cast either spell with this trait, you can&apos;t cast that spell again until you finish a long rest. Wisdom is your Spellcasting Ability for these spells.</text>
     </trait>
     <trait>
       <name>Spells of the Mark</name>
@@ -1663,7 +1663,7 @@ Spell Level | Spell
     </trait>
     <trait>
       <name>Languages</name>
-      <text>You can speak, read, and write Common and Halfling. The Halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.</text>
+      <text>You can speak, read, and write Common and Halfling. The Halfling language isn&apos;t secret, but halflings are loath to share it with others. They write very little, so they don&apos;t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.</text>
     </trait>
   </race>
   <!--race>
@@ -1673,7 +1673,7 @@ Spell Level | Spell
     <speed>25</speed>
     <trait>
       <name>Description</name>
-      <text>The comforts of home are the goals of most halflings' lives: a place to settle in peace and quiet, far from marauding monsters and clashing armies. Others form nomadic bands that travel constantly, lured by the open road and the wide horizon to discover the wonders of new lands and peoples. Halflings work readily with others, and they are loyal to their friends, whether halfling or otherwise. They can display remarkable ferocity when their friends, families, or communities are threatened.
+      <text>The comforts of home are the goals of most halflings&apos; lives: a place to settle in peace and quiet, far from marauding monsters and clashing armies. Others form nomadic bands that travel constantly, lured by the open road and the wide horizon to discover the wonders of new lands and peoples. Halflings work readily with others, and they are loyal to their friends, whether halfling or otherwise. They can display remarkable ferocity when their friends, families, or communities are threatened.
 
 Source:	Player's Handbook p. 28,
 		Wayfinder's Guide to Eberron p. 99,
@@ -1715,11 +1715,11 @@ Weight in pounds = 35 + your size modifie</text>
       </trait>
     <trait>
         <name>Healing Touch</name>
-      <text>As an action, you can draw power from your dragonmark to spend one of your Hit Dice and revitalize yourself or a creature you touch. Roll the die, add your Wisdom modifier, and the creature regains a number of hit points equal to the total. Once you use this trait, you can't use it again until you finish a short or long rest.</text>
+      <text>As an action, you can draw power from your dragonmark to spend one of your Hit Dice and revitalize yourself or a creature you touch. Roll the die, add your Wisdom modifier, and the creature regains a number of hit points equal to the total. Once you use this trait, you can&apos;t use it again until you finish a short or long rest.</text>
       </trait>
     <trait>
         <name>Languages</name>
-      <text>You can speak, read, and write Common and Halfling. The Halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.</text>
+      <text>You can speak, read, and write Common and Halfling. The Halfling language isn&apos;t secret, but halflings are loath to share it with others. They write very little, so they don&apos;t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.</text>
       </trait>
   </race-->
   <race>
@@ -1730,7 +1730,7 @@ Weight in pounds = 35 + your size modifie</text>
     <spellAbility>Charisma</spellAbility>
     <trait>
       <name>Description</name>
-      <text>The comforts of home are the goals of most halflings' lives: a place to settle in peace and quiet, far from marauding monsters and clashing armies. Others form nomadic bands that travel constantly, lured by the open road and the wide horizon to discover the wonders of new lands and peoples. Halflings work readily with others, and they are loyal to their friends, whether halfling or otherwise. They can display remarkable ferocity when their friends, families, or communities are threatened.
+      <text>The comforts of home are the goals of most halflings&apos; lives: a place to settle in peace and quiet, far from marauding monsters and clashing armies. Others form nomadic bands that travel constantly, lured by the open road and the wide horizon to discover the wonders of new lands and peoples. Halflings work readily with others, and they are loyal to their friends, whether halfling or otherwise. They can display remarkable ferocity when their friends, families, or communities are threatened.
 
 They may not always have gold, but a halfling with the Mark of Hospitality is sure to be rich in friends. The magic of the mark allows the bearer to keep a place clean, and to heat, chill, and season food. But it also helps the bearer connect with others.
 
@@ -1770,11 +1770,11 @@ Weight in pounds = 35 + your size modifie</text>
     </trait>
     <trait>
       <name>Ever Hospitable</name>
-      <text>Whenever you roll a Charisma (Persuasion) check or an ability check involving Brewer's Tools or Cook's Utensils, roll a d4 and add the number rolled to the total ability check.</text>
+      <text>Whenever you roll a Charisma (Persuasion) check or an ability check involving Brewer&apos;s Tools or Cook&apos;s Utensils, roll a d4 and add the number rolled to the total ability check.</text>
     </trait>
     <trait>
-      <name>Innkeeper's Magic</name>
-      <text>You know the Prestidigitation cantrip. You can also cast Purify Food and Drink and Unseen Servant with this trait. Once you cast either spell with this trait, you can't cast that spell again until you finish a long rest. Charisma is your Spellcasting Ability for these spells.</text>
+      <name>Innkeeper&apos;s Magic</name>
+      <text>You know the Prestidigitation cantrip. You can also cast Purify Food and Drink and Unseen Servant with this trait. Once you cast either spell with this trait, you can&apos;t cast that spell again until you finish a long rest. Charisma is your Spellcasting Ability for these spells.</text>
     </trait>
     <trait>
       <name>Spells of the Mark</name>
@@ -1790,7 +1790,7 @@ Spell Level | Spell
     </trait>
     <trait>
       <name>Languages</name>
-      <text>You can speak, read, and write Common and Halfling. The Halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.</text>
+      <text>You can speak, read, and write Common and Halfling. The Halfling language isn&apos;t secret, but halflings are loath to share it with others. They write very little, so they don&apos;t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.</text>
       </trait>
   </race>
   <!--race>
@@ -1801,7 +1801,7 @@ Spell Level | Spell
     <spellAbility>Charisma</spellAbility>
     <trait>
       <name>Description</name>
-      <text>The comforts of home are the goals of most halflings' lives: a place to settle in peace and quiet, far from marauding monsters and clashing armies. Others form nomadic bands that travel constantly, lured by the open road and the wide horizon to discover the wonders of new lands and peoples. Halflings work readily with others, and they are loyal to their friends, whether halfling or otherwise. They can display remarkable ferocity when their friends, families, or communities are threatened.
+      <text>The comforts of home are the goals of most halflings&apos; lives: a place to settle in peace and quiet, far from marauding monsters and clashing armies. Others form nomadic bands that travel constantly, lured by the open road and the wide horizon to discover the wonders of new lands and peoples. Halflings work readily with others, and they are loyal to their friends, whether halfling or otherwise. They can display remarkable ferocity when their friends, families, or communities are threatened.
 
 Source:	Player's Handbook p. 28,
 		Wayfinder's Guide to Eberron p. 99</text>
@@ -1837,16 +1837,16 @@ Weight in pounds = 35 + your size modifie</text>
       <text>You can move through the space of any creature that is of a size larger than yours.</text>
     </trait>
     <trait>
-        <name>Innkeeper's Charms</name>
+        <name>Innkeeper&apos;s Charms</name>
       <text>You know the cantrips friends and prestidigitation. Charisma is your spellcasting ability for them.</text>
       </trait>
     <trait>
         <name>Ever Hospitable</name>
-      <text>When you make a Charisma (Persuasion) check or an ability check involving Brewer's Supplies or Cook's Utensils, you can roll one Intuition die (a d4) and add the number rolled to the ability check.</text>
+      <text>When you make a Charisma (Persuasion) check or an ability check involving Brewer&apos;s Supplies or Cook&apos;s Utensils, you can roll one Intuition die (a d4) and add the number rolled to the ability check.</text>
       </trait>
     <trait>
         <name>Languages</name>
-      <text>You can speak, read, and write Common and Halfling. The Halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.</text>
+      <text>You can speak, read, and write Common and Halfling. The Halfling language isn&apos;t secret, but halflings are loath to share it with others. They write very little, so they don&apos;t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.</text>
       </trait>
   </race-->
   <race>
@@ -1856,7 +1856,7 @@ Weight in pounds = 35 + your size modifie</text>
     <speed>30</speed>
     <trait>
       <name>Description</name>
-      <text>In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that's why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
+      <text>In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that&apos;s why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
 
 The Mark of Finding sharpens the senses, guiding the hunter to prey. Alone among the dragonmarks, the Mark of Finding is carried by two races: humans and halforcs. It first appeared in the Shadow Marches, where clan hunters used it to find their prey.
 
@@ -1888,15 +1888,15 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60ft. of you as if it were bright light, and in darkness as if it were dim light. You can't discern colors in darkness, only shades of grey.</text>
+      <text>You can see in dim light within 60ft. of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern colors in darkness, only shades of grey.</text>
     </trait>
     <trait>
-      <name>Hunter's Intuition</name>
+      <name>Hunter&apos;s Intuition</name>
       <text>Your mark sharpens your senses and helps you find your prey. Whenever you make a Wisdom (Perception) or a Wisdom (Survival) check, you can roll a d4 and add the number rolled to the total ability check.</text>
     </trait>
     <trait>
-      <name>Finder's Magic</name>
-      <text>You can cast the Hunter's Mark spell with this trait. Starting at 3rd level, you can also cast the Locate Object spell with it. Once you cast either spell with this trait, you can't cast that spell again until you finish a Long Rest. Wisdom is your Spellcasting Ability for these spells.</text>
+      <name>Finder&apos;s Magic</name>
+      <text>You can cast the Hunter&apos;s Mark spell with this trait. Starting at 3rd level, you can also cast the Locate Object spell with it. Once you cast either spell with this trait, you can&apos;t cast that spell again until you finish a Long Rest. Wisdom is your Spellcasting Ability for these spells.</text>
     </trait>
     <trait>
       <name>Spells of the Mark</name>
@@ -1922,7 +1922,7 @@ Spell Level | Spell
     <speed>30</speed>
     <trait>
       <name>Description</name>
-      <text>In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that's why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
+      <text>In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that&apos;s why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
 
 The Mark of Finding sharpens the senses, guiding the hunter to prey. Alone among the dragonmarks, the Mark of Finding is carried by two races: humans and halforcs. It first appeared in the Shadow Marches, where clan hunters used it to find their prey.
 
@@ -1947,10 +1947,10 @@ Source:	Player's Handbook p. 31,
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
-      <name>Hunter's Intuition</name>
+      <name>Hunter&apos;s Intuition</name>
       <text>Your mark sharpens your senses and helps you find your prey. When you make a Wisdom (Perception) or Wisdom (Survival) check, you can roll one Intuition die, a d4, and add the number rolled to the ability check.</text>
     </trait>
     <trait>
@@ -1960,7 +1960,7 @@ Source:	Player's Handbook p. 31,
 When tracking your quarry, double the result of your Intuition die. When your quarry is within 60 feet of you, you have a sense of its location: it can't be hidden from you, gains no benefit from invisibility, and your attacks against it ignore half cover. Once you use this trait, you cannot use it again until you finish a short or long rest.</text>
     </trait>
     <trait>
-      <name>Nature's Voice</name>
+      <name>Nature&apos;s Voice</name>
       <text>When you reach 3rd level you gain the ability to cast locate animal or plant, but only as a ritual.</text>
     </trait>
     <trait>
@@ -1976,7 +1976,7 @@ When tracking your quarry, double the result of your Intuition die. When your qu
     <spellAbility>Wisdom</spellAbility>
     <trait>
       <name>Description</name>
-      <text>In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that's why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
+      <text>In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that&apos;s why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
 
 The Mark of Handling gives its bearer a primal connection to beasts and the natural world, granting the power to calm and coax. This extends beyond purely natural animals; the mark allows its bearer to guide a hippogriff as easily as a horse.
 
@@ -2012,11 +2012,11 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Primal Connection</name>
-      <text>You can cast the Animal Friendship spell and the Speak With Animals with this trait, requiring no material components. Once you cast either spell with this trait, you can't cast that spell again until you finish a Long Rest. Wisdom is your Spellcasting Ability for these spells.</text>
+      <text>You can cast the Animal Friendship spell and the Speak With Animals with this trait, requiring no material components. Once you cast either spell with this trait, you can&apos;t cast that spell again until you finish a Long Rest. Wisdom is your Spellcasting Ability for these spells.</text>
     </trait>
     <trait>
       <name>The Bigger They Are</name>
-      <text>Starting at 3rd level, you can target a Beast or a Monstrosity when you cast Animal Friendship or Speak With Animals, provided that the creature's intelligence is 3 or lower.</text>
+      <text>Starting at 3rd level, you can target a Beast or a Monstrosity when you cast Animal Friendship or Speak With Animals, provided that the creature&apos;s intelligence is 3 or lower.</text>
     </trait>
     <trait>
       <name>Spells of the Mark</name>
@@ -2043,7 +2043,7 @@ Spell Level | Spell
     <spellAbility>Wisdom</spellAbility>
     <trait>
       <name>Description</name>
-      <text>In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that's why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
+      <text>In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that&apos;s why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
 
 The Mark of Handling gives its bearer a primal connection to beasts and the natural world, granting the power to calm and coax. This extends beyond purely natural animals; the mark allows its bearer to guide a hippogriff as easily as a horse.
 
@@ -2095,7 +2095,7 @@ Source:	Player's Handbook p. 31,
     <spellAbility>Intelligence</spellAbility>
     <trait>
       <name>Description</name>
-      <text>In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that's why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
+      <text>In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that&apos;s why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
 
 The Mark of Making guides its bearer through any act of creation. The bearer of the mark can mend broken things with a touch, and always has a minor magic item they've been working on. An artificer or a wizard will get the most out of the mark, but anyone can find a use for an enchanted blade.
 
@@ -2126,16 +2126,16 @@ Height = 4 feet + 8 inches + your size modifier in inches
 Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
-      <name>Artisan's Intuition</name>
-      <text>Whenever you make an Intelligence (Arcana) or an Ability Check involving Artisan's Tools, you can roll a d4 and add the number rolled to the total ability check.</text>
+      <name>Artisan&apos;s Intuition</name>
+      <text>Whenever you make an Intelligence (Arcana) or an Ability Check involving Artisan&apos;s Tools, you can roll a d4 and add the number rolled to the total ability check.</text>
     </trait>
     <trait>
-      <name>Artisan's Gift</name>
-      <text>You gain proficiency in one type of Artisan's Tools of your choice</text>
+      <name>Artisan&apos;s Gift</name>
+      <text>You gain proficiency in one type of Artisan&apos;s Tools of your choice</text>
     </trait>
     <trait>
       <name>Spellsmith</name>
-      <text>You learn the Mending cantrip. You can also cast the Magic Weapon spell with this trait. When you do so, the spell lasts for 1 hour and doesn't require concentration. Once you cast this spell with this trait, you can't cast that spell again until you finish a Long Rest. Intelligence is your Spellcasting Ability for these spells.</text>
+      <text>You learn the Mending cantrip. You can also cast the Magic Weapon spell with this trait. When you do so, the spell lasts for 1 hour and doesn&apos;t require concentration. Once you cast this spell with this trait, you can&apos;t cast that spell again until you finish a Long Rest. Intelligence is your Spellcasting Ability for these spells.</text>
     </trait>
     <trait>
       <name>Spells of the Mark</name>
@@ -2162,7 +2162,7 @@ Spell Level | Spell
     <spellAbility>Intelligence</spellAbility>
     <trait>
       <name>Description</name>
-      <text>In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that's why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
+      <text>In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that&apos;s why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
 
 The Mark of Making guides its bearer through any act of creation. The bearer of the mark can mend broken things with a touch, and always has a minor magic item they've been working on. An artificer or a wizard will get the most out of the mark, but anyone can find a use for an enchanted blade.
 
@@ -2186,12 +2186,12 @@ Source:	Player's Handbook p. 31,
       <text>Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.</text>
     </trait>
     <trait>
-      <name>Artisan's Intuition</name>
-      <text>When you make an ability check with artisan's tools, roll 1d4 and add it to the result.</text>
+      <name>Artisan&apos;s Intuition</name>
+      <text>When you make an ability check with artisan&apos;s tools, roll 1d4 and add it to the result.</text>
     </trait>
     <trait>
-      <name>Maker's Gift</name>
-      <text>You know the cantrip mending and gain proficiency with one type of artisan's tools</text>
+      <name>Maker&apos;s Gift</name>
+      <text>You know the cantrip mending and gain proficiency with one type of artisan&apos;s tools</text>
     </trait>
     <trait>
       <name>Magecraft</name>
@@ -2199,7 +2199,7 @@ Source:	Player's Handbook p. 31,
     </trait>
     <trait>
       <name>Spellsmith</name>
-      <text>You can spend one minute to weave a temporary enchantment into a nonmagical suit of armor or weapon. For the next hour the object becomes a magic item, gaining a +1 bonus to AC if it is armor or a +1 bonus to hit and damage if it is a weapon. Once you use this trait, you can't use it again until you finish a long rest.</text>
+      <text>You can spend one minute to weave a temporary enchantment into a nonmagical suit of armor or weapon. For the next hour the object becomes a magic item, gaining a +1 bonus to AC if it is armor or a +1 bonus to hit and damage if it is a weapon. Once you use this trait, you can&apos;t use it again until you finish a long rest.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -2213,7 +2213,7 @@ Source:	Player's Handbook p. 31,
     <speed>35</speed>
     <trait>
       <name>Description</name>
-      <text>In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that's why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
+      <text>In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that&apos;s why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
 
 The Mark of Passage governs motion, allowing its bearer to move with uncanny speed. The bearer of the mark can even slip through space in the blink of an eye.
 
@@ -2244,7 +2244,7 @@ Height = 4 feet + 8 inches + your size modifier in inches
 Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
-      <name>Courier's Speed</name>
+      <name>Courier&apos;s Speed</name>
       <text>Your base walking speed increases to 35 ft.</text>
     </trait>
     <trait>
@@ -2253,7 +2253,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Magical Passage</name>
-      <text>You can cast the Misty Step spell with this trait. Once you cast this spell with this trait, you can't cast that spell again until you finish a Long Rest. Dexterity is your Spellcasting Ability for these spells.</text>
+      <text>You can cast the Misty Step spell with this trait. Once you cast this spell with this trait, you can&apos;t cast that spell again until you finish a Long Rest. Dexterity is your Spellcasting Ability for these spells.</text>
     </trait>
     <trait>
       <name>Spells of the Mark</name>
@@ -2279,7 +2279,7 @@ Spell Level | Spell
     <speed>40</speed>
     <trait>
       <name>Description</name>
-      <text>In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that's why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
+      <text>In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that&apos;s why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
 
 The Mark of Passage governs motion, allowing its bearer to move with uncanny speed. The bearer of the mark can even slip through space in the blink of an eye.
 
@@ -2303,7 +2303,7 @@ Source:	Player's Handbook p. 31,
       <text>Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.</text>
     </trait>
     <trait>
-      <name>Courier's Speed</name>
+      <name>Courier&apos;s Speed</name>
       <text>Your base walking speed increases to 40 ft.</text>
     </trait>
     <trait>
@@ -2311,12 +2311,12 @@ Source:	Player's Handbook p. 31,
       <text>When you make a Strength (Athletics) check or any ability check to operate or maintain a land vehicle, you can roll one Intuition die, a d4, and add the number rolled to the ability check.</text>
     </trait>
     <trait>
-      <name>Orien's Grace</name>
-      <text>When you use the Dash action, difficult terrain doesn't cost you extra movement on that turn.</text>
+      <name>Orien&apos;s Grace</name>
+      <text>When you use the Dash action, difficult terrain doesn&apos;t cost you extra movement on that turn.</text>
     </trait>
     <trait>
       <name>Shared Passage</name>
-      <text>As a bonus action you can teleport a distance up to your walking speed, ending in an unoccupied space that you can see. You can bring one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you when you use this trait. Once you use this trait, you can't use it again until you finish a long rest.</text>
+      <text>As a bonus action you can teleport a distance up to your walking speed, ending in an unoccupied space that you can see. You can bring one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you when you use this trait. Once you use this trait, you can&apos;t use it again until you finish a long rest.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -2330,7 +2330,7 @@ Source:	Player's Handbook p. 31,
     <speed>30</speed>
     <trait>
       <name>Description</name>
-      <text>In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that's why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
+      <text>In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that&apos;s why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
 
 The Mark of Sentinel warns and protects. It heightens senses and reflexes, allowing an heir to respond to threats with uncanny speed. It can shield its bearer from harm. Whether on the battlefield or the ballroom, someone who carries the Mark of Sentinel is prepared for danger.
 
@@ -2361,16 +2361,16 @@ Height = 4 feet + 8 inches + your size modifier in inches
 Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
-      <name>Sentinel's Intuition</name>
+      <name>Sentinel&apos;s Intuition</name>
       <text>Whenever you make an Wisdom (Insight) or a Wisdom (Perception) check, you can roll a d4 and add the number rolled to the total ability check.</text>
     </trait>
     <trait>
-      <name>Guardian's Shield</name>
-      <text>You can cast the Shield spell with this trait. Once you cast this spell with this trait, you can't cast that spell again until you finish a Long Rest. Wisdom is your Spellcasting Ability for these spells.</text>
+      <name>Guardian&apos;s Shield</name>
+      <text>You can cast the Shield spell with this trait. Once you cast this spell with this trait, you can&apos;t cast that spell again until you finish a Long Rest. Wisdom is your Spellcasting Ability for these spells.</text>
     </trait>
     <trait>
       <name>Vigilant Guardian</name>
-      <text>Once a creature that you can see within 5ft of you is hit with an attack roll, you can use your reaction to swap places with the creature, and you are hit by the attack instead. Once you use this trait, you can't do so again until you finish a long rest.</text>
+      <text>Once a creature that you can see within 5ft of you is hit with an attack roll, you can use your reaction to swap places with the creature, and you are hit by the attack instead. Once you use this trait, you can&apos;t do so again until you finish a long rest.</text>
     </trait>
     <trait>
       <name>Spells of the Mark</name>
@@ -2396,7 +2396,7 @@ Spell Level | Spell
     <speed>30</speed>
     <trait>
       <name>Description</name>
-      <text>In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that's why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
+      <text>In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that&apos;s why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
 
 The Mark of Sentinel warns and protects. It heightens senses and reflexes, allowing an heir to respond to threats with uncanny speed. It can shield its bearer from harm. Whether on the battlefield or the ballroom, someone who carries the Mark of Sentinel is prepared for danger.
 
@@ -2420,11 +2420,11 @@ Source:	Player's Handbook p. 31,
       <text>Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.</text>
     </trait>
     <trait>
-      <name>Sentinel's Intuition</name>
+      <name>Sentinel&apos;s Intuition</name>
       <text>When you roll for Initiative or make a Wisdom (Perception) check to notice a threat, you can roll one Intuition die, a d4, and add it to the ability check.</text>
     </trait>
     <trait>
-      <name>Sentinel's Shield</name>
+      <name>Sentinel&apos;s Shield</name>
       <text>You know the cantrip blade ward. You can cast shield once with this trait and regain the ability to do so after you finish a short or long rest.</text>
     </trait>
     <trait>

@@ -79,7 +79,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 48 (Homebrew)</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Otherwordly Patron: The Inevitable (HB)</name>
-        <text>the inevitable  the inevitable  You have forged a contract with an inevitable, an axiomatic being from one of the planes of law set to uphold and enforce order across the multiverse. Whether you sought these powers purposely, misunderstood an agreement you were making, or now serve as punishment for breaching a contract, your patron's powers allow you to impose law and order, sidestepping fate and luck instead for the blessing of definite results.
+        <text>the inevitable  the inevitable  You have forged a contract with an inevitable, an axiomatic being from one of the planes of law set to uphold and enforce order across the multiverse. Whether you sought these powers purposely, misunderstood an agreement you were making, or now serve as punishment for breaching a contract, your patron&apos;s powers allow you to impose law and order, sidestepping fate and luck instead for the blessing of definite results.
 
 Perhaps you forged a contract in the Halls of Concordance. If so, your patron may be a quarut, marut, or kolyarut of Mechanus. In the world of Ravnica, a high ranking member of the Azorius Senate might act as your patron, or your powers might come from the Guild Pact itself.
 
@@ -125,7 +125,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 48 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>The Inevitable (HB): Rule of Law</name>
-        <text>You learn the command spell. It counts as a warlock spell for you, but doesn't count against the number of spells you know.  You can cast command as a bonus action once without expending a spell slot. You can't do so again until you finish a short or long rest.
+        <text>You learn the command spell. It counts as a warlock spell for you, but doesn&apos;t count against the number of spells you know.  You can cast command as a bonus action once without expending a spell slot. You can&apos;t do so again until you finish a short or long rest.
 
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 48 (Homebrew)</text>
       </feature>
@@ -143,7 +143,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 48 (Homebrew)</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>The Inevitable (HB): Protective Edict</name>
-        <text>You can declare your authority and punish those who deny it. You can cast the sanctuary spell once without expending a spell slot. Whenever a creature damages the target before the spell ends, you can use your reaction to cause that creature to take force damage equal to your warlock level. If you are the target, dealing this damage doesn't end the spell for you.
+        <text>You can declare your authority and punish those who deny it. You can cast the sanctuary spell once without expending a spell slot. Whenever a creature damages the target before the spell ends, you can use your reaction to cause that creature to take force damage equal to your warlock level. If you are the target, dealing this damage doesn&apos;t end the spell for you.
 
 Once you cast sanctuary in this way, you can't do so again until you finish a short or long rest.
 
@@ -153,7 +153,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 48 (Homebrew)</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>The Inevitable (HB): Unerring Edict</name>
-        <text>As an action, you can deal 50 force damage to a creature within 5 feet of you. Once you use this feature, you can't use it again until you finish a long rest.
+        <text>As an action, you can deal 50 force damage to a creature within 5 feet of you. Once you use this feature, you can&apos;t use it again until you finish a long rest.
 
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 49 (Homebrew)</text>
       </feature>
@@ -217,7 +217,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 50 (Homebrew)</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>The Undying Remastered (HB): Indestructible Life</name>
-        <text>You partake of some of the true secrets of the Undying. If you die, another creature can attempt a DC 10 Wisdom (Medicine) check on your corpse within 24 hours. On a success, you are revived with 1 hit point. If your head or heart is missing, the check automatically fails. Any other missing body parts slowly regrow over the course of 7 days. If you are missing any vital body parts besides your heart and head (e.g. your blood), the magic of everlasting life sustains you while they regrow. Once you have been revived in this way, you can't be so again for 7 days.
+        <text>You partake of some of the true secrets of the Undying. If you die, another creature can attempt a DC 10 Wisdom (Medicine) check on your corpse within 24 hours. On a success, you are revived with 1 hit point. If your head or heart is missing, the check automatically fails. Any other missing body parts slowly regrow over the course of 7 days. If you are missing any vital body parts besides your heart and head (e.g. your blood), the magic of everlasting life sustains you while they regrow. Once you have been revived in this way, you can&apos;t be so again for 7 days.
 
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 50 (Homebrew)</text>
       </feature>

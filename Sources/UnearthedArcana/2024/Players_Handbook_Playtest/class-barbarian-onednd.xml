@@ -37,7 +37,7 @@ Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 3</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Multiclassing And The Barbarian</name>
-        <text>If your group uses the multiclassing rules in the Player's Handbook, here's what you need to know if you choose Barbarian as one of your classes.
+        <text>If your group uses the multiclassing rules in the Player&apos;s Handbook, here&apos;s what you need to know if you choose Barbarian as one of your classes.
 
 Ability Score Minimum:
 As a multiclass character, you must have a score of at least 13 in the Barbarian's primary ability, Strength, to take a level in this class or to take a level in another class if you're already a Barbarian.
@@ -55,7 +55,7 @@ Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 3</text>
     <autolevel level="1">
       <feature>
         <name>Rage</name>
-        <text>You can imbue yourself with a primal power that is called your Rage, a force that grants you extraordinary might and resilience. You can enter it as a Bonus Action, provided you aren't wearing Heavy Armor.
+        <text>You can imbue yourself with a primal power that is called your Rage, a force that grants you extraordinary might and resilience. You can enter it as a Bonus Action, provided you aren&apos;t wearing Heavy Armor.
 
 While active, your Rage has the following effects:
 
@@ -93,7 +93,7 @@ Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 3</text>
     <autolevel level="1">
       <feature>
         <name>Unarmored Defense</name>
-        <text>While you aren't wearing any armor, your base Armor Class equals 10 + your Dexterity and Constitution modifiers. You can use a Shield and still gain this benefit.
+        <text>While you aren&apos;t wearing any armor, your base Armor Class equals 10 + your Dexterity and Constitution modifiers. You can use a Shield and still gain this benefit.
 
 Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 3</text>
         <special>unarmored defense constitution</special>
@@ -114,7 +114,7 @@ Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 3</text>
     <autolevel level="2">
       <feature>
         <name>Danger Sense</name>
-        <text>You gain an uncanny sense of when things aren't as they should be, giving you an edge when you dodge perils. You have Advantage on Dexterity saving throws, unless you have the Incapacitated condition.
+        <text>You gain an uncanny sense of when things aren&apos;t as they should be, giving you an edge when you dodge perils. You have Advantage on Dexterity saving throws, unless you have the Incapacitated condition.
 
 Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 4</text>
       </feature>
@@ -132,7 +132,7 @@ Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 4</text>
     <autolevel level="3">
       <feature>
         <name>Barbarian Subclass</name>
-        <text>You gain a Barbarian subclass of your choice: Path of the Berserker, Path of the Wild Heart, Path of the World Tree, or Path of the Zealot. Only The Path of the World Tree is detailed after this class's description.
+        <text>You gain a Barbarian subclass of your choice: Path of the Berserker, Path of the Wild Heart, Path of the World Tree, or Path of the Zealot. Only The Path of the World Tree is detailed after this class&apos;s description.
 
 A subclass is a specialization that grants you special features at certain Barbarian levels. For the rest of your career, you gain each of your subclass's features that are of your Barbarian level and lower.
 
@@ -179,7 +179,7 @@ Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 4</text>
     <autolevel level="5">
       <feature>
         <name>Fast Movement</name>
-        <text>Your speed increases by 10 feet while you aren't wearing Heavy Armor.
+        <text>Your speed increases by 10 feet while you aren&apos;t wearing Heavy Armor.
 
 Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 4</text>
         <modifier category="bonus">speed +10</modifier>
@@ -241,7 +241,7 @@ Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 4</text>
     <autolevel level="11">
       <feature>
         <name>Relentless Rage</name>
-        <text>Your Rage can keep you fighting despite grievous wounds. If you drop to 0 Hit Points while your Rage is active and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, your Hit Points instead change to a number equal to twice your Barbarian level.
+        <text>Your Rage can keep you fighting despite grievous wounds. If you drop to 0 Hit Points while your Rage is active and don&apos;t die outright, you can make a DC 10 Constitution saving throw. If you succeed, your Hit Points instead change to a number equal to twice your Barbarian level.
 
 Each time you use this feature after the first, the DC increases by 5. When you finish a Short Rest or Long Rest, the DC resets to 10.
 
@@ -288,7 +288,7 @@ Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 4</text>
     <autolevel level="15">
       <feature>
         <name>Persistent Rage</name>
-        <text>When you roll Initiative, you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can't do so again until you finish a Long Rest.
+        <text>When you roll Initiative, you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can&apos;t do so again until you finish a Long Rest.
 
 In addition, your Rage is so fierce that it now lasts for 10 minutes without you needing to do anything to extend it from round to round. The Rage ends early if you have the Unconscious, not the Incapacitated, condition or don Heavy Armor.
 
@@ -386,7 +386,7 @@ Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 5</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Path of the World Tree (One DnD): Branches Of The Tree</name>
-        <text>While your Rage is active, whenever a creature you can see starts its turn within 30 feet of you, you can use your Reaction to summon spectral branches of the World Tree around it. The target must succeed on a Strength saving throw (DC equal to 8 plus your Proficiency Bonus plus your Strength modifier) or be teleported to an unoccupied space you can see within 5 feet of yourself or in the nearest unoccupied space you can see. The space the target teleports to must be on a surface or liquid that can support it; otherwise, the target doesn't teleport.
+        <text>While your Rage is active, whenever a creature you can see starts its turn within 30 feet of you, you can use your Reaction to summon spectral branches of the World Tree around it. The target must succeed on a Strength saving throw (DC equal to 8 plus your Proficiency Bonus plus your Strength modifier) or be teleported to an unoccupied space you can see within 5 feet of yourself or in the nearest unoccupied space you can see. The space the target teleports to must be on a surface or liquid that can support it; otherwise, the target doesn&apos;t teleport.
 
 After the target teleports, you can reduce its Speed to 0 until the end of the current turn.
 
@@ -406,7 +406,7 @@ Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 6</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Path of the World Tree (One DnD): Travel Along The Tree</name>
-        <text>You can briefly travel along the World Tree. When you activate your Rage and as a Bonus Action while it's active, you can teleport up to 60 feet to an unoccupied space you can see.
+        <text>You can briefly travel along the World Tree. When you activate your Rage and as a Bonus Action while it&apos;s active, you can teleport up to 60 feet to an unoccupied space you can see.
 
 In addition, when you teleport using this feature, you can bring up to six willing creatures who are within 10 feet of yourself, and the range you can teleport increases to 500 feet. Each creature teleports to an unoccupied space of your choice within 10 feet of your destination space. You can teleport other creatures with you only once per Rage.
 

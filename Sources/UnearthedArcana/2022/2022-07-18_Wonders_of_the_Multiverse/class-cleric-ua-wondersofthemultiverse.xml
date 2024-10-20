@@ -5,7 +5,7 @@
     <autolevel level="1">
       <feature optional="YES">
         <name>Divine Domain: Fate Domain (UA)</name>
-        <text>Gods of fate perceive the future and how the choices mortals make drive them toward their destinies. Some deities consider the future preordained, while others understand the multiverse as a place of infinite possibility. Clerics who draw power from the forces of fate sometimes receive visions directly from their deity and receive fleeting omens of the future. They share impossible knowledge with their allies and prophesize their enemies' doom.
+        <text>Gods of fate perceive the future and how the choices mortals make drive them toward their destinies. Some deities consider the future preordained, while others understand the multiverse as a place of infinite possibility. Clerics who draw power from the forces of fate sometimes receive visions directly from their deity and receive fleeting omens of the future. They share impossible knowledge with their allies and prophesize their enemies&apos; doom.
 
 Fate Domain Deities
 Example Deity | Pantheon
@@ -62,7 +62,7 @@ Source:	Unearthed Arcana: Wonders Of The Multiverse p. 3</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Fate Domain (UA): Insightful Striking</name>
-        <text>At level 6 and as a bonus action, you can choose one creature you can see within 30 feet of yourself. Your magic grants you a brief vision of the target's defenses. Until the end of your next turn, you gain one of the following effects of your choice:
+        <text>At level 6 and as a bonus action, you can choose one creature you can see within 30 feet of yourself. Your magic grants you a brief vision of the target&apos;s defenses. Until the end of your next turn, you gain one of the following effects of your choice:
 
 	• The next time you make an attack roll against the target, roll a d6 and add the number rolled to the total.
 
@@ -86,7 +86,7 @@ Source:	Unearthed Arcana: Wonders Of The Multiverse p. 3</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Fate Domain (UA): Visions Of The Future</name>
-        <text>At 17th level, your knowledge of the future allows you to guide an individual to achieve their greatest possible success. You can cast the foresight spell once without expending a spell slot; when you cast the spell in this way, the spell's duration is 1 minute for that casting. Once you cast the spell in this way, you can't do so again until you finish a long rest.
+        <text>At 17th level, your knowledge of the future allows you to guide an individual to achieve their greatest possible success. You can cast the foresight spell once without expending a spell slot; when you cast the spell in this way, the spell&apos;s duration is 1 minute for that casting. Once you cast the spell in this way, you can&apos;t do so again until you finish a long rest.
 
 Source:	Unearthed Arcana: Wonders Of The Multiverse p. 3</text>
       </feature>

@@ -310,7 +310,7 @@ Bavlorna can have only one creature swallowed at a time. If Bavlorna dies, a swa
     <passive>13</passive>
     <languages>Sylvan</languages>
     <cr>1/8</cr>
-    <description>Source:	Volo's Guide to Monsters p. 128,
+    <description>Source:	Volo&apos;s Guide to Monsters p. 128,
 		The Wild Beyond the Witchlight p. 229</description>
     <trait>
       <name>Proficiency Bonus</name>
@@ -696,7 +696,7 @@ Clapperclaw targets one creature it can see within 15 feet of it. The target mus
     <passive>16</passive>
     <languages>Elvish, Sylvan</languages>
     <cr>2</cr>
-    <description>Source:	Volo's Guide to Monsters p. 134,
+    <description>Source:	Volo&apos;s Guide to Monsters p. 134,
 		The Wild Beyond the Witchlight p. 233</description>
     <trait>
       <name>Proficiency Bonus</name>
@@ -753,7 +753,7 @@ The darkling elder casts darkness, requiring no spell components and using Wisdo
     <passive>15</passive>
     <languages>Elvish, Sylvan</languages>
     <cr>1/2</cr>
-    <description>Source:	Volo's Guide to Monsters p. 134,
+    <description>Source:	Volo&apos;s Guide to Monsters p. 134,
 		The Wild Beyond the Witchlight p. 233</description>
     <trait>
       <name>Proficiency Bonus</name>
@@ -952,10 +952,10 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
 Endelyn makes two Puppeteer's Lash attacks</text>
     </action>
     <action>
-      <name>Puppeteer's Lash</name>
+      <name>Puppeteer&apos;s Lash</name>
       <text>
 Melee or Ranged Spell Attack: +6 to hit, reach 5 ft. or range 60 ft., one creature. Hit: 17 (4d6 + 3) psychic damage, and if the target is Large or smaller, Endelyn telekinetically moves it up to 10 feet in any direction horizontally.</text>
-      <attack>Puppeteer's Lash|+6|4d6+3</attack>
+      <attack>Puppeteer&apos;s Lash|+6|4d6+3</attack>
     </action>
     <action>
       <name>Spellcasting</name>
@@ -1251,7 +1251,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) pierci
     <conditionimmune>charmed, exhaustion, frightened, paralyzed, petrified</conditionimmune>
     <senses/>
     <passive>16</passive>
-    <languages>Celestial, Common, Elvish and Sylvan but can't speak</languages>
+    <languages>Celestial, Common, Elvish and Sylvan but can&apos;t speak</languages>
     <cr>2</cr>
     <description>Source:	The Wild Beyond the Witchlight p. 181</description>
     <trait>
@@ -1604,7 +1604,7 @@ Iggwilv utters a phrase in a forbidden language and targets one or two creatures
       <text>
 Iggwilv targets one creature she can see within 60 feet of her. The target must succeed on a DC 22 Charisma saving throw or be possessed by a fey spirit. While possessed, the target must obey Iggwilv's commands. The target can repeat the saving throw at the end of each of its turns, banishing the fey spirit and ending the effect on itself on a success.</text>
     </legendary>
-    <spells>detect magic, disguise self, invisibility, light, mage hand, message, prestidigitation, Tasha's hideous laughter, dispel magic, fly, polymorph, maze, telekinesis, teleport, wish</spells>
+    <spells>detect magic, disguise self, invisibility, light, mage hand, message, prestidigitation, Tasha&apos;s hideous laughter, dispel magic, fly, polymorph, maze, telekinesis, teleport, wish</spells>
     <slots/>
     <environment/>
   </monster>
@@ -1796,10 +1796,10 @@ Kelek wears bracers of defense and carries a staff of striking with 10 charges. 
 Kelek makes three attacks using Sorcerer's Bolt, Staff of Striking, or a combination of them. He can replace one of the attacks with a use of Spellcasting.</text>
     </action>
     <action>
-      <name>Sorcerer's Bolt</name>
+      <name>Sorcerer&apos;s Bolt</name>
       <text>
 Melee or Ranged Spell Attack: +6 to hit, reach 5 ft. or range 60 ft., one target. Hit: 13 (2d12) force damage.</text>
-      <attack>Sorcerer's Bolt|+6|2d12</attack>
+      <attack>Sorcerer&apos;s Bolt|+6|2d12</attack>
     </action>
     <action>
       <name>Staff of Striking</name>
@@ -1920,7 +1920,7 @@ Kettlesteam targets one creature she can see within 10 feet of her. The target i
     <passive>15</passive>
     <languages>Dwarvish, Gnomish, Sylvan, Terran, Undercommon</languages>
     <cr>7</cr>
-    <description>Source:	Volo's Guide to Monsters p. 168,
+    <description>Source:	Volo&apos;s Guide to Monsters p. 168,
 		The Wild Beyond the Witchlight p. 237</description>
     <trait>
       <name>Proficiency Bonus</name>
@@ -1963,7 +1963,7 @@ The korred casts one of the following spells, requiring no spell components and 
       <text>
 The korred has at least one 50-foot-long rope woven out of its hair. The korred commands one such rope within 30 feet of it to move up to 20 feet and entangle a Large or smaller creature that the korred can see. The target must succeed on a DC 13 Dexterity saving throw or become grappled by the rope (escape DC 13). Until this grapple ends, the target is restrained. The korred can use a bonus action to release the target, which is also freed if the korred dies or becomes incapacitated. A rope of korred hair has AC 20 and 20 hit points. It regains 1 hit point at the start of each of the korred's turns while the rope has at least 1 hit point and the korred is alive. If the rope drops to 0 hit points, it is destroyed.</text>
     </action>
-    <spells>commune with nature, meld into stone, stone shape, Otto's irresistible dance</spells>
+    <spells>commune with nature, meld into stone, stone shape, Otto&apos;s irresistible dance</spells>
     <slots/>
     <environment>forest</environment>
   </monster>
@@ -2417,7 +2417,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 3 piercing damage.
     <passive>15</passive>
     <languages>Common, Sylvan</languages>
     <cr>1</cr>
-    <description>Source:	Volo's Guide to Monsters p. 187,
+    <description>Source:	Volo&apos;s Guide to Monsters p. 187,
 		Lost Laboratory of Kwalish p. 46,
 		The Wild Beyond the Witchlight p. 239</description>
     <trait>
@@ -3321,7 +3321,7 @@ The treant magically animates one or two trees it can see within 60 feet of it. 
     <conditionimmune>blinded, deafened</conditionimmune>
     <senses>blindsight 60 ft. (blind beyond this radius)</senses>
     <passive>10</passive>
-    <languages>understands Common and Druidic but doesn't speak</languages>
+    <languages>understands Common and Druidic but doesn&apos;t speak</languages>
     <cr>7</cr>
     <description>Source:	Curse of Strahd p. 230,
 		The Wild Beyond the Witchlight p. 84</description>
@@ -3431,7 +3431,7 @@ Warduke regains 13 hit points.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Will-o'-Wisp (Variant)</name>
+    <name>Will-o&apos;-Wisp (Variant)</name>
     <size>T</size>
     <type>undead</type>
     <alignment>chaotic good</alignment>
@@ -3669,7 +3669,7 @@ Until this grapple ends, the target takes 8 (2d4 + 3) slashing damage at the sta
       <attack>Garrote|+5|2d4+3</attack>
     </action>
     <action>
-      <name>Assassin's Whim (Bonus Action)</name>
+      <name>Assassin&apos;s Whim (Bonus Action)</name>
       <text>
 Zarak takes the Dash, Disengage, or Hide action.</text>
     </action>

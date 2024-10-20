@@ -14,7 +14,7 @@ Source:	Crown of the Oathbreaker p. 878 (Homebrew)</text>
 
       <feature optional="YES">
         <name>Circle of the Bloom (HB): Circle Spells</name>
-        <text>Your mystical connection to plant life infuses you with the ability to cast certain spells. At 3rd, 5th, 7th, and 9th level you gain access to circle spells Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
+        <text>Your mystical connection to plant life infuses you with the ability to cast certain spells. At 3rd, 5th, 7th, and 9th level you gain access to circle spells Once you gain access to a circle spell, you always have it prepared, and it doesn&apos;t count against the number of spells you can prepare each day. If you gain access to a spell that doesn&apos;t appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
 Circle of the Bloom Spells:
 Druid Level | Spells
@@ -37,7 +37,7 @@ Source:	Crown of the Oathbreaker p. 878 (Homebrew)</text>
 
       <feature optional="YES">
         <name>Circle of the Bloom (HB): Speak with Plants</name>
-        <text>Starting at 2nd level, you gain the ability to converse with plants. You can cast the speak with plants spell without expending a spell slot or material components. Once you use this feature, you can't use it again until you finish a short or long rest.
+        <text>Starting at 2nd level, you gain the ability to converse with plants. You can cast the speak with plants spell without expending a spell slot or material components. Once you use this feature, you can&apos;t use it again until you finish a short or long rest.
 
 Source:	Crown of the Oathbreaker p. 878 (Homebrew)</text>
       </feature>
@@ -45,7 +45,7 @@ Source:	Crown of the Oathbreaker p. 878 (Homebrew)</text>
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Circle of the Bloom (HB): Land's Stride</name>
+        <name>Circle of the Bloom (HB): Land&apos;s Stride</name>
         <text>Starting at 6th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
 In addition, you gain advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the entangle spell.
@@ -93,7 +93,7 @@ Source:	Crown of the Oathbreaker p. 879 (Homebrew)</text>
 
       <feature optional="YES">
         <name>Circle of the Savage Blood: Circle Spells</name>
-        <text>Starting at 2nd level, you gain access to the true strike cantrip and the following circle spells, which are always prepared and don't count towards the number of spells you can prepare each day.
+        <text>Starting at 2nd level, you gain access to the true strike cantrip and the following circle spells, which are always prepared and don&apos;t count towards the number of spells you can prepare each day.
 
 Circle of the Savage Blood Spells:
 Druid Level | Spells
@@ -165,14 +165,14 @@ Source:	Crown of the Oathbreaker p. 879 (Homebrew)</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Druid Circle: Inheritor of the Unbegotten (HB)</name>
-        <text>The drow of House Ausstyl, one of the ancient drow houses of the Feyrealm, have venerated otherworldly abominations since the dawn of time. The druidic tradition of the aberration worshiping dark elves of the Dark Below includes merging one's body with unspeakable, indescribable beings that have penetrated reality from beyond time and space. The Inheritors of the Unbegotten are not just aberrant creatures themselves, but they are also vital instruments and gatekeepers of the horrors they worship.
+        <text>The drow of House Ausstyl, one of the ancient drow houses of the Feyrealm, have venerated otherworldly abominations since the dawn of time. The druidic tradition of the aberration worshiping dark elves of the Dark Below includes merging one&apos;s body with unspeakable, indescribable beings that have penetrated reality from beyond time and space. The Inheritors of the Unbegotten are not just aberrant creatures themselves, but they are also vital instruments and gatekeepers of the horrors they worship.
 
 Source:	Crown of the Oathbreaker p. 880 (Homebrew)</text>
       </feature>
 
       <feature optional="YES">
         <name>Inheritor of the Unbegotten (HB): Circle Spells</name>
-        <text>Starting at 2nd level, you gain access to the eldritch blast can-trip and the following circle spells, which are always prepared and don't count towards the number of spells you can prepare each day.
+        <text>Starting at 2nd level, you gain access to the eldritch blast can-trip and the following circle spells, which are always prepared and don&apos;t count towards the number of spells you can prepare each day.
 
 Inheritor of the Unbegotten Spells:
 Druid Level | Spells
@@ -186,14 +186,14 @@ Source:	Crown of the Oathbreaker p. 880 (Homebrew)</text>
 
       <feature optional="YES">
         <name>Inheritor of the Unbegotten (HB): Voice of the Void</name>
-        <text>Starting at 2nd level, you learn how to converse with aberrations. You learn how to speak, read, and write Deep Speech. You can also make yourself understood by aberrations that don't speak Dark Speech or are not capable of speech.
+        <text>Starting at 2nd level, you learn how to converse with aberrations. You learn how to speak, read, and write Deep Speech. You can also make yourself understood by aberrations that don&apos;t speak Dark Speech or are not capable of speech.
 
 Source:	Crown of the Oathbreaker p. 880 (Homebrew)</text>
       </feature>
 
       <feature optional="YES">
         <name>Inheritor of the Unbegotten (HB): Incomprehensible Intellect</name>
-        <text>Starting at 2nd level, your mind becomes as obscure and alien as the beings you venerate. Your thoughts can't be read by magical means and you become immune to being charmed.
+        <text>Starting at 2nd level, your mind becomes as obscure and alien as the beings you venerate. Your thoughts can&apos;t be read by magical means and you become immune to being charmed.
 
 Source:	Crown of the Oathbreaker p. 880 (Homebrew)</text>
       </feature>

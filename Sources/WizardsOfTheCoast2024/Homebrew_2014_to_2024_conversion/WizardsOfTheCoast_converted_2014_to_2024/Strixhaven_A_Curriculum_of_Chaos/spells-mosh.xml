@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <spell>
     <name>Borrowed Knowledge [2014]</name>
@@ -9,7 +10,7 @@
     <components>V, S, M (a book worth at least 25 gp)</components>
     <duration>1 hour</duration>
     <classes>Bard, Cleric, Warlock, Wizard, Rogue (Arcane Trickster), Sorcerer (Divine Soul), Fighter (Eldritch Knight)</classes>
-    <text>You draw on knowledge from spirits of the past. Choose one skill in which you lack proficiency. For the spell's duration, you have proficiency in the chosen skill. The spell ends early if you cast it again.
+    <text>You draw on knowledge from spirits of the past. Choose one skill in which you lack proficiency. For the spell&apos;s duration, you have proficiency in the chosen skill. The spell ends early if you cast it again.
 
 Source:	Strixhaven: A Curriculum of Chaos p. 37</text>
   </spell>
@@ -25,8 +26,8 @@ Source:	Strixhaven: A Curriculum of Chaos p. 37</text>
     <text>You magically empower your movement with dance-like steps, giving yourself the following benefits for the duration.
 
 	• Your walking speed increases by 10 feet.
-	• You don't provoke opportunity attacks.
-	• You can move through the space of another creature, and it doesn't count as difficult terrain. If you end your turn in another creature's space, you are shunted to the last unoccupied space you occupied, and you take 1d8 force damage.
+	• You don&apos;t provoke opportunity attacks.
+	• You can move through the space of another creature, and it doesn&apos;t count as difficult terrain. If you end your turn in another creature&apos;s space, you are shunted to the last unoccupied space you occupied, and you take 1d8 force damage.
 
 Source:	Strixhaven: A Curriculum of Chaos p. 37</text>
     <roll>1d8</roll>

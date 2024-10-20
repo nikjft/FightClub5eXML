@@ -68,7 +68,7 @@ Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 2 (Homebrew)</text>
     <autolevel level="15">
       <feature optional="YES">
         <name>Bounty Hunter (HB): The Most Dangerous Game</name>
-        <text>Your supernatural instincts allow you to predict your foe's attacks. After you hit a creature with a weapon attack, any time that creature damages you until the start of your next turn, the damage is reduced by an amount equal to your Wisdom modifier.
+        <text>Your supernatural instincts allow you to predict your foe&apos;s attacks. After you hit a creature with a weapon attack, any time that creature damages you until the start of your next turn, the damage is reduced by an amount equal to your Wisdom modifier.
 
 Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 2 (Homebrew)</text>
       </feature>
@@ -77,7 +77,7 @@ Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 2 (Homebrew)</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Ranger Archetype: Buccaneer (HB)</name>
-        <text>Combining their survival skills, affinity for nature magic, and passion for the high seas, Buccaneers are Rangers who feel more at home on the water than on solid ground. Serving as sailors, pirates, marines, and privateers, they are often one of the most valuable members of their vessel's crew. What drove you to the sea? Were you pressed into service by a pirate king? Or, have you sworn to slay a sea monster?
+        <text>Combining their survival skills, affinity for nature magic, and passion for the high seas, Buccaneers are Rangers who feel more at home on the water than on solid ground. Serving as sailors, pirates, marines, and privateers, they are often one of the most valuable members of their vessel&apos;s crew. What drove you to the sea? Were you pressed into service by a pirate king? Or, have you sworn to slay a sea monster?
 
 Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 3 (Homebrew)</text>
       </feature>
@@ -150,13 +150,13 @@ Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 3 (Homebrew)</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Ranger Archetype: Grim Warden (HB)</name>
-        <text>Sometimes it takes a monster to destroy a monster. Rangers that take up the mantle of the Grim Warden undergo a dark alchemical ritual, known as the Warden's Rite, where they inject sinister alchemical compounds into their bloodstream to enhance their physical abilities. They sacrifice any chance for a normal life, mingling their blood with that of monsters, in order to gain sinister power to destroy their foes.
+        <text>Sometimes it takes a monster to destroy a monster. Rangers that take up the mantle of the Grim Warden undergo a dark alchemical ritual, known as the Warden&apos;s Rite, where they inject sinister alchemical compounds into their bloodstream to enhance their physical abilities. They sacrifice any chance for a normal life, mingling their blood with that of monsters, in order to gain sinister power to destroy their foes.
 
 Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 4 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Grim Warden (HB): Warden's Rite</name>
-        <text>You have undergone the Warden's Rite, an alchemical ritual that suffuses your blood with the sinister power of monsters. You change in the ways below, which cannot be reversed:
+        <name>Grim Warden (HB): Warden&apos;s Rite</name>
+        <text>You have undergone the Warden&apos;s Rite, an alchemical ritual that suffuses your blood with the sinister power of monsters. You change in the ways below, which cannot be reversed:
 
 	• You count as both a humanoid and a monstrosity.
 
@@ -210,7 +210,7 @@ Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 4 (Homebrew)</text>
     <autolevel level="15">
       <feature optional="YES">
         <name>Grim Warden (HB): Sanguine Mastery</name>
-        <text>The magic of your Warden's Rite manifests its full potential. You have advantage on saving throws to resist the frightened condition, and you are always under the effects of protection from good &amp; evil while you are conscious.
+        <text>The magic of your Warden&apos;s Rite manifests its full potential. You have advantage on saving throws to resist the frightened condition, and you are always under the effects of protection from good &amp; evil while you are conscious.
 
 Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 4 (Homebrew)</text>
       </feature>
@@ -239,7 +239,7 @@ Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 5 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Nomad Conclave (HB): Expunging Strikes</name>
-        <text>You can imbue your strikes with the psionic power of the noosphere to disrupt your foe's mind. Once per turn when you hit a creature with a weapon attack, you can force it to make an Intelligence saving throw against your Ranger Spell save DC. On a failure, you deal a bonus 1d4 psychic damage to the target and it cannot see, hear, or sense you in any way until the beginning of your next turn.
+        <text>You can imbue your strikes with the psionic power of the noosphere to disrupt your foe&apos;s mind. Once per turn when you hit a creature with a weapon attack, you can force it to make an Intelligence saving throw against your Ranger Spell save DC. On a failure, you deal a bonus 1d4 psychic damage to the target and it cannot see, hear, or sense you in any way until the beginning of your next turn.
 
 Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 5 (Homebrew)</text>
       </feature>
@@ -254,7 +254,7 @@ Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 5 (Homebrew)</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Nomad Conclave (HB): Nomad's Step</name>
+        <name>Nomad Conclave (HB): Nomad&apos;s Step</name>
         <text>You can temporarily merge your consciousness with the Noosphere to avoid harm and move through the world in strange ways. You gain the two features below. You can use these features a combined number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
 Phase Defence:
@@ -269,7 +269,7 @@ Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 5 (Homebrew)</text>
     <autolevel level="11">
       <feature optional="YES">
         <name>Nomad Conclave (HB): Strange Movement</name>
-        <text>Your connection to the Noosphere has grown. You regain all uses of Nomad's Step when you finish a short or long rest.
+        <text>Your connection to the Noosphere has grown. You regain all uses of Nomad&apos;s Step when you finish a short or long rest.
 
 Also, the damage of Expunging Strike increases to 2d4.
 
@@ -431,7 +431,7 @@ Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 8 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Stargazer (HB): Constellation Spells</name>
-        <text>You draw your power from the stars of the night sky. When you finish a long rest, you attune to one of the Constellations below. While attuned, you know its Constellation spells, one Cantrip and one 1st-level spell. They count as Ranger spells for you but don't count against your Ranger Spells Known.
+        <text>You draw your power from the stars of the night sky. When you finish a long rest, you attune to one of the Constellations below. While attuned, you know its Constellation spells, one Cantrip and one 1st-level spell. They count as Ranger spells for you but don&apos;t count against your Ranger Spells Known.
 
 You can cast your 1st-level Constellation spell once without expending a spell slot, at the level of your highest level slot as shown on the Ranger table for your level, and you regain the ability to do so when you finish a short or long rest.
 
@@ -448,7 +448,7 @@ Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 8 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Stargazer (HB): Celestial Guidance</name>
-        <text>The constellations of the night sky guide your steps. You gain proficiency in cartographer's or navigator's tools, and you cannot become lost, even by magical means so long as you can see the stars of the night sky.
+        <text>The constellations of the night sky guide your steps. You gain proficiency in cartographer&apos;s or navigator&apos;s tools, and you cannot become lost, even by magical means so long as you can see the stars of the night sky.
 
 Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 8 (Homebrew)</text>
       </feature>
@@ -498,7 +498,7 @@ Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 8 (Homebrew)</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Ranger Archetype: Trapper (HB)</name>
-        <text>While all Rangers have some skill with snares and traps, few are true masters of the craft. These Trappers are meticulous planners with mechanical minds who use their skills to plan ambushes and set snares for their foes. They have a talent for anticipating their foe's next move and laying the perfect trap.
+        <text>While all Rangers have some skill with snares and traps, few are true masters of the craft. These Trappers are meticulous planners with mechanical minds who use their skills to plan ambushes and set snares for their foes. They have a talent for anticipating their foe&apos;s next move and laying the perfect trap.
 
 Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 9 (Homebrew)</text>
       </feature>
@@ -518,7 +518,7 @@ Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 9 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Trapper (HB): Meticulous Fingers</name>
-        <text>You are exceptionally gifted with mechanical objects. You gain proficiency in Sleight of Hand and with thieves' tools and tinker's tools. You can also take the Use an Object action as a bonus action on your turns.
+        <text>You are exceptionally gifted with mechanical objects. You gain proficiency in Sleight of Hand and with thieves&apos; tools and tinker&apos;s tools. You can also take the Use an Object action as a bonus action on your turns.
 
 Also, if you have access to the inner workings of a disarmed trap, you can use tinker's tools to rearm the trap (so long as reaming it is possible). If you do, its new DC equals your Spell save DC.
 
@@ -542,7 +542,7 @@ Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 9 (Homebrew)</text>
     <autolevel level="7">
       <feature optional="YES">
         <name>Trapper (HB): Combat Snares</name>
-        <text>You can quickly assemble and use makeshift traps in combat. As an action, you can craft a Trap and throw it at a space you can see within 20 feet. Creatures in that area make a saving throw as if they had moved into the Trap's space, suffering its effects on a failure. Traps crafted this way last for 1 minute.
+        <text>You can quickly assemble and use makeshift traps in combat. As an action, you can craft a Trap and throw it at a space you can see within 20 feet. Creatures in that area make a saving throw as if they had moved into the Trap&apos;s space, suffering its effects on a failure. Traps crafted this way last for 1 minute.
 
 You can also take the Use an Object action to throw a Trap that you had already crafted at a creature in this way.
 
@@ -552,7 +552,7 @@ Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 9 (Homebrew)</text>
     <autolevel level="11">
       <feature optional="YES">
         <name>Trapper (HB): Deadly Snares</name>
-        <text>Your skill has grown and increased the potency of your traps. Creatures automatically fail the initial saving throw against your Traps they are unaware of the Trap's location. Moreover, any Traps you craft now work on creatures that are Huge or smaller, and if a creature makes a saving throw against your Trap, it takes 3d8 magical bludgeoning, piercing, or slashing damage (your choice) on a failure, and half that on a success.
+        <text>Your skill has grown and increased the potency of your traps. Creatures automatically fail the initial saving throw against your Traps they are unaware of the Trap&apos;s location. Moreover, any Traps you craft now work on creatures that are Huge or smaller, and if a creature makes a saving throw against your Trap, it takes 3d8 magical bludgeoning, piercing, or slashing damage (your choice) on a failure, and half that on a success.
 
 Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 9 (Homebrew)</text>
       </feature>
@@ -591,7 +591,7 @@ Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 10 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Wastelander (HB): Wasteland Weaver</name>
-        <text>You have mastered an ancient pattern of enhancing clothing. You gain proficiency with weaver's tools, and you add double your proficiency bonus to your checks with weaver's tools.
+        <text>You have mastered an ancient pattern of enhancing clothing. You gain proficiency with weaver&apos;s tools, and you add double your proficiency bonus to your checks with weaver&apos;s tools.
 
 At the end of each long rest, you can use weaver's tools to enhance one set of clothing or cloak. While a creature wears this enhanced garment it gains the following benefits:
 
@@ -634,7 +634,7 @@ Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 10 (Homebrew)</text>
     <autolevel level="11">
       <feature optional="YES">
         <name>Wastelander (HB): Illusory Strikes</name>
-        <text>You enhance your combat style with potent illusion magic. When you take the Attack action on your turn, you can use a bonus action to create an Illusory Duplicate of yourself in an unoccupied space you can see within 30 feet. It makes one attack with a duplicate of your weapon, which deals force damage in place of your weapon's damage and disappears.
+        <text>You enhance your combat style with potent illusion magic. When you take the Attack action on your turn, you can use a bonus action to create an Illusory Duplicate of yourself in an unoccupied space you can see within 30 feet. It makes one attack with a duplicate of your weapon, which deals force damage in place of your weapon&apos;s damage and disappears.
 
 Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 10 (Homebrew)</text>
       </feature>
@@ -729,7 +729,7 @@ Ranger Level | Spell
 Source:	LaserLlama: Ranger Archetypes v3.0.0 p. 12 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Alternate Hunter Options (HB): Hunter's Prey</name>
+        <name>Alternate Hunter Options (HB): Hunter&apos;s Prey</name>
         <text>You have specialized your fighting style to counter certain monsters. At 3rd level, can also choose the following:
 
 Crippling Strike:

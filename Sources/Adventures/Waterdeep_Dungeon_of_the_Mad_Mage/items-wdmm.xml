@@ -7,7 +7,7 @@
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>Any creature that attunes to the tablet must make a DC 20 Wisdom saving throw at the end of its next long rest. On a failed save, the creature becomes afflicted with a random form of long-term madness (see "Madness" in chapter 8 of the Dungeon Master's Guide).
+    <text>Any creature that attunes to the tablet must make a DC 20 Wisdom saving throw at the end of its next long rest. On a failed save, the creature becomes afflicted with a random form of long-term madness (see "Madness" in chapter 8 of the Dungeon Master&apos;s Guide).
 
 As an action, a creature attuned to the Black Crystal Tablet can use it to cast eyebite or gate (the portal created by this spell links to the Far Realm only). After the tablet is used to cast a spell, it cannot be used again until the next dawn.
 
@@ -35,7 +35,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 310</text>
     <magic>YES</magic>
     <weight>25</weight>
     <property/>
-    <text>Food and other perishable items do not age or decay while inside a Chest of Preserving. The chest is 2½ feet long, 1½ feet wide, and 1 foot tall with a half-barrel lid. The chest has a lock, which can be picked with thieves' tools and a successful DC 15 Dexterity check. Smashing the lock or any other part of the chest renders it nonmagical.
+    <text>Food and other perishable items do not age or decay while inside a Chest of Preserving. The chest is 2½ feet long, 1½ feet wide, and 1 foot tall with a half-barrel lid. The chest has a lock, which can be picked with thieves&apos; tools and a successful DC 15 Dexterity check. Smashing the lock or any other part of the chest renders it nonmagical.
 
 Source:	Waterdeep: Dungeon of the Mad Mage p. 139</text>
   </item>
@@ -45,7 +45,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 139</text>
     <type>W</type>
     <weight/>
     <property/>
-    <text>The Circlet of Human Perfection transforms its attuned wearer into an attractive human of average height and weight. The circlet chooses the physical characteristics of the form, such as age, gender, skin color, hair color, and voice. Except for size, the wearer's statistics and racial traits don't change, nor do items worn or carried by the wearer. Removing the circlet ends the effect.
+    <text>The Circlet of Human Perfection transforms its attuned wearer into an attractive human of average height and weight. The circlet chooses the physical characteristics of the form, such as age, gender, skin color, hair color, and voice. Except for size, the wearer&apos;s statistics and racial traits don&apos;t change, nor do items worn or carried by the wearer. Removing the circlet ends the effect.
 
 Source:	Waterdeep: Dungeon of the Mad Mage p. 30</text>
   </item>
@@ -120,12 +120,12 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 284</text>
     <roll>1d10</roll>
   </item>
   <item>
-    <name>Falkir's Helm of Pigheadedness</name>
+    <name>Falkir&apos;s Helm of Pigheadedness</name>
     <detail>Other, Cursed</detail>
     <type>W</type>
     <weight/>
     <property/>
-    <text>This steel helm is shaped like the head of a boar. Once you don the helm, it can't be removed until you die or until a remove curse spell or similar magic is cast on it. If you wear the helm and are a humanoid, you gain the following flaw until the helm is removed: "I'm exceedingly stubborn and think I'm right all the time." (This flaw supersedes any conflicting flaw.)
+    <text>This steel helm is shaped like the head of a boar. Once you don the helm, it can't be removed until you die or until a remove curse spell or similar magic is cast on it. If you wear the helm and are a humanoid, you gain the following flaw until the helm is removed: "I&apos;m exceedingly stubborn and think I&apos;m right all the time." (This flaw supersedes any conflicting flaw.)
 
 Source:	Waterdeep: Dungeon of the Mad Mage p. 141</text>
   </item>
@@ -168,7 +168,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 297</text>
     <magic>YES</magic>
     <weight>2</weight>
     <property/>
-    <text>You can use an action to blow this horn. In response, warrior spirits from the Abyss appear within 60 feet of you. These spirits look like minotaurs, and use the berserker statistics. They return to Abyss after 1 hour or when they drop to 0 hit points. Once you use the horn, it can't be used again until 7 days have passed.
+    <text>You can use an action to blow this horn. In response, warrior spirits from the Abyss appear within 60 feet of you. These spirits look like minotaurs, and use the berserker statistics. They return to Abyss after 1 hour or when they drop to 0 hit points. Once you use the horn, it can&apos;t be used again until 7 days have passed.
 
 The horn summons 3d4 + 3 berserker. To use the horn, you must be proficient with all simple weapons.
 
@@ -184,7 +184,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 163</text>
     <type>RG</type>
     <weight/>
     <property/>
-    <text>Allows an attuned wearer to ignore Undermountain's magical restrictions (see "Alterations to Magic", page 10).
+    <text>Allows an attuned wearer to ignore Undermountain&apos;s magical restrictions (see "Alterations to Magic", page 10).
 
 Source:	Waterdeep: Dungeon of the Mad Mage p. 108</text>
   </item>
@@ -204,12 +204,12 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 92</text>
     <roll>1d4+1</roll>
   </item>
   <item>
-    <name>Maddgoth's Helm</name>
+    <name>Maddgoth&apos;s Helm</name>
     <detail>very rare (requires attunement by a humanoid)</detail>
     <type>W</type>
     <weight/>
     <property/>
-    <text>A creature attuned to the helm and wearing it has immunity to all damage while inside Maddgoth's castle, on its roof, or in its courtyard. If the helm is taken from the castle, it turns to dust and is destroyed.
+    <text>A creature attuned to the helm and wearing it has immunity to all damage while inside Maddgoth&apos;s castle, on its roof, or in its courtyard. If the helm is taken from the castle, it turns to dust and is destroyed.
 
 Source:	Waterdeep: Dungeon of the Mad Mage p. 103</text>
   </item>
@@ -219,7 +219,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 103</text>
     <type>W</type>
     <weight/>
     <property/>
-    <text>A creature with the skull in its possession is invisible to mind flayers, as is anything the creature is wearing or carrying. The skull crumbles to dust and is destroyed 1d10 days after leaving the statue's grasp.
+    <text>A creature with the skull in its possession is invisible to mind flayers, as is anything the creature is wearing or carrying. The skull crumbles to dust and is destroyed 1d10 days after leaving the statue&apos;s grasp.
 
 Source:	Waterdeep: Dungeon of the Mad Mage p. 197</text>
   </item>
@@ -261,7 +261,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 62</text>
     <type>P</type>
     <weight/>
     <property/>
-    <text>When you drink this potion, you gain the following benefits for the next 8 hours: magic can't put you to sleep, and you can remain awake during a long rest and still gain its benefits. This sweet, amber-colored brew has no effect on creatures that don't require sleep, such as elves.
+    <text>When you drink this potion, you gain the following benefits for the next 8 hours: magic can&apos;t put you to sleep, and you can remain awake during a long rest and still gain its benefits. This sweet, amber-colored brew has no effect on creatures that don&apos;t require sleep, such as elves.
 
 Source:	Waterdeep: Dungeon of the Mad Mage p. 62</text>
   </item>
@@ -290,7 +290,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 284</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>While worn, the helm allows its wearer to use an action to cast the levitate spell, requiring no components. The helm's propeller spins and whirs loudly until the spell ends. Each time the spell ends, there is a 50 percent chance that the helm loses its magic and becomes nonmagical.
+    <text>While worn, the helm allows its wearer to use an action to cast the levitate spell, requiring no components. The helm&apos;s propeller spins and whirs loudly until the spell ends. Each time the spell ends, there is a 50 percent chance that the helm loses its magic and becomes nonmagical.
 
 Source:	Waterdeep: Dungeon of the Mad Mage p. 251</text>
   </item>
@@ -341,7 +341,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 244</text>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
-    <text>The longsword, Tearulai, is a sentient, neutral good sword of sharpness with an emerald-colored blade and precious gemstones embedded in its hilt and pommel. The sword's magical properties are suppressed until it is removed from Valdemar's skull.
+    <text>The longsword, Tearulai, is a sentient, neutral good sword of sharpness with an emerald-colored blade and precious gemstones embedded in its hilt and pommel. The sword&apos;s magical properties are suppressed until it is removed from Valdemar&apos;s skull.
 
 Evil creatures can't attune to Tearulai; any evil creature that tries to do so takes 20 psychic damage. The weapon's emerald blade can't be damaged or dulled, and the sword can't be teleported anywhere without its wielder while the two are attuned to one another.
 
@@ -367,7 +367,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 76</text>
     <roll>1d4+2</roll>
   </item>
   <item>
-    <name>Vanrak's Mithral Shirt</name>
+    <name>Vanrak&apos;s Mithral Shirt</name>
     <detail>chain shirt, uncommon</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -375,7 +375,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 76</text>
     <property/>
     <ac>13</ac>
     <strength/>
-    <text>Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.
+    <text>Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn&apos;t.
 
 While you wear this armor, you gain darkvision out to a range of 60 feet.
 
@@ -392,7 +392,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 237</text>
 Source:	Waterdeep: Dungeon of the Mad Mage p. 251</text>
   </item>
   <item>
-    <name>Wyllow's Staff of Flowers</name>
+    <name>Wyllow&apos;s Staff of Flowers</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>

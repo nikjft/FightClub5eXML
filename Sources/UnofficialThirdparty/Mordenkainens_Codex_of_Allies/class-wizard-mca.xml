@@ -54,7 +54,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 35 (Homebrew)</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Invention (HB): Improved Infusion</name>
-        <text>At 10th level, the armor's potency increases. It gains +2 AC, and whenever you finish a long rest, you can choose 1 additional effect from the table.
+        <text>At 10th level, the armor&apos;s potency increases. It gains +2 AC, and whenever you finish a long rest, you can choose 1 additional effect from the table.
 
 In addition, you can use your action to shift one of the magical effects from your Infused Armor to an ally within 60 feet that you can see. The armor loses that effect, and the ally gains that effect until you use this feature again or you and the ally are separated by more than 60 feet.
 
@@ -90,7 +90,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 36 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Lore Mastery (HB): Alchemical Dualism</name>
-        <text>At 2nd level, you master the first in a series of arcane secrets uncovered by your extensive studies. When you cast a spell with a spell slot and the spell deals acid, cold, fire, lightning, necrotic, poison, radiant, or thunder damage, you can substitute that damage type with its alchemically paired damage type (you can change only one damage type per casting of a spell). You replace one energy type for another by altering the spell's formula as you cast it. The paired damage types are as follows.
+        <text>At 2nd level, you master the first in a series of arcane secrets uncovered by your extensive studies. When you cast a spell with a spell slot and the spell deals acid, cold, fire, lightning, necrotic, poison, radiant, or thunder damage, you can substitute that damage type with its alchemically paired damage type (you can change only one damage type per casting of a spell). You replace one energy type for another by altering the spell&apos;s formula as you cast it. The paired damage types are as follows.
 
 Acid —— Poison
 Cold —— Fire
@@ -103,7 +103,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 36 (Homebrew)</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Lore Mastery (HB): Structural Shift</name>
-        <text>Starting at 6th level, when you cast a spell with a spell slot and the spell requires a saving throw, you can change the saving throw from one ability score to another of your choice. If the spell requires multiple saving throws, only the first is changed. Once you change a saving throw in this way, you can't do so again until you finish a short or long rest.
+        <text>Starting at 6th level, when you cast a spell with a spell slot and the spell requires a saving throw, you can change the saving throw from one ability score to another of your choice. If the spell requires multiple saving throws, only the first is changed. Once you change a saving throw in this way, you can&apos;t do so again until you finish a short or long rest.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 36 (Homebrew)</text>
       </feature>
@@ -119,7 +119,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 36 (Homebrew)</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Lore Mastery (HB): Master of Magic</name>
-        <text>At 14th level, your knowledge of magic allows you to duplicate almost any spell. As a bonus action, you can call to mind the ability to cast one 8th-level or lower spell of your choice from any class's spell list. The spell must be of a level for which you have spell slots, you mustn't have it prepared, and you follow the normal rules for casting it, including expending a spell slot. If the spell isn't a wizard spell, it counts as a wizard spell when you cast it. The ability to cast the spell vanishes from your mind when you cast it or when the current turn ends.
+        <text>At 14th level, your knowledge of magic allows you to duplicate almost any spell. As a bonus action, you can call to mind the ability to cast one 8th-level or lower spell of your choice from any class's spell list. The spell must be of a level for which you have spell slots, you mustn&apos;t have it prepared, and you follow the normal rules for casting it, including expending a spell slot. If the spell isn&apos;t a wizard spell, it counts as a wizard spell when you cast it. The ability to cast the spell vanishes from your mind when you cast it or when the current turn ends.
 
 Once you use this feature, you can't use it again until you finish a long rest.
 

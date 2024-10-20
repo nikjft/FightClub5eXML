@@ -5,7 +5,7 @@
     <autolevel level="1">
       <feature optional="YES">
         <name>Otherworldly Patron: The Undead (UA)</name>
-        <text>The Undead is an entity that resides in the dark corners of the multiverse. Your patron could be Acererak, Azalin, Lord Soth, Strahd, or some other ancient undead being. You may seek to gain knowledge from your patron's countless lifetimes of experience, while it may see you as a piece of a centuries long plan.
+        <text>The Undead is an entity that resides in the dark corners of the multiverse. Your patron could be Acererak, Azalin, Lord Soth, Strahd, or some other ancient undead being. You may seek to gain knowledge from your patron&apos;s countless lifetimes of experience, while it may see you as a piece of a centuries long plan.
 
 Source:	Unearthed Arcana: 2020 Subclasses Pt4 p. 3</text>
       </feature>
@@ -28,7 +28,7 @@ Source:	Unearthed Arcana: 2020 Subclasses Pt4 p. 3</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>The Undead (UA): Form of Dread</name>
-        <text>You manifest an aspect of your patron's dreadful power. As a bonus action, you transform for 1 minute. You gain the following benefits while transformed:
+        <text>You manifest an aspect of your patron&apos;s dreadful power. As a bonus action, you transform for 1 minute. You gain the following benefits while transformed:
 
 	• You gain temporary hit points equal to 1d10 + your warlock level.
 	• Once during each of your turns, when you hit a creature with an attack, you can force it to make a Wisdom saving throw, and if the saving throw fails, the target is frightened of you until the end of your next turn.
@@ -49,7 +49,7 @@ Source:	Unearthed Arcana: 2020 Subclasses Pt4 p. 3</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>The Undead (UA): Grave Touched</name>
-        <text>Your patron's powers have a profound effect on your body and magic. You don't need to eat, drink, or breathe.
+        <text>Your patron&apos;s powers have a profound effect on your body and magic. You don&apos;t need to eat, drink, or breathe.
 
 In addition, when you hit a creature with an attack and roll damage against the creature, you can replace the damage type with necrotic damage. While you are using your Form of Dread, you can roll one additional damage die when determining the necrotic damage the target takes.
 

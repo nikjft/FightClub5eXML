@@ -67,7 +67,7 @@ Source:	Crown of the Oathbreaker p. 902 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Arcane Sentinel (HB): Advanced Alarm</name>
-        <text>Starting at 2nd level, you gain deeper insight into the working of the alarm spell. Add the alarm spell to your spellbook. The duration of an alarm spell cast by you becomes 24 hours, and it can be both mental and audible. You can also designate other willing creatures to be alerted by your alarm spell's mental alert.
+        <text>Starting at 2nd level, you gain deeper insight into the working of the alarm spell. Add the alarm spell to your spellbook. The duration of an alarm spell cast by you becomes 24 hours, and it can be both mental and audible. You can also designate other willing creatures to be alerted by your alarm spell&apos;s mental alert.
 
 Source:	Crown of the Oathbreaker p. 902 (Homebrew)</text>
       </feature>
@@ -75,7 +75,7 @@ Source:	Crown of the Oathbreaker p. 902 (Homebrew)</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Arcane Sentinel (HB): Empowered Glyph</name>
-        <text>Starting at 6th level, you can inscribe the glyph of warding spell in an instant and make it more potent. Add the glyph or warding spell to your spellbook. You can cast the glyph of warding spell as an action without using a spell slot and reroll a number of the damage dice equal to your Intelligence modifier (minimum 1) when using the spell's explosive runes option. You must use the new rolls.
+        <text>Starting at 6th level, you can inscribe the glyph of warding spell in an instant and make it more potent. Add the glyph or warding spell to your spellbook. You can cast the glyph of warding spell as an action without using a spell slot and reroll a number of the damage dice equal to your Intelligence modifier (minimum 1) when using the spell&apos;s explosive runes option. You must use the new rolls.
 
 Once you use this feature, you can't use it until you finish a long rest.
 
@@ -105,19 +105,19 @@ Source:	Crown of the Oathbreaker p. 903 (Homebrew)</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Arcane Tradition: School of Shadow (HB)</name>
-        <text>The arcane studies of the school of illusions led some specialist mages to discover ways to infuse their spells with shadow material drawn directly from the Shadowrealm. These illusions are tangible, almost real manifestations of their creator's creativity that can physically interact with their surroundings. Most shadow wizards in Aglarion treat their knowledge as a highly kept secret that they rarely teach to others. Many of them have succumbed to the negative influence of the umbral powers they have learned to manifest, turning into bitter, emotionless versions of their former selves.
+        <text>The arcane studies of the school of illusions led some specialist mages to discover ways to infuse their spells with shadow material drawn directly from the Shadowrealm. These illusions are tangible, almost real manifestations of their creator&apos;s creativity that can physically interact with their surroundings. Most shadow wizards in Aglarion treat their knowledge as a highly kept secret that they rarely teach to others. Many of them have succumbed to the negative influence of the umbral powers they have learned to manifest, turning into bitter, emotionless versions of their former selves.
 
 Source:	Crown of the Oathbreaker p. 903 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>School of Shadow (HB): Darksight</name>
-        <text>Starting at 2nd level, your eyes have adapted to darkness. You gain darkvision with a 60 foot radius, or your darkvision's radius improves by 60 feet if you already have darkvision.
+        <text>Starting at 2nd level, your eyes have adapted to darkness. You gain darkvision with a 60 foot radius, or your darkvision&apos;s radius improves by 60 feet if you already have darkvision.
 
 Source:	Crown of the Oathbreaker p. 903 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>School of Shadow (HB): Shadow Shield</name>
-        <text>Starting at 2nd level, you can instantly create a tangled mass of shadows that make you harder to hit. You can use your reaction to conjure a shadowy aura that negates one hit by an attack that targets you. Once you use this feature, you can't do so again until you finish a short or long rest.
+        <text>Starting at 2nd level, you can instantly create a tangled mass of shadows that make you harder to hit. You can use your reaction to conjure a shadowy aura that negates one hit by an attack that targets you. Once you use this feature, you can&apos;t do so again until you finish a short or long rest.
 
 Source:	Crown of the Oathbreaker p. 903 (Homebrew)</text>
       </feature>

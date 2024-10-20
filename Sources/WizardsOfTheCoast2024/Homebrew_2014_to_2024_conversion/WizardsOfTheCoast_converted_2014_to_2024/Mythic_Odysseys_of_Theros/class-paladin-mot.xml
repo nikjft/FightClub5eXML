@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <!--class>
     <name>Paladin</name>
     <autolevel level="3">
       <feature optional="YES">
         <name>Sacred Oath: Oath of Glory</name>
-        <text>Paladins who take the Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions so they're all ready when destiny calls.
+        <text>Paladins who take the Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions so they&apos;re all ready when destiny calls.
 
 Source:	Mythic Odysseys of Theros p. 29</text>
       </feature>
@@ -79,7 +80,7 @@ Source:	Mythic Odysseys of Theros p. 29</text>
     <autolevel level="7">
       <feature optional="YES">
         <name>Oath of Glory: Aura of Alacrity</name>
-        <text>You emanate an aura that fills you and your companions with supernatural speed, allowing you to race across a battlefield in formation. Your walking speed increases by 10 feet. In addition, if you aren't incapacitated, the walking speed of any ally who starts their turn within 5 feet of you increases by 10 feet until the end of that turn.
+        <text>You emanate an aura that fills you and your companions with supernatural speed, allowing you to race across a battlefield in formation. Your walking speed increases by 10 feet. In addition, if you aren&apos;t incapacitated, the walking speed of any ally who starts their turn within 5 feet of you increases by 10 feet until the end of that turn.
 
 When you reach 18th level in this class, the range of the aura increases to 10 feet.
 
@@ -90,7 +91,7 @@ Source:	Mythic Odysseys of Theros p. 29</text>
     <autolevel level="15">
       <feature optional="YES">
         <name>Oath of Glory: Glorious Defense</name>
-        <text>You can turn defense into a sudden strike. When you or another creature you can see within 10 feet of you is hit by an attack roll, you can use your reaction to grant a bonus to the target's AC against that attack, potentially causing it to miss. The bonus equals your Charisma modifier (minimum of +1). If the attack misses, you can make one weapon attack against the attacker as part of this reaction, provided the attacker is within your weapon's range.
+        <text>You can turn defense into a sudden strike. When you or another creature you can see within 10 feet of you is hit by an attack roll, you can use your reaction to grant a bonus to the target&apos;s AC against that attack, potentially causing it to miss. The bonus equals your Charisma modifier (minimum of +1). If the attack misses, you can make one weapon attack against the attacker as part of this reaction, provided the attacker is within your weapon&apos;s range.
 
 You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
@@ -107,7 +108,7 @@ Source:	Mythic Odysseys of Theros p. 29</text>
 	• Once on each of your turns when you make a weapon attack and miss, you can cause that attack to hit instead.
 	• If you fail a saving throw, you can use your reaction to reroll it. You must use this new roll.
 
-Once you use this feature, you can't use it again until you finish a long rest, unless you expend a 5th-level spell slot to use it again.
+Once you use this feature, you can&apos;t use it again until you finish a long rest, unless you expend a 5th-level spell slot to use it again.
 
 Source:	Mythic Odysseys of Theros p. 29</text>
       </feature>

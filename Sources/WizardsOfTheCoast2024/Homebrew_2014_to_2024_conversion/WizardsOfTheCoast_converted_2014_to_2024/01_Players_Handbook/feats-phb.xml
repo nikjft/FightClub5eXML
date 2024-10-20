@@ -187,7 +187,7 @@ Source:	Player's Handbook p. 166</text>
   <feat>
     <name>Grappler [2014]</name>
     <prerequisite>Strength 13 or higher</prerequisite>
-    <text>You've developed the skills necessary to hold your own in close-quarters grappling. You gain the following benefits:
+    <text>You&apos;ve developed the skills necessary to hold your own in close-quarters grappling. You gain the following benefits:
 
 	• You have advantage on attack rolls against a creature you are grappling.
 
@@ -198,7 +198,7 @@ Source:	Player's Handbook p. 167</text>
   <feat>
     <name>Great Weapon Master [2014]</name>
     <prerequisite/>
-    <text>You've learned to put the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
+    <text>You&apos;ve learned to put the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
 
 	• On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
 
@@ -244,7 +244,7 @@ Source:	Player's Handbook p. 167</text>
   <feat>
     <name>Inspiring Leader [2014]</name>
     <prerequisite>Charisma 13 or higher</prerequisite>
-    <text>You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can't gain temporary hit points from this feat again until it has finished a short or long rest.
+    <text>You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can&apos;t gain temporary hit points from this feat again until it has finished a short or long rest.
 
 Source:	Player's Handbook p. 167</text>
   </feat>
@@ -397,7 +397,7 @@ Source:	Player's Handbook p. 168</text>
   <!--feat>
     <name>Magic Initiate (Bard)</name>
     <prerequisite/>
-    <text>Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class's spell list.
+    <text>Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class&apos;s spell list.
 
 In addition, choose one 1st-level spell from that same list. You learn that spell and can cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again using this feat.
 
@@ -408,7 +408,7 @@ Source:	Player's Handbook p. 168</text>
   <feat>
     <name>Magic Initiate (Cleric) [2014]</name>
     <prerequisite/>
-    <text>Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class's spell list.
+    <text>Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class&apos;s spell list.
 
 In addition, choose one 1st-level spell from that same list. You learn that spell and can cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again using this feat.
 
@@ -419,7 +419,7 @@ Source:	Player's Handbook p. 168</text>
   <feat>
     <name>Magic Initiate (Druid) [2014]</name>
     <prerequisite/>
-    <text>Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class's spell list.
+    <text>Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class&apos;s spell list.
 
 In addition, choose one 1st-level spell from that same list. You learn that spell and can cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again using this feat.
 
@@ -430,7 +430,7 @@ Source:	Player's Handbook p. 168</text>
   <feat>
     <name>Magic Initiate (Sorcerer) [2014]</name>
     <prerequisite/>
-    <text>Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class's spell list.
+    <text>Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class&apos;s spell list.
 
 In addition, choose one 1st-level spell from that same list. You learn that spell and can cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again using this feat.
 
@@ -441,7 +441,7 @@ Source:	Player's Handbook p. 168</text>
   <feat>
     <name>Magic Initiate (Warlock) [2014]</name>
     <prerequisite/>
-    <text>Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class's spell list.
+    <text>Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class&apos;s spell list.
 
 In addition, choose one 1st-level spell from that same list. You learn that spell and can cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again using this feat.
 
@@ -452,7 +452,7 @@ Source:	Player's Handbook p. 168</text>
   <feat>
     <name>Magic Initiate (Wizard) [2014]</name>
     <prerequisite/>
-    <text>Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class's spell list.
+    <text>Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class&apos;s spell list.
 
 In addition, choose one 1st-level spell from that same list. You learn that spell and can cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again using this feat.
 
@@ -523,7 +523,7 @@ Source:	Player's Handbook p. 168</text>
   <feat>
     <name>Mounted Combatant [2014]</name>
     <prerequisite/>
-    <text>You are a dangerous foe to face while mounted. While you are mounted and aren't incapacitated, you gain the following benefits:
+    <text>You are a dangerous foe to face while mounted. While you are mounted and aren&apos;t incapacitated, you gain the following benefits:
 
 	• You have advantage on melee attack rolls against any unmounted creature that is smaller than your mount.
 
@@ -781,14 +781,14 @@ Source:	Player's Handbook p. 169</text>
   <feat>
     <name>Savage Attacker [2014]</name>
     <prerequisite/>
-    <text>Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon's damage dice and use either total.
+    <text>Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon&apos;s damage dice and use either total.
 
 Source:	Player's Handbook p. 169</text>
   </feat>
   <feat>
     <name>Sentinel [2014]</name>
     <prerequisite/>
-    <text>You have mastered techniques to take advantage of every drop in any enemy's guard, gaining the following benefits:
+    <text>You have mastered techniques to take advantage of every drop in any enemy&apos;s guard, gaining the following benefits:
 
 	• When you hit a creature with an opportunity attack, the creature's speed becomes 0 for the rest of the turn.
 

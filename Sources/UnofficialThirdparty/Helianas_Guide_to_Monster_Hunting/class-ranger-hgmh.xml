@@ -10,8 +10,8 @@
 Source:	Heliana's Guide to Monster Hunting p. 185 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Trapper's Tool</name>
-        <text>Having learnt how to create traps, you've gained an understanding of how to thwart the traps of others. You gain proficiency with thieves' tools and you add double your proficiency bonus to any ability check you make using those tools to disarm or manipulate a trap.
+        <name>Trapper&apos;s Tool</name>
+        <text>Having learnt how to create traps, you&apos;ve gained an understanding of how to thwart the traps of others. You gain proficiency with thieves&apos; tools and you add double your proficiency bonus to any ability check you make using those tools to disarm or manipulate a trap.
 
 Source:	Heliana's Guide to Monster Hunting p. 185 (Homebrew)</text>
       </feature>
@@ -25,7 +25,7 @@ Source:	Heliana's Guide to Monster Hunting p. 185 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Trapper (HB): Set Trap</name>
-        <text>At 3rd level, and later at 5th, 9th, 13th, and 17th level, you learn how to make new traps, as detailed on the Trapper Traps table, below. Details of these traps can be found in the 'Ranger Traps' spell list.
+        <text>At 3rd level, and later at 5th, 9th, 13th, and 17th level, you learn how to make new traps, as detailed on the Trapper Traps table, below. Details of these traps can be found in the &apos;Ranger Traps&apos; spell list.
 
 Physical Traps:
 Creating a physical trap takes 1 hour (which can be done during a short or long rest) and uses trap-making materials (valued in gp) specified in the trap's description. After a physical trap activates, its materials are consumed and the trap can't be used again. However, over the course of 10 minutes, you can salvage half the trap-making materials used in the physical trap's construction if it hasn't activated yet.
@@ -61,13 +61,13 @@ Source:	Heliana's Guide to Monster Hunting p. 186 (Homebrew)</text>
     <autolevel level="7">
       <feature optional="YES">
         <name>Trapper (HB): Tracker</name>
-        <text>You are an expert at detecting and obscuring tracks. When you make an ability check to find or follow tracks, you can add your proficiency bonus to the result of the check, even if you aren't proficient in the relevant skill. If you are already proficient in the relevant skill, your proficiency bonus is doubled for that check.
+        <text>You are an expert at detecting and obscuring tracks. When you make an ability check to find or follow tracks, you can add your proficiency bonus to the result of the check, even if you aren&apos;t proficient in the relevant skill. If you are already proficient in the relevant skill, your proficiency bonus is doubled for that check.
 
 Source:	Heliana's Guide to Monster Hunting p. 186 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Trapper's Avoidance</name>
-        <text>The merest hiss of escaping air, depression of a tile, or scent of ozone is all the warning you need to avoid traps' effects. When you are subjected to a trap's activation effect that allows you to make a saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail. In addition, if a trap makes an attack roll against you, that attack roll has disadvantage.
+        <name>Trapper&apos;s Avoidance</name>
+        <text>The merest hiss of escaping air, depression of a tile, or scent of ozone is all the warning you need to avoid traps&apos; effects. When you are subjected to a trap&apos;s activation effect that allows you to make a saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail. In addition, if a trap makes an attack roll against you, that attack roll has disadvantage.
 
 This feature doesn't function against a trap's ongoing effects. For example, you can mitigate the effect of a poisonous cloud as it is being released by holding your breath or covering your skin, but on subsequent rounds, the cloud's saving throw would affect you as normal on a success or failure.
 
@@ -77,7 +77,7 @@ Source:	Heliana's Guide to Monster Hunting p. 186 (Homebrew)</text>
     <autolevel level="11">
       <feature optional="YES">
         <name>Trapper (HB): Leave No Trace</name>
-        <text>You've learnt to use magic to hide traps, allowing them to be concealed in the heat of battle. When you deploy a trap, you can expend a spell slot of 1st level or higher to disguise the trap with illusion magic, causing it to become invisible the moment it leaves your hands. Creatures don't see where the trap lands and, if it's a physical trap, have disadvantage on saving throws made to avoid the trap's effects.
+        <text>You've learnt to use magic to hide traps, allowing them to be concealed in the heat of battle. When you deploy a trap, you can expend a spell slot of 1st level or higher to disguise the trap with illusion magic, causing it to become invisible the moment it leaves your hands. Creatures don't see where the trap lands and, if it&apos;s a physical trap, have disadvantage on saving throws made to avoid the trap&apos;s effects.
 
 In addition, you learn the invisibility spell, which counts as a ranger spell for you, but doesn't count against the number of ranger spells you know. You can cast it once without using a spell slot, and you regain the ability to cast it in this way when you finish a short or long rest.
 
@@ -87,7 +87,7 @@ Source:	Heliana's Guide to Monster Hunting p. 187 (Homebrew)</text>
     <autolevel level="15">
       <feature optional="YES">
         <name>Trapper (HB): Booby Trap</name>
-        <text>You trap your own body against unexpected demise. When you finish a long rest, you can choose one of the following magical effects with which to augment your body until you finish a long rest. After triggering an effect that activates when you are reduced to 0 hit points, that effect can't trigger again until you finish a long rest.
+        <text>You trap your own body against unexpected demise. When you finish a long rest, you can choose one of the following magical effects with which to augment your body until you finish a long rest. After triggering an effect that activates when you are reduced to 0 hit points, that effect can&apos;t trigger again until you finish a long rest.
 
 Defibrillate:
 Once per turn, when a creature hits you with a melee attack, you can trigger an electrical discharge (no action required). The creature is unable to take reactions until the start of its next turn unless it is immune to lightning damage, and you can immediately move up to 10 feet without provoking opportunity attacks. After you move using this feature, you can't do so again until the start of your next turn.

@@ -22,7 +22,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 12 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>College of the Requiem (HB): Requiem Magic</name>
-        <text>You learn the two cantrips spare the dying and toll the dead. Additionally, you learn additional spells when you reach certain levels in this class, as shown in the College of the Requiem Spells table. These spells count as a bard spell for you, but don't count against the number of bard spells you know.
+        <text>You learn the two cantrips spare the dying and toll the dead. Additionally, you learn additional spells when you reach certain levels in this class, as shown in the College of the Requiem Spells table. These spells count as a bard spell for you, but don&apos;t count against the number of bard spells you know.
 
 College of the Requiem Spells:
 Bard Level | Spells
@@ -35,7 +35,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 13 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>College of the Requiem (HB): Dealing with Death</name>
-        <text>Spells cast by you can affect the undead as though they weren't undead. Additionally, when a creature uses bardic inspiration granted by you, if they are undead or are using it against an undead creature, they can roll the inspiration die twice and keep the higher result.
+        <text>Spells cast by you can affect the undead as though they weren&apos;t undead. Additionally, when a creature uses bardic inspiration granted by you, if they are undead or are using it against an undead creature, they can roll the inspiration die twice and keep the higher result.
 
 Source:	Tasha's Crucible of Everything Else, Volume 2 p. 13 (Homebrew)</text>
       </feature>
@@ -56,7 +56,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 13 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>College of the Requiem (HB): Death's Grip</name>
+        <name>College of the Requiem (HB): Death&apos;s Grip</name>
         <text>As an action on your turn you can cast one of the following spells without requiring material components: mass suggestion (only being able to target undead creatures), finger of death, or raise dead. Once you have used this feature for any of these options, you may not do so again for any of them until you finish a long rest.
 
 Source:	Tasha's Crucible of Everything Else, Volume 2 p. 13 (Homebrew)</text>

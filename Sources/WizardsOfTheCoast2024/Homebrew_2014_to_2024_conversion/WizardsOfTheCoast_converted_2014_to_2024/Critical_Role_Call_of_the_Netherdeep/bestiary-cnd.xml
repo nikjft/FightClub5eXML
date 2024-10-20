@@ -180,7 +180,7 @@ Aloysia casts one of the following spells, requiring no material components and 
     <passive>22</passive>
     <languages>Deep Speech, telepathy 120 ft.</languages>
     <cr>12</cr>
-    <description>The Alyxian Aboleth is a unique creature that believes it carries the soul of the Apotheon within its body, trapped in this aberrant form as divine punishment for his failure to save the world during the Calamity. Veins of ruidium crisscross the aboleth's body, and a secondary face has emerged from its pale green hide. The second face is a mutation that has no effect on the creature's game statistics.
+    <description>The Alyxian Aboleth is a unique creature that believes it carries the soul of the Apotheon within its body, trapped in this aberrant form as divine punishment for his failure to save the world during the Calamity. Veins of ruidium crisscross the aboleth&apos;s body, and a secondary face has emerged from its pale green hide. The second face is a mutation that has no effect on the creature&apos;s game statistics.
 
 Source:	Critical Role: Call of the Netherdeep p. 195</description>
     <trait>
@@ -318,17 +318,17 @@ Alyxian adds 3 to his AC against one attack roll that would hit him. To do so, A
 Alyxian can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Alyxian regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
-      <name>Arch Heart's Strike</name>
+      <name>Arch Heart&apos;s Strike</name>
       <text>
 Alyxian makes one Spear attack, and all damage from this attack is radiant.</text>
     </legendary>
     <legendary>
-      <name>Change Bringer's Dance</name>
+      <name>Change Bringer&apos;s Dance</name>
       <text>
 Alyxian moves up to his speed. This movement doesn't provoke opportunity attacks.</text>
     </legendary>
     <legendary>
-      <name>Moon Weaver's Veil (Costs 2 Actions)</name>
+      <name>Moon Weaver&apos;s Veil (Costs 2 Actions)</name>
       <text>
 Alyxian becomes invisible until the end of his next turn. Any equipment he is wearing or carrying becomes invisible with him.</text>
     </legendary>
@@ -500,7 +500,7 @@ Alyxian can take 3 legendary actions, choosing from the options below. Only one 
 Alyxian makes one Spear or Stoneheart Dagger attack.</text>
     </legendary>
     <legendary>
-      <name>Warrior's Stride</name>
+      <name>Warrior&apos;s Stride</name>
       <text>
 Alyxian moves up to his speed. This movement doesn't provoke opportunity attacks.</text>
     </legendary>
@@ -523,11 +523,11 @@ A gem-sized shard of ruidium appears at a point Alyxian can see within 120 feet 
     <skill/>
     <vulnerable/>
     <resist/>
-    <immune>poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine</immune>
+    <immune>poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t adamantine</immune>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>10</cr>
     <description>Source:	Critical Role: Call of the Netherdeep p. 160</description>
     <trait>
@@ -666,7 +666,7 @@ Ancient weapons embedded in Alyxian's hide detach from Alyxian and fly about in 
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>13</passive>
-    <languages>understands Common but can't speak it</languages>
+    <languages>understands Common but can&apos;t speak it</languages>
     <cr>1</cr>
     <description>Stat Block Origin: Giant Vulture
 Source:	Critical Role: Call of the Netherdeep p. 109</description>
@@ -825,7 +825,7 @@ Ashann casts one of the following spells, requiring no material components and u
     <passive>13</passive>
     <languages>Common, Goblin, Orc</languages>
     <cr>3</cr>
-    <description>As the de facto leader of a new, unnamed adventuring party, Ayo Jabe has a lot of responsibility on her shoulders. She and her companions have worked odd jobs around the town of Jigow for a few weeks now, and she's starting to feel confident that they're ready for real adventure.
+    <description>As the de facto leader of a new, unnamed adventuring party, Ayo Jabe has a lot of responsibility on her shoulders. She and her companions have worked odd jobs around the town of Jigow for a few weeks now, and she&apos;s starting to feel confident that they&apos;re ready for real adventure.
 
 Ayo is a water genasi who was born to orc parents during a terrible storm in the Emerald Gulch. Her family has lived in Jigow for generations, and she's eager to leave home and see the world.
 
@@ -889,7 +889,7 @@ Ayo casts one of the following spells, using Wisdom as the spellcasting ability 
     <passive>15</passive>
     <languages>Common, Goblin, Orc</languages>
     <cr>5</cr>
-    <description>As the de facto leader of a new, unnamed adventuring party, Ayo Jabe has a lot of responsibility on her shoulders. She and her companions have worked odd jobs around the town of Jigow for a few weeks now, and she's starting to feel confident that they're ready for real adventure.
+    <description>As the de facto leader of a new, unnamed adventuring party, Ayo Jabe has a lot of responsibility on her shoulders. She and her companions have worked odd jobs around the town of Jigow for a few weeks now, and she&apos;s starting to feel confident that they&apos;re ready for real adventure.
 
 Ayo is a water genasi who was born to orc parents during a terrible storm in the Emerald Gulch. Her family has lived in Jigow for generations, and she's eager to leave home and see the world.
 
@@ -958,7 +958,7 @@ Ayo issues orders to one ally she can see within 30 feet of herself. If the targ
     <passive>16</passive>
     <languages>Common, Goblin, Orc</languages>
     <cr>8</cr>
-    <description>As the de facto leader of a new, unnamed adventuring party, Ayo Jabe has a lot of responsibility on her shoulders. She and her companions have worked odd jobs around the town of Jigow for a few weeks now, and she's starting to feel confident that they're ready for real adventure.
+    <description>As the de facto leader of a new, unnamed adventuring party, Ayo Jabe has a lot of responsibility on her shoulders. She and her companions have worked odd jobs around the town of Jigow for a few weeks now, and she&apos;s starting to feel confident that they&apos;re ready for real adventure.
 
 Ayo is a water genasi who was born to orc parents during a terrible storm in the Emerald Gulch. Her family has lived in Jigow for generations, and she's eager to leave home and see the world.
 
@@ -1092,7 +1092,7 @@ The possession lasts until the body drops to 0 hit points, Celeste ends it as a 
     <passive>14</passive>
     <languages>—</languages>
     <cr>9</cr>
-    <description>In addition to its vicious bite, this giant shark projects a psychic aura that causes painful mental distress in other creatures nearby. The crystals that corrupt the shark's body enable it to regenerate, and only radiant energy or particularly devastating attacks can overcome this unnatural defense.
+    <description>In addition to its vicious bite, this giant shark projects a psychic aura that causes painful mental distress in other creatures nearby. The crystals that corrupt the shark&apos;s body enable it to regenerate, and only radiant energy or particularly devastating attacks can overcome this unnatural defense.
 
 Source:	Critical Role: Call of the Netherdeep p. 196</description>
     <trait>
@@ -1258,7 +1258,7 @@ When the death embrace is hit by an attack, one creature the death embrace is gr
     <passive>13</passive>
     <languages>Common, Goblin, Orc</languages>
     <cr>3</cr>
-    <description>When you're the twelfth son of a poor goblin family in Jigow, the only way to make a name for yourself is to become a great champion—someone who can win bragging contests in the local taverns night after night. Young Dermot Wurder, however, wasn't interested in performing feats of strength or agility that would win him a boast-worthy epithet. Fame wasn't for him, nor was the aggressiveness that becoming famous required. He was more interested in cooking, planting flowers, and sewing clothes- doing the work that kept his family together while his carefree siblings dove off waterfalls and wrestled stray dogs.
+    <description>When you're the twelfth son of a poor goblin family in Jigow, the only way to make a name for yourself is to become a great champion—someone who can win bragging contests in the local taverns night after night. Young Dermot Wurder, however, wasn&apos;t interested in performing feats of strength or agility that would win him a boast-worthy epithet. Fame wasn&apos;t for him, nor was the aggressiveness that becoming famous required. He was more interested in cooking, planting flowers, and sewing clothes- doing the work that kept his family together while his carefree siblings dove off waterfalls and wrestled stray dogs.
 
 Dermot and Ayo Jabe have known each other long enough that their first meeting has vanished into the haze of youthful pre-memory. Dermot accompanied Ayo whenever he could, packing herbs and medicines when they went exploring in the woods. When Ayo recently told him of her dream to form an adventuring party, he started training to wear heavy armor and threw himself into studying the faith of the Luxon so he could wield the blessings of the light to protect those he cares about.
 
@@ -1316,7 +1316,7 @@ Dermot casts one of the following spells, using Wisdom as the spellcasting abili
     <passive>14</passive>
     <languages>Common, Goblin, Orc</languages>
     <cr>5</cr>
-    <description>When you're the twelfth son of a poor goblin family in Jigow, the only way to make a name for yourself is to become a great champion—someone who can win bragging contests in the local taverns night after night. Young Dermot Wurder, however, wasn't interested in performing feats of strength or agility that would win him a boast-worthy epithet. Fame wasn't for him, nor was the aggressiveness that becoming famous required. He was more interested in cooking, planting flowers, and sewing clothes- doing the work that kept his family together while his carefree siblings dove off waterfalls and wrestled stray dogs.
+    <description>When you're the twelfth son of a poor goblin family in Jigow, the only way to make a name for yourself is to become a great champion—someone who can win bragging contests in the local taverns night after night. Young Dermot Wurder, however, wasn&apos;t interested in performing feats of strength or agility that would win him a boast-worthy epithet. Fame wasn&apos;t for him, nor was the aggressiveness that becoming famous required. He was more interested in cooking, planting flowers, and sewing clothes- doing the work that kept his family together while his carefree siblings dove off waterfalls and wrestled stray dogs.
 
 Dermot and Ayo Jabe have known each other long enough that their first meeting has vanished into the haze of youthful pre-memory. Dermot accompanied Ayo whenever he could, packing herbs and medicines when they went exploring in the woods. When Ayo recently told him of her dream to form an adventuring party, he started training to wear heavy armor and threw himself into studying the faith of the Luxon so he could wield the blessings of the light to protect those he cares about.
 
@@ -1363,7 +1363,7 @@ Dermot casts one of the following spells, using Wisdom as the spellcasting abili
     <alignment>Lawful Good</alignment>
     <ac>20 (plate, shield)</ac>
     <hp>93 (17d6 + 34)</hp>
-    <speed>walk 30 ft., swim 30 ft. (mariner's armor)</speed>
+    <speed>walk 30 ft., swim 30 ft. (mariner&apos;s armor)</speed>
     <str>18</str><dex>12</dex><con>14</con><int>10</int><wis>20</wis><cha>10</cha>
     <save>Wis +8, Cha +3</save>
     <skill>Medicine +8, Religion +3, Survival +8</skill>
@@ -1375,7 +1375,7 @@ Dermot casts one of the following spells, using Wisdom as the spellcasting abili
     <passive>15</passive>
     <languages>Common, Goblin, Orc</languages>
     <cr>8</cr>
-    <description>When you're the twelfth son of a poor goblin family in Jigow, the only way to make a name for yourself is to become a great champion—someone who can win bragging contests in the local taverns night after night. Young Dermot Wurder, however, wasn't interested in performing feats of strength or agility that would win him a boast-worthy epithet. Fame wasn't for him, nor was the aggressiveness that becoming famous required. He was more interested in cooking, planting flowers, and sewing clothes- doing the work that kept his family together while his carefree siblings dove off waterfalls and wrestled stray dogs.
+    <description>When you're the twelfth son of a poor goblin family in Jigow, the only way to make a name for yourself is to become a great champion—someone who can win bragging contests in the local taverns night after night. Young Dermot Wurder, however, wasn&apos;t interested in performing feats of strength or agility that would win him a boast-worthy epithet. Fame wasn&apos;t for him, nor was the aggressiveness that becoming famous required. He was more interested in cooking, planting flowers, and sewing clothes- doing the work that kept his family together while his carefree siblings dove off waterfalls and wrestled stray dogs.
 
 Dermot and Ayo Jabe have known each other long enough that their first meeting has vanished into the haze of youthful pre-memory. Dermot accompanied Ayo whenever he could, packing herbs and medicines when they went exploring in the woods. When Ayo recently told him of her dream to form an adventuring party, he started training to wear heavy armor and threw himself into studying the faith of the Luxon so he could wield the blessings of the light to protect those he cares about.
 
@@ -2074,7 +2074,7 @@ James casts one of the following spells, requiring no material components and us
     <spells>alter self, light, mage hand, comprehend languages, mage armor, zone of truth</spells>
   </monster>
   <monster>
-    <name>Jamil A'alithiya [2014]</name>
+    <name>Jamil A&apos;alithiya [2014]</name>
     <size>M</size>
     <type>humanoid (human, monk, wizard)</type>
     <alignment>chaotic good</alignment>
@@ -2146,7 +2146,7 @@ Jamil casts one of the following spells, requiring no material components and us
     <conditionImmune/>
     <senses>darkvision 60 ft.</senses>
     <passive>13</passive>
-    <languages>Thieves' cant plus any two languages, Infernal</languages>
+    <languages>Thieves&apos; cant plus any two languages, Infernal</languages>
     <cr>8</cr>
     <description>Source:	Critical Role: Call of the Netherdeep p. 106</description>
     <trait>
@@ -3828,7 +3828,7 @@ Scribble targets one Medium or smaller creature or an object weighing 300 pounds
     <conditionImmune/>
     <senses/>
     <passive>11</passive>
-    <languages>understands Goblin but can't speak</languages>
+    <languages>understands Goblin but can&apos;t speak</languages>
     <cr>3</cr>
     <description>Stat Block Origin: Ankylosaurus
 Source:	Critical Role: Call of the Netherdeep p. 26</description>

@@ -8,7 +8,7 @@
     <numSkills>2</numSkills>
     <armor>none</armor>
     <weapons>Simple Weapons, Martial Weapons that have the Light property</weapons>
-    <tools>Artisan's Tools or Musical Instrument</tools>
+    <tools>Artisan&apos;s Tools or Musical Instrument</tools>
     <subclass>Monk Subclass</subclass>
 
     <autolevel level="1">
@@ -39,7 +39,7 @@ Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 14</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Multiclass Monk</name>
-        <text>If your group uses the multiclassing rules in the Player's Handbook, here's what you need to know if you choose Monk as one of your classes.
+        <text>If your group uses the multiclassing rules in the Player&apos;s Handbook, here&apos;s what you need to know if you choose Monk as one of your classes.
 
 Ability Score Minimum:
 As a multiclass character, you must have a score of at least 13 in the Monk's primary abilities, Dexterity and Wisdom, to take a level in this class or to take a level in another class if you're already a Monk.
@@ -71,7 +71,7 @@ Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 14</text>
     <autolevel level="1">
       <feature>
         <name>Unarmored Defense</name>
-        <text>While you aren't wearing any armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity and Wisdom modifiers.
+        <text>While you aren&apos;t wearing any armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity and Wisdom modifiers.
 
 Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 15</text>
         <special>unarmored defense wisdom</special>
@@ -80,7 +80,7 @@ Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 15</text>
 
     <autolevel level="2">
       <feature>
-        <name>Monk's Discipline</name>
+        <name>Monk&apos;s Discipline</name>
         <text>Your self-discipline and martial training allow you to harness a well of extraordinary energy within yourself. Your access to this energy is represented by a number of Discipline Points. Your Monk level determines the number of points you have, as shown in the Discipline Points column of the Monk table.
 
 You can spend these points to fuel certain Monk features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below.
@@ -126,7 +126,7 @@ Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 15</text>
     <autolevel level="2">
       <feature>
         <name>Unarmored Movement</name>
-        <text>Your speed increases by 10 feet while you aren't wearing armor or wielding a Shield. This bonus increases when you reach certain Monk levels, as shown on the Monk table.
+        <text>Your speed increases by 10 feet while you aren&apos;t wearing armor or wielding a Shield. This bonus increases when you reach certain Monk levels, as shown on the Monk table.
 
 Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 15</text>
         <modifier category="bonus">speed +10</modifier>
@@ -152,7 +152,7 @@ Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 15</text>
     <autolevel level="3">
       <feature>
         <name>Monk Subclass</name>
-        <text>You gain a Monk subclass of your choice: Warrior of Mercy, Warrior of Shadow, Warrior of the Four Elements, or Warrior of the Hand. Only The Warrior of the Hand subclass is detailed after this class's description.
+        <text>You gain a Monk subclass of your choice: Warrior of Mercy, Warrior of Shadow, Warrior of the Four Elements, or Warrior of the Hand. Only The Warrior of the Hand subclass is detailed after this class&apos;s description.
 
 A subclass is a specialization that grants you special abilities at certain Monk levels. For the rest of your career, you gain each of your subclass's features that are of your Monk level and lower.
 
@@ -258,7 +258,7 @@ Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 15</text>
     <autolevel level="9">
       <feature>
         <name>Acrobatic Movement</name>
-        <text>While you aren't wearing armor or wielding a Shield, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
+        <text>While you aren&apos;t wearing armor or wielding a Shield, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
 
 Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 16</text>
       </feature>
@@ -486,7 +486,7 @@ Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 17</text>
     <autolevel level="11">
       <feature optional="YES">
         <name>Warrior Of The Hand (One DnD): Fleet Step</name>
-        <text>You can easily stride out of harm's way. When you take a Bonus Action other than Step of the Wind, you can also use Step of the Wind as part of that Bonus Action.
+        <text>You can easily stride out of harm&apos;s way. When you take a Bonus Action other than Step of the Wind, you can also use Step of the Wind as part of that Bonus Action.
 
 Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 17</text>
       </feature>
@@ -495,7 +495,7 @@ Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 17</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Warrior Of The Hand (One DnD): Quivering Palm</name>
-        <text>You gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an Unarmed Strike, you can spend 4 Discipline Points to start these imperceptible vibrations, which last for a number of days equal to your Monk level. The vibrations are harmless unless you use your action to end them. Alternatively, when you take the Attack action on your turn, you can replace one of the attacks with this action. To use this action, you and the target must be on the same plane of existence. When you use this action, the target must make a Constitution saving throw, taking 10d12 Force damage on a failed save or half as much damage on a successful one.
+        <text>You gain the ability to set up lethal vibrations in someone&apos;s body. When you hit a creature with an Unarmed Strike, you can spend 4 Discipline Points to start these imperceptible vibrations, which last for a number of days equal to your Monk level. The vibrations are harmless unless you use your action to end them. Alternatively, when you take the Attack action on your turn, you can replace one of the attacks with this action. To use this action, you and the target must be on the same plane of existence. When you use this action, the target must make a Constitution saving throw, taking 10d12 Force damage on a failed save or half as much damage on a successful one.
 
 You can have only one creature under the effect of this feature at a time. You can end the vibrations harmlessly without using an action.
 

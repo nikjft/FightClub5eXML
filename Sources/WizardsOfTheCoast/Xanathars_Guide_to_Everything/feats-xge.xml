@@ -1,15 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <feat>
     <name>Bountiful Luck</name>
     <prerequisite>Halfling</prerequisite>
-    <text>Your people have extraordinary luck, which you have learned to mystically lend to your companions when you see them falter. You're not sure how you do it; you just wish it, and it happens. Surely a sign of fortune's favor!
+    <text>Your people have extraordinary luck, which you have learned to mystically lend to your companions when you see them falter. You&apos;re not sure how you do it; you just wish it, and it happens. Surely a sign of fortune&apos;s favor!
 
 When an ally you can see within 30 feet of you rolls a 1 on the d20 for an attack roll, an ability check, or a saving throw, you can use your reaction to let the ally reroll the die. The ally must use the new roll.
 
-When you use this ability, you can't use your Lucky racial trait before the end of your next turn.
+When you use this ability, you can&apos;t use your Lucky racial trait before the end of your next turn.
 
-Source:	Xanathar's Guide to Everything p. 73</text>
+Source:	Xanathar&apos;s Guide to Everything p. 73</text>
   </feat>
   <feat>
     <name>Dragon Fear (Charisma)</name>
@@ -18,13 +19,13 @@ Source:	Xanathar's Guide to Everything p. 73</text>
 
 	• Increase your Strength or Constitution or Charisma score by 1, to a maximum of 20.
 
-	• Instead of exhaling destructive energy, you can expend a use of your Breath Weapon trait to roar, forcing each creature of your choice within 30 feet of you to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). A target automatically succeeds on the save if it can't hear or see you. On a failed save, a target becomes frightened of you for 1 minute. If the frightened target takes any damage, it can repeat the saving throw, ending the effect on itself on a success.
+	• Instead of exhaling destructive energy, you can expend a use of your Breath Weapon trait to roar, forcing each creature of your choice within 30 feet of you to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). A target automatically succeeds on the save if it can&apos;t hear or see you. On a failed save, a target becomes frightened of you for 1 minute. If the frightened target takes any damage, it can repeat the saving throw, ending the effect on itself on a success.
 
 Frightened:
 	• A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
-	• The creature can't willingly move closer to the source of its fear.
+	• The creature can&apos;t willingly move closer to the source of its fear.
 
-Source:	Xanathar's Guide to Everything p. 74</text>
+Source:	Xanathar&apos;s Guide to Everything p. 74</text>
     <modifier category="ability score">Charisma +1</modifier>
   </feat>
   <feat>
@@ -34,13 +35,13 @@ Source:	Xanathar's Guide to Everything p. 74</text>
 
 	• Increase your Strength or Constitution or Charisma score by 1, to a maximum of 20.
 
-	• Instead of exhaling destructive energy, you can expend a use of your Breath Weapon trait to roar, forcing each creature of your choice within 30 feet of you to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). A target automatically succeeds on the save if it can't hear or see you. On a failed save, a target becomes frightened of you for 1 minute. If the frightened target takes any damage, it can repeat the saving throw, ending the effect on itself on a success.
+	• Instead of exhaling destructive energy, you can expend a use of your Breath Weapon trait to roar, forcing each creature of your choice within 30 feet of you to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). A target automatically succeeds on the save if it can&apos;t hear or see you. On a failed save, a target becomes frightened of you for 1 minute. If the frightened target takes any damage, it can repeat the saving throw, ending the effect on itself on a success.
 
 Frightened:
 	• A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
-	• The creature can't willingly move closer to the source of its fear.
+	• The creature can&apos;t willingly move closer to the source of its fear.
 
-Source:	Xanathar's Guide to Everything p. 74</text>
+Source:	Xanathar&apos;s Guide to Everything p. 74</text>
     <modifier category="ability score">Constitution +1</modifier>
   </feat>
   <feat>
@@ -50,13 +51,13 @@ Source:	Xanathar's Guide to Everything p. 74</text>
 
 	• Increase your Strength or Constitution or Charisma score by 1, to a maximum of 20.
 
-	• Instead of exhaling destructive energy, you can expend a use of your Breath Weapon trait to roar, forcing each creature of your choice within 30 feet of you to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). A target automatically succeeds on the save if it can't hear or see you. On a failed save, a target becomes frightened of you for 1 minute. If the frightened target takes any damage, it can repeat the saving throw, ending the effect on itself on a success.
+	• Instead of exhaling destructive energy, you can expend a use of your Breath Weapon trait to roar, forcing each creature of your choice within 30 feet of you to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). A target automatically succeeds on the save if it can&apos;t hear or see you. On a failed save, a target becomes frightened of you for 1 minute. If the frightened target takes any damage, it can repeat the saving throw, ending the effect on itself on a success.
 
 Frightened:
 	• A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
-	• The creature can't willingly move closer to the source of its fear.
+	• The creature can&apos;t willingly move closer to the source of its fear.
 
-Source:	Xanathar's Guide to Everything p. 74</text>
+Source:	Xanathar&apos;s Guide to Everything p. 74</text>
     <modifier category="ability score">Strength +1</modifier>
   </feat>
   <feat>
@@ -66,11 +67,11 @@ Source:	Xanathar's Guide to Everything p. 74</text>
 
 	• Increase your Strength or Constitution or Charisma score by 1, to a maximum of 20.
 
-	• Your scales harden. While you aren't wearing armor, you can calculate your AC as 13 + your Dexterity modifier. You can use a shield and still gain this benefit.
+	• Your scales harden. While you aren&apos;t wearing armor, you can calculate your AC as 13 + your Dexterity modifier. You can use a shield and still gain this benefit.
 
 	• You grow retractable claws from the tips of your fingers. Extending or retracting the claws requires no action. The claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the normal bludgeoning damage for an unarmed strike.
 
-Source:	Xanathar's Guide to Everything p. 74</text>
+Source:	Xanathar&apos;s Guide to Everything p. 74</text>
     <modifier category="ability score">Charisma +1</modifier>
   </feat>
   <feat>
@@ -80,11 +81,11 @@ Source:	Xanathar's Guide to Everything p. 74</text>
 
 	• Increase your Strength or Constitution or Charisma score by 1, to a maximum of 20.
 
-	• Your scales harden. While you aren't wearing armor, you can calculate your AC as 13 + your Dexterity modifier. You can use a shield and still gain this benefit.
+	• Your scales harden. While you aren&apos;t wearing armor, you can calculate your AC as 13 + your Dexterity modifier. You can use a shield and still gain this benefit.
 
 	• You grow retractable claws from the tips of your fingers. Extending or retracting the claws requires no action. The claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the normal bludgeoning damage for an unarmed strike.
 
-Source:	Xanathar's Guide to Everything p. 74</text>
+Source:	Xanathar&apos;s Guide to Everything p. 74</text>
     <modifier category="ability score">Constitution +1</modifier>
   </feat>
   <feat>
@@ -94,11 +95,11 @@ Source:	Xanathar's Guide to Everything p. 74</text>
 
 	• Increase your Strength or Constitution or Charisma score by 1, to a maximum of 20.
 
-	• Your scales harden. While you aren't wearing armor, you can calculate your AC as 13 + your Dexterity modifier. You can use a shield and still gain this benefit.
+	• Your scales harden. While you aren&apos;t wearing armor, you can calculate your AC as 13 + your Dexterity modifier. You can use a shield and still gain this benefit.
 
 	• You grow retractable claws from the tips of your fingers. Extending or retracting the claws requires no action. The claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the normal bludgeoning damage for an unarmed strike.
 
-Source:	Xanathar's Guide to Everything p. 74</text>
+Source:	Xanathar&apos;s Guide to Everything p. 74</text>
     <modifier category="ability score">Strength +1</modifier>
   </feat>
   <feat>
@@ -106,7 +107,7 @@ Source:	Xanathar's Guide to Everything p. 74</text>
     <prerequisite>Elf (Drow)</prerequisite>
     <text>You learn more of the magic typical of dark elves. You learn the detect magic spell and can cast it at will, without expending a spell slot. You also learn levitate and dispel magic, each of which you can cast once without expending a spell slot. You regain the ability to cast those two spells in this way when you finish a long rest. Charisma is your spellcasting ability for all three spells.
 
-Source:	Xanathar's Guide to Everything p. 74</text>
+Source:	Xanathar&apos;s Guide to Everything p. 74</text>
   </feat>
   <feat>
     <name>Dwarven Fortitude</name>
@@ -117,7 +118,7 @@ Source:	Xanathar's Guide to Everything p. 74</text>
 
 	• Whenever you take the Dodge action in combat, you can spend one Hit Die to heal yourself. Roll the die, add your Constitution modifier, and regain a number of hit points equal to the total (minimum of 1).
 
-Source:	Xanathar's Guide to Everything p. 74</text>
+Source:	Xanathar&apos;s Guide to Everything p. 74</text>
     <modifier category="ability score">Constitution +1</modifier>
   </feat>
   <feat>
@@ -129,7 +130,7 @@ Source:	Xanathar's Guide to Everything p. 74</text>
 
 	• Whenever you have advantage on an attack roll using Dexterity, Intelligence, Wisdom, or Charisma, you can reroll one of the dice once.
 
-Source:	Xanathar's Guide to Everything p. 74</text>
+Source:	Xanathar&apos;s Guide to Everything p. 74</text>
     <modifier category="ability score">Charisma +1</modifier>
   </feat>
   <feat>
@@ -141,7 +142,7 @@ Source:	Xanathar's Guide to Everything p. 74</text>
 
 	• Whenever you have advantage on an attack roll using Dexterity, Intelligence, Wisdom, or Charisma, you can reroll one of the dice once.
 
-Source:	Xanathar's Guide to Everything p. 74</text>
+Source:	Xanathar&apos;s Guide to Everything p. 74</text>
     <modifier category="ability score">Dexterity +1</modifier>
   </feat>
   <feat>
@@ -153,7 +154,7 @@ Source:	Xanathar's Guide to Everything p. 74</text>
 
 	• Whenever you have advantage on an attack roll using Dexterity, Intelligence, Wisdom, or Charisma, you can reroll one of the dice once.
 
-Source:	Xanathar's Guide to Everything p. 74</text>
+Source:	Xanathar&apos;s Guide to Everything p. 74</text>
     <modifier category="ability score">Intelligence +1</modifier>
   </feat>
   <feat>
@@ -165,7 +166,7 @@ Source:	Xanathar's Guide to Everything p. 74</text>
 
 	• Whenever you have advantage on an attack roll using Dexterity, Intelligence, Wisdom, or Charisma, you can reroll one of the dice once.
 
-Source:	Xanathar's Guide to Everything p. 74</text>
+Source:	Xanathar&apos;s Guide to Everything p. 74</text>
     <modifier category="ability score">Wisdom +1</modifier>
   </feat>
   <feat>
@@ -175,9 +176,9 @@ Source:	Xanathar's Guide to Everything p. 74</text>
 
 	• Increase your Dexterity or Intelligence score by 1, to a maximum of 20.
 
-	• Immediately after you take damage, you can use a reaction to magically become invisible until the end of your next turn or until you attack, deal damage, or force someone to make a saving throw. Once you use this ability, you can't do so again until you finish a short or long rest.
+	• Immediately after you take damage, you can use a reaction to magically become invisible until the end of your next turn or until you attack, deal damage, or force someone to make a saving throw. Once you use this ability, you can&apos;t do so again until you finish a short or long rest.
 
-Source:	Xanathar's Guide to Everything p. 74</text>
+Source:	Xanathar&apos;s Guide to Everything p. 74</text>
     <modifier category="ability score">Dexterity +1</modifier>
   </feat>
   <feat>
@@ -187,9 +188,9 @@ Source:	Xanathar's Guide to Everything p. 74</text>
 
 	• Increase your Dexterity or Intelligence score by 1, to a maximum of 20.
 
-	• Immediately after you take damage, you can use a reaction to magically become invisible until the end of your next turn or until you attack, deal damage, or force someone to make a saving throw. Once you use this ability, you can't do so again until you finish a short or long rest.
+	• Immediately after you take damage, you can use a reaction to magically become invisible until the end of your next turn or until you attack, deal damage, or force someone to make a saving throw. Once you use this ability, you can&apos;t do so again until you finish a short or long rest.
 
-Source:	Xanathar's Guide to Everything p. 74</text>
+Source:	Xanathar&apos;s Guide to Everything p. 74</text>
     <modifier category="ability score">Intelligence +1</modifier>
   </feat>
   <feat>
@@ -203,7 +204,7 @@ Source:	Xanathar's Guide to Everything p. 74</text>
 
 	• You learn the misty step spell and can cast it once without expending a spell slot. You regain the ability to cast it in this way when you finish a short or long rest. Intelligence is your spellcasting ability for this spell.
 
-Source:	Xanathar's Guide to Everything p. 74</text>
+Source:	Xanathar&apos;s Guide to Everything p. 74</text>
     <modifier category="ability score">Charisma +1</modifier>
   </feat>
   <feat>
@@ -217,7 +218,7 @@ Source:	Xanathar's Guide to Everything p. 74</text>
 
 	• You learn the misty step spell and can cast it once without expending a spell slot. You regain the ability to cast it in this way when you finish a short or long rest. Intelligence is your spellcasting ability for this spell.
 
-Source:	Xanathar's Guide to Everything p. 74</text>
+Source:	Xanathar&apos;s Guide to Everything p. 74</text>
     <modifier category="ability score">Intelligence +1</modifier>
   </feat>
   <feat>
@@ -229,9 +230,9 @@ Source:	Xanathar's Guide to Everything p. 74</text>
 
 	• When you roll fire damage for a spell you cast, you can reroll any roll of 1 on the fire damage dice, but you must use the new roll, even if it is another 1.
 
-	• Whenever you cast a spell that deals fire damage, you can cause flames to wreathe you until the end of your next turn. The flames don't harm you or your possessions, and they shed bright light out to 30 feet and dim light for an additional 30 feet. While the flames are present, any creature within 5 feet of you that hits you with a melee attack takes 1d4 fire damage.
+	• Whenever you cast a spell that deals fire damage, you can cause flames to wreathe you until the end of your next turn. The flames don&apos;t harm you or your possessions, and they shed bright light out to 30 feet and dim light for an additional 30 feet. While the flames are present, any creature within 5 feet of you that hits you with a melee attack takes 1d4 fire damage.
 
-Source:	Xanathar's Guide to Everything p. 74</text>
+Source:	Xanathar&apos;s Guide to Everything p. 74</text>
     <modifier category="ability score">Charisma +1</modifier>
   </feat>
   <feat>
@@ -243,9 +244,9 @@ Source:	Xanathar's Guide to Everything p. 74</text>
 
 	• When you roll fire damage for a spell you cast, you can reroll any roll of 1 on the fire damage dice, but you must use the new roll, even if it is another 1.
 
-	• Whenever you cast a spell that deals fire damage, you can cause flames to wreathe you until the end of your next turn. The flames don't harm you or your possessions, and they shed bright light out to 30 feet and dim light for an additional 30 feet. While the flames are present, any creature within 5 feet of you that hits you with a melee attack takes 1d4 fire damage.
+	• Whenever you cast a spell that deals fire damage, you can cause flames to wreathe you until the end of your next turn. The flames don&apos;t harm you or your possessions, and they shed bright light out to 30 feet and dim light for an additional 30 feet. While the flames are present, any creature within 5 feet of you that hits you with a melee attack takes 1d4 fire damage.
 
-Source:	Xanathar's Guide to Everything p. 74</text>
+Source:	Xanathar&apos;s Guide to Everything p. 74</text>
     <modifier category="ability score">Intelligence +1</modifier>
   </feat>
   <feat>
@@ -259,7 +260,7 @@ Source:	Xanathar's Guide to Everything p. 74</text>
 
 	• You have advantage on saving throws against being poisoned.
 
-Source:	Xanathar's Guide to Everything p. 75</text>
+Source:	Xanathar&apos;s Guide to Everything p. 75</text>
     <modifier category="ability score">Constitution +1</modifier>
   </feat>
   <feat>
@@ -269,11 +270,11 @@ Source:	Xanathar's Guide to Everything p. 75</text>
 
 	• Increase your Strength or Constitution score by 1, to a maximum of 20.
 
-	• When you hit with an attack using a simple or martial weapon, you can roll one of the weapon's damage dice an additional time and add it as extra damage of the weapon's damage type. Once you use this ability, you can't use it again until you finish a short or long rest.
+	• When you hit with an attack using a simple or martial weapon, you can roll one of the weapon&apos;s damage dice an additional time and add it as extra damage of the weapon&apos;s damage type. Once you use this ability, you can&apos;t use it again until you finish a short or long rest.
 
 	• Immediately after you use your Relentless Endurance trait, you can use your reaction to make one weapon attack.
 
-Source:	Xanathar's Guide to Everything p. 75</text>
+Source:	Xanathar&apos;s Guide to Everything p. 75</text>
     <modifier category="ability score">Constitution +1</modifier>
   </feat>
   <feat>
@@ -283,11 +284,11 @@ Source:	Xanathar's Guide to Everything p. 75</text>
 
 	• Increase your Strength or Constitution score by 1, to a maximum of 20.
 
-	• When you hit with an attack using a simple or martial weapon, you can roll one of the weapon's damage dice an additional time and add it as extra damage of the weapon's damage type. Once you use this ability, you can't use it again until you finish a short or long rest.
+	• When you hit with an attack using a simple or martial weapon, you can roll one of the weapon&apos;s damage dice an additional time and add it as extra damage of the weapon&apos;s damage type. Once you use this ability, you can&apos;t use it again until you finish a short or long rest.
 
 	• Immediately after you use your Relentless Endurance trait, you can use your reaction to make one weapon attack.
 
-Source:	Xanathar's Guide to Everything p. 75</text>
+Source:	Xanathar&apos;s Guide to Everything p. 75</text>
     <modifier category="ability score">Strength +1</modifier>
   </feat>
   <feat>
@@ -297,9 +298,9 @@ Source:	Xanathar's Guide to Everything p. 75</text>
 
 	• You gain one skill proficiency of your choice, one tool proficiency of your choice, and fluency in one language of your choice.
 
-	• Choose one skill in which you have proficiency. You gain expertise with that skill, which means your proficiency bonus is doubled for any ability check you make with it. The skill you choose must be one that isn't already benefiting from a feature, such as Expertise, that doubles your proficiency bonus.
+	• Choose one skill in which you have proficiency. You gain expertise with that skill, which means your proficiency bonus is doubled for any ability check you make with it. The skill you choose must be one that isn&apos;t already benefiting from a feature, such as Expertise, that doubles your proficiency bonus.
 
-Source:	Xanathar's Guide to Everything p. 75</text>
+Source:	Xanathar&apos;s Guide to Everything p. 75</text>
   </feat>
   <feat>
     <name>Second Chance (Charisma)</name>
@@ -308,9 +309,9 @@ Source:	Xanathar's Guide to Everything p. 75</text>
 
 	• Increase your Dexterity or Constitution or Charisma score by 1, to a maximum of 20.
 
-	• When a creature you can see hits you with an attack roll, you can use your reaction to force that creature to reroll. Once you use this ability, you can't use it again until you roll initiative at the start of combat or until you finish a short or long rest.
+	• When a creature you can see hits you with an attack roll, you can use your reaction to force that creature to reroll. Once you use this ability, you can&apos;t use it again until you roll initiative at the start of combat or until you finish a short or long rest.
 
-Source:	Xanathar's Guide to Everything p. 75</text>
+Source:	Xanathar&apos;s Guide to Everything p. 75</text>
     <modifier category="ability score">Charisma +1</modifier>
   </feat>
   <feat>
@@ -320,9 +321,9 @@ Source:	Xanathar's Guide to Everything p. 75</text>
 
 	• Increase your Dexterity or Constitution or Charisma score by 1, to a maximum of 20.
 
-	• When a creature you can see hits you with an attack roll, you can use your reaction to force that creature to reroll. Once you use this ability, you can't use it again until you roll initiative at the start of combat or until you finish a short or long rest.
+	• When a creature you can see hits you with an attack roll, you can use your reaction to force that creature to reroll. Once you use this ability, you can&apos;t use it again until you roll initiative at the start of combat or until you finish a short or long rest.
 
-Source:	Xanathar's Guide to Everything p. 75</text>
+Source:	Xanathar&apos;s Guide to Everything p. 75</text>
     <modifier category="ability score">Constitution +1</modifier>
   </feat>
   <feat>
@@ -332,9 +333,9 @@ Source:	Xanathar's Guide to Everything p. 75</text>
 
 	• Increase your Dexterity or Constitution or Charisma score by 1, to a maximum of 20.
 
-	• When a creature you can see hits you with an attack roll, you can use your reaction to force that creature to reroll. Once you use this ability, you can't use it again until you roll initiative at the start of combat or until you finish a short or long rest.
+	• When a creature you can see hits you with an attack roll, you can use your reaction to force that creature to reroll. Once you use this ability, you can&apos;t use it again until you roll initiative at the start of combat or until you finish a short or long rest.
 
-Source:	Xanathar's Guide to Everything p. 75</text>
+Source:	Xanathar&apos;s Guide to Everything p. 75</text>
     <modifier category="ability score">Dexterity +1</modifier>
   </feat>
   <feat>
@@ -346,11 +347,11 @@ Source:	Xanathar's Guide to Everything p. 75</text>
 
 	• Increase your walking speed by 5 feet.
 
-	• You gain proficiency in the Acrobatics or Athletics skill (your choice). If you're already proficient in the skill, your proficiency bonus is doubled for any check you make with it.
+	• You gain proficiency in the Acrobatics or Athletics skill (your choice). If you&apos;re already proficient in the skill, your proficiency bonus is doubled for any check you make with it.
 
 	• You have advantage on any Strength (Athletics) or Dexterity (Acrobatics) check you make to escape from being grappled.
 
-Source:	Xanathar's Guide to Everything p. 75</text>
+Source:	Xanathar&apos;s Guide to Everything p. 75</text>
     <modifier category="ability score">Dexterity +1</modifier>
     <modifier category="bonus">Speed +5</modifier>
     <modifier category="skill">Acrobatics+%0</modifier>
@@ -365,11 +366,11 @@ Source:	Xanathar's Guide to Everything p. 75</text>
 
 	• Increase your walking speed by 5 feet.
 
-	• You gain proficiency in the Acrobatics or Athletics skill (your choice). If you're already proficient in the skill, your proficiency bonus is doubled for any check you make with it.
+	• You gain proficiency in the Acrobatics or Athletics skill (your choice). If you&apos;re already proficient in the skill, your proficiency bonus is doubled for any check you make with it.
 
 	• You have advantage on any Strength (Athletics) or Dexterity (Acrobatics) check you make to escape from being grappled.
 
-Source:	Xanathar's Guide to Everything p. 75</text>
+Source:	Xanathar&apos;s Guide to Everything p. 75</text>
     <modifier category="ability score">Dexterity +1</modifier>
     <modifier category="bonus">Speed +5</modifier>
   </feat>
@@ -382,11 +383,11 @@ Source:	Xanathar's Guide to Everything p. 75</text>
 
 	• Increase your walking speed by 5 feet.
 
-	• You gain proficiency in the Acrobatics or Athletics skill (your choice). If you're already proficient in the skill, your proficiency bonus is doubled for any check you make with it.
+	• You gain proficiency in the Acrobatics or Athletics skill (your choice). If you&apos;re already proficient in the skill, your proficiency bonus is doubled for any check you make with it.
 
 	• You have advantage on any Strength (Athletics) or Dexterity (Acrobatics) check you make to escape from being grappled.
 
-Source:	Xanathar's Guide to Everything p. 75</text>
+Source:	Xanathar&apos;s Guide to Everything p. 75</text>
     <modifier category="ability score">Dexterity +1</modifier>
     <modifier category="bonus">Speed +5</modifier>
     <modifier category="skill">Athletics+%0</modifier>
@@ -401,11 +402,11 @@ Source:	Xanathar's Guide to Everything p. 75</text>
 
 	• Increase your walking speed by 5 feet.
 
-	• You gain proficiency in the Acrobatics or Athletics skill (your choice). If you're already proficient in the skill, your proficiency bonus is doubled for any check you make with it.
+	• You gain proficiency in the Acrobatics or Athletics skill (your choice). If you&apos;re already proficient in the skill, your proficiency bonus is doubled for any check you make with it.
 
 	• You have advantage on any Strength (Athletics) or Dexterity (Acrobatics) check you make to escape from being grappled.
 
-Source:	Xanathar's Guide to Everything p. 75</text>
+Source:	Xanathar&apos;s Guide to Everything p. 75</text>
     <modifier category="ability score">Dexterity +1</modifier>
     <modifier category="bonus">Speed +5</modifier>
   </feat>
@@ -418,11 +419,11 @@ Source:	Xanathar's Guide to Everything p. 75</text>
 
 	• Increase your walking speed by 5 feet.
 
-	• You gain proficiency in the Acrobatics or Athletics skill (your choice). If you're already proficient in the skill, your proficiency bonus is doubled for any check you make with it.
+	• You gain proficiency in the Acrobatics or Athletics skill (your choice). If you&apos;re already proficient in the skill, your proficiency bonus is doubled for any check you make with it.
 
 	• You have advantage on any Strength (Athletics) or Dexterity (Acrobatics) check you make to escape from being grappled.
 
-Source:	Xanathar's Guide to Everything p. 75</text>
+Source:	Xanathar&apos;s Guide to Everything p. 75</text>
     <modifier category="ability score">Strength +1</modifier>
     <modifier category="bonus">Speed +5</modifier>
     <modifier category="skill">Acrobatics+%0</modifier>
@@ -437,11 +438,11 @@ Source:	Xanathar's Guide to Everything p. 75</text>
 
 	• Increase your walking speed by 5 feet.
 
-	• You gain proficiency in the Acrobatics or Athletics skill (your choice). If you're already proficient in the skill, your proficiency bonus is doubled for any check you make with it.
+	• You gain proficiency in the Acrobatics or Athletics skill (your choice). If you&apos;re already proficient in the skill, your proficiency bonus is doubled for any check you make with it.
 
 	• You have advantage on any Strength (Athletics) or Dexterity (Acrobatics) check you make to escape from being grappled.
 
-Source:	Xanathar's Guide to Everything p. 75</text>
+Source:	Xanathar&apos;s Guide to Everything p. 75</text>
     <modifier category="ability score">Strength +1</modifier>
     <modifier category="bonus">Speed +5</modifier>
   </feat>
@@ -454,11 +455,11 @@ Source:	Xanathar's Guide to Everything p. 75</text>
 
 	• Increase your walking speed by 5 feet.
 
-	• You gain proficiency in the Acrobatics or Athletics skill (your choice). If you're already proficient in the skill, your proficiency bonus is doubled for any check you make with it.
+	• You gain proficiency in the Acrobatics or Athletics skill (your choice). If you&apos;re already proficient in the skill, your proficiency bonus is doubled for any check you make with it.
 
 	• You have advantage on any Strength (Athletics) or Dexterity (Acrobatics) check you make to escape from being grappled.
 
-Source:	Xanathar's Guide to Everything p. 75</text>
+Source:	Xanathar&apos;s Guide to Everything p. 75</text>
     <modifier category="ability score">Strength +1</modifier>
     <modifier category="bonus">Speed +5</modifier>
     <modifier category="skill">Athletics+%0</modifier>
@@ -473,11 +474,11 @@ Source:	Xanathar's Guide to Everything p. 75</text>
 
 	• Increase your walking speed by 5 feet.
 
-	• You gain proficiency in the Acrobatics or Athletics skill (your choice). If you're already proficient in the skill, your proficiency bonus is doubled for any check you make with it.
+	• You gain proficiency in the Acrobatics or Athletics skill (your choice). If you&apos;re already proficient in the skill, your proficiency bonus is doubled for any check you make with it.
 
 	• You have advantage on any Strength (Athletics) or Dexterity (Acrobatics) check you make to escape from being grappled.
 
-Source:	Xanathar's Guide to Everything p. 75</text>
+Source:	Xanathar&apos;s Guide to Everything p. 75</text>
     <modifier category="ability score">Strength +1</modifier>
     <modifier category="bonus">Speed +5</modifier>
   </feat>
@@ -486,6 +487,6 @@ Source:	Xanathar's Guide to Everything p. 75</text>
     <prerequisite>Elf (Wood)</prerequisite>
     <text>You learn the magic of the primeval woods, which are revered and protected by your people. You learn one druid cantrip of your choice. You also learn the longstrider and pass without trace spells, each of which you can cast once without expending a spell slot. You regain the ability to cast these two spells in this way when you finish a long rest. Wisdom is your spellcasting ability for all three spells.
 
-Source:	Xanathar's Guide to Everything p. 75</text>
+Source:	Xanathar&apos;s Guide to Everything p. 75</text>
   </feat>
 </compendium>

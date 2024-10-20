@@ -83,7 +83,7 @@ Source:	Player's Handbook 2024 p. 109</text>
     <autolevel level="1">
       <feature>
         <name>Spellcasting</name>
-        <text>You have learned to cast spells through prayer and meditation. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Paladin spells, which appear in the Paladin spell list later in the class's description.
+        <text>You have learned to cast spells through prayer and meditation. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Paladin spells, which appear in the Paladin spell list later in the class&apos;s description.
 
 Spell Slots:
 The Paladin Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
@@ -152,7 +152,7 @@ Source:	Player's Handbook 2024 p. 110</text>
 
     <autolevel level="2">
       <feature>
-        <name>Paladin's Smite</name>
+        <name>Paladin&apos;s Smite</name>
         <text>You always have the Divine Smite spell prepared. In addition, you can cast it without expending a spell slot, but you must finish a Long Rest before you can cast it in this way again.
 
 Source:	Player's Handbook 2024 p. 110</text>
@@ -162,7 +162,7 @@ Source:	Player's Handbook 2024 p. 110</text>
     <autolevel level="3">
       <feature>
         <name>Channel Divinity</name>
-        <text>You can channel divine energy directly from the Outer Planes, using it to fuel magical effects. You start with one such effect: Divine Sense, which is described below. Other Paladin features give additional Channel Divinity effect options. Each time you use this class's Channel Divinity, you choose which effect from this class to create.
+        <text>You can channel divine energy directly from the Outer Planes, using it to fuel magical effects. You start with one such effect: Divine Sense, which is described below. Other Paladin features give additional Channel Divinity effect options. Each time you use this class&apos;s Channel Divinity, you choose which effect from this class to create.
 
 You can use this class's Channel Divinity twice. You regain one of its expended uses when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest. You gain an additional use when you reach Paladin level 11.
 
@@ -188,7 +188,7 @@ Source:	Player's Handbook 2024 p. 110</text>
     <autolevel level="3">
       <feature>
         <name>Paladin Subclass</name>
-        <text>You gain a Paladin subclass of your choice. The Oath of Devotion, Oath of Glory, Oath of the Ancients, and Oath of Vengeance subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Paladin levels. For the rest of your career, you gain each of your subclass's features that are of your Paladin level or lower.
+        <text>You gain a Paladin subclass of your choice. The Oath of Devotion, Oath of Glory, Oath of the Ancients, and Oath of Vengeance subclasses are detailed after this class&apos;s description. A subclass is a specialization that grants you features at certain Paladin levels. For the rest of your career, you gain each of your subclass&apos;s features that are of your Paladin level or lower.
 
 Source:	Player's Handbook 2024 p. 111</text>
       </feature>
@@ -276,7 +276,7 @@ Source:	Player's Handbook 2024 p. 111</text>
     <autolevel level="9">
       <feature>
         <name>Abjure Foes</name>
-        <text>As a Magic action, you can expend one use of this class's Channel Divinity to overwhelm foes with awe. As you present your Holy Symbol or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the Frightened condition for 1 minute or until it takes any damage. While Frightened in this way, a target can do only one of the following on its turns: move, take an action, or take a Bonus Action.
+        <text>As a Magic action, you can expend one use of this class&apos;s Channel Divinity to overwhelm foes with awe. As you present your Holy Symbol or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the Frightened condition for 1 minute or until it takes any damage. While Frightened in this way, a target can do only one of the following on its turns: move, take an action, or take a Bonus Action.
 
 Source:	Player's Handbook 2024 p. 111</text>
       </feature>
@@ -345,7 +345,7 @@ Source:	Player's Handbook 2024 p. 111</text>
     <autolevel level="14">
       <feature>
         <name>Restoring Touch</name>
-        <text>When you use Lay On Hands on a creature. you can also remove one or more of the following conditions from the creature: Blinded, Charmed, Deafened, Frightened, Paralyzed, or Stunned. You must expend 5 Hit Points from the healing pool of Lay On Hands for each of these conditions you remove; those points don't also restore Hit Points to the creature.
+        <text>When you use Lay On Hands on a creature. you can also remove one or more of the following conditions from the creature: Blinded, Charmed, Deafened, Frightened, Paralyzed, or Stunned. You must expend 5 Hit Points from the healing pool of Lay On Hands for each of these conditions you remove; those points don&apos;t also restore Hit Points to the creature.
 
 Source:	Player's Handbook 2024 p. 111</text>
       </feature>
@@ -491,7 +491,7 @@ Source:	Player's Handbook 2024 p. 114</text>
     <autolevel level="20">
       <feature optional="YES">
         <name>Oath Of Devotion: Holy Nimbus</name>
-        <text>As a Bonus Action, you can imbue your Aura of Protection with holy power, granting the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
+        <text>As a Bonus Action, you can imbue your Aura of Protection with holy power, granting the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can&apos;t use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 Holy Ward:
 You have Advantage on any saving throw you are forced to make by a Fiend or an Undead.
@@ -572,7 +572,7 @@ Source:	Player's Handbook 2024 p. 115</text>
     <autolevel level="15">
       <feature optional="YES">
         <name>Oath Of Glory: Glorious Defense</name>
-        <text>You can turn defense into a sudden strike. When you or another creature you can see within 10 feet of you is hit by an attack roll, you can take a Reaction to grant a bonus to the target's AC against that attack, potentially causing it to miss. The bonus equals your Charisma modifier (minimum of +1). If the attack misses, you can make one attack with a weapon against the attacker as part of this Reaction if the attacker is within your weapon's range.
+        <text>You can turn defense into a sudden strike. When you or another creature you can see within 10 feet of you is hit by an attack roll, you can take a Reaction to grant a bonus to the target&apos;s AC against that attack, potentially causing it to miss. The bonus equals your Charisma modifier (minimum of +1). If the attack misses, you can make one attack with a weapon against the attacker as part of this Reaction if the attacker is within your weapon&apos;s range.
 
 You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
@@ -583,7 +583,7 @@ Source:	Player's Handbook 2024 p. 115</text>
     <autolevel level="20">
       <feature optional="YES">
         <name>Oath Of Glory: Living Legend</name>
-        <text>You can empower yourself with the legends whether true or exaggerated-of your great deeds. As a Bonus Action, you gain the benefits below for 10 minutes. Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
+        <text>You can empower yourself with the legends whether true or exaggerated-of your great deeds. As a Bonus Action, you gain the benefits below for 10 minutes. Once you use this feature, you can&apos;t use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 Charismatic:
 You are blessed with an otherworldly presence and have Advantage on all Charisma checks.
@@ -616,7 +616,7 @@ Source:	Player's Handbook 2024 p. 115</text>
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Oath Of The Ancients: Nature's Wrath</name>
+        <name>Oath Of The Ancients: Nature&apos;s Wrath</name>
         <text>As a Magic action, you can expend one use of your Channel Divinity to conjure spectral vines around nearby creatures. Each creature of your choice that you can see within 15 feet of yourself must succeed on a Strength saving throw or have the Restrained condition for 1 minute. A Restrained creature repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 Source:	Player's Handbook 2024 p. 115</text>
@@ -652,7 +652,7 @@ Source:	Player's Handbook 2024 p. 116</text>
     <autolevel level="15">
       <feature optional="YES">
         <name>Oath Of The Ancients: Undying Sentinel</name>
-        <text>When you are reduced to 0 Hit Points and not killed outright, you can drop to 1 Hit Point instead, and you regain a number of Hit Points equal to three times your Paladin level. Once you use this feature, you can't do so again until you finish a Long Rest.
+        <text>When you are reduced to 0 Hit Points and not killed outright, you can drop to 1 Hit Point instead, and you regain a number of Hit Points equal to three times your Paladin level. Once you use this feature, you can&apos;t do so again until you finish a Long Rest.
 
 Additionally, you can't be aged magically, and you cease visibly aging.
 
@@ -663,7 +663,7 @@ Source:	Player's Handbook 2024 p. 116</text>
     <autolevel level="20">
       <feature optional="YES">
         <name>Oath Of The Ancients: Elder Champion</name>
-        <text>As a Bonus Action, you can imbue your Aura of Protection with primal power, granting the benefits below for 1 minute or until you end them (no action required). Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
+        <text>As a Bonus Action, you can imbue your Aura of Protection with primal power, granting the benefits below for 1 minute or until you end them (no action required). Once you use this feature, you can&apos;t use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 Diminish Defiance:
 Enemies in the aura have Disadvantage on saving throws against your spells and Channel Divinity options.
@@ -725,7 +725,7 @@ Source:	Player's Handbook 2024 p. 117</text>
     <autolevel level="7">
       <feature optional="YES">
         <name>Oath Of Vengeance: Relentless Avenger</name>
-        <text>Your supernatural focus helps you close off a foe's retreat. When you hit a creature with an Opportunity Attack, you can reduce the creature's Speed to 0 until the end of the current turn. You can then move up to half your Speed as part of the same Reaction. This movement doesn't provoke Opportunity Attacks.
+        <text>Your supernatural focus helps you close off a foe's retreat. When you hit a creature with an Opportunity Attack, you can reduce the creature&apos;s Speed to 0 until the end of the current turn. You can then move up to half your Speed as part of the same Reaction. This movement doesn&apos;t provoke Opportunity Attacks.
 
 Source:	Player's Handbook 2024 p. 117</text>
       </feature>
@@ -734,7 +734,7 @@ Source:	Player's Handbook 2024 p. 117</text>
     <autolevel level="15">
       <feature optional="YES">
         <name>Oath Of Vengeance: Soul Of Vengeance</name>
-        <text>Immediately after a creature under the effect of your Vow of Enmity hits or misses with an attack roll, you can take a Reaction to make a melee at tack against that creature if it's within range.
+        <text>Immediately after a creature under the effect of your Vow of Enmity hits or misses with an attack roll, you can take a Reaction to make a melee at tack against that creature if it&apos;s within range.
 
 Source:	Player's Handbook 2024 p. 117</text>
       </feature>
@@ -743,7 +743,7 @@ Source:	Player's Handbook 2024 p. 117</text>
     <autolevel level="20">
       <feature optional="YES">
         <name>Oath Of Vengeance: Avenging Angel</name>
-        <text>As a Bonus Action, you gain the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
+        <text>As a Bonus Action, you gain the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can&apos;t use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 Flight:
 You sprout spectral wings on your back, have a Fly Speed of 60 feet, and can hover.

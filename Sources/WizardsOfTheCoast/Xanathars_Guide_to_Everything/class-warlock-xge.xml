@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <class>
     <name>Warlock</name>
@@ -9,17 +10,17 @@
 
 Warlocks are finders and keepers of secrets. They push at the edge of our understanding of the world, always seeking to expand their expertise. Where sages or wizards might heed a clear sign of danger and end their research, a warlock plunges ahead, heedless of the cost. Thus, it takes a peculiar mixture of intelligence, curiosity, and recklessness to produce a warlock. Many folk would describe that combination as evidence of madness. Warlocks see it as a demonstration of bravery.
 
-Warlocks are defined by two elements that work in concert to forge their path into this class. The first element is the event or circumstances that led to a warlock's entering into a pact with a planar entity. The second one is the nature of the entity a warlock is bound to. Unlike clerics, who typically embrace a deity and that god's ethos, a warlock might have no love for a patron, or vice versa.
+Warlocks are defined by two elements that work in concert to forge their path into this class. The first element is the event or circumstances that led to a warlock&apos;s entering into a pact with a planar entity. The second one is the nature of the entity a warlock is bound to. Unlike clerics, who typically embrace a deity and that god&apos;s ethos, a warlock might have no love for a patron, or vice versa.
 
 The sections that follow provide ways to embellish a warlock character that could generate some intriguing story and roleplaying opportunities.
 
-Source:	Xanathar's Guide to Everything p. 53</text>
+Source:	Xanathar&apos;s Guide to Everything p. 53</text>
     </trait>
     <trait>
-      <name>Patron's Attitude</name>
-      <text>Every relationship is a two-way street, but in the case of warlocks and their patrons it's not necessarily true that both sides of the street are the same width or made of the same stuff. The feeling that a warlock holds for their patron, whether positive or negative, might be reciprocated by the patron, or the two participants in the pact might view one another with opposing emotions.
+      <name>Patron&apos;s Attitude</name>
+      <text>Every relationship is a two-way street, but in the case of warlocks and their patrons it&apos;s not necessarily true that both sides of the street are the same width or made of the same stuff. The feeling that a warlock holds for their patron, whether positive or negative, might be reciprocated by the patron, or the two participants in the pact might view one another with opposing emotions.
 
-When you determine the attitude your warlock character holds toward your patron, also consider how things look from the patron's perspective. How does your patron behave toward you? Is your patron a friend and ally, or an enemy that grants you power only because you forced a pact upon it?
+When you determine the attitude your warlock character holds toward your patron, also consider how things look from the patron&apos;s perspective. How does your patron behave toward you? Is your patron a friend and ally, or an enemy that grants you power only because you forced a pact upon it?
 
 Patron Attitudes:
 d6 | Attitude
@@ -33,29 +34,29 @@ d6 | Attitude
     </trait>
     <trait>
       <name>Special Terms of the Pact</name>
-      <text>A pact can range from a loose agreement to a formal contract with lengthy, detailed clauses and lists of requirements. The terms of a pact—what a warlock must do to receive a patron's favor—are always dictated by the patron. On occasion, those terms include a special proviso that might seem odd or whimsical, but warlocks take these dictates as seriously as they do the other requirements of their pacts.
+      <text>A pact can range from a loose agreement to a formal contract with lengthy, detailed clauses and lists of requirements. The terms of a pact—what a warlock must do to receive a patron&apos;s favor—are always dictated by the patron. On occasion, those terms include a special proviso that might seem odd or whimsical, but warlocks take these dictates as seriously as they do the other requirements of their pacts.
 
-Does your character have a pact that requires you to change your behavior in an unusual or seemingly frivolous way? Even if your patron hasn't imposed such a duty on you already, that's not to say it couldn't still happen.
+Does your character have a pact that requires you to change your behavior in an unusual or seemingly frivolous way? Even if your patron hasn&apos;t imposed such a duty on you already, that&apos;s not to say it couldn&apos;t still happen.
 
 Special Terms:
 d6 | Term
 1 | When directed, you must take immediate action against a specific enemy of your patron.
 2 | Your pact tests your willpower; you are required to abstain from alcohol and other intoxicants.
-3 | At least once a day, you must inscribe or carve your patron's name or symbol on the wall of a building.
+3 | At least once a day, you must inscribe or carve your patron&apos;s name or symbol on the wall of a building.
 4 | You must occasionally conduct bizarre rituals to maintain your pact.
 5 | You can never wear the same outfit twice, since your patron finds such predictability to be boring.
-6 | When you use an eldritch invocation, you must speak your patron's name aloud or risk incurring its displeasure.</text>
+6 | When you use an eldritch invocation, you must speak your patron&apos;s name aloud or risk incurring its displeasure.</text>
       <roll>1d6</roll>
     </trait>
     <trait>
       <name>Binding Mark</name>
-      <text>Some patrons make a habit of, and often enjoy, marking the warlocks under their sway in some fashion. A binding mark makes it clear—to those who know about such things—that the individual in question is bound to the patron's service. A warlock might take advantage of such a mark, claiming it as proof of one's pact, or might want to keep it under wraps (if possible) to avoid the difficulties it might bring.
+      <text>Some patrons make a habit of, and often enjoy, marking the warlocks under their sway in some fashion. A binding mark makes it clear—to those who know about such things—that the individual in question is bound to the patron&apos;s service. A warlock might take advantage of such a mark, claiming it as proof of one&apos;s pact, or might want to keep it under wraps (if possible) to avoid the difficulties it might bring.
 
-If your warlock's pact comes with a binding mark, how you feel about displaying it probably depends on the nature of your relationship with the one who gave it to you. Is the mark a source of pride or something you are secretly ashamed of?
+If your warlock&apos;s pact comes with a binding mark, how you feel about displaying it probably depends on the nature of your relationship with the one who gave it to you. Is the mark a source of pride or something you are secretly ashamed of?
 
 Binding Marks:
 d6 | Mark
-1 | One of your eyes looks the same as one of your patron's eyes.
+1 | One of your eyes looks the same as one of your patron&apos;s eyes.
 2 | Each time you wake up, the small blemish on your face appears in a different place.
 3 | You display outward symptoms of a disease but suffer no ill effects from it.
 4 | Your tongue is an unnatural color.
@@ -71,7 +72,7 @@ d6 | Mark
 
 Being connected to such power can cause changes in your behavior and beliefs. You might find yourself driven to annihilate the undead, to defeat fiends, and to protect the innocent. At times, your heart might also be filled with a longing for the celestial realm of your patron, and a desire to wander that paradise for the rest of your days. But you know that your mission is among mortals for now, and that your pact binds you to bring light to the dark places of the world.
 
-Source:	Xanathar's Guide to Everything p. 54</text>
+Source:	Xanathar&apos;s Guide to Everything p. 54</text>
       </feature>
       <feature optional="YES">
         <name>The Celestial: Expanded Spell List</name>
@@ -85,16 +86,16 @@ Spell Level | Spells
 4th | guardian of faith, wall of fire
 5th | flame strike, greater restoration
 
-Source:	Xanathar's Guide to Everything p. 54</text>
+Source:	Xanathar&apos;s Guide to Everything p. 54</text>
       </feature>
     </autolevel>
 
     <autolevel level="1">
       <feature optional="YES">
         <name>The Celestial: Bonus Cantrips</name>
-        <text>At 1st level, you learn the sacred flame and light cantrips. They count as warlock cantrips for you, but they don't count against your number of cantrips known.
+        <text>At 1st level, you learn the sacred flame and light cantrips. They count as warlock cantrips for you, but they don&apos;t count against your number of cantrips known.
 
-Source:	Xanathar's Guide to Everything p. 54</text>
+Source:	Xanathar&apos;s Guide to Everything p. 54</text>
       </feature>
     </autolevel>
 
@@ -107,7 +108,7 @@ As a bonus action, you can heal one creature you can see within 60 feet of you, 
 
 Your pool regains all expended dice when you finish a long rest.
 
-Source:	Xanathar's Guide to Everything p. 54</text>
+Source:	Xanathar&apos;s Guide to Everything p. 54</text>
       </feature>
     </autolevel>
 
@@ -116,7 +117,7 @@ Source:	Xanathar's Guide to Everything p. 54</text>
         <name>The Celestial: Radiant Soul</name>
         <text>Starting at 6th level, your link to the Celestial allows you to serve as a conduit for radiant energy. You have resistance to radiant damage, and when you cast a spell that deals radiant or fire damage, you can add your Charisma modifier to one radiant or fire damage roll of that spell against one of its targets.
 
-Source:	Xanathar's Guide to Everything p. 54</text>
+Source:	Xanathar&apos;s Guide to Everything p. 54</text>
       </feature>
     </autolevel>
 
@@ -125,7 +126,7 @@ Source:	Xanathar's Guide to Everything p. 54</text>
         <name>The Celestial: Celestial Resilience</name>
         <text>Starting at 10th level, you gain temporary hit points whenever you finish a short or long rest. These temporary hit points equal your warlock level + your Charisma modifier. Additionally, choose up to five creatures you can see at the end of the rest. Those creatures each gain temporary hit points equal to half your warlock level + your Charisma modifier.
 
-Source:	Xanathar's Guide to Everything p. 54</text>
+Source:	Xanathar&apos;s Guide to Everything p. 54</text>
       </feature>
     </autolevel>
 
@@ -134,9 +135,9 @@ Source:	Xanathar's Guide to Everything p. 54</text>
         <name>The Celestial: Searing Vengeance</name>
         <text>Starting at 14th level, the radiant energy you channel allows you to resist death. When you have to make a death saving throw at the start of your turn, you can instead spring back to your feet with a burst of radiant energy. You regain hit points equal to half your hit point maximum, and then you stand up if you so choose. Each creature of your choice that is within 30 feet of you takes radiant damage equal to 2d8 + your Charisma modifier, and it is blinded until the end of the current turn.
 
-Once you use this feature, you can't use it again until you finish a long rest.
+Once you use this feature, you can&apos;t use it again until you finish a long rest.
 
-Source:	Xanathar's Guide to Everything p. 54</text>
+Source:	Xanathar&apos;s Guide to Everything p. 54</text>
       </feature>
       <counter>
         <name>Searing Vengeance</name>
@@ -152,7 +153,7 @@ Source:	Xanathar's Guide to Everything p. 54</text>
 
 Because the Raven Queen is known to have forged the first of these weapons, many sages speculate that she and the force are one and that the weapons, along with hexblade warlocks, are tools she uses to manipulate events on the Material Plane to her inscrutable ends.
 
-Source:	Xanathar's Guide to Everything p. 55</text>
+Source:	Xanathar&apos;s Guide to Everything p. 55</text>
       </feature>
       <feature optional="YES">
         <name>The Hexblade: Expanded Spell List</name>
@@ -166,7 +167,7 @@ Spell Level | Spells
 4th | phantasmal killer, staggering smite
 5th | banishing smite, cone of cold
 
-Source:	Xanathar's Guide to Everything p. 55</text>
+Source:	Xanathar&apos;s Guide to Everything p. 55</text>
       </feature>
     </autolevel>
 
@@ -175,24 +176,24 @@ Source:	Xanathar's Guide to Everything p. 55</text>
         <name>The Hexblade: Hex Warrior</name>
         <text>At 1st level, you acquire the training necessary to effectively arm yourself for battle. You gain proficiency with medium armor, shields, and martial weapons.
 
-The influence of your patron also allows you to mystically channel your will through a particular weapon. Whenever you finish a long rest, you can touch one weapon that you are proficient with and that lacks the two-handed property. When you attack with that weapon, you can use your Charisma modifier, instead of Strength or Dexterity, for the attack and damage rolls. This benefit lasts until you finish a long rest. If you later gain the Pact of the Blade feature, this benefit extends to every pact weapon you conjure with that feature, no matter the weapon's type.
+The influence of your patron also allows you to mystically channel your will through a particular weapon. Whenever you finish a long rest, you can touch one weapon that you are proficient with and that lacks the two-handed property. When you attack with that weapon, you can use your Charisma modifier, instead of Strength or Dexterity, for the attack and damage rolls. This benefit lasts until you finish a long rest. If you later gain the Pact of the Blade feature, this benefit extends to every pact weapon you conjure with that feature, no matter the weapon&apos;s type.
 
-Source:	Xanathar's Guide to Everything p. 55</text>
+Source:	Xanathar&apos;s Guide to Everything p. 55</text>
       </feature>
     </autolevel>
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>The Hexblade: Hexblade's Curse</name>
+        <name>The Hexblade: Hexblade&apos;s Curse</name>
         <text>Starting at 1st level, you gain the ability to place a baleful curse on someone. As a bonus action, choose one creature you can see within 30 feet of you. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or you are incapacitated. Until the curse ends, you gain the following benefits:
 
 	• You gain a bonus to damage rolls against the cursed target. The bonus equals your proficiency bonus.
 	• Any attack roll you make against the cursed target is a critical hit on a roll of 19 or 20 on the d20.
 	• If the cursed target dies, you regain hit points equal to your warlock level + your Charisma modifier (minimum of 1 hit point).
 
-You can't use this feature again until you finish a short or long rest.
+You can&apos;t use this feature again until you finish a short or long rest.
 
-Source:	Xanathar's Guide to Everything p. 55</text>
+Source:	Xanathar&apos;s Guide to Everything p. 55</text>
       </feature>
     </autolevel>
 
@@ -203,9 +204,9 @@ Source:	Xanathar's Guide to Everything p. 55</text>
 
 The specter remains in your service until the end of your next long rest, at which point it vanishes to the afterlife.
 
-Once you bind a specter with this feature, you can't use the feature again until you finish a long rest.
+Once you bind a specter with this feature, you can&apos;t use the feature again until you finish a long rest.
 
-Source:	Xanathar's Guide to Everything p. 55</text>
+Source:	Xanathar&apos;s Guide to Everything p. 55</text>
       </feature>
       <counter>
         <name>Accursed Specter</name>
@@ -217,18 +218,18 @@ Source:	Xanathar's Guide to Everything p. 55</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>The Hexblade: Armor of Hexes</name>
-        <text>At 10th level, your hex grows more powerful. If the target cursed by your Hexblade's Curse hits you with an attack roll, you can use your reaction to roll a d6. On a 4 or higher, the attack instead misses you, regardless of its roll.
+        <text>At 10th level, your hex grows more powerful. If the target cursed by your Hexblade&apos;s Curse hits you with an attack roll, you can use your reaction to roll a d6. On a 4 or higher, the attack instead misses you, regardless of its roll.
 
-Source:	Xanathar's Guide to Everything p. 55</text>
+Source:	Xanathar&apos;s Guide to Everything p. 55</text>
       </feature>
     </autolevel>
 
     <autolevel level="14">
       <feature optional="YES">
         <name>The Hexblade: Master of Hexes</name>
-        <text>Starting at 14th level, you can spread your Hexblade's Curse from a slain creature to another creature. When the creature cursed by your Hexblade's Curse dies, you can apply the curse to a different creature you can see within 30 feet of you, provided you aren't incapacitated. When you apply the curse in this way, you don't regain hit points from the death of the previously cursed creature.
+        <text>Starting at 14th level, you can spread your Hexblade&apos;s Curse from a slain creature to another creature. When the creature cursed by your Hexblade&apos;s Curse dies, you can apply the curse to a different creature you can see within 30 feet of you, provided you aren&apos;t incapacitated. When you apply the curse in this way, you don&apos;t regain hit points from the death of the previously cursed creature.
 
-Source:	Xanathar's Guide to Everything p. 55</text>
+Source:	Xanathar&apos;s Guide to Everything p. 55</text>
       </feature>
     </autolevel>
   </class>

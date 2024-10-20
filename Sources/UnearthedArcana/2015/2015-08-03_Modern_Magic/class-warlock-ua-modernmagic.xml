@@ -52,7 +52,7 @@ Source:	Unearthed Arcana: Modern Magic p. 2</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Ghost in the Machine (UA): Wire Walk</name>
-        <text>Starting at 6th level, you gain the ability to travel short distances over electrical wires, data lines, or telephone cables. As a bonus action, you can touch a device or socket connected to a hardwired network and teleport along this network to another device or socket within your line of sight. Once you use this feature, you can't use it again until you finish a short or long rest.
+        <text>Starting at 6th level, you gain the ability to travel short distances over electrical wires, data lines, or telephone cables. As a bonus action, you can touch a device or socket connected to a hardwired network and teleport along this network to another device or socket within your line of sight. Once you use this feature, you can&apos;t use it again until you finish a short or long rest.
 
 Source:	Unearthed Arcana: Modern Magic p. 2</text>
       </feature>
@@ -70,7 +70,7 @@ Source:	Unearthed Arcana: Modern Magic p. 2</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Ghost in the Machine (UA): Technovirus</name>
-        <text>At 14th level, you gain the ability to infect a humanoid's body with living circuitry. You can use an action to make a melee attack against a humanoid creature using your spell attack modifier. The target must make a Constitution saving throw against your spell save DC as a techno-organic virus quickly spreads through its body. On a failed save, the target takes 8d10 psychic damage, or half as much damage on a successful one.
+        <text>At 14th level, you gain the ability to infect a humanoid&apos;s body with living circuitry. You can use an action to make a melee attack against a humanoid creature using your spell attack modifier. The target must make a Constitution saving throw against your spell save DC as a techno-organic virus quickly spreads through its body. On a failed save, the target takes 8d10 psychic damage, or half as much damage on a successful one.
 
 Additionally, if the target fails the saving throw, you can use an action to issue it a single command, as if you were casting the command spell. The target makes its saving throw against your command with disadvantage. You can issue this command at any time while the target remains infected.
 

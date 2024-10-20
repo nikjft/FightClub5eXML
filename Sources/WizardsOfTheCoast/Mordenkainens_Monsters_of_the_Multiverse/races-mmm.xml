@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <race>
     <name>Aarakocra</name>
@@ -9,11 +10,11 @@
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>A winged people who originated on the Elemental Plane of Air, aarakocra soar through the sky wherever they wander. The first aarakocra served the Wind Dukes of Aaqa—mighty beings of air—and were imbued with a measure of their masters' power over winds. Their descendants still command echoes of that power.
+      <text>A winged people who originated on the Elemental Plane of Air, aarakocra soar through the sky wherever they wander. The first aarakocra served the Wind Dukes of Aaqa—mighty beings of air—and were imbued with a measure of their masters&apos; power over winds. Their descendants still command echoes of that power.
 
 From below, aarakocra look like large birds and thus are sometimes called birdfolk. Only when they roost on a branch or walk across the ground is their Humanoid nature clear. Standing upright, aarakocra are typically about 5 feet tall, and they have long, narrow legs that taper to sharp talons. Feathers cover their bodies—usually red, orange, yellow, brown, or gray. Their heads are also avian, often resembling those of parrots or eagles.
 
-Source:	Elemental Evil Player's Companion p. 5,
+Source:	Elemental Evil Player&apos;s Companion p. 5,
 		Mordenkainen Presents: Monsters of the Multiverse p. 6</text>
     </trait>
     <trait>
@@ -26,7 +27,7 @@ Source:	Elemental Evil Player's Companion p. 5,
     </trait>
     <trait>
       <name>Life Span</name>
-      <text>Aarakocra reach maturity by age 3. Compared to humans, aarakocra don't usually live longer than 30 years.</text>
+      <text>Aarakocra reach maturity by age 3. Compared to humans, aarakocra don&apos;t usually live longer than 30 years.</text>
     </trait>
     <trait>
       <name>Alignment</name>
@@ -44,7 +45,7 @@ Weight in pounds = 70 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Flight</name>
-      <text>Because of your wings, you have a flying speed equal to your walking speed. You can't use this flying speed if you're wearing medium or heavy armor.</text>
+      <text>Because of your wings, you have a flying speed equal to your walking speed. You can&apos;t use this flying speed if you&apos;re wearing medium or heavy armor.</text>
     </trait>
     <trait>
       <name>Talons</name>
@@ -52,13 +53,13 @@ Weight in pounds = 70 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Wind Caller</name>
-      <text>Starting at 3rd level, you can cast the gust of wind spell with this trait, without requiring a material component. Once you cast the spell with this trait, you can't do so again until you finish a long rest. You can also cast the spell using any spell slots you have of 2nd level or higher.
+      <text>Starting at 3rd level, you can cast the gust of wind spell with this trait, without requiring a material component. Once you cast the spell with this trait, you can&apos;t do so again until you finish a long rest. You can also cast the spell using any spell slots you have of 2nd level or higher.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for it when you cast gust of wind with this trait (choose when you select this race).</text>
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -82,7 +83,7 @@ d6 | Celestial Feature
 5 | A ghostly halo crowning your head
 6 | Rainbows gleaming on your skin
 
-Source:	Volo's Guide to Monsters p. 104,
+Source:	Volo&apos;s Guide to Monsters p. 104,
 		Mordenkainen Presents: Monsters of the Multiverse p. 7</text>
     </trait>
     <trait>
@@ -121,7 +122,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Healing Hands</name>
-      <text>As an action, you can touch a creature and roll a number of d4s equal to your proficiency bonus. The creature regains a number of hit points equal to the total rolled. Once you use this trait, you can't use it again until you finish a long rest.</text>
+      <text>As an action, you can touch a creature and roll a number of d4s equal to your proficiency bonus. The creature regains a number of hit points equal to the total rolled. Once you use this trait, you can&apos;t use it again until you finish a long rest.</text>
     </trait>
     <trait>
       <name>Light Bearer</name>
@@ -129,7 +130,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Celestial Revelation</name>
-      <text>When you reach 3rd level, choose one of the revelation options below. Thereafter, you can use a bonus action to unleash the celestial energy within yourself, gaining the benefits of that revelation. Your transformation lasts for 1 minute or until you end it as a bonus action. Once you transform using your revelation below, you can't use it again until you finish a long rest:
+      <text>When you reach 3rd level, choose one of the revelation options below. Thereafter, you can use a bonus action to unleash the celestial energy within yourself, gaining the benefits of that revelation. Your transformation lasts for 1 minute or until you end it as a bonus action. Once you transform using your revelation below, you can&apos;t use it again until you finish a long rest:
 
 Necrotic Shroud:
 Your eyes briefly become pools of darkness, and ghostly, flightless wings sprout from your back temporarily. Creatures other than your allies within 10 feet of you that can see you must succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Charisma modifier) or become frightened of you until the end of your next turn. Until the transformation ends, once on each of your turns, you can deal extra necrotic damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your proficiency bonus.
@@ -142,7 +143,7 @@ Two luminous, spectral wings sprout from your back temporarily. Until the transf
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -154,11 +155,11 @@ Two luminous, spectral wings sprout from your back temporarily. Until the transf
     <proficiency>Stealth</proficiency>
     <trait>
       <name>Description</name>
-      <text>Neither bugs nor bears, bugbears are the hulking cousins of goblins and hobgoblins. With roots in the Feywild, early bugbears resided in hidden places, in hard-to-reach and shadowed spaces. Long ago and from out of the corner of your eye, they came to the Material Plane, urged to spread throughout the multiverse by the conquering god Maglubiyet. Centuries later, they still bear a fey gift for lurking just out of sight, and many of them have sneaked away from that god's influence.
+      <text>Neither bugs nor bears, bugbears are the hulking cousins of goblins and hobgoblins. With roots in the Feywild, early bugbears resided in hidden places, in hard-to-reach and shadowed spaces. Long ago and from out of the corner of your eye, they came to the Material Plane, urged to spread throughout the multiverse by the conquering god Maglubiyet. Centuries later, they still bear a fey gift for lurking just out of sight, and many of them have sneaked away from that god&apos;s influence.
 
 They are long of limb and covered in coarse hair, with wedge-shaped ears and pointed teeth. Despite their formidable build, bugbears are quiet skulkers, thanks to a fey magic that allows them to hide in spaces seemingly too small for them.
 
-Source:	Volo's Guide to Monsters p. 120,
+Source:	Volo&apos;s Guide to Monsters p. 120,
 		Mordenkainen Presents: Monsters of the Multiverse p. 8</text>
     </trait>
     <trait>
@@ -189,7 +190,7 @@ Weight in pounds = 200 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Fey Ancestry</name>
@@ -210,11 +211,11 @@ Weight in pounds = 200 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Surprise Attack</name>
-      <text>If you hit a creature with an attack roll, the creature takes an extra 2d6 damage if it hasn't taken a turn yet in the current combat.</text>
+      <text>If you hit a creature with an attack roll, the creature takes an extra 2d6 damage if it hasn&apos;t taken a turn yet in the current combat.</text>
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -228,7 +229,7 @@ Weight in pounds = 200 + (2d6 × your size modifier)</text>
       <name>Description</name>
       <text>Centaurs gallop throughout the multiverse and trace their origins to many different realms. The centaurs presented here hail from the Feywild and mystically resonate with the natural world. From the waist up, they resemble elves, displaying all the elf varieties of skin tone. From the waist down, they have the bodies of horses.
 
-Source:	Guildmasters' Guide to Ravnica p. 16,
+Source:	Guildmasters&apos; Guide to Ravnica p. 16,
 		Mythic Odysseys of Theros p. 19,
 		Mordenkainen Presents: Monsters of the Multiverse p. 9</text>
     </trait>
@@ -279,7 +280,7 @@ In addition, any climb that requires hands and feet is especially difficult for 
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -297,7 +298,7 @@ The first changelings in the multiverse appeared in the Feywild, and the wondrou
 
 In their true form, changelings appear faded, their features almost devoid of detail. It is rare to see a changeling in that form, for a typical changeling changes their shape the way others might change clothes. A casual shape—one created on the spur of the moment, with no depth or history—is called a mask. A mask can be used to express a mood or to serve a specific purpose and then might never be used again. However, many changelings develop identities that have more depth, crafting whole personas complete with histories and beliefs. A changeling adventurer might have personas for many situations, including negotiation, investigation, and combat.
 
-Personas can be shared by multiple changelings; a community might be home to three healer changelings, with whoever is on duty adopting the persona of Andrea, the gentle physician. Personas can even be passed down through a family, allowing a younger changeling to take advantage of contacts established by the persona's previous users.
+Personas can be shared by multiple changelings; a community might be home to three healer changelings, with whoever is on duty adopting the persona of Andrea, the gentle physician. Personas can even be passed down through a family, allowing a younger changeling to take advantage of contacts established by the persona&apos;s previous users.
 
 Source:	Eberron: Rising from the Last War p. 18,
 		Mordenkainen Presents: Monsters of the Multiverse p. 10</text>
@@ -334,13 +335,13 @@ Weight in pounds = 115 + (2d4 x your size modifier)</text>
     </trait>
     <trait>
       <name>Shapechanger</name>
-      <text>As an action, you can change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height and weight and can change your size between Medium and Small. You can make yourself appear as a member of another race, though none of your game statistics change. You can't duplicate the appearance of an individual you've never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. Your clothing and equipment aren't changed by this trait.
+      <text>As an action, you can change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height and weight and can change your size between Medium and Small. You can make yourself appear as a member of another race, though none of your game statistics change. You can&apos;t duplicate the appearance of an individual you&apos;ve never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. Your clothing and equipment aren&apos;t changed by this trait.
 
 You stay in the new form until you use an action to revert to your true form or until you die.</text>
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -352,11 +353,11 @@ You stay in the new form until you use an action to revert to your true form or 
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>Deep gnomes, or svirfneblin, are natives of the Underdark and are suffused with that subterranean realm's magic. They can supernaturally camouflage themselves, and their svirfneblin magic renders them difficult to locate. These abilities have enabled them to survive for generations among the perils of the Underdark.
+      <text>Deep gnomes, or svirfneblin, are natives of the Underdark and are suffused with that subterranean realm&apos;s magic. They can supernaturally camouflage themselves, and their svirfneblin magic renders them difficult to locate. These abilities have enabled them to survive for generations among the perils of the Underdark.
 
-Source:	Sword Coast Adventurer's Guide p. 115,
-		Elemental Evil Player's Companion p. 7,
-		Mordenkainen's Tome of Foes p. 113,
+Source:	Sword Coast Adventurer&apos;s Guide p. 115,
+		Elemental Evil Player&apos;s Companion p. 7,
+		Mordenkainen&apos;s Tome of Foes p. 113,
 		Mordenkainen Presents: Monsters of the Multiverse p. 11</text>
     </trait>
     <trait>
@@ -391,7 +392,7 @@ Weight in pounds = 35 + your size modifier</text>
     </trait>
     <trait>
       <name>Gift of the Svirfneblin</name>
-      <text>Starting at 3rd level, you can cast the disguise self spell with this trait. Starting at 5th level, you can also cast the nondetection spell with it, without requiring a material component. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.
+      <text>Starting at 3rd level, you can cast the disguise self spell with this trait. Starting at 5th level, you can also cast the nondetection spell with it, without requiring a material component. Once you cast either of these spells with this trait, you can&apos;t cast that spell with it again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).</text>
     </trait>
@@ -405,7 +406,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -419,9 +420,9 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
       <name>Description</name>
       <text>Duergar are dwarves whose ancestors were transformed by centuries living in the deepest places of the Underdark. That chthonic realm is saturated with strange magical energy, and over generations, early duergar absorbed traces of it. They were further altered when mind flayers and other Aberrations invaded and performed horrific experiments on them. Fueled by Underdark magic, those experiments left early duergar with psionic powers, which have been passed down to their descendants. In time, they liberated themselves from their aberrant tyrants and forged a new life for themselves in the Underdark and beyond.
 
-Source:	Player's Handbook p. 20,
-		Sword Coast Adventurer's Guide p. 104,
-		Mordenkainen's Tome of Foes p. 81,
+Source:	Player&apos;s Handbook p. 20,
+		Sword Coast Adventurer&apos;s Guide p. 104,
+		Mordenkainen&apos;s Tome of Foes p. 81,
 		Mordenkainen Presents: Monsters of the Multiverse p. 12</text>
     </trait>
     <trait>
@@ -434,7 +435,7 @@ Source:	Player's Handbook p. 20,
     </trait>
     <trait>
       <name>Life Span</name>
-      <text>Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.</text>
+      <text>Dwarves mature at the same rate as humans, but they&apos;re considered young until they reach the age of 50. On average, they live about 350 years.</text>
     </trait>
     <trait>
       <name>Alignment</name>
@@ -456,7 +457,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Duergar Magic</name>
-      <text>Starting at 3rd level, you can cast the enlarge/reduce spell on yourself with this trait, without requiring a material component. Starting at 5th level, you can also cast the invisibility spell on yourself with this trait, without requiring a material component. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.
+      <text>Starting at 3rd level, you can cast the enlarge/reduce spell on yourself with this trait, without requiring a material component. Starting at 5th level, you can also cast the invisibility spell on yourself with this trait, without requiring a material component. Once you cast either of these spells with this trait, you can&apos;t cast that spell with it again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).</text>
     </trait>
@@ -470,7 +471,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -482,15 +483,15 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
     <proficiency>Perception</proficiency>
     <trait>
       <name>Description</name>
-      <text>Eladrin are elves of the Feywild, a realm of perilous beauty and boundless magic. Using that magic, eladrin can step from one place to another in the blink of an eye, and each eladrin resonates with emotions captured in the Feywild in the form of seasons—affinities that affect the eladrin's mood and appearance. An eladrin's season can change, though some remain in one season forever. Choose your season or roll on the Eladrin Seasons table. Your Trance trait lets you change your season.
+      <text>Eladrin are elves of the Feywild, a realm of perilous beauty and boundless magic. Using that magic, eladrin can step from one place to another in the blink of an eye, and each eladrin resonates with emotions captured in the Feywild in the form of seasons—affinities that affect the eladrin&apos;s mood and appearance. An eladrin&apos;s season can change, though some remain in one season forever. Choose your season or roll on the Eladrin Seasons table. Your Trance trait lets you change your season.
 
 d4 | Season
-1 | Autumn. peace and goodwill, when summer's harvest is shared with all
+1 | Autumn. peace and goodwill, when summer&apos;s harvest is shared with all
 2 | Winter. contemplation and dolor, when the vibrant energy of the world slumbers
-3 | Spring. cheerfulness and celebration, marked by merriment and hope as winter's sorrow passes
+3 | Spring. cheerfulness and celebration, marked by merriment and hope as winter&apos;s sorrow passes
 4 | Summer. boldness and aggression, a time of unfettered energy and calls to action
 
-Source:	Player's Handbook p. 23,
+Source:	Player&apos;s Handbook p. 23,
 		Mordenkainen Presents: Monsters of the Multiverse p. 13</text>
     </trait>
     <trait>
@@ -507,7 +508,7 @@ Source:	Player's Handbook p. 23,
     </trait>
     <trait>
       <name>Alignment</name>
-      <text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.</text>
+      <text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others&apos; freedom as well as their own, and they are more often good than not.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -533,9 +534,9 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Trance</name>
-      <text>You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
+      <text>You don&apos;t need to sleep, and magic can&apos;t put you to sleep. You can finish a long rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
 
-Whenever you finish this trance, you can change your season, and you can gain two proficiencies that you don't have, each one with a weapon or a tool of your choice selected from the Player's Handbook. You mystically acquire these proficiencies by drawing them from shared elven memory, and you retain them until you finish your next long rest.</text>
+Whenever you finish this trance, you can change your season, and you can gain two proficiencies that you don&apos;t have, each one with a weapon or a tool of your choice selected from the Player&apos;s Handbook. You mystically acquire these proficiencies by drawing them from shared elven memory, and you retain them until you finish your next long rest.</text>
     </trait>
     <trait>
       <name>Fey Step</name>
@@ -557,7 +558,7 @@ Immediately after you use your Fey Step, each creature of your choice that you c
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -571,7 +572,7 @@ Immediately after you use your Fey Step, each creature of your choice that you c
       <name>Description</name>
       <text>The Feywild is home to many fantastic peoples, including fairies. Fairies are a wee folk, but not nearly as much so as their pixie and sprite friends. The first fairies spoke Elvish, Goblin, or Sylvan, and encounters with human visitors prompted many of them to learn Common as well.
 
-Infused with the magic of the Feywild, most fairies look like Small elves with insectile wings, but each fairy has a special physical characteristic that sets the fairy apart. For your fairy, roll on the Fey Characteristics table or choose an option from it. You're also free to come up with your own characteristic if none of the suggestions below fit your character.
+Infused with the magic of the Feywild, most fairies look like Small elves with insectile wings, but each fairy has a special physical characteristic that sets the fairy apart. For your fairy, roll on the Fey Characteristics table or choose an option from it. You&apos;re also free to come up with your own characteristic if none of the suggestions below fit your character.
 
 Fey Characteristics:
 d8 | Characteristic
@@ -611,17 +612,17 @@ Source:	The Wild Beyond the Witchlight p. 12,
       <name>Fairy Magic</name>
       <text>You know the druidcraft cantrip.
 
-Starting at 3rd level, you can cast the faerie fire spell with this trait. Starting at 5th level, you can also cast the enlarge/reduce spell with this trait. Once you cast faerie fire or enlarge/reduce with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
+Starting at 3rd level, you can cast the faerie fire spell with this trait. Starting at 5th level, you can also cast the enlarge/reduce spell with this trait. Once you cast faerie fire or enlarge/reduce with this trait, you can&apos;t cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).</text>
     </trait>
     <trait>
       <name>Flight</name>
-      <text>Because of your wings, you have a flying speed equal to your walking speed. You can't use this flying speed if you're wearing medium or heavy armor.</text>
+      <text>Because of your wings, you have a flying speed equal to your walking speed. You can&apos;t use this flying speed if you&apos;re wearing medium or heavy armor.</text>
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -633,13 +634,13 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>Distant cousins of giants, the first firbolgs wandered the primeval forests of the multiverse, and the magic of those forests entwined itself with the firbolgs' souls. Centuries later, that magic still thrums inside a firbolg, even one who has never lived under the boughs of a great forest.
+      <text>Distant cousins of giants, the first firbolgs wandered the primeval forests of the multiverse, and the magic of those forests entwined itself with the firbolgs&apos; souls. Centuries later, that magic still thrums inside a firbolg, even one who has never lived under the boughs of a great forest.
 
-A firbolg's magic is an obscuring sort, which allowed their ancestors to pass through a forest without disturbing it. So deep is the connection between a firbolg and the wild places of the world that they can communicate with flora and fauna.
+A firbolg&apos;s magic is an obscuring sort, which allowed their ancestors to pass through a forest without disturbing it. So deep is the connection between a firbolg and the wild places of the world that they can communicate with flora and fauna.
 
 Firbolgs can live up to 500 years.
 
-Source:	Volo's Guide to Monsters p. 107,
+Source:	Volo&apos;s Guide to Monsters p. 107,
 		Mordenkainen Presents: Monsters of the Multiverse p. 15</text>
     </trait>
     <trait>
@@ -670,7 +671,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Firbolg Magic</name>
-      <text>You can cast the detect magic and disguise self spells with this trait. When you use this version of disguise self, you can seem up to 3 feet shorter or taller. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have.
+      <text>You can cast the detect magic and disguise self spells with this trait. When you use this version of disguise self, you can seem up to 3 feet shorter or taller. Once you cast either of these spells with this trait, you can&apos;t cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).</text>
     </trait>
@@ -689,7 +690,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -704,9 +705,9 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
       <name>Description</name>
       <text>Air genasi are descended from djinn, the genies of the Elemental Plane of Air. Embodying many of the airy traits of their otherworldly ancestors, air genasi can draw upon their connection to the winds.
 
-Air genasi's skin tones include many shades of blue, along with the full range of human skin tones, with bluish or ashen casts. Sometimes their skin is marked by lines that seem like cracks with bluish-white energy spilling out. An air genasi's hair might blow in a phantom wind or be made entirely of clouds or vapor.
+Air genasi&apos;s skin tones include many shades of blue, along with the full range of human skin tones, with bluish or ashen casts. Sometimes their skin is marked by lines that seem like cracks with bluish-white energy spilling out. An air genasi&apos;s hair might blow in a phantom wind or be made entirely of clouds or vapor.
 
-Source:	Elemental Evil Player's Companion p. 9,
+Source:	Elemental Evil Player&apos;s Companion p. 9,
 		Princes of the Apocalypse p. 228,
 		Mordenkainen Presents: Monsters of the Multiverse p. 16</text>
     </trait>
@@ -742,7 +743,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Unending Breath</name>
-      <text>You can hold your breath indefinitely while you're not incapacitated.</text>
+      <text>You can hold your breath indefinitely while you&apos;re not incapacitated.</text>
     </trait>
     <trait>
       <name>Lightning Resistance</name>
@@ -750,13 +751,13 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Mingle with the Wind</name>
-      <text>You know the shocking grasp cantrip. Starting at 3rd level, you can cast the feather fall spell with this trait, without requiring a material component. Starting at 5th level, you can also cast the levitate spell with this trait, without requiring a material component. Once you cast feather fall or levitate with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
+      <text>You know the shocking grasp cantrip. Starting at 3rd level, you can cast the feather fall spell with this trait, without requiring a material component. Starting at 5th level, you can also cast the levitate spell with this trait, without requiring a material component. Once you cast feather fall or levitate with this trait, you can&apos;t cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).</text>
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -768,11 +769,11 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>Tracing their ancestry to dao, the genies of the Elemental Plane of Earth, earth genasi inherit dao's steadfast strength and control over earth.
+      <text>Tracing their ancestry to dao, the genies of the Elemental Plane of Earth, earth genasi inherit dao&apos;s steadfast strength and control over earth.
 
-An earth genasi's skin can be the colors of stone and earth or a human skin tone with glittering sparkles like gem dust. Some earth genasi have lines marking their skin like cracks, either showing glimmering gemlike veins or a dim, yellowish glow. Earth genasi hair can appear carved of stone or crystal or resemble strands of spun metal.
+An earth genasi&apos;s skin can be the colors of stone and earth or a human skin tone with glittering sparkles like gem dust. Some earth genasi have lines marking their skin like cracks, either showing glimmering gemlike veins or a dim, yellowish glow. Earth genasi hair can appear carved of stone or crystal or resemble strands of spun metal.
 
-Source:	Elemental Evil Player's Companion p. 9,
+Source:	Elemental Evil Player&apos;s Companion p. 9,
 		Princes of the Apocalypse p. 228,
 		Mordenkainen Presents: Monsters of the Multiverse p. 17</text>
     </trait>
@@ -814,13 +815,13 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
       <name>Merge with Stone</name>
       <text>You know the blade ward cantrip. You can cast it as normal, and you can also cast it as a bonus action a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest.
 
-Starting at 5th level, you can cast the pass without trace spell with this trait, without requiring a material component. Once you cast that spell with this trait, you can't do so again until you finish a long rest. You can also cast it using any spell slots you have of 2nd level or higher.
+Starting at 5th level, you can cast the pass without trace spell with this trait, without requiring a material component. Once you cast that spell with this trait, you can&apos;t do so again until you finish a long rest. You can also cast it using any spell slots you have of 2nd level or higher.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).</text>
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -835,7 +836,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
       <name>Description</name>
       <text>Descended from efreet, the genies of the Elemental Plane of Fire, fire genasi channel the flamboyant and often destructive nature of flame. They show their heritage in their skin tones, which can range from deep charcoal to shades of red and orange. Some bear skin tones common to humanity but with fiery marks, such as slowly swirling lights under their skin that resemble embers or glowing red lines tracing over their bodies like cracks. Fire genasi hair can resemble threads of fire or sooty smoke.
 
-Source:	Elemental Evil Player's Companion p. 9,
+Source:	Elemental Evil Player&apos;s Companion p. 9,
 		Princes of the Apocalypse p. 228,
 		Mordenkainen Presents: Monsters of the Multiverse p. 17</text>
     </trait>
@@ -875,13 +876,13 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Reach to the Blaze</name>
-      <text>You know the produce flame cantrip. Starting at 3rd level, you can cast the burning hands spell with this trait. Starting at 5th level, you can also cast the flame blade spell with this trait, without requiring a material component. Once you cast burning hands or flame blade with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
+      <text>You know the produce flame cantrip. Starting at 3rd level, you can cast the burning hands spell with this trait. Starting at 5th level, you can also cast the flame blade spell with this trait, without requiring a material component. Once you cast burning hands or flame blade with this trait, you can&apos;t cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).</text>
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -898,7 +899,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
 
 Their skin is often shades of blue or green, sometimes a blend of the two. If they have a human skin tone, there is a glistening texture that catches the light, like water droplets or nearly invisible fish scales. Their hair can resemble seaweed, waving as if in a current, or it can even be like water itself.
 
-Source:	Elemental Evil Player's Companion p. 10,
+Source:	Elemental Evil Player&apos;s Companion p. 10,
 		Princes of the Apocalypse p. 229,
 		Mordenkainen Presents: Monsters of the Multiverse p. 17</text>
     </trait>
@@ -942,7 +943,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Call to the Wave</name>
-      <text>You know the acid splash cantrip. Starting at 3rd level, you can cast the create or destroy water spell with this trait. Starting at 5th level, you can also cast the water walk spell with this trait, without requiring a material component. Once you cast create or destroy water or water walk with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
+      <text>You know the acid splash cantrip. Starting at 3rd level, you can cast the create or destroy water spell with this trait. Starting at 5th level, you can also cast the water walk spell with this trait, without requiring a material component. Once you cast create or destroy water or water walk with this trait, you can&apos;t cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).</text>
     </trait>
@@ -952,7 +953,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -965,13 +966,13 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
     <resistance>Psychic</resistance>
     <trait>
       <name>Description</name>
-      <text>Once members of a people who escaped servitude to mind flayers, githyanki split from their cousins, githzerai, and fled to the Astral Plane. In that timeless, silvery realm, githyanki honed their psionic powers and built a great city called Tu'narath. They have since spread throughout the multiverse, starting in outposts outside the Astral Plane, called creches, where time passes and their children can reach adulthood.
+      <text>Once members of a people who escaped servitude to mind flayers, githyanki split from their cousins, githzerai, and fled to the Astral Plane. In that timeless, silvery realm, githyanki honed their psionic powers and built a great city called Tu&apos;narath. They have since spread throughout the multiverse, starting in outposts outside the Astral Plane, called creches, where time passes and their children can reach adulthood.
 
 A lanky people with skin tones of yellows, greens, and browns, githyanki complement their physical prowess with psionic might, instilled in them by mind flayers and cultivated over eons in the Astral Plane. Now all githyanki can use their psychic bond with that plane to access splinters of knowledge left behind by beings who travel, live, and die among the silver astral clouds.
 
 Githyanki who reside in the Astral Plane can live indefinitely.
 
-Source:	Mordenkainen's Tome of Foes p. 96,
+Source:	Mordenkainen&apos;s Tome of Foes p. 96,
 		Mordenkainen Presents: Monsters of the Multiverse p. 18</text>
     </trait>
     <trait>
@@ -994,18 +995,18 @@ Source:	Mordenkainen's Tome of Foes p. 96,
       <name>Size</name>
       <text>Gith are taller and leaner than humans, with most a slender 6 feet in height. You are Medium
 
-Average height: 5'1"-7'
+Average height: 5&apos;1"-7&apos;
 Average weight: 92-196 lb</text>
     </trait>
     <trait>
       <name>Astral Knowledge</name>
-      <text>You can mystically access a reservoir of experiences of entities connected to the Astral Plane. Whenever you finish a long rest, you gain proficiency in one skill of your choice and with one weapon or tool of your choice, selected from the Player's Handbook, as you momentarily project your consciousness into the Astral Plane. These proficiencies last until the end of your next long rest.</text>
+      <text>You can mystically access a reservoir of experiences of entities connected to the Astral Plane. Whenever you finish a long rest, you gain proficiency in one skill of your choice and with one weapon or tool of your choice, selected from the Player&apos;s Handbook, as you momentarily project your consciousness into the Astral Plane. These proficiencies last until the end of your next long rest.</text>
     </trait>
     <trait>
       <name>Githyanki Psionics</name>
       <text>You know the mage hand cantrip, and the hand is invisible when you cast the cantrip with this trait.
 
-Starting at 3rd level, you can cast the jump spell with this trait. Starting at 5th level, you can also cast the misty step spell with it. Once you cast jump or misty step with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
+Starting at 3rd level, you can cast the jump spell with this trait. Starting at 5th level, you can also cast the misty step spell with it. Once you cast jump or misty step with this trait, you can&apos;t cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race). None of these spells require spell components when you cast them with this trait.</text>
     </trait>
@@ -1015,7 +1016,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -1032,7 +1033,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
 
 Githzerai are generally slender, with speckled skin in shades of yellow, green, or brown. Eons of cultivating their mental powers within the endless chaos of Limbo have imbued githzerai with the ability to shape psionic energy to protect themselves and probe minds.
 
-Source:	Mordenkainen's Tome of Foes p. 96,
+Source:	Mordenkainen&apos;s Tome of Foes p. 96,
 		Mordenkainen Presents: Monsters of the Multiverse p. 19</text>
     </trait>
     <trait>
@@ -1055,14 +1056,14 @@ Source:	Mordenkainen's Tome of Foes p. 96,
       <name>Size</name>
       <text>Gith are taller and leaner than humans, with most a slender 6 feet in height. You are Medium
 
-Average height: 5'1"-7'
+Average height: 5&apos;1"-7&apos;
 Average weight: 92-196 lb</text>
     </trait>
     <trait>
       <name>Githzerai Psionics</name>
       <text>You know the mage hand cantrip, and the hand is invisible when you cast the cantrip with this trait.
 
-Starting at 3rd level, you can cast the shield spell with this trait. Starting at 5th level, you can also cast the detect thoughts spell with it. Once you cast shield or detect thoughts with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
+Starting at 3rd level, you can cast the shield spell with this trait. Starting at 5th level, you can also cast the detect thoughts spell with it. Once you cast shield or detect thoughts with this trait, you can&apos;t cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race). None of these spells require spell components when you cast them with this trait.</text>
     </trait>
@@ -1076,7 +1077,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -1088,9 +1089,9 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>A subterranean folk, goblins can be found in every corner of the multiverse, often beside their bugbear and hobgoblin kin. Long before the god Maglubiyet conquered them, early goblins served in the court of the Queen of Air and Darkness, one of the Feywild's archfey. Goblins thrived in her dangerous domain thanks to a special boon from her—a supernatural knack for finding the weak spots in foes larger than themselves and for getting out of trouble. Goblins brought this fey boon with them to worlds across the Material Plane, even if they don't remember the fey realm they inhabited before Maglubiyet's rise. Now many goblins pursue their own destinies, escaping the plots of both archfey and gods.
+      <text>A subterranean folk, goblins can be found in every corner of the multiverse, often beside their bugbear and hobgoblin kin. Long before the god Maglubiyet conquered them, early goblins served in the court of the Queen of Air and Darkness, one of the Feywild&apos;s archfey. Goblins thrived in her dangerous domain thanks to a special boon from her—a supernatural knack for finding the weak spots in foes larger than themselves and for getting out of trouble. Goblins brought this fey boon with them to worlds across the Material Plane, even if they don&apos;t remember the fey realm they inhabited before Maglubiyet&apos;s rise. Now many goblins pursue their own destinies, escaping the plots of both archfey and gods.
 
-Source:	Volo's Guide to Monsters p. 120,
+Source:	Volo&apos;s Guide to Monsters p. 120,
 		Mordenkainen Presents: Monsters of the Multiverse p. 20</text>
     </trait>
     <trait>
@@ -1121,11 +1122,11 @@ Weight in pounds = 35 + your size modifier</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Fury of the Small</name>
-      <text>When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your proficiency bonus.
+      <text>When you damage a creature with an attack or a spell and the creature&apos;s size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your proficiency bonus.
 
 You can use this trait a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest, and you can use it no more than once per turn.</text>
     </trait>
@@ -1135,7 +1136,7 @@ You can use this trait a number of times equal to your proficiency bonus, regain
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -1147,10 +1148,10 @@ You can use this trait a number of times equal to your proficiency bonus, regain
     <proficiency>Athletics</proficiency>
     <trait>
       <name>Description</name>
-      <text>The first goliaths lived on the highest mountain peaks—far above the tree line, where the air is thin and frigid winds howl. Distantly related to giants and infused with the supernatural essence of their ancestors' mountainous home, goliaths stand between 7 and 8 feet tall and have a wide array of skin tones resembling different types of stone.
+      <text>The first goliaths lived on the highest mountain peaks—far above the tree line, where the air is thin and frigid winds howl. Distantly related to giants and infused with the supernatural essence of their ancestors&apos; mountainous home, goliaths stand between 7 and 8 feet tall and have a wide array of skin tones resembling different types of stone.
 
-Source:	Volo's Guide to Monsters p. 109,
-		Elemental Evil Player's Companion p. 11,
+Source:	Volo&apos;s Guide to Monsters p. 109,
+		Elemental Evil Player&apos;s Companion p. 11,
 		Mordenkainen Presents: Monsters of the Multiverse p. 21</text>
     </trait>
     <trait>
@@ -1188,17 +1189,17 @@ Weight in pounds = 200 + (2d6 × your size modifier)</text>
       <name>Mountain Born</name>
       <text>You have resistance to cold damage.
 
-You also naturally acclimate to high altitudes, even if you've never been to one. This includes elevations above 20,000 feet.</text>
+You also naturally acclimate to high altitudes, even if you&apos;ve never been to one. This includes elevations above 20,000 feet.</text>
     </trait>
     <trait>
-      <name>Stone's Endurance</name>
+      <name>Stone&apos;s Endurance</name>
       <text>You can supernaturally draw on unyielding stone to shrug off harm. When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled and reduce the damage by that total.
 
 You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -1210,7 +1211,7 @@ You can use this trait a number of times equal to your proficiency bonus, and yo
     <proficiency>Perception</proficiency>
     <trait>
       <name>Description</name>
-      <text>Harengons originated in the Feywild, where they spoke Sylvan and embodied the spirit of freedom and travel. In time, these rabbitfolk hopped into other worlds, bringing the fey realm's exuberance with them and learning new languages as they went.
+      <text>Harengons originated in the Feywild, where they spoke Sylvan and embodied the spirit of freedom and travel. In time, these rabbitfolk hopped into other worlds, bringing the fey realm&apos;s exuberance with them and learning new languages as they went.
 
 Harengons are bipedal, with the characteristic long feet of the rabbits they resemble and fur in a variety of colors. They share the keen senses and powerful legs of leporine creatures and are full of energy, like a wound-up spring. Harengons are blessed with a little fey luck, and they often find themselves a few fortunate feet away from dangers during adventures.
 
@@ -1240,7 +1241,7 @@ Source:	The Wild Beyond the Witchlight p. 13,
     </trait>
     <trait>
       <name>Lucky Footwork</name>
-      <text>When you fail a Dexterity saving throw, you can use your reaction to roll a d4 and add it to the save, potentially turning the failure into a success. You can't use this reaction if you're prone or your speed is 0.</text>
+      <text>When you fail a Dexterity saving throw, you can use your reaction to roll a d4 and add it to the save, potentially turning the failure into a success. You can&apos;t use this reaction if you&apos;re prone or your speed is 0.</text>
     </trait>
     <trait>
       <name>Rabbit Hop</name>
@@ -1248,7 +1249,7 @@ Source:	The Wild Beyond the Witchlight p. 13,
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -1260,13 +1261,13 @@ Source:	The Wild Beyond the Witchlight p. 13,
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>Hobgoblins trace their origins to the ancient courts of the Feywild, where they first appeared with their goblin and bugbear kin. Many of them were driven from the Feywild by the conquering god Maglubiyet, who marshaled them as soldiers, but the fey realm left its mark; wherever they are in the multiverse, they continue to channel an aspect of the Feywild's rule of reciprocity, which creates a mystical bond between the giver and the receiver of a gift.
+      <text>Hobgoblins trace their origins to the ancient courts of the Feywild, where they first appeared with their goblin and bugbear kin. Many of them were driven from the Feywild by the conquering god Maglubiyet, who marshaled them as soldiers, but the fey realm left its mark; wherever they are in the multiverse, they continue to channel an aspect of the Feywild&apos;s rule of reciprocity, which creates a mystical bond between the giver and the receiver of a gift.
 
 On some worlds, such bonds lead hobgoblins to form communities with deep ties to one another. In Eberron and the Forgotten Realms, vast hobgoblin legions have emerged, with ranks of devoted soldiers famed for their unity.
 
 Hobgoblins are generally taller than their goblin cousins but not quite as big as bugbears. They have curved, pointed ears and noses that turn bright red or blue during displays of emotion.
 
-Source:	Volo's Guide to Monsters p. 120,
+Source:	Volo&apos;s Guide to Monsters p. 120,
 		Mordenkainen Presents: Monsters of the Multiverse p. 23</text>
     </trait>
     <trait>
@@ -1297,7 +1298,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Fey Ancestry</name>
@@ -1324,7 +1325,7 @@ Until the start of your next turn, the first time the creature you help hits a t
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -1336,11 +1337,11 @@ Until the start of your next turn, the first time the creature you help hits a t
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>Feathered folk who resemble ravens, kenku are blessed with keen observation and supernaturally accurate memories. None of them can remember the origin of the first kenku, however, and they often joke that there are as many kenku origin stories as there are kenku. Some of them paint their genesis as a curse, being a flightless bird people doomed to mimic other people's creations. Other kenku recite cryptic but beautiful poems about their advent being a blessed event in which they were sent into the multiverse to observe and catalog its many wonders.
+      <text>Feathered folk who resemble ravens, kenku are blessed with keen observation and supernaturally accurate memories. None of them can remember the origin of the first kenku, however, and they often joke that there are as many kenku origin stories as there are kenku. Some of them paint their genesis as a curse, being a flightless bird people doomed to mimic other people&apos;s creations. Other kenku recite cryptic but beautiful poems about their advent being a blessed event in which they were sent into the multiverse to observe and catalog its many wonders.
 
 Whatever their true origin, kenku are most often found in the Shadowfell and the Material Plane, and they tend to have the coloration typical of ravens.
 
-Source:	Volo's Guide to Monsters p. 111,
+Source:	Volo&apos;s Guide to Monsters p. 111,
 		Mordenkainen Presents: Monsters of the Multiverse p. 24</text>
     </trait>
     <trait>
@@ -1385,7 +1386,7 @@ Moreover, when you make an ability check using any skill in which you have profi
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -1399,9 +1400,9 @@ Moreover, when you make an ability check using any skill in which you have profi
       <name>Description</name>
       <text>Some of the smallest draconic creatures in the multiverse, kobolds display their draconic ancestry in the glint of their scales and in their roars. Legends tell of the first kobolds emerging from the Underdark near the lairs of the earliest dragons. In some lands, kobolds serve chromatic or metallic dragons—even worshiping them as divine beings. In other places, kobolds know too well how dangerous those dragons can be and help others defend against draconic destruction.
 
-Whatever their relationship to dragons, kobold scales tend to be rust colored, although the occasional kobold sports a scale color more akin to that of a chromatic or a metallic dragon. A kobold's cry can express a range of emotion: anger, resolve, elation, fear, and more. Regardless of the emotion expressed, their cry resonates with draconic power.
+Whatever their relationship to dragons, kobold scales tend to be rust colored, although the occasional kobold sports a scale color more akin to that of a chromatic or a metallic dragon. A kobold&apos;s cry can express a range of emotion: anger, resolve, elation, fear, and more. Regardless of the emotion expressed, their cry resonates with draconic power.
 
-Source:	Volo's Guide to Monsters p. 119,
+Source:	Volo&apos;s Guide to Monsters p. 119,
 		Mordenkainen Presents: Monsters of the Multiverse p. 25</text>
     </trait>
     <trait>
@@ -1426,7 +1427,7 @@ Source:	Volo's Guide to Monsters p. 119,
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Draconic Cry</name>
@@ -1434,7 +1435,7 @@ Source:	Volo's Guide to Monsters p. 119,
     </trait>
     <trait>
       <name>Kobold Legacy</name>
-      <text>Kobolds' connection to dragons can manifest in unpredictable ways in an individual kobold. Choose one of the following legacy options for your kobold:
+      <text>Kobolds&apos; connection to dragons can manifest in unpredictable ways in an individual kobold. Choose one of the following legacy options for your kobold:
 
 Craftiness:
 You have proficiency in one of the following skills of your choice: Arcana, Investigation, Medicine, Sleight of Hand, or Survival.
@@ -1447,7 +1448,7 @@ You know one cantrip of your choice from the sorcerer spell list. Intelligence, 
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -1459,11 +1460,11 @@ You know one cantrip of your choice from the sorcerer spell list. Intelligence, 
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>The saurian lizardfolk are thought by some sages to be distant cousins of dragonborn and kobolds. Despite their resemblance to those other scaled folk, however, lizardfolk are their own people and have lived on the worlds of the Material Plane since the worlds' creation. Gifted by the gods with remarkable physical defenses and a mystical connection to the natural world, lizardfolk can survive with just their wits in situations that would be deadly for other folk. Because of that fact, many lizardfolk myths state that their people were placed by the gods in the Material Plane to guard its natural wonders.
+      <text>The saurian lizardfolk are thought by some sages to be distant cousins of dragonborn and kobolds. Despite their resemblance to those other scaled folk, however, lizardfolk are their own people and have lived on the worlds of the Material Plane since the worlds&apos; creation. Gifted by the gods with remarkable physical defenses and a mystical connection to the natural world, lizardfolk can survive with just their wits in situations that would be deadly for other folk. Because of that fact, many lizardfolk myths state that their people were placed by the gods in the Material Plane to guard its natural wonders.
 
 Lizardfolk have colorful scales and exhibit a wide array of scale patterns. Their individual facial features are as varied as those of lizards.
 
-Source:	Volo's Guide to Monsters p. 113,
+Source:	Volo&apos;s Guide to Monsters p. 113,
 		Mordenkainen Presents: Monsters of the Multiverse p. 26</text>
     </trait>
     <trait>
@@ -1506,15 +1507,15 @@ You can use this trait a number of times equal to your proficiency bonus, and yo
     </trait>
     <trait>
       <name>Natural Armor</name>
-      <text>You have tough, scaly skin. When you aren't wearing armor, your base AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor.</text>
+      <text>You have tough, scaly skin. When you aren&apos;t wearing armor, your base AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield&apos;s benefits apply as normal while you use your natural armor.</text>
     </trait>
     <trait>
-      <name>Nature's Intuition</name>
+      <name>Nature&apos;s Intuition</name>
       <text>Thanks to your mystical connection to nature, you gain proficiency with two of the following skills of your choice: Animal Handling, Medicine, Nature, Perception, Stealth, or Survival.</text>
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -1530,9 +1531,9 @@ You can use this trait a number of times equal to your proficiency bonus, and yo
 
 Minotaur horns range in size from about 1 foot long to easily three times that length. Minotaurs often carve their horns to sharpen their edges, etch symbols of power into them, or sheathe them in bronze to prevent them from shattering during battle.
 
-Thick hair extends down minotaurs' necks and powerful backs, and some have long patches of hair on their chins and cheeks. Their legs end in heavy, cloven hooves, and they have long, tufted tails.
+Thick hair extends down minotaurs&apos; necks and powerful backs, and some have long patches of hair on their chins and cheeks. Their legs end in heavy, cloven hooves, and they have long, tufted tails.
 
-Source:	Guildmasters' Guide to Ravnica p. 19,
+Source:	Guildmasters&apos; Guide to Ravnica p. 19,
 		Mythic Odysseys of Theros p. 23,
 		Mordenkainen Presents: Monsters of the Multiverse p. 27</text>
     </trait>
@@ -1556,7 +1557,7 @@ Source:	Guildmasters' Guide to Ravnica p. 19,
       <name>Size</name>
       <text>Minotaurs average over 6 feet in height, and they have stocky builds. Your size is Medium.
 
-Here's how to determine your height and weight randomly, starting with rolling a size modifier:
+Here&apos;s how to determine your height and weight randomly, starting with rolling a size modifier:
 
 Size modifier = 2d8
 Height = 5 feet + 4 inches + your size modifier in inches
@@ -1580,7 +1581,7 @@ Weight in pounds = 175 + (2d6 x your size modifier)</text>
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -1592,11 +1593,11 @@ Weight in pounds = 175 + (2d6 x your size modifier)</text>
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>Orcs trace their creation to the one-eyed god Gruumsh, an unstoppable warrior and powerful leader. The divine qualities of Gruumsh resonate within orcs, granting them a reflection of his toughness and tenacity that can't be matched, and the god equipped his children to be able to live above or below ground.
+      <text>Orcs trace their creation to the one-eyed god Gruumsh, an unstoppable warrior and powerful leader. The divine qualities of Gruumsh resonate within orcs, granting them a reflection of his toughness and tenacity that can&apos;t be matched, and the god equipped his children to be able to live above or below ground.
 
-On some worlds, such as Eberron, orcs were among the first defenders of the natural order from the encroachments of Fiends and other extraplanar threats. Gruumsh's blessings have made orcs tireless guardians and mighty allies wherever they are found, even when they turn their devotion to other gods.
+On some worlds, such as Eberron, orcs were among the first defenders of the natural order from the encroachments of Fiends and other extraplanar threats. Gruumsh&apos;s blessings have made orcs tireless guardians and mighty allies wherever they are found, even when they turn their devotion to other gods.
 
-Source:	Volo's Guide to Monsters p. 120,
+Source:	Volo&apos;s Guide to Monsters p. 120,
 		Mordenkainen Presents: Monsters of the Multiverse p. 28</text>
     </trait>
     <trait>
@@ -1633,7 +1634,7 @@ Whenever you use this trait, you gain a number of temporary hit points equal to 
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Powerful Build</name>
@@ -1642,11 +1643,11 @@ Whenever you use this trait, you gain a number of temporary hit points equal to 
     </trait>
     <trait>
       <name>Relentless Endurance</name>
-      <text>When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. Once you use this trait, you can't do so again until you finish a long rest.</text>
+      <text>When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. Once you use this trait, you can&apos;t do so again until you finish a long rest.</text>
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -1658,7 +1659,7 @@ Whenever you use this trait, you gain a number of temporary hit points equal to 
     <spellAbility/>
     <trait>
       <name>Description</name>
-      <text>Originating in the Feywild —a realm of pure emotion— satyrs thrive on the energy of merriment. They resemble elves but have goatlike legs, cloven hooves, and ram or goat horns. The magic of the fey realm has given them an innate ability to perform, to delight, and to resist magical intrusion. While they're usually found in the Feywild, satyrs do wander to other planes of existence, most often to the Material Plane. There they seek to bring a bit of their home plane's splendor to other worlds.
+      <text>Originating in the Feywild —a realm of pure emotion— satyrs thrive on the energy of merriment. They resemble elves but have goatlike legs, cloven hooves, and ram or goat horns. The magic of the fey realm has given them an innate ability to perform, to delight, and to resist magical intrusion. While they&apos;re usually found in the Feywild, satyrs do wander to other planes of existence, most often to the Material Plane. There they seek to bring a bit of their home plane&apos;s splendor to other worlds.
 
 Source:	Mordenkainen Presents: Monsters of the Multiverse p. 29</text>
     </trait>
@@ -1682,7 +1683,7 @@ Source:	Mordenkainen Presents: Monsters of the Multiverse p. 29</text>
       <name>Size</name>
       <text>Satyrs range from just under 5 feet to about 6 feet in height, with generally slender builds. Your size is Medium.
 
-Here's how to determine your height and weight randomly, starting with rolling a size modifier:
+Here&apos;s how to determine your height and weight randomly, starting with rolling a size modifier:
 
 Size modifier = 2d8
 Height = 4 feet + 8 inches + your size modifier in inches
@@ -1706,7 +1707,7 @@ Weight in pounds = 100 + (2d4 x your size modifier)</text>
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -1722,8 +1723,8 @@ Weight in pounds = 100 + (2d4 x your size modifier)</text>
 
 Like other elves, sea elves can live to be over 750 years old.
 
-Source:	Player's Handbook p. 23,
-		Mordenkainen's Tome of Foes p. 62,
+Source:	Player&apos;s Handbook p. 23,
+		Mordenkainen&apos;s Tome of Foes p. 62,
 		Mordenkainen Presents: Monsters of the Multiverse p. 30</text>
     </trait>
     <trait>
@@ -1740,7 +1741,7 @@ Source:	Player's Handbook p. 23,
     </trait>
     <trait>
       <name>Alignment</name>
-      <text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.</text>
+      <text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others&apos; freedom as well as their own, and they are more often good than not.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -1778,13 +1779,13 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Trance</name>
-      <text>You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
+      <text>You don&apos;t need to sleep, and magic can&apos;t put you to sleep. You can finish a long rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
 
-Whenever you finish this trance, you can gain two proficiencies that you don't have, each one with a weapon or a tool of your choice selected from the Player's Handbook. You mystically acquire these proficiencies by drawing them from shared elven memory, and you retain them until you finish your next long rest.</text>
+Whenever you finish this trance, you can gain two proficiencies that you don&apos;t have, each one with a weapon or a tool of your choice selected from the Player&apos;s Handbook. You mystically acquire these proficiencies by drawing them from shared elven memory, and you retain them until you finish your next long rest.</text>
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -1799,13 +1800,13 @@ Whenever you finish this trance, you can gain two proficiencies that you don't h
       <name>Description</name>
       <text>Shadar-kai are the elves of the Shadowfell, originally drawn to that dread realm by the Raven Queen. Over the centuries, some of them have continued to serve her, while others have ventured into the Material Plane to forge their own destinies.
 
-Once shadar-kai were Fey like the rest of their elven kin; now they exist in a state between life and death, thanks to being transformed by the Shadowfell's grim energy.
+Once shadar-kai were Fey like the rest of their elven kin; now they exist in a state between life and death, thanks to being transformed by the Shadowfell&apos;s grim energy.
 
-Shadar-kai have ashen skin tones, and while they're in the Shadowfell, they also become wizened, reflecting the somber nature of that gloomy plane.
+Shadar-kai have ashen skin tones, and while they&apos;re in the Shadowfell, they also become wizened, reflecting the somber nature of that gloomy plane.
 
 Like other elves, shadar-kai can live to be over 750 years old.
 
-Source:	Player's Handbook p. 23,
+Source:	Player&apos;s Handbook p. 23,
 		Mordenkainen Presents: Monsters of the Multiverse p. 31</text>
     </trait>
     <trait>
@@ -1854,13 +1855,13 @@ Starting at 3rd level, you also gain resistance to all damage when you teleport 
     </trait>
     <trait>
       <name>Trance</name>
-      <text>You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
+      <text>You don&apos;t need to sleep, and magic can&apos;t put you to sleep. You can finish a long rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
 
-Whenever you finish this trance, you can gain two proficiencies that you don't have, each one with a weapon or a tool of your choice selected from the Player's Handbook. You mystically acquire these proficiencies by drawing them from shared elven memory, and you retain them until you finish your next long rest.</text>
+Whenever you finish this trance, you can gain two proficiencies that you don&apos;t have, each one with a weapon or a tool of your choice selected from the Player&apos;s Handbook. You mystically acquire these proficiencies by drawing them from shared elven memory, and you retain them until you finish your next long rest.</text>
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -1872,9 +1873,9 @@ Whenever you finish this trance, you can gain two proficiencies that you don't h
     <spellAbility/>
     <trait>
       <name>Description</name>
-      <text>Shifters are sometimes called weretouched, as they are descendants of people who contracted full or partial lycanthropy. Humanoids with a bestial aspect, shifters can't fully change shape, but they can temporarily enhance their animalistic features by entering a state they call shifting.
+      <text>Shifters are sometimes called weretouched, as they are descendants of people who contracted full or partial lycanthropy. Humanoids with a bestial aspect, shifters can&apos;t fully change shape, but they can temporarily enhance their animalistic features by entering a state they call shifting.
 
-Shifters are similar to humans in height and build but are typically more lithe and flexible. Their facial features have a bestial cast, often with large eyes and pointed ears; most shifters also have prominent canine teeth. They grow fur-like hair on nearly every part of their bodies. While a shifter's appearance might remind an onlooker of an animal, they remain clearly identifiable as shifters even when at their most feral.
+Shifters are similar to humans in height and build but are typically more lithe and flexible. Their facial features have a bestial cast, often with large eyes and pointed ears; most shifters also have prominent canine teeth. They grow fur-like hair on nearly every part of their bodies. While a shifter&apos;s appearance might remind an onlooker of an animal, they remain clearly identifiable as shifters even when at their most feral.
 
 Most shifters resemble a particular kind of lycanthrope. You can choose the kind of lycanthrope in your past, or you can determine it randomly by rolling on the Lycanthrope Ancestor table. The table also provides a suggestion for the Shifting option you might have as a result of your ancestry.
 
@@ -1936,14 +1937,14 @@ Longtooth:
 When you shift and as a bonus action on your other turns while shifted, you can use your elongated fangs to make an unarmed strike. If you hit with your fangs, you can deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
 
 Swiftstride:
-While shifted, your walking speed increases by 10 feet. Additionally, you can move up to 10 feet as a reaction when a creature ends its turn within 5 feet of you. This reactive movement doesn't provoke opportunity attacks.
+While shifted, your walking speed increases by 10 feet. Additionally, you can move up to 10 feet as a reaction when a creature ends its turn within 5 feet of you. This reactive movement doesn&apos;t provoke opportunity attacks.
 
 Wildhunt:
-While shifted, you have advantage on Wisdom checks, and no creature within 30 feet of you can make an attack roll with advantage against you unless you're incapacitated.</text>
+While shifted, you have advantage on Wisdom checks, and no creature within 30 feet of you can make an attack roll with advantage against you unless you&apos;re incapacitated.</text>
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -1957,9 +1958,9 @@ While shifted, you have advantage on Wisdom checks, and no creature within 30 fe
       <name>Description</name>
       <text>Created by the Cat Lord—a divine being of the Upper Planes—to blend the qualities of humanoids and cats, tabaxi are a varied people in both attitude and appearance. In some lands, tabaxi live like the cats they resemble, naturally curious and at home in playful environments. In other places, tabaxi live as other folk do, not exhibiting the feline behavior the Cat Lord intended.
 
-Tabaxi's appearance is as varied as their attitudes. Some tabaxi have features or patterning in their fur like tigers, jaguars, or other big cats, while others have appearances more like a house cat. Still others have unique patterns or might style their fur to their preferences—or might even be hairless!
+Tabaxi&apos;s appearance is as varied as their attitudes. Some tabaxi have features or patterning in their fur like tigers, jaguars, or other big cats, while others have appearances more like a house cat. Still others have unique patterns or might style their fur to their preferences—or might even be hairless!
 
-Source:	Volo's Guide to Monsters p. 115,
+Source:	Volo&apos;s Guide to Monsters p. 115,
 		Mordenkainen Presents: Monsters of the Multiverse p. 33</text>
     </trait>
     <trait>
@@ -1998,11 +1999,11 @@ Weight in pounds = 90 + (2d4 × your size modifier)</text>
       <text>Your walking speed is 30 feet, and you have a climbing speed equal to your walking speed.</text>
     </trait>
     <trait>
-      <name>Cat's Claws</name>
+      <name>Cat&apos;s Claws</name>
       <text>You can use your claws to make unarmed strikes. When you hit with them, the strike deals 1d6 + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike.</text>
     </trait>
     <trait>
-      <name>Cat's Talents</name>
+      <name>Cat&apos;s Talents</name>
       <text>You have proficiency in the Perception and Stealth skills.</text>
     </trait>
     <trait>
@@ -2011,11 +2012,11 @@ Weight in pounds = 90 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Feline Agility</name>
-      <text>Your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can't use it again until you move 0 feet on one of your turns.</text>
+      <text>Your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can&apos;t use it again until you move 0 feet on one of your turns.</text>
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -2027,7 +2028,7 @@ Weight in pounds = 90 + (2d4 × your size modifier)</text>
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>Tortles have a saying: "We wear our homes on our backs." These turtle folk live on many worlds, most often journeying up and down coasts, along waterways, and across the sea. Tortles don't have a unified story of how they were created, but they all have a sense of being mystically connected to the natural world. Carrying their shelter on their backs gives tortles a special feeling of security wherever they go, for even if they visit a far, unknown country, they have a place to lay their heads.
+      <text>Tortles have a saying: "We wear our homes on our backs." These turtle folk live on many worlds, most often journeying up and down coasts, along waterways, and across the sea. Tortles don&apos;t have a unified story of how they were created, but they all have a sense of being mystically connected to the natural world. Carrying their shelter on their backs gives tortles a special feeling of security wherever they go, for even if they visit a far, unknown country, they have a place to lay their heads.
 
 Tortles exhibit the same range of coloration and patterns found among turtles, and many tortles enjoy adorning their shells in distinctive ways.
 
@@ -2048,7 +2049,7 @@ Source:	The Tortle Package p. 4,
     </trait>
     <trait>
       <name>Alignment</name>
-      <text>Tortles tend to lead orderly, ritualistic lives. They develop customs and routines, becoming more set in their ways as they age. Most are lawful good. A few can be selfish and greedy, tending more toward evil, but it's unusual for a tortle to shuck off order in favor of chaos.</text>
+      <text>Tortles tend to lead orderly, ritualistic lives. They develop customs and routines, becoming more set in their ways as they age. Most are lawful good. A few can be selfish and greedy, tending more toward evil, but it&apos;s unusual for a tortle to shuck off order in favor of chaos.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -2070,15 +2071,15 @@ Weight in pounds = 400 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Natural Armor</name>
-      <text>Your shell provides you a base AC of 17 (your Dexterity modifier doesn't affect this number). You can't wear light, medium, or heavy armor, but if you are using a shield, you can apply the shield's bonus as normal.</text>
+      <text>Your shell provides you a base AC of 17 (your Dexterity modifier doesn&apos;t affect this number). You can&apos;t wear light, medium, or heavy armor, but if you are using a shield, you can apply the shield&apos;s bonus as normal.</text>
     </trait>
     <trait>
-      <name>Nature's Intuition</name>
+      <name>Nature&apos;s Intuition</name>
       <text>Thanks to your mystical connection to nature, you gain proficiency with one of the following skills of your choice: Animal Handling, Medicine, Nature, Perception, Stealth, or Survival.</text>
     </trait>
     <trait>
       <name>Shell Defense</name>
-      <text>You can withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to your AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are prone, your speed is 0 and can't increase, you have disadvantage on Dexterity saving throws, you can't take reactions, and the only action you can take is a bonus action to emerge from your shell.</text>
+      <text>You can withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to your AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are prone, your speed is 0 and can&apos;t increase, you have disadvantage on Dexterity saving throws, you can&apos;t take reactions, and the only action you can take is a bonus action to emerge from your shell.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -2094,11 +2095,11 @@ Weight in pounds = 400 + (2d4 × your size modifier)</text>
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>Originally from the Elemental Plane of Water, many tritons entered the Material Plane centuries ago in response to the growing threat of evil elementals. Those tritons spread across the worlds' oceans, protecting the surface from terrors in the deep. Over time, triton have extended their stewardship over the sea floor to the ocean's surface.
+      <text>Originally from the Elemental Plane of Water, many tritons entered the Material Plane centuries ago in response to the growing threat of evil elementals. Those tritons spread across the worlds&apos; oceans, protecting the surface from terrors in the deep. Over time, triton have extended their stewardship over the sea floor to the ocean&apos;s surface.
 
 Tritons have webbed hands and feet, small fins on their calves, and coloration that favors blues and greens.
 
-Source:	Volo's Guide to Monsters p. 118,
+Source:	Volo&apos;s Guide to Monsters p. 118,
 		Mordenkainen Presents: Monsters of the Multiverse p. 35</text>
     </trait>
     <trait>
@@ -2131,7 +2132,7 @@ Source:	Volo's Guide to Monsters p. 118,
     </trait>
     <trait>
       <name>Control Air and Water</name>
-      <text>You can cast fog cloud with this trait. Starting at 3rd level, you can cast the gust of wind spell with this trait. Starting at 5th level, you can also cast the water walk spell with it. Once you cast any of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have of the appropriate level.
+      <text>You can cast fog cloud with this trait. Starting at 3rd level, you can cast the gust of wind spell with this trait. Starting at 5th level, you can also cast the water walk spell with it. Once you cast any of these spells with this trait, you can&apos;t cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).</text>
     </trait>
@@ -2149,7 +2150,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
   <race>
@@ -2166,7 +2167,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
 
 Blessed with resistance to magical and poisonous effects by the rituals that created them, each of these yuan-ti manifests their serpentine heritage in a variety of ways: a forked tongue, snake eyes, a snakelike nose, or some other ophidian characteristic. However a yuan-ti looks, they have the power to pursue great good or evil in the multiverse.
 
-Source:	Volo's Guide to Monsters p. 120,
+Source:	Volo&apos;s Guide to Monsters p. 120,
 		Mordenkainen Presents: Monsters of the Multiverse p. 36</text>
     </trait>
     <trait>
@@ -2203,13 +2204,13 @@ Source:	Volo's Guide to Monsters p. 120,
     </trait>
     <trait>
       <name>Serpentine Spellcasting</name>
-      <text>You know the poison spray cantrip. You can cast animal friendship an unlimited number of times with this trait, but you can target only snakes with it. Starting at 3rd level, you can also cast suggestion with this trait. Once you cast it, you can't do so again until you finish a long rest. You can also cast it using any spell slots you have of 2nd level or higher.
+      <text>You know the poison spray cantrip. You can cast animal friendship an unlimited number of times with this trait, but you can target only snakes with it. Starting at 3rd level, you can also cast suggestion with this trait. Once you cast it, you can&apos;t do so again until you finish a long rest. You can also cast it using any spell slots you have of 2nd level or higher.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).</text>
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
 </compendium>

@@ -15,8 +15,8 @@ Source:	Unearthed Arcana: 2020 Psionic Options Revisited p. 2</text>
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Psi Knight (UA): Changing the Die's Size</name>
-        <text>If you roll the highest number on your Psionic Talent die, it decreases by one die size after the roll. This represents you burning through your psionic energy. For example, if the die is a d6 and you roll a 6, it becomes a d4. If it's a d4 and you roll a 4, it becomes unusable until you finish a long rest.
+        <name>Psi Knight (UA): Changing the Die&apos;s Size</name>
+        <text>If you roll the highest number on your Psionic Talent die, it decreases by one die size after the roll. This represents you burning through your psionic energy. For example, if the die is a d6 and you roll a 6, it becomes a d4. If it&apos;s a d4 and you roll a 4, it becomes unusable until you finish a long rest.
 
 Conversely, if you roll a 1 on your Psionic Talent die, it increases by one die size after the roll, up to its starting size. This represents you conserving psionic energy for later use. For example, if you roll a 1 on a d4, the die then becomes a d6.
 
@@ -29,7 +29,7 @@ Source:	Unearthed Arcana: 2020 Psionic Options Revisited p. 2</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Psi Knight (UA): Psi Replenishment</name>
-        <text>As a bonus action, you can calm your mind for a moment and restore your Psionic Talent die to its starting size. You then can't use Psi Replenishment again until you finish a long rest.
+        <text>As a bonus action, you can calm your mind for a moment and restore your Psionic Talent die to its starting size. You then can&apos;t use Psi Replenishment again until you finish a long rest.
 
 Source:	Unearthed Arcana: 2020 Psionic Options Revisited p. 2</text>
       </feature>
@@ -89,7 +89,7 @@ Source:	Unearthed Arcana: 2020 Psionic Options Revisited p. 2</text>
     <autolevel level="15">
       <feature optional="YES">
         <name>Psi Knight (UA): Bulwark of Force</name>
-        <text>You can shield yourself and others with telekinetic force. As a bonus action, you can choose creatures, which can include you, that you can see within 30 feet of you, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures is protected by half cover for 1 minute or until you're incapacitated. Once you use this feature, you can't do so again until you finish a long rest, unless you decrease your Psionic Talent die by one die size to use this feature again.
+        <text>You can shield yourself and others with telekinetic force. As a bonus action, you can choose creatures, which can include you, that you can see within 30 feet of you, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures is protected by half cover for 1 minute or until you&apos;re incapacitated. Once you use this feature, you can&apos;t do so again until you finish a long rest, unless you decrease your Psionic Talent die by one die size to use this feature again.
 
 Source:	Unearthed Arcana: 2020 Psionic Options Revisited p. 2</text>
       </feature>

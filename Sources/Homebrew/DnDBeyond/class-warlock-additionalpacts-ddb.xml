@@ -33,7 +33,7 @@ Source:	DnDBeyond Unearthed Arcana (Homebrew), Additional Warlock Pacts</text>
 
       <feature optional="YES">
         <name>Pact Boon: Pact of the Claw (HB)</name>
-        <text>One of your hands turns into a claw of pure magical energy. This claw can act as your arcane focus. It can be used for a magical unarmed strike, which uses your Charisma modifier for its attack and damage rolls. The claw deals 1d6 damage of your choice of slashing or piercing. This claw can also extend up to 10 feet. Through this feature, you can use your attack to cast any spell, invocation, or patron ability with a range of 5 feet or touch at any creature within 10 feet of you, and you can add the claw's damage to those effects.
+        <text>One of your hands turns into a claw of pure magical energy. This claw can act as your arcane focus. It can be used for a magical unarmed strike, which uses your Charisma modifier for its attack and damage rolls. The claw deals 1d6 damage of your choice of slashing or piercing. This claw can also extend up to 10 feet. Through this feature, you can use your attack to cast any spell, invocation, or patron ability with a range of 5 feet or touch at any creature within 10 feet of you, and you can add the claw&apos;s damage to those effects.
 
 Source:	DnDBeyond Unearthed Arcana (Homebrew), Additional Warlock Pacts</text>
       </feature>
@@ -72,14 +72,14 @@ Source:	DnDBeyond Unearthed Arcana (Homebrew), Additional Warlock Pacts</text>
 
       <feature optional="YES">
         <name>Pact Boon: Pact of the Eidolon (HB)</name>
-        <text>Your spells are cast by an avatar of your patron. When you cast a spell that matches your patron's dogma (as determined by you and your DM) the critical range for the attack becomes 19-20. Your spells no longer require verbal or somatic components, though you still need materials or an arcane focus.
+        <text>Your spells are cast by an avatar of your patron. When you cast a spell that matches your patron&apos;s dogma (as determined by you and your DM) the critical range for the attack becomes 19-20. Your spells no longer require verbal or somatic components, though you still need materials or an arcane focus.
 
 Source:	DnDBeyond Unearthed Arcana (Homebrew), Additional Warlock Pacts</text>
       </feature>
 
       <feature optional="YES">
         <name>Pact Boon: Pact of the Geas (HB)</name>
-        <text>Your patron gifts you the ability to influence others' thoughts and actions. You gain a number of Geas uses equal to your Charisma modifier. You may expend one of the uses to cast Command as a 1st level spell. When you do so, you may expend an additional use to enhance it with one of the following:
+        <text>Your patron gifts you the ability to influence others&apos; thoughts and actions. You gain a number of Geas uses equal to your Charisma modifier. You may expend one of the uses to cast Command as a 1st level spell. When you do so, you may expend an additional use to enhance it with one of the following:
 
 	• You cast the spell with a bonus action, instead of a regular action.
 	• You impose disadvantage on the save.
@@ -128,7 +128,7 @@ Source:	DnDBeyond Unearthed Arcana (Homebrew), Additional Warlock Pacts</text>
 
       <feature optional="YES">
         <name>Pact Boon: Pact of the Oracle (HB)</name>
-        <text>Your patron gifts you the ability to see and know things others cannot. You gain a number of Sight uses equal to your Charisma modifier. You may expend one of the uses to cast one of the following spells: Detect Magic, Detect Evil and Good, Hunter's Mark, and Identify.
+        <text>Your patron gifts you the ability to see and know things others cannot. You gain a number of Sight uses equal to your Charisma modifier. You may expend one of the uses to cast one of the following spells: Detect Magic, Detect Evil and Good, Hunter&apos;s Mark, and Identify.
 
 You regain one expended use of the Sight after a short rest, and all your expended uses after a long rest.
 

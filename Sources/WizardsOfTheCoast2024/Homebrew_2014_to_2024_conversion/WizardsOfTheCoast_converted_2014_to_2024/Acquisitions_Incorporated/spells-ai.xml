@@ -29,7 +29,7 @@ Source:	Acquisitions Incorporated p. 75</text>
     <range>30 feet</range>
     <components>V</components>
     <duration>Concentration, up to 1 hour</duration>
-    <text>When you need to make sure something gets done, you can't rely on vague promises, sworn oaths, or binding contracts of employment. When you cast this spell, choose one humanoid within range that can see and hear you, and that can understand you. The creature must succeed on a Wisdom saving throw or become charmed by you for the duration. While the creature is charmed in this way, it undertakes to perform any services or activities you ask of it in a friendly manner, to the best of its ability.
+    <text>When you need to make sure something gets done, you can&apos;t rely on vague promises, sworn oaths, or binding contracts of employment. When you cast this spell, choose one humanoid within range that can see and hear you, and that can understand you. The creature must succeed on a Wisdom saving throw or become charmed by you for the duration. While the creature is charmed in this way, it undertakes to perform any services or activities you ask of it in a friendly manner, to the best of its ability.
 
 You can set the creature new tasks when a previous task is completed, or if you decide to end its current task. If the service or activity might cause harm to the creature, or if it conflicts with the creature's normal activities and desires, the creature can make another Wisdom saving throw to try to end the effect. This save is made with advantage if you or your companions are fighting the creature. If the activity would result in certain death for the creature, the spell ends.
 
@@ -84,7 +84,7 @@ Charmed:
 Source:	Acquisitions Incorporated p. 76</text>
   </spell>
   <spell>
-    <name>Jim's Glowing Coin [2014]</name>
+    <name>Jim&apos;s Glowing Coin [2014]</name>
     <classes>School: Enchantment, Wizard, Rogue (Arcane Trickster), Fighter (Eldritch Knight)</classes>
     <level>2</level>
     <school>EN</school>
@@ -93,12 +93,12 @@ Source:	Acquisitions Incorporated p. 76</text>
     <range>60 feet</range>
     <components>S, M (a coin), R</components>
     <duration>1 minute</duration>
-    <text>Of the many tactics employed by master magician and renowned adventurer Jim Darkmagic, the old glowing coin trick is a time-honored classic. When you cast the spell, you hurl the coin that is the spell's material component to any spot within range. The coin lights up as if under the effect of a light spell. Each creature of your choice that you can see within 30 feet of the coin must succeed on a Wisdom saving throw or be distracted for the duration. While distracted, a creature has disadvantage on Wisdom (Perception) checks and initiative rolls.
+    <text>Of the many tactics employed by master magician and renowned adventurer Jim Darkmagic, the old glowing coin trick is a time-honored classic. When you cast the spell, you hurl the coin that is the spell&apos;s material component to any spot within range. The coin lights up as if under the effect of a light spell. Each creature of your choice that you can see within 30 feet of the coin must succeed on a Wisdom saving throw or be distracted for the duration. While distracted, a creature has disadvantage on Wisdom (Perception) checks and initiative rolls.
 
 Source:	Acquisitions Incorporated p. 76</text>
   </spell>
   <spell>
-    <name>Jim's Magic Missile [2014]</name>
+    <name>Jim&apos;s Magic Missile [2014]</name>
     <classes>School: Evocation, Wizard, Rogue (Arcane Trickster), Fighter (Eldritch Knight)</classes>
     <level>1</level>
     <school>EV</school>
@@ -107,7 +107,7 @@ Source:	Acquisitions Incorporated p. 76</text>
     <range>120 feet</range>
     <components>V, S, R</components>
     <duration>Instantaneous</duration>
-    <text>"Jim's magic missile is an ancient and powerful spell, as well as being the name of my band in Wizard Academy."
+    <text>"Jim&apos;s magic missile is an ancient and powerful spell, as well as being the name of my band in Wizard Academy."
 - Jim Darkmagic
 
 Any apprentice wizard can cast a boring old magic missile. Sure, it always strikes its target. Yawn. Do away with the drudgery of your grandfather's magic with this improved version of the spell, as used by Jim Darkmagic!

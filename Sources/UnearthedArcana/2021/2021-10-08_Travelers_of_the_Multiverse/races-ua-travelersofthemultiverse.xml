@@ -58,7 +58,7 @@ d8 | Story
     </trait>
     <trait>
       <name>Armored Casing</name>
-      <text>You are encased in thin metal or some other durable material. While you aren't wearing armor, your base Armor Class is 13 + your Dexterity modifier.</text>
+      <text>You are encased in thin metal or some other durable material. While you aren&apos;t wearing armor, your base Armor Class is 13 + your Dexterity modifier.</text>
     </trait>
     <trait>
       <name>Built for Success</name>
@@ -66,11 +66,11 @@ d8 | Story
     </trait>
     <trait>
       <name>Mechanical Nature</name>
-      <text>You have resistance to poison damage and immunity to disease, and you have advantage on saving throws against being paralyzed or poisoned. You don't need to eat, drink, or breathe.</text>
+      <text>You have resistance to poison damage and immunity to disease, and you have advantage on saving throws against being paralyzed or poisoned. You don&apos;t need to eat, drink, or breathe.</text>
     </trait>
     <trait>
-      <name>Sentry's Rest</name>
-      <text>When you take a long rest, you spend at least 6 hours in an inactive, motionless state, instead of sleeping. In this state, you appear inert, but you aren't unconscious.</text>
+      <name>Sentry&apos;s Rest</name>
+      <text>When you take a long rest, you spend at least 6 hours in an inactive, motionless state, instead of sleeping. In this state, you appear inert, but you aren&apos;t unconscious.</text>
     </trait>
     <trait>
       <name>Specialized Design</name>
@@ -78,7 +78,7 @@ d8 | Story
     </trait>
     <trait>
       <name>True Life</name>
-      <text>If the Mending spell is cast on you, you can expend a Hit Die, roll it, and regain a number of hit points equal to the roll plus your Constitution modifier (minimum of 1 hit point). In addition, your creator designed you to benefit from common spells that preserve life but that normally don't affect Constructs: Cure Wounds, Healing Word, and Spare the Dying.</text>
+      <text>If the Mending spell is cast on you, you can expend a Hit Die, roll it, and regain a number of hit points equal to the roll plus your Constitution modifier (minimum of 1 hit point). In addition, your creator designed you to benefit from common spells that preserve life but that normally don&apos;t affect Constructs: Cure Wounds, Healing Word, and Spare the Dying.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -94,7 +94,7 @@ d8 | Story
     <proficiency>Perception</proficiency>
     <trait>
       <name>Description</name>
-      <text>Long ago, groups of elves ventured from the Feywild to the Astral Plane to be closer to their gods. Life in the Silver Void has imbued their souls with a spark of divine light. That light manifests as a starry gleam in an astral elf's eyes.
+      <text>Long ago, groups of elves ventured from the Feywild to the Astral Plane to be closer to their gods. Life in the Silver Void has imbued their souls with a spark of divine light. That light manifests as a starry gleam in an astral elf&apos;s eyes.
 
 Because nothing ages in the Astral Plane, astral elves from that plane are thousands of years old, and their longevity gives them an unusual perspective on time. Some are prone to melancholy, while others display an absence of feeling. Many look for creative ways to occupy themselves. Whether they choose to live in quiet contemplation or strike out to explore the reaches of the multiverse, they tend to see things through the lens of time as having little or no meaning to them.
 
@@ -106,11 +106,11 @@ Source:	Unearthed Arcana: Travelers of The Multiverse p. 1</text>
     </trait>
     <trait>
       <name>Life Span</name>
-      <text>Astral elves who don't dwell on the Astral Plane can live to be over 750 years old.</text>
+      <text>Astral elves who don&apos;t dwell on the Astral Plane can live to be over 750 years old.</text>
     </trait>
     <trait>
       <name>Alignment</name>
-      <text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.</text>
+      <text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others&apos; freedom as well as their own, and they are more often good than not.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -140,13 +140,13 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Trance</name>
-      <text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+      <text>Elves don&apos;t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
 
 If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.</text>
     </trait>
     <trait>
       <name>Trance Proficiencies</name>
-      <text>Whenever you finish a long rest using your Trance trait, you gain two proficiencies, each one with a weapon or a tool of your choice (selected from the "Equipment" chapter of the Player's Handbook). You mystically acquire these proficiencies by drawing them from shared elven memory, and you retain them until you finish your next long rest.</text>
+      <text>Whenever you finish a long rest using your Trance trait, you gain two proficiencies, each one with a weapon or a tool of your choice (selected from the "Equipment" chapter of the Player&apos;s Handbook). You mystically acquire these proficiencies by drawing them from shared elven memory, and you retain them until you finish your next long rest.</text>
     </trait>
     <trait>
       <name>Astral Fire</name>
@@ -154,7 +154,7 @@ If you meditate during a long rest, you finish the rest after only 4 hours. You 
     </trait>
     <trait>
       <name>Radiant Soul</name>
-      <text>When you succeed on a death save, you can regain a number of hit points equal to your proficiency bonus + your Intelligence, Wisdom, or Charisma modifier (choose when you select this race). You can't use this trait again until you finish a long rest.</text>
+      <text>When you succeed on a death save, you can regain a number of hit points equal to your proficiency bonus + your Intelligence, Wisdom, or Charisma modifier (choose when you select this race). You can&apos;t use this trait again until you finish a long rest.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -184,11 +184,11 @@ Source:	Unearthed Arcana: Travelers of The Multiverse p. 2</text>
     </trait>
     <trait>
       <name>Life Span</name>
-      <text>The typical life span of a player character in the D&amp;D multiverse is about a century, assuming the character doesn't meet a violent end on an adventure. Members of some races, such as dwarves and elves, can live for centuries—a fact noted in the description of the race.</text>
+      <text>The typical life span of a player character in the D&amp;D multiverse is about a century, assuming the character doesn&apos;t meet a violent end on an adventure. Members of some races, such as dwarves and elves, can live for centuries—a fact noted in the description of the race.</text>
     </trait>
     <trait>
       <name>Height and Weight</name>
-      <text>Player characters, regardless of race, typically fall into the same ranges of height and weight that humans have in our world. If you'd like to determine your character's height or weight randomly, consult the Random Height and Weight table in the Player's Handbook, and choose the row in the table that best represents the build you imagine for your character.</text>
+      <text>Player characters, regardless of race, typically fall into the same ranges of height and weight that humans have in our world. If you'd like to determine your character&apos;s height or weight randomly, consult the Random Height and Weight table in the Player&apos;s Handbook, and choose the row in the table that best represents the build you imagine for your character.</text>
     </trait>
     <trait>
       <name>Creature Type</name>
@@ -209,7 +209,7 @@ Source:	Unearthed Arcana: Travelers of The Multiverse p. 2</text>
     </trait>
     <trait>
       <name>Languages</name>
-      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of widespread languages to choose from. The DM is free to add or remove languages from that list for a particular campaign.</text>
+      <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player&apos;s Handbook offers a list of widespread languages to choose from. The DM is free to add or remove languages from that list for a particular campaign.</text>
     </trait>
   </race>
   <race>
@@ -233,7 +233,7 @@ Source:	Unearthed Arcana 80: Travelers of the Multiverse p. 3</text>
     </trait>
     <trait>
       <name>Life Span</name>
-      <text>The typical life span of a player character in the D&amp;D multiverse is about a century, assuming the character doesn't meet a violent end on an adventure. Members of some races, such as dwarves and elves, can live for centuries—a fact noted in the description of the race.</text>
+      <text>The typical life span of a player character in the D&amp;D multiverse is about a century, assuming the character doesn&apos;t meet a violent end on an adventure. Members of some races, such as dwarves and elves, can live for centuries—a fact noted in the description of the race.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -273,7 +273,7 @@ When you would take damage from a fall, you can use your reaction to reduce the 
     <spellAbility/>
     <trait>
       <name>Description</name>
-      <text>Plasmoids are amorphous beings with no typical shape. In the presence of other folk, they often adopt a similar form, but there's little chance of mistaking a plasmoid for anything else. They consume food by osmosis, the way an amoeba does, and excrete waste through tiny pores. They breathe by absorbing oxygen through another set of pores,and their limbs are strong and flexible enough to grasp and manipulate weapons and tools. Although most plasmoids are translucent gray, they can alter their color and translucence by absorbing dyes through their pores.
+      <text>Plasmoids are amorphous beings with no typical shape. In the presence of other folk, they often adopt a similar form, but there&apos;s little chance of mistaking a plasmoid for anything else. They consume food by osmosis, the way an amoeba does, and excrete waste through tiny pores. They breathe by absorbing oxygen through another set of pores,and their limbs are strong and flexible enough to grasp and manipulate weapons and tools. Although most plasmoids are translucent gray, they can alter their color and translucence by absorbing dyes through their pores.
 
 Plasmoids don't have internal organs of the usual sort. Their bodies are composed of cells, fibers, plasma-like ooze, and clusters of nerves called ganglia. These nerves enable a plasmoid to detect light, heat, texture, sound, pain, and vibrations. Plasmoids can stiffen the outer layers of their bodies to maintain a human like shape, so they can wear clothing and accessories. They speak by forcing air out of tubular cavities that constrict to produce sound.
 
@@ -351,7 +351,7 @@ Source:	Unearthed Arcana 80: Travelers of the Multiverse p. 3</text>
     </trait>
     <trait>
       <name>Chameleon Carapace</name>
-      <text>While you aren't wearing armor, your carapace gives you a base Armor Class of 13 + your Dexterity modifier.
+      <text>While you aren&apos;t wearing armor, your carapace gives you a base Armor Class of 13 + your Dexterity modifier.
 
 As an action, you can change the color of your carapace to match the color and texture of your surroundings, giving you advantage on Dexterity (Stealth) checks made to hide in those surroundings.</text>
     </trait>
@@ -373,7 +373,7 @@ You can't wield a shield with a secondary arm</text>
     </trait>
     <trait>
       <name>Thri-kreen Telepathy</name>
-      <text>You have the magical ability to communicate mentally with any number of willing creatures you can see within 120 feet of you. A contacted creature doesn't need to share a language with you, but it must be able to understand at least one language. Your telepathic link to a creature is broken if you and the creature move more than 120 feet apart, if either of you is incapacitated, or if either of you mentally breaks the contact (no action required).</text>
+      <text>You have the magical ability to communicate mentally with any number of willing creatures you can see within 120 feet of you. A contacted creature doesn&apos;t need to share a language with you, but it must be able to understand at least one language. Your telepathic link to a creature is broken if you and the creature move more than 120 feet apart, if either of you is incapacitated, or if either of you mentally breaks the contact (no action required).</text>
     </trait>
     <trait>
       <name>Languages</name>

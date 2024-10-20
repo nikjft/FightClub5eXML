@@ -14,7 +14,7 @@ Source:	Unearthed Arcana: Gothic Heroes p. 2</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Monster Hunter (UA): Bonus Proficiencies</name>
-        <text>When you choose this archetype at 3rd level, you gain proficiency in two of the following skills of your choice: Arcana, History, Insight, Investigation, Nature, or Perception. You can choose to gain proficiency with thieves' tools in place of one skill choice.
+        <text>When you choose this archetype at 3rd level, you gain proficiency in two of the following skills of your choice: Arcana, History, Insight, Investigation, Nature, or Perception. You can choose to gain proficiency with thieves&apos; tools in place of one skill choice.
 
 Source:	Unearthed Arcana: Gothic Heroes p. 2</text>
       </feature>
@@ -45,7 +45,7 @@ Source:	Unearthed Arcana: Gothic Heroes p. 2</text>
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Monster Hunter (UA): Hunter's Mysticism</name>
+        <name>Monster Hunter (UA): Hunter&apos;s Mysticism</name>
         <text>At 3rd level, your study of the supernatural gives you a limited ability to use magic. You can cast detect magic as a ritual. You can cast protection from evil and good, but you cannot cast it again with this feature until you finish a long rest. Wisdom is your spellcasting ability for these spells.
 
 In addition, you gain the ability to speak one of the following languages of your choice: Abyssal, Celestial, or Infernal.

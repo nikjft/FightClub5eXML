@@ -13,7 +13,7 @@ Source:	LaserLlama: Divine Domains v1.5.0 p. 2 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Beauty Domain (HB): Bonus Cantrip</name>
-        <text>Your Domain grants you an affinity with enchantments. You learn the friends cantrip. It counts as a Cleric cantrip for you, but it doesn't count against your number of Cantrips Known.
+        <text>Your Domain grants you an affinity with enchantments. You learn the friends cantrip. It counts as a Cleric cantrip for you, but it doesn&apos;t count against your number of Cantrips Known.
 
 When you cast friends targeting a creature that is already friendly towards you, it doesn't realize that it was charmed and doesn't become hostile toward you when the spell ends.
 
@@ -185,7 +185,7 @@ Source:	LaserLlama: Divine Domains v1.5.0 p. 4 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Cataclysm Domain (HB): Earthen Rebuke</name>
-        <text>You can rebuke your foes with stone and flame. As a reaction when a creature within 5 feet of you hits you with an attack, you can force it to make a Strength saving throw. On a failed save, it takes 1d8 bludgeoning or fire damage (your choice) and is knocked prone. On a success, the creature takes half as much damage and doesn't fall prone.
+        <text>You can rebuke your foes with stone and flame. As a reaction when a creature within 5 feet of you hits you with an attack, you can force it to make a Strength saving throw. On a failed save, it takes 1d8 bludgeoning or fire damage (your choice) and is knocked prone. On a success, the creature takes half as much damage and doesn&apos;t fall prone.
 
 You can use this reaction a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest. If you have no uses left, you can spend a spell slot to use this feature again.
 
@@ -258,7 +258,7 @@ Source:	LaserLlama: Divine Domains v1.5.0 p. 5 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Chaos Domain (HB): Shattered Mind</name>
-        <text>At the end of each long rest, you can choose to roll on the Indefinite Madness table from the Dungeon Master's Guide. Until the end of your next long rest, you gain the Madness effect, but you also gain resistance to psychic damage and immunity to having your thoughts read unless you allow it.
+        <text>At the end of each long rest, you can choose to roll on the Indefinite Madness table from the Dungeon Master&apos;s Guide. Until the end of your next long rest, you gain the Madness effect, but you also gain resistance to psychic damage and immunity to having your thoughts read unless you allow it.
 
 Source:	LaserLlama: Divine Domains v1.5.0 p. 5 (Homebrew)</text>
       </feature>
@@ -294,7 +294,7 @@ Source:	LaserLlama: Divine Domains v1.5.0 p. 6 (Homebrew)</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Chaos Domain (HB): Mantle of Insanity</name>
-        <text>You are a conduit for Chaos to enter the world. When a creature you can see within 60 feet targets you with an attack, you can use your reaction to force it to make a Wisdom saving throw. On a failed save, it attacks a target of your choice within its attack's range.
+        <text>You are a conduit for Chaos to enter the world. When a creature you can see within 60 feet targets you with an attack, you can use your reaction to force it to make a Wisdom saving throw. On a failed save, it attacks a target of your choice within its attack&apos;s range.
 
 You can use this reaction a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
@@ -313,12 +313,12 @@ Source:	LaserLlama: Divine Domains v1.5.0 p. 6 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Hearth Domain (HB): Bonus Proficiencies</name>
-        <text>A host has certain obligations to their guests, and you must be able to provide comfort and warmth to your friends. When you adopt this Divine Domain level you gain proficiency with the herbalism kit, cook's utensils, and with heavy armor.
+        <text>A host has certain obligations to their guests, and you must be able to provide comfort and warmth to your friends. When you adopt this Divine Domain level you gain proficiency with the herbalism kit, cook&apos;s utensils, and with heavy armor.
 
 Source:	LaserLlama: Divine Domains v1.5.0 p. 6 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Hearth Domain (HB): Hearth's Blessing</name>
+        <name>Hearth Domain (HB): Hearth&apos;s Blessing</name>
         <text>Your presence allows your companions to rest without care. At the end of each short rest, you can choose a number of creatures equal to your Wisdom modifier (minimum of 1). Their level of exhaustion, if any, reduced by 1, and regain (additional) hit points equal to your Cleric level.
 
 In addition, you learn the create bonfire cantrip. It counts as a Cleric cantrip for you, but it does not count against your total number of Cantrips Known.
@@ -414,7 +414,7 @@ Source:	LaserLlama: Divine Domains v1.5.0 p. 7 (Homebrew)</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Luck Domain (HB): Channel Divinity: Stroke of Luck</name>
-        <text>When you or a creature within 60 feet that you can see, makes an ability check, attack roll, or saving throw, you can use your reaction to hold aloft your holy symbol and grant it advantage, or impose disadvantage, on the target's roll.
+        <text>When you or a creature within 60 feet that you can see, makes an ability check, attack roll, or saving throw, you can use your reaction to hold aloft your holy symbol and grant it advantage, or impose disadvantage, on the target&apos;s roll.
 
 Source:	LaserLlama: Divine Domains v1.5.0 p. 7 (Homebrew)</text>
       </feature>
@@ -570,7 +570,7 @@ Source:	LaserLlama: Divine Domains v1.5.0 p. 9 (Homebrew)</text>
     </autolevel>
     <autolevel level="2">
       <feature optional="YES">
-        <name>Poverty Domain (HB): Channel Divinity: Guardian's Shield</name>
+        <name>Poverty Domain (HB): Channel Divinity: Guardian&apos;s Shield</name>
         <text>When a creature you can see within 30 feet takes damage, you can use your reaction to clutch your holy symbol and invoke this Channel Divinity. You then take the full damage of the triggering attack but are considered to be resistant to any damage you take during this reaction.
 
 Source:	LaserLlama: Divine Domains v1.5.0 p. 9 (Homebrew)</text>
@@ -728,7 +728,7 @@ Source:	LaserLlama: Divine Domains v1.5.0 p. 11 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Shadow Domain (HB): Shroud of Shadow</name>
-        <text>You conjure the darkness of your god to defend yourself from assaults. When a creature you can see within 30 feet targets you with an attack, you can use your reaction to conjure a cloud of darkness that billows around you and imposes disadvantage on the creature's attack roll. Creatures that can see through magical darkness are immune to this feature.
+        <text>You conjure the darkness of your god to defend yourself from assaults. When a creature you can see within 30 feet targets you with an attack, you can use your reaction to conjure a cloud of darkness that billows around you and imposes disadvantage on the creature&apos;s attack roll. Creatures that can see through magical darkness are immune to this feature.
 
 You can use this reaction a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
@@ -748,7 +748,7 @@ Source:	LaserLlama: Divine Domains v1.5.0 p. 11 (Homebrew)</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Shadow Domain (HB): Improved Shroud</name>
-        <text>When a creature you can see within 30 feet attacks another creature you can see, you can use your reaction to conjure Shroud of Shadow around the target creature and impose disadvantage on the creature's attack roll.
+        <text>When a creature you can see within 30 feet attacks another creature you can see, you can use your reaction to conjure Shroud of Shadow around the target creature and impose disadvantage on the creature&apos;s attack roll.
 
 Source:	LaserLlama: Divine Domains v1.5.0 p. 11 (Homebrew)</text>
       </feature>
@@ -781,7 +781,7 @@ Source:	LaserLlama: Divine Domains v1.5.0 p. 12 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Thieves Domain (HB): Cunning Skill</name>
-        <text>You gain proficiency in thieves' tools and one of the following skills: Acrobatics, Deception, Sleight of Hand, or Stealth.
+        <text>You gain proficiency in thieves&apos; tools and one of the following skills: Acrobatics, Deception, Sleight of Hand, or Stealth.
 
 You also learn to speak, write, and decipher Thieves' Cant, the secret code of thieves' guilds and other rapscallions.
 
@@ -789,7 +789,7 @@ Source:	LaserLlama: Divine Domains v1.5.0 p. 12 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Thieves Domain (HB): Larcenous Blessing</name>
-        <text>Whenever you make a Dexterity (Stealth), Dexterity (Sleight of Hand), or thieves' tools check, you can add your Wisdom modifier (minimum of +1) to the result of your roll.
+        <text>Whenever you make a Dexterity (Stealth), Dexterity (Sleight of Hand), or thieves&apos; tools check, you can add your Wisdom modifier (minimum of +1) to the result of your roll.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain your expended uses when you finish a long rest.
 
@@ -829,7 +829,7 @@ Source:	LaserLlama: Divine Domains v1.5.0 p. 12 (Homebrew)</text>
     <autolevel level="8">
       <feature optional="YES">
         <name>Thieves Domain (HB): Divine Strike</name>
-        <text>When deceit fails your weapons strike true. Once per turn when you hit a creature with a weapon attack, you can deal an additional 1d8 damage of your weapon's damage type.
+        <text>When deceit fails your weapons strike true. Once per turn when you hit a creature with a weapon attack, you can deal an additional 1d8 damage of your weapon&apos;s damage type.
 
 At 14th level, this additional damage becomes 2d8.
 
@@ -854,7 +854,7 @@ Source:	LaserLlama: Divine Domains v1.5.0 p. 12 (Homebrew)</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Divine Domain: Alternate Arcana Domain (HB)</name>
-        <text>The Arcana Domain for the Cleric was originally published in the Sword Coast Adventurer's Guide, and is widely accepted as an underwhelming subclass for the Cleric. The Alternate Arcana Domain is an attempt to bring the Divine Domain up to par with other officially published Cleric subclasses.
+        <text>The Arcana Domain for the Cleric was originally published in the Sword Coast Adventurer&apos;s Guide, and is widely accepted as an underwhelming subclass for the Cleric. The Alternate Arcana Domain is an attempt to bring the Divine Domain up to par with other officially published Cleric subclasses.
 
 Source:	LaserLlama: Cleric Divine Domains v1.5.0 p. 13 (Homebrew)</text>
       </feature>
@@ -876,7 +876,7 @@ Source:	LaserLlama: Cleric Divine Domains v1.5.0 p. 13 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Alternate Arcana Domain (HB): Arcane Initiate</name>
-        <text>You gain proficiency in Arcana, and you learn two cantrips from the Wizard spell list. They count as Cleric spells for you, but they don't count against your number of Cantrips Known.
+        <text>You gain proficiency in Arcana, and you learn two cantrips from the Wizard spell list. They count as Cleric spells for you, but they don&apos;t count against your number of Cantrips Known.
 
 Source:	LaserLlama: Cleric Divine Domains v1.5.0 p. 13 (Homebrew)</text>
       </feature>

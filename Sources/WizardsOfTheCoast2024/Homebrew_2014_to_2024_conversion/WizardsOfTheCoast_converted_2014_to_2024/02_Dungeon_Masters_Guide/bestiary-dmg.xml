@@ -74,7 +74,7 @@ Source:	Dungeon Master's Guide p. 164,
     <vulnerable/>
     <conditionImmune/>
     <senses>darkvision 60 ft.</senses>
-    <description>Source:	Dungeon Master's Guide p. 169</description>
+    <description>Source:	Dungeon Master&apos;s Guide p. 169</description>
     <environment/>
   </monster>
   <monster>
@@ -94,7 +94,7 @@ Source:	Dungeon Master's Guide p. 164,
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages it knew in life but can't speak</languages>
+    <languages>understands the languages it knew in life but can&apos;t speak</languages>
     <cr>0</cr>
     <resist/>
     <immune/>
@@ -107,7 +107,7 @@ Source:	Dungeon Master's Guide p. 164,
 Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) piercing damage.</text>
       <attack>Bite|+1|1d4-1</attack>
     </action>
-    <description>Source:	Dungeon Master's Guide p. 63,
+    <description>Source:	Dungeon Master&apos;s Guide p. 63,
 		Baldur's Gate: Descent Into Avernus</description>
     <environment/>
   </monster>

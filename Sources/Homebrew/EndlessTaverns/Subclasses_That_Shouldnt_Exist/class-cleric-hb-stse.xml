@@ -21,7 +21,7 @@ Source:	Subclasses That Shouldn't Exist v1 p. 8 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Snack Domain (HB): Heavenly Hospitality</name>
-        <text>At 1st level, you learn the Prestidigitation cantrip, which doesn't count against the number of cleric cantrips you know.
+        <text>At 1st level, you learn the Prestidigitation cantrip, which doesn&apos;t count against the number of cleric cantrips you know.
 
 In addition, you gain proficiency with cook's utensils.
 
@@ -67,7 +67,7 @@ Source:	Subclasses That Shouldn't Exist v1 p. 8 (Homebrew)</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Snack Domain (HB): Eternal Snack Pack</name>
-        <text>At 17th level, you gain access to an inexhaustible supply of divine snacks. As a bonus action, you can summon the Eternal Snack Pack, a magical container that floats near you and remains for 1 minute. While the Snack Pack is present, you and any ally within 5 feet can reach into the pack as a bonus action to grab a snack, gaining temporary hit points equal to your cleric level and removing one condition of the consumer's choice (blinded, deafened, paralyzed or poisoned).
+        <text>At 17th level, you gain access to an inexhaustible supply of divine snacks. As a bonus action, you can summon the Eternal Snack Pack, a magical container that floats near you and remains for 1 minute. While the Snack Pack is present, you and any ally within 5 feet can reach into the pack as a bonus action to grab a snack, gaining temporary hit points equal to your cleric level and removing one condition of the consumer&apos;s choice (blinded, deafened, paralyzed or poisoned).
 
 After you use this feature, you can't use it again until you finish a long rest.
 
@@ -88,7 +88,7 @@ Source:	Subclasses That Shouldn't Exist v1 p. 8 (Homebrew)</text>
     <classes>Cleric (Snack (HB))</classes>
   </spell>
   <spell>
-    <name>Dragon's Breath</name>
+    <name>Dragon&apos;s Breath</name>
     <classes>Cleric (Snack (HB))</classes>
   </spell>
   <spell>
@@ -96,7 +96,7 @@ Source:	Subclasses That Shouldn't Exist v1 p. 8 (Homebrew)</text>
     <classes>Cleric (Snack (HB))</classes>
   </spell>
   <spell>
-    <name>Leomund's Tiny Hut</name>
+    <name>Leomund&apos;s Tiny Hut</name>
     <classes>Cleric (Snack (HB))</classes>
   </spell>
   <spell>

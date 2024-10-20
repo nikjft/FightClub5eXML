@@ -5,7 +5,7 @@
     <autolevel level="3">
       <feature optional="YES">
         <name>Martial Archtype: Rune Knight (UA)</name>
-        <text>You discovered how to enhance your martial prowess using the supernatural power of runes. The ancient practice of rune magic originated with giants. Skiltgravr ("rune cutters") can be found among any type of giants, and you likely learned your methods first or second hand from such a mystical artisan. Whether you found the giant's work carved into a hill or cave, learned of the runes from a traveling sage, or met the giant in person, you studied the giant's craft. In time, you learned how to carve and apply runes to your equipment and how to invoke their magic, ultimately becoming a Rune Knight.
+        <text>You discovered how to enhance your martial prowess using the supernatural power of runes. The ancient practice of rune magic originated with giants. Skiltgravr ("rune cutters") can be found among any type of giants, and you likely learned your methods first or second hand from such a mystical artisan. Whether you found the giant&apos;s work carved into a hill or cave, learned of the runes from a traveling sage, or met the giant in person, you studied the giant&apos;s craft. In time, you learned how to carve and apply runes to your equipment and how to invoke their magic, ultimately becoming a Rune Knight.
 
 Source:	Unearthed Arcana: Fighter Ranger Rogue p. 1</text>
       </feature>
@@ -14,7 +14,7 @@ Source:	Unearthed Arcana: Fighter Ranger Rogue p. 1</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Rune Knight (UA): Bonus Proficiencies</name>
-        <text>You gain proficiency with smith's tools, and you learn to speak, read, and write Giant.
+        <text>You gain proficiency with smith&apos;s tools, and you learn to speak, read, and write Giant.
 
 Source:	Unearthed Arcana: Fighter Ranger Rogue p. 1</text>
       </feature>
@@ -62,7 +62,7 @@ Source:	Unearthed Arcana: Fighter Ranger Rogue p. 1</text>
     <autolevel level="7">
       <feature optional="YES">
         <name>Rune Knight (UA): Defensive Runes</name>
-        <text>You learn to invoke your rune magic to protect your allies. When another creature you can see within 60 feet of you is hit by an attack roll, you can use your reaction to grant a bonus to the creature's AC against that attack. The bonus equals 1 + your Intelligence modifier (minimum of +2).
+        <text>You learn to invoke your rune magic to protect your allies. When another creature you can see within 60 feet of you is hit by an attack roll, you can use your reaction to grant a bonus to the creature&apos;s AC against that attack. The bonus equals 1 + your Intelligence modifier (minimum of +2).
 
 In addition, you learn one new rune of your choice from the Rune Magic feature (for a total of three).
 

@@ -99,7 +99,7 @@ Source:	Candlekeep Mysteries p. 210</text>
     <type>W</type>
     <magic>YES</magic>
     <weight/>
-    <text>Carved from an ogre's petrified heart, the gray figurine depicts the Demon Prince of Undeath in ghastly detail, clutching his skull-topped wand in one hand and three severed heads by the hair in the other. The figurine smells like decaying flesh, and this scent is detectable out to a range of 5 feet.
+    <text>Carved from an ogre&apos;s petrified heart, the gray figurine depicts the Demon Prince of Undeath in ghastly detail, clutching his skull-topped wand in one hand and three severed heads by the hair in the other. The figurine smells like decaying flesh, and this scent is detectable out to a range of 5 feet.
 
 The figurine is a Tiny object with AC 17, 3 hit points, and immunity to all types of damage except radiant damage. A detect evil and good spell or similar magic reveals that the figurine has been desecrated. As long as it has at least 1 hit point, the figurine has the following magical properties:
 
@@ -136,7 +136,7 @@ Source:	Candlekeep Mysteries p. 98</text>
     <ac>14</ac>
   </item>
   <item>
-    <name>Serpent's Fang [2014]</name>
+    <name>Serpent&apos;s Fang [2014]</name>
     <detail>longsword, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -180,12 +180,12 @@ Source:	Candlekeep Mysteries p. 183</text>
     <modifier category="bonus">Melee Damage +3</modifier>
   </item>
   <item>
-    <name>Stonky's Ring [2014]</name>
+    <name>Stonky&apos;s Ring [2014]</name>
     <detail>(requires attunement)</detail>
     <type>RG</type>
     <magic>YES</magic>
     <weight/>
-    <text>While wearing this ring, you can cast the telekinesis spell at will, but you can target only objects that aren't being worn or carried.
+    <text>While wearing this ring, you can cast the telekinesis spell at will, but you can target only objects that aren&apos;t being worn or carried.
 
 Any character who attunes to the ring gains control of Stonky's creations, though the skitterwidgets ignore commands spoken more than 30 feet away from them.
 
@@ -197,7 +197,7 @@ Source:	Candlekeep Mysteries p. 132</text>
     <type>W</type>
     <magic>YES</magic>
     <weight/>
-    <text>While you wear this helm, you gain a +1 bonus to AC and remain aware of your surroundings even while you're asleep, and you have advantage on Wisdom (Perception) checks that rely on sight.
+    <text>While you wear this helm, you gain a +1 bonus to AC and remain aware of your surroundings even while you&apos;re asleep, and you have advantage on Wisdom (Perception) checks that rely on sight.
 
 As a bonus action, you can cast the see invisibility spell from the helm. Once this property of the helm is used, it can't be used again until the next dawn.
 

@@ -42,7 +42,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111</text>
     <type>W</type>
     <weight/>
     <value/>
-    <text>This coat made of the severed tongues of a harvester's victims provides a +1 bonus to your AC, and you have advantage on Charisma (Deception) checks.
+    <text>This coat made of the severed tongues of a harvester&apos;s victims provides a +1 bonus to your AC, and you have advantage on Charisma (Deception) checks.
 
 Additionally, as a bonus action three times per day, you can activate the magic of the cloak. If you do, the next spell you cast before the start of your next turn can be cast without any somatic or verbal components.
 
@@ -115,7 +115,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111</text>
     <type>WD</type>
     <weight/>
     <value/>
-    <text>This wand has 7 charges. While holding it, you can use an action to expend 1 charge to cast the silence spell (save DC 15). The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
+    <text>This wand has 7 charges. While holding it, you can use an action to expend 1 charge to cast the silence spell (save DC 15). The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand&apos;s last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
 Source:	Grim Hollow: Lairs of Etharis p. 111</text>
     <roll>1d6+1</roll>

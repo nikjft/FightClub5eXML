@@ -113,7 +113,7 @@ Source:	Sword Coast Adventurer's Guide p. 135</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Mastermind: Soul of Deceit [2014]</name>
-        <text>Starting at 17th level, your thoughts can't be read by telepathy or other means, unless you allow it. You can present false thoughts by succeeding on a Charisma (Deception) check contested by the mind reader's Wisdom (Insight) check.
+        <text>Starting at 17th level, your thoughts can&apos;t be read by telepathy or other means, unless you allow it. You can present false thoughts by succeeding on a Charisma (Deception) check contested by the mind reader&apos;s Wisdom (Insight) check.
 
 Additionally, no matter what you say, magic that would determine if you are telling the truth indicates you are being truthful if you so choose, and you can't be compelled to tell the truth by magic.
 
@@ -124,7 +124,7 @@ Source:	Sword Coast Adventurer's Guide p. 135</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Swashbuckler: Master Duelist [2014]</name>
-        <text>Beginning at 17th level, your mastery of the blade lets you turn failure into success in combat. If you miss with an attack roll, you can roll it again with advantage. Once you do so, you can't use this feature again until you finish a short or long rest.
+        <text>Beginning at 17th level, your mastery of the blade lets you turn failure into success in combat. If you miss with an attack roll, you can roll it again with advantage. Once you do so, you can&apos;t use this feature again until you finish a short or long rest.
 
 Source:	Sword Coast Adventurer's Guide p. 135</text>
       </feature>

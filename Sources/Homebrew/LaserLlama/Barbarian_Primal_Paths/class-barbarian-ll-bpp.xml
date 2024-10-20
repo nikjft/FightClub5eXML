@@ -78,7 +78,7 @@ Source:	LaserLlama: Barbarian Primal Paths v2.1.1 p. 2 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Path of the Champion (HB): Fighting Style</name>
-        <text>Your enhance your Rage with martial technique. You learn a Fighting Style from the list below. You can't learn a Fighting Style more than once, even if you gain this feature again.
+        <text>Your enhance your Rage with martial technique. You learn a Fighting Style from the list below. You can&apos;t learn a Fighting Style more than once, even if you gain this feature again.
 
 Whenever you gain a level in this class, you can switch your Fighting Style for another option from the list below.
 
@@ -203,7 +203,7 @@ Source:	LaserLlama: Barbarian Primal Paths v2.1.1 p. 4 (Homebrew)</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Path of the Deep (HB): The Horrors Below</name>
-        <text>When you travel through the cracks in reality, you can reveal the eldritch horrors beyond this world. When you use Reality Warp, you can force creatures within 10 feet of the point you appear to make a Wisdom saving throw (Save DC = 8 + your proficiency bonus + your Constitution modifier). On a failed save, creatures take 2d8 psychic damage and are frightened of you until the start of your next turn. On a successful save, they take half as much psychic damage and aren't frightened.
+        <text>When you travel through the cracks in reality, you can reveal the eldritch horrors beyond this world. When you use Reality Warp, you can force creatures within 10 feet of the point you appear to make a Wisdom saving throw (Save DC = 8 + your proficiency bonus + your Constitution modifier). On a failed save, creatures take 2d8 psychic damage and are frightened of you until the start of your next turn. On a successful save, they take half as much psychic damage and aren&apos;t frightened.
 
 Creatures that are immune to the frightened condition are immune to the effects of this feature, including any damage.
 
@@ -220,7 +220,7 @@ Source:	LaserLlama: Barbarian Primal Paths v2.1.1 p. 4 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Path of the Favored (HB): Favored Presence</name>
-        <text>There is something about your physicality that causes others view you more favorably. When you meet a creature for the first time, its starting attitude is one level higher than normal. For example, a hostile creature would view you indifferently, or a creature that would view you indifferently may consider you friendly. This feature doesn't effect those you travel with.
+        <text>There is something about your physicality that causes others view you more favorably. When you meet a creature for the first time, its starting attitude is one level higher than normal. For example, a hostile creature would view you indifferently, or a creature that would view you indifferently may consider you friendly. This feature doesn&apos;t effect those you travel with.
 
 Source:	LaserLlama: Barbarian Primal Paths v2.1.1 p. 4 (Homebrew)</text>
       </feature>
@@ -412,7 +412,7 @@ Source:	LaserLlama: Barbarian Primal Paths v2.1.1 p. 7 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Path of the Mutant (HB): Aberrant Alchemy</name>
-        <text>You have a deep knowledge of sinister side of alchemy. You gain proficiency in Nature and with alchemist's supplies.
+        <text>You have a deep knowledge of sinister side of alchemy. You gain proficiency in Nature and with alchemist&apos;s supplies.
 
 This knowledge allows you to create mutagens which, when combined with your Rage, radically alter your body.
 
@@ -467,7 +467,7 @@ Source:	LaserLlama: Barbarian Primal Paths v2.1.1 p. 8 (Homebrew)</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Path of the Mutant (HB): Enduring Mutation</name>
-        <text>our advances in the dark alchemy of mutation have evolved. At the end of each long rest, choose one Mutation you know. You gain the benefits of that Mutation, even when you aren't Raging, until the end of your next long rest.
+        <text>our advances in the dark alchemy of mutation have evolved. At the end of each long rest, choose one Mutation you know. You gain the benefits of that Mutation, even when you aren&apos;t Raging, until the end of your next long rest.
 
 However, when you enter a Rage, your
 Enduring Mutation counts against the
@@ -500,7 +500,7 @@ Source:	LaserLlama: Barbarian Primal Paths v2.1.1 p. 8 (Homebrew)</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Path of the Mutant (HB): Rapid Mutations</name>
-        <text>You have gained mastery over your body's mutability. While Raging, you can use a bonus action to end one Mutation and replace it with another Mutation that you know.
+        <text>You have gained mastery over your body&apos;s mutability. While Raging, you can use a bonus action to end one Mutation and replace it with another Mutation that you know.
 
 You can use this ability a number of times equal to your Constitution modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
@@ -542,7 +542,7 @@ Source:	LaserLlama: Barbarian Primal Paths v2.1.1 p. 9 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Path of the Mutant (HB): Grappling Appendages</name>
-        <text>You grow two appendages alongside your arms that resemble tentacles. They are natural weapons, which deal bludgeoning damage equal to your 1d6 + your Strength modifier on hit. If you hit a creature with a melee appendage attack, you can attempt to grapple it as a bonus action on that same turn. The appendages aren't dexterous enough to use weapons or specialized tools.
+        <text>You grow two appendages alongside your arms that resemble tentacles. They are natural weapons, which deal bludgeoning damage equal to your 1d6 + your Strength modifier on hit. If you hit a creature with a melee appendage attack, you can attempt to grapple it as a bonus action on that same turn. The appendages aren&apos;t dexterous enough to use weapons or specialized tools.
 
 Source:	LaserLlama: Barbarian Primal Paths v2.1.1 p. 9 (Homebrew)</text>
       </feature>
@@ -711,7 +711,7 @@ Source:	LaserLlama: Barbarian Primal Paths v2.1.1 p. 11 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Path of the Titan (HB): Giant Bloodline</name>
-        <text>Whether by magic or ancestry, you bear the power of giants. Choose the option below that best fits the type of giant whose power resides in you. This choice will affect features you gain later from this Path. You gain resistance to the damage type associated with that giant. This choice is permanent and can't be changed short of a wish or the magic of elder giants.
+        <text>Whether by magic or ancestry, you bear the power of giants. Choose the option below that best fits the type of giant whose power resides in you. This choice will affect features you gain later from this Path. You gain resistance to the damage type associated with that giant. This choice is permanent and can&apos;t be changed short of a wish or the magic of elder giants.
 
 Giant Ancestry:
 Giant | Element
@@ -828,7 +828,7 @@ Source:	LaserLlama: Barbarian Primal Paths v2.1.1 p. 12 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Path of the Warden (HB): Primal Rage</name>
-        <text>You have learned to draw on primal magic, even in your Rage. You can cast Warden spells while you're Raging, but you have disadvantage on any Constitution saving throws you make to maintain concentration on your Warden spells.
+        <text>You have learned to draw on primal magic, even in your Rage. You can cast Warden spells while you&apos;re Raging, but you have disadvantage on any Constitution saving throws you make to maintain concentration on your Warden spells.
 
 Also, casting a spell of 1st-level or higher allows your Rage to continue, even if you don't meet the other requirements.
 
@@ -837,7 +837,7 @@ Source:	LaserLlama: Barbarian Primal Paths v2.1.1 p. 13 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Path of the Warden (HB): Guardian's Fury</name>
+        <name>Path of the Warden (HB): Guardian&apos;s Fury</name>
         <text>Your instincts allow you to combine your primal magic with strikes. When you take the Attack action while Raging, you can cast a Warden cantrip in place of one of your attacks.
 
 Moreover, you can use Reckless Attack when you cast a Warden spell that requires a spell attack roll.
@@ -855,7 +855,7 @@ Source:	LaserLlama: Barbarian Primal Paths v2.1.1 p. 13 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Path of the Warden (HB): Improved Guardian's Fury</name>
+        <name>Path of the Warden (HB): Improved Guardian&apos;s Fury</name>
         <text>Your Rage and connection with primal spirits have fused to become something that rivals the great destructive forces of nature. When you take the Attack action while Raging, you can cast a Warden spell in place of one of your attacks.
 
 Source:	LaserLlama: Barbarian Primal Paths v2.1.1 p. 13 (Homebrew)</text>
@@ -871,7 +871,7 @@ Source:	LaserLlama: Barbarian Primal Paths v2.1.1 p. 14 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Path of the Wyrmblood (HB): Draconic Ancestry</name>
-        <text>Whether by ritual, ancestry, or happenstance, your bloodline bears draconic power. Choose one of the Dragons below that best represents the dragon whose power resides within you. You gain resistance to your Dragon's associated Element.
+        <text>Whether by ritual, ancestry, or happenstance, your bloodline bears draconic power. Choose one of the Dragons below that best represents the dragon whose power resides within you. You gain resistance to your Dragon&apos;s associated Element.
 
 You also learn to speak, read, and write Draconic.
 
@@ -935,7 +935,7 @@ Source:	LaserLlama: Barbarian Primal Paths v2.1.1 p. 15 (Homebrew)</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Primal Path: Alternate Battlerager (HB)</name>
-        <text>The Path of the Battlerager was originally published in the Sword Coast Adventurer's Guide, and is widely accepted as an underwhelming subclass for the Barbarian. The Alternate Battlerager presented here is an attempt to bring this Primal Path up to par with the other official barbarian subclasses.
+        <text>The Path of the Battlerager was originally published in the Sword Coast Adventurer&apos;s Guide, and is widely accepted as an underwhelming subclass for the Barbarian. The Alternate Battlerager presented here is an attempt to bring this Primal Path up to par with the other official barbarian subclasses.
 
 Optional Rule: Dwarves Only
 In some settings, only dwarves can train to become Battleragers known as Kuldjarghs in Dwarvish. The GM can elect to use this restriction depending on the setting and cultures present in the game world.
@@ -944,7 +944,7 @@ Source:	LaserLlama: Barbarian Primal Paths v2.1.1 p. 15 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Alternate Battlerager (HB): Savage Smith</name>
-        <text>You are a student of both forge and fury, and have gained the skills necessary to maintain your unique Spiked Armor. You gain proficiency with smith's tools, and have advantage on any smith's tools checks you make related to armor.
+        <text>You are a student of both forge and fury, and have gained the skills necessary to maintain your unique Spiked Armor. You gain proficiency with smith&apos;s tools, and have advantage on any smith&apos;s tools checks you make related to armor.
 
 You also gain proficiency with heavy armor, and can Rage while you are wearing heavy armor without the drawbacks.
 
@@ -952,7 +952,7 @@ Source:	LaserLlama: Barbarian Primal Paths v2.1.1 p. 15 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Alternate Battlerager (HB): Spiked Armor</name>
-        <text>You have learned to modify your armor so you can use it as a weapon. Over the course of an hour, which can be during a short or long rest, you can use smith's tools to affix spikes to a set of armor, turning it into Spiked Armor. Spiked Armor has the following properties, but only when worn by you:
+        <text>You have learned to modify your armor so you can use it as a weapon. Over the course of an hour, which can be during a short or long rest, you can use smith&apos;s tools to affix spikes to a set of armor, turning it into Spiked Armor. Spiked Armor has the following properties, but only when worn by you:
 
 	• It counts as a martial melee weapon with a reach of 5 feet, and on hit, a Spiked Armor attack deals piercing damage equal to 1d4 + your Strength modifier.
 

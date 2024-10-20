@@ -17,7 +17,7 @@
     <save/>
     <skill>Perception +8</skill>
     <passive>18</passive>
-    <languages>understands Draconic but can't speak</languages>
+    <languages>understands Draconic but can&apos;t speak</languages>
     <cr>6</cr>
     <resist/>
     <immune/>
@@ -264,7 +264,7 @@ Diderius targets one creature it can see within 60 feet of it. If the target can
     <legendary>
       <name>Legendary Actions (5/Turn)</name>
       <recharge>5/Turn</recharge>
-      <text>The undead can take 5 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The undead regains spent legendary actions at the start of its turn.</text>
+      <text>The undead can take 5 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The undead regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Attack</name>
@@ -391,11 +391,11 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) pierci
       <attack>Shortsword|+5|1d6+3</attack>
     </action>
     <action>
-      <name>Orb of Dragon's Breath (2/Day)</name>
+      <name>Orb of Dragon&apos;s Breath (2/Day)</name>
       <recharge>2/Day</recharge>
       <text>
 Ranged Spell Attack: +5 to hit, range 50 ft., one target. Hit: 22 (5d8) damage of the type to which the dragonfang has damage resistance.</text>
-      <attack>Orb of Dragon's Breath (2/Day)|+5|5d8</attack>
+      <attack>Orb of Dragon&apos;s Breath (2/Day)|+5|5d8</attack>
     </action>
     <description>Source:	Rise of Tiamat p. 89,
 		Tyranny of Dragons p. 182</description>
@@ -457,11 +457,11 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) pierci
       <attack>Shortsword|+5|1d6+3</attack>
     </action>
     <action>
-      <name>Orb of Dragon's Breath (3/Day)</name>
+      <name>Orb of Dragon&apos;s Breath (3/Day)</name>
       <recharge>3/Day</recharge>
       <text>
 Ranged Spell Attack: +7 to hit, range 90 ft., one target. Hit: 27 (6d8) damage of the type to which the dragonsoul has damage resistance.</text>
-      <attack>Orb of Dragon's Breath (3/Day)|+7|6d8</attack>
+      <attack>Orb of Dragon&apos;s Breath (3/Day)|+7|6d8</attack>
     </action>
     <description>Source:	Rise of Tiamat p. 89,
 		Tyranny of Dragons p. 183</description>
@@ -549,11 +549,11 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) pierci
       <attack>Shortsword|+5|1d6+3</attack>
     </action>
     <action>
-      <name>Orb of Dragon's Breath (3/Day)</name>
+      <name>Orb of Dragon&apos;s Breath (3/Day)</name>
       <recharge>3/Day</recharge>
       <text>
 Ranged Spell Attack: +7 to hit, range 90 ft., one target. Hit: 27 (6d8) damage of the type to which Galvan has damage resistance.</text>
-      <attack>Orb of Dragon's Breath (3/Day)|+7|6d8</attack>
+      <attack>Orb of Dragon&apos;s Breath (3/Day)|+7|6d8</attack>
     </action>
     <description>Source:	Rise of Tiamat p. 9</description>
     <environment/>
@@ -644,7 +644,7 @@ The half-dragon adds 3 to its AC against one melee attack that would hit it. To 
     <save>Dex +6, Int +4</save>
     <skill>Acrobatics +6, Deception +3, Perception +3, Stealth +9</skill>
     <passive>13</passive>
-    <languages>Thieves' cant plus any two languages, Draconic</languages>
+    <languages>Thieves&apos; cant plus any two languages, Draconic</languages>
     <cr>8</cr>
     <resist>poison, poison</resist>
     <immune/>
@@ -811,7 +811,7 @@ Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d8) cold damag
 If the target is a Medium or smaller creature it is grappled (escape DC 11). Until this grapple ends, the toad can't bite another target.</text>
       <attack>Bite|+3|1d8</attack>
     </action>
-    <description>Arauthator has attracted a number of ice toads to Oyaviggaton, where they help to maintain the iceberg and the dragon's many treasures and trophies. The ice toads are good at this job, thanks to their exceptionally intelligent leader, Marfulb.
+    <description>Arauthator has attracted a number of ice toads to Oyaviggaton, where they help to maintain the iceberg and the dragon&apos;s many treasures and trophies. The ice toads are good at this job, thanks to their exceptionally intelligent leader, Marfulb.
 
 Feeding on seals, sea birds, and fish caught for them by the Ice Hunters, Oyaviggaton's ice toads are not automatically hostile to strangers. Once characters get inside Arauthator's lair, they might find that these creatures can be helpful to their quest. Ice toads normally speak only their own obscure language. Those in Oyaviggaton know a little Draconic and Uluik (the language of the Ice Hunters), but their accents are thick and their pronunciation atrocious. Marfulb is fluent in Draconic thanks to many hours spent conversing with Arauthator.
 
@@ -1127,7 +1127,7 @@ Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one ta
     <passive>16</passive>
     <languages>Common, Draconic</languages>
     <cr>11</cr>
-    <resist>necrotic; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>necrotic; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <immune>poison</immune>
     <vulnerable/>
     <conditionImmune>exhaustion, poisoned</conditionImmune>
@@ -1385,11 +1385,11 @@ Severin chooses a point he can see within 60 feet of him. Each creature within 5
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>Severin can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Severin regains spent legendary actions at the start of its turn.</text>
+      <text>Severin can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Severin regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name/>
-      <text>If Severin is wearing the Mask of the Dragon Queen, he can take 3 legendary actions, choosing from the options listed. Only one legendary action option can be used at a time and only at the end of another creature's turn. Severin regains spent legendary actions at the start of his turn.</text>
+      <text>If Severin is wearing the Mask of the Dragon Queen, he can take 3 legendary actions, choosing from the options listed. Only one legendary action option can be used at a time and only at the end of another creature&apos;s turn. Severin regains spent legendary actions at the start of his turn.</text>
     </legendary>
     <legendary>
       <name>Attack</name>
@@ -1472,9 +1472,9 @@ If the target is a creature, it must succeed on a DC 11 Strength saving throw or
     <save/>
     <skill>Perception +4</skill>
     <passive>14</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>4</cr>
-    <resist>bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</resist>
+    <resist>bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t adamantine</resist>
     <immune>force, necrotic, poison</immune>
     <vulnerable/>
     <conditionImmune>blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned, stunned</conditionImmune>
@@ -1584,11 +1584,11 @@ Each creature of Tiamat's choice that is within 240 feet of Tiamat and aware of 
     <legendary>
       <name>Legendary Actions (7/Turn)</name>
       <recharge>7/Turn</recharge>
-      <text>Tiamat can take 7 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Tiamat regains spent legendary actions at the start of its turn.</text>
+      <text>Tiamat can take 7 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Tiamat regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name/>
-      <text>Tiamat's legendary action options are associated with her five dragon heads (a bite and a breath weapon for each). Once Tiamat chooses a legendary action option for one of her heads, she can't choose another one associated with that head until the start of her next turn.</text>
+      <text>Tiamat&apos;s legendary action options are associated with her five dragon heads (a bite and a breath weapon for each). Once Tiamat chooses a legendary action option for one of her heads, she can&apos;t choose another one associated with that head until the start of her next turn.</text>
     </legendary>
     <legendary>
       <name>Bite</name>
@@ -1698,11 +1698,11 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) pierci
       <attack>Shortsword|+5|1d6+3</attack>
     </action>
     <action>
-      <name>Orb of Dragon's Breath (3/Day)</name>
+      <name>Orb of Dragon&apos;s Breath (3/Day)</name>
       <recharge>3/Day</recharge>
       <text>
 Ranged Spell Attack: +7 to hit, range 90 ft., one target. Hit: 27 (6d8) damage of the type to which Varram has damage resistance.</text>
-      <attack>Orb of Dragon's Breath (3/Day)|+7|6d8</attack>
+      <attack>Orb of Dragon&apos;s Breath (3/Day)|+7|6d8</attack>
     </action>
     <description>Source:	Rise of Tiamat p. 9</description>
     <environment/>

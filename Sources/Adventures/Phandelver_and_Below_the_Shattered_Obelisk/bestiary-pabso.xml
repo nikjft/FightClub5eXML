@@ -173,7 +173,7 @@ The zealot teleports, along with any equipment it is wearing or carrying, to an 
     <conditionImmune>poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>8</passive>
-    <languages>understands all languages it spoke in life but can't speak</languages>
+    <languages>understands all languages it spoke in life but can&apos;t speak</languages>
     <cr>1/4</cr>
     <description>Source:	Phandelver and Below: The Shattered Obelisk p. </description>
     <trait>
@@ -219,7 +219,7 @@ Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludge
     <conditionImmune/>
     <senses>blindsight 120 ft.</senses>
     <passive>14</passive>
-    <languages>telepathy 1 mile; understands Common, Deep Speech, and Undercommon but can't speak</languages>
+    <languages>telepathy 1 mile; understands Common, Deep Speech, and Undercommon but can&apos;t speak</languages>
     <cr>12</cr>
     <description>Source:	Phandelver and Below: The Shattered Obelisk p. 199</description>
     <trait>
@@ -354,7 +354,7 @@ When hit by an attack roll, Chishinix gains a +4 bonus to its AC against that at
     <spells>detect magic, detect thoughts, mage hand, plane shift, clairvoyance, dispel magic</spells>
   </monster>
   <monster>
-    <name>Chishinix' Head</name>
+    <name>Chishinix&apos; Head</name>
     <size>T</size>
     <type>aberration</type>
     <alignment>unaligned</alignment>
@@ -373,7 +373,7 @@ When hit by an attack roll, Chishinix gains a +4 bonus to its AC against that at
     <vulnerable/>
     <immune/>
     <conditionImmune>blinded</conditionImmune>
-    <senses>blindsight 30 ft. (can't see beyond this radius)</senses>
+    <senses>blindsight 30 ft. (can&apos;t see beyond this radius)</senses>
     <passive>11</passive>
     <languages/>
     <cr>3</cr>
@@ -489,7 +489,7 @@ The mutate lets out a moan charged with psychic energy. Each creature within 60 
     <conditionImmune>exhaustion, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>9</passive>
-    <languages>understands Dwarvish but can't speak</languages>
+    <languages>understands Dwarvish but can&apos;t speak</languages>
     <cr>1/2</cr>
     <description>Source:	Phandelver and Below: The Shattered Obelisk p. 123</description>
     <trait>
@@ -529,7 +529,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashi
     <vulnerable/>
     <immune/>
     <conditionImmune>blinded</conditionImmune>
-    <senses>blindsight 60 ft. (can't see beyond this radius)</senses>
+    <senses>blindsight 60 ft. (can&apos;t see beyond this radius)</senses>
     <passive>13</passive>
     <languages/>
     <cr>10</cr>
@@ -592,7 +592,7 @@ Immediately after being hit by an attack, the cluster moves up to its speed towa
     <vulnerable/>
     <immune/>
     <conditionImmune>blinded</conditionImmune>
-    <senses>blindsight 30 ft. (can't see beyond this radius)</senses>
+    <senses>blindsight 30 ft. (can&apos;t see beyond this radius)</senses>
     <passive>11</passive>
     <languages/>
     <cr>3</cr>
@@ -645,7 +645,7 @@ The gemmule targets one creature within 5 feet of itself and forces the target t
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, poisoned, unconscious</conditionImmune>
     <senses>darkvision 120 ft.</senses>
     <passive>12</passive>
-    <languages>understands the languages it knew in life but can't speak</languages>
+    <languages>understands the languages it knew in life but can&apos;t speak</languages>
     <cr>5</cr>
     <description>Source:	Phandelver and Below: The Shattered Obelisk p. 204</description>
     <trait>
@@ -684,7 +684,7 @@ Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 60 ft., one targe
     <vulnerable/>
     <immune>fire, poison</immune>
     <conditionImmune>blinded, charmed, exhaustion, frightened, paralyzed, petrified, poisoned, unconscious</conditionImmune>
-    <senses>blindsight 60 ft. (can't see beyond this radius)</senses>
+    <senses>blindsight 60 ft. (can&apos;t see beyond this radius)</senses>
     <passive>11</passive>
     <languages/>
     <cr>5</cr>
@@ -736,9 +736,9 @@ The auger releases an intense burst of heat in a 30-foot-radius sphere centered 
     <vulnerable/>
     <immune/>
     <conditionImmune>blinded, prone</conditionImmune>
-    <senses>blindsight 60 ft. (can't see beyond this radius)</senses>
+    <senses>blindsight 60 ft. (can&apos;t see beyond this radius)</senses>
     <passive>11</passive>
-    <languages>understands all but can't speak</languages>
+    <languages>understands all but can&apos;t speak</languages>
     <cr>7</cr>
     <description>Source:	Phandelver and Below: The Shattered Obelisk p. 207</description>
     <trait>
@@ -1297,7 +1297,7 @@ When hit by an attack roll, Hashutu gains a +4 bonus to its AC against that atta
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, poisoned, unconscious</conditionImmune>
     <senses/>
     <passive>12</passive>
-    <languages>telepathy 120 ft., understands the languages it knew in life but can't speak</languages>
+    <languages>telepathy 120 ft., understands the languages it knew in life but can&apos;t speak</languages>
     <cr>7</cr>
     <description>Source:	Phandelver and Below: The Shattered Obelisk p. </description>
     <trait>
@@ -1534,7 +1534,7 @@ Glasstaff magically teleports, along with any equipment he is wearing or carryin
     <conditionImmune/>
     <senses>blindsight 120 ft.</senses>
     <passive>14</passive>
-    <languages>telepathy 1 mile; understands Common, Deep Speech, and Undercommon but can't speak</languages>
+    <languages>telepathy 1 mile; understands Common, Deep Speech, and Undercommon but can&apos;t speak</languages>
     <cr>11</cr>
     <description>Source:	Phandelver and Below: The Shattered Obelisk p. 159</description>
     <trait>
@@ -1649,7 +1649,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludge
     <vulnerable/>
     <immune>psychic</immune>
     <conditionImmune>blinded, charmed, frightened, prone</conditionImmune>
-    <senses>blindsight 120 ft. (can't see beyond this radius)</senses>
+    <senses>blindsight 120 ft. (can&apos;t see beyond this radius)</senses>
     <passive>13</passive>
     <languages>Deep Speech, telepathy 120 ft.</languages>
     <cr>8</cr>
@@ -1707,7 +1707,7 @@ The intellect snare targets one creature it is grappling. The target must make a
     <conditionImmune>exhaustion, grappled, paralyzed, poisoned, restrained, prone, unconscious</conditionImmune>
     <senses>blindsight 30 ft.</senses>
     <passive>10</passive>
-    <languages>understands Aquan but doesn't speak</languages>
+    <languages>understands Aquan but doesn&apos;t speak</languages>
     <cr>3</cr>
     <description>Source:	Phandelver and Below: The Shattered Obelisk p. </description>
     <trait>
@@ -2081,7 +2081,7 @@ The mind flayer casts one of the following spells, requiring no spell components
     <cha>15</cha>
     <save/>
     <skill/>
-    <resist>acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>necrotic, poison</immune>
     <conditionImmune>charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained</conditionImmune>
@@ -2655,7 +2655,7 @@ The mutate targets one creature it is grappling, slamming the creature against i
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, poisoned, unconscious</conditionImmune>
     <senses/>
     <passive>12</passive>
-    <languages>telepathy 120 ft., understands the languages it knew in life but can't speak</languages>
+    <languages>telepathy 120 ft., understands the languages it knew in life but can&apos;t speak</languages>
     <cr>7</cr>
     <description>Source:	Phandelver and Below: The Shattered Obelisk p. 204</description>
     <trait>

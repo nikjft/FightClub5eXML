@@ -16,7 +16,7 @@ Source:	Unearthed Arcana: Cleric Druid Wizard p. 4</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Onomancy (UA): True Names</name>
-        <text>Onomancy, or naming magic, is a method of spellcasting that uses a creature's true name to enhance a spell's effects. A true name is the name by which a self-aware creature identifies itself. This name might be the name a person was given at birth, or one a person chose or earned later in life. Whatever a name's origin, the simplest way for you to know your true name is to think truthfully about yourself and then think, "My name is..." Your true name is how you finish that sentence.
+        <text>Onomancy, or naming magic, is a method of spellcasting that uses a creature's true name to enhance a spell&apos;s effects. A true name is the name by which a self-aware creature identifies itself. This name might be the name a person was given at birth, or one a person chose or earned later in life. Whatever a name&apos;s origin, the simplest way for you to know your true name is to think truthfully about yourself and then think, "My name is..." Your true name is how you finish that sentence.
 
 You can try to hide your true name by using a pseudonym, but you must be wary not to inhabit that false name too deeply. If a false name comes to be the best expression of who you are, it becomes your true name. Changing one's true name is never a quick choice; it's something that happens over time as a name becomes the creature's truth.
 
@@ -28,7 +28,7 @@ Source:	Unearthed Arcana: Cleric Druid Wizard p. 4</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Onomancy (UA): Bonus Proficiencies</name>
-        <text>When you adopt this tradition at 2nd level, you learn one language of your choice and gain proficiency with calligrapher's supplies.
+        <text>When you adopt this tradition at 2nd level, you learn one language of your choice and gain proficiency with calligrapher&apos;s supplies.
 
 Source:	Unearthed Arcana: Cleric Druid Wizard p. 4</text>
       </feature>
@@ -36,7 +36,7 @@ Source:	Unearthed Arcana: Cleric Druid Wizard p. 4</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Onomancy (UA): Extract Name</name>
-        <text>Starting at 2nd level, you can magically compel a creature to divulge its true name. As a bonus action, you target one creature you can see within 60 feet of you. The target must make a Wisdom saving throw against your spell save DC. On a successful save, you discern that this magic failed, and you can't use this feature on the target again. On a failed save, the target is charmed by you until the end of your next turn, and you mentally learn the charmed target's name or the fact that the target lacks a name.
+        <text>Starting at 2nd level, you can magically compel a creature to divulge its true name. As a bonus action, you target one creature you can see within 60 feet of you. The target must make a Wisdom saving throw against your spell save DC. On a successful save, you discern that this magic failed, and you can&apos;t use this feature on the target again. On a failed save, the target is charmed by you until the end of your next turn, and you mentally learn the charmed target&apos;s name or the fact that the target lacks a name.
 
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
 
@@ -46,7 +46,7 @@ Source:	Unearthed Arcana: Cleric Druid Wizard p. 4</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Onomancy (UA): Fateful Naming</name>
-        <text>Starting at 2nd level, you can bend magic to assist or hinder creatures through the power of their true names, and even use those names as an anchor to affect others around them. The bane and bless spells are wizard spells for you, and you add them to your spellbook. You always have them prepared, yet they don't count against the number of spells you can prepare.
+        <text>Starting at 2nd level, you can bend magic to assist or hinder creatures through the power of their true names, and even use those names as an anchor to affect others around them. The bane and bless spells are wizard spells for you, and you add them to your spellbook. You always have them prepared, yet they don&apos;t count against the number of spells you can prepare.
 
 You can cast either spell without expending a spell slot if you speak the true name of one target of the spell as part of casting it. You can cast the spells in this way a number of times equal to your Intelligence modifier (a minimum of once), and you regain all expended uses when you finish a long rest.
 
@@ -56,7 +56,7 @@ Source:	Unearthed Arcana: Cleric Druid Wizard p. 4</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Onomancy (UA): Resonant Utterance</name>
-        <text>Starting at 6th level, you learn words of power called Resonants, which allow you to tailor your spells through the use of a target's true name.
+        <text>Starting at 6th level, you learn words of power called Resonants, which allow you to tailor your spells through the use of a target&apos;s true name.
 
 Resonants Known:
 When you gain this feature, you learn two Resonants of your choice, which are detailed in the "Resonant" spell list. Each time you gain a level in this class, you can replace one resonant you know with a different one.
@@ -130,7 +130,7 @@ Source:	Unearthed Arcana: Cleric Druid Wizard p. 4</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Onomancy (UA): Resonant: Sympathy</name>
-        <text>If the named creature is within range of the spell, you can target the creature with the spell even if you can't see the creature or it has total cover against the spell.
+        <text>If the named creature is within range of the spell, you can target the creature with the spell even if you can&apos;t see the creature or it has total cover against the spell.
 
 Source:	Unearthed Arcana: Cleric Druid Wizard p. 4</text>
       </feature>
@@ -178,7 +178,7 @@ Source:	Unearthed Arcana: Cleric Druid Wizard p. 4</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Onomancy (UA): Resonant: Sympathy</name>
-        <text>If the named creature is within range of the spell, you can target the creature with the spell even if you can't see the creature or it has total cover against the spell.
+        <text>If the named creature is within range of the spell, you can target the creature with the spell even if you can&apos;t see the creature or it has total cover against the spell.
 
 Source:	Unearthed Arcana: Cleric Druid Wizard p. 4</text>
       </feature>

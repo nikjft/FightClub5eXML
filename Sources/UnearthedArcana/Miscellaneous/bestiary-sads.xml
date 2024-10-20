@@ -80,7 +80,7 @@ The dragon exhales a pulse of high-pitched, nearly inaudible sound in a 60-foot-
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.</text>
+      <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The dragon regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Tail Attack</name>

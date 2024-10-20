@@ -25,7 +25,7 @@ Source:	Unearthed Arcana: 2020 Subclasses Pt2 p. 4</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Clockwork Soul (UA): Clockwork Magic</name>
-        <text>You learn additional spells when you reach certain levels in this class, as shown on the Clockwork Spells table. Each spell counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know. These spells can't be replaced when you gain a level in this class.
+        <text>You learn additional spells when you reach certain levels in this class, as shown on the Clockwork Spells table. Each spell counts as a sorcerer spell for you, but it doesn&apos;t count against the number of sorcerer spells you know. These spells can&apos;t be replaced when you gain a level in this class.
 
 Clockwork Spells:
 Sorcerer Level | Spells
@@ -66,7 +66,7 @@ Source:	Unearthed Arcana: 2020 Subclasses Pt2 p. 4</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Clockwork Soul (UA): Trance of Order</name>
-        <text>You gain the ability to enter a state of clockwork consciousness as a bonus action. For the next minute, attack rolls against you can't benefit from advantage, and whenever you make an attack roll, an ability check, or a saving throw, you can treat a d20 roll of 9 or lower as a 10.
+        <text>You gain the ability to enter a state of clockwork consciousness as a bonus action. For the next minute, attack rolls against you can&apos;t benefit from advantage, and whenever you make an attack roll, an ability check, or a saving throw, you can treat a d20 roll of 9 or lower as a 10.
 
 Once you use this action, you can't use it again until you finish a long rest or until you expend 5 sorcery points to use it again.
 

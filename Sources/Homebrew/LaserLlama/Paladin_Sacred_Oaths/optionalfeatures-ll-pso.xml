@@ -12,7 +12,7 @@ Source:	LaserLlama: Paladin Sacred Oaths v2.5.1 p. 14 (Homebrew)</text>
       </feature-->
       <feature optional="YES">
         <name>Fighting Style: Great Weapon Fighting (HB)</name>
-        <text>Whenever you make an attack with a heavy melee weapon as part of your Attack action, you can treat a total roll of 5 or lower on the weapon's damage dice as a 6. You must be wielding the weapon with two hands.
+        <text>Whenever you make an attack with a heavy melee weapon as part of your Attack action, you can treat a total roll of 5 or lower on the weapon&apos;s damage dice as a 6. You must be wielding the weapon with two hands.
 
 Source:	LaserLlama: Paladin Sacred Oaths v2.5.1 p. 14 (Homebrew)</text>
         <special>fighting style great weapon fighting</special>
@@ -26,7 +26,7 @@ Source:	LaserLlama: Paladin Sacred Oaths v2.5.1 p. 14 (Homebrew)</text>
       </feature-->
       <feature optional="YES">
         <name>Fighting Style: Protector (HB)</name>
-        <text>When a creature you can see hits you, or a target within 5 feet, with a melee attack, you can use a reaction to add your proficiency bonus to the target's Armor Class against that attack. You must be wielding a shield or a melee weapon.
+        <text>When a creature you can see hits you, or a target within 5 feet, with a melee attack, you can use a reaction to add your proficiency bonus to the target&apos;s Armor Class against that attack. You must be wielding a shield or a melee weapon.
 
 Source:	LaserLlama: Paladin Sacred Oaths v2.5.1 p. 14 (Homebrew)</text>
         <special>fighting style protector</special>
@@ -62,7 +62,7 @@ Source:	LaserLlama: Paladin Sacred Oaths v2.5.1 p. 14 (Homebrew)</text>
   <feat>
     <name>Fighting Style: Great Weapon Fighting (HB)</name>
     <prerequisite>Fighting Style Feature</prerequisite>
-    <text>Whenever you make an attack with a heavy melee weapon as part of your Attack action, you can treat a total roll of 5 or lower on the weapon's damage dice as a 6. You must be wielding the weapon with two hands.
+    <text>Whenever you make an attack with a heavy melee weapon as part of your Attack action, you can treat a total roll of 5 or lower on the weapon&apos;s damage dice as a 6. You must be wielding the weapon with two hands.
 
 Source:	LaserLlama: Paladin Sacred Oaths v2.5.1 p. 14 (Homebrew)</text>
     <special>fighting style great weapon fighting</special>
@@ -79,7 +79,7 @@ Source:	LaserLlama: Paladin Sacred Oaths v2.5.1 p. 14 (Homebrew),
   <feat>
     <name>Fighting Style: Protector (HB)</name>
     <prerequisite>Fighting Style Feature</prerequisite>
-    <text>When a creature you can see hits you, or a target within 5 feet, with a melee attack, you can use a reaction to add your proficiency bonus to the target's Armor Class against that attack. You must be wielding a shield or a melee weapon.
+    <text>When a creature you can see hits you, or a target within 5 feet, with a melee attack, you can use a reaction to add your proficiency bonus to the target&apos;s Armor Class against that attack. You must be wielding a shield or a melee weapon.
 
 Source:	LaserLlama: Paladin Sacred Oaths v2.5.1 p. 14 (Homebrew)</text>
     <special>fighting style protector</special>
@@ -127,7 +127,7 @@ Source:	LaserLlama: Paladin Sacred Oaths v2.5.1 p. 14 (Homebrew)</text>
     <range/>
     <components/>
     <classes>Maneuver Options</classes>
-    <text>When a creature you can see hits you, or a target within 5 feet, with a melee attack, you can use a reaction to add your proficiency bonus to the target's Armor Class against that attack. You must be wielding a shield or a melee weapon.
+    <text>When a creature you can see hits you, or a target within 5 feet, with a melee attack, you can use a reaction to add your proficiency bonus to the target&apos;s Armor Class against that attack. You must be wielding a shield or a melee weapon.
 
 Source:	LaserLlama: Paladin Sacred Oaths v2.5.1 p. 14</text>
   </spell> -->

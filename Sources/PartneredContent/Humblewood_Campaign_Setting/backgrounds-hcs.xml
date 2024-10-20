@@ -6,7 +6,7 @@
     <tools>Disguise kit, Gaming Set|Musical Instruments</tools>
     <trait>
       <name>Description</name>
-      <text>You were once a member of the Bandit Coalition, moving from place to place, ambushing and robbing passing merchants. Something made you decide that path was no longer worth pursuing, and you left that life behind. But quitting the Bandit Coalition isn't so easy.
+      <text>You were once a member of the Bandit Coalition, moving from place to place, ambushing and robbing passing merchants. Something made you decide that path was no longer worth pursuing, and you left that life behind. But quitting the Bandit Coalition isn&apos;t so easy.
 
 	• Skill Proficiencies: Deception, Survival
 	• Tool Proficiencies: Disguise kit, one type of Gaming Set or Musical Instruments
@@ -85,7 +85,7 @@ d6 | Flaw
   <background>
     <name>Grounded</name>
     <proficiency>Athletics, Insight</proficiency>
-    <tools>Artisan's Tools</tools>
+    <tools>Artisan&apos;s Tools</tools>
     <languages>Any</languages>
     <trait>
       <name>Description</name>

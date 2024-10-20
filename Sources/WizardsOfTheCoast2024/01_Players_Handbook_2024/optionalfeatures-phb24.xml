@@ -18,7 +18,7 @@ Source:	Player's Handbook 2024 p. 209</text>
   <feat>
     <name>Fighting Style: Defense</name>
     <prerequisite>Fighting Style Feature</prerequisite>
-    <text>While you're wearing Light, Medium, or Heavy armor, you gain a +1 bonus to Armor Class.
+    <text>While you&apos;re wearing Light, Medium, or Heavy armor, you gain a +1 bonus to Armor Class.
 
 Source:	Player's Handbook 2024 p. 209</text>
     <special>fighting style defense</special>
@@ -26,7 +26,7 @@ Source:	Player's Handbook 2024 p. 209</text>
   <feat>
     <name>Fighting Style: Dueling</name>
     <prerequisite>Fighting Style Feature</prerequisite>
-    <text>When you're holding a Melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+    <text>When you&apos;re holding a Melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
 
 Source:	Player's Handbook 2024 p. 209</text>
     <special>fighting style dueling</special>
@@ -48,7 +48,7 @@ Source:	Player's Handbook 2024 p. 209</text>
   <feat>
     <name>Fighting Style: Protection</name>
     <prerequisite>Fighting Style Feature</prerequisite>
-    <text>When a creature you can see attacks a target other than you that is within 5 feet of you, you can take a Reaction to interpose your Shield if you're holding one. You impose Disadvantage on the triggering attack roll and all other attack rolls against the target until the start of your next turn if you remain within 5 feet of the target.
+    <text>When a creature you can see attacks a target other than you that is within 5 feet of you, you can take a Reaction to interpose your Shield if you&apos;re holding one. You impose Disadvantage on the triggering attack roll and all other attack rolls against the target until the start of your next turn if you remain within 5 feet of the target.
 
 Source:	Player's Handbook 2024 p. 209</text>
   </feat>
@@ -62,14 +62,14 @@ Source:	Player's Handbook 2024 p. 210</text>
   <feat>
     <name>Fighting Style: Two-Weapon Fighting</name>
     <prerequisite>Fighting Style Feature</prerequisite>
-    <text>When you make an extra attack as a result of using a weapon that has the Light property, you can add your ability modifier to the damage of that attack if you aren't already adding it to the damage.
+    <text>When you make an extra attack as a result of using a weapon that has the Light property, you can add your ability modifier to the damage of that attack if you aren&apos;t already adding it to the damage.
 
 Source:	Player's Handbook 2024 p. 210</text>
   </feat>
   <feat>
     <name>Fighting Style: Unarmed Fighting</name>
     <prerequisite>Fighting Style Feature</prerequisite>
-    <text>When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d6 plus your Strength modifier instead of the normal damage of an Unarmed Strike. If you aren't holding any weapons or a Shield when you make the attack roll, the d6 becomes a d8.
+    <text>When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d6 plus your Strength modifier instead of the normal damage of an Unarmed Strike. If you aren&apos;t holding any weapons or a Shield when you make the attack roll, the d6 becomes a d8.
 
 At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one creature Grappled by you.
 
@@ -320,7 +320,7 @@ Source:	Player's Handbook 2024 p. 94</text>
     <components/>
     <duration/>
     <classes>Maneuver Options</classes>
-    <text>When you're within 5 feet of a creature on your turn, you can expend one Superiority Die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and doesn't have the Incapacitated condition. This movement doesn't provoke Opportunity Attacks.
+    <text>When you're within 5 feet of a creature on your turn, you can expend one Superiority Die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and doesn&apos;t have the Incapacitated condition. This movement doesn&apos;t provoke Opportunity Attacks.
 
 Roll the Superiority Die:
 Until the start of your next turn, you or the other creature ,(your choice) gains a bonus to AC equal to the number rolled.
@@ -328,14 +328,14 @@ Until the start of your next turn, you or the other creature ,(your choice) gain
 Source:	Player's Handbook 2024 p. 94</text>
   </spell>
   <spell>
-    <name>Maneuver: Commander's Strike</name>
+    <name>Maneuver: Commander&apos;s Strike</name>
     <level>0</level>
     <time/>
     <range/>
     <components/>
     <duration/>
     <classes>Maneuver Options</classes>
-    <text>When you take the Attack action on your turn, you can replace one of your attacks to direct one of your companions to s trike. When you do so, choose a willing creature who can see or hear you and expend one Superiority Die. That creature can immediately use its Reaction to make one attack with a weapon or an Unarmed Strike, adding the Superiority Die to the attack's damage roll on a hit.
+    <text>When you take the Attack action on your turn, you can replace one of your attacks to direct one of your companions to s trike. When you do so, choose a willing creature who can see or hear you and expend one Superiority Die. That creature can immediately use its Reaction to make one attack with a weapon or an Unarmed Strike, adding the Superiority Die to the attack&apos;s damage roll on a hit.
 
 Source:	Player's Handbook 2024 p. 94</text>
   </spell>
@@ -359,7 +359,7 @@ Source:	Player's Handbook 2024 p. 95</text>
     <components/>
     <duration/>
     <classes>Maneuver Options</classes>
-    <text>When you hit a creature with an attack roll, you can expend one Superiority Die to attempt to disarm t he target. Add the Superiority Die roll to the attack's damage roll. The target must succeed on a Strength saving throw or drop one object of your choice that it's holding, with the object landing in its space.
+    <text>When you hit a creature with an attack roll, you can expend one Superiority Die to attempt to disarm t he target. Add the Superiority Die roll to the attack&apos;s damage roll. The target must succeed on a Strength saving throw or drop one object of your choice that it&apos;s holding, with the object landing in its space.
 
 Source:	Player's Handbook 2024 p. 95</text>
   </spell>
@@ -371,7 +371,7 @@ Source:	Player's Handbook 2024 p. 95</text>
     <components/>
     <duration/>
     <classes>Maneuver Options</classes>
-    <text>When you hit a creature with an attack roll, you can expend one Superiority Die to distract the target. Add the Superiority Die roll to the attack's damage roll. The next attack roll against the target by an attacker other than you has Advantage if the attack is made before the start of your next turn.
+    <text>When you hit a creature with an attack roll, you can expend one Superiority Die to distract the target. Add the Superiority Die roll to the attack&apos;s damage roll. The next attack roll against the target by an attacker other than you has Advantage if the attack is made before the start of your next turn.
 
 Source:	Player's Handbook 2024 p. 95</text>
   </spell>
@@ -395,7 +395,7 @@ Source:	Player's Handbook 2024 p. 95</text>
     <components/>
     <duration/>
     <classes>Maneuver Options</classes>
-    <text>As a Bonus Action, you can expend one Superiority Die to feint, choosing one creature within 5 feet of yourself as your target. You have Advantage on your next attack roll against that target this turn. If that attack hits, add the Superiority Die to the attack's damage roll.
+    <text>As a Bonus Action, you can expend one Superiority Die to feint, choosing one creature within 5 feet of yourself as your target. You have Advantage on your next attack roll against that target this turn. If that attack hits, add the Superiority Die to the attack&apos;s damage roll.
 
 Source:	Player's Handbook 2024 p. 95</text>
   </spell>
@@ -407,7 +407,7 @@ Source:	Player's Handbook 2024 p. 95</text>
     <components/>
     <duration/>
     <classes>Maneuver Options</classes>
-    <text>When you hit a creature with an attack roll, you can expend one Superiority Die to attempt to goad the target into attacking you. Add the Superiority Die to the attack's damage roll. The target must succeed on a Wisdom saving throw or have Disadvantage on attack rolls against targets other than you until the end of your next turn.
+    <text>When you hit a creature with an attack roll, you can expend one Superiority Die to attempt to goad the target into attacking you. Add the Superiority Die to the attack&apos;s damage roll. The target must succeed on a Wisdom saving throw or have Disadvantage on attack rolls against targets other than you until the end of your next turn.
 
 Source:	Player's Handbook 2024 p. 95</text>
   </spell>
@@ -419,7 +419,7 @@ Source:	Player's Handbook 2024 p. 95</text>
     <components/>
     <duration/>
     <classes>Maneuver Options</classes>
-    <text>As a Bonus Action, you can expend one Superiority Die and take the Dash action. If you move at least 5 feet in a straight line immediately before hitting with a melee attack as part of the Attack action on this turn, you can add the Superiority Die to the attack's damage roll.
+    <text>As a Bonus Action, you can expend one Superiority Die and take the Dash action. If you move at least 5 feet in a straight line immediately before hitting with a melee attack as part of the Attack action on this turn, you can add the Superiority Die to the attack&apos;s damage roll.
 
 Source:	Player's Handbook 2024 p. 95</text>
   </spell>
@@ -431,7 +431,7 @@ Source:	Player's Handbook 2024 p. 95</text>
     <components/>
     <duration/>
     <classes>Maneuver Options</classes>
-    <text>When you hit a creature with an attack roll, you can expend one Superiority Die to maneuver one of your comrades into another position. Add the Superiority Die roll to the attack's damage roll, and choose a willing creature who can see or hear you. That creature can use its Reaction to move up to half its Speed without provoking an Opportunity Attack from the target of your attack.
+    <text>When you hit a creature with an attack roll, you can expend one Superiority Die to maneuver one of your comrades into another position. Add the Superiority Die roll to the attack&apos;s damage roll, and choose a willing creature who can see or hear you. That creature can use its Reaction to move up to half its Speed without provoking an Opportunity Attack from the target of your attack.
 
 Source:	Player's Handbook 2024 p. 95</text>
   </spell>
@@ -443,7 +443,7 @@ Source:	Player's Handbook 2024 p. 95</text>
     <components/>
     <duration/>
     <classes>Maneuver Options</classes>
-    <text>When you hit a creature with an attack roll, you can expend one Superiority Die to attempt to frighten the target. Add the Superiority Die to the attack's damage roll. The target must succeed on a Wisdom saving throw or have the Frightened condition until the end of your next turn.
+    <text>When you hit a creature with an attack roll, you can expend one Superiority Die to attempt to frighten the target. Add the Superiority Die to the attack&apos;s damage roll. The target must succeed on a Wisdom saving throw or have the Frightened condition until the end of your next turn.
 
 Source:	Player's Handbook 2024 p. 95</text>
   </spell>
@@ -479,7 +479,7 @@ Source:	Player's Handbook 2024 p. 95</text>
     <components/>
     <duration/>
     <classes>Maneuver Options</classes>
-    <text>When you hit a creature with an attack roll using a weapon or an Unarmed Strike. you can expend one Superiority Die to attempt to drive the target back. Add the Superiority Die to the attack's damage roll. If the target is Large or smaller, it must succeed on a Strength saving throw or be pushed up to 15 feet directly away from you.
+    <text>When you hit a creature with an attack roll using a weapon or an Unarmed Strike. you can expend one Superiority Die to attempt to drive the target back. Add the Superiority Die to the attack&apos;s damage roll. If the target is Large or smaller, it must succeed on a Strength saving throw or be pushed up to 15 feet directly away from you.
 
 Source:	Player's Handbook 2024 p. 95</text>
   </spell>
@@ -503,7 +503,7 @@ Source:	Player's Handbook 2024 p. 95</text>
     <components/>
     <duration/>
     <classes>Maneuver Options</classes>
-    <text>When a creature misses you with a melee attack roll, you can take a Reaction and expend one Superiority Die to make a melee attack roll with a weapon or an Unarmed Strike against the creature. If you hit, add the Superiority Die to the attack's damage.
+    <text>When a creature misses you with a melee attack roll, you can take a Reaction and expend one Superiority Die to make a melee attack roll with a weapon or an Unarmed Strike against the creature. If you hit, add the Superiority Die to the attack&apos;s damage.
 
 Source:	Player's Handbook 2024 p. 95</text>
   </spell>
@@ -539,7 +539,7 @@ Source:	Player's Handbook 2024 p. 95</text>
     <components/>
     <duration/>
     <classes>Maneuver Options</classes>
-    <text>When you hit a creature with an attack roll using a weapon or an Unarmed Strike, you can expend one Superiority Die and add the die to the attack's damage roll. If the target is Large or smaller, it must succeed on a Strength saving throw or have the Prone condition.
+    <text>When you hit a creature with an attack roll using a weapon or an Unarmed Strike, you can expend one Superiority Die and add the die to the attack&apos;s damage roll. If the target is Large or smaller, it must succeed on a Strength saving throw or have the Prone condition.
 
 Source:	Player's Handbook 2024 p. 95</text>
   </spell>
@@ -733,7 +733,7 @@ You can cast Levitate on yourself without expending a spell slot.
 Source:	Player's Handbook 2024 p. 155</text>
   </spell>
   <spell>
-    <name>Invocation: Devil's Sight</name>
+    <name>Invocation: Devil&apos;s Sight</name>
     <level>0</level>
     <time/>
     <range/>
@@ -1007,7 +1007,7 @@ Source:	Player's Handbook 2024 p. 156</text>
     <components/>
     <duration/>
     <classes>Eldritch Invocations</classes>
-    <text>As a Bonus Action, you can conjure a pact weapon in your hand- a Simple or Martial Melee weapon of your choice with which you bond-or create a bond with a magic weapon you touch; you can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until t!he bond ends, you have proficiency with the weapon, and you can use it as a Spellcasting Focus.
+    <text>As a Bonus Action, you can conjure a pact weapon in your hand- a Simple or Martial Melee weapon of your choice with which you bond-or create a bond with a magic weapon you touch; you can&apos;t bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until t!he bond ends, you have proficiency with the weapon, and you can use it as a Spellcasting Focus.
 
 Whenever you attack with the bonded weapon, you can use your Charisma modifier for the attack and damage rolls instead of using Strength or Dexterity; and you can cause the weapon to deal Necrotic, Psychic, or Radiant damage or its normal damage type.
 

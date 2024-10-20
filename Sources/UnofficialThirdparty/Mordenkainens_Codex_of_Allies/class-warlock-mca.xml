@@ -4,14 +4,14 @@
     <name>Warlock</name>
     <autolevel level="1">
       <feature optional="YES">
-        <name>Otherworldy Patron: Death's Mistress (HB)</name>
-        <text>Death's Mistress was once a mortal sorceress, who swayed the lord of the underworld after her demise. She now watches over the mortal realm anticipating each creature's death and ensuring that it meets its end at the proscribed time and place. As queen of the Shadowfell, she rules over a decayed, dark reflection of the world.
+        <name>Otherworldy Patron: Death&apos;s Mistress (HB)</name>
+        <text>Death&apos;s Mistress was once a mortal sorceress, who swayed the lord of the underworld after her demise. She now watches over the mortal realm anticipating each creature&apos;s death and ensuring that it meets its end at the proscribed time and place. As queen of the Shadowfell, she rules over a decayed, dark reflection of the world.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 30 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Death's Mistress (HB): Pact of Death's Mistress Spells</name>
-        <text>Death's Mistress lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+        <name>Death&apos;s Mistress (HB): Pact of Death&apos;s Mistress Spells</name>
+        <text>Death&apos;s Mistress lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
 Death's Mistress Extended Spells:
 Spell Level | Spells
@@ -24,7 +24,7 @@ Spell Level | Spells
 Source:	Mordenkainen's Codex of Allies v1.3 p. 30 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Death's Mistress (HB): Murder of Ravens</name>
+        <name>Death&apos;s Mistress (HB): Murder of Ravens</name>
         <text>Starting when you devote yourself to this patron at 1st level, you learn to summon ravens from the Shadowfell to deliver the souls of the dead.
 
 Whenever a humanoid within 30 feet of you is reduced to 0 hit points and dies, you can use your reaction to summon a raven spirit in the square the creature occupied prior to its death. The spirit assumes the form and game statistics of a raven, and it always obeys your commands, which you can give telepathically while it is within 100 feet of you. A raven vanishes when it dies, if you die, or if the two of you are separated by more than 5 miles.
@@ -42,15 +42,15 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 30 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Death's Mistress (HB): Unceasing Servitude</name>
-        <text>At 6th level, your patron eases your mortal affairs by taking your soul to the Shadowfell. You no longer need food or water. You also don't require sleep and can rest while remaining alert and performing light tasks. You must spend 8 hours resting in this way to gain the benefits of a long rest. In addition, magic can't put you to sleep.
+        <name>Death&apos;s Mistress (HB): Unceasing Servitude</name>
+        <text>At 6th level, your patron eases your mortal affairs by taking your soul to the Shadowfell. You no longer need food or water. You also don&apos;t require sleep and can rest while remaining alert and performing light tasks. You must spend 8 hours resting in this way to gain the benefits of a long rest. In addition, magic can&apos;t put you to sleep.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 30 (Homebrew)</text>
       </feature>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Death's Mistress (HB): Shield of the Shadowfell</name>
+        <name>Death&apos;s Mistress (HB): Shield of the Shadowfell</name>
         <text>At 10th level, the Mistress grants you a protective blessing. You gain advantage on death saving throws, immunity to the frightened condition, and resistance to necrotic damage.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 30 (Homebrew)</text>
@@ -58,8 +58,8 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 30 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Death's Mistress (HB): Right Hand of Death</name>
-        <text>Starting at 14th level, your patron bestows upon you the ability to channel the Shadowfell's power to slay your enemies and bind their spirits to you. You can cast finger of death. After you cast the spell with this feature, you can't do so again until you finish a long rest.
+        <name>Death&apos;s Mistress (HB): Right Hand of Death</name>
+        <text>Starting at 14th level, your patron bestows upon you the ability to channel the Shadowfell&apos;s power to slay your enemies and bind their spirits to you. You can cast finger of death. After you cast the spell with this feature, you can&apos;t do so again until you finish a long rest.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 30 (Homebrew)</text>
       </feature>
@@ -174,7 +174,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 32 (Homebrew)</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Lord of Slime (HB): Acid Blood</name>
-        <text>Starting at 6th level, your patron's corrosive slime runs through your veins. You have resistance to acid damage.
+        <text>Starting at 6th level, your patron&apos;s corrosive slime runs through your veins. You have resistance to acid damage.
 
 In addition, as a reaction when you take piercing or slashing damage, you cause acid to spray from your wound; each creature within 5 feet of you takes acid damage equal to half your warlock level.
 
@@ -184,7 +184,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 32 (Homebrew)</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Lord of Slime (HB): Gelatinous Form</name>
-        <text>Starting at 10th level, your patron grants you the ability to enter a liquid state while moving. When you move on your turn, you take only half damage from opportunity attacks, and you can move through any enemy's space but can't willingly end your move there.
+        <text>Starting at 10th level, your patron grants you the ability to enter a liquid state while moving. When you move on your turn, you take only half damage from opportunity attacks, and you can move through any enemy&apos;s space but can&apos;t willingly end your move there.
 
 On your turn, you can move through any space that is at least 3 inches in diameter and do so without squeezing. When you stop moving, the regular squeezing rules apply if you're in a space one size smaller than you. You can't willingly stop in a space smaller than that, and if you're forced to do so, you immediately flow to the nearest space that can fit you, back along the path of your movement.
 
@@ -193,7 +193,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 32 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Lord of Slime (HB): Slime Lord's Lair</name>
+        <name>Lord of Slime (HB): Slime Lord&apos;s Lair</name>
         <text>Starting at 14th level, as an action you can cover a 20 foot square on the ground centered within 60 feet of you with ooze. The ooze lasts for 1 minute and has the following effects.
 
 The covered area is difficult terrain. When the ooze appears, each creature standing in its area must succeed on a Dexterity saving throw or its movement speed is reduced to 0 and it takes 3d6 acid damage. A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw or take 3d6 acid damage and its movement speed is reduced to 0.
@@ -208,7 +208,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 32 (Homebrew)</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Otherworldy Patron: The Seeker (HB)</name>
-        <text>Your patron is an inscrutable being who travels the Astral Plane in search of knowledge and secrets. In return for your patron's gifts, you wander the world seeking lore that you can share with the Seeker. The Seeker's power allows you to create small pockets in the Astral Plane to grant you sanctuary, or trap your foes.
+        <text>Your patron is an inscrutable being who travels the Astral Plane in search of knowledge and secrets. In return for your patron&apos;s gifts, you wander the world seeking lore that you can share with the Seeker. The Seeker&apos;s power allows you to create small pockets in the Astral Plane to grant you sanctuary, or trap your foes.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 33 (Homebrew)</text>
       </feature>
@@ -228,7 +228,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 33 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>The Seeker (HB): Astral Conjuration</name>
-        <text>Starting at 1st level, you can invoke the Seeker's power to mold astral energy into objects on your plane.
+        <text>Starting at 1st level, you can invoke the Seeker&apos;s power to mold astral energy into objects on your plane.
 
 As an action, you can concentrate (like a spell) to conjure astral energy to create a solid, translucent staircase or bridge that lasts 1 minute or until your concentration ends.
 
@@ -240,7 +240,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 33 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>The Seeker (HB): Shielding Aurora</name>
-        <text>Starting at 1st level, you can invoke the Seeker's power to protect you from harm. As a bonus action, you create a whirling aurora of brilliant energy that swirls around you. Until the end of your next turn, you gain a number of temporary hit points equal to half your warlock level + your Charisma modifier (minimum 1). If a creature within 10 feet of you hits you with an attack while any of these hit points remain, the attacker takes radiant damage equal to the damage dealt to the temporary hit points gained by using this feature.
+        <text>Starting at 1st level, you can invoke the Seeker&apos;s power to protect you from harm. As a bonus action, you create a whirling aurora of brilliant energy that swirls around you. Until the end of your next turn, you gain a number of temporary hit points equal to half your warlock level + your Charisma modifier (minimum 1). If a creature within 10 feet of you hits you with an attack while any of these hit points remain, the attacker takes radiant damage equal to the damage dealt to the temporary hit points gained by using this feature.
 
 You can use this feature a number of times equal to your Charisma modifier (minimum 1) and you regain all expended uses when you finish a long rest.
 
@@ -262,7 +262,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 33 (Homebrew)</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>The Seeker (HB): Far Wanderer</name>
-        <text>At 10th level, your patron bestows upon you a wanderer's blessing with the following benefits.
+        <text>At 10th level, your patron bestows upon you a wanderer&apos;s blessing with the following benefits.
 
 	• You can move as though you are under the effects of the spider climb spell.
 
@@ -276,7 +276,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 33 (Homebrew)</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>The Seeker (HB): Temporal Sequestration</name>
-        <text>Starting at 14th level, as an action you can open a temporal rift around a creature of your choice. The target must succeed on a Wisdom saving throw against your spell save DC or move l round forward in time. A target moved forward in time vanishes for the duration. When the effect ends, the target reappears in the space it left or in an unoccupied space nearest to that space if it's occupied. Once you use this feature you cannot do so again until you finish a short or long rest.
+        <text>Starting at 14th level, as an action you can open a temporal rift around a creature of your choice. The target must succeed on a Wisdom saving throw against your spell save DC or move l round forward in time. A target moved forward in time vanishes for the duration. When the effect ends, the target reappears in the space it left or in an unoccupied space nearest to that space if it&apos;s occupied. Once you use this feature you cannot do so again until you finish a short or long rest.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 33 (Homebrew)</text>
       </feature>

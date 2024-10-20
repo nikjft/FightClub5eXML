@@ -22,13 +22,13 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 17 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Circle of the Coven (HB): Toil and Trouble</name>
-        <text>You gain proficiency with alchemist's supplies and poisoner's kit. Additionally, the gold and time that you must spend to brew potions or poisons is halved.
+        <text>You gain proficiency with alchemist&apos;s supplies and poisoner&apos;s kit. Additionally, the gold and time that you must spend to brew potions or poisons is halved.
 
 Source:	Tasha's Crucible of Everything Else, Volume 2 p. 17 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Circle of the Coven (HB): Circle Spells</name>
-        <text>You have learned the secret magics of hags, granting you access to certain spells. At 2nd level, you learn the minor illusion cantrip, and it doesn't count against the number of druid cantrips you know. You also learn the hex spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
+        <text>You have learned the secret magics of hags, granting you access to certain spells. At 2nd level, you learn the minor illusion cantrip, and it doesn&apos;t count against the number of druid cantrips you know. You also learn the hex spell, you always have it prepared, and it doesn&apos;t count against the number of spells you can prepare each day.
 
 When you reach certain levels in this class, you gain access to the spells listed for that level in the Circle of the Coven Spells table. Once you gain access to one of these spells, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
@@ -86,7 +86,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 18 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Circle of the Seafarers (HB): Sentinel of the Sea</name>
-        <text>You are proficient with water vehicles, navigator's tools, and the signature weapons of seafarers: the net and trident. When you aren't wearing medium or heavy armor, you gain the following benefits:
+        <text>You are proficient with water vehicles, navigator&apos;s tools, and the signature weapons of seafarers: the net and trident. When you aren&apos;t wearing medium or heavy armor, you gain the following benefits:
 
 	• You can use Dexterity instead of Strength for the attack and damage rolls of tridents and spears, and the attack rolls of nets.
 
@@ -112,7 +112,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 18 (Homebrew)</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Circle of the Seafarers (HB): Extra Attack</name>
-        <text>You can attack twice instead of once whenever you take the Attack action on your turn. Thanks to your specialized training, you ignore the net's restriction on the number of attacks you can make with an action, bonus action, or reaction.
+        <text>You can attack twice instead of once whenever you take the Attack action on your turn. Thanks to your specialized training, you ignore the net&apos;s restriction on the number of attacks you can make with an action, bonus action, or reaction.
 
 Source:	Tasha's Crucible of Everything Else, Volume 2 p. 18 (Homebrew)</text>
       </feature>

@@ -31,7 +31,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 6 (Homebrew)</text>
     </autolevel>
     <autolevel level="2">
       <feature optional="YES">
-        <name>Madness (HB): Channel Divinity: Cultist's Chant</name>
+        <name>Madness (HB): Channel Divinity: Cultist&apos;s Chant</name>
         <text>At 2nd level, as an action you can use your Channel Divinity to chant in an ancient tongue to put your listener into a stupefied trance. Each creature of your choice that can hear you within 30 feet of you must succeed on a Wisdom saving throw against your spell save DC or be charmed by you. This effect ends on a target after 1 minute, if it takes any damage, if you attack it, or if it witnesses you attacking or damaging any of its allies.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 6 (Homebrew)</text>
@@ -40,7 +40,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 6 (Homebrew)</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Madness (HB): Channel Divinity: Read Thoughts</name>
-        <text>At 6th level, you can use your Channel Divinity to read a creature's thoughts. You can then use your access to the creature's mind to command it. As an action, choose one creature that you can see within 60 feet of you. That creature must make a Wisdom saving throw against your spell save DC. If the creature succeeds on the saving throw, you can't use this feature on it again until you finish a long rest.
+        <text>At 6th level, you can use your Channel Divinity to read a creature's thoughts. You can then use your access to the creature&apos;s mind to command it. As an action, choose one creature that you can see within 60 feet of you. That creature must make a Wisdom saving throw against your spell save DC. If the creature succeeds on the saving throw, you can&apos;t use this feature on it again until you finish a long rest.
 
 If the creature fails its save, you can read its surface thoughts (those foremost in its mind, reflecting its current emotions and what it is actively thinking about) when it is within 60 feet of you. This effect lasts for 1 minute.
 
@@ -72,7 +72,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 6 (Homebrew)</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Divine Domain: Protection (HB)</name>
-        <text>The protection domain is the purview of deities who charge their followers to shield the weak from the strong. The gods' faithful dwell in villages and towns on the borderlands, where they help bolster defenses and seek out evils to defeat. These gods believe that a strong shield and a suit of armor is the best defense against evil, second only to a stout mace on hand to respond to any attacks in kind. Deities who grant this domain include Helm, Ilmater, Torm, Tyr, Heironeous, St. Cuthbert, Paladine, Dol Dorn, the Silver Flame, Bahamut, Yondalla, Athena, and Odin.
+        <text>The protection domain is the purview of deities who charge their followers to shield the weak from the strong. The gods&apos; faithful dwell in villages and towns on the borderlands, where they help bolster defenses and seek out evils to defeat. These gods believe that a strong shield and a suit of armor is the best defense against evil, second only to a stout mace on hand to respond to any attacks in kind. Deities who grant this domain include Helm, Ilmater, Torm, Tyr, Heironeous, St. Cuthbert, Paladine, Dol Dorn, the Silver Flame, Bahamut, Yondalla, Athena, and Odin.
 
 At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.
 
@@ -132,7 +132,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 7 (Homebrew)</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Protection (HB): Bulwark of Faith</name>
-        <text>At 17th level, your faith allows you to protect your allies with powerful divine magic. As a bonus action, you can choose one ally within 30 feet of you to protect with a holy shield. As long as you are not incapacitated, that ally's AC becomes the same as your AC, unless it was already higher. The effect ends early if you and the ally are separated by more than 30 feet, or if you use this feature again.
+        <text>At 17th level, your faith allows you to protect your allies with powerful divine magic. As a bonus action, you can choose one ally within 30 feet of you to protect with a holy shield. As long as you are not incapacitated, that ally&apos;s AC becomes the same as your AC, unless it was already higher. The effect ends early if you and the ally are separated by more than 30 feet, or if you use this feature again.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 7 (Homebrew)</text>
       </feature>

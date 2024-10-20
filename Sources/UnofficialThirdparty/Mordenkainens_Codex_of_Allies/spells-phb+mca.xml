@@ -71,7 +71,7 @@
     <classes>Cleric (Protection (HB))</classes>
   </spell>
   <spell>
-    <name>Otiluke's Resilient Sphere</name>
+    <name>Otiluke&apos;s Resilient Sphere</name>
     <classes>Cleric (Protection (HB))</classes>
   </spell>
   <spell>
@@ -213,7 +213,7 @@
     <classes>Monk (Mystic Force (HB))</classes>
   </spell>
   <spell>
-    <name>Bigby's Hand</name>
+    <name>Bigby&apos;s Hand</name>
     <classes>Monk (Mystic Force (HB))</classes>
   </spell>
   <spell>
@@ -221,7 +221,7 @@
     <classes>Monk (Mystic Force (HB))</classes>
   </spell>
   <spell>
-    <name>Rary's Telepathic Bond</name>
+    <name>Rary&apos;s Telepathic Bond</name>
     <classes>Monk (Mystic Force (HB))</classes>
   </spell>
 
@@ -255,7 +255,7 @@
     <classes>Paladin (Inquisition (HB))</classes>
   </spell>
   <spell>
-    <name>Otiluke's Resilient Sphere</name>
+    <name>Otiluke&apos;s Resilient Sphere</name>
     <classes>Paladin (Inquisition (HB))</classes>
   </spell>
   <spell>
@@ -479,7 +479,7 @@
     <classes>Sorcerer (Primordial Chaos (HB))</classes>
   </spell>
   <spell>
-    <name>Aganazzar's Scorcher</name>
+    <name>Aganazzar&apos;s Scorcher</name>
     <classes>Sorcerer (Primordial Chaos (HB))</classes>
   </spell>
   <spell>
@@ -499,7 +499,7 @@
     <classes>Sorcerer (Primordial Chaos (HB))</classes>
   </spell>
   <spell>
-    <name>Melf's Acid Arrow</name>
+    <name>Melf&apos;s Acid Arrow</name>
     <classes>Sorcerer (Primordial Chaos (HB))</classes>
   </spell>
   <spell>
@@ -511,7 +511,7 @@
     <classes>Sorcerer (Primordial Chaos (HB))</classes>
   </spell>
   <spell>
-    <name>Sniloc's Snowball Storm</name>
+    <name>Sniloc&apos;s Snowball Storm</name>
     <classes>Sorcerer (Primordial Chaos (HB))</classes>
   </spell>
   <spell>
@@ -613,47 +613,47 @@
 
   <spell>
     <name>Cause Fear</name>
-    <classes>Warlock (Death's Mistress (HB))</classes>
+    <classes>Warlock (Death&apos;s Mistress (HB))</classes>
   </spell>
   <spell>
     <name>False Life</name>
-    <classes>Warlock (Death's Mistress (HB))</classes>
+    <classes>Warlock (Death&apos;s Mistress (HB))</classes>
   </spell>
   <spell>
     <name>Gentle Repose</name>
-    <classes>Warlock (Death's Mistress (HB))</classes>
+    <classes>Warlock (Death&apos;s Mistress (HB))</classes>
   </spell>
   <spell>
     <name>Silence</name>
-    <classes>Warlock (Death's Mistress (HB))</classes>
+    <classes>Warlock (Death&apos;s Mistress (HB))</classes>
   </spell>
   <spell>
     <name>Animate Dead</name>
-    <classes>Warlock (Death's Mistress (HB))</classes>
+    <classes>Warlock (Death&apos;s Mistress (HB))</classes>
   </spell>
   <spell>
     <name>Speak With Dead</name>
-    <classes>Warlock (Death's Mistress (HB))</classes>
+    <classes>Warlock (Death&apos;s Mistress (HB))</classes>
   </spell>
   <spell>
     <name>Death Ward</name>
-    <classes>Warlock (Death's Mistress (HB))</classes>
+    <classes>Warlock (Death&apos;s Mistress (HB))</classes>
   </spell>
   <spell>
     <name>Shadow of Moil</name>
-    <classes>Warlock (Death's Mistress (HB))</classes>
+    <classes>Warlock (Death&apos;s Mistress (HB))</classes>
   </spell>
   <spell>
     <name>Danse Macabre</name>
-    <classes>Warlock (Death's Mistress (HB))</classes>
+    <classes>Warlock (Death&apos;s Mistress (HB))</classes>
   </spell>
   <spell>
     <name>Enervation</name>
-    <classes>Warlock (Death's Mistress (HB))</classes>
+    <classes>Warlock (Death&apos;s Mistress (HB))</classes>
   </spell>
   <spell>
     <name>Finger of Death</name>
-    <classes>Warlock (Death's Mistress (HB))</classes>
+    <classes>Warlock (Death&apos;s Mistress (HB))</classes>
   </spell>
 
   <spell>
@@ -707,7 +707,7 @@
     <classes>Warlock (Lord of Slime (HB))</classes>
   </spell>
   <spell>
-    <name>Melf's Acid Arrow</name>
+    <name>Melf&apos;s Acid Arrow</name>
     <classes>Warlock (Lord of Slime (HB))</classes>
   </spell>
   <spell>

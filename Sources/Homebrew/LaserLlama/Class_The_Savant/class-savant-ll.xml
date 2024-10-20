@@ -7,7 +7,7 @@
     <numSkills>2</numSkills>
     <armor>Light Armor</armor>
     <weapons>Simple Weapons, rapiers, shortswords, whips</weapons>
-    <tools>One set of artisan's tools of your choice</tools>
+    <tools>One set of artisan&apos;s tools of your choice</tools>
     <wealth>4d4x10</wealth>
     <spellAbility>Intelligence</spellAbility>
     <slotsReset>S</slotsReset>
@@ -27,7 +27,7 @@ Source:	LaserLlama: The Savant v5.2.0 p. 2 (Homebrew)</text>
     </trait>
     <trait>
       <name>Magnificent Minds</name>
-      <text>There are many wonderfully intelligent people in the world, but few are true Savants. Born with the innate desire to learn anything they can, and the potential for genius-level intellect, Savants spend their lives learning anything that those around them are willing to teach. Often recognizable at an early age, a Savant's unquenchable hunger for knowledge draws them to the great libraries, universities, and other places of higher learning. They are willing to go to any lengths to unlock the secrets of the world, often turning to lives of adventure. For a Savant, no price is too steep for the promise of discovery.</text>
+      <text>There are many wonderfully intelligent people in the world, but few are true Savants. Born with the innate desire to learn anything they can, and the potential for genius-level intellect, Savants spend their lives learning anything that those around them are willing to teach. Often recognizable at an early age, a Savant&apos;s unquenchable hunger for knowledge draws them to the great libraries, universities, and other places of higher learning. They are willing to go to any lengths to unlock the secrets of the world, often turning to lives of adventure. For a Savant, no price is too steep for the promise of discovery.</text>
     </trait>
     <trait>
       <name>Intense Focus</name>
@@ -74,7 +74,7 @@ Source:	LaserLlama: The Savant v5.2.0 p. 2 (Homebrew)</text>
     <autolevel level="1">
       <feature>
         <name>Multiclass Savant</name>
-        <text>If your group uses the optional rule on multiclassing in the Player's Handbook, here's what you need to know if you choose the savant as one of your classes.
+        <text>If your group uses the optional rule on multiclassing in the Player&apos;s Handbook, here&apos;s what you need to know if you choose the savant as one of your classes.
 
 Ability Score Minimum:
 As a multiclass character, you must have at least the following ability score(s) to take a level in this class, or to take a level in another class if you are already a psion.
@@ -172,7 +172,7 @@ Source:	LaserLlama: The Savant v5.2.0 p. 4</text>
     <autolevel level="3">
       <feature>
         <name>Academic Discipline</name>
-        <text>At 3rd level, choose an Academic Discipline to best represent your Savant's studies: Archaeologist, Investigator, Naturalist, Physician, or Tactician; all detailed at the end of this class.
+        <text>At 3rd level, choose an Academic Discipline to best represent your Savant&apos;s studies: Archaeologist, Investigator, Naturalist, Physician, or Tactician; all detailed at the end of this class.
 
 Your Academic Discipline grants you features at 3rd level, and again when you reach 6th, 10th, and finally 15th level.
 
@@ -182,7 +182,7 @@ Source:	LaserLlama: The Savant v5.2.0 p. 4</text>
     <autolevel level="4" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 Source:	LaserLlama: The Savant v5.2.0 p. 4</text>
       </feature>
@@ -208,7 +208,7 @@ Source:	LaserLlama: The Savant v5.2.0 p. 4</text>
     <autolevel level="7">
       <feature>
         <name>Keen Awareness</name>
-        <text>You are always prepared for danger. Beginning at 7th level, so long as you aren't incapacitated you cannot be surprised and you add your Intelligence modifier to your initiative rolls.
+        <text>You are always prepared for danger. Beginning at 7th level, so long as you aren&apos;t incapacitated you cannot be surprised and you add your Intelligence modifier to your initiative rolls.
 
 Also, when you roll initiative you can use Adroit Analysis to designate a creature you can see within range as your Focus.
 
@@ -218,7 +218,7 @@ Source:	LaserLlama: The Savant v5.2.0 p. 4</text>
     <autolevel level="8" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 Source:	LaserLlama: The Savant v5.2.0 p. 4</text>
       </feature>
@@ -251,7 +251,7 @@ Source:	LaserLlama: The Savant v5.2.0 p. 4</text>
     <autolevel level="12" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 Source:	LaserLlama: The Savant v5.2.0 p. 4</text>
       </feature>
@@ -267,7 +267,7 @@ Source:	LaserLlama: The Savant v5.2.0 p. 4</text>
     <autolevel level="16" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 Source:	LaserLlama: The Savant v5.2.0 p. 4</text>
       </feature>
@@ -275,7 +275,7 @@ Source:	LaserLlama: The Savant v5.2.0 p. 4</text>
     <autolevel level="17">
       <feature>
         <name>Flawless Analysis</name>
-        <text>Beginning at 17th level, you can use your action to flawlessly predict your Focus's next move and alert your allies. Until the start of your next turn, your Focus has disadvantage on every ability check, attack roll, and saving throw. Also, creatures of your choice that can hear you have advantage on any saving throw your Focus forces them to make until your next turn.
+        <text>Beginning at 17th level, you can use your action to flawlessly predict your Focus&apos;s next move and alert your allies. Until the start of your next turn, your Focus has disadvantage on every ability check, attack roll, and saving throw. Also, creatures of your choice that can hear you have advantage on any saving throw your Focus forces them to make until your next turn.
 
 Once you use this feature you must finish a short or long rest before you can use it again.
 
@@ -285,7 +285,7 @@ Source:	LaserLlama: The Savant v5.2.0 p. 5</text>
     <autolevel level="19" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 Source:	LaserLlama: The Savant v5.2.0 p. 4</text>
       </feature>
@@ -385,7 +385,7 @@ Source:	LaserLlama: The Savant v5.2.0 p. 5</text>
       </feature>
       <feature optional="YES">
         <name>Investigator: Rough &amp; Tumble</name>
-        <text>You have gained some unsavory skills while fighting shadows in the underbelly of civilization. You learn to speak, read, and decode Thieves' Cant, the language of the criminal world.
+        <text>You have gained some unsavory skills while fighting shadows in the underbelly of civilization. You learn to speak, read, and decode Thieves&apos; Cant, the language of the criminal world.
 
 Also, your unarmed strikes deal bludgeoning damage equal to a roll of your Intellect Die + your Strength modifier on hit.
 
@@ -397,7 +397,7 @@ Source:	LaserLlama: The Savant v5.2.0 p. 6</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Investigator: Devious Flourish</name>
-        <text>Your intuition grants you a heightened sense for openings in your foe's defenses. When you use Calculated Flourish and cause the attack to miss, you can force the attacker to make a Dexterity saving throw against Rough &amp; Tumble as part of the same reaction, instead of moving.
+        <text>Your intuition grants you a heightened sense for openings in your foe&apos;s defenses. When you use Calculated Flourish and cause the attack to miss, you can force the attacker to make a Dexterity saving throw against Rough &amp; Tumble as part of the same reaction, instead of moving.
 
 Also, whenever your Focus fails the saving throw against Rough &amp; Tumble, you can choose for it to take bludgeoning damage equal to one roll of your Intellect Die.
 
@@ -407,7 +407,7 @@ Source:	LaserLlama: The Savant v5.2.0 p. 6</text>
       </feature>
       <feature optional="YES">
         <name>Investigator: Illicit Contacts</name>
-        <text>You have become familiar with the criminal elements of society. You have advantage on Charisma checks while you are communicating with another creature in Thieves' Cant.
+        <text>You have become familiar with the criminal elements of society. You have advantage on Charisma checks while you are communicating with another creature in Thieves&apos; Cant.
 
 You also master the Secrets &amp; Whispers Scholarly Pursuit, If you have already mastered this Scholarly Pursuit you can instead master your choice of Perfect Recall or Traditions.
 
@@ -439,7 +439,7 @@ Source:	LaserLlama: The Savant v5.2.0 p. 6</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Academic Discipline: Naturalist</name>
-        <text>The Naturalist's classroom begins at the edge of civilization. They are scholars of the wilderness, and will go to great lengths to preserve nature as it exists, free from the influence of civilization. A true Naturalist is a conservationist of the wild and an expert at predicting weather, identifying toxic and medicinal plants, caring for animals, and guiding others safely through the wilderness.
+        <text>The Naturalist&apos;s classroom begins at the edge of civilization. They are scholars of the wilderness, and will go to great lengths to preserve nature as it exists, free from the influence of civilization. A true Naturalist is a conservationist of the wild and an expert at predicting weather, identifying toxic and medicinal plants, caring for animals, and guiding others safely through the wilderness.
 
 Source:	LaserLlama: The Savant v5.2.0 p. 6</text>
       </feature>
@@ -452,8 +452,8 @@ Also, whenever you make an Animal Handling or Survival check you can use your In
 Source:	LaserLlama: The Savant v5.2.0 p. 6</text>
       </feature>
       <feature optional="YES">
-        <name>Naturalist's Journal</name>
-        <text>You compile your research on fantastical flora and fauna in a Naturalist's Journal. Over the course of 1 hour, which can be during a short or long rest, you can take notes in your Journal, detailing your current environment or a specific beast, plant, or monstrosity (such as a bear or griffon) that was your Focus within the last 24 hours. If your Journal is lost, you can spend 1 hour adding each old entry to a new Journal from memory.
+        <name>Naturalist&apos;s Journal</name>
+        <text>You compile your research on fantastical flora and fauna in a Naturalist&apos;s Journal. Over the course of 1 hour, which can be during a short or long rest, you can take notes in your Journal, detailing your current environment or a specific beast, plant, or monstrosity (such as a bear or griffon) that was your Focus within the last 24 hours. If your Journal is lost, you can spend 1 hour adding each old entry to a new Journal from memory.
 
 You have advantage on all Intelligence checks related to all environments and creatures detailed in your Journal.
 
@@ -465,7 +465,7 @@ Source:	LaserLlama: The Savant v5.2.0 p. 6</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Naturalist: Survivalist</name>
-        <text>You are a master tracker of wild creatures and any that would threaten them. You can designate a creature as the Focus of your Adroit Analysis by analyzing signs of its passing, such as tracks or marks, even if you can't see the creature. Creatures also remain your Focus even if they become hidden from you.
+        <text>You are a master tracker of wild creatures and any that would threaten them. You can designate a creature as the Focus of your Adroit Analysis by analyzing signs of its passing, such as tracks or marks, even if you can&apos;t see the creature. Creatures also remain your Focus even if they become hidden from you.
 
 You also master the Physical Fitness Scholarly Pursuit. If you have already mastered this Scholarly Pursuit, you instead master your choice of either Falconry or Perfect Recall.
 
@@ -485,7 +485,7 @@ Source:	LaserLlama: The Savant v5.2.0 p. 7</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Naturalist: Advanced Studies</name>
-        <text>Your knowledge of the wild does not stop with the mundane. You can add specific dragons, giants, oozes, and undead to your Naturalist's Journal. For example, you could add notes on a young blue dragon, fire giant, or ghast to your Journal.
+        <text>Your knowledge of the wild does not stop with the mundane. You can add specific dragons, giants, oozes, and undead to your Naturalist&apos;s Journal. For example, you could add notes on a young blue dragon, fire giant, or ghast to your Journal.
 
 Your cutting-edge understanding of the natural world also grants your Naturalist's Journal the following extra benefits:
 
@@ -549,7 +549,7 @@ Source:	LaserLlama: The Savant v5.2.0 p. 8</text>
       </feature>
       <feature optional="YES">
         <name>Physician: Combat Medic</name>
-        <text>You have trained to administer medical aid to others, even in the midst of battle. When you finish a short or long rest, you can touch one Healer's Kit and cause it to regain a number of uses equal to your Intelligence modifier (minimum of 1).
+        <text>You have trained to administer medical aid to others, even in the midst of battle. When you finish a short or long rest, you can touch one Healer&apos;s Kit and cause it to regain a number of uses equal to your Intelligence modifier (minimum of 1).
 
 Also, your knowledge of medicine grants you the Combat Medic abilities below, each of which takes an action to use.
 

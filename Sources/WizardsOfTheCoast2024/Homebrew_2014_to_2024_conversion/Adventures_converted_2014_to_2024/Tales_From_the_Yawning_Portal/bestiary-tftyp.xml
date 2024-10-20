@@ -92,7 +92,7 @@ If the target is a creature, it must succeed on a DC 15 Strength saving throw or
       <text>
 Melee Weapon Attack: +6, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.</text>
     </action>
-    <description>Arundil's Animated Objects. A century ago, the dwarf mage Arundil animated a number of objects to defend the Foundry against intruders other than dwarves. Many of these creations remain in place today.
+    <description>Arundil&apos;s Animated Objects. A century ago, the dwarf mage Arundil animated a number of objects to defend the Foundry against intruders other than dwarves. Many of these creations remain in place today.
 
 These animated objects never attack dwarves or duergar. In addition, a dwarf (including a duergar) can order an object to cease its attack. If so commanded, the object becomes immobile for 10 minutes, or until the one commanding it leaves the area.
 
@@ -780,7 +780,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashi
 Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.</text>
       <attack>Javelin|+4|1d6+2</attack>
     </action>
-    <description>The Red Wizards (Dead in Thay) make use of several kinds of undead minions, including the special servants known as dread warriors. After being created by a secret ritual, a dread warrior is further enchanted so that a Red Wizard can employ the creature in the fashion of a spellcaster's familiar. By creating a psychic link with a dread warrior, a Red Wizard can experience the world through the creature's senses and direct the warrior.
+    <description>The Red Wizards (Dead in Thay) make use of several kinds of undead minions, including the special servants known as dread warriors. After being created by a secret ritual, a dread warrior is further enchanted so that a Red Wizard can employ the creature in the fashion of a spellcaster&apos;s familiar. By creating a psychic link with a dread warrior, a Red Wizard can experience the world through the creature&apos;s senses and direct the warrior.
 
 Undead Nature:
 A dread warrior doesn't require air, food, drink, or sleep.
@@ -1569,7 +1569,7 @@ Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashi
     <passive>10</passive>
     <languages>Terran</languages>
     <cr>2</cr>
-    <resist>bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</resist>
+    <resist>bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t adamantine</resist>
     <immune>poison</immune>
     <vulnerable/>
     <conditionImmune>exhaustion, petrified, poisoned</conditionImmune>
@@ -1797,7 +1797,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one Medium or smaller creature the 
       <attack>Swallow|+5|2d6+3</attack>
       <text>If the toad dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.</text>
     </action>
-    <description>In a cavern within the glacial rift (Against the Giants), a group of ice toads vigorously guard their territory. Waves of cold radiate from the creature, afflicting those that try to approach it, and anyone unfortunate enough to be swallowed suffers injury from cold as well as from the toad's digestive juices.
+    <description>In a cavern within the glacial rift (Against the Giants), a group of ice toads vigorously guard their territory. Waves of cold radiate from the creature, afflicting those that try to approach it, and anyone unfortunate enough to be swallowed suffers injury from cold as well as from the toad&apos;s digestive juices.
 
 Source:	Tales from the Yawning Portal p. 235</description>
     <environment/>
@@ -1871,7 +1871,7 @@ If the target takes any of this damage, the target is stunned until the end of t
     <save/>
     <skill/>
     <passive>8</passive>
-    <languages>understands Giant but can't speak</languages>
+    <languages>understands Giant but can&apos;t speak</languages>
     <cr>7</cr>
     <resist/>
     <immune>poison</immune>
@@ -2118,7 +2118,7 @@ Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one t
     <save>Wis +1</save>
     <skill/>
     <passive>8</passive>
-    <languages>understands the languages it knew in life but can't speak</languages>
+    <languages>understands the languages it knew in life but can&apos;t speak</languages>
     <cr>5</cr>
     <resist>cold, necrotic</resist>
     <immune>poison</immune>
@@ -2361,7 +2361,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) necrot
 
 The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</text>
       <attack>Life Drain|+4|2d6+2</attack>
-      <text>A humanoid slain by this attack rises 24 hours later as a zombie under Hedrun's control, unless the humanoid is restored to life or its body is destroyed. Hedrun can have no more than twelve zombie under its control at one time.</text>
+      <text>A humanoid slain by this attack rises 24 hours later as a zombie under Hedrun&apos;s control, unless the humanoid is restored to life or its body is destroyed. Hedrun can have no more than twelve zombie under its control at one time.</text>
     </action>
     <trait>
       <name>Innate Spellcasting</name>
@@ -3418,7 +3418,7 @@ Lahnis is a 12th-level spellcaster. Its spellcasting ability is Intelligence (sp
 *Evocation spell</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 2, 1</slots>
-    <spells>fire bolt, light, prestidigitation, ray of frost, burning hands, mage armor, magic missile, mirror image, misty step, shatter, counterspell, fireball, lightning bolt, ice storm, stoneskin, Bigby's hand, cone of cold, chain lightning, wall of ice</spells>
+    <spells>fire bolt, light, prestidigitation, ray of frost, burning hands, mage armor, magic missile, mirror image, misty step, shatter, counterspell, fireball, lightning bolt, ice storm, stoneskin, Bigby&apos;s hand, cone of cold, chain lightning, wall of ice</spells>
     <description>Source:	Tales from the Yawning Portal p. 131</description>
     <environment>urban</environment>
   </monster>
@@ -3477,7 +3477,7 @@ The mummy lord targets one creature it can see within 60 feet of it. If the targ
     <legendary>
       <name>Legendary Actions (5/Turn)</name>
       <recharge>5/Turn</recharge>
-      <text>The undead can take 5 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The undead regains spent legendary actions at the start of its turn.</text>
+      <text>The undead can take 5 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The undead regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Attack</name>
@@ -3635,7 +3635,7 @@ Lumalia's spellcasting ability is Charisma (spell save DC 17). Lumalia can innat
     <save>Str +11, Con +9, Int +4, Wis +6, Cha +6</save>
     <skill/>
     <passive>12</passive>
-    <languages>understands Common but can't speak, telepathy 60 ft.</languages>
+    <languages>understands Common but can&apos;t speak, telepathy 60 ft.</languages>
     <cr>10</cr>
     <resist>bludgeoning, piercing, slashing from nonmagical attacks</resist>
     <immune>lightning</immune>
@@ -3682,7 +3682,7 @@ One Medium or smaller object held or creature grappled by the kraken 's tentacle
 The kraken creates three bolts of lightning, each of which can strike a target the kraken can see within 150 feet of it. A target must make a DC 16 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much damage on a successful one.</text>
       <attack>Lightning Storm||3d10</attack>
     </action>
-    <description>The Doomvault (Dead in Thay) contains a number of denizens that don't have all the traits or abilities of normal creatures of their kind. By far the most powerful of these "inferior" creatures is a malformed kraken that is kept in a saltwater pool and is not as large or as durable as a true kraken
+    <description>The Doomvault (Dead in Thay) contains a number of denizens that don&apos;t have all the traits or abilities of normal creatures of their kind. By far the most powerful of these "inferior" creatures is a malformed kraken that is kept in a saltwater pool and is not as large or as durable as a true kraken
 
 Source:	Tales from the Yawning Portal p. 239</description>
     <environment/>
@@ -4055,7 +4055,7 @@ Nimira magically turns invisible until it attacks, casts a spell, or uses its En
     <save>Dex +6, Int +4</save>
     <skill>Acrobatics +6, Deception +3, Perception +3, Stealth +9</skill>
     <passive>13</passive>
-    <languages>Thieves' cant plus any two languages, Dwarvish</languages>
+    <languages>Thieves&apos; cant plus any two languages, Dwarvish</languages>
     <cr>8</cr>
     <resist>poison, poison</resist>
     <immune/>
@@ -4122,7 +4122,7 @@ Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. Hit: 7 (1d8 + 3) 
     <save/>
     <skill/>
     <passive>8</passive>
-    <languages>Common, Giant, understands all languages it spoke in life but can't speak</languages>
+    <languages>Common, Giant, understands all languages it spoke in life but can&apos;t speak</languages>
     <cr>2</cr>
     <resist/>
     <immune>poison</immune>
@@ -4211,7 +4211,7 @@ The Ooze Master is a 9th-level spellcaster. Its spellcasting ability is Intellig
 	• 5th level (1 slots): cloudkill</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 1</slots>
-    <spells>acid splash, friends, mage hand, poison spray, charm person, detect magic, magic missile, ray of sickness, detect thoughts, Melf's acid arrow, suggestion, fear, slow, stinking cloud, confusion, Evard's black tentacles, cloudkill</spells>
+    <spells>acid splash, friends, mage hand, poison spray, charm person, detect magic, magic missile, ray of sickness, detect thoughts, Melf&apos;s acid arrow, suggestion, fear, slow, stinking cloud, confusion, Evard&apos;s black tentacles, cloudkill</spells>
     <description>Source:	Tales from the Yawning Portal p. 241</description>
     <environment/>
   </monster>
@@ -4393,7 +4393,7 @@ Phaia is a 12th-level spellcaster. Its spellcasting ability is Intelligence (spe
 *Necromancy spell of 1st level or higher</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 2, 1</slots>
-    <spells>chill touch, dancing lights, mage hand, mending, false life, mage armor, ray of sickness, blindness/deafness, ray of enfeeblement, web, animate dead, bestow curse, vampiric touch, blight, dimension door, stoneskin, Bigby's hand, cloudkill, circle of death</spells>
+    <spells>chill touch, dancing lights, mage hand, mending, false life, mage armor, ray of sickness, blindness/deafness, ray of enfeeblement, web, animate dead, bestow curse, vampiric touch, blight, dimension door, stoneskin, Bigby&apos;s hand, cloudkill, circle of death</spells>
     <description>Source:	Tales from the Yawning Portal p. 132</description>
     <environment>desert, urban</environment>
   </monster>
@@ -4467,7 +4467,7 @@ Whenever the charmed target takes damage, the target can repeat the saving throw
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The aberration can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The aberration regains spent legendary actions at the start of its turn.</text>
+      <text>The aberration can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The aberration regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Detect</name>
@@ -4556,7 +4556,7 @@ Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) pierc
     <legendary>
       <name>Legendary Actions (0/Turn)</name>
       <recharge>0/Turn</recharge>
-      <text>The monstrosity can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity regains spent legendary action at the start of its turn.</text>
+      <text>The monstrosity can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity regains spent legendary action at the start of its turn.</text>
     </legendary>
     <spells/>
     <description>Source:	Tales from the Yawning Portal p. 113</description>
@@ -4607,7 +4607,7 @@ The behir exhales a line of lightning that is 20 feet long and 5 feet wide. Each
     <legendary>
       <name>Legendary Actions (0/Turn)</name>
       <recharge>0/Turn</recharge>
-      <text>The monstrosity can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity regains spent legendary action at the start of its turn.</text>
+      <text>The monstrosity can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity regains spent legendary action at the start of its turn.</text>
     </legendary>
     <spells/>
     <description>Source:	Tales from the Yawning Portal p. 113</description>
@@ -4663,7 +4663,7 @@ The beholder shoots three of the following magical eye rays at random (reroll du
 
 5. Enervation Ray: The targeted creature must make a DC 14 Constitution saving throw, taking 36 (8d8) necrotic damage on a failed save, or half as much damage on a successful one.</text>
       <attack>Eye Rays||8d8</attack>
-      <text>6. Telekinetic Ray: If the target is a creature, it must succeed on a DC 14 Strength saving throw or the beholder moves it up to 30 feet in any direction. It is restrained by the ray's telekinetic grip until the start of the beholder's next turn or until the beholder is incapacitated.
+      <text>6. Telekinetic Ray: If the target is a creature, it must succeed on a DC 14 Strength saving throw or the beholder moves it up to 30 feet in any direction. It is restrained by the ray&apos;s telekinetic grip until the start of the beholder&apos;s next turn or until the beholder is incapacitated.
 
 If the target is an object weighing 300 pounds or less that isn't being worn or carried, it is moved up to 30 feet in any direction. The beholder can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or a container.
 
@@ -4685,7 +4685,7 @@ The target dies if the ray reduces it to 0 hit points.</text>
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The beholder can take 3 legendary actions, using the Eye Ray option below. It can take only one legendary action at a time and only at the end of another creature's turn. The beholder regains spent legendary actions at the start of its turn.</text>
+      <text>The beholder can take 3 legendary actions, using the Eye Ray option below. It can take only one legendary action at a time and only at the end of another creature&apos;s turn. The beholder regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Eye Ray</name>
@@ -4780,7 +4780,7 @@ When a pudding that is Medium or larger is subjected to lightning or slashing da
     <legendary>
       <name>Legendary Actions (0/Turn)</name>
       <recharge>0/Turn</recharge>
-      <text>The ooze can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The ooze regains spent legendary action at the start of its turn.</text>
+      <text>The ooze can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The ooze regains spent legendary action at the start of its turn.</text>
     </legendary>
     <spells/>
     <description>Source:	Tales from the Yawning Portal p. 113</description>
@@ -4842,7 +4842,7 @@ Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) pierci
     <legendary>
       <name>Legendary Actions (0/Turn)</name>
       <recharge>0/Turn</recharge>
-      <text>The monstrosity can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity regains spent legendary action at the start of its turn.</text>
+      <text>The monstrosity can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity regains spent legendary action at the start of its turn.</text>
     </legendary>
     <spells/>
     <description>Source:	Tales from the Yawning Portal p. 113</description>
@@ -4865,10 +4865,10 @@ Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) pierci
     <save/>
     <skill/>
     <passive>9</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>4</cr>
     <resist/>
-    <immune>acid, poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</immune>
+    <immune>acid, poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t adamantine</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
@@ -4919,7 +4919,7 @@ Until the end of its next turn, the golem magically gains a +2 bonus to its AC, 
     <legendary>
       <name>Legendary Actions (0/Turn)</name>
       <recharge>0/Turn</recharge>
-      <text>The construct can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The construct regains spent legendary action at the start of its turn.</text>
+      <text>The construct can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The construct regains spent legendary action at the start of its turn.</text>
     </legendary>
     <spells/>
     <description>Source:	Tales from the Yawning Portal p. 113</description>
@@ -4966,7 +4966,7 @@ Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludge
 
 If the target is Medium or smaller and the darkmantle has advantage on the attack roll, it attaches by engulfing the target's head, and the target is also blinded and unable to breathe while the darkmantle is attached in this way.</text>
       <attack>Crush|+3|1d6+3</attack>
-      <text>While attached to the target, the darkmantle can attack no other creature except the target but has advantage on its attack rolls. The darkmantle's speed also becomes 0, it can't benefit from any bonus to its speed, and it moves with the target.
+      <text>While attached to the target, the darkmantle can attack no other creature except the target but has advantage on its attack rolls. The darkmantle&apos;s speed also becomes 0, it can&apos;t benefit from any bonus to its speed, and it moves with the target.
 
 A creature can detach the darkmantle by making a successful DC 11 Strength check as an action. On its turn, the darkmantle can detach itself from the target by using 5 feet of movement.</text>
     </action>
@@ -4979,7 +4979,7 @@ A 15-foot radius of magical darkness extends out from the darkmantle, moves with
     <legendary>
       <name>Legendary Actions (0/Turn)</name>
       <recharge>0/Turn</recharge>
-      <text>The monstrosity can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity regains spent legendary action at the start of its turn.</text>
+      <text>The monstrosity can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity regains spent legendary action at the start of its turn.</text>
     </legendary>
     <spells/>
     <description>Source:	Tales from the Yawning Portal p. 113</description>
@@ -5033,7 +5033,7 @@ Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 7 (1d6 + 4) bludg
     <legendary>
       <name>Legendary Actions (0/Turn)</name>
       <recharge>0/Turn</recharge>
-      <text>The monstrosity can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity regains spent legendary action at the start of its turn.</text>
+      <text>The monstrosity can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity regains spent legendary action at the start of its turn.</text>
     </legendary>
     <spells/>
     <description>Source:	Tales from the Yawning Portal p. 113</description>
@@ -5095,7 +5095,7 @@ The dragon turtle exhales scalding steam in a 60-foot cone. Each creature in tha
     <legendary>
       <name>Legendary Actions (0/Turn)</name>
       <recharge>0/Turn</recharge>
-      <text>The dragon can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary action at the start of its turn.</text>
+      <text>The dragon can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The dragon regains spent legendary action at the start of its turn.</text>
     </legendary>
     <spells/>
     <description>Source:	Tales from the Yawning Portal p. 113</description>
@@ -5175,7 +5175,7 @@ Until this grapple ends, the target can't breathe, and the ettercap has advantag
     <legendary>
       <name>Legendary Actions (0/Turn)</name>
       <recharge>0/Turn</recharge>
-      <text>The monstrosity can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity regains spent legendary action at the start of its turn.</text>
+      <text>The monstrosity can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity regains spent legendary action at the start of its turn.</text>
     </legendary>
     <spells/>
     <description>Source:	Tales from the Yawning Portal p. 113</description>
@@ -5198,10 +5198,10 @@ Until this grapple ends, the target can't breathe, and the ettercap has advantag
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>2</cr>
     <resist/>
-    <immune>lightning, poison; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</immune>
+    <immune>lightning, poison; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t adamantine</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
@@ -5251,7 +5251,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludg
     <legendary>
       <name>Legendary Actions (0/Turn)</name>
       <recharge>0/Turn</recharge>
-      <text>The construct can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The construct regains spent legendary action at the start of its turn.</text>
+      <text>The construct can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The construct regains spent legendary action at the start of its turn.</text>
     </legendary>
     <spells/>
     <description>Source:	Tales from the Yawning Portal p. 113</description>
@@ -5318,7 +5318,7 @@ A summoned demon appears in an unoccupied space within 60 feet of its summoner, 
     <legendary>
       <name>Legendary Actions (0/Turn)</name>
       <recharge>0/Turn</recharge>
-      <text>The fiend (demon) can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The fiend (demon) regains spent legendary action at the start of its turn.</text>
+      <text>The fiend (demon) can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The fiend (demon) regains spent legendary action at the start of its turn.</text>
     </legendary>
     <trait>
       <name>Innate Spellcasting</name>
@@ -5393,7 +5393,7 @@ Psychic Crush (Recharge 5-6). The ooze targets one creature that it can sense wi
     <legendary>
       <name>Legendary Actions (0/Turn)</name>
       <recharge>0/Turn</recharge>
-      <text>The ooze can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The ooze regains spent legendary action at the start of its turn.</text>
+      <text>The ooze can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The ooze regains spent legendary action at the start of its turn.</text>
     </legendary>
     <spells/>
     <description>Source:	Tales from the Yawning Portal p. 113</description>
@@ -5416,9 +5416,9 @@ Psychic Crush (Recharge 5-6). The ooze targets one creature that it can sense wi
     <save/>
     <skill>Perception +2</skill>
     <passive>14</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>2</cr>
-    <resist>bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</resist>
+    <resist>bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t adamantine</resist>
     <immune>force, necrotic, poison</immune>
     <vulnerable/>
     <conditionImmune>blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned, stunned</conditionImmune>
@@ -5447,7 +5447,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashi
     <legendary>
       <name>Legendary Actions (0/Turn)</name>
       <recharge>0/Turn</recharge>
-      <text>The construct can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The construct regains spent legendary action at the start of its turn.</text>
+      <text>The construct can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The construct regains spent legendary action at the start of its turn.</text>
     </legendary>
     <spells/>
     <description>Source:	Tales from the Yawning Portal p. 113</description>
@@ -5517,7 +5517,7 @@ A summoned demon appears in an unoccupied space within 60 feet of its summoner, 
     <legendary>
       <name>Legendary Actions (0/Turn)</name>
       <recharge>0/Turn</recharge>
-      <text>The fiend (demon) can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The fiend (demon) regains spent legendary action at the start of its turn.</text>
+      <text>The fiend (demon) can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The fiend (demon) regains spent legendary action at the start of its turn.</text>
     </legendary>
     <spells/>
     <description>Source:	Tales from the Yawning Portal p. 113</description>
@@ -5571,7 +5571,7 @@ Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) pier
     <legendary>
       <name>Legendary Actions (0/Turn)</name>
       <recharge>0/Turn</recharge>
-      <text>The monstrosity can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity regains spent legendary action at the start of its turn.</text>
+      <text>The monstrosity can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity regains spent legendary action at the start of its turn.</text>
     </legendary>
     <spells/>
     <description>Source:	Tales from the Yawning Portal p. 113</description>
@@ -5625,7 +5625,7 @@ When a jelly that is Medium or larger is subjected to lightning or slashing dama
     <legendary>
       <name>Legendary Actions (0/Turn)</name>
       <recharge>0/Turn</recharge>
-      <text>The ooze can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The ooze regains spent legendary action at the start of its turn.</text>
+      <text>The ooze can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The ooze regains spent legendary action at the start of its turn.</text>
     </legendary>
     <spells/>
     <description>Source:	Tales from the Yawning Portal p. 113</description>
@@ -5682,7 +5682,7 @@ Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 7 (1d8 + 3) bludg
     <legendary>
       <name>Legendary Actions (0/Turn)</name>
       <recharge>0/Turn</recharge>
-      <text>The aberration can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The aberration regains spent legendary action at the start of its turn.</text>
+      <text>The aberration can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The aberration regains spent legendary action at the start of its turn.</text>
     </legendary>
     <spells/>
     <description>Source:	Tales from the Yawning Portal p. 113</description>
@@ -5737,7 +5737,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slash
     <legendary>
       <name>Legendary Actions (0/Turn)</name>
       <recharge>0/Turn</recharge>
-      <text>The monstrosity can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity regains spent legendary action at the start of its turn.</text>
+      <text>The monstrosity can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity regains spent legendary action at the start of its turn.</text>
     </legendary>
     <spells/>
     <description>Source:	Tales from the Yawning Portal p. 113</description>
@@ -5760,7 +5760,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slash
     <save/>
     <skill>Perception +3</skill>
     <passive>15</passive>
-    <languages>understands Common and Elvish but can't speak</languages>
+    <languages>understands Common and Elvish but can&apos;t speak</languages>
     <cr>1</cr>
     <resist>bludgeoning, piercing, slashing from nonmagical attacks</resist>
     <immune/>
@@ -5802,7 +5802,7 @@ Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) pierci
     <legendary>
       <name>Legendary Actions (0/Turn)</name>
       <recharge>0/Turn</recharge>
-      <text>The monstrosity can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity regains spent legendary action at the start of its turn.</text>
+      <text>The monstrosity can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity regains spent legendary action at the start of its turn.</text>
     </legendary>
     <spells/>
     <description>Source:	Tales from the Yawning Portal p. 113</description>
@@ -5855,7 +5855,7 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
     <legendary>
       <name>Legendary Actions (0/Turn)</name>
       <recharge>0/Turn</recharge>
-      <text>The monstrosity can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity regains spent legendary action at the start of its turn.</text>
+      <text>The monstrosity can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity regains spent legendary action at the start of its turn.</text>
     </legendary>
     <spells/>
     <description>Source:	Tales from the Yawning Portal p. 113</description>
@@ -5878,10 +5878,10 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>5</cr>
     <resist/>
-    <immune>poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</immune>
+    <immune>poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t adamantine</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
@@ -5920,7 +5920,7 @@ The golem targets one or more creatures it can see within 10 feet of it. Each ta
     <legendary>
       <name>Legendary Actions (0/Turn)</name>
       <recharge>0/Turn</recharge>
-      <text>The construct can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The construct regains spent legendary action at the start of its turn.</text>
+      <text>The construct can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The construct regains spent legendary action at the start of its turn.</text>
     </legendary>
     <spells/>
     <description>Source:	Tales from the Yawning Portal p. 113</description>
@@ -5998,7 +5998,7 @@ A summoned demon appears in an unoccupied space within 60 feet of its summoner, 
     <legendary>
       <name>Legendary Actions (0/Turn)</name>
       <recharge>0/Turn</recharge>
-      <text>The fiend (demon) can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The fiend (demon) regains spent legendary action at the start of its turn.</text>
+      <text>The fiend (demon) can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The fiend (demon) regains spent legendary action at the start of its turn.</text>
     </legendary>
     <spells/>
     <description>Source:	Tales from the Yawning Portal p. 113</description>
@@ -6023,7 +6023,7 @@ A summoned demon appears in an unoccupied space within 60 feet of its summoner, 
     <passive>13</passive>
     <languages>the languages it knew in life</languages>
     <cr>2</cr>
-    <resist>necrotic; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>necrotic; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <immune>poison</immune>
     <vulnerable/>
     <conditionImmune>exhaustion, poisoned</conditionImmune>
@@ -6045,7 +6045,7 @@ Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) necrot
 
 The target must succeed on a DC 11 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</text>
       <attack>Life Drain|+2|1d6+2</attack>
-      <text>A humanoid slain by this attack rises 24 hours later as a zombie under the wight's control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.</text>
+      <text>A humanoid slain by this attack rises 24 hours later as a zombie under the wight&apos;s control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.</text>
     </action>
     <action>
       <name>Longsword</name>
@@ -6062,7 +6062,7 @@ Ranged Weapon Attack: +2 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2)
     <legendary>
       <name>Legendary Actions (0/Turn)</name>
       <recharge>0/Turn</recharge>
-      <text>The undead can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The undead regains spent legendary action at the start of its turn.</text>
+      <text>The undead can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The undead regains spent legendary action at the start of its turn.</text>
     </legendary>
     <spells/>
     <description>Source:	Tales from the Yawning Portal p. 113</description>
@@ -6121,7 +6121,7 @@ The target must make a DC 13 Constitution saving throw, taking 24 (7d6) poison d
     <legendary>
       <name>Legendary Actions (0/Turn)</name>
       <recharge>0/Turn</recharge>
-      <text>The dragon can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary action at the start of its turn.</text>
+      <text>The dragon can take 0 legendary action, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The dragon regains spent legendary action at the start of its turn.</text>
     </legendary>
     <spells/>
     <description>Source:	Tales from the Yawning Portal p. 113</description>
@@ -6630,10 +6630,10 @@ Siren's innate spellcasting ability is Charisma (spell save DC 13). She can inna
     <save/>
     <skill>Perception +3</skill>
     <passive>14</passive>
-    <languages>Common (can't speak in wolf form)</languages>
+    <languages>Common (can&apos;t speak in wolf form)</languages>
     <cr>5</cr>
     <resist/>
-    <immune>bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</immune>
+    <immune>bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</immune>
     <vulnerable/>
     <conditionImmune/>
     <senses/>
@@ -6684,7 +6684,7 @@ Snarla is a 6th-level spellcaster. Her spellcasting ability is Intelligence (spe
     </trait>
     <slots>0, 4, 3, 3</slots>
     <spells>fire bolt, light, mage hand, shocking grasp, magic missile, shield, thunderwave, mirror image, web, dispel magic, fear, haste, stinking cloud</spells>
-    <description>A werewolf is a savage predator. In its humanoid form, a werewolf has heightened senses, a fiery temper, and a tendency to eat rare meat. Its wolf form is a fearsome predator, but its hybrid form is more terrifying by far-a furred and well-muscled humanoid body topped by a ravening wolf's head. A werewolf can wield weapons in hybrid form, though it prefers to tear foes apart with its powerful claws and bite.
+    <description>A werewolf is a savage predator. In its humanoid form, a werewolf has heightened senses, a fiery temper, and a tendency to eat rare meat. Its wolf form is a fearsome predator, but its hybrid form is more terrifying by far-a furred and well-muscled humanoid body topped by a ravening wolf&apos;s head. A werewolf can wield weapons in hybrid form, though it prefers to tear foes apart with its powerful claws and bite.
 
 Most werewolves flee civilized lands not long after becoming afflicted. Those that reject the curse fear what will happen if they remain among their friends and family. Those that embrace the curse fear discovery and the consequences of their murderous acts. In the wild, werewolves form packs that also include wolves and dire wolves.
 
@@ -6888,10 +6888,10 @@ Source:	Tales from the Yawning Portal p. 53</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>10</cr>
     <resist/>
-    <immune>poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</immune>
+    <immune>poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t adamantine</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
@@ -6991,7 +6991,7 @@ Var teleports up to 30 feet to an unoccupied space he can see. Alternatively, he
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Tarul can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Tarul regains spent legendary actions at the start of its turn.</text>
+      <text>Tarul can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Tarul regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Cantrip</name>
@@ -7024,7 +7024,7 @@ Var is a 12th-level spellcaster. His spellcasting ability is Intelligence (spell
 	• 6th level (1 slots): circle of death</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 3, 1</slots>
-    <spells>fire bolt, mage hand, minor illusion, prestidigitation, ray of frost, detect magic, magic missile, shield, unseen servant, detect thoughts, flaming sphere, mirror image, scorching ray, counterspell, dispel magic, fireball, dimension door, Evard's black tentacles, cloudkill, scrying, circle of death</spells>
+    <spells>fire bolt, mage hand, minor illusion, prestidigitation, ray of frost, detect magic, magic missile, shield, unseen servant, detect thoughts, flaming sphere, mirror image, scorching ray, counterspell, dispel magic, fireball, dimension door, Evard&apos;s black tentacles, cloudkill, scrying, circle of death</spells>
     <description>After failing in an earlier task for the Red Wizards, the lich Tarul Var is sequestered within the Doomvault (Dead in Thay), where he tries to avoid the attention of Szass Tam. Interlopers who discover his quarters are set upon by the lich and his dread warrior guards, but if Var is brought to the brink of death, he might bargain for a chance to escape the dungeon.
 
 Undead Nature:
@@ -7374,10 +7374,10 @@ Instead of dealing damage, the vampire can grapple the target, escape DC 13.</te
 The vampire magically calls 2d4 swarms of bats, provided that the sun isn't up. The called creatures arrive in 1d4 rounds, acting as allies of the vampire and obeying its spoken commands. The beasts remain for 1 hour, until the vampire dies, or until the vampire dismisses them as a bonus action.</text>
     </action>
     <action>
-      <name>Tloques' Berserker Axe +2</name>
+      <name>Tloques&apos; Berserker Axe +2</name>
       <text>
 Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage.</text>
-      <attack>Tloques' Berserker Axe +2|+5|1d8+5</attack>
+      <attack>Tloques&apos; Berserker Axe +2|+5|1d8+5</attack>
     </action>
     <trait>
       <name>Innate Spellcasting</name>
@@ -7442,7 +7442,7 @@ Source:	Tales from the Yawning Portal p. 68</description>
     <passive>13</passive>
     <languages>the languages it knew in life</languages>
     <cr>3</cr>
-    <resist>necrotic; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>necrotic; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <immune>poison</immune>
     <vulnerable/>
     <conditionImmune>exhaustion, poisoned</conditionImmune>
@@ -7464,7 +7464,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) necrot
 
 The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</text>
       <attack>Life Drain|+4|1d6+2</attack>
-      <text>A humanoid slain by this attack rises 24 hours later as a zombie under Torlin's control, unless the humanoid is restored to life or its body is destroyed. Torlin can have no more than twelve zombies under its control at one time.</text>
+      <text>A humanoid slain by this attack rises 24 hours later as a zombie under Torlin&apos;s control, unless the humanoid is restored to life or its body is destroyed. Torlin can have no more than twelve zombies under its control at one time.</text>
     </action>
     <action>
       <name>Longsword</name>
@@ -7498,10 +7498,10 @@ Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2)
     <save/>
     <skill>Perception +5, Stealth +4</skill>
     <passive>15</passive>
-    <languages>Common (can't speak in jaguar form)</languages>
+    <languages>Common (can&apos;t speak in jaguar form)</languages>
     <cr>4</cr>
     <resist/>
-    <immune>bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</immune>
+    <immune>bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</immune>
     <vulnerable/>
     <conditionImmune/>
     <senses>darkvision 60 ft.</senses>
@@ -8050,7 +8050,7 @@ Yusdrayl is a 2nd-level spellcaster. Her spellcasting ability is Charisma (spell
     </trait>
     <slots>0, 4</slots>
     <spells>mage hand, prestidigitation, ray of frost, shocking grasp, burning hands, chromatic orb, mage armor</spells>
-    <description>Kobolds are craven reptilian humanoids that worship evil dragons as demigods and serve them as minions and toadies. Kobolds inhabit dragons' lairs when they can but more commonly infest dungeons, gathering treasures and trinkets to add to their own tiny hoards.
+    <description>Kobolds are craven reptilian humanoids that worship evil dragons as demigods and serve them as minions and toadies. Kobolds inhabit dragons&apos; lairs when they can but more commonly infest dungeons, gathering treasures and trinkets to add to their own tiny hoards.
 
 Strength in Numbers:
 Kobolds are egg-laying creatures. They mature quickly and can live to be "great wyrms" more than a century old. However, many kobolds perish before they reach the end of their first decade. Physically weak, they are easy prey for predators. This vulnerability forces them to band together. Their superior numbers can win battles against powerful adversaries, but often with massive casualties on the kobold side.

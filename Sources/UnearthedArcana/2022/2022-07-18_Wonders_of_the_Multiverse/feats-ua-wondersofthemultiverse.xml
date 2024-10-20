@@ -324,7 +324,7 @@ Source:	Unearthed Arcana: Wonders Of The Multiverse p. 6</text>
   <!--feat>
     <name>Ember Of The Fire Giant (UA) (Strength)</name>
     <prerequisite>4th Level, Strike of the Giants (Fire Giant) Feat</prerequisite>
-    <text>You've manifested the fiery combat emblematic of fire giants, granting you the following benefits:
+    <text>You&apos;ve manifested the fiery combat emblematic of fire giants, granting you the following benefits:
 
 Ability Score Increase:
 Increase your Strength, Constitution, or Wisdom score by 1, to a maximum of 20.
@@ -341,7 +341,7 @@ Source:	Unearthed Arcana: Wonders Of The Multiverse p. 7</text>
   <feat>
     <name>Ember Of The Fire Giant (UA) (Constitution)</name>
     <prerequisite>4th Level, Strike of the Giants (Fire Giant) Feat</prerequisite>
-    <text>You've manifested the fiery combat emblematic of fire giants, granting you the following benefits:
+    <text>You&apos;ve manifested the fiery combat emblematic of fire giants, granting you the following benefits:
 
 Ability Score Increase:
 Increase your Strength, Constitution, or Wisdom score by 1, to a maximum of 20.
@@ -358,7 +358,7 @@ Source:	Unearthed Arcana: Wonders Of The Multiverse p. 7</text>
   <feat>
     <name>Ember Of The Fire Giant (UA) (Wisdom)</name>
     <prerequisite>4th Level, Strike of the Giants (Fire Giant) Feat</prerequisite>
-    <text>You've manifested the fiery combat emblematic of fire giants, granting you the following benefits:
+    <text>You&apos;ve manifested the fiery combat emblematic of fire giants, granting you the following benefits:
 
 Ability Score Increase:
 Increase your Strength, Constitution, or Wisdom score by 1, to a maximum of 20.
@@ -375,7 +375,7 @@ Source:	Unearthed Arcana: Wonders Of The Multiverse p. 7</text>
   <!--feat>
     <name>Fury Of The Frost Giant (UA) (Strength)</name>
     <prerequisite>4th Level, Strike of the Giants (Frost Giant) Feat</prerequisite>
-    <text>You've manifested the icy might emblematic of frost giants, granting you the following benefits:
+    <text>You&apos;ve manifested the icy might emblematic of frost giants, granting you the following benefits:
 
 Ability Score Increase:
 Increase your Strength, Constitution, or Wisdom score by 1, to a maximum of 20.
@@ -392,7 +392,7 @@ Source:	Unearthed Arcana: Wonders Of The Multiverse p. 7</text>
   <feat>
     <name>Fury Of The Frost Giant (UA) (Constitution)</name>
     <prerequisite>4th Level, Strike of the Giants (Frost Giant) Feat</prerequisite>
-    <text>You've manifested the icy might emblematic of frost giants, granting you the following benefits:
+    <text>You&apos;ve manifested the icy might emblematic of frost giants, granting you the following benefits:
 
 Ability Score Increase:
 Increase your Strength, Constitution, or Wisdom score by 1, to a maximum of 20.
@@ -409,7 +409,7 @@ Source:	Unearthed Arcana: Wonders Of The Multiverse p. 7</text>
   <feat>
     <name>Fury Of The Frost Giant (UA) (Wisdom)</name>
     <prerequisite>4th Level, Strike of the Giants (Frost Giant) Feat</prerequisite>
-    <text>You've manifested the icy might emblematic of frost giants, granting you the following benefits:
+    <text>You&apos;ve manifested the icy might emblematic of frost giants, granting you the following benefits:
 
 Ability Score Increase:
 Increase your Strength, Constitution, or Wisdom score by 1, to a maximum of 20.
@@ -426,7 +426,7 @@ Source:	Unearthed Arcana: Wonders Of The Multiverse p. 7</text>
   <feat>
     <name>Guile Of The Cloud Giant (UA) (Dexterity)</name>
     <prerequisite>4th Level, Strike of the Giants (Cloud Giant) Feat</prerequisite>
-    <text>You've manifested the airy speech and magic emblematic of cloud giants, granting you the following benefits:
+    <text>You&apos;ve manifested the airy speech and magic emblematic of cloud giants, granting you the following benefits:
 
 Ability Score Increase:
 Increase your Dexterity, Constitution, or Charisma score by 1, to a maximum of 20.
@@ -440,7 +440,7 @@ Source:	Unearthed Arcana: Wonders Of The Multiverse p. 7</text>
   <!--feat>
     <name>Guile Of The Cloud Giant (UA) (Constitution)</name>
     <prerequisite>4th Level, Strike of the Giants (Cloud Giant) Feat</prerequisite>
-    <text>You've manifested the airy speech and magic emblematic of cloud giants, granting you the following benefits:
+    <text>You&apos;ve manifested the airy speech and magic emblematic of cloud giants, granting you the following benefits:
 
 Ability Score Increase:
 Increase your Dexterity, Constitution, or Charisma score by 1, to a maximum of 20.
@@ -454,7 +454,7 @@ Source:	Unearthed Arcana: Wonders Of The Multiverse p. 7</text>
   <feat>
     <name>Guile Of The Cloud Giant (UA) (Charisma)</name>
     <prerequisite>4th Level, Strike of the Giants (Cloud Giant) Feat</prerequisite>
-    <text>You've manifested the airy speech and magic emblematic of cloud giants, granting you the following benefits:
+    <text>You&apos;ve manifested the airy speech and magic emblematic of cloud giants, granting you the following benefits:
 
 Ability Score Increase:
 Increase your Dexterity, Constitution, or Charisma score by 1, to a maximum of 20.
@@ -468,7 +468,7 @@ Source:	Unearthed Arcana: Wonders Of The Multiverse p. 7</text>
   <!--feat>
     <name>Keenness Of The Stone Giant (UA) (Strength)</name>
     <prerequisite>4th Level, Strike of the Giants (Stone Giant) Feat</prerequisite>
-    <text>You've manifested the physical talents emblematic of stone giants, granting you the following benefits:
+    <text>You&apos;ve manifested the physical talents emblematic of stone giants, granting you the following benefits:
 
 Ability Score Increase:
 Increase your Strength, Constitution, or Wisdom score by 1, to a maximum of 20.
@@ -485,7 +485,7 @@ Source:	Unearthed Arcana: Wonders Of The Multiverse p. 7</text>
   <feat>
     <name>Keenness Of The Stone Giant (UA) (Constitution)</name>
     <prerequisite>4th Level, Strike of the Giants (Stone Giant) Feat</prerequisite>
-    <text>You've manifested the physical talents emblematic of stone giants, granting you the following benefits:
+    <text>You&apos;ve manifested the physical talents emblematic of stone giants, granting you the following benefits:
 
 Ability Score Increase:
 Increase your Strength, Constitution, or Wisdom score by 1, to a maximum of 20.
@@ -502,7 +502,7 @@ Source:	Unearthed Arcana: Wonders Of The Multiverse p. 7</text>
   <feat>
     <name>Keenness Of The Stone Giant (UA) (Wisdom)</name>
     <prerequisite>4th Level, Strike of the Giants (Stone Giant) Feat</prerequisite>
-    <text>You've manifested the physical talents emblematic of stone giants, granting you the following benefits:
+    <text>You&apos;ve manifested the physical talents emblematic of stone giants, granting you the following benefits:
 
 Ability Score Increase:
 Increase your Strength, Constitution, or Wisdom score by 1, to a maximum of 20.
@@ -703,7 +703,7 @@ Source:	Unearthed Arcana: Wonders Of The Multiverse p. 8</text>
   <!--feat>
     <name>Rune Carver Apprentice (UA)</name>
     <prerequisite/>
-    <text>You've begun studying the art of runecraft.
+    <text>You&apos;ve begun studying the art of runecraft.
 
 You learn the comprehend languages spell. You can cast this spell without expending a spell slot, and you must finish a long rest before you can cast it in this way again. You can also cast this spell using any spell slots you have.
 
@@ -799,7 +799,7 @@ Source:	Unearthed Arcana: Wonders Of The Multiverse p. 8</text>
   <feat>
     <name>Scion Of Elemental Air (UA)</name>
     <prerequisite/>
-    <text>You've been exposed to the primordial magic of the Elemental Plane of Air, granting you the following benefits:
+    <text>You&apos;ve been exposed to the primordial magic of the Elemental Plane of Air, granting you the following benefits:
 
 Elemental Magic:
 You learn the minor illusion cantrip, using Intelligence, Wisdom, or Charisma as the spellcasting ability (choose when you select this feat).
@@ -812,7 +812,7 @@ Source:	Unearthed Arcana: Wonders Of The Multiverse p. 8</text>
   <feat>
     <name>Scion Of Elemental Earth (UA)</name>
     <prerequisite/>
-    <text>You've been exposed to the primordial magic of the Elemental Plane of Earth, granting you the following benefits:
+    <text>You&apos;ve been exposed to the primordial magic of the Elemental Plane of Earth, granting you the following benefits:
 
 Elemental Magic:
 You learn the druidcraft cantrip, using Intelligence, Wisdom, or Charisma as the spellcasting ability (choose when you select this feat).
@@ -825,7 +825,7 @@ Source:	Unearthed Arcana: Wonders Of The Multiverse p. 8</text>
   <feat>
     <name>Scion Of Elemental Fire (UA)</name>
     <prerequisite/>
-    <text>You've been exposed to the primordial magic of the Elemental Plane of Fire, granting you the following benefits:
+    <text>You&apos;ve been exposed to the primordial magic of the Elemental Plane of Fire, granting you the following benefits:
 
 Elemental Magic:
 You learn the dancing lights cantrip, using Intelligence, Wisdom, or Charisma as the spellcasting ability (choose when you select this feat).
@@ -838,7 +838,7 @@ Source:	Unearthed Arcana: Wonders Of The Multiverse p. 9</text>
   <feat>
     <name>Scion Of Elemental Water (UA)</name>
     <prerequisite/>
-    <text>You've been exposed to the primordial magic of the Elemental Plane of Water, granting you the following benefits:
+    <text>You&apos;ve been exposed to the primordial magic of the Elemental Plane of Water, granting you the following benefits:
 
 Elemental Magic:
 You learn the thaumaturgy cantrip, using Intelligence, Wisdom, or Charisma as the spellcasting ability (choose when you select this feat).
@@ -868,7 +868,7 @@ Source:	Unearthed Arcana: Wonders Of The Multiverse p. 9</text>
   <!--feat>
     <name>Soul Of The Storm Giant (UA) (Intelligence)</name>
     <prerequisite>4th Level, Strike of the Giants (Storm Giant) Feat</prerequisite>
-    <text>You've manifested divination abilities and tempest magic emblematic of storm giants, granting you the following benefits:
+    <text>You&apos;ve manifested divination abilities and tempest magic emblematic of storm giants, granting you the following benefits:
 
 Ability Score Increase:
 Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
@@ -882,7 +882,7 @@ Source:	Unearthed Arcana: Wonders Of The Multiverse p. 9</text>
   <feat>
     <name>Soul Of The Storm Giant (UA) (Wisdom)</name>
     <prerequisite>4th Level, Strike of the Giants (Storm Giant) Feat</prerequisite>
-    <text>You've manifested divination abilities and tempest magic emblematic of storm giants, granting you the following benefits:
+    <text>You&apos;ve manifested divination abilities and tempest magic emblematic of storm giants, granting you the following benefits:
 
 Ability Score Increase:
 Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
@@ -896,7 +896,7 @@ Source:	Unearthed Arcana: Wonders Of The Multiverse p. 9</text>
   <feat>
     <name>Soul Of The Storm Giant (UA) (Charisma)</name>
     <prerequisite>4th Level, Strike of the Giants (Storm Giant) Feat</prerequisite>
-    <text>You've manifested divination abilities and tempest magic emblematic of storm giants, granting you the following benefits:
+    <text>You&apos;ve manifested divination abilities and tempest magic emblematic of storm giants, granting you the following benefits:
 
 Ability Score Increase:
 Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
@@ -939,7 +939,7 @@ Source:	Unearthed Arcana: Wonders Of The Multiverse p. 9</text>
   <!--feat>
     <name>Vigor Of The Hill Giant (UA)</name>
     <prerequisite>4th Level, Strike of the Giants (Hill Giant) Feat</prerequisite>
-    <text>You've manifested the resilience emblematic of hill giants, granting you the following benefits:
+    <text>You&apos;ve manifested the resilience emblematic of hill giants, granting you the following benefits:
 
 Ability Score Increase:
 Increase your Constitution score by 1, to a maximum of 20.

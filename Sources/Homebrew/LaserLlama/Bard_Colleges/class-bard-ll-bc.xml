@@ -21,7 +21,7 @@ Source:	LaserLlama: Bard Colleges v2.1.0 p. 2 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>College of Chance (HB): Wild Inspiration</name>
-        <text>The nature of your magic bleeds into your other abilities. When a creature that can hear you within 30 feet makes an attack roll, ability check, or saving throw, you can use your reaction to expend a use of Bardic Inspiration, roll the Bardic Inspiration die, and add the result to the creature's roll.
+        <text>The nature of your magic bleeds into your other abilities. When a creature that can hear you within 30 feet makes an attack roll, ability check, or saving throw, you can use your reaction to expend a use of Bardic Inspiration, roll the Bardic Inspiration die, and add the result to the creature&apos;s roll.
 
 Source:	LaserLlama: Bard Colleges v2.1.0 p. 2 (Homebrew)</text>
       </feature>
@@ -60,7 +60,7 @@ Source:	LaserLlama: Bard Colleges v2.1.0 p. 3 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>College of Chaos (HB): Sower of Discord</name>
-        <text>You gain the skills to sow strife amongst your foes. You gain proficiency with disguise kits, forgery kits, and theives' tools.
+        <text>You gain the skills to sow strife amongst your foes. You gain proficiency with disguise kits, forgery kits, and theives&apos; tools.
 
 Source:	LaserLlama: Bard Colleges v2.1.0 p. 3 (Homebrew)</text>
       </feature>
@@ -89,7 +89,7 @@ Source:	LaserLlama: Bard Colleges v2.1.0 p. 3 (Homebrew)</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>College of Chaos (HB): Reign of Chaos</name>
-        <text>You have mastered the chaotic magic that is the source of your power. You learn confusion, but it doesn't count against your total number of Spells Known. If you already know this spell you instead learn another enchantment spell of your choice from the Bard spell list.
+        <text>You have mastered the chaotic magic that is the source of your power. You learn confusion, but it doesn&apos;t count against your total number of Spells Known. If you already know this spell you instead learn another enchantment spell of your choice from the Bard spell list.
 
 As a bonus action, you can expend a use of your Bardic Inspiration to cast confusion with the following changes:
 
@@ -109,7 +109,7 @@ Source:	LaserLlama: Bard Colleges v2.1.0 p. 3 (Homebrew)</text>
 Source:	LaserLlama: Bard Colleges v2.1.0 p. 3 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>College of Command (HB): Commander's Training</name>
+        <name>College of Command (HB): Commander&apos;s Training</name>
         <text>You have honed both your body and mind for battle. You gain proficiency with medium armor, shields, and martial weapons that lack the heavy or two-handed properties.
 
 In addition, you gain proficiency with two gaming sets of your choice, and you can add double your proficiency bonus to any ability check that uses these gaming sets.
@@ -162,7 +162,7 @@ Source:	LaserLlama: Bard Colleges v2.1.0 p. 4 (Homebrew)</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Bard College: College of Crossroads (HB)</name>
-        <text>While most Bards are naturally skilled musicians, singers, or storytellers, some gained their talent through more nefarious means. Known informally as the College of Crossroads, this organization is named for the traditional location where such mortal bargains are made. An agreement with a devil, demon, or other denizen of the lower planes is the start of such an infernal Bard's quest for personal power, fame, and fortune.
+        <text>While most Bards are naturally skilled musicians, singers, or storytellers, some gained their talent through more nefarious means. Known informally as the College of Crossroads, this organization is named for the traditional location where such mortal bargains are made. An agreement with a devil, demon, or other denizen of the lower planes is the start of such an infernal Bard&apos;s quest for personal power, fame, and fortune.
 
 Source:	LaserLlama: Bard Colleges v2.1.0 p. 4 (Homebrew)</text>
       </feature>
@@ -246,7 +246,7 @@ Your flair for tragedy allows you to inflict sorrow upon your foes. When a hosti
 Source:	LaserLlama: Bard Colleges v2.1.0 p. 5 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>College of Drama (HB): Thespian's Craft</name>
+        <name>College of Drama (HB): Thespian&apos;s Craft</name>
         <text>The Muse has granted the skills of a master stage performer. You gain proficiency in Performance and with disguise kits, and whenever you make an ability check with either of these proficiencies you can treat a d20 roll of 7 or lower as an 8.
 
 Source:	LaserLlama: Bard Colleges v2.1.0 p. 6 (Homebrew)</text>
@@ -335,7 +335,7 @@ Source:	LaserLlama: Bard Colleges v2.1.0 p. 7 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>College of Fine Art (HB): Classical Artist</name>
-        <text>You have mastered the use of visual art forms for your bardic magic. You gain proficiency with calligrapher's and painter's supplies, and whenever you make an ability check with either tool you can add double your proficiency bonus to your roll.
+        <text>You have mastered the use of visual art forms for your bardic magic. You gain proficiency with calligrapher&apos;s and painter&apos;s supplies, and whenever you make an ability check with either tool you can add double your proficiency bonus to your roll.
 
 Moreover, you can use calligrapher's supplies or painter's supplies as a spellcasting focus for any Bard spell you know.
 
@@ -345,7 +345,7 @@ Source:	LaserLlama: Bard Colleges v2.1.0 p. 7 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>College of Fine Art (HB): Living Art</name>
-        <text>Your signature bardic magic can bring your artwork to life. You learn the find familiar spell, but it doesn't count against your total number of Spells Known. Though, you can only cast find familiar using calligrapher's supplies or painter's supplies as your spellcasting focus.
+        <text>Your signature bardic magic can bring your artwork to life. You learn the find familiar spell, but it doesn't count against your total number of Spells Known. Though, you can only cast find familiar using calligrapher&apos;s supplies or painter&apos;s supplies as your spellcasting focus.
 
 When you cast find familiar in this way, your familiar resembles a living two-dimensional piece of artwork. As an action, your familiar can flatten itself against any surface to appear as mundane art or graffiti. If a creature succeeds on an Intelligence (Investigation) check against your Spell Save DC it realizes that the artwork is a living familiar.
 
@@ -355,7 +355,7 @@ Source:	LaserLlama: Bard Colleges v2.1.0 p. 8 (Homebrew)</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>College of Fine Art (HB): Illusory Artwork</name>
-        <text>If you cast an illusion spell and use calligrapher's supplies or painter's supplies as your spellcasting focus you can expend a use of Bardic Inspiration to cast the spell with a spell slot one level lower than you normally would (minimum of 1st-level).
+        <text>If you cast an illusion spell and use calligrapher&apos;s supplies or painter&apos;s supplies as your spellcasting focus you can expend a use of Bardic Inspiration to cast the spell with a spell slot one level lower than you normally would (minimum of 1st-level).
 
 Source:	LaserLlama: Bard Colleges v2.1.0 p. 8 (Homebrew)</text>
       </feature>
@@ -363,7 +363,7 @@ Source:	LaserLlama: Bard Colleges v2.1.0 p. 8 (Homebrew)</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>College of Fine Art (HB): Bardic Masterpiece</name>
-        <text>As an action you can use calligrapher's or painter's supplies to paint a picture of a beast of CR 4 or lower that you have seen before in an unoccupied space adjacent to you, bringing the artistic depiction on the beast to life for 1 minute.
+        <text>As an action you can use calligrapher&apos;s or painter&apos;s supplies to paint a picture of a beast of CR 4 or lower that you have seen before in an unoccupied space adjacent to you, bringing the artistic depiction on the beast to life for 1 minute.
 
 While it is animated, the artwork beast is completely under your control, is friendly toward you and your allies, and it uses the stat block of the beast you depicted. In combat, the beast shares your initiative, but it can only take the Dodge action unless you use your bonus action to command it to take an action from its stat block or another action.
 
@@ -402,7 +402,7 @@ Source:	LaserLlama: Bard Colleges v2.1.0 p. 8 (Homebrew)</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>College of Fools (HB): Sharp Tongue</name>
-        <text>You learn vicious mockery, but it doesn't count against your total number of Cantrips Known, and when you use vicious mockery you add your Charisma modifier to the damage roll.
+        <text>You learn vicious mockery, but it doesn&apos;t count against your total number of Cantrips Known, and when you use vicious mockery you add your Charisma modifier to the damage roll.
 
 If you already know vicious mockery you learn another cantrip of your choice from the Bard spell list.
 
@@ -419,8 +419,8 @@ Source:	LaserLlama: Bard Colleges v2.1.0 p. 9 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>College of Fools (HB): Fool's Luck</name>
-        <text>You combine bardic magic with foolish antics to manipulate luck. When you make an ability check, attack roll, or saving throw with advantage, you can choose to automatically fail in comical fashion and gain one point of Fool's Luck
+        <name>College of Fools (HB): Fool&apos;s Luck</name>
+        <text>You combine bardic magic with foolish antics to manipulate luck. When you make an ability check, attack roll, or saving throw with advantage, you can choose to automatically fail in comical fashion and gain one point of Fool&apos;s Luck
 
 When a creature within 30 feet that can see or hear you, makes an attack roll, ability check, or saving throw, you can use your reaction to expend a point of Fool's Luck to impose advantage or disadvantage (your choice) on its roll.
 
@@ -536,7 +536,7 @@ Source:	LaserLlama: Bard Colleges v2.1.0 p. 10 (Homebrew)</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>College of Radiance (HB): Beatific Vision</name>
-        <text>You can allow the power of your deity to shine forth from you. When you cast a Bard spell that forces at least one creature to make a saving throw, you can expend Bardic Inspiration to impose disadvantage on one creature's saving throw for each Bardic Inspiration you expend as part of this spell.
+        <text>You can allow the power of your deity to shine forth from you. When you cast a Bard spell that forces at least one creature to make a saving throw, you can expend Bardic Inspiration to impose disadvantage on one creature&apos;s saving throw for each Bardic Inspiration you expend as part of this spell.
 
 Source:	LaserLlama: Bard Colleges v2.1.0 p. 10 (Homebrew)</text>
       </feature>
@@ -577,7 +577,7 @@ Source:	LaserLlama: Bard Colleges v2.1.0 p. 11 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>College of Revelry (HB): Depraved Enchantments</name>
-        <text>Your voice drips with debilitating pleasure and weakens the mental resolve of your enemies. Whenever you cast an enchantment spell of 1st-level or higher with a verbal component, you can expend a use of Bardic Inspiration to impose disadvantage on the target's saving throw.
+        <text>Your voice drips with debilitating pleasure and weakens the mental resolve of your enemies. Whenever you cast an enchantment spell of 1st-level or higher with a verbal component, you can expend a use of Bardic Inspiration to impose disadvantage on the target&apos;s saving throw.
 
 Source:	LaserLlama: Bard Colleges v2.1.0 p. 11 (Homebrew)</text>
       </feature>

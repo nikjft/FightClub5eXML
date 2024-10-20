@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <item>
     <name>Akmon, Hammer of Purphoros</name>
@@ -10,7 +11,7 @@
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>B</dmgType>
-    <text>Purphoros's hammer works wonders and disasters, the god of the forge using it to craft ground-breaking marvels and dangerous inventions in equal measure. Purphoros rarely bestows Akmon on mortals but occasionally leaves it unattended at his forge in Mount Velus. When Purphoros does permit a mortal to use the hammer, it's usually so they might bring an important work into being, wreck a force of destruction, or forge something remarkable somewhere the god isn't welcome.
+    <text>Purphoros&apos;s hammer works wonders and disasters, the god of the forge using it to craft ground-breaking marvels and dangerous inventions in equal measure. Purphoros rarely bestows Akmon on mortals but occasionally leaves it unattended at his forge in Mount Velus. When Purphoros does permit a mortal to use the hammer, it&apos;s usually so they might bring an important work into being, wreck a force of destruction, or forge something remarkable somewhere the god isn&apos;t welcome.
 
 Hammer of the Forge: This magic warhammer grants a +3 bonus to attack and damage rolls made with it. When you hit with an attack using it, the target takes an extra 3d10 fire damage.
 
@@ -20,13 +21,13 @@ Blessing of the Forge: If you are a worshiper of Purphoros, you gain all the fol
 	• Piety 25+: The hammer has 1 randomly determined major beneficial property.
 	• Piety 50+: The hammer has 1 additional randomly determined major beneficial property.
 
-If you aren't a worshiper of Purphoros, the hammer has 2 randomly determined minor detrimental properties.
+If you aren&apos;t a worshiper of Purphoros, the hammer has 2 randomly determined minor detrimental properties.
 
-See "Artifacts" in chapter 7 of the Dungeon Master's Guide for details on randomly determined properties.
+See "Artifacts" in chapter 7 of the Dungeon Master&apos;s Guide for details on randomly determined properties.
 
-Reforged: While holding the hammer, you have resistance to fire damage and are immune to exhaustion. Additionally, you have proficiency with smith's tools and have advantage on all ability checks made using them.
+Reforged: While holding the hammer, you have resistance to fire damage and are immune to exhaustion. Additionally, you have proficiency with smith&apos;s tools and have advantage on all ability checks made using them.
 
-Spells: While the hammer is on your person, you can use an action to cast one of the following spells (save DC 18): animate objects, heat metal, fabricate, magic weapon, mending, shatter. Once you use the hammer to cast a spell, the spell can't be cast again from it until the next dusk.
+Spells: While the hammer is on your person, you can use an action to cast one of the following spells (save DC 18): animate objects, heat metal, fabricate, magic weapon, mending, shatter. Once you use the hammer to cast a spell, the spell can&apos;t be cast again from it until the next dusk.
 
 Destroying the Hammer: To destroy the hammer, it must be taken to the realm of Tizerus, in the Underworld. There it must be coated in clay from the Mire of Punishment. The heat of the hammer hardens the clay, which fuses to it after one month. Once fully hardened, the clay-covered hammer must be swallowed and digested by a kraken.
 
@@ -49,9 +50,9 @@ Source:	Mythic Odysseys of Theros p. 198</text>
     <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
     <range>20/60</range>
-    <text>Thassa wields Dekella, a two-pronged weapon gifted to her by Purphoros. When the god of the sea bestows her weapon on a mortal, it's often so they might work her will far from the ocean, right some wrong affecting those she'd prefer not to harm, or give a mortal a glimpse of her terrible responsibilities.
+    <text>Thassa wields Dekella, a two-pronged weapon gifted to her by Purphoros. When the god of the sea bestows her weapon on a mortal, it&apos;s often so they might work her will far from the ocean, right some wrong affecting those she&apos;d prefer not to harm, or give a mortal a glimpse of her terrible responsibilities.
 
-Bident of the Deep: Thassa's signature weapon thrums with the icy currents of the deep ocean. This weapon functions as a trident that grants a +3 bonus to attack and damage rolls made with it. When you hit with an attack using the bident, the target takes an extra 2d10 cold damage.
+Bident of the Deep: Thassa&apos;s signature weapon thrums with the icy currents of the deep ocean. This weapon functions as a trident that grants a +3 bonus to attack and damage rolls made with it. When you hit with an attack using the bident, the target takes an extra 2d10 cold damage.
 
 Blessing of the Deep: If you are a worshiper of Thassa, you gain all the following benefits for which you have the required piety:
 
@@ -59,21 +60,21 @@ Blessing of the Deep: If you are a worshiper of Thassa, you gain all the followi
 	• Piety 25+: The bident has 1 randomly determined minor beneficial property.
 	• Piety 50+: The bident has 1 randomly determined major beneficial property.
 
-If you aren't a worshiper of Thassa, the bident has 1 minor detrimental property and 1 major detrimental property, both randomly determined.
+If you aren&apos;t a worshiper of Thassa, the bident has 1 minor detrimental property and 1 major detrimental property, both randomly determined.
 
-See "Artifacts" in chapter 7 of the Dungeon Master's Guide for details on randomly determined properties.
+See "Artifacts" in chapter 7 of the Dungeon Master&apos;s Guide for details on randomly determined properties.
 
-Command the Deep: The bident holds the power to command the waves and its creatures. As an action, you can change the condition of the sea within 1 mile of you, creating strong winds and heavy rain that cause violent waves (see "Weather at Sea" in chapter 5 of the Dungeon Master's Guide) or calming a storm. In either case, the unnatural weather lasts for 1 hour before returning to normal. Once used, this property of the bident can't be used again until the next dusk.
+Command the Deep: The bident holds the power to command the waves and its creatures. As an action, you can change the condition of the sea within 1 mile of you, creating strong winds and heavy rain that cause violent waves (see "Weather at Sea" in chapter 5 of the Dungeon Master&apos;s Guide) or calming a storm. In either case, the unnatural weather lasts for 1 hour before returning to normal. Once used, this property of the bident can&apos;t be used again until the next dusk.
 
-Additionally, you can cast the dominate monster spell (save DC 18) from the bident, but only on beasts and monstrosities that have an innate swimming speed. Once used, this property of the bident can't be used again until the next dusk.
+Additionally, you can cast the dominate monster spell (save DC 18) from the bident, but only on beasts and monstrosities that have an innate swimming speed. Once used, this property of the bident can&apos;t be used again until the next dusk.
 
-Aquatic Metamorphosis: You can cast the true polymorph spell (save DC 18) from the bident, but you must cast it on a creature to turn it into a kind of creature that has an innate swimming speed. Once used, this property of the bident can't be used again until the next dusk.
+Aquatic Metamorphosis: You can cast the true polymorph spell (save DC 18) from the bident, but you must cast it on a creature to turn it into a kind of creature that has an innate swimming speed. Once used, this property of the bident can&apos;t be used again until the next dusk.
 
 Destroying the Bident: To destroy the bident, it must be heated by the breath of an ancient red dragon and then, while still hot, immersed in the Tartyx River.
 
 Thrown: If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
 
-Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.
+Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon&apos;s normal range in feet, and the second indicates the weapon&apos;s maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can&apos;t attack a target beyond the weapon&apos;s long range.
 
 Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property | the damage when the weapon is used with two hands to make a melee attack.
 
@@ -95,18 +96,18 @@ Source:	Mythic Odysseys of Theros p. 199</text>
     <range>80/320</range>
     <text>Nylea wields the shortbow Ephixis, the bow whose arrows herald the turning of the seasons. Nylea is quick to let her favored followers borrow her bow, particularly when they intend to use it to perform great deeds, put an end to foul creatures, or cast down the arrogant.
 
-Bow of the Wild: This divine weapon includes a shortbow and a quiver with four arrows, each tied to one of the four seasons. You gain a +3 bonus to attack and damage rolls made with this bow, and you suffer no disadvantage when attacking at the weapon's long range. Additionally, Ephixis scores a critical hit on a d20 roll of 19 or 20.
+Bow of the Wild: This divine weapon includes a shortbow and a quiver with four arrows, each tied to one of the four seasons. You gain a +3 bonus to attack and damage rolls made with this bow, and you suffer no disadvantage when attacking at the weapon&apos;s long range. Additionally, Ephixis scores a critical hit on a d20 roll of 19 or 20.
 
 Blessing of the Wild: If you are a worshiper of Nylea, you gain all the following benefits for which you have the required piety:
 
 	• Piety 10+: The bow has 1 randomly determined minor beneficial property.
 	• Piety 25+: The bow has 1 randomly determined major beneficial property.
 
-If you aren't a worshiper of Nylea, the bow has 1 randomly determined major detrimental property.
+If you aren&apos;t a worshiper of Nylea, the bow has 1 randomly determined major detrimental property.
 
-See "Artifacts" in chapter 7 of the Dungeon Master's Guide for details on randomly determined properties.
+See "Artifacts" in chapter 7 of the Dungeon Master&apos;s Guide for details on randomly determined properties.
 
-Arrows of the Seasons: The four arrows—each associated with a season—that accompany this bow can be fired only from it. Each arrow disappears immediately after it's used, and it reappears in the quiver at the next dusk. The save DC against spells cast with the arrows is 18. Each arrow has a unique property:
+Arrows of the Seasons: The four arrows—each associated with a season—that accompany this bow can be fired only from it. Each arrow disappears immediately after it&apos;s used, and it reappears in the quiver at the next dusk. The save DC against spells cast with the arrows is 18. Each arrow has a unique property:
 Spring: As an action, you can fire this arrow, targeting a beast or a plant creature you can see within 320 feet of you. On a hit, the arrow deals no damage, and the target gains the benefits of the awaken spell for 8 hours.
 
 Summer: As an action, you can fire this arrow at an unoccupied space on the ground that you can see within 320 feet of you, no attack roll required. A Nyxborn lynx is summoned in that space (use the stat block for a tiger with the Nyxborn traits from chapter 6). The lynx understands your verbal commands and obeys them as best it can, and it takes its turns immediately after yours. The emissary remains for 1 hour before fading away.
@@ -115,13 +116,13 @@ Autumn: As an action, you can fire this arrow at a space on the ground that you 
 
 Winter: As an action, you can fire this arrow at a space that you can see within 320 feet of you, no attack roll required, casting the ice storm spell there.
 
-Destroying the Bow: The bow can't be destroyed without first destroying all its arrows. The winter arrow must be fed to a cerberus on the winter solstice. The spring arrow must be planted at the base of a Black Oak of Asphodel on the spring equinox. The summer arrow must be broken by a sea giant on the summer solstice. Then the autumn arrow must be shot into the carcass of a hydra on the autumnal equinox. When all four arrows are destroyed, the bow and quiver dissolve into dust.
+Destroying the Bow: The bow can&apos;t be destroyed without first destroying all its arrows. The winter arrow must be fed to a cerberus on the winter solstice. The spring arrow must be planted at the base of a Black Oak of Asphodel on the spring equinox. The summer arrow must be broken by a sea giant on the summer solstice. Then the autumn arrow must be shot into the carcass of a hydra on the autumnal equinox. When all four arrows are destroyed, the bow and quiver dissolve into dust.
 
 Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
 
 If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see "Improvised Weapons").
 
-Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.
+Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon&apos;s normal range in feet, and the second indicates the weapon&apos;s maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can&apos;t attack a target beyond the weapon&apos;s long range.
 
 Two-Handed: This weapon requires two hands when you attack with it.
 
@@ -137,15 +138,15 @@ Source:	Mythic Odysseys of Theros p. 200</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>The chariot's riders and creatures pulling the chariot gain a +1 bonus to their AC.
+    <text>The chariot&apos;s riders and creatures pulling the chariot gain a +1 bonus to their AC.
 
 If this magic chariot is pulled by one or more flying creatures, it too can fly.
 
-Chariots: Chariots and the creatures pulling them work like controlled mounts, as described in the mounted combat rules in the Player's Handbook, but with the following differences:
+Chariots: Chariots and the creatures pulling them work like controlled mounts, as described in the mounted combat rules in the Player&apos;s Handbook, but with the following differences:
 
 	• Mounting or dismounting a chariot costs you 5 feet of movement, rather than a number of feet equal to half your speed.
 	• Being mounted on a chariot grants you half cover.
-	• A chariot's speed is equal to the speed of the slowest creature pulling it.
+	• A chariot&apos;s speed is equal to the speed of the slowest creature pulling it.
 	• If multiple creatures are pulling the chariot, they all act on the same initiative, and they must take the same action on their turn.
 
 Source:	Mythic Odysseys of Theros p. 196</text>
@@ -157,7 +158,7 @@ Source:	Mythic Odysseys of Theros p. 196</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>While wearing this helm, you know whether there is a celestial or fiend within 30 feet of you, as well as where the creature is located, provided the creature isn't behind total cover.
+    <text>While wearing this helm, you know whether there is a celestial or fiend within 30 feet of you, as well as where the creature is located, provided the creature isn&apos;t behind total cover.
 
 Whenever you finish a long rest while wearing the helm, you can pray to one of the gods listed on the Helm of the Gods table and store the listed spell in the helm, replacing any spell that is already stored there. The save DC for the spell is 13.
 
@@ -194,7 +195,7 @@ Source:	Mythic Odysseys of Theros p. 196</text>
     <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
     <range>20/60</range>
-    <text>Heliod wields Khrusor, a spear blessed with the power of the sun. In his hands, it can be pitched from Nyx to any point on Theros. When Heliod lends his weapon to a mortal, it's typically so they can perform some great work in his name or as a test of their worthiness.
+    <text>Heliod wields Khrusor, a spear blessed with the power of the sun. In his hands, it can be pitched from Nyx to any point on Theros. When Heliod lends his weapon to a mortal, it&apos;s typically so they can perform some great work in his name or as a test of their worthiness.
 
 Spear of the Sun: This spear grants a +3 bonus to attack and damage rolls made with it. When you hit with an attack using this spear, the target takes an extra 2d8 radiant damage.
 
@@ -205,21 +206,21 @@ Blessing of the Sun: If you are a worshiper of Heliod, you gain all the followin
 	• Piety 25+: The spear has 1 additional randomly determined minor beneficial property.
 	• Piety 50+: The spear has 1 randomly determined major beneficial property.
 
-If you aren't a worshiper of Heliod, the spear has 2 randomly determined major detrimental properties.
+If you aren&apos;t a worshiper of Heliod, the spear has 2 randomly determined major detrimental properties.
 
-See "Artifacts" in chapter 7 of the Dungeon Master's Guide for details on randomly determined properties.
+See "Artifacts" in chapter 7 of the Dungeon Master&apos;s Guide for details on randomly determined properties.
 
 Luminous: The spear sheds bright light in a 30-foot radius and dim light for an additional 30 feet. The light is sunlight.
 
-Sun's Retaliation: When you take damage from a creature within 5 feet of you, you can use your reaction to make a melee attack with the spear against that creature. On a hit, the spear deals damage as normal, and the creature is blinded until the start of its next turn. This property of the spear can't be used again until the next dawn.
+Sun&apos;s Retaliation: When you take damage from a creature within 5 feet of you, you can use your reaction to make a melee attack with the spear against that creature. On a hit, the spear deals damage as normal, and the creature is blinded until the start of its next turn. This property of the spear can&apos;t be used again until the next dawn.
 
 Spells: The spear has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells (save DC 18) from it: guiding bolt (1 charge), daylight (3 charges, targeting the tip of the spear only), sunbeam (6 charges). The spear regains 1d6 + 4 expended charges daily at dawn.
 
-Destroying the Spear: If taken to Erebos's palace in Tizerus, and used to sacrifice a champion of Heliod to Erebos, Khrusor is either destroyed or fundamentally twisted to Erebos's service.
+Destroying the Spear: If taken to Erebos&apos;s palace in Tizerus, and used to sacrifice a champion of Heliod to Erebos, Khrusor is either destroyed or fundamentally twisted to Erebos&apos;s service.
 
 Thrown: If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
 
-Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.
+Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon&apos;s normal range in feet, and the second indicates the weapon&apos;s maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can&apos;t attack a target beyond the weapon&apos;s long range.
 
 Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property | the damage when the weapon is used with two hands to make a melee attack.
 
@@ -239,11 +240,11 @@ Source:	Mythic Odysseys of Theros p. 200</text>
     <property>F,R,M</property>
     <dmg1>1d4</dmg1>
     <dmgType>S</dmgType>
-    <text>Erebos wields Mastix, a whip capable of extending like an impossibly long shadow. In the hands of the god of the dead, the whip snares the reluctant dead and drags them into his realm. When Erebos grants his weapon to a mortal follower, it's typically to reclaim a powerful soul or to humiliate Heliod.
+    <text>Erebos wields Mastix, a whip capable of extending like an impossibly long shadow. In the hands of the god of the dead, the whip snares the reluctant dead and drags them into his realm. When Erebos grants his weapon to a mortal follower, it&apos;s typically to reclaim a powerful soul or to humiliate Heliod.
 
-Whip of the Dead: Erebos's whip seethes with the enervating energy of the Underworld. This magic whip grants a +3 bonus to attack and damage rolls made with it. When you hit with an attack using this whip, the target takes an extra 2d8 necrotic damage and you regain hit points equal to half the amount of necrotic damage dealt.
+Whip of the Dead: Erebos&apos;s whip seethes with the enervating energy of the Underworld. This magic whip grants a +3 bonus to attack and damage rolls made with it. When you hit with an attack using this whip, the target takes an extra 2d8 necrotic damage and you regain hit points equal to half the amount of necrotic damage dealt.
 
-Additionally, when you make an attack with the whip on your turn, you can increase the range of the attack to 300 feet. This property of the weapon can't be used again until the next dusk.
+Additionally, when you make an attack with the whip on your turn, you can increase the range of the attack to 300 feet. This property of the weapon can&apos;t be used again until the next dusk.
 
 Blessing of the Dead: If you are a worshiper of Erebos, you gain all the following benefits for which you have the required piety:
 
@@ -251,11 +252,11 @@ Blessing of the Dead: If you are a worshiper of Erebos, you gain all the followi
 	• Piety 25+: The whip has 1 randomly determined major beneficial property.
 	• Piety 50+: The whip has 1 additional randomly determined major beneficial property.
 
-If you aren't a worshiper of Erebos, the whip has 2 randomly determined major detrimental properties.
+If you aren&apos;t a worshiper of Erebos, the whip has 2 randomly determined major detrimental properties.
 
-See "Artifacts" in chapter 7 of the Dungeon Master's Guide for details on randomly determined properties.
+See "Artifacts" in chapter 7 of the Dungeon Master&apos;s Guide for details on randomly determined properties.
 
-Erebos's Claim: While carrying the whip, you can use an action to cast either circle of death or dominate monster (targeting only undead) from the whip. The save DC for these spells is 18. Once you use the whip to cast a spell, that spell can't be cast from it again until the next dusk.
+Erebos&apos;s Claim: While carrying the whip, you can use an action to cast either circle of death or dominate monster (targeting only undead) from the whip. The save DC for these spells is 18. Once you use the whip to cast a spell, that spell can&apos;t be cast from it again until the next dusk.
 
 Destroying the Whip: To destroy the whip, it must be taken to the heights of Mount Hiastos in Nyx, unraveled by a Returned, and left to bask in continual daylight for one month.
 
@@ -277,9 +278,9 @@ Source:	Mythic Odysseys of Theros p. 201</text>
     <weight>20</weight>
     <property/>
     <ac>14</ac>
-    <text>This magical armor appears as a jug of molten bronze. When you attune to it, the bronze adheres and contours to your skin. The armor can be worn under normal clothes, but it doesn't impede bodily functions. Once you put it on, it can't be removed unless you choose to do so.
+    <text>This magical armor appears as a jug of molten bronze. When you attune to it, the bronze adheres and contours to your skin. The armor can be worn under normal clothes, but it doesn&apos;t impede bodily functions. Once you put it on, it can&apos;t be removed unless you choose to do so.
 
-While wearing the armor, you have resistance to fire damage. The armor also doesn't impose disadvantage on Dexterity (Stealth) checks.
+While wearing the armor, you have resistance to fire damage. The armor also doesn&apos;t impose disadvantage on Dexterity (Stealth) checks.
 
 Source:	Mythic Odysseys of Theros p. 197</text>
   </item>
@@ -291,9 +292,9 @@ Source:	Mythic Odysseys of Theros p. 197</text>
     <weight>40</weight>
     <property/>
     <ac>15</ac>
-    <text>This magical armor appears as a jug of molten bronze. When you attune to it, the bronze adheres and contours to your skin. The armor can be worn under normal clothes, but it doesn't impede bodily functions. Once you put it on, it can't be removed unless you choose to do so.
+    <text>This magical armor appears as a jug of molten bronze. When you attune to it, the bronze adheres and contours to your skin. The armor can be worn under normal clothes, but it doesn&apos;t impede bodily functions. Once you put it on, it can&apos;t be removed unless you choose to do so.
 
-While wearing the armor, you have resistance to fire damage. The armor also doesn't impose disadvantage on Dexterity (Stealth) checks.
+While wearing the armor, you have resistance to fire damage. The armor also doesn&apos;t impose disadvantage on Dexterity (Stealth) checks.
 
 Source:	Mythic Odysseys of Theros p. 197</text>
   </item>
@@ -306,9 +307,9 @@ Source:	Mythic Odysseys of Theros p. 197</text>
     <property/>
     <ac>18</ac>
     <strength>15</strength>
-    <text>This magical armor appears as a jug of molten bronze. When you attune to it, the bronze adheres and contours to your skin. The armor can be worn under normal clothes, but it doesn't impede bodily functions. Once you put it on, it can't be removed unless you choose to do so.
+    <text>This magical armor appears as a jug of molten bronze. When you attune to it, the bronze adheres and contours to your skin. The armor can be worn under normal clothes, but it doesn&apos;t impede bodily functions. Once you put it on, it can&apos;t be removed unless you choose to do so.
 
-While wearing the armor, you have resistance to fire damage. The armor also doesn't impose disadvantage on Dexterity (Stealth) checks.
+While wearing the armor, you have resistance to fire damage. The armor also doesn&apos;t impose disadvantage on Dexterity (Stealth) checks.
 
 If the wearer has a Strength score lower than 15, their speed is reduced by 10 feet.
 
@@ -322,13 +323,13 @@ Source:	Mythic Odysseys of Theros p. 197</text>
     <property/>
     <text>When you drink this potion, you transform into a pool of water. You return to your true form after 10 minutes or if you are incapacitated or die.
 
-You're under the following effects while in this form:
+You&apos;re under the following effects while in this form:
 
 	• Liquid Movement: You have a swimming speed of 30 feet. You can move over or through other liquids. You can enter and occupy the space of another creature. You can rise up to your normal height, and you can pass through even Tiny openings. You extinguish nonmagical flames in any space you enter.
 
 	• Watery Resilience: You have resistance to nonmagical damage. You also have advantage on Strength, Dexterity, and Constitution saving throws.
 
-	• Limitations: You can't talk, attack, cast spells, or activate magic items. Any objects you were carrying or wearing meld into your new form and are inaccessible, though you continue to be affected by anything you're wearing, such as armor.
+	• Limitations: You can&apos;t talk, attack, cast spells, or activate magic items. Any objects you were carrying or wearing meld into your new form and are inaccessible, though you continue to be affected by anything you&apos;re wearing, such as armor.
 
 Source:	Mythic Odysseys of Theros p. 197</text>
   </item>
@@ -339,21 +340,21 @@ Source:	Mythic Odysseys of Theros p. 197</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>A creature that touches this ornate wooden vessel for 1 minute gains the benefits of a short rest. That creature also gains the effects of the bless spell until the creature finishes a short or long rest. The creature can't gain these benefits again until it finishes a long rest.
+    <text>A creature that touches this ornate wooden vessel for 1 minute gains the benefits of a short rest. That creature also gains the effects of the bless spell until the creature finishes a short or long rest. The creature can&apos;t gain these benefits again until it finishes a long rest.
 
 If the vessel is opened, roll on the Pyxis of Pandemonium table to determine what happens. Any spells cast by the vessel have a spell save DC of 17. One minute after the vessel is opened, it disappears. It reappears, sealed, in a random location on the same plane of existence 24 hours later.
 
-Curse: Any creature that gains the benefit of a short rest from the vessel hears cloying telepathic whispers emanating from it. That creature must make a DC 17 Wisdom saving throw. On a failed save, the creature is charmed by the vessel for 1 hour. The charmed creature does everything it can to open the vessel as soon as possible. On a successful save, the creature is immune to the vessel's whispers for 24 hours.
+Curse: Any creature that gains the benefit of a short rest from the vessel hears cloying telepathic whispers emanating from it. That creature must make a DC 17 Wisdom saving throw. On a failed save, the creature is charmed by the vessel for 1 hour. The charmed creature does everything it can to open the vessel as soon as possible. On a successful save, the creature is immune to the vessel&apos;s whispers for 24 hours.
 
 d8 | Calamity
 1 | Androphagia. Each creature within 60 feet of the vessel must succeed on a DC 17 Wisdom saving throw or go berserk for 1 minute. The berserk creature must begin its turn using the Attack action to make one melee or ranged attack (its choice) against the creature nearest to it. The berserk creature can repeat the save at the end of its turn, ending the effect on itself on a success.
 2 | Bile Blight. The vessel casts the harm spell on each creature within 30 feet of it.
-3 | Flood. The vessel casts the tsunami spell at a point of the DM's choice within 120 feet of it.
-4 | Medusa's Gaze. The vessel casts the flesh to stone spell on each creature within 30 feet of it.
+3 | Flood. The vessel casts the tsunami spell at a point of the DM&apos;s choice within 120 feet of it.
+4 | Medusa&apos;s Gaze. The vessel casts the flesh to stone spell on each creature within 30 feet of it.
 5 | Labyrinth. The vessel casts the maze spell on each creature within 30 feet of it.
 6 | Nightmare. Tendrils of shadow seep from the vessel and form into 1d4 shadow demon (see the Monster Manual for their stat block), which appear in unoccupied spaces within 30 feet of it and are hostile.
 7 | Swarming Insects. The vessel casts the insect plague spell, centered on itself and with a radius of 30 feet.
-8 | Unbridled Revel. The vessel casts the Otto's irresistible dance spell on each creature within 30 feet of it.
+8 | Unbridled Revel. The vessel casts the Otto&apos;s irresistible dance spell on each creature within 30 feet of it.
 
 Source:	Mythic Odysseys of Theros p. 197</text>
     <roll>1d4</roll>
@@ -367,7 +368,7 @@ Source:	Mythic Odysseys of Theros p. 197</text>
     <property/>
     <text>You can use an action to play this lyre and cast one of the following spells from it: animal friendship, charm person, enthrall, suggestion. If the spell requires a saving throw, the spell save DC is 13.
 
-Once the instrument has been used to cast a spell, it can't be used to cast that spell again until the next dawn.
+Once the instrument has been used to cast a spell, it can&apos;t be used to cast that spell again until the next dawn.
 
 If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.
 
@@ -389,7 +390,7 @@ Identify a tune | 10
 Improvise a tune | 20
 
 Source:	Mythic Odysseys of Theros p. 198,
-		Xanathar's Guide to Everything p. 83</text>
+		Xanathar&apos;s Guide to Everything p. 83</text>
   </item>
   <item>
     <name>Sling Bullets of Althemone</name>

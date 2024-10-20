@@ -61,7 +61,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
     </trait>
     <trait>
       <name>Flight</name>
-      <text>Because of your wings, you have a flying speed equal to your walking speed. You can't use this flying speed if you're wearing medium or heavy armor.</text>
+      <text>Because of your wings, you have a flying speed equal to your walking speed. You can&apos;t use this flying speed if you&apos;re wearing medium or heavy armor.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -75,7 +75,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
     <proficiency>Perception</proficiency>
     <trait>
       <name>Description</name>
-      <text>Harengons originated in the Feywild, where they spoke Sylvan and embodied the spirit of freedom and travel. In time, these rabbitfolk hopped into other worlds, bringing the fey realm's exuberance with them and learning new languages as they went.
+      <text>Harengons originated in the Feywild, where they spoke Sylvan and embodied the spirit of freedom and travel. In time, these rabbitfolk hopped into other worlds, bringing the fey realm&apos;s exuberance with them and learning new languages as they went.
 
 Harengons are bipedal, with the characteristic long feet of the rabbits they resemble and fur in a variety of colors. They share the keen senses and powerful legs of leporine creatures and are full of energy, like a wound-up spring. Harengons are blessed with a little fey luck, and they often find themselves a few fortunate feet away from dangers during adventures.
 
@@ -108,7 +108,7 @@ Source:	The Wild Beyond The Witchlight p. 13</text>
     </trait>
     <trait>
       <name>Lucky Footwork</name>
-      <text>When you fail a Dexterity saving throw, you can use your reaction to roll a d4 and add it to the save, potentially turning the failure into a success. You can't use this reaction if you're prone or your speed is 0.</text>
+      <text>When you fail a Dexterity saving throw, you can use your reaction to roll a d4 and add it to the save, potentially turning the failure into a success. You can&apos;t use this reaction if you&apos;re prone or your speed is 0.</text>
     </trait>
     <trait>
       <name>Rabbit Hop</name>

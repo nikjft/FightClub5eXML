@@ -53,7 +53,7 @@ Source:	Matt Mercer - Totem of the Duck p. 2 (Homebrew)</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Totem of the Duck (HB): Spirit walker</name>
-        <text>At 10th level, you can cast the commune with nature spell, but only as a ritual. When you do so, a spiritual version of one of the animals you chose for Totem Spirit or Aspect of the Beast (let's just assume a duck) appears to you to convey the information you seek
+        <text>At 10th level, you can cast the commune with nature spell, but only as a ritual. When you do so, a spiritual version of one of the animals you chose for Totem Spirit or Aspect of the Beast (let&apos;s just assume a duck) appears to you to convey the information you seek
 
 Source:	Matt Mercer - Totem of the Duck p. 2 (Homebrew)</text>
       </feature>
@@ -61,7 +61,7 @@ Source:	Matt Mercer - Totem of the Duck p. 2 (Homebrew)</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Totem of the Duck (HB): Ducktemic Attunement</name>
-        <text>At 14th level, you gain a magical benefit based on a totem animal of your choice. You can choose the same animal you selected previously or a different one, but if you've come this far, don't be a dick. Choose the duck.
+        <text>At 14th level, you gain a magical benefit based on a totem animal of your choice. You can choose the same animal you selected previously or a different one, but if you&apos;ve come this far, don&apos;t be a dick. Choose the duck.
 
 Duck:
 While raging, if you hit a creature with a melee attack on your turn, you can forgo one of your other attacks to flap your arms while honking and flailing at that same target. The creature must succeed on a Wisdom saving throw (DC = 8 + your proficiency modifier + your Charisma modifier) or be frightened of you until the end of your next turn.

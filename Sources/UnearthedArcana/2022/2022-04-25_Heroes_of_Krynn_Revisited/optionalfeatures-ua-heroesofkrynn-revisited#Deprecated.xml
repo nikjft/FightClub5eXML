@@ -33,7 +33,7 @@ d6 | Personality Trait
     </trait>
     <trait>
       <name>Knight of Solamnia Trinkets</name>
-      <text>When you make your character, you may roll once on the Knight of Solamnia Trinkets table, instead of on the Trinkets table in the Player's Handbook, for your starting trinket.
+      <text>When you make your character, you may roll once on the Knight of Solamnia Trinkets table, instead of on the Trinkets table in the Player&apos;s Handbook, for your starting trinket.
 
 d6 | Trinket
 1 | A flat silver disk you record your heroics upon
@@ -49,7 +49,7 @@ d6 | Trinket
     <proficiency>Arcana, History</proficiency>
     <trait>
       <name>Description</name>
-      <text>Your talent for magic came to the attention of the Mages of High Sorcery, an organization of spellcasters that study magic and prevent its misuse. You've trained among the Mages, but whether or not you'll face the dangerous tests required to become a true member of the group remains to be determined. Your passion for studying magic has likely already predisposed you toward one of the organization's three orders: the benevolent Order of the White Robes, the balance-pursuing Order of the Red Robes, or the ruthless Order of the Black Robes.
+      <text>Your talent for magic came to the attention of the Mages of High Sorcery, an organization of spellcasters that study magic and prevent its misuse. You've trained among the Mages, but whether or not you&apos;ll face the dangerous tests required to become a true member of the group remains to be determined. Your passion for studying magic has likely already predisposed you toward one of the organization&apos;s three orders: the benevolent Order of the White Robes, the balance-pursuing Order of the Red Robes, or the ruthless Order of the Black Robes.
 
 In the world of Krynn, many refer to the Mages of High Sorcery as the Wizards of High Sorcery. The organization accepts more than wizards, though, with sorcerers, warlocks, and other spellcasters included among their ranks.
 
@@ -66,7 +66,7 @@ Source:	Unearthed Arcana: Heroes of Krynn Revisited p. 3</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>The study of magic drives the Mages of High Sorcery. Consider which of the group's three orders you aspire to join. The Mage of High Sorcery Personality Traits table suggests traits you might adopt for your character.
+      <text>The study of magic drives the Mages of High Sorcery. Consider which of the group&apos;s three orders you aspire to join. The Mage of High Sorcery Personality Traits table suggests traits you might adopt for your character.
 
 d6 | Personality Trait
 1 | I wish to use my knowledge of magic to better people's lives.
@@ -78,7 +78,7 @@ d6 | Personality Trait
     </trait>
     <trait>
       <name>Mage of High Sorcery Trinkets</name>
-      <text>When you make your character, you may roll once on the Mage of High Sorcery Trinkets table, instead of on the Trinkets table in the Player's Handbook, for your starting trinket.
+      <text>When you make your character, you may roll once on the Mage of High Sorcery Trinkets table, instead of on the Trinkets table in the Player&apos;s Handbook, for your starting trinket.
 
 d6 | Trinket
 1 | An unopened letter from your first teacher
@@ -152,7 +152,7 @@ Source:	Unearthed Arcana: Heroes of Krynn Revisited p. 4</text>
   <feat>
     <name>Initiate Of High Sorcery</name>
     <prerequisite>Sorcerer or Wizard Class or Mage of High Sorcery Background</prerequisite>
-    <text>You've received training from magic-users affiliated with the Mages of High Sorcery.
+    <text>You&apos;ve received training from magic-users affiliated with the Mages of High Sorcery.
 
 Choose one of the three moons of Krynn to influence your magic: the black moon, Nuitari; the red moon, Lunitari; or the white moon Solinari. You learn one cantrip of your choice from the wizard spell list and two 1st-level spells based on the moon you choose, as specified in the Lunar Spells table.
 

@@ -7,7 +7,7 @@
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>This backpack contains the spirit of an air elemental and a compact leather balloon. While you're wearing the backpack, you can deploy the balloon as an action and gain the effect of the levitate spell for 10 minutes, targeting yourself and requiring no concentration. Alternatively, you can use a reaction to deploy the balloon when you're falling and gain the effect of the feather fall spell for yourself.
+    <text>This backpack contains the spirit of an air elemental and a compact leather balloon. While you&apos;re wearing the backpack, you can deploy the balloon as an action and gain the effect of the levitate spell for 10 minutes, targeting yourself and requiring no concentration. Alternatively, you can use a reaction to deploy the balloon when you&apos;re falling and gain the effect of the feather fall spell for yourself.
 
 When either spell ends, the balloon slowly deflates as the elemental spirit escapes and returns to the Elemental Plane of Air. As the balloon deflates, you descend gently toward the ground for up to 60 feet. If you are still in the air at the end of this distance, you fall if you have no other means of staying aloft.
 
@@ -35,7 +35,7 @@ Source:	Princes of the Apocalypse p. 222</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>These heavy gauntlets of brown iron are forged in the shape of an umber hulk claws, and they fit the wearer's hands and forearms all the way up to the elbow. While wearing both claws, you gain a burrowing speed of 20 feet, and you can tunnel through solid rock at a rate of 1 foot per round.
+    <text>These heavy gauntlets of brown iron are forged in the shape of an umber hulk claws, and they fit the wearer&apos;s hands and forearms all the way up to the elbow. While wearing both claws, you gain a burrowing speed of 20 feet, and you can tunnel through solid rock at a rate of 1 foot per round.
 
 You can use a claw as a melee weapon while wearing it. You have proficiency with it, and it deals 1d8 slashing damage on a hit (your Strength modifier applies to the attack and damage rolls, as normal).
 
@@ -270,7 +270,7 @@ Source:	Princes of the Apocalypse p. 224</text>
     <modifier category="bonus">Melee Damage +2</modifier>
   </item>
   <item>
-    <name>Pathfinder's Greataxe [2014]</name>
+    <name>Pathfinder&apos;s Greataxe [2014]</name>
     <detail/>
     <type>M</type>
     <magic>YES</magic>
@@ -300,7 +300,7 @@ Source:	Princes of the Apocalypse p. 175</text>
     <dmg1>1d4+1</dmg1>
     <dmgType>P</dmgType>
     <range>20/60</range>
-    <text>You have a +1 bonus to attack and damage rolls made with this weapon, which doesn't make noise when it hits or cuts something.
+    <text>You have a +1 bonus to attack and damage rolls made with this weapon, which doesn&apos;t make noise when it hits or cuts something.
 
 The name "Reszur" is graven on the dagger's pommel. If the wielder speaks the name, the blade gives off a faint, cold glow, shedding dim light in a 10-foot radius until the wielder speaks the name again.
 
@@ -354,7 +354,7 @@ Source:	Princes of the Apocalypse p. 223</text>
     <dmg1>1d4</dmg1>
     <dmgType>B</dmgType>
     <range>60/120</range>
-    <text>This boomerang is a ranged weapon carved from griffon bone and etched with the symbol of elemental air. When thrown, it has a range of 60/120 feet, and any creature that is proficient with the javelin is also proficient with this weapon. On a hit, the boomerang deals 1d4 bludgeoning damage and 3d4 thunder damage, and the target must succeed on a DC 10 Constitution saving throw or be stunned until the end of its next turn. On a miss, the boomerang returns to the thrower's hand.
+    <text>This boomerang is a ranged weapon carved from griffon bone and etched with the symbol of elemental air. When thrown, it has a range of 60/120 feet, and any creature that is proficient with the javelin is also proficient with this weapon. On a hit, the boomerang deals 1d4 bludgeoning damage and 3d4 thunder damage, and the target must succeed on a DC 10 Constitution saving throw or be stunned until the end of its next turn. On a miss, the boomerang returns to the thrower&apos;s hand.
 
 Once the boomerang deals thunder damage to a target, the weapon loses its ability to deal thunder damage and its ability to stun a target. These properties return after the boomerang spends at least 1 hour inside an elemental air node.
 
@@ -464,7 +464,7 @@ Source:	Princes of the Apocalypse p. 224</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>This snug uniform has symbols of air stitched into it and leathery flaps that stretch along the arms, waist, and legs to create wings for gliding. A suit of wingwear has 3 charges. While you wear the suit, you can use a bonus action and expend 1 charge to gain a flying speed of 30 feet until you land. At the end of each of your turns, your altitude drops by 5 feet. Your altitude drops instantly to 0 feet at the end of your turn if you didn't fly at least 30 feet horizontally on that turn. When your altitude drops to 0 feet, you land (or fall), and you must expend another charge to use the suit again.
+    <text>This snug uniform has symbols of air stitched into it and leathery flaps that stretch along the arms, waist, and legs to create wings for gliding. A suit of wingwear has 3 charges. While you wear the suit, you can use a bonus action and expend 1 charge to gain a flying speed of 30 feet until you land. At the end of each of your turns, your altitude drops by 5 feet. Your altitude drops instantly to 0 feet at the end of your turn if you didn&apos;t fly at least 30 feet horizontally on that turn. When your altitude drops to 0 feet, you land (or fall), and you must expend another charge to use the suit again.
 
 The suit regains all of its expended charges after spending at least 1 hour in an elemental air node.
 

@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <race>
     <name>Half-Elf, Aquatic Elf Ancestry</name>
@@ -13,8 +14,8 @@
 
 Some half-elves live among humans, set apart by their emotional and physical differences, watching friends and loved ones age while time barely touches them. Others live with the elves, growing restless as they reach adulthood in the timeless elven realms, while their peers continue to live as children. Many half-elves, unable to fit into either society, choose lives of solitary wandering or join with other misfits and outcasts in the adventuring life.
 
-Source:	Player's Handbook p. 38,
-		Sword Coast Adventurer's Guide p. 116</text>
+Source:	Player&apos;s Handbook p. 38,
+		Sword Coast Adventurer&apos;s Guide p. 116</text>
     </trait>
     <trait>
       <name>Ability Score Increases</name>
@@ -26,7 +27,7 @@ Source:	Player's Handbook p. 38,
     </trait>
     <trait>
       <name>Alignment</name>
-      <text>Half-elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others' demands, and sometimes prove unreliable, or at least unpredictable.</text>
+      <text>Half-elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others&apos; demands, and sometimes prove unreliable, or at least unpredictable.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -40,11 +41,11 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Fey Ancestry</name>
-      <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
+      <text>You have advantage on saving throws against being charmed, and magic can&apos;t put you to sleep.</text>
     </trait>
     <trait>
       <name>Skill Versatility</name>
@@ -74,8 +75,8 @@ A half-elf of aquatic elf ancestry can select this feature in place of Skill Ver
 
 Some half-elves live among humans, set apart by their emotional and physical differences, watching friends and loved ones age while time barely touches them. Others live with the elves, growing restless as they reach adulthood in the timeless elven realms, while their peers continue to live as children. Many half-elves, unable to fit into either society, choose lives of solitary wandering or join with other misfits and outcasts in the adventuring life.
 
-Source:	Player's Handbook p. 38,
-		Sword Coast Adventurer's Guide p. 116</text>
+Source:	Player&apos;s Handbook p. 38,
+		Sword Coast Adventurer&apos;s Guide p. 116</text>
     </trait>
     <trait>
       <name>Ability Score Increases</name>
@@ -87,7 +88,7 @@ Source:	Player's Handbook p. 38,
     </trait>
     <trait>
       <name>Alignment</name>
-      <text>Half-elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others' demands, and sometimes prove unreliable, or at least unpredictable.</text>
+      <text>Half-elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others&apos; demands, and sometimes prove unreliable, or at least unpredictable.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -101,11 +102,11 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Fey Ancestry</name>
-      <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
+      <text>You have advantage on saving throws against being charmed, and magic can&apos;t put you to sleep.</text>
     </trait>
     <trait>
       <name>Skill Versatility</name>
@@ -135,8 +136,8 @@ A half-elf of dark elf ancestry can select this feature in place of Skill Versat
 
 Some half-elves live among humans, set apart by their emotional and physical differences, watching friends and loved ones age while time barely touches them. Others live with the elves, growing restless as they reach adulthood in the timeless elven realms, while their peers continue to live as children. Many half-elves, unable to fit into either society, choose lives of solitary wandering or join with other misfits and outcasts in the adventuring life.
 
-Source:	Player's Handbook p. 38,
-		Sword Coast Adventurer's Guide p. 116</text>
+Source:	Player&apos;s Handbook p. 38,
+		Sword Coast Adventurer&apos;s Guide p. 116</text>
     </trait>
     <trait>
       <name>Ability Score Increases</name>
@@ -148,7 +149,7 @@ Source:	Player's Handbook p. 38,
     </trait>
     <trait>
       <name>Alignment</name>
-      <text>Half-elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others' demands, and sometimes prove unreliable, or at least unpredictable.</text>
+      <text>Half-elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others&apos; demands, and sometimes prove unreliable, or at least unpredictable.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -162,11 +163,11 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Fey Ancestry</name>
-      <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
+      <text>You have advantage on saving throws against being charmed, and magic can&apos;t put you to sleep.</text>
     </trait>
     <trait>
       <name>Skill Versatility</name>
@@ -202,8 +203,8 @@ A half-elf of high elf ancestry can select this feature in place of Skill Versat
 
 Some half-elves live among humans, set apart by their emotional and physical differences, watching friends and loved ones age while time barely touches them. Others live with the elves, growing restless as they reach adulthood in the timeless elven realms, while their peers continue to live as children. Many half-elves, unable to fit into either society, choose lives of solitary wandering or join with other misfits and outcasts in the adventuring life.
 
-Source:	Player's Handbook p. 38,
-		Sword Coast Adventurer's Guide p. 116</text>
+Source:	Player&apos;s Handbook p. 38,
+		Sword Coast Adventurer&apos;s Guide p. 116</text>
     </trait>
     <trait>
       <name>Ability Score Increases</name>
@@ -215,7 +216,7 @@ Source:	Player's Handbook p. 38,
     </trait>
     <trait>
       <name>Alignment</name>
-      <text>Half-elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others' demands, and sometimes prove unreliable, or at least unpredictable.</text>
+      <text>Half-elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others&apos; demands, and sometimes prove unreliable, or at least unpredictable.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -229,11 +230,11 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Fey Ancestry</name>
-      <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
+      <text>You have advantage on saving throws against being charmed, and magic can&apos;t put you to sleep.</text>
     </trait>
     <trait>
       <name>Skill Versatility</name>
@@ -271,16 +272,16 @@ A half-elf of wood elf ancestry can select this feature in place of Skill Versat
     <spellAbility/>
     <trait>
       <name>Description</name>
-      <text>The comforts of home are the goals of most halflings' lives: a place to settle in peace and quiet, far from marauding monsters and clashing armies. Others form nomadic bands that travel constantly, lured by the open road and the wide horizon to discover the wonders of new lands and peoples. Halflings work readily with others, and they are loyal to their friends, whether halfling or otherwise. They can display remarkable ferocity when their friends, families, or communities are threatened.
+      <text>The comforts of home are the goals of most halflings&apos; lives: a place to settle in peace and quiet, far from marauding monsters and clashing armies. Others form nomadic bands that travel constantly, lured by the open road and the wide horizon to discover the wonders of new lands and peoples. Halflings work readily with others, and they are loyal to their friends, whether halfling or otherwise. They can display remarkable ferocity when their friends, families, or communities are threatened.
 
 Ghostwise halflings trace their ancestry back to a war among halfling tribes that sent their ancestors into flight from Luiren. Ghostwise halflings are the rarest of the hin, found only in the Chondalwood and a few other isolated forests, clustered in tight-knit clans.
 
 Many ghostwise clans select a natural landmark as the center of their territory, and members carry a piece of that landmark with them at all times. Clan warriors known as nightgliders bond with and ride giant owls as mounts.
 
-Because these folk are clannish and mistrustful of outsiders, ghostwise halfling adventurers are rare. Ask your DM if you can play a member of this subrace, which has the halfling traits in the Player's Handbook, plus the subrace traits below.
+Because these folk are clannish and mistrustful of outsiders, ghostwise halfling adventurers are rare. Ask your DM if you can play a member of this subrace, which has the halfling traits in the Player&apos;s Handbook, plus the subrace traits below.
 
-Source:	Player's Handbook p. 28,
-		Sword Coast Adventurer's Guide p. 110</text>
+Source:	Player&apos;s Handbook p. 28,
+		Sword Coast Adventurer&apos;s Guide p. 110</text>
     </trait>
     <trait>
       <name>Life Span</name>
@@ -318,7 +319,7 @@ Weight in pounds = 35 + your size modifie</text>
     </trait>
     <trait>
       <name>Languages</name>
-      <text>You can speak, read, and write Common and Halfling. The Halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.</text>
+      <text>You can speak, read, and write Common and Halfling. The Halfling language isn&apos;t secret, but halflings are loath to share it with others. They write very little, so they don&apos;t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.</text>
     </trait>
   </race>
   <race>
@@ -330,12 +331,12 @@ Weight in pounds = 35 + your size modifie</text>
     <spellAbility>Charisma</spellAbility>
     <trait>
       <name>Description</name>
-      <text>To be greeted with stares and whispers, to suffer violence and insult on the street, to see mistrust and fear in every eye: this is the lot of the tiefling. And to twist the knife, tieflings know that this is because a pact struck generations ago infused the essence of Asmodeus, overlord of the Nine Hells (and many of the other powerful devils serving under him) into their bloodline. Their appearance and their nature are not their fault but the result of an ancient sin, for which they and their children and their children's children will always be held accountable.
+      <text>To be greeted with stares and whispers, to suffer violence and insult on the street, to see mistrust and fear in every eye: this is the lot of the tiefling. And to twist the knife, tieflings know that this is because a pact struck generations ago infused the essence of Asmodeus, overlord of the Nine Hells (and many of the other powerful devils serving under him) into their bloodline. Their appearance and their nature are not their fault but the result of an ancient sin, for which they and their children and their children&apos;s children will always be held accountable.
 
-Since not all tieflings are of the blood of Asmodeus, some have traits that differ from those in the Player's Handbook. The Dungeon Master may permit the following variants for your tiefling character, although Devil's Tongue, Hellfire, and Winged are mutually exclusive. (Choose only one)
+Since not all tieflings are of the blood of Asmodeus, some have traits that differ from those in the Player&apos;s Handbook. The Dungeon Master may permit the following variants for your tiefling character, although Devil&apos;s Tongue, Hellfire, and Winged are mutually exclusive. (Choose only one)
 
-Source:	Player's Handbook p. 43,
-		Sword Coast Adventurer's Guide p. 118</text>
+Source:	Player&apos;s Handbook p. 43,
+		Sword Coast Adventurer&apos;s Guide p. 118</text>
     </trait>
     <trait>
       <name>Life Span</name>
@@ -357,7 +358,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Hellish Resistance</name>
@@ -369,7 +370,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Variant: Appearance</name>
-      <text>Appearance. Your tiefling might not look like other tieflings. Rather than having the physical characteristics described in the Player's Handbook, choose 1d4 + 1 of the following features:
+      <text>Appearance. Your tiefling might not look like other tieflings. Rather than having the physical characteristics described in the Player&apos;s Handbook, choose 1d4 + 1 of the following features:
 
 Small Horns;
 Fangs or Sharp Teeth;
@@ -385,7 +386,7 @@ Cast No Shadow Or Reflection;
 Exude a Smell Of Brimstone.</text>
     </trait>
     <trait>
-      <name>Variant: Devil's Tongue</name>
+      <name>Variant: Devil&apos;s Tongue</name>
       <text>You know the vicious mockery cantrip. When you reach 3rd level, you can cast the charm person spell as a 2nd-level spell once with this trait. When you reach 5th level, you can cast the enthrall spell once with this trait. You must finish a long rest to cast these spells once again with this trait. Charisma is your spellcasting ability for them. This trait replaces the Infernal Legacy trait.</text>
     </trait>
     <trait>
@@ -394,7 +395,7 @@ Exude a Smell Of Brimstone.</text>
     </trait>
     <trait>
       <name>Variant: Winged</name>
-      <text>You have bat-like wings sprouting from your shoulder blades. You have a flying speed of 30 feet while you aren't wearing heavy armor. This replaces the Infernal Legacy trait.</text>
+      <text>You have bat-like wings sprouting from your shoulder blades. You have a flying speed of 30 feet while you aren&apos;t wearing heavy armor. This replaces the Infernal Legacy trait.</text>
     </trait>
     <trait>
       <name>Languages</name>

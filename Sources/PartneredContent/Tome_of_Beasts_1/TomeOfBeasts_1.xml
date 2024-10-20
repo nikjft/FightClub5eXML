@@ -44,7 +44,7 @@ The undead nihileth is surrounded by a chilling cloud. A living creature that st
 If a creature communicates telepathically with the nihileth, or uses a psychic attack against it, the nihileth can spread its disease to the creature. The creature must succeed on a DC 14 Wisdom save or become infected with the same disease caused by the nihileth's tentacle attack.</text>
     </trait>
     <trait>
-      <name>Nihileth's Lair</name>
+      <name>Nihileth&apos;s Lair</name>
       <text>
 On initiative count 20 (losing initiative ties), the nihileth can take a lair action to create one of the magical effects as per an aboleth, or the void absorbance action listed below. The nihileth cannot use the same effect two rounds in a row.
 
@@ -129,11 +129,11 @@ One creature charmed by the aboleth takes 10 (3d6) psychic damage, and the abole
     </legendary>
 
     <legendary>
-      <name>The regional effects of a nihileth's lair are the same as that of an aboleth, except as following</name>
+      <name>The regional effects of a nihileth&apos;s lair are the same as that of an aboleth, except as following</name>
       <text/>
     </legendary>
     <legendary>
-      <name>Water sources within 1 mile of a nihileth's lair are not only supernaturally fouled but can spread the disease of the nihileth</name>
+      <name>Water sources within 1 mile of a nihileth&apos;s lair are not only supernaturally fouled but can spread the disease of the nihileth</name>
       <text>
 A creature who drinks from such water must make a successful DC 14 Constitution check or become infected.</text>
     </legendary>
@@ -159,7 +159,7 @@ A creature who drinks from such water must make a successful DC 14 Constitution 
     <conditionImmune>poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>8</passive>
-    <languages>understand Void Speech and the languages it knew in life but can't speak</languages>
+    <languages>understand Void Speech and the languages it knew in life but can&apos;t speak</languages>
     <cr>1</cr>
     <trait>
       <name>Undead Fortitude</name>
@@ -271,7 +271,7 @@ An abominable beauty's voice is lovely, but any creature within 90 feet and able
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>14</passive>
-    <languages>understands an ancient language, but can't speak</languages>
+    <languages>understands an ancient language, but can&apos;t speak</languages>
     <cr>4</cr>
     <trait>
       <name>Cursed Existence</name>
@@ -336,7 +336,7 @@ The ala doesn't provoke an opportunity attack when it flies out of an enemy's re
 The ala's poison infuses its flesh. A creature that makes a successful bite attack against an ala must make a DC 16 Constitution saving throw; if it fails, the creature takes 10 (3d6) poison damage.</text>
     </trait>
     <trait>
-      <name>Storm's Strength</name>
+      <name>Storm&apos;s Strength</name>
       <text>
 If an electrical storm is raging around an ala and its target, the saving throw against Lightning's Kiss is made with disadvantage.</text>
     </trait>
@@ -358,7 +358,7 @@ Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slash
       <attack>Claw|+8|2d8+5</attack>
     </action>
     <action>
-      <name>Lightning's Kiss (Recharge 5-6)</name>
+      <name>Lightning&apos;s Kiss (Recharge 5-6)</name>
       <recharge>D5</recharge>
       <text>
 One target within 50 feet must make a DC 16 Dexterity saving throw. It takes 28 (8d6) lightning damage on a failed save, or half as much damage on a successful one.</text>
@@ -791,7 +791,7 @@ The angel has advantage on saving throws against spells and other magical effect
 The angel's weapon attacks are magical while it is in eagle form.</text>
     </trait>
     <trait>
-      <name>To My Lover's Side (1/Day)</name>
+      <name>To My Lover&apos;s Side (1/Day)</name>
       <recharge>1/Day</recharge>
       <text>
 If separated from its mate, each fidele angel can use both plane shift and teleport 1/day to reunite.</text>
@@ -960,7 +960,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) pierci
 The giant ant queen has advantage on Wisdom (Perception) checks that rely on smell.</text>
     </trait>
     <trait>
-      <name>Queen's Scent</name>
+      <name>Queen&apos;s Scent</name>
       <text>
 Giant ants defending a queen gain advantage on all attack rolls.</text>
     </trait>
@@ -1257,7 +1257,7 @@ The azza gremlin can travel instantly along any bolt of lightning. When it is wi
     <description>Source:	Tome Of Beasts</description>
   </monster>
   <monster>
-    <name>Baba Yaga's Horsemen, Black Night</name>
+    <name>Baba Yaga&apos;s Horsemen, Black Night</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Lawful Neutral</alignment>
@@ -1335,7 +1335,7 @@ When the horseman strikes a target with a melee attack, in addition to taking no
     <description>Source:	Tome Of Beasts</description>
   </monster>
   <monster>
-    <name>Baba Yaga's Horsemen, Bright Day</name>
+    <name>Baba Yaga&apos;s Horsemen, Bright Day</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Lawful Neutral</alignment>
@@ -1408,7 +1408,7 @@ When the horseman strikes a target with a melee attack, in addition to taking no
     <description>Source:	Tome Of Beasts</description>
   </monster>
   <monster>
-    <name>Baba Yaga's Horsemen, Red Sun</name>
+    <name>Baba Yaga&apos;s Horsemen, Red Sun</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Lawful Neutral</alignment>
@@ -1908,7 +1908,7 @@ A boloti can transform into a vortex of swirling, churning water for up to 4 min
     <cha>16</cha>
     <save>Dex +8</save>
     <skill>Arcana +5, Deception +6, Perception +3, Stealth +11</skill>
-    <resist>bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered</resist>
+    <resist>bludgeoning, piercing, and slashing damage from nonmagical weapons that aren&apos;t silvered</resist>
     <immune>necrotic, poison</immune>
     <conditionImmune>exhaustion, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
@@ -2069,7 +2069,7 @@ Melee Weapon Attack: +10 to hit, reach 0 ft., one creature in the swarm's space.
       <attack>Swirling Bones|+10|5d8+9</attack>
     </action>
     <action>
-      <name>Death's Embrace (Recharge 5-6)</name>
+      <name>Death&apos;s Embrace (Recharge 5-6)</name>
       <recharge>D5</recharge>
       <text>
 Melee Weapon Attack: +10 to hit, reach 0 ft., one creature in the swarm's space. Hit: the target is grappled (escape DC 16) and enveloped within the swarm's bones. The swarm can force the creature to move at its normal speed wherever the bone swarm wishes. Any non-area attack against the bone swarm has a 50 percent chance of hitting a creature grappled in Death's Embrace instead.</text>
@@ -2161,7 +2161,7 @@ Only one legendary action option can be used at a time and only at the end of an
 Boreas makes an ice spear attack.</text>
     </legendary>
     <legendary>
-      <name>North Wind's Glare</name>
+      <name>North Wind&apos;s Glare</name>
       <text>
 Boreas freezes a foe with a look. One creature within 60 feet that the avatar of Boreas can see must make a successful DC 19 Constitution saving throw or be petrified until the start of the avatar's next turn.</text>
     </legendary>
@@ -2190,7 +2190,7 @@ The avatar can then fly up to half its flying speed.</text>
     <cha>15</cha>
     <save>Dex +5, Con +7, Wis +4, Cha +5</save>
     <skill>Athletics +7, Deception +5, Intimidation +5, Perception +4, Stealth +5</skill>
-    <resist>acid, lightning; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered</resist>
+    <resist>acid, lightning; bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t silvered</resist>
     <immune>fire, poison</immune>
     <conditionImmune>charmed, exhaustion, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
@@ -2537,7 +2537,7 @@ Ranged Weapon Attack: +5 to hit, range 30/120 ft., one target. Hit: 5 (1d4 + 3) 
     <conditionImmune>blinded, deafened</conditionImmune>
     <senses>blindsight 60 ft. (blind beyond this radius)</senses>
     <passive>10</passive>
-    <languages>understands Sylvan, but can't speak</languages>
+    <languages>understands Sylvan, but can&apos;t speak</languages>
     <cr>3</cr>
     <trait>
       <name>Hail of Needles (1/Day)</name>
@@ -3441,7 +3441,7 @@ The weaving spider's speed and its slim, sharp blade can slice cloth, leather, a
     <languages>Common, Elvish, Sylvan</languages>
     <cr>1/4</cr>
     <trait>
-      <name>Clurichaun's Luck</name>
+      <name>Clurichaun&apos;s Luck</name>
       <text>
 Clurichauns add both their Dexterity and Charisma modifiers to their Armor Class.</text>
     </trait>
@@ -3540,7 +3540,7 @@ Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's space. Hi
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>10</passive>
-    <languages>Understands Common but can't speak</languages>
+    <languages>Understands Common but can&apos;t speak</languages>
     <cr>11</cr>
     <trait>
       <name>Absorb the Dead</name>
@@ -3755,7 +3755,7 @@ Melee Weapon Attack: +6 to hit, reach 0 ft., every target in the swarm's space. 
     <cha>20</cha>
     <save>Dex +8, Con +6, Wis +6</save>
     <skill>Perception +6, Stealth +8</skill>
-    <resist>acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered</resist>
+    <resist>acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t silvered</resist>
     <immune>necrotic, poison</immune>
     <conditionImmune>charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained</conditionImmune>
     <senses>darkvision 60 ft.</senses>
@@ -4574,7 +4574,7 @@ Alquam has advantage on saving throws against spells and other magical effects.<
 Alquam's weapon attacks are magical.</text>
     </trait>
     <trait>
-      <name>Alquam's Lair</name>
+      <name>Alquam&apos;s Lair</name>
       <text>
 On initiative count 20 (losing initiative ties), Alquam takes a lair action to cause one of the following effects; Alquam can't use the same effect two rounds in a row
 
@@ -4855,7 +4855,7 @@ Mechuiti's spellcasting ability is Charisma (spell save DC 22, +14 to hit with s
 Mechuiti can communicate simple concepts to apes.</text>
     </trait>
     <trait>
-      <name>Mechuiti's Lair</name>
+      <name>Mechuiti&apos;s Lair</name>
       <text>
 On initiative count 20 (losing initiative ties), Mechuiti takes a lair action to cause one of the following effects. Mechuiti can't use the same effect two rounds in a row.
 
@@ -4996,7 +4996,7 @@ Qorgeth has advantage on saving throws against spells and other magical effects.
 Qorgeth's weapon attacks are magical.</text>
     </trait>
     <trait>
-      <name>Qorgeth's Lair</name>
+      <name>Qorgeth&apos;s Lair</name>
       <text>
 On initiative count 20 (losing initiative ties), Qorgeth takes a lair action to cause one of the following effects; Qorgeth can't use the same effect two rounds in a row
 
@@ -5212,7 +5212,7 @@ The derro chooses a creature it can see within 30 feet and magically assaults it
     <cha>25</cha>
     <save>Dex +12, Con +14, Wis +12, Cha +14</save>
     <skill>Deception +14, Insight +12, Perception +12, Stealth +12</skill>
-    <resist>acid, cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered</resist>
+    <resist>acid, cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t silvered</resist>
     <immune>fire, poison</immune>
     <conditionImmune>charmed, frightened, poisoned, stunned</conditionImmune>
     <senses>truesight 120 ft.</senses>
@@ -5362,7 +5362,7 @@ If the target is a creature, it must succeed on a DC 13 Constitution saving thro
     <description>Source:	Tome Of Beasts</description>
   </monster>
   <monster>
-    <name>Ia'affrat</name>
+    <name>Ia&apos;affrat</name>
     <size>L</size>
     <type>swarm of Tiny elementals</type>
     <alignment>Lawful Evil</alignment>
@@ -5456,7 +5456,7 @@ Each creature in Ia'Affrat's space must make a DC 18 Strength saving throw. Each
     <save>Dex +9, Int +14, Wis +13, Cha +16</save>
     <skill>Deception +16, Insight +13, Perception +13, Persuasion +16</skill>
     <resist>cold</resist>
-    <immune>fire, poison; bludgeoning, piercing, and slashing from weapons that aren't silvered</immune>
+    <immune>fire, poison; bludgeoning, piercing, and slashing from weapons that aren&apos;t silvered</immune>
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>23</passive>
@@ -5488,7 +5488,7 @@ Mammon has advantage on saving throws against spells and other magical effects.<
 Mammon's weapon attacks are magical.</text>
     </trait>
     <trait>
-      <name>Mammon's Lair</name>
+      <name>Mammon&apos;s Lair</name>
       <text>
 On initiative count 20 (losing initiative ties), Mammon takes a lair action to cause one of the following effects; Mammon can't use the same effect two rounds in a row:
 
@@ -5580,7 +5580,7 @@ Mammon recharges his Your Weight In Gold ability.</text>
     <languages>Common, Celestial, Draconic, Infernal, Void Speech; telepathy 120 ft.</languages>
     <cr>24</cr>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede the devil's darkvision.</text>
     </trait>
@@ -5654,7 +5654,7 @@ Only one option can be used at a time and only at the end of another creature's 
 Totivillus makes one claw attack.</text>
     </legendary>
     <legendary>
-      <name>Devil's Mark</name>
+      <name>Devil&apos;s Mark</name>
       <text>
 Totivillus sprays magical ink from his fingertips at a single target within 30 feet. The target must make a successful DC 23 Dexterity saving throw or receive a devil's mark: a tattoo in the shape of Totivillus's personal seal. All devils have advantage on spell attacks made against the devil.marked creature, and the creature has disadvantage on saving throws made against spells and abilities used by devils. The mark can be removed by remove curse if the caster also makes a successful DC 23 spellcasting check. The mark reveals itself as desecrated to detect evil and good. It often shifts its position on the body, especially when it's concealed (and usually at the most inconvenient moment). Because such marks are sometimes placed on those who've made pacts with devils, NPC paladins and clerics might assume that any character bearing a devil's mark is in league with evil forces.</text>
     </legendary>
@@ -5681,7 +5681,7 @@ Totivillus casts a spell from its list of prepared spells, using a spell slot as
     <cha>19</cha>
     <save>Str +11, Dex +7, Con +9, Wis +6, Cha +8</save>
     <skill>Athletics +11, Intimidation +8</skill>
-    <resist>cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t silvered</resist>
     <immune>fire, poison</immune>
     <conditionImmune>poisoned</conditionImmune>
     <senses/>
@@ -5689,7 +5689,7 @@ Totivillus casts a spell from its list of prepared spells, using a spell slot as
     <languages>Common, Infernal; telepathy 100 ft.</languages>
     <cr>10</cr>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede the devil's darkvision.</text>
     </trait>
@@ -5757,7 +5757,7 @@ Automata devils radiate fear in a 10-foot radius. A creature that starts its tur
     <cha>20</cha>
     <save>Str +11, Dex +9, Con +12, Int +8, Cha +9</save>
     <skill>Athletics +11, Deception +9, Insight +9, Perception +9</skill>
-    <resist>bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered</resist>
+    <resist>bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t silvered</resist>
     <immune>cold, fire, poison</immune>
     <conditionImmune>poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
@@ -5765,7 +5765,7 @@ Automata devils radiate fear in a 10-foot radius. A creature that starts its tur
     <languages>Celestial, Common, Draconic, Infernal, Primordial; telepathy (120 ft.)</languages>
     <cr>12</cr>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede the devil's darkvision.</text>
     </trait>
@@ -5823,7 +5823,7 @@ Any weapons wielded by a chort devil do 10 (3d6) fire damage in addition to thei
     <cha>15</cha>
     <save>Wis +4, Cha +5</save>
     <skill>Deception +8, Insight +4</skill>
-    <resist>acid, cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered</resist>
+    <resist>acid, cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t silvered</resist>
     <immune>fire, poison</immune>
     <conditionImmune>poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
@@ -5831,7 +5831,7 @@ Any weapons wielded by a chort devil do 10 (3d6) fire damage in addition to thei
     <languages>Celestial, Common, Infernal, telepathy 120 ft.</languages>
     <cr>6</cr>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede the devil's darkvision.</text>
     </trait>
@@ -5900,7 +5900,7 @@ The crystalline devil magically sprays shards of crystal in a 15-foot cone. Each
     <cha>17</cha>
     <save>Str +6, Con +6, Wis +7, Cha +6</save>
     <skill>Deception +9, History +5, Insight +10, Persuasion +9, Sleight of Hand +8</skill>
-    <resist>cold; bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, and slashing damage from nonmagical weapons that aren&apos;t silvered</resist>
     <immune>fire, poison</immune>
     <conditionImmune>poisoned</conditionImmune>
     <senses/>
@@ -5908,12 +5908,12 @@ The crystalline devil magically sprays shards of crystal in a 15-foot cone. Each
     <languages>Celestial, Common, Draconic, Infernal; telepathy (120 ft.)</languages>
     <cr>7</cr>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede the devil's darkvision.</text>
     </trait>
     <trait>
-      <name>Liar's Largesse</name>
+      <name>Liar&apos;s Largesse</name>
       <text>
 A gilded devil has influence over the recipient of a gift for as long as that creature retains the gift. The recipient receives a -2 penalty on saving throws against the gilded devil's abilities and a further -10 penalty against scrying attempts made by the gilded devil. A remove curse spell removes this effect.</text>
     </trait>
@@ -6001,7 +6001,7 @@ A gilded devil can use this ability against the worn items of a grappled foe. Th
     <cha>18</cha>
     <save>Dex +6</save>
     <skill>Arcana +9, Deception +8, History +9, Stealth +8</skill>
-    <resist>cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t silvered</resist>
     <immune>fire, poison</immune>
     <conditionImmune>poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
@@ -6009,7 +6009,7 @@ A gilded devil can use this ability against the worn items of a grappled foe. Th
     <languages>Celestial, Common, Draconic, Infernal; telepathy (120 ft.)</languages>
     <cr>2</cr>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede the devil's darkvision.</text>
     </trait>
@@ -6049,7 +6049,7 @@ Their sharp, shrill tongues and sharper claws make ink devils more distracting t
 An ink devil can corrupt the magic within any scroll by touch. Any such corrupted scroll requires a DC 13 Intelligence saving throw to use successfully. If the check fails, the scroll's spell affects the caster if it is an offensive spell, or it affects the nearest devil if it is a beneficial spell.</text>
     </action>
     <action>
-      <name>Devil's Mark</name>
+      <name>Devil&apos;s Mark</name>
       <text>
 Ink devils can flick ink from their fingertips at a single target within 15 feet of the devil. The target must succeed on a Dexterity saving throw (DC 13), or the affected creature gains a devil's mark.a black, red, or purple tattoo in the shape of an archduke's personal seal (most often Mammon or Totivillus but sometimes Arbeyach, Asmodeus, Beelzebub, Dispater, or others). All devils have advantage on spell attacks made against the devil-marked creature, and the creature has disadvantage on saving throws made against spells and abilities used by devils. The mark can be removed only by a remove curse spell or comparable magic. In addition, the mark detects as faintly evil and often shifts its position on the body. Paladins, witchfinders, and some clerics may consider such a mark proof that a creature has made a pact with a devil.</text>
     </action>
@@ -6070,7 +6070,7 @@ Ink devils can flick ink from their fingertips at a single target within 15 feet
     <wis>11</wis>
     <cha>13</cha>
     <save>Con +7, Wis +4, Cha +5</save>
-    <resist>cold; bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, and slashing damage from nonmagical weapons that aren&apos;t silvered</resist>
     <immune>fire, poison</immune>
     <conditionImmune>poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
@@ -6078,7 +6078,7 @@ Ink devils can flick ink from their fingertips at a single target within 15 feet
     <languages>Infernal, telepathy 120 ft.</languages>
     <cr>11</cr>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness does not impair the koralk's darkvision.</text>
     </trait>
@@ -6133,7 +6133,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) pierc
     <cha>18</cha>
     <save>Str +8, Dex +8, Con +8, Wis +5</save>
     <skill>Perception +5</skill>
-    <resist>cold; bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, and slashing damage from nonmagical weapons that aren&apos;t silvered</resist>
     <immune>fire, poison</immune>
     <conditionImmune>poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
@@ -6141,7 +6141,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) pierc
     <languages>Celestial, Draconic, Elvish, Infernal, Sylvan, telepathy 120 ft.</languages>
     <cr>8</cr>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede the devil's darkvision.</text>
     </trait>
@@ -6223,7 +6223,7 @@ Ranged Spell Attack: +7 to hit, range 150 ft., one target. Hit: 19 (3d12) cold d
     <cha>21</cha>
     <save>Str +13, Dex +7, Con +14, Wis +13</save>
     <skill>Deception +10, History +11, Insight +13, Perception +13, Persuasion +10</skill>
-    <resist>acid, cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered</resist>
+    <resist>acid, cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t silvered</resist>
     <immune>fire, poison</immune>
     <conditionImmune>poisoned</conditionImmune>
     <senses>truesight 90 ft.</senses>
@@ -6308,7 +6308,7 @@ Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 15 (2d6 + 8) blud
     <cha>15</cha>
     <save>Dex +4, Con +7, Cha +5</save>
     <skill>Perception +5, Stealth +4</skill>
-    <resist>acid, cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered</resist>
+    <resist>acid, cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t silvered</resist>
     <immune>fire, poison</immune>
     <conditionImmune>poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
@@ -6316,7 +6316,7 @@ Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 15 (2d6 + 8) blud
     <languages>Celestial, Common, Gnoll, Infernal, telepathy 120 ft.</languages>
     <cr>6</cr>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede the devil's darkvision.</text>
     </trait>
@@ -6417,7 +6417,7 @@ If the mbielu is grappled by a Large creature, it rolls on top of the grappler a
 If the ngobou moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the ngobou can make one stomp attack against it as a bonus action.</text>
     </trait>
     <trait>
-      <name>Elephants' Bane</name>
+      <name>Elephants&apos; Bane</name>
       <text>
 The ngobou has advantage on attacks against elephants. It can detect by scent whether an elephant has been within 180 feet of its location anytime in the last 48 hours.</text>
     </trait>
@@ -6961,7 +6961,7 @@ The dragon's innate spellcasting ability is Charisma (spell save DC 18). It can 
 	• 1/Day each: dispel magic, hold person</text>
     </trait>
     <trait>
-      <name>Cave Dragon's Lair</name>
+      <name>Cave Dragon&apos;s Lair</name>
       <text>
 On initiative count 20 (losing initiative ties), the dragon takes a lair action for one of the following effects; the dragon can't use the same effect two rounds in a row
 
@@ -7194,7 +7194,7 @@ If the dragon fails a saving throw, it can choose to succeed instead.</text>
 All fire damage dealt by the dragon ignores fire resistance but not fire immunity.</text>
     </trait>
     <trait>
-      <name>Flame Dragon's Lair</name>
+      <name>Flame Dragon&apos;s Lair</name>
       <text>
 On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row.
 
@@ -7777,7 +7777,7 @@ If the dragon fails a saving throw, it can choose to succeed instead.</text>
 The dragon deals double damage to objects and structures.</text>
     </trait>
     <trait>
-      <name>Sea Dragon's Lair</name>
+      <name>Sea Dragon&apos;s Lair</name>
       <text>
 On initiative count 20 (losing initiative ties), the dragon takes a lair action and generates one of the following effects. The dragon can't use the same effect two rounds in a row
 
@@ -8100,7 +8100,7 @@ If the dragon fails a saving throw, it can choose to succeed instead.</text>
 Void dragons dwell in the empty expanse between the stars, and do not require air, food, drink, or sleep. When flying between stars the void dragon magically glides on solar winds, making the immense journey through the void in an impossibly short time.</text>
     </trait>
     <trait>
-      <name>Void Dragon's Lair</name>
+      <name>Void Dragon&apos;s Lair</name>
       <text>
 On initiative count 20 (losing initiative ties), the dragon takes a lair action to generate one of the following effects; the dragon can't use the same effect two rounds in a row
 
@@ -8520,7 +8520,7 @@ The dragon's movement is never impeded by difficult terrain, and its speed can't
 Gale-force winds rage around the dragon, making it immune to ranged weapon attacks except for those from siege weapons.</text>
     </trait>
     <trait>
-      <name>Wind Dragon's Lair</name>
+      <name>Wind Dragon&apos;s Lair</name>
       <text>
 On initiative count 20 (losing initiative ties), the dragon takes a lair action to generate one of the following effects; the dragon can't use the same effect two rounds in a row.
 
@@ -9584,7 +9584,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 24 (4d10 + 2) slas
       <attack>Claw|+7|4d10+2</attack>
     </action>
     <action>
-      <name>Dream Eater's Caress</name>
+      <name>Dream Eater&apos;s Caress</name>
       <text>
 A creature that ends its turn grappled by a dream eater is restrained until the end of its next turn, it takes 5 (1d4 + 3) psychic damage, and the dream eater gains the same number of temporary hit points.</text>
     </action>
@@ -9617,7 +9617,7 @@ Every creature within 20 feet of the dream eater must make a DC 16 Charisma savi
     <wis>12</wis>
     <cha>18</cha>
     <save>Dex +6, Cha +7</save>
-    <resist>bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered</resist>
+    <resist>bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t silvered</resist>
     <immune>necrotic, poison</immune>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
@@ -9986,7 +9986,7 @@ Melee Weapon Attack: +9 to hit, one target. Hit: 19 (4d6 + 5) piercing damage, a
     <conditionImmune>charmed, exhaustion, grappled, frightened, paralyzed, petrified, poisoned, prone, restrained, unconscious</conditionImmune>
     <senses>blindsight 60 ft.</senses>
     <passive>11</passive>
-    <languages>Common but can't speak</languages>
+    <languages>Common but can&apos;t speak</languages>
     <cr>4</cr>
     <trait>
       <name>Rejuvenation</name>
@@ -10548,7 +10548,7 @@ The shadow fey's innate spellcasting ability is Charisma. It can cast the follow
 	• 1/Day: misty step (when in shadows, dim light, or darkness only)</text>
     </trait>
     <trait>
-      <name>Shadow's Vigil</name>
+      <name>Shadow&apos;s Vigil</name>
       <text>
 The shadow fey has advantage on Wisdom (Perception) checks, and magical darkness does not inhibit its darkvision.</text>
     </trait>
@@ -10667,7 +10667,7 @@ An emerald eye can overwhelm one humanoid creature within 25 feet with emotions 
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>10</passive>
-    <languages>understands Elvish and Umbral but can't speak</languages>
+    <languages>understands Elvish and Umbral but can&apos;t speak</languages>
     <cr>1/2</cr>
     <trait>
       <name>Diligent Sentinel</name>
@@ -10973,7 +10973,7 @@ Effects 3-6 are permanent until the character makes a successful Charisma saving
     <cha>18</cha>
     <save>Wis +6</save>
     <skill>Intimidation +6, Stealth +7</skill>
-    <resist>bludgeoning, piercing, and slashing from weapons that aren't made of cold iron</resist>
+    <resist>bludgeoning, piercing, and slashing from weapons that aren&apos;t made of cold iron</resist>
     <conditionImmune>charmed, frightened</conditionImmune>
     <senses>blindsight 30 ft.</senses>
     <passive>12</passive>
@@ -11161,7 +11161,7 @@ Ranged Weapon Attack: +6 to hit, range 60/200 ft., one creature. Hit: 25 (4d10 +
     <save>Str +9, Dex +4, Wis +7</save>
     <skill>Athletics +9, Intimidation +7, Perception +7</skill>
     <resist>cold</resist>
-    <immune>poison; bludgeoning, slashing, and piercing from nonmagical weapons that aren't made of cold iron</immune>
+    <immune>poison; bludgeoning, slashing, and piercing from nonmagical weapons that aren&apos;t made of cold iron</immune>
     <conditionImmune>poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>17</passive>
@@ -11189,7 +11189,7 @@ If the Bear King fails a saving throw, he can choose to succeed instead.</text>
 The Bear King regains 10 hit points at the start of his turn if he has at least 1 hit point.</text>
     </trait>
     <trait>
-      <name>Bear King's Lair</name>
+      <name>Bear King&apos;s Lair</name>
       <text>
 On initiative count 20 (losing initiative ties), the Bear King takes a lair action to cause one of the following effects; the Bear King can't use the same effect two rounds in a row
 
@@ -11285,7 +11285,7 @@ The Bear King lets out a bloodcurdling roar. All creatures within 90 feet who ca
     <cha>15</cha>
     <save>Str +11, Wis +10, Cha +8</save>
     <skill>Athletics +11, Perception +10, Survival +10</skill>
-    <resist>bludgeoning, piercing, and slashing from weapons that aren't made of cold iron</resist>
+    <resist>bludgeoning, piercing, and slashing from weapons that aren&apos;t made of cold iron</resist>
     <immune>cold, poison</immune>
     <conditionImmune>exhaustion, charmed, frightened, poisoned</conditionImmune>
     <senses>blindsight 10 ft., darkvision 60 ft.</senses>
@@ -11318,7 +11318,7 @@ If the Lord of the Hunt fails a saving throw, he can choose to succeed instead.<
 The Lord of the Hunt's weapon attacks are magical.</text>
     </trait>
     <trait>
-      <name>Lord of the Hunt's Lair</name>
+      <name>Lord of the Hunt&apos;s Lair</name>
       <text>
 On initiative count 20 (losing initiative ties), the Lord of the Hunt takes a lair action to cause one of the following effects; the Lord of the Hunt can't use the same effect two rounds in a row
 
@@ -11348,12 +11348,12 @@ When the Lord of the Hunt breaks camp or dies, the area around the previous camp
 The Lord of the Hunt makes three melee attacks or ranged attacks</text>
     </action>
     <action>
-      <name>Huntsman's Spear</name>
+      <name>Huntsman&apos;s Spear</name>
       <text>
 Melee or Ranged Weapon Attack: +11 to hit, reach 5 ft. or range 60/120 ft., one target. Hit: 12 (2d6 + 5) piercing damage or 14 (2d8 + 5) piercing damage if used in two hands, plus 7 (2d6) poison damage.
 
 If the target is a creature, it must succeed on a DC 19 Strength saving throw or be knocked prone. As a bonus action, the Lord of the Hunt can cause his spear to magically appear in his hand, even if it is destroyed.</text>
-      <attack>Huntsman's Spear|+11|2d6+5</attack>
+      <attack>Huntsman&apos;s Spear|+11|2d6+5</attack>
     </action>
     <action>
       <name>Howling Longbow</name>
@@ -11405,7 +11405,7 @@ The Lord of the Hunt blows his hunting horn and chooses one creature he can see 
     <cha>20</cha>
     <save>Con +10, Wis +10, Cha +11</save>
     <skill>Arcana +11, Perception +10</skill>
-    <resist>acid; bludgeoning, piercing, and slashing from weapons that aren't made of cold iron.</resist>
+    <resist>acid; bludgeoning, piercing, and slashing from weapons that aren&apos;t made of cold iron.</resist>
     <immune>cold, fire, poison</immune>
     <conditionImmune>charmed, frightened, poisoned</conditionImmune>
     <senses>blindsight 30 ft., darkvision 120 ft.</senses>
@@ -11438,7 +11438,7 @@ If the Moonlit King fails a saving throw, he can choose to succeed instead.</tex
 The Moonlit King's weapon attacks are magical, and deal an extra 7 (2d6) radiant damage (included below).</text>
     </trait>
     <trait>
-      <name>Moonlit King's Lair</name>
+      <name>Moonlit King&apos;s Lair</name>
       <text>
 On initiative count 20 (losing initiative ties), the Moonlit King takes a lair action to cause one of the following effects; the Moonlit King can't use the same effect two rounds in a row
 
@@ -11539,7 +11539,7 @@ While he is standing in an area of moonlight, the Moonlit King can spread his ma
     <save>Con +10, Wis +11</save>
     <skill>Arcana +12, Deception +15, Intimidation +15, Perception +11, Stealth +12</skill>
     <resist>fire, lightning</resist>
-    <immune>cold; bludgeoning, piercing, and slashing from weapons that aren't made of cold iron</immune>
+    <immune>cold; bludgeoning, piercing, and slashing from weapons that aren&apos;t made of cold iron</immune>
     <conditionImmune>charmed, frightened</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>21</passive>
@@ -11578,7 +11578,7 @@ The Queen of Night and Magic is an 18th-level spellcaster. Her spellcasting abil
 	• 9th level (1 slot): meteor swarm</text>
     </trait>
     <trait>
-      <name>The Queen of Night and Magic's Lair</name>
+      <name>The Queen of Night and Magic&apos;s Lair</name>
       <text>
 On initiative count 20 (losing initiative ties), the Queen of Night and Magic takes a lair action to cause one of the following effects; the Queen of Night and Magic can't use the same effect two rounds in a row
 
@@ -11687,7 +11687,7 @@ The Queen of Night and Magic casts a spell.</text>
     <cha>22</cha>
     <save>Dex +6, Wis +10, Cha +12</save>
     <skill>Arcana +9, Deception +12, History +9, Insight +10, Perception +10</skill>
-    <resist>fire, cold; bludgeoning, piercing, and slashing damage from weapons that aren't cold iron</resist>
+    <resist>fire, cold; bludgeoning, piercing, and slashing damage from weapons that aren&apos;t cold iron</resist>
     <immune>radiant</immune>
     <conditionImmune>blinded, charmed, frightened</conditionImmune>
     <senses>truesight 60 ft.</senses>
@@ -11726,7 +11726,7 @@ If Nicnevin fails a saving throw she can choose to succeed instead.</text>
 As an action, Nicnevin can cut a lock of her copper hair and twist it into a token for a creature she chooses. As long as that creature carries the token, it gains the magic resistance trait (see above). Nicnevin can revoke her favor at any time as a bonus action. When that happens, the creature loses the benefit of the token and, if Nicnevin wishes, the creature also has disadvantage on saving throws against spells and other magical effects for 24 hours.</text>
     </trait>
     <trait>
-      <name>The Queen of Witches's Lair</name>
+      <name>The Queen of Witches&apos;s Lair</name>
       <text>
 On initiative count 20 (losing initiative ties), Nicnevin takes a lair action to cause one of the following effects; Nicnevin can't use the same effect two rounds in a row
 
@@ -11812,7 +11812,7 @@ Nicnevin magically teleports to an unoccupied space she can see within 40 feet.<
     <cha>17</cha>
     <save>Dex +8, Con +10, Wis +6</save>
     <skill>Intimidation +8, Nature +7, Perception +6, Stealth +8</skill>
-    <resist>fire, cold, thunder; bludgeoning, piercing, and slashing damage from weapons that aren't cold iron</resist>
+    <resist>fire, cold, thunder; bludgeoning, piercing, and slashing damage from weapons that aren&apos;t cold iron</resist>
     <immune>lightning</immune>
     <conditionImmune>exhaustion</conditionImmune>
     <senses>blindsight 10 ft., darkvision 60 ft.</senses>
@@ -11845,7 +11845,7 @@ If the River King fails a saving throw, he can choose to succeed instead.</text>
 The River King's weapon attacks are magical and do an extra 10 (3d6) lightning damage (included below).</text>
     </trait>
     <trait>
-      <name>The River King's Lair</name>
+      <name>The River King&apos;s Lair</name>
       <text>
 On initiative count 20 (losing initiative ties), the River King takes a lair action to cause one of the following effects; the River King can't use the same effect two rounds in a row
 
@@ -11936,7 +11936,7 @@ The River King magically ripples like sunlight on the surface of water. Until th
     <cha>18</cha>
     <save>Dex +9, Con +7, Cha +9</save>
     <skill>Perception +10, Stealth +9</skill>
-    <resist>bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't cold iron</resist>
+    <resist>bludgeoning, piercing, and slashing damage from nonmagical weapons that aren&apos;t cold iron</resist>
     <immune>cold</immune>
     <conditionImmune>charmed, frightened, exhaustion</conditionImmune>
     <senses>blindsight 10 ft., darkvision 60 ft.</senses>
@@ -11969,7 +11969,7 @@ The Snow Queen's weapon attacks are magical and do an extra 7 (2d6) cold damage 
 The Snow Queen ignores difficult terrain caused by ice and snow. She can walk on vertical and horizontal surfaces that are covered by ice or snow.</text>
     </trait>
     <trait>
-      <name>The Snow Queen's Lair</name>
+      <name>The Snow Queen&apos;s Lair</name>
       <text>
 On initiative count 20 (losing initiative ties), the Snow Queen takes a lair action to cause one of the following effects; the Snow Queen can't use the same effect two rounds in a row
 
@@ -12065,7 +12065,7 @@ The Snow Queen throws her mantle of snow at a point she can see within 60 feet. 
     <cha>6</cha>
     <save>Con +7, Wis +3, Cha +1</save>
     <skill>Perception +3</skill>
-    <immune>poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine</immune>
+    <immune>poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t adamantine</immune>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>13</passive>
@@ -12095,7 +12095,7 @@ The feyward tree is immune to any spell or effect that would alter its form.</te
 The feyward tree's weapon attacks are magical.</text>
     </trait>
     <trait>
-      <name>Warden's Reach</name>
+      <name>Warden&apos;s Reach</name>
       <text>
 Creatures within 15 feet of a feyward tree provoke opportunity attacks even if they take the Disengage action before leaving its reach.</text>
     </trait>
@@ -13058,7 +13058,7 @@ While in direct sunlight, the emperor has disadvantage on attack rolls and Wisdo
 The emperor has advantage on saving throws against effects that turn undead.</text>
     </trait>
     <trait>
-      <name>Emperor Of The Ghouls' Lair Actions</name>
+      <name>Emperor Of The Ghouls&apos; Lair Actions</name>
       <text>
 On initiative count 20 (losing initiative ties), the Emperor takes a lair action to cause one of the following effects. The Emperor can't use the same effect two rounds in a row
 
@@ -13366,7 +13366,7 @@ The flab giant squats atop the target, pinning it to the ground, where it is gra
     <conditionImmune>exhaustion</conditionImmune>
     <senses/>
     <passive>19</passive>
-    <languages>Auran, Common, Giant (can't speak in roc form)</languages>
+    <languages>Auran, Common, Giant (can&apos;t speak in roc form)</languages>
     <cr>19</cr>
     <trait>
       <name>Innate Spellcasting</name>
@@ -13393,7 +13393,7 @@ If Hraesvelgr fails a saving throw, he can choose to succeed instead.</text>
 Hraesvelgr can use a bonus action to change into a roc. Any equipment he wears or carries melds into his new form. It keeps its game statistics except as noted. He reverts to his giant form if it is reduced to 0 hit points or when it uses a bonus action to change back.</text>
     </trait>
     <trait>
-      <name>Hraesvelgr's Lair</name>
+      <name>Hraesvelgr&apos;s Lair</name>
       <text>
 On initiative count 20 (losing initiative ties), Hraesvelgr takes a lair action to cause one of the following effects; Hraesvelgr can't use the same effect two rounds in a row
 
@@ -13542,7 +13542,7 @@ Ranged Weapon Attack: +16 to hit, range 90/240 ft., one target. Hit: 49 (6d12 + 
 Each creature of the giant's choice that is within 120 feet of the giant and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success. Once a creature's saving throw is successful, it is immune to the giant's Frightful Presence for the next 24 hours.</text>
     </action>
     <legendary>
-      <name>The Jotun giant can take 1 legendary action, and only at the end of another creature's turn</name>
+      <name>The Jotun giant can take 1 legendary action, and only at the end of another creature&apos;s turn</name>
       <text>
 The giant regains the spent legendary action at the start of its turn.</text>
     </legendary>
@@ -13786,7 +13786,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) pierci
     <cha>8</cha>
     <save>Dex +4</save>
     <skill>Acrobatics +4, Athletics +6, Stealth +6</skill>
-    <resist>bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered</resist>
+    <resist>bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t silvered</resist>
     <conditionImmune>charmed, frightened</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>11</passive>
@@ -13870,11 +13870,11 @@ Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d6 + 3) 
     <wis>11</wis>
     <cha>1</cha>
     <skill>Perception +8</skill>
-    <immune>fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine</immune>
+    <immune>fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t adamantine</immune>
     <conditionImmune>charmed, exhausted, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>18</passive>
-    <languages>understands the language of its creator, but can't speak</languages>
+    <languages>understands the language of its creator, but can&apos;t speak</languages>
     <cr>11</cr>
     <trait>
       <name>Immutable Form</name>
@@ -13938,11 +13938,11 @@ When roused for combat, the golem opens many of its eyes, emitting blinding ligh
     <cha>1</cha>
     <save>Con +9</save>
     <skill>Athletics +10, Perception +4</skill>
-    <immune>poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine</immune>
+    <immune>poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t adamantine</immune>
     <conditionImmune>charmed, exhausted, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
     <passive>14</passive>
-    <languages>understands the language of its creator but can't speak</languages>
+    <languages>understands the language of its creator but can&apos;t speak</languages>
     <cr>12</cr>
     <trait>
       <name>Strike with Awe</name>
@@ -14000,11 +14000,11 @@ As a whirlwind, it can enter other creatures' spaces and stop there. Every creat
     <wis>11</wis>
     <cha>1</cha>
     <skill>Athletics +9</skill>
-    <immune>fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine</immune>
+    <immune>fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t adamantine</immune>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>10</cr>
     <trait>
       <name>Blinding Salt Spray</name>
@@ -14053,11 +14053,11 @@ Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 27 (5d8 + 5) bludg
     <int>3</int>
     <wis>11</wis>
     <cha>1</cha>
-    <immune>poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine</immune>
+    <immune>poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t adamantine</immune>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>14</cr>
     <trait>
       <name>Immutable Form</name>
@@ -14111,11 +14111,11 @@ The golem can release an absorbed spell effect as a blast of green energy, which
     <int>3</int>
     <wis>10</wis>
     <cha>1</cha>
-    <immune>fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine</immune>
+    <immune>fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t adamantine</immune>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
     <passive>10</passive>
-    <languages>understands its creator's languages but can't speak</languages>
+    <languages>understands its creator&apos;s languages but can&apos;t speak</languages>
     <cr>13</cr>
     <trait>
       <name>Boiler Weakness</name>
@@ -14192,7 +14192,7 @@ When an opponent within 30 feet of the golem tries to cast a spell, the steam go
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>11</passive>
-    <languages>understands all languages it knew in life but can't speak</languages>
+    <languages>understands all languages it knew in life but can&apos;t speak</languages>
     <cr>2</cr>
     <trait>
       <name>Thirst</name>
@@ -14331,7 +14331,7 @@ Death saving throws made within 60 feet of the jester have disadvantage.</text>
 The jester has advantage on saving throws against any effect that turns undead.</text>
     </trait>
     <action>
-      <name>Joker's Shuffle (Recharge 6)</name>
+      <name>Joker&apos;s Shuffle (Recharge 6)</name>
       <recharge>D6</recharge>
       <text>
 The jester forces one Medium or Small humanoid within 60 feet to make a DC 17 Charisma saving throw. If the saving throw fails, the jester and the target exchange locations via teleportation and an illusion causes them to swap appearance: the jester looks and sounds like the target, and the target looks and sounds like the jester. The illusion lasts for 1 hour unless it is dismissed earlier by the jester as a bonus action, or dispelled (DC 17).</text>
@@ -15063,7 +15063,7 @@ A lesser restoration spell can kill the egg during its incubation.</text>
     <vulnerable>fire</vulnerable>
     <senses>darkvision 60 ft.</senses>
     <passive>15</passive>
-    <languages>understands Elvish and Umbral but can't speak</languages>
+    <languages>understands Elvish and Umbral but can&apos;t speak</languages>
     <cr>5</cr>
     <trait>
       <name>Blood Scent</name>
@@ -15812,7 +15812,7 @@ While in sunlight, the kobold trapsmith has disadvantage on attack rolls and on 
 The kobold trapsmith has advantage on attack rolls against a creature if at least one of the trapsmith's allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
     </trait>
     <trait>
-      <name>Thief's Tools</name>
+      <name>Thief&apos;s Tools</name>
       <text>
 The kobold trapsmith has proficiency with thief's tools and is seldom without them. If its tools are taken away or lost, it can cobble together a new set from wire, bits of metal, and other junk in 30 minutes.</text>
     </trait>
@@ -15975,7 +15975,7 @@ If Koschei fails a saving throw, he can choose to succeed instead.</text>
 Koschei's weapon attacks are magical and do an extra 14 (4d6) necrotic damage (included below).</text>
     </trait>
     <trait>
-      <name>Koschei's Lair Actions</name>
+      <name>Koschei&apos;s Lair Actions</name>
       <text>
 On initiative count 20 (losing initiative ties), Koschei takes a lair action to cause one of the following effects; Koschei can't use the same effect two rounds in a row
 
@@ -17611,7 +17611,7 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashi
     <int>10</int>
     <wis>10</wis>
     <cha>10</cha>
-    <immune>poison, bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine</immune>
+    <immune>poison, bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t adamantine</immune>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>10</passive>
@@ -17660,7 +17660,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludg
     <int>10</int>
     <wis>10</wis>
     <cha>10</cha>
-    <immune>poison, bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine</immune>
+    <immune>poison, bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t adamantine</immune>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>10</passive>
@@ -17907,7 +17907,7 @@ Ranged Weapon Attack: +4 to hit, range 100 ft. (vertically), one target. Hit: 10
     <languages>the languages it knew in life</languages>
     <cr>3</cr>
     <trait>
-      <name>Selket's Venom</name>
+      <name>Selket&apos;s Venom</name>
       <text>
 The venomous mummy's body and wrappings are magically imbued with substances that are highly toxic. Any creature that comes in physical contact with the venomous mummy (e.g., touching the mummy barehanded, grappling, using a bite attack) must succeed on a DC 12 Constitution saving throw or be poisoned with Selket's venom. The poisoned target takes 3 (1d6) poison damage every 10 minutes. Selket's venom is a curse, so it lasts until ended by the remove curse spell or comparable magic.</text>
     </trait>
@@ -17994,7 +17994,7 @@ The myconid ejects spores at one creature it can see within 5 feet of it. The ta
     <wis>12</wis>
     <cha>10</cha>
     <skill>Stealth +4</skill>
-    <resist>bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered</resist>
+    <resist>bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t silvered</resist>
     <immune>necrotic, poison</immune>
     <conditionImmune>charmed, frightened, poisoned, stunned, unconscious</conditionImmune>
     <senses>darkvision 60 ft.</senses>
@@ -18127,7 +18127,7 @@ A creature caught in this sleeping gas must succeed on a DC 17 Constitution savi
     <cha>19</cha>
     <save>Dex +7</save>
     <skill>Acrobatics +7, Insight +7, Perception +7</skill>
-    <resist>acid, cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered</resist>
+    <resist>acid, cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t silvered</resist>
     <immune>poison</immune>
     <conditionImmune>charmed, frightened, paralyzed, poisoned, unconscious</conditionImmune>
     <senses>darkvision 60 ft.</senses>
@@ -18198,7 +18198,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) slas
     <cha>16</cha>
     <skill>Perception +5, Stealth +5</skill>
     <vulnerable>radiant; silvered weapons</vulnerable>
-    <resist>lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered</resist>
+    <resist>lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t silvered</resist>
     <senses>darkvision 60 ft.</senses>
     <passive>15</passive>
     <languages>Common, Giant, Goblin, telepathy 200 ft. (with falsemen only)</languages>
@@ -18265,7 +18265,7 @@ The nkosi can use its action to polymorph into a Medium lion or back into its tr
 The nkosi has advantage on Wisdom (Perception) checks that rely on smell.</text>
     </trait>
     <trait>
-      <name>Hunter's Maw</name>
+      <name>Hunter&apos;s Maw</name>
       <text>
 If the nkosi moves at least 20 feet straight toward a creature and then hits it with a scimitar attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is knocked prone, the nkosi can immediately make one bite attack against it as a bonus action.</text>
     </trait>
@@ -18324,7 +18324,7 @@ The nkosi has advantage on Wisdom (Perception) checks that rely on smell.</text>
 A melee weapon deals one extra die of damage when the pridelord hits with it (included in the attack).</text>
     </trait>
     <trait>
-      <name>Hunter's Maw</name>
+      <name>Hunter&apos;s Maw</name>
       <text>
 If the nkosi moves at least 20 feet straight toward a creature and then hits it with a scimitar attack on the same turn, that target must succeed on a DC 15 Strength saving throw or be knocked prone. If the target is prone, the nkosi can make one bite attack against it as a bonus action.</text>
     </trait>
@@ -18352,7 +18352,7 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) pierc
       <attack>Bite|+6|2d6+4</attack>
     </action>
     <action>
-      <name>Pridelord's Roar (Recharges after a Short or Long Rest)</name>
+      <name>Pridelord&apos;s Roar (Recharges after a Short or Long Rest)</name>
       <recharge>SHORT</recharge>
       <text>
 Each nkosi of the pridelord's choice that is within 30 feet of it and can hear it can immediately use its reaction to make a bite attack. The pridelord can then make one bite attack as a bonus action.</text>
@@ -18417,7 +18417,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludge
     <conditionImmune>frightened</conditionImmune>
     <senses/>
     <passive>10</passive>
-    <languages>Common, plus the language spoken by the noctini's fext master</languages>
+    <languages>Common, plus the language spoken by the noctini&apos;s fext master</languages>
     <cr>2</cr>
     <trait>
       <name>Magic Resistance</name>
@@ -18470,7 +18470,7 @@ Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludge
     <conditionImmune>charmed, frightened, paralyzed, petrified, prone, restrained, stunned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>16</passive>
-    <languages>understands Common but can't speak</languages>
+    <languages>understands Common but can&apos;t speak</languages>
     <cr>4</cr>
     <trait>
       <name>Swarm</name>
@@ -18512,7 +18512,7 @@ The swarm targets every creature in its space with a gaze attack. The swarm can 
     <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, prone</conditionImmune>
     <senses>blindsight 60 ft. (blind beyond this radius), tremorsense 120 ft.</senses>
     <passive>20</passive>
-    <languages>understands all languages but can't speak, telepathy 120 ft.</languages>
+    <languages>understands all languages but can&apos;t speak, telepathy 120 ft.</languages>
     <cr>9</cr>
     <trait>
       <name>Amorphous</name>
@@ -18678,7 +18678,7 @@ While merged with a humanoid (see Aural Symbiosis), the ostinato feeds on nearby
     <languages>Sylvan</languages>
     <cr>3</cr>
     <trait>
-      <name>Beast's Voice</name>
+      <name>Beast&apos;s Voice</name>
       <text>
 The pombero can magically speak with any beast and can perfectly mimic beast sounds.</text>
     </trait>
@@ -18738,11 +18738,11 @@ The pombero becomes invisible until it chooses to end the effect as a bonus acti
     <int>3</int>
     <wis>11</wis>
     <cha>1</cha>
-    <immune>poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine</immune>
+    <immune>poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t adamantine</immune>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>7</cr>
     <trait>
       <name>Immutable Form</name>
@@ -18941,7 +18941,7 @@ Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) 
     <conditionImmune>charmed, frightened, paralyzed, petrified, prone, restrained, stunned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>12</passive>
-    <languages>Common, Thieves' Cant</languages>
+    <languages>Common, Thieves&apos; Cant</languages>
     <cr>5</cr>
     <trait>
       <name>Keen Smell</name>
@@ -19318,7 +19318,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) pierci
       <attack>Rapier|+5|1d8+3</attack>
     </action>
     <reaction>
-      <name>Odin's Call</name>
+      <name>Odin&apos;s Call</name>
       <text>
 A ravenfolk warrior can disengage after an attack reduces it to 10 hp or less.</text>
     </reaction>
@@ -19942,7 +19942,7 @@ The sand silhouette turns into a 60-foot radius roiling cloud of dust and sand f
     <languages>Common, Celestial, Giant, Infernal, Umbral</languages>
     <cr>5</cr>
     <trait>
-      <name>Eye-Closer's Curse</name>
+      <name>Eye-Closer&apos;s Curse</name>
       <text>
 If a sandman obtains a critical hit or successful surprise attack against an opponent, its talons scratch a rune onto the target's eyeballs that snaps their eyelids shut, leaving them blinded. This effect can be ended with greater restoration, remove curse, or comparable magic.</text>
     </trait>
@@ -20053,7 +20053,7 @@ Melee Weapon Attack: +8 to hit, reach 10 ft., one creature. Hit: 12 (2d6 + 5) pi
 The sap demon can move through a space as narrow as 1 inch wide without squeezing.</text>
     </trait>
     <trait>
-      <name>Season's Change</name>
+      <name>Season&apos;s Change</name>
       <text>
 If a sap demon (or its host) takes at least 10 fire damage, it also gains the effect of a haste spell until the end of its next turn. If it takes at least 10 cold damage, it gains the effect of a slow spell until the end of its next turn.</text>
     </trait>
@@ -20098,7 +20098,7 @@ The sap demon slides down the throat of a sleeping, helpless, or grappled living
     <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, poisoned, prone</conditionImmune>
     <senses>blindsight 60 ft. (blind beyond this radius)</senses>
     <passive>11</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>5</cr>
     <trait>
       <name>Amorphous</name>
@@ -20149,7 +20149,7 @@ The sarcophagus slime targets one creature it can see within 30 feet of it. If t
     <conditionImmune>exhaustion, paralyzed, petrified, poisoned, unconscious</conditionImmune>
     <senses>tremorsense 60 ft.</senses>
     <passive>15</passive>
-    <languages>understands Deep Speech and Terran, but can't speak</languages>
+    <languages>understands Deep Speech and Terran, but can&apos;t speak</languages>
     <cr>10</cr>
     <trait>
       <name>Agonizing Aura</name>
@@ -20489,11 +20489,11 @@ The serpopard releases a jet of foul-smelling musk in a 15-foot cone that lasts 
     <int>6</int>
     <wis>11</wis>
     <cha>6</cha>
-    <immune>poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine</immune>
+    <immune>poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t adamantine</immune>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>8</cr>
     <trait>
       <name>Immutable Form</name>
@@ -20552,7 +20552,7 @@ The shabti targets a creature within 60 feet. The target must succeed on a DC 15
     <skill>Stealth +4</skill>
     <senses>darkvision 60 ft.</senses>
     <passive>12</passive>
-    <languages>understands Elvish and Umbral but can't speak</languages>
+    <languages>understands Elvish and Umbral but can&apos;t speak</languages>
     <cr>2</cr>
     <trait>
       <name>Innate Spellcasting</name>
@@ -20812,7 +20812,7 @@ The shoggoth can grapple any number of creatures simultaneously, and this has no
     <cha>8</cha>
     <skill>Stealth +3</skill>
     <vulnerable>radiant</vulnerable>
-    <resist>acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered</resist>
+    <resist>acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t silvered</resist>
     <immune>necrotic, poison</immune>
     <conditionImmune>exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained</conditionImmune>
     <senses>darkvision 60 ft.</senses>
@@ -20947,7 +20947,7 @@ The skein witch projects a 60-foot cone of distortion that frays the strands of 
     <conditionImmune>exhaustion, poisoned</conditionImmune>
     <senses>darkvision 60 ft., blindsense 30 ft.</senses>
     <passive>11</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>1</cr>
     <action>
       <name>Multiattack</name>
@@ -21379,7 +21379,7 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: The target must su
     <conditionImmune>charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained</conditionImmune>
     <senses>blindsight 10 ft., darkvision 60 ft.</senses>
     <passive>13</passive>
-    <languages>understands the languages it knew in life but can't speak</languages>
+    <languages>understands the languages it knew in life but can&apos;t speak</languages>
     <cr>6</cr>
     <trait>
       <name>Incorporeal Movement</name>
@@ -21536,7 +21536,7 @@ The sphinx casts a spell from its list of prepared spells, using a spell slot as
     <conditionImmune>poisoned</conditionImmune>
     <senses>blindsight 10 ft., darkvision 60 ft.</senses>
     <passive>16</passive>
-    <languages>understands Undercommon but can't speak</languages>
+    <languages>understands Undercommon but can&apos;t speak</languages>
     <cr>9</cr>
     <trait>
       <name>Ghostwalk</name>
@@ -21579,7 +21579,7 @@ A creature restrained by Ghostly Snare can escape by using an action to make a s
     <description>Source:	Tome Of Beasts</description>
   </monster>
   <monster>
-    <name>J'ba Fofi Spider</name>
+    <name>J&apos;ba Fofi Spider</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -21837,7 +21837,7 @@ When reduced to 0 hp, the spider of Leng makes one final spit venom attack befor
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>10</passive>
-    <languages>understands Common but can't speak</languages>
+    <languages>understands Common but can&apos;t speak</languages>
     <cr>2</cr>
     <trait>
       <name>Immutable Form</name>
@@ -22467,7 +22467,7 @@ As a bonus action on its first turn of combat, the wolf spirit swarm howls, emit
     <resist>bludgeoning, piercing, and slashing from nonmagical weapons</resist>
     <senses>darkvision 60 ft.</senses>
     <passive>15</passive>
-    <languages>understands Celestial and Common but can't speak</languages>
+    <languages>understands Celestial and Common but can&apos;t speak</languages>
     <cr>5</cr>
     <trait>
       <name>Magic Resistance</name>
@@ -22475,7 +22475,7 @@ As a bonus action on its first turn of combat, the wolf spirit swarm howls, emit
 The temple dog has advantage on saving throws against spells and other magical effects.</text>
     </trait>
     <trait>
-      <name>Protector's Initiative</name>
+      <name>Protector&apos;s Initiative</name>
       <text>
 If the temple dog is entering combat against a clear threat to its temple, it has advantage on its initiative roll.</text>
     </trait>
@@ -23360,7 +23360,7 @@ The tusked skyfish sprays foul.smelling liquid in a line 20 feet long and 5 feet
     <conditionImmune>poisoned</conditionImmune>
     <senses>blindsight 10 ft.</senses>
     <passive>14</passive>
-    <languages>understands Celestial and Common but can't speak</languages>
+    <languages>understands Celestial and Common but can&apos;t speak</languages>
     <cr>2</cr>
     <trait>
       <name>Flyby</name>
@@ -23409,7 +23409,7 @@ When the uraeus' bonded ward takes damage, the uraeus can transfer the damage to
     <cha>20</cha>
     <save>Dex +8, Con +13, Wis +9, Cha +11</save>
     <skill>Perception +8, Stealth +8</skill>
-    <resist>cold, lightning; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered</resist>
+    <resist>cold, lightning; bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t silvered</resist>
     <immune>thunder</immune>
     <conditionImmune>frightened</conditionImmune>
     <senses>truesight 120 ft.</senses>
@@ -23501,7 +23501,7 @@ Using a tentacle, the urochar moves up to 20 feet to an unoccupied space adjacen
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>18</passive>
-    <languages>Ancient language of DM's choice</languages>
+    <languages>Ancient language of DM&apos;s choice</languages>
     <cr>9</cr>
     <trait>
       <name>Dynastic Aura</name>
@@ -23536,10 +23536,10 @@ The ushabti's weapon attacks are magical.</text>
 The ushabti makes one attack with Medjai's scepter and one with its khopesh.</text>
     </action>
     <action>
-      <name>Medjai's Scepter</name>
+      <name>Medjai&apos;s Scepter</name>
       <text>
 Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage plus 10 (3d6) poison damage.</text>
-      <attack>Medjai's Scepter|+9|2d6+5</attack>
+      <attack>Medjai&apos;s Scepter|+9|2d6+5</attack>
     </action>
     <action>
       <name>Khopesh</name>
@@ -23980,7 +23980,7 @@ The vila magically calls 2d6 wolves or 2 wampus cats. The called creatures arriv
     <wis>8</wis>
     <cha>10</cha>
     <skill>Athletics +3, Stealth +6</skill>
-    <resist>bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered or made of cold iron</resist>
+    <resist>bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t silvered or made of cold iron</resist>
     <conditionImmune>frightened</conditionImmune>
     <senses>60 ft.</senses>
     <passive>9</passive>
@@ -24109,7 +24109,7 @@ The vine lord magically animates one or two trees it can see within 60 feet of i
     <description>Source:	Tome Of Beasts</description>
   </monster>
   <monster>
-    <name>Vine Lord's Tendril Puppet</name>
+    <name>Vine Lord&apos;s Tendril Puppet</name>
     <size>M</size>
     <type>plant</type>
     <alignment>Lawful Neutral</alignment>
@@ -24493,7 +24493,7 @@ When two or more foes are adjacent to the ape, it can enter a deadly battle fren
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>13</passive>
-    <languages>understands the language of its creator but can't speak</languages>
+    <languages>understands the language of its creator but can&apos;t speak</languages>
     <cr>1/4</cr>
     <trait>
       <name>Dispel Magic Weakness</name>
@@ -24587,7 +24587,7 @@ If the target is a creature, it must succeed on a DC 14 Constitution saving thro
     <conditionImmune>charmed, exhaustion, frightened</conditionImmune>
     <senses>blindsight 120 ft.</senses>
     <passive>10</passive>
-    <languages>Understands the languages of its creator but can't</languages>
+    <languages>Understands the languages of its creator but can&apos;t</languages>
     <cr>1/4</cr>
     <trait>
       <name>Ingest Weapons</name>
@@ -25218,7 +25218,7 @@ Each creature of the city watch captain's choice that is within 30 feet of it an
     <cha>22</cha>
     <save>Con +6, Int +7, Cha +10</save>
     <skill>Arcana +7, Deception +10, History +7, Persuasion +10</skill>
-    <resist>cold, fire, poison; bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered</resist>
+    <resist>cold, fire, poison; bludgeoning, piercing, and slashing damage from nonmagical weapons that aren&apos;t silvered</resist>
     <conditionImmune>poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>11</passive>

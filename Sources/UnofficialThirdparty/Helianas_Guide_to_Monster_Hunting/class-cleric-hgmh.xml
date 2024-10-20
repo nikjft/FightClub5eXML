@@ -5,7 +5,7 @@
     <autolevel level="1">
       <feature optional="YES">
         <name>Divine Domain: Hunt Domain (HB)</name>
-        <text>From Artemis to Diana, Skadi, and Wōden all gods of the hunt relish the chase. They promote the ideals of a journey: finding a quarry, learning its habits, and finishing it with a swift, precise blow. Clerics of these gods might bless nobles before a hunt, work as mercenaries tracking dangerous monsters through the wilderness, or be employed as scouts within armies. They are adept at finding their prey and, once located, use their magic to ensure they are never outrun. Such priests teach that all useful materials must be harvested and consumed to properly honour a quarry, and to ensure the gods' blessing during the next foray into the wilds.
+        <text>From Artemis to Diana, Skadi, and Wōden all gods of the hunt relish the chase. They promote the ideals of a journey: finding a quarry, learning its habits, and finishing it with a swift, precise blow. Clerics of these gods might bless nobles before a hunt, work as mercenaries tracking dangerous monsters through the wilderness, or be employed as scouts within armies. They are adept at finding their prey and, once located, use their magic to ensure they are never outrun. Such priests teach that all useful materials must be harvested and consumed to properly honour a quarry, and to ensure the gods&apos; blessing during the next foray into the wilds.
 
 Source:	Heliana's Guide to Monster Hunting p. 179 (Homebrew)</text>
       </feature>
@@ -53,7 +53,7 @@ Source:	Heliana's Guide to Monster Hunting p. 180 (Homebrew)</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Hunt Domain (HB): Pack Hunter</name>
-        <text>You learn to work with other hunters, helping them avoid your quarry's blows, or to strike with greater ferocity. As a reaction, you can embolden creatures friendly to you with your hunters' instincts, issuing either the Kill or Retreat command. You have a number of uses of this feature equal to your Wisdom modifier (minimum of once), and regain all expended uses when you finish a short or long rest.
+        <text>You learn to work with other hunters, helping them avoid your quarry&apos;s blows, or to strike with greater ferocity. As a reaction, you can embolden creatures friendly to you with your hunters&apos; instincts, issuing either the Kill or Retreat command. You have a number of uses of this feature equal to your Wisdom modifier (minimum of once), and regain all expended uses when you finish a short or long rest.
 
 	• Kill. When a creature other than you hits a target which is currently affected by your Mark Prey feature, you can use your reaction to deal the feature's extra damage to the creature.
 
@@ -73,7 +73,7 @@ Source:	Heliana's Guide to Monster Hunting p. 180 (Homebrew)</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Hunt Domain (HB): Rite of the Hunt</name>
-        <text>At 17th level, you can compel a creature to chase or avoid you. As a bonus action while you can see the target of your Mark Prey feature and it is within 120 feet of you, you can force the creature to make a Wisdom saving throw against your cleric spell save DC. On a failure, you choose whether the creature is afflicted by Chase or Avoid for the next minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on a success. These effects are suppressed while you can't see the creature, and the effects end early if the creature is no longer affected by your Mark Prey feature. A creature that succeeds on a saving throw against this ability is immune to its effects for the next 24 hours.
+        <text>At 17th level, you can compel a creature to chase or avoid you. As a bonus action while you can see the target of your Mark Prey feature and it is within 120 feet of you, you can force the creature to make a Wisdom saving throw against your cleric spell save DC. On a failure, you choose whether the creature is afflicted by Chase or Avoid for the next minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on a success. These effects are suppressed while you can&apos;t see the creature, and the effects end early if the creature is no longer affected by your Mark Prey feature. A creature that succeeds on a saving throw against this ability is immune to its effects for the next 24 hours.
 
 	• Chase. The creature is drawn to you. For the duration, it has disadvantage on attack rolls against creatures other than you, and must make a Wisdom saving throw the first time it attempts to move to a space that is more than 30 feet away from you on its turn. On a failed save, it can't move more than 30 feet away from you that turn. On a success, this effect doesn't restrict the target's movement for that turn.
 

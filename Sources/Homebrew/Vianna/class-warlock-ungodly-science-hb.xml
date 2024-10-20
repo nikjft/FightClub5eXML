@@ -41,7 +41,7 @@ Source:	Vianna's Ungodly SCIENCE! (Homebrew)</text>
 
       <feature optional="YES">
         <name>Ungodly SCIENCE! (HB): Crazy Contraption</name>
-        <text>Your unbridled genius gives you a knack for inventing the unthinkable, usually in disregard of your own safety. Once per day you may have a flash of inspiration, allowing you to build an insane gadget of unprecedented design. Using tinker's tools or smith's tools, you can spend 1 hour building the contraption in an unoccupied space on a horizontal surface within 5 feet of you.
+        <text>Your unbridled genius gives you a knack for inventing the unthinkable, usually in disregard of your own safety. Once per day you may have a flash of inspiration, allowing you to build an insane gadget of unprecedented design. Using tinker&apos;s tools or smith&apos;s tools, you can spend 1 hour building the contraption in an unoccupied space on a horizontal surface within 5 feet of you.
 
 Have your DM roll on the Crazy Contraption table, and then describe to you the resulting creation.
 
@@ -193,7 +193,7 @@ Source:	Vianna's Ungodly SCIENCE! (Homebrew)</text>
 
   <!-- Lvl 2 -->
   <spell>
-    <name>Aganazzar's Scorcher</name>
+    <name>Aganazzar&apos;s Scorcher</name>
     <classes>Warlock (Ungodly SCIENCE!)</classes>
   </spell>
   <spell>

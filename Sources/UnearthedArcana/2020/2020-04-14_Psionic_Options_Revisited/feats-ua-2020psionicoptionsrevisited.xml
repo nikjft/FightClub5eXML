@@ -3,7 +3,7 @@
   <feat>
     <name>Metabolic Control (UA) (Constitution)</name>
     <prerequisite>Psionic Talent feature or Wild Talent feat</prerequisite>
-    <text>You have refined psionic control over your body's functions. You gain the following benefits:
+    <text>You have refined psionic control over your body&apos;s functions. You gain the following benefits:
 
 	• Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
 
@@ -17,7 +17,7 @@ Source:	Unearthed Arcana: 2020 Psionic Options Revisited p. 8</text>
   <feat>
     <name>Metabolic Control (UA) (Dexterity)</name>
     <prerequisite>Psionic Talent feature or Wild Talent feat</prerequisite>
-    <text>You have refined psionic control over your body's functions. You gain the following benefits:
+    <text>You have refined psionic control over your body&apos;s functions. You gain the following benefits:
 
 	• Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
 
@@ -31,7 +31,7 @@ Source:	Unearthed Arcana: 2020 Psionic Options Revisited p. 8</text>
   <feat>
     <name>Metabolic Control (UA) (Strength)</name>
     <prerequisite>Psionic Talent feature or Wild Talent feat</prerequisite>
-    <text>You have refined psionic control over your body's functions. You gain the following benefits:
+    <text>You have refined psionic control over your body&apos;s functions. You gain the following benefits:
 
 	• Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
 
@@ -129,7 +129,7 @@ Source:	Unearthed Arcana: 2020 Psionic Options Revisited p. 8</text>
   <feat>
     <name>Tower of Iron Will (UA)</name>
     <prerequisite/>
-    <text>Your mind's defenses are formidable. After you or another creature you can see within 30 feet of you fails a saving throw, you can use your reaction to roll your Psionic Talent die and add the number rolled to the saving throw, potentially causing it to succeed.
+    <text>Your mind&apos;s defenses are formidable. After you or another creature you can see within 30 feet of you fails a saving throw, you can use your reaction to roll your Psionic Talent die and add the number rolled to the saving throw, potentially causing it to succeed.
 
 Source:	Unearthed Arcana: 2020 Psionic Options Revisited p. 9</text>
   </feat>

@@ -5,7 +5,7 @@
     <autolevel level="1">
       <feature optional="YES">
         <name>Divine Domain: Inquisition Domain (HB)</name>
-        <text>Most clerics are pillars of their community, overseeing worship, healing, and religious rites in their god's name. However, all faiths have rules, acts which are seen as taboo and creatures declared anathema. When violations appear, the inquisitors follow, finding the violators and enforcing the law with divine wrath and the point of a sword.
+        <text>Most clerics are pillars of their community, overseeing worship, healing, and religious rites in their god&apos;s name. However, all faiths have rules, acts which are seen as taboo and creatures declared anathema. When violations appear, the inquisitors follow, finding the violators and enforcing the law with divine wrath and the point of a sword.
 
 Inquisitors bring safety to some, but are often fearsome figures in their work. At their best, they protect their communities from corrupting influences of cults, undead, and creatures from the outer planes. At their worst, they are tyrants, leading reigns of terror to quash dissent and oppress those who do not share their faiths.
 
@@ -25,7 +25,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 14 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Inquisition Domain (HB): Seeker of Apostates</name>
-        <text>You gain proficiency with martial weapons, thieves' tools and two of the following skills of your choice: Arcana, Insight, Intimidation, Investigation, Persuasion, Sleight of Hand, Stealth or Religion.
+        <text>You gain proficiency with martial weapons, thieves&apos; tools and two of the following skills of your choice: Arcana, Insight, Intimidation, Investigation, Persuasion, Sleight of Hand, Stealth or Religion.
 
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 14 (Homebrew)</text>
       </feature>
@@ -102,8 +102,8 @@ Cleric Level | Spells
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 15 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Seership Domain (HB): Seer's Intuition</name>
-        <text>You begin to see the strings of magic that weave through the world. Whenever you make a Wisdom (Insight) check, you may treat a d20 roll of 9 or lower as a 10. In addition, you learn the guidance cantrip, which doesn't count against the number of cleric cantrips you know. For you, it has a range of 30 feet.
+        <name>Seership Domain (HB): Seer&apos;s Intuition</name>
+        <text>You begin to see the strings of magic that weave through the world. Whenever you make a Wisdom (Insight) check, you may treat a d20 roll of 9 or lower as a 10. In addition, you learn the guidance cantrip, which doesn&apos;t count against the number of cleric cantrips you know. For you, it has a range of 30 feet.
 
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 15 (Homebrew)</text>
       </feature>

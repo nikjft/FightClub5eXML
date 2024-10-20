@@ -15,7 +15,7 @@ Source:	Unearthed Arcana: Giant Options p. 3</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Runecrafter (UA): Runes Of Understanding</name>
-        <text>Beginning at 2nd level, your study of runecraft has unlocked the ability to decode runes and languages, regardless of their origin; you always have comprehend languages prepared, you can cast it without expending a spell slot, and the spell doesn't count against the number of spells you have prepared.
+        <text>Beginning at 2nd level, your study of runecraft has unlocked the ability to decode runes and languages, regardless of their origin; you always have comprehend languages prepared, you can cast it without expending a spell slot, and the spell doesn&apos;t count against the number of spells you have prepared.
 
 Source:	Unearthed Arcana: Giant Options p. 3</text>
       </feature>
@@ -23,7 +23,7 @@ Source:	Unearthed Arcana: Giant Options p. 3</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Runecrafter (UA): Runic Empowerment</name>
-        <text>Also at 2nd level, when you choose this subclass, you learn how to amplify your magic through the application of various runes. Your knowledge of these runes is stored in your spellbook, though you determine the runes' cosmetic appearance. For example, your runes could be engraved into the cover of your spellbook, glowing whenever you cast a spell, or you could work the shape and meaning of the runes directly into a spell's somatic and verbal components.
+        <text>Also at 2nd level, when you choose this subclass, you learn how to amplify your magic through the application of various runes. Your knowledge of these runes is stored in your spellbook, though you determine the runes&apos; cosmetic appearance. For example, your runes could be engraved into the cover of your spellbook, glowing whenever you cast a spell, or you could work the shape and meaning of the runes directly into a spell&apos;s somatic and verbal components.
 
 When you cast a spell using a spell slot, you can invoke one of the following runes:
 

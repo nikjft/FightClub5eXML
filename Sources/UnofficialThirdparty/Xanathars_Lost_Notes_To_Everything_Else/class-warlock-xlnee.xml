@@ -85,7 +85,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 33 (Homebrew)</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>The Chaos (HB): Planar Vertigo</name>
-        <text>At 14th level, you can draw the chaotic essence of your patron's plane to launch yourself and all creatures within 30 feet of you into the air. Each affected creature must make an Intelligence saving throw. On a failure, it is launched into the air 10 feet in a random direction (use the Planar Vertigo table) and suspended in midair for 1 minute. While suspended, the creature is incapacitated by supernatural vertigo. You can grant advantage on this saving throw to a number of creatures of your choice, up to your Charisma modifier (minimum of 1), including yourself.
+        <text>At 14th level, you can draw the chaotic essence of your patron&apos;s plane to launch yourself and all creatures within 30 feet of you into the air. Each affected creature must make an Intelligence saving throw. On a failure, it is launched into the air 10 feet in a random direction (use the Planar Vertigo table) and suspended in midair for 1 minute. While suspended, the creature is incapacitated by supernatural vertigo. You can grant advantage on this saving throw to a number of creatures of your choice, up to your Charisma modifier (minimum of 1), including yourself.
 
 On a success, a creature gains a fly speed equal to its walking speed for the duration.
 
@@ -114,7 +114,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 33 (Homebrew)</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Otherworldy Patron: The Noble Genie (HB)</name>
-        <text>Your pact is one that has been made by legendary advisors, philosophers, and tale-spinners of the desert lands, known throughout the land of Zakhara as sha'irs. Your patron is a noble genie, a creature whose spirit is infused with the primordial essence of the Elemental Planes. These creatures are the rarest and most powerful of their kind. They aim to achieve ultimate greatness, splendor, and the reverence of all beings.
+        <text>Your pact is one that has been made by legendary advisors, philosophers, and tale-spinners of the desert lands, known throughout the land of Zakhara as sha&apos;irs. Your patron is a noble genie, a creature whose spirit is infused with the primordial essence of the Elemental Planes. These creatures are the rarest and most powerful of their kind. They aim to achieve ultimate greatness, splendor, and the reverence of all beings.
 
 Though noble genies aren't gods, they feel deserving of such veneration from their servants. They're accustomed to wealth and opulence and treat their insatiable indulgence as an entitlement to their own power and grandeur.
 
@@ -136,7 +136,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 35 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>The Noble Genie (HB): Noble Patronage</name>
-        <text>At 1st level, your patron grants you the ability to speak Primordial. You also gain advantage on Intelligence (Arcana) checks made to identify portals to elemental planes and magical inscriptions or items created by other sha'irs, their patrons, or other genie-kind.
+        <text>At 1st level, your patron grants you the ability to speak Primordial. You also gain advantage on Intelligence (Arcana) checks made to identify portals to elemental planes and magical inscriptions or items created by other sha&apos;irs, their patrons, or other genie-kind.
 
 Additionally, you choose the one of the four types of noble genie to be your patron as shown on the Noble Genie Patrons table below. Your choice determines several of your class features as you gain level.
 
@@ -151,7 +151,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 35 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>The Noble Genie (HB): Gen Vizier</name>
-        <text>At 1st level, your patron assigns a lesser genie, a gen, to accompany you during your travels. The type of gen is dependent upon your patron's genie type as defined on the Noble Genie Patron table. Your gen vizier isn't required to obey your commands, although it usually tries to the best of its ability, and doesn't participate in combat.
+        <text>At 1st level, your patron assigns a lesser genie, a gen, to accompany you during your travels. The type of gen is dependent upon your patron's genie type as defined on the Noble Genie Patron table. Your gen vizier isn&apos;t required to obey your commands, although it usually tries to the best of its ability, and doesn&apos;t participate in combat.
 
 You gain the following benefit from your gen vizier.
 
@@ -168,7 +168,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 36 (Homebrew)</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>The Noble Genie (HB): Bargain of Power</name>
-        <text>At 6th level, your gen vizier's familiarity with other beings, the magic they possess, and their desires speed its retrieval of the magic you desire. The dice for your Spell Fetching feature turns into a d10. At 14th level, it turns into a d8.
+        <text>At 6th level, your gen vizier&apos;s familiarity with other beings, the magic they possess, and their desires speed its retrieval of the magic you desire. The dice for your Spell Fetching feature turns into a d10. At 14th level, it turns into a d8.
 
 Additionally, you can expend one of these die, to gain advantage on a Charisma (Intimidation or Persuasion) check.
 

@@ -26,7 +26,7 @@ Source:	Tomb of Annihilation p. 206</text>
     <roll>1d6</roll>
   </item>
   <item>
-    <name>Arcanaloth's Music Box</name>
+    <name>Arcanaloth&apos;s Music Box</name>
     <detail>Other</detail>
     <type>G</type>
     <weight/>
@@ -46,7 +46,7 @@ Source:	Tomb of Annihilation p. 188</text>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
-    <text>This +1 battleaxe floats on water and other liquids, and grants its bearer advantage on Strength (Athletics) checks made to swim. Etched into the haft of the battleaxe are Dethek (Dwarvish) runes that spell the weapon's name: Bob.
+    <text>This +1 battleaxe floats on water and other liquids, and grants its bearer advantage on Strength (Athletics) checks made to swim. Etched into the haft of the battleaxe are Dethek (Dwarvish) runes that spell the weapon&apos;s name: Bob.
 
 Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee Attack.
 
@@ -109,14 +109,14 @@ Source:	Tomb of Annihilation p. 31</text>
     <weight/>
     <value>5.0</value>
     <property/>
-    <text>This rare magical fruit produces enough juice to fill a vial. Any humanoid that eats a dancing monkey fruit or drinks its juice must succeed on a DC 14 Constitution saving throw or begin a comic dance that lasts for 1 minute. Humanoids that can't be poisoned are immune to this magical effect.
+    <text>This rare magical fruit produces enough juice to fill a vial. Any humanoid that eats a dancing monkey fruit or drinks its juice must succeed on a DC 14 Constitution saving throw or begin a comic dance that lasts for 1 minute. Humanoids that can&apos;t be poisoned are immune to this magical effect.
 
 The dancer must use all its movement to dance without leaving its space and has disadvantage on attack rolls and Dexterity saving throws, and other creatures have advantage on attack rolls against it. Each time it takes damage, the dancer can repeat the saving throw, ending the effect on itself on a success. When the dancing effect ends, the humanoid suffers the poisoned condition for 1 hour.
 
 Source:	Tomb of Annihilation p. 205</text>
   </item>
   <item>
-    <name>Devlin's Staff of Striking</name>
+    <name>Devlin&apos;s Staff of Striking</name>
     <detail>spellcasting focus, very rare, cursed (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -212,7 +212,7 @@ Source:	Tomb of Annihilation p. 32</text>
     <magic>YES</magic>
     <weight>1</weight>
     <property/>
-    <text>This wooden mask is shaped in the likeness of a beast's visage and has 3 charges. While wearing the mask you can expend 1 charge and use the mask to cast the animal friendship spell as an action. The mask regains all expended charges at dawn.
+    <text>This wooden mask is shaped in the likeness of a beast&apos;s visage and has 3 charges. While wearing the mask you can expend 1 charge and use the mask to cast the animal friendship spell as an action. The mask regains all expended charges at dawn.
 
 Source:	Tomb of Annihilation p. 207</text>
   </item>
@@ -237,7 +237,7 @@ Source:	Tomb of Annihilation p. 205</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>While this egg is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you have used the egg, it can't be used again until the next dawn.
+    <text>While this egg is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you have used the egg, it can&apos;t be used again until the next dawn.
 
 Additionally, while you are attuned to the egg, you gain resistance to poison damage.
 
@@ -263,7 +263,7 @@ Source:	Tomb of Annihilation p. 32</text>
     <magic>YES</magic>
     <weight>1</weight>
     <property/>
-    <text>Artus Cimber has kept this item in his possession for over a century. The Ring of Winter is a golden band that resizes to fit snugly on the finger of its wearer. A thin layer of frost coats the outside of the ring, which normal heat can't melt. The ring feels ice cold to the touch and initially numbs the hand that wears it, but this cold ceases to be felt by one who is attuned to this ring.
+    <text>Artus Cimber has kept this item in his possession for over a century. The Ring of Winter is a golden band that resizes to fit snugly on the finger of its wearer. A thin layer of frost coats the outside of the ring, which normal heat can&apos;t melt. The ring feels ice cold to the touch and initially numbs the hand that wears it, but this cold ceases to be felt by one who is attuned to this ring.
 
 The Ring of Winter is sentient and tries to take control of any creature that wears it (see "Sentient Magic Items" chapter 7 of the Dungeon Master's Guide). If it succeeds, the ring compels its wearer to cause undue harm to everyone and everything around it, in a cold-hearted attempt to incur the wrath of enemies and bring the wearer's doom.
 
@@ -348,7 +348,7 @@ Source:	Tomb of Annihilation p. 205</text>
     <dmg1>1d6</dmg1>
     <dmg2>1d8</dmg2>
     <dmgType>B</dmgType>
-    <text>This crooked staff is carved from bone and topped with the skull of a forgotten archmage whom Acererak destroyed long ago. Etched into the skull's forehead is acererak rune, which is known on many worlds as a sign of death.
+    <text>This crooked staff is carved from bone and topped with the skull of a forgotten archmage whom Acererak destroyed long ago. Etched into the skull&apos;s forehead is acererak rune, which is known on many worlds as a sign of death.
 
 Beneficial Properties: While the staff is on your person, you gain the following benefits:
 
@@ -379,7 +379,7 @@ Source:	Tomb of Annihilation p. 208</text>
     <type>G</type>
     <weight>5</weight>
     <property/>
-    <text>Tej is an amber-colored, fermented drink made from honey. It's more common and popular in Chult than beer or ale. A mug of tej costs 4 cp in Port Nyanzaru or 6 cp in Fort Beluarian. A 1-gallon cask costs 2 sp in the city or 3 sp at the fort.
+    <text>Tej is an amber-colored, fermented drink made from honey. It&apos;s more common and popular in Chult than beer or ale. A mug of tej costs 4 cp in Port Nyanzaru or 6 cp in Fort Beluarian. A 1-gallon cask costs 2 sp in the city or 3 sp at the fort.
 
 Source:	Tomb of Annihilation p. 32</text>
   </item>
@@ -390,7 +390,7 @@ Source:	Tomb of Annihilation p. 32</text>
     <weight/>
     <value>25.0</value>
     <property/>
-    <text>Introducing the juice of a wildroot into a poisoned creature's bloodstream (for example, by rubbing it on an open wound) rids the creature of the poisoned condition. Once used in this way, a wildroot loses this property.
+    <text>Introducing the juice of a wildroot into a poisoned creature&apos;s bloodstream (for example, by rubbing it on an open wound) rids the creature of the poisoned condition. Once used in this way, a wildroot loses this property.
 
 Source:	Tomb of Annihilation p. 205</text>
   </item>
@@ -422,7 +422,7 @@ Source:	Tomb of Annihilation p. 205</text>
     <weight/>
     <value>10.0</value>
     <property/>
-    <text>Zabou mushrooms feed on offal and the rotting wood of dead trees. If handled carefully, a zabou can be picked or uprooted without causing it to release its spores. If crushed or struck, a zabou releases its spores in a 10-foot-radius sphere. A zabou can also be hurled up to 30 feet away or dropped like a grenade, releasing its cloud of spores on impact. Any creature in that area must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. The poisoned creature's skin itches for the duration. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+    <text>Zabou mushrooms feed on offal and the rotting wood of dead trees. If handled carefully, a zabou can be picked or uprooted without causing it to release its spores. If crushed or struck, a zabou releases its spores in a 10-foot-radius sphere. A zabou can also be hurled up to 30 feet away or dropped like a grenade, releasing its cloud of spores on impact. Any creature in that area must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. The poisoned creature&apos;s skin itches for the duration. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 Source:	Tomb of Annihilation p. 205</text>
   </item>

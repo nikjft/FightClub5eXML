@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <race>
     <name>Owlin [2014]</name>
@@ -35,7 +36,7 @@ Source:	Strixhaven: A Curriculum of Chaos p. 29</text>
     </trait>
     <trait>
       <name>Flight</name>
-      <text>Thanks to your wings, you have a flying speed equal to your walking speed. You can't use this flying speed if you're wearing medium or heavy armor.</text>
+      <text>Thanks to your wings, you have a flying speed equal to your walking speed. You can&apos;t use this flying speed if you&apos;re wearing medium or heavy armor.</text>
     </trait>
     <trait>
       <name>Silent Feathers</name>

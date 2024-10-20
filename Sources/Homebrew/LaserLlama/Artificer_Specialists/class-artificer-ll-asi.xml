@@ -13,13 +13,13 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 2 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Aeronaut (HB): Tools of the Trade</name>
-        <text>At 3rd level, you gain proficiency with woodcarver's tools. If you are already proficient in woodcarver's tools you gain proficiency with another type of artisan's tools of your choice.
+        <text>At 3rd level, you gain proficiency with woodcarver's tools. If you are already proficient in woodcarver&apos;s tools you gain proficiency with another type of artisan&apos;s tools of your choice.
 
 Source:	LaserLlama: Artificer Specialists v2.1.0 p. 2 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Aeronaut (HB): Aeronaut Spells</name>
-        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Aeronaut Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prep.
+        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Aeronaut Spells table. These spells count as artificer spells for you, but they don&apos;t count against the number of artificer spells you prep.
 
 Aeronaut Spells:
 Artificer Level | Spell
@@ -33,7 +33,7 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 2 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Aeronaut (HB): Flying Machine</name>
-        <text>Starting at 3rd level, at the end of a long rest, you can use your woodcarver's tools to construct a Flying Machine.
+        <text>Starting at 3rd level, at the end of a long rest, you can use your woodcarver&apos;s tools to construct a Flying Machine.
 
 You choose the Machine's appearance, but it has no effect on its abilities. Your Flying Machine has the following features:
 
@@ -88,13 +88,13 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 3 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Archivist (HB): Tools of the Trade</name>
-        <text>When you become an Archivist Specialist at 3rd level, you gain proficiency with calligrapher's supplies. If you are already proficient in calligrapher's supplies you instead gain proficiency with another type of artisan's tools of your choice.
+        <text>When you become an Archivist Specialist at 3rd level, you gain proficiency with calligrapher's supplies. If you are already proficient in calligrapher&apos;s supplies you instead gain proficiency with another type of artisan&apos;s tools of your choice.
 
 Source:	LaserLlama: Artificer Specialists v2.1.0 p. 3 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Archivist (HB): Archivist Spells</name>
-        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Archivist Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prep.
+        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Archivist Spells table. These spells count as artificer spells for you, but they don&apos;t count against the number of artificer spells you prep.
 
 Archivist Spells:
 Artificer Level | Spell
@@ -108,7 +108,7 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 3 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Archivist (HB): Artificial Mind</name>
-        <text>Beginning at 3rd level, you learn to awaken Artificial Minds within objects. At the end of a long rest, you can touch a Tiny, non-magical object, and use your calligrapher's supplies to awaken an Artificial Mind within it. While the Artificial Mind is awakened within an object, it is considered a magic item that requires attunement, and it can be used as a spellcasting focus for your artificer spells. If you attempt to rouse a second Artificial Mind while you already have one from this feature, the first Artificial Mind ceases to exist. While attuned to your Artificial Mind, you gain the following abilities:
+        <text>Beginning at 3rd level, you learn to awaken Artificial Minds within objects. At the end of a long rest, you can touch a Tiny, non-magical object, and use your calligrapher&apos;s supplies to awaken an Artificial Mind within it. While the Artificial Mind is awakened within an object, it is considered a magic item that requires attunement, and it can be used as a spellcasting focus for your artificer spells. If you attempt to rouse a second Artificial Mind while you already have one from this feature, the first Artificial Mind ceases to exist. While attuned to your Artificial Mind, you gain the following abilities:
 
 Information Overload:
 You can cause your Artificial Mind to overload the mind's of your foes by channelling information at them. As an action, you can force a creature that you can see within 30 feet to make an Intelligence saving throw. On a failed save, it takes 1d8 psychic damage and disadvantage on the next attack roll it makes before the start of your next turn.
@@ -165,13 +165,13 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 4 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Biomancer (HB): Tools of the Trade</name>
-        <text>At 3rd level, you gain proficiency with leatherworker's tools. If you are already proficient with leatherworker's tools, you gain proficiency with another set of artisan's tools of your choice.
+        <text>At 3rd level, you gain proficiency with leatherworker's tools. If you are already proficient with leatherworker&apos;s tools, you gain proficiency with another set of artisan&apos;s tools of your choice.
 
 Source:	LaserLlama: Artificer Specialists v2.1.0 p. 4 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Biomancer (HB): Biomancer Spells</name>
-        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Biomancer Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prep.
+        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Biomancer Spells table. These spells count as artificer spells for you, but they don&apos;t count against the number of artificer spells you prep.
 
 Biomancer Spells:
 Artificer Level | Spell
@@ -256,13 +256,13 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 5 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Chronothief (HB): Tools of the Trade</name>
-        <text>At 3rd level, you gain proficiency with jeweler's tools. If you are already proficient with jeweler's tools, you instead gain proficiency with another set of artisan's tools of your choice.
+        <text>At 3rd level, you gain proficiency with jeweler's tools. If you are already proficient with jeweler&apos;s tools, you instead gain proficiency with another set of artisan&apos;s tools of your choice.
 
 Source:	LaserLlama: Artificer Specialists v2.1.0 p. 5 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Chronothief (HB): Chronothief Spells</name>
-        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Chronothief Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prep.
+        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Chronothief Spells table. These spells count as artificer spells for you, but they don&apos;t count against the number of artificer spells you prep.
 
 Chronothief Spells:
 Artificer Level | Spell
@@ -279,7 +279,7 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 5 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Chronothief (HB): Chronometer</name>
-        <text>At 3rd level, you can create a Chronometer, marking you as a true Chronothief. At the end of a long rest, you can use your jeweler's tools to construct a Tiny timekeeping device, like a watch, hourglass, or small sun dial, which can be used as a spellcasting focus by you for your artificer spells.
+        <text>At 3rd level, you can create a Chronometer, marking you as a true Chronothief. At the end of a long rest, you can use your jeweler&apos;s tools to construct a Tiny timekeeping device, like a watch, hourglass, or small sun dial, which can be used as a spellcasting focus by you for your artificer spells.
 
 You can only have one Chronometer at a time, and creating another causes the magic within the first to dissipate.
 
@@ -304,7 +304,7 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 5 (Homebrew)</text>
     <autolevel level="5">
       <feature optional="YES">
         <name>Chronothief (HB): Stolen Moments</name>
-        <text>You have improved your Chronometer so that you can literally save moments in time for later. Beginning at 5th level, when you successfully paralyze, stun, or reduce a creature's movement speed to 0 with a spell or Chronotheif ability, your Chronometer regains one of its expended charges.
+        <text>You have improved your Chronometer so that you can literally save moments in time for later. Beginning at 5th level, when you successfully paralyze, stun, or reduce a creature&apos;s movement speed to 0 with a spell or Chronotheif ability, your Chronometer regains one of its expended charges.
 
 Also, any of your Chronometer abilities that require an action to use can also be used as a bonus action on your turn.
 
@@ -353,13 +353,13 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 6 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Composer (HB): Tools of the Trade</name>
-        <text>When you become a Composer Specialist at 3rd level, you gain proficiency with smith's tools and one instrument of your choice. If you already proficient with smith's tools, you gain proficiency with another set of artisan's tools of your choice.
+        <text>When you become a Composer Specialist at 3rd level, you gain proficiency with smith's tools and one instrument of your choice. If you already proficient with smith&apos;s tools, you gain proficiency with another set of artisan&apos;s tools of your choice.
 
 Source:	LaserLlama: Artificer Specialists v2.1.0 p. 6 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Composer (HB): Composer Spells</name>
-        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Composer Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prep.
+        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Composer Spells table. These spells count as artificer spells for you, but they don&apos;t count against the number of artificer spells you prep.
 
 Composer Spells:
 Artificer Level | Spell
@@ -373,7 +373,7 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 6 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Composer (HB): Musical Apparatus</name>
-        <text>At 3rd level, you create a signature musical instrument. At the end of a long rest, you can use your smith's tools to create a Musical Apparatus. You are proficient with this Apparatus and it can be used as a spellcasting focus by you. When you make an ability check with your Musical Apparatus, you can add double your proficiency bonus to the result of your roll.
+        <text>At 3rd level, you create a signature musical instrument. At the end of a long rest, you can use your smith&apos;s tools to create a Musical Apparatus. You are proficient with this Apparatus and it can be used as a spellcasting focus by you. When you make an ability check with your Musical Apparatus, you can add double your proficiency bonus to the result of your roll.
 
 You can only maintain one Apparatus at a time. If you create a second, the previous Apparatus becomes unusable.
 
@@ -434,7 +434,7 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 7 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Dungeoneer (HB): Tools of the Trade</name>
-        <text>When you become a Dungeoneer Specialist at 3rd level, you gain proficiency with carpenters and smith's tools. If you already proficient in carpenter's or smith's tools, you gain proficiency with another set of artisan's tools of your choice.
+        <text>When you become a Dungeoneer Specialist at 3rd level, you gain proficiency with carpenters and smith's tools. If you already proficient in carpenter's or smith&apos;s tools, you gain proficiency with another set of artisan&apos;s tools of your choice.
 
 You also gain proficiency with improvised weapons. When you make an improvised weapon attack, you can use your Intelligence, in place of Strength or Dexterity, for the attack and damage rolls, and the damage die for any improvised weapon attacks you make becomes a d8 if it would be lower.
 
@@ -442,7 +442,7 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 7 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Dungeoneer (HB): Dungeoneer Spells</name>
-        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Dungeoneer Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prep.
+        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Dungeoneer Spells table. These spells count as artificer spells for you, but they don&apos;t count against the number of artificer spells you prep.
 
 Dungeoneer Spells:
 Artificer Level | Spell
@@ -517,13 +517,13 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 8 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Forgewright (HB): Tools of the Trade</name>
-        <text>When you become a Forgewright Specialist at 3rd level, you gain proficiency with smith's tools and all martial weapons. If you already proficient in smith's tools, you gain proficiency with another set of artisan's tools of your choice.
+        <text>When you become a Forgewright Specialist at 3rd level, you gain proficiency with smith's tools and all martial weapons. If you already proficient in smith&apos;s tools, you gain proficiency with another set of artisan&apos;s tools of your choice.
 
 Source:	LaserLlama: Artificer Specialists v2.1.0 p. 8 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Forgewright (HB): Forgewright Spells</name>
-        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Dungeoneer Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prep.
+        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Dungeoneer Spells table. These spells count as artificer spells for you, but they don&apos;t count against the number of artificer spells you prep.
 
 Forgewright Spells:
 Artificer Level | Spell
@@ -600,13 +600,13 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 9 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Machinist (HB): Tools of the Trade</name>
-        <text>At 3rd level, you gain proficiency with smith's tools. If you already proficient in smith's tools, you gain proficiency with another set of artisan's tools of your choice.
+        <text>At 3rd level, you gain proficiency with smith's tools. If you already proficient in smith&apos;s tools, you gain proficiency with another set of artisan&apos;s tools of your choice.
 
 Source:	LaserLlama: Artificer Specialists v2.1.0 p. 9 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Machinist (HB): Machinist Spells</name>
-        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Machinist Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prep.
+        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Machinist Spells table. These spells count as artificer spells for you, but they don&apos;t count against the number of artificer spells you prep.
 
 Machinist Spells:
 Artificer Level | Spell
@@ -620,7 +620,7 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 9 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Machinist (HB): Automatons</name>
-        <text>At 3rd level, you learn to craft Automatons. At the end of each long rest, you use your smith's tools to magically create a Small Automaton in an unoccupied space within 5 feet. Once you create an Automaton, you can't do so again until you finish a long rest or until you expend a spell slot of 1st-level or higher to create another one. You can have one Automaton at a time, creating a second causes the first to fall apart.
+        <text>At 3rd level, you learn to craft Automatons. At the end of each long rest, you use your smith&apos;s tools to magically create a Small Automaton in an unoccupied space within 5 feet. Once you create an Automaton, you can&apos;t do so again until you finish a long rest or until you expend a spell slot of 1st-level or higher to create another one. You can have one Automaton at a time, creating a second causes the first to fall apart.
 
 Automatons are magical constructs with an Armor Class equal to 12 + your Intelligence modifier, and hit points equal to your artificer level + your Intelligence modifier. When they make an ability check or a saving throw, its ability scores are 10 (+0). If mending is cast on it, it regains 2d6 hit points. It disappears if it is reduced to 0 hit points or after 1 hour.
 
@@ -681,13 +681,13 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 10 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Puppeteer (HB): Tools of the Trade</name>
-        <text>At 3rd level, you gain proficiency with weaver's tools. If you are already proficient with weaver's tools, you instead gain proficiency with another set of artisan's tools of your choice.
+        <text>At 3rd level, you gain proficiency with weaver's tools. If you are already proficient with weaver&apos;s tools, you instead gain proficiency with another set of artisan&apos;s tools of your choice.
 
 Source:	LaserLlama: Artificer Specialists v2.1.0 p. 10 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Puppeteer (HB): Puppeteer Spells</name>
-        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Puppeteer Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prep.
+        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Puppeteer Spells table. These spells count as artificer spells for you, but they don&apos;t count against the number of artificer spells you prep.
 
 Puppeteer Spells:
 Artificer Level | Spell
@@ -701,7 +701,7 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 10 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Puppeteer (HB): Marionette Strings</name>
-        <text>At 3rd level, you learn to fashion the strange Strings that mark you as a Puppeteer. When you finish a long rest, you can use your weaver's tools to construct a set of Marionette Strings, usable only by you. As an action, you can cause your Strings to fly out and magically attach to a willing creature within 30 feet. You must have a free hand to use your Strings.
+        <text>At 3rd level, you learn to fashion the strange Strings that mark you as a Puppeteer. When you finish a long rest, you can use your weaver&apos;s tools to construct a set of Marionette Strings, usable only by you. As an action, you can cause your Strings to fly out and magically attach to a willing creature within 30 feet. You must have a free hand to use your Strings.
 
 While a creature is attached to your Strings, you gain the features listed below. Your Marionette Strings detach after 1 minute, if you use a bonus action to detach them, or if you and the creature are ever more than 30 feet apart.
 
@@ -762,13 +762,13 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 11 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Alternate Alchemist (HB): Tools of the Trade</name>
-        <text>At 3rd level, you gain proficiency with alchemist's supplies. If you are already proficient with alchemist's supplies, you gain proficiency with another set of artisan's tools of your choice.
+        <text>At 3rd level, you gain proficiency with alchemist's supplies. If you are already proficient with alchemist&apos;s supplies, you gain proficiency with another set of artisan&apos;s tools of your choice.
 
 Source:	LaserLlama: Artificer Specialists v2.1.0 p. 11 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Alternate Alchemist (HB): Alternate Alchemist Spells</name>
-        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Alternate Alchemist Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prep.
+        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Alternate Alchemist Spells table. These spells count as artificer spells for you, but they don&apos;t count against the number of artificer spells you prep.
 
 Alternate Alchemist Spells:
 Artificer Level | Spell
@@ -782,7 +782,7 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 11 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Alternate Alchemist (HB): Alchemical Elixers</name>
-        <text>Beginning at 3rd level, at the end of each long rest, you can use your alchemist's supplies produce an Elixir in an empty flask you touch. At creation, you choose the Elixir's effect from the table below, some of which include your proficiency bonus (PB). The effect of an Elixir is triggered when someone drinks the Elixir. As a bonus action, a creature can drink the Elixir or administer it to a creature within 5 feet. A creature can only be under the effects of one Elixir at a time, and drinking another immediately ends any other Elixir effects.
+        <text>Beginning at 3rd level, at the end of each long rest, you can use your alchemist&apos;s supplies produce an Elixir in an empty flask you touch. At creation, you choose the Elixir&apos;s effect from the table below, some of which include your proficiency bonus (PB). The effect of an Elixir is triggered when someone drinks the Elixir. As a bonus action, a creature can drink the Elixir or administer it to a creature within 5 feet. A creature can only be under the effects of one Elixir at a time, and drinking another immediately ends any other Elixir effects.
 
 Any Elixir you create through this feature lasts until it is consumed, or until the end of your next long rest.
 
@@ -814,7 +814,7 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 11 (Homebrew)</text>
     <autolevel level="9">
       <feature optional="YES">
         <name>Alternate Alchemist (HB): Resorative Reagents</name>
-        <text>Beginning at 9th level, whenever a creature drinks one of your Elixirs, they gain temporary hit points equal to 2d6 + your Intelligence modifier, in addition to the Elixir's effect.
+        <text>Beginning at 9th level, whenever a creature drinks one of your Elixirs, they gain temporary hit points equal to 2d6 + your Intelligence modifier, in addition to the Elixir&apos;s effect.
 
 Also, you can cast lesser restoration without expending a spell slot, even if you don't have it prepared, provided you use your alchemist's supplies as the spellcasting focus.
 

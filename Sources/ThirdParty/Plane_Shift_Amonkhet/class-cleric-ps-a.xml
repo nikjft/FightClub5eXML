@@ -25,7 +25,7 @@ Source:	Plane Shift: Amonkhet p. 27 (Third Party)</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Ambition Domain: Warding Flare</name>
-        <text>When you choose this domain at 1st level, you can interpose divine light between yourself and an attacking enemy. When you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can't be blinded is immune to this feature.
+        <text>When you choose this domain at 1st level, you can interpose divine light between yourself and an attacking enemy. When you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can&apos;t be blinded is immune to this feature.
 
 You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
@@ -158,8 +158,8 @@ Source:	Plane Shift: Amonkhet p. 24 (Third Party)</text>
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Solidarity Domain: Solidarity's Action</name>
-        <text>Also at 1st level, when you take the Help action to aid an ally's attack, you can make one weapon attack as a bonus action. You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain expended uses when you finish a long rest.
+        <name>Solidarity Domain: Solidarity&apos;s Action</name>
+        <text>Also at 1st level, when you take the Help action to aid an ally&apos;s attack, you can make one weapon attack as a bonus action. You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain expended uses when you finish a long rest.
 
 Source:	Plane Shift: Amonkhet p. 24 (Third Party)</text>
       </feature>
@@ -168,7 +168,7 @@ Source:	Plane Shift: Amonkhet p. 24 (Third Party)</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Solidarity Domain: Channel Divinity: Preserve Life</name>
-        <text>Starting at 2nd level, you can use your Channel Divinity to heal the badly injured. As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.
+        <text>Starting at 2nd level, you can use your Channel Divinity to heal the badly injured. As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can&apos;t use this feature on an undead or a construct.
 
 Source:	Plane Shift: Amonkhet p. 24 (Third Party)</text>
       </feature>
@@ -176,7 +176,7 @@ Source:	Plane Shift: Amonkhet p. 24 (Third Party)</text>
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Solidarity Domain: Oketra's Blessing</name>
+        <name>Solidarity Domain: Oketra&apos;s Blessing</name>
         <text>At 6th level, when a creature within 30 feet of you makes an attack roll, you can use your reaction to grant that creature a +10 bonus to the roll, using your Channel Divinity. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.
 
 Source:	Plane Shift: Amonkhet p. 24 (Third Party)</text>
@@ -251,7 +251,7 @@ Source:	Plane Shift: Amonkhet p. 26 (Third Party)</text>
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Strength Domain: Rhonas's Blessing</name>
+        <name>Strength Domain: Rhonas&apos;s Blessing</name>
         <text>At 6th level, when a creature within 30 feet of you makes an attack roll, ability check, or saving throw using Strength, you can use your reaction to grant that creature a +10 bonus to the roll, using your Channel Divinity. You make this choice after you see the roll, but before the DM says whether the roll succeeds or fail.
 
 Source:	Plane Shift: Amonkhet p. 26 (Third Party)</text>
@@ -279,7 +279,7 @@ Source:	Plane Shift: Amonkhet p. 26 (Third Party)</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Divine Domain: Zeal Domain</name>
-        <text>"The worthy shall rush to the God-Pharaoh's side with relentless zeal, rising to overcome every obstacle in their way."
+        <text>"The worthy shall rush to the God-Pharaoh&apos;s side with relentless zeal, rising to overcome every obstacle in their way."
 
 The God-Pharaoh expects those he welcomes into the afterlife to desire it above all other pleasures and achievements, and for them to show their dedication, passion, and fervor through their actions. Hazoret is charged with cultivating this zeal in the initiates who come under her care, and she has undertaken the task with appropriate enthusiasm. She recognizes, however, that the best way to teach zeal is by demonstrating it.
 
@@ -347,7 +347,7 @@ Source:	Plane Shift: Amonkhet p. 28 (Third Party)</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Zeal Domain: Blaze of Glory</name>
-        <text>Starting at 17th level, you can delay death for an instant to perform a final heroic act. When you are reduced to 0 hit points by an attacker you can see, even if you would be killed outright, you can use your reaction to move up to your speed toward the attacker and make one melee weapon attack against it, as long as the movement brings it within your reach. You make this attack with advantage. If the attack hits, the creature takes an extra 5d10 fire damage and an extra 5d10 damage of the weapon's type. You then fall unconscious and begin making death saving throws as normal, or you die if the damage you took would have killed you outright.
+        <text>Starting at 17th level, you can delay death for an instant to perform a final heroic act. When you are reduced to 0 hit points by an attacker you can see, even if you would be killed outright, you can use your reaction to move up to your speed toward the attacker and make one melee weapon attack against it, as long as the movement brings it within your reach. You make this attack with advantage. If the attack hits, the creature takes an extra 5d10 fire damage and an extra 5d10 damage of the weapon&apos;s type. You then fall unconscious and begin making death saving throws as normal, or you die if the damage you took would have killed you outright.
 
 Once you use this feature, you can't use it again until you finish a long rest.
 

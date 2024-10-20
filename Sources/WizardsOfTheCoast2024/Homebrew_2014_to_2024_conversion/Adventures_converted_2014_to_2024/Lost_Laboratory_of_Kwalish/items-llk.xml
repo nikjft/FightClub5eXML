@@ -181,12 +181,12 @@ Source:	Lost Laboratory of Kwalish p. 53</text>
     <weight/>
     <value>1.0</value>
     <property/>
-    <text>One card in this deck is enchanted to appear as whatever specific card its owner commands. This magic works only 25 percent of the time, but the deck is worth 500 gp to any serious gambler who doesn't mind the risk—or who isn't told about it.
+    <text>One card in this deck is enchanted to appear as whatever specific card its owner commands. This magic works only 25 percent of the time, but the deck is worth 500 gp to any serious gambler who doesn&apos;t mind the risk—or who isn&apos;t told about it.
 
 Source:	Lost Laboratory of Kwalish p. 15</text>
   </item>
   <item>
-    <name>Galder's Bubble Pipe [2014]</name>
+    <name>Galder&apos;s Bubble Pipe [2014]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -201,14 +201,14 @@ Source:	Lost Laboratory of Kwalish p. 15</text>
 Source:	Lost Laboratory of Kwalish p. 55</text>
   </item>
   <item>
-    <name>Heward's Hireling Armor [2014]</name>
+    <name>Heward&apos;s Hireling Armor [2014]</name>
     <detail>leather armor, very rare (requires attunement)</detail>
     <type>LA</type>
     <magic>YES</magic>
     <weight>10</weight>
     <property/>
     <ac>11</ac>
-    <text>A number of Kwalish's experiments were attempts to research the works of the legendary mage Heward, who first crafted what he named hireling armor. While wearing this armor, you gain a +1 bonus to AC. In addition, the armor's animated straps can assist with the drawing and sheathing of weapons, such that you can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.
+    <text>A number of Kwalish&apos;s experiments were attempts to research the works of the legendary mage Heward, who first crafted what he named hireling armor. While wearing this armor, you gain a +1 bonus to AC. In addition, the armor&apos;s animated straps can assist with the drawing and sheathing of weapons, such that you can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.
 
 This armor also has six pockets, each of which is an extradimensional space. Each pocket can hold up to 20 pounds of material, not exceeding a volume of 2 cubic feet. The armor always weighs 10 pounds, regardless of its pockets' contents. Placing an object into one of the armor's pockets follows the normal rules for interacting with objects. Retrieving an item from a pocket of the armor requires you to use an action. When you reach into a pocket for a specific item, the item is always magically on top.
 
@@ -358,7 +358,7 @@ Source:	Lost Laboratory of Kwalish p. 55</text>
     <weight>65</weight>
     <property/>
     <ac>18</ac>
-    <text>Powered armor resembles a suit of unusual plate armor, with finely articulated joints connected by an oily, black, leather-like material. The armor has been worked to create the appearance of a heavily muscled warrior, and its great helm is unusual in that it has no openings—only a broad glass plate in the front with a second piece of glass above it. Strange plates, tubing, and large metal bosses adorn the armor in seemingly random fashion. On the back of the armor's left gauntlet is a rectangular metal box, from which projects a short rod tipped with a cone-shaped red crystal.
+    <text>Powered armor resembles a suit of unusual plate armor, with finely articulated joints connected by an oily, black, leather-like material. The armor has been worked to create the appearance of a heavily muscled warrior, and its great helm is unusual in that it has no openings—only a broad glass plate in the front with a second piece of glass above it. Strange plates, tubing, and large metal bosses adorn the armor in seemingly random fashion. On the back of the armor&apos;s left gauntlet is a rectangular metal box, from which projects a short rod tipped with a cone-shaped red crystal.
 
 While wearing this armor, you gain the following benefits:
 

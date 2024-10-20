@@ -5,7 +5,7 @@
     <autolevel level="1">
       <feature optional="YES">
         <name>Divine Domain: Darkness Domain (Twitter)</name>
-        <text>[Note: this subclass is likely not intended as official content: "For the curious, when building stuff for my own campaign I kind of don't care about balance. Anything I can break in design I can counterbreak five times as bad during a session, as needed. Plus, IMO stuff going sideways and weird is why I play the game."—Mike Mearls (https://twitter.com/mikemearls/status/1015752965213204480)]
+        <text>[Note: this subclass is likely not intended as official content: "For the curious, when building stuff for my own campaign I kind of don&apos;t care about balance. Anything I can break in design I can counterbreak five times as bad during a session, as needed. Plus, IMO stuff going sideways and weird is why I play the game."—Mike Mearls (https://twitter.com/mikemearls/status/1015752965213204480)]
 Custom built for clerics of Zehir, and perhaps Lolth.
 
 At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.
@@ -47,7 +47,7 @@ Source:	Twitter</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Divine Domain: Destruction Domain (Twitter)</name>
-        <text>[Note: this subclass is likely not intended as official content: "For the curious, when building stuff for my own campaign I kind of don't care about balance. Anything I can break in design I can counterbreak five times as bad during a session, as needed. Plus, IMO stuff going sideways and weird is why I play the game."—Mike Mearls (https://twitter.com/mikemearls/status/1015752965213204480)]
+        <text>[Note: this subclass is likely not intended as official content: "For the curious, when building stuff for my own campaign I kind of don&apos;t care about balance. Anything I can break in design I can counterbreak five times as bad during a session, as needed. Plus, IMO stuff going sideways and weird is why I play the game."—Mike Mearls (https://twitter.com/mikemearls/status/1015752965213204480)]
 Custom built for clerics of Gruumsh, and perhaps Tiamat.
 
 At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.
@@ -87,7 +87,7 @@ Source:	Twitter</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Divine Domain: Beauty Domain (Twitter)</name>
-        <text>[Note: this subclass is likely not intended as official content: "For the curious, when building stuff for my own campaign I kind of don't care about balance. Anything I can break in design I can counterbreak five times as bad during a session, as needed. Plus, IMO stuff going sideways and weird is why I play the game."—Mike Mearls (https://twitter.com/mikemearls/status/1015752965213204480)]
+        <text>[Note: this subclass is likely not intended as official content: "For the curious, when building stuff for my own campaign I kind of don&apos;t care about balance. Anything I can break in design I can counterbreak five times as bad during a session, as needed. Plus, IMO stuff going sideways and weird is why I play the game."—Mike Mearls (https://twitter.com/mikemearls/status/1015752965213204480)]
 Beauty can both bend minds and inspire hearts. It is the force that compels others to lose control and give in to their impulses, but it can also awaken strength and determination to steel a forlorn heart.
 
 Clerics of Beauty bring joy and hope to the world. They are the beacon of light that reminds us that some things are worth fighting for. They seek to bring peace and amity among the world's folk. They fight only when they must, and prefer to use their magic to end fights with as little bloodshed as possible.
@@ -108,7 +108,7 @@ Source:	Twitter</text>
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Beauty Domain (Twitter): Beauty's Refuge</name>
+        <name>Beauty Domain (Twitter): Beauty&apos;s Refuge</name>
         <text>Starting at 1st level, your mere presence is enough to inspire hope and determination in others. When you complete a short or long rest, up to 12 allies of your choice gain temporary hit points equal to your Charisma modifier (minimum 1).
 
 Source:	Twitter</text>
@@ -154,7 +154,7 @@ Source:	Twitter</text>
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Beauty Domain (Twitter): Channel Divinity: Beauty's Truce</name>
+        <name>Beauty Domain (Twitter): Channel Divinity: Beauty&apos;s Truce</name>
         <text>Starting at 2nd level, you can use your Channel Divinity to quell the flame of violence.
 
 As an action, you force all creatures within 100 feet of you to make Charisma saving throws. Each creature that fails this saved is charmed by every other creature that also failed the saving throw. This benefit lasts for one hour. While charmed by this ability, creatures consider all other creatures charmed by it to be their allies. They fight to defend them from attackers.
@@ -188,7 +188,7 @@ Source:	Twitter</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Beauty Domain (Twitter): Superior Refuge</name>
-        <text>Starting at 6th level, the temporary hit points granted by your Beauty's Refuge ability increase to 5 + your Charisma modifier (minimum 1).
+        <text>Starting at 6th level, the temporary hit points granted by your Beauty&apos;s Refuge ability increase to 5 + your Charisma modifier (minimum 1).
 
 Source:	Twitter</text>
       </feature>
@@ -243,7 +243,7 @@ Source:	Twitter</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Destruction Domain (Twitter): Hand of Devastation</name>
-        <text>Starting at 17th level, your spells deliver exceptional power. When you roll damage for a spell, roll twice the listed number of dice. You then choose from among the rolled dice the results you wish to use to determine the spell's damage. You must select dice that match the quantity and type normally rolled to determine the spell's damage.
+        <text>Starting at 17th level, your spells deliver exceptional power. When you roll damage for a spell, roll twice the listed number of dice. You then choose from among the rolled dice the results you wish to use to determine the spell&apos;s damage. You must select dice that match the quantity and type normally rolled to determine the spell&apos;s damage.
 
 Source:	Twitter</text>
       </feature>

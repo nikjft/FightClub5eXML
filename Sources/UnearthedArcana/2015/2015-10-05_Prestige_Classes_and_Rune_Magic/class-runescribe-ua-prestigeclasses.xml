@@ -4,7 +4,7 @@
     <name>Rune Scribe (UA)</name>
     <hd>8</hd>
     <numSkills>0</numSkills>
-    <tools>Calligrapher's supplies, mason's tools, woodcarver's tools</tools>
+    <tools>Calligrapher's supplies, mason&apos;s tools, woodcarver&apos;s tools</tools>
 
     <autolevel level="1"><slots>0, 2</slots></autolevel>
     <autolevel level="2"><slots>0, 3</slots></autolevel>
@@ -65,7 +65,7 @@ Source:	Unearthed Arcana: Prestige Classes and Rune Magic p. 2</text>
       </feature>
       <feature>
         <name>Rune Lore</name>
-        <text>At 1st level, you learn the basics of scribing runes, and are able to activate a master rune's full range of properties when you are properly attuned to it.
+        <text>At 1st level, you learn the basics of scribing runes, and are able to activate a master rune&apos;s full range of properties when you are properly attuned to it.
 
 The first rune you master is the rune you found and presented to your tutor to qualify for this prestige class. Your entrance to the class includes the process of mastering that rune's secrets.
 

@@ -7,10 +7,10 @@
     <time>1 action</time>
     <duration>Instantaneous</duration>
     <range>Touch</range>
-    <components>M (a set of artisan's tools (requires attunement)
+    <components>M (a set of artisan&apos;s tools (requires attunement)
 )</components>
     <classes>Artificer Infusions</classes>
-    <text>The wielder is considered proficient with this magical set of tools, and as an action, they can transform this set of tools into another set of artisan's tools of their choice.
+    <text>The wielder is considered proficient with this magical set of tools, and as an action, they can transform this set of tools into another set of artisan&apos;s tools of their choice.
 
 Source:	LaserLlama: Artificer Specialists v2.1.0 p. 12 (Homebrew)</text>
   </spell>
@@ -36,7 +36,7 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 12 (Homebrew)</text>
     <range>Touch</range>
     <components>M (a glove or gauntlet)</components>
     <classes>Artificer Infusions</classes>
-    <text>This tiny magical launcher can be loaded with a Tiny object (for example: ball bearings, a vial of acid, alchemist's fire, or holy water). As a bonus action the wearer can activate the launcher and make a ranged attack at a target within 20 feet. The launcher can be reloaded as an action.
+    <text>This tiny magical launcher can be loaded with a Tiny object (for example: ball bearings, a vial of acid, alchemist&apos;s fire, or holy water). As a bonus action the wearer can activate the launcher and make a ranged attack at a target within 20 feet. The launcher can be reloaded as an action.
 
 Source:	LaserLlama: Artificer Specialists v2.1.0 p. 12 (Homebrew)</text>
   </spell>
@@ -107,7 +107,7 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 12 (Homebrew)</text>
     <range>Touch</range>
     <components>M (a whip or chain)</components>
     <classes>Artificer Infusions</classes>
-    <text>This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it's damage die increases to 1d8.
+    <text>This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it&apos;s damage die increases to 1d8.
 
 This bonus increases at 10th level (+2) and 14th level (+3).
 

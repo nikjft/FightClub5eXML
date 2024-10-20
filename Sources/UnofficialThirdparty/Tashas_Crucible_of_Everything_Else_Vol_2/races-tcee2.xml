@@ -9,7 +9,7 @@
     <spellAbility/>
     <trait category="description">
       <name>Description</name>
-      <text>This is a rebalance and reenvisioning of the original Aaracokra race, which can be found in the Elemental Evil Player's Companion, and on the Wizards of the Coast and DNDBeyond websites for free. This version introduces subraces.
+      <text>This is a rebalance and reenvisioning of the original Aaracokra race, which can be found in the Elemental Evil Player&apos;s Companion, and on the Wizards of the Coast and DNDBeyond websites for free. This version introduces subraces.
 
 This subrace represents the original version of the aarakocra race. For more information on this version's culture, history, and archetypal adventurers, see the Elemental Evil Player's Companion, available for free on the Wizards of the Coast and DNDBeyond websites.
 
@@ -21,7 +21,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 46 (Homebrew)</text>
     </trait>
     <trait>
       <name>Life Span</name>
-      <text>Aarakocra reach maturity by age 3. Compared to humans, aarakocra don't usually live longer than 30 years.</text>
+      <text>Aarakocra reach maturity by age 3. Compared to humans, aarakocra don&apos;t usually live longer than 30 years.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -35,7 +35,7 @@ Weight in Pounds = 80 + your size modifier</text>
     </trait>
     <trait>
       <name>Flight</name>
-      <text>You have a flying speed of 50 feet. To use this speed, you can't be wearing medium or heavy armor.</text>
+      <text>You have a flying speed of 50 feet. To use this speed, you can&apos;t be wearing medium or heavy armor.</text>
     </trait>
     <trait>
       <name>Talons</name>
@@ -65,7 +65,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 46 (Homebrew)</text>
     </trait>
     <trait>
       <name>Life Span</name>
-      <text>Aarakocra reach maturity by age 3. Compared to humans, aarakocra don't usually live longer than 30 years.</text>
+      <text>Aarakocra reach maturity by age 3. Compared to humans, aarakocra don&apos;t usually live longer than 30 years.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -79,7 +79,7 @@ Weight in Pounds = 80 + your size modifier</text>
     </trait>
     <trait>
       <name>Nautical</name>
-      <text>You have a swimming speed of 30 feet. To use this speed, you can't be wearing medium or heavy armor.</text>
+      <text>You have a swimming speed of 30 feet. To use this speed, you can&apos;t be wearing medium or heavy armor.</text>
     </trait>
     <trait>
       <name>Insulation</name>
@@ -103,7 +103,7 @@ Weight in Pounds = 80 + your size modifier</text>
     <spellAbility/>
     <trait category="description">
       <name>Description</name>
-      <text>A generally ponderous and thoughtful bunch, condor aarakocra are known for their wise words, though their proverbs always seem to imply reminders of death. Not as fast as some of the other aarakocra, a condor aarakocra's strong points include a very hardy constitution and impressive longevity instead.
+      <text>A generally ponderous and thoughtful bunch, condor aarakocra are known for their wise words, though their proverbs always seem to imply reminders of death. Not as fast as some of the other aarakocra, a condor aarakocra&apos;s strong points include a very hardy constitution and impressive longevity instead.
 
 Source:	Tasha's Crucible of Everything Else, Volume 2 p. 47 (Homebrew)</text>
     </trait>
@@ -113,7 +113,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 47 (Homebrew)</text>
     </trait>
     <trait>
       <name>Life Span</name>
-      <text>Aarakocra reach maturity by age 3. Compared to humans, aarakocra don't usually live longer than 30 years.</text>
+      <text>Aarakocra reach maturity by age 3. Compared to humans, aarakocra don&apos;t usually live longer than 30 years.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -127,11 +127,11 @@ Weight in Pounds = 80 + your size modifier</text>
     </trait>
     <trait>
       <name>Flight</name>
-      <text>You have a flying speed of 25 feet. To use this speed, you can't be wearing heavy armor.</text>
+      <text>You have a flying speed of 25 feet. To use this speed, you can&apos;t be wearing heavy armor.</text>
     </trait>
     <trait>
       <name>Carrion Eater</name>
-      <text>With a history of scavenging in some of the world's harshest arid environments, you've developed an iron stomach. You have advantage on saving throws against poison, and you are immune to the poisoned condition.</text>
+      <text>With a history of scavenging in some of the world&apos;s harshest arid environments, you&apos;ve developed an iron stomach. You have advantage on saving throws against poison, and you are immune to the poisoned condition.</text>
     </trait>
     <trait>
       <name>Talons</name>
@@ -200,7 +200,7 @@ Weight in Pounds = 80 + (1d6 x your size modifier)</text>
     </trait>
     <trait>
       <name>Mountain Climber</name>
-      <text>You're acclimated to high altitudes, including elevations above 20,000 feet.
+      <text>You&apos;re acclimated to high altitudes, including elevations above 20,000 feet.
 
 You can find secure footholds almost no other creature could. You have a climbing speed equal to your walking speed, and you do not have to use your hooves on the end of your arms to hold on to non-sheer surfaces. For example, if you are climbing a cliff and are attacked by flying creatures, you can use your hooves on the end of your arms to swing a two-handed weapon, cast a spell, or use a single-handed weapon and a shield, all without falling.</text>
     </trait>
@@ -218,7 +218,7 @@ You can find secure footholds almost no other creature could. You have a climbin
     <spellAbility>Wisdom</spellAbility>
     <trait category="description">
       <name>Description</name>
-      <text>The kuo-toa are a race of fishlike humanoids who were enslaved by the illithids millennia ago. They were driven mad by their captivity, and even to this day they harbor some of the realms' most insane philosophers.
+      <text>The kuo-toa are a race of fishlike humanoids who were enslaved by the illithids millennia ago. They were driven mad by their captivity, and even to this day they harbor some of the realms&apos; most insane philosophers.
 
 Source:	Tasha's Crucible of Everything Else, Volume 2 p. 87 (Homebrew)</text>
     </trait>
@@ -269,7 +269,7 @@ Weight in Pounds = 90 + (2d6 x your size modifier)</text>
     </trait>
     <trait>
       <name>Superior Darkvision</name>
-      <text>Accustomed to the Underdark, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Accustomed to the Underdark, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Sunlight Sensitivity</name>
@@ -313,21 +313,21 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 49 (Homebrew)</text>
     </trait>
     <trait category="description">
       <name>Fuzzy Memories</name>
-      <text>Most Mountoucheds' memories of the event are as hazy as the destroying mists. No definitive explanation can be found for why they were spared, but the superstitious say that these people are cursed, and that anyone touched by the Mourning is now an agent of darkness.</text>
+      <text>Most Mountoucheds&apos; memories of the event are as hazy as the destroying mists. No definitive explanation can be found for why they were spared, but the superstitious say that these people are cursed, and that anyone touched by the Mourning is now an agent of darkness.</text>
     </trait>
     <trait category="description">
       <name>Changed Forever</name>
-      <text>While only a few thousand exist, many Mourntouched find it near impossible to return to a 'normal' life again. Plenty have turned to adventuring after superstitious refugees and distrusting foreigners have refused them admittance to typical society.</text>
+      <text>While only a few thousand exist, many Mourntouched find it near impossible to return to a &apos;normal&apos; life again. Plenty have turned to adventuring after superstitious refugees and distrusting foreigners have refused them admittance to typical society.</text>
     </trait>
     <trait category="description">
       <name>The Next Day</name>
-      <text>The day after the Mourning, you woke up. Consider the following questions as you develop your character's story. What did you do upon realizing you had survived? How did you survive in a magical wasteland? Did you brave mutated beasts and living spells? Did you find a barely-functioning magic item that helped you survive? Did you find other survivors and form a motley band? Did you come across the followers of the Lord of Blades, who kept you safe from monsters after old warforged friends vouched for your good character? What did you eat and drink? What sorts of terrible scenes did you witness as you trekked to safety?
+      <text>The day after the Mourning, you woke up. Consider the following questions as you develop your character&apos;s story. What did you do upon realizing you had survived? How did you survive in a magical wasteland? Did you brave mutated beasts and living spells? Did you find a barely-functioning magic item that helped you survive? Did you find other survivors and form a motley band? Did you come across the followers of the Lord of Blades, who kept you safe from monsters after old warforged friends vouched for your good character? What did you eat and drink? What sorts of terrible scenes did you witness as you trekked to safety?
 
 Chapters 2 and 4 of Eberron: Rising from the Last War provide more inspiration for developing Mourntouched characters in that campaign setting.</text>
     </trait>
     <trait category="description">
       <name>Mourning Mutations</name>
-      <text>Many people think the Mourntouched are cursed. The physical alterations certainly don't help.
+      <text>Many people think the Mourntouched are cursed. The physical alterations certainly don&apos;t help.
 
 Many survivors of magical cataclysm have muta tions that are purely cosmetic, albeit unnerving. The Mourning Mutations table provides inspiration for what types of changes you may have experienced.
 
@@ -366,7 +366,7 @@ Rising from the Last War (not including human or warforged).</text>
     </trait>
     <trait category="description">
       <name>Mourntouched Names</name>
-      <text>Most Mourntouched retain the names they had before the Mourning. If this is you, consider what names are culturally suitable for a character of your race and homeland. Some Mourntouched, inspired by their experience, have chosen to craft new identities for themselves. They consider themselves 'reborn' into a new life by the Mourning and choose a name they want to define themselves with.
+      <text>Most Mourntouched retain the names they had before the Mourning. If this is you, consider what names are culturally suitable for a character of your race and homeland. Some Mourntouched, inspired by their experience, have chosen to craft new identities for themselves. They consider themselves &apos;reborn&apos; into a new life by the Mourning and choose a name they want to define themselves with.
 
 Common Reborn Mourntouched Names:
 Ability, Agility, Alive, Aspiration, Awake, Awareness, Beauty, Blessed, Blessing, Bravery, Chance, Changed, Charity, Chosen, Comeliness, Courage, Decisive, Desire, Destiny, Fate, Gratitude, Gratuity, Knowledge, Love, Move-On, Overcomes, Peace, Permanence, Power, Reborn, Remade, Righteous, Second, Sover eignlove, Spared, Strength, Survivor, Tranquility, Understanding, Vengeance, Virtue</text>
@@ -388,7 +388,7 @@ Ability, Agility, Alive, Aspiration, Awake, Awareness, Beauty, Blessed, Blessing
       <text>Most Mourntouched retain, at least mostly, the physical appearance of their previous race. Your size and build are roughly that of your base race, and your size is Medium or Small, accordingly. Your height and weight are determined by your base race.</text>
     </trait>
     <trait>
-      <name>I've Seen Worse</name>
+      <name>I&apos;ve Seen Worse</name>
       <text>You have advantage on saving throws against being frightened.</text>
     </trait>
     <trait>
@@ -397,15 +397,15 @@ Ability, Agility, Alive, Aspiration, Awake, Awareness, Beauty, Blessed, Blessing
     </trait>
     <trait>
       <name>Sixth Sense</name>
-      <text>You've developed some sort of extrasensory perception. You have blindsight within a radius of 5 feet, allowing you to sense your immediate surroundings without relying on sight. This blindsight ignores full cover.</text>
+      <text>You&apos;ve developed some sort of extrasensory perception. You have blindsight within a radius of 5 feet, allowing you to sense your immediate surroundings without relying on sight. This blindsight ignores full cover.</text>
     </trait>
     <trait>
       <name>Unexplained Ability</name>
-      <text>You gain proficiency in a skill of your choice. You didn't have this skill before the Mourning. You can't explain where it came from.</text>
+      <text>You gain proficiency in a skill of your choice. You didn&apos;t have this skill before the Mourning. You can&apos;t explain where it came from.</text>
     </trait>
     <trait>
       <name>Languages</name>
-      <text>You can speak, read, and write Common and one other language of your choice. If you didn't speak that language before the disaster, you can't explain where it came from.</text>
+      <text>You can speak, read, and write Common and one other language of your choice. If you didn&apos;t speak that language before the disaster, you can&apos;t explain where it came from.</text>
     </trait>
   </race>
   <race>
@@ -423,15 +423,15 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 51 (Homebrew)</text>
     </trait>
     <trait category="description">
       <name>Homeland</name>
-      <text>Ratpeople congregate in urban centers, such as Water deep in the Forgotten Realms or Sharn in Eberron. While a sizable minority of ratpeople live outside of major cities or find other occupations, most work as city sanitation staff. The ratpeople colonies of the Rat Hills south of Waterdeep are the #1 recruitment source for the city's sewer, well, and waterworks inspectors. If you've drunk clean water today, you may have a ratperson to thank.</text>
+      <text>Ratpeople congregate in urban centers, such as Water deep in the Forgotten Realms or Sharn in Eberron. While a sizable minority of ratpeople live outside of major cities or find other occupations, most work as city sanitation staff. The ratpeople colonies of the Rat Hills south of Waterdeep are the #1 recruitment source for the city&apos;s sewer, well, and waterworks inspectors. If you&apos;ve drunk clean water today, you may have a ratperson to thank.</text>
     </trait>
     <trait category="description">
       <name>Family Centric</name>
-      <text>Ratpeople value close family bonds. They work together to keep their nests clean and put food on the table. Extended families often live together; it isn't uncommon for one family to have two grandparents, several aunts and uncles, and tens of grandchildren all living in a small area. As such, ratpeople tend to be very good at sharing.</text>
+      <text>Ratpeople value close family bonds. They work together to keep their nests clean and put food on the table. Extended families often live together; it isn&apos;t uncommon for one family to have two grandparents, several aunts and uncles, and tens of grandchildren all living in a small area. As such, ratpeople tend to be very good at sharing.</text>
     </trait>
     <trait category="description">
       <name>Affectionate</name>
-      <text>While ratpeople are often hesitant to get to know new people, they make loving and loyal friends. Ratpeople love to socialize and frequently help groom each other. If a ratperson tries to comb your hair, don't be offended. That means they consider you a close friend. Most adult ratpeople understand that not all other peoples and cultures express friendship in the same way and will listen if you ask them not to.</text>
+      <text>While ratpeople are often hesitant to get to know new people, they make loving and loyal friends. Ratpeople love to socialize and frequently help groom each other. If a ratperson tries to comb your hair, don&apos;t be offended. That means they consider you a close friend. Most adult ratpeople understand that not all other peoples and cultures express friendship in the same way and will listen if you ask them not to.</text>
     </trait>
     <trait category="description">
       <name>Safety First</name>
@@ -452,7 +452,7 @@ the importance of safety. Unique quirks of many ratpeople may be misinterpreted 
     </trait>
     <trait>
       <name>Size</name>
-      <text>Ratpeople are between 5' and 5'6" feet tall and weigh between 80 and 120 lbs. Your size is Medium.
+      <text>Ratpeople are between 5&apos; and 5&apos;6" feet tall and weigh between 80 and 120 lbs. Your size is Medium.
 
 You can roll to randomly determine your character's height and weight.
 
@@ -530,7 +530,7 @@ Elizabeth, Exit, Hail, Hey You, J.Lo, Scrap Metal, That Thing, Tinman, Volo, and
     </trait>
     <trait>
       <name>Life Span</name>
-      <text>Your life as a normal modron could have been any length, from days to years. Your life as a rogue modron began when you received Primus's blessing. There is not a known maximum life expectancy for rogue modrons, but most die through accidents, disease, or adventuring within 100 years of their blessing.</text>
+      <text>Your life as a normal modron could have been any length, from days to years. Your life as a rogue modron began when you received Primus&apos;s blessing. There is not a known maximum life expectancy for rogue modrons, but most die through accidents, disease, or adventuring within 100 years of their blessing.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -552,7 +552,7 @@ The only physical variation in rogue modrons is the serial number printed on the
     </trait>
     <trait>
       <name>Natural Armor</name>
-      <text>Due to your boxy shape, you are ill-suited to wearing armor. You have a tough, metal exterior that gives you ample protection. When you aren't wearing armor, your AC is equal to 10 + your Dexterity modifier + your proficiency bonus. A shield's benefits apply as normal while you use your natural armor.</text>
+      <text>Due to your boxy shape, you are ill-suited to wearing armor. You have a tough, metal exterior that gives you ample protection. When you aren&apos;t wearing armor, your AC is equal to 10 + your Dexterity modifier + your proficiency bonus. A shield&apos;s benefits apply as normal while you use your natural armor.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -655,7 +655,7 @@ Weight in Pounds = 90 + (2d4 x your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Nimble</name>
@@ -693,7 +693,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 55 (Homebrew)</text>
     </trait>
     <trait category="description">
       <name>Gifts of the Goddess</name>
-      <text>Of the creatures that lurk in the night, evil lycanthropes are among the worst. They prey upon the races and spread their vile curse from victim to victim. The patron deity of such monsters, Malar, has a particular hatred for the Seldarine and the elvish people. He once attacked Corellon Larethian in his own home of Arvandor and nearly killed the First of the Seldarine. Malar's failure of that hunt has eaten at him ever since, and he drives his worshipers to hunt elves at every opportunity.
+      <text>Of the creatures that lurk in the night, evil lycanthropes are among the worst. They prey upon the races and spread their vile curse from victim to victim. The patron deity of such monsters, Malar, has a particular hatred for the Seldarine and the elvish people. He once attacked Corellon Larethian in his own home of Arvandor and nearly killed the First of the Seldarine. Malar&apos;s failure of that hunt has eaten at him ever since, and he drives his worshipers to hunt elves at every opportunity.
 
 This enmity prompted Sehanine Moonbow to create the ritual whereby elves could become Taleyri. With greater physical strength and protection against curses, these volunteers could stand toe-to-toe against the raiding lycanthropes. Even when struck down, they could become guardians of knowledge and wisdom as great sentient trees.
 
@@ -701,7 +701,7 @@ Aside from the newfound strength and red fur, the most important gift the Taleyr
     </trait>
     <trait category="description">
       <name>Eternal Wisdom</name>
-      <text>When one of the Taleyri dies, a strange and wonderful event occurs. From the body sprouts a sapling that will one day become an enormous, sentient tree. Such a tree holds the entire memory of all the original elf's past lives. Some elves would mourn at the thought of being removed from the reincarnation cycle, to have their soul's progress forever halted. The Taleyri, however, see all of this as a noble sacrifice, for each tree becomes a living repository of knowledge and wisdom that benefits all those who come with questions to be answered.</text>
+      <text>When one of the Taleyri dies, a strange and wonderful event occurs. From the body sprouts a sapling that will one day become an enormous, sentient tree. Such a tree holds the entire memory of all the original elf&apos;s past lives. Some elves would mourn at the thought of being removed from the reincarnation cycle, to have their soul&apos;s progress forever halted. The Taleyri, however, see all of this as a noble sacrifice, for each tree becomes a living repository of knowledge and wisdom that benefits all those who come with questions to be answered.</text>
     </trait>
     <trait>
       <name>Ability Score Increases</name>
@@ -723,7 +723,7 @@ Weight in Pounds = 110 + (2d4 x your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Keen Senses</name>
@@ -731,11 +731,11 @@ Weight in Pounds = 110 + (2d4 x your size modifier)</text>
     </trait>
     <trait>
       <name>Beast Slumber</name>
-      <text>While sleeping, you see through the eyes and hear through the ears of a random beast within 1 mile of you that isn't unconscious. The beast you share senses with changes every 1d4 hours as you sleep. If there are no conscious beasts within range, you sleep as normal.</text>
+      <text>While sleeping, you see through the eyes and hear through the ears of a random beast within 1 mile of you that isn&apos;t unconscious. The beast you share senses with changes every 1d4 hours as you sleep. If there are no conscious beasts within range, you sleep as normal.</text>
     </trait>
     <trait>
       <name>Lunar Blessing</name>
-      <text>You have advantage on saves against curses (such as the bestow curse spell, or a werewolf's lycanthropy) and on saves against having your form changed against your will (such as from the polymorph spell).</text>
+      <text>You have advantage on saves against curses (such as the bestow curse spell, or a werewolf&apos;s lycanthropy) and on saves against having your form changed against your will (such as from the polymorph spell).</text>
     </trait>
     <trait>
       <name>Taleyri Claws</name>
@@ -743,7 +743,7 @@ Weight in Pounds = 110 + (2d4 x your size modifier)</text>
     </trait>
     <trait>
       <name>Memory of a Thousand Lifetimes</name>
-      <text>When you make an attack roll, ability check, or saving throw, you can roll 1d6 and add it to the total. You can do this after seeing the die roll, but must use it before learning whether the roll is a success or failure. Once you use this ability, you can't do so again until you finish a short or long rest.</text>
+      <text>When you make an attack roll, ability check, or saving throw, you can roll 1d6 and add it to the total. You can do this after seeing the die roll, but must use it before learning whether the roll is a success or failure. Once you use this ability, you can&apos;t do so again until you finish a short or long rest.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -759,7 +759,7 @@ Weight in Pounds = 110 + (2d4 x your size modifier)</text>
     <spellAbility/>
     <trait category="description">
       <name>Description</name>
-      <text>This is a variant of the Kobold race found in Volo's Guide to Monsters and other official Wizards of the Coast products.
+      <text>This is a variant of the Kobold race found in Volo&apos;s Guide to Monsters and other official Wizards of the Coast products.
 
 Kobolds are often dismissed as cowardly, foolish, and weak, but these little reptilian creatures actually have a strong social structure that stresses devotion to the tribe, are clever with their hands, and viciously work together in order to overcome their physical limitations.
 
@@ -785,7 +785,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 55 (Homebrew)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Draconic Resistance</name>
@@ -808,7 +808,7 @@ d10 | Dragon type | Damage Type
     </trait>
     <trait>
       <name>Pact Tactics</name>
-      <text>You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
+      <text>You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn&apos;t incapacitated.</text>
     </trait>
     <trait>
       <name>Sunlight Sensitivity</name>
@@ -828,7 +828,7 @@ d10 | Dragon type | Damage Type
     <spellAbility/>
     <trait category="description">
       <name>Description</name>
-      <text>This is a variant of the Orc race found in Volo's Guide to Monsters, Eberron: Rising from the Last War, and other official Wizards of the Coast products.
+      <text>This is a variant of the Orc race found in Volo&apos;s Guide to Monsters, Eberron: Rising from the Last War, and other official Wizards of the Coast products.
 
 To feel the thunder of orcish war drums outside the gate and to hear a chorus of voices growling, "Gruumsh!" is the nightmare of every civilized place in the world. For no matter how thick its walls, skilled its archers, or brave its knights, few settlements have ever withstood a full-scale onslaught of orcs.
 
@@ -840,7 +840,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 55 (Homebrew)</text>
     </trait>
     <trait category="description">
       <name>Blessed By the Cave Mother</name>
-      <text>Even larger than their orcish cousins, orogs are said to be blessed by Luthic herself with greater strength and intelligence, destined to become hardy warrior-leaders. Orogs are accustomed to being shown deference by the other members of their tribes, and their whims are given nearly as much heed as the war chief's own orders.</text>
+      <text>Even larger than their orcish cousins, orogs are said to be blessed by Luthic herself with greater strength and intelligence, destined to become hardy warrior-leaders. Orogs are accustomed to being shown deference by the other members of their tribes, and their whims are given nearly as much heed as the war chief&apos;s own orders.</text>
     </trait>
     <trait category="description">
       <name>Away From the Tribe</name>
@@ -866,15 +866,15 @@ Weight in Pounds = 190 + (2d6 x your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Aggressive</name>
       <text>As a bonus action, you can move up to your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started.</text>
     </trait>
     <trait>
-      <name>Orog's Command</name>
-      <text>As a bonus action, you can command a friendly creature to attack. If the creature can hear you, it can use its reaction to make a weapon attack. Once you use this trait, you can't use it again until you finish a short or long rest.</text>
+      <name>Orog&apos;s Command</name>
+      <text>As a bonus action, you can command a friendly creature to attack. If the creature can hear you, it can use its reaction to make a weapon attack. Once you use this trait, you can&apos;t use it again until you finish a short or long rest.</text>
     </trait>
     <trait>
       <name>Powerful Build</name>

@@ -67,7 +67,7 @@ Source:	LaserLlama: Warlock Patrons, Boons &amp; Invocations v2.1.0 p. 2 (Homebr
     <autolevel level="14">
       <feature optional="YES">
         <name>The Archmage (HB): Banishing Shunt</name>
-        <text>Starting at 14th level, when you hit a creature with an attack, you can force them to make a Charisma saving throw in place of dealing damage. On a failed save, the target is instantly transported to a demiplane of your patron's creation for up to 1 minute, or until you lose concentration on this ability.
+        <text>Starting at 14th level, when you hit a creature with an attack, you can force them to make a Charisma saving throw in place of dealing damage. On a failed save, the target is instantly transported to a demiplane of your patron&apos;s creation for up to 1 minute, or until you lose concentration on this ability.
 
 When this feature ends, the banished creature returns to the nearest unoccupied space and must make an additional Charisma saving throw. It takes 5d10 force damage on a failed save, and half as much on a success.
 
@@ -81,7 +81,7 @@ Source:	LaserLlama: Warlock Patrons, Boons &amp; Invocations v2.1.0 p. 2 (Homebr
     <autolevel level="1">
       <feature optional="YES">
         <name>Otherworldy Patron: The Coven (HB)</name>
-        <text>Grandmother, wood witch, medicine woman, old crone; the strange creatures known as hags go by many names. Their motivations are nearly alays sinister, and they delight in the suffering of others. When hags gather and form a magic pact, known as a Coven, they gain access to power beyond what any of them could hope to achieve individually. Together, their ability to sow pain increases tenfold. What strange bargain have you made to access the Coven's unorthodox magic?
+        <text>Grandmother, wood witch, medicine woman, old crone; the strange creatures known as hags go by many names. Their motivations are nearly alays sinister, and they delight in the suffering of others. When hags gather and form a magic pact, known as a Coven, they gain access to power beyond what any of them could hope to achieve individually. Together, their ability to sow pain increases tenfold. What strange bargain have you made to access the Coven&apos;s unorthodox magic?
 
 Source:	LaserLlama: Warlock Patrons, Boons &amp; Invocations v2.1.0 p. 3 (Homebrew)</text>
       </feature>
@@ -167,7 +167,7 @@ Spell Level | Spells
 Source:	LaserLlama: Warlock Patrons, Boons &amp; Invocations v2.1.0 p. 4 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>The Elder Sphinx (HB): Guardian's Ward</name>
+        <name>The Elder Sphinx (HB): Guardian&apos;s Ward</name>
         <text>The power granted by your Patron allows you to prevent the unworthy from approaching you or anything you stand guard over. Beginning at 1st level, you can use an action to project a small but powerful magical Ward outward from yourself, with a radius in feet equal to five times your proficiency bonus.
 
 When a hostile creature enters the area of your Ward, or starts its turns within it, it must succeed on a Strength saving throw in order to move. On a success, it can move, but it treats the area within your Ward as difficult terrain. On a failure, it cannot move into, or within, the area of your Ward.
@@ -261,7 +261,7 @@ Source:	LaserLlama: Warlock Patrons, Boons &amp; Invocations v2.1.0 p. 5 (Homebr
     <autolevel level="6">
       <feature optional="YES">
         <name>The Great Wyrm (HB): Elemental Potency</name>
-        <text>Your Draconic Spark increases the potency of your magic. Starting at 6th level, when you cast a warlock spell of 1st- level or higher that deals the damage of your Draconic Spark type, you gain a 1d8 bonus to one of the spell's damage rolls.
+        <text>Your Draconic Spark increases the potency of your magic. Starting at 6th level, when you cast a warlock spell of 1st- level or higher that deals the damage of your Draconic Spark type, you gain a 1d8 bonus to one of the spell&apos;s damage rolls.
 
 Source:	LaserLlama: Warlock Patrons, Boons &amp; Invocations v2.1.0 p. 5 (Homebrew)</text>
       </feature>
@@ -385,7 +385,7 @@ Source:	LaserLlama: Warlock Patrons, Boons &amp; Invocations v2.1.0 p. 7 (Homebr
       </feature>
       <feature optional="YES">
         <name>The Primeval Growth (HB): Grasping Vines</name>
-        <text>When you enter your Pact with the Primeval Growth you are imbued with a seed of primeval magic. At 1st level, you learn the thorn whip cantrip. It counts as a warlock cantrip for you, but it doesn't count against your number of Cantrips Known.
+        <text>When you enter your Pact with the Primeval Growth you are imbued with a seed of primeval magic. At 1st level, you learn the thorn whip cantrip. It counts as a warlock cantrip for you, but it doesn&apos;t count against your number of Cantrips Known.
 
 When you hit a creature with thorn whip, or damage or restrain a creature with a Primeval Growth Spell, you can use a bonus action to drain the life from one target. The creature takes necrotic damage equal to your warlock level, and you gain temporary hit points equal to the necrotic damage dealt.
 
@@ -496,7 +496,7 @@ Source:	LaserLlama: Warlock Patrons, Boons &amp; Invocations v2.1.0 p. 8 (Homebr
     <autolevel level="14">
       <feature optional="YES">
         <name>The Titan (HB): Legendary Behemoth</name>
-        <text>You have mastered the overwhelming magic of the Titan and wield its power with ease. Beginning at 14th level, when you enter your Colossal Form, you can choose to grow by two size categories, for example, from Medium to Huge. When you hit a creature with a melee weapon attack while transformed, you roll one of the weapon's damage dice an additional time.
+        <text>You have mastered the overwhelming magic of the Titan and wield its power with ease. Beginning at 14th level, when you enter your Colossal Form, you can choose to grow by two size categories, for example, from Medium to Huge. When you hit a creature with a melee weapon attack while transformed, you roll one of the weapon&apos;s damage dice an additional time.
 
 In addition, once you adopt your Colossal Form, it lasts until you are incapacitated or end it as a bonus action.
 
@@ -617,7 +617,7 @@ Also, when you would normally make a Wisdom (Survival) check, you can make a Cha
 Source:	LaserLlama: Warlock Patrons, Boons &amp; Invocations v2.1.0 p. 10 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>The Wild Hunt (HB): Hunter's Quarry</name>
+        <name>The Wild Hunt (HB): Hunter&apos;s Quarry</name>
         <text>You can mark your foe with the dark magic of the Wild Hunt. Beginning at 1st level, you can use a bonus action to mark a creature within 60 feet as your Quarry, gaining the following benefits for 1 minute, or until you mark another creature:
 
 	• When you hit it with a weapon attack, you gain a bonus to your damage roll equal to your Charisma modifier.
@@ -738,7 +738,7 @@ Source:	LaserLlama: Warlock Patrons, Boons &amp; Invocations v2.1.0 p. 11 (Homeb
       </feature>
       <feature optional="YES">
         <name>Alternate Great Old One (HB): Eldritch Awakening</name>
-        <text>When you enter your Pact at 1st level, the hidden potential of your mind is unlocked. You can telepathically communicate with any creature you can see within 60 feet. You don't need to share a language, but the target must speak at least one language in order to respond to you. You can only use this feature to communicate with one creature at a time.
+        <text>When you enter your Pact at 1st level, the hidden potential of your mind is unlocked. You can telepathically communicate with any creature you can see within 60 feet. You don&apos;t need to share a language, but the target must speak at least one language in order to respond to you. You can only use this feature to communicate with one creature at a time.
 
 In addition, you learn the mage hand cantrip, but it doesn't count against your total number of Cantrips Known. When you cast mage hand, you don't need to provide the verbal or somatic components, and your mage hand is invisible.
 
@@ -812,7 +812,7 @@ Source:	LaserLlama: Warlock Patrons, Boons &amp; Invocations v2.1.0 p. 12 (Homeb
       </feature>
       <feature optional="YES">
         <name>Pact Boon: Pact of the Shroud (HB)</name>
-        <text>Your Patron has gifted you a mystical cloak to shield you from harm and obscure your steps. As an action, you can summon this Pact Shroud, which takes the shape of a spectral cloak reminiscent of your Patron's magic. While wearing your Pact Shroud, you are invisible while you are obscured by shadows, darkness, or other natural phenomenon such as fog or mist.
+        <text>Your Patron has gifted you a mystical cloak to shield you from harm and obscure your steps. As an action, you can summon this Pact Shroud, which takes the shape of a spectral cloak reminiscent of your Patron&apos;s magic. While wearing your Pact Shroud, you are invisible while you are obscured by shadows, darkness, or other natural phenomenon such as fog or mist.
 
 Your Pact Shroud disappears if it is more than 5 feet away from you for 1 minute, if you use this feature again, if you dismiss your Shroud (no action required) , or you die.
 

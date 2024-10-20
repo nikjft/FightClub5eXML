@@ -115,7 +115,7 @@ Source:	LaserLlama: The Magus v4.2.1 p. 2 (Homebrew)</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Multiclass Magus</name>
-        <text>If your group uses the optional rule on multiclassing in the Player's Handbook, here's what you need to know if you choose the magus as one of your classes.
+        <text>If your group uses the optional rule on multiclassing in the Player&apos;s Handbook, here&apos;s what you need to know if you choose the magus as one of your classes.
 
 Ability Score Minimum:
 As a multiclass character, you must have at least the following ability score(s) to take a level in this class, or to take a level in another class if you are already a magus.
@@ -289,7 +289,7 @@ Source:	LaserLlama: The Magus v4.2.1 p. 5 (Homebrew)</text>
       </feature>
       <feature>
         <name>Esoteric Order</name>
-        <text>At 3rd level, choose the Esoteric Order that best represents your Magus' skills.
+        <text>At 3rd level, choose the Esoteric Order that best represents your Magus&apos; skills.
 
 Your Esoteric Order grants you features at 3rd level, and again when you reach 7th, 15th, and 20th level in this class.
 
@@ -303,7 +303,7 @@ Source:	LaserLlama: The Magus v4.2.1 p. 5 (Homebrew)</text>
     <autolevel level="4" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -346,7 +346,7 @@ Source:	LaserLlama: The Magus v4.2.1 p. 6 (Homebrew)</text>
     <autolevel level="8" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -398,7 +398,7 @@ Source:	LaserLlama: The Magus v4.2.1 p. 6 (Homebrew)</text>
     <autolevel level="12" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -418,7 +418,7 @@ Source:	LaserLlama: The Magus v4.2.1 p. 6 (Homebrew)</text>
     <autolevel level="16" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -429,7 +429,7 @@ Source:	LaserLlama: The Magus v4.2.1 p. 5 (Homebrew)</text>
     <autolevel level="19" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -539,7 +539,7 @@ Source:	LaserLlama: The Magus v4.2.1 p. 7 (Homebrew)</text>
     <autolevel level="7">
       <feature optional="YES">
         <name>Order of Arcane Archers: Enchanted Shot</name>
-        <text>When you make an attack roll with a ranged Arcane Armory weapon and miss, you can use a reaction to magically curve your shot and re-roll that attack against a different target that you can see within 60 feet of your attack's original target.
+        <text>When you make an attack roll with a ranged Arcane Armory weapon and miss, you can use a reaction to magically curve your shot and re-roll that attack against a different target that you can see within 60 feet of your attack&apos;s original target.
 
 Source:	LaserLlama: The Magus v4.2.1 p. 7 (Homebrew)</text>
       </feature>
@@ -586,7 +586,7 @@ Source:	LaserLlama: The Magus v4.2.1 p. 8 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Order of Blade Dancers: Blade Dance</name>
-        <text>Your Order's style of combat is an art. You gain proficiency in Performance, and you can use your Strength or Dexterity, in place of Charisma, when making a Performance check.
+        <text>Your Order&apos;s style of combat is an art. You gain proficiency in Performance, and you can use your Strength or Dexterity, in place of Charisma, when making a Performance check.
 
 So long as you are not wearing heavy armor or wielding a heavy weapon, you can use your bonus action to enter the trance known as the Blade Dance. This trance lasts for 1 minute, and while it is active, you gain the benefits below:
 
@@ -620,7 +620,7 @@ Source:	LaserLlama: The Magus v4.2.1 p. 8 (Homebrew)</text>
     <autolevel level="7">
       <feature optional="YES">
         <name>Order of Blade Dancers: Fluid Steps</name>
-        <text>Your Order's emphasis on fluidity and martial skill has honed your reflexes. You gain proficiency in Dexterity saving throws, and you add your proficiency bonus to initiative rolls.
+        <text>Your Order&apos;s emphasis on fluidity and martial skill has honed your reflexes. You gain proficiency in Dexterity saving throws, and you add your proficiency bonus to initiative rolls.
 
 Also, your Blade Dance Armor Class bonus becomes +2.
 
@@ -734,7 +734,7 @@ Source:	LaserLlama: The Magus v4.2.1 p. 10 (Homebrew)</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Esoteric Order: Order of Spellbreakers</name>
-        <text>Magi who join the Order of Spellbreakers are known for their ruthless dedication to achieving their goals. This fraternity of arcane warriors and mage hunters use their Order's abilities to slay any who abuse magic power. While most Spellbreakers are discerning as they deliver judgment, some swear an oath to destroy any who utilize the arcane arts.
+        <text>Magi who join the Order of Spellbreakers are known for their ruthless dedication to achieving their goals. This fraternity of arcane warriors and mage hunters use their Order&apos;s abilities to slay any who abuse magic power. While most Spellbreakers are discerning as they deliver judgment, some swear an oath to destroy any who utilize the arcane arts.
 
 Spellbreakers and Other Mages:
 While most Spellbreakers harbor a deep distrust for mages of all kinds, some are known work alongside other spellcasters to hunt down a dangerous foe.
@@ -793,7 +793,7 @@ Source:	LaserLlama: The Magus Class v4.2.0 p. 11 (Homebrew)</text>
     <autolevel level="15">
       <feature optional="YES">
         <name>Order of Spellbreakers: Reflective Spellsunder</name>
-        <text>You can use the magic of your Order to reflect your enemy's magic back upon themselves. When you use Spellsunder and cause the spell to fail, you can force the creature that cast the spell to become the new target of their own spell.
+        <text>You can use the magic of your Order to reflect your enemy&apos;s magic back upon themselves. When you use Spellsunder and cause the spell to fail, you can force the creature that cast the spell to become the new target of their own spell.
 
 The spell uses the caster's spell attack roll and Spell save DC. If it requires concentration, you must concentrate on it.
 
@@ -838,7 +838,7 @@ Magus Level | Spells
 Source:	LaserLlama: The Magus Class v4.2.0 p. 12 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Order of Warders: Warder's Bond</name>
+        <name>Order of Warders: Warder&apos;s Bond</name>
         <text>You are taught the signature protective style of your Order. You gain proficiency in heavy armor. Also, at the end of a long rest, you can touch a willing creature, forging a mystical bond that designates it as your Ward until your next long rest.
 
 When your Ward is targeted by an attack or forced to make a saving throw and you are within 10 feet of it, you can use a reaction to instantly switch places and become the target of the triggering attack or effect. You must be able to see your Ward to use this reaction.
@@ -851,7 +851,7 @@ Source:	LaserLlama: The Magus Class v4.2.0 p. 12 (Homebrew)</text>
     <autolevel level="7">
       <feature optional="YES">
         <name>Order of Warders: Arcane Aegis</name>
-        <text>You can temporarily infuse your Warder's Bond with arcane power to absorb damage. When you use your Warder's Bond reaction and you take damage, you can expend a spell slot as part of the same reaction to reduce that damage by 2d8 per level of the spell slot you expended.
+        <text>You can temporarily infuse your Warder&apos;s Bond with arcane power to absorb damage. When you use your Warder&apos;s Bond reaction and you take damage, you can expend a spell slot as part of the same reaction to reduce that damage by 2d8 per level of the spell slot you expended.
 
 Moreover, whenever you start your turn within 10 feet of your Ward, you can grant one of you temporary hit points equal to your Intelligence modifier (minimum of 1).
 
@@ -861,7 +861,7 @@ Source:	LaserLlama: The Magus Class v4.2.0 p. 12 (Homebrew)</text>
     <autolevel level="15">
       <feature optional="YES">
         <name>Order of Warders: Bond Perfected</name>
-        <text>The magic of your Bond has reached its apex. When you use your Warder's Bond reaction you are considered resistant to any damage you take from the triggering attack or effect.
+        <text>The magic of your Bond has reached its apex. When you use your Warder&apos;s Bond reaction you are considered resistant to any damage you take from the triggering attack or effect.
 
 In addition, while you are within 10 feet of your Ward you are both immune to the charmed and frightened conditions. If either of you is charmed or frightened and is within 10 feet of the other, the effects of the condition are temporarily suppressed, so long as you remain within 10 feet.
 
@@ -871,7 +871,7 @@ Source:	LaserLlama: The Magus Class v4.2.0 p. 12 (Homebrew)</text>
     <autolevel level="20">
       <feature optional="YES">
         <name>Order of Warders: High Warder</name>
-        <text>You have risen to the highest rank in the Order of Warders and stand as a stalwart arcane shield for any who are under your protection. At the end of each long rest, you can bond up to five willing creatures as your Wards with Warder's Bond. All other rules for your Warder's Bond still apply for you.
+        <text>You have risen to the highest rank in the Order of Warders and stand as a stalwart arcane shield for any who are under your protection. At the end of each long rest, you can bond up to five willing creatures as your Wards with Warder&apos;s Bond. All other rules for your Warder&apos;s Bond still apply for you.
 
 Also, when you use your Warder's Bond reaction because your Ward was targeted by a spell, you can use Spellsunder as part of the same reaction. When you do so, you have advantage on your Spellsunder attack roll. If your Spellsunder fails, you can still use Arcane Aegis to reduce the damage.
 

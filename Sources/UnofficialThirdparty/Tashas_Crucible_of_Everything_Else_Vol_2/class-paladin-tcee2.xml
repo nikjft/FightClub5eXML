@@ -6,7 +6,7 @@
     <autolevel level="3">
       <feature optional="YES">
         <name>Sacred Oath: Oath of Unrest (HB)</name>
-        <text>The Oath of Unrest is taken by those with unfinished business. They are driven by an overwhelming thirst for revenge against those who wronged them, or to complete a final, critical task left unfinished. Some of these paladins might have even met a cruel and undeserved end, but return from beyond the grave to finish its work, much like a revenant. It may have been at the will of a deity, some darker force, or the paladin itself. Regardless, none who swear this oath are left untainted, whether it be by the Shadowfell, a realm of the dead, or the paladin's own ambitions.
+        <text>The Oath of Unrest is taken by those with unfinished business. They are driven by an overwhelming thirst for revenge against those who wronged them, or to complete a final, critical task left unfinished. Some of these paladins might have even met a cruel and undeserved end, but return from beyond the grave to finish its work, much like a revenant. It may have been at the will of a deity, some darker force, or the paladin itself. Regardless, none who swear this oath are left untainted, whether it be by the Shadowfell, a realm of the dead, or the paladin&apos;s own ambitions.
 
 This unusual state leaves dark marks on those who experience it. At your option, you can pick from or roll on the Oath of Unrest Paladin Quirks table to create a quirk for your character.
 
@@ -69,7 +69,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 27 (Homebrew)</text>
     <autolevel level="7">
       <feature optional="YES">
         <name>Oath of Unrest (HB): Horrifying Grasp</name>
-        <text>You can use an action to touch a creature within 5 feet of you and expend points from your Lay on Hands healing pool. The creature must make a Wisdom saving throw with a DC equal to your paladin spell save DC. On a failed save, it takes necrotic damage equal to the number of points expended and is stunned until the end of its next turn. On a successful save, the creature takes half as much damage and isn't stunned.
+        <text>You can use an action to touch a creature within 5 feet of you and expend points from your Lay on Hands healing pool. The creature must make a Wisdom saving throw with a DC equal to your paladin spell save DC. On a failed save, it takes necrotic damage equal to the number of points expended and is stunned until the end of its next turn. On a successful save, the creature takes half as much damage and isn&apos;t stunned.
 
 Source:	Tasha's Crucible of Everything Else, Volume 2 p. 27 (Homebrew)</text>
       </feature>
@@ -77,7 +77,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 27 (Homebrew)</text>
     <autolevel level="15">
       <feature optional="YES">
         <name>Oath of Unrest (HB): Duty of the Deathless</name>
-        <text>The drive to complete your task is unwavering and those that attempt to deter you must be thwarted. You can't be charmed.
+        <text>The drive to complete your task is unwavering and those that attempt to deter you must be thwarted. You can&apos;t be charmed.
 
 Additionally, when you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. If you have expended the use of your Channel Divinity feature when this happens, you regain your use of it. You can't do so again until you finish a long rest.
 
@@ -87,7 +87,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 27 (Homebrew)</text>
     <autolevel level="20">
       <feature optional="YES">
         <name>Oath of Unrest (HB): Immortal Unrest</name>
-        <text>You can use your action to take on an undying trans- formation. For 1 minute, you can cast the animate dead spell as a bonus action on each of your turns without expending a spell slot. You can't use the spell to maintain control of a creature when you cast it in this way, only to create new undead servants.
+        <text>You can use your action to take on an undying trans- formation. For 1 minute, you can cast the animate dead spell as a bonus action on each of your turns without expending a spell slot. You can&apos;t use the spell to maintain control of a creature when you cast it in this way, only to create new undead servants.
 
 If you die while in this state, your soul can inhabit the body of an undead servant created by this feature. You replace all of the target's statistics with your own and return to life through it with half of your hit points.
 

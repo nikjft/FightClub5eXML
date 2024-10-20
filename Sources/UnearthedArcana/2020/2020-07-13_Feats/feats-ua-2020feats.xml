@@ -3,7 +3,7 @@
   <!--feat>
     <name>Artificer Initiate (UA)</name>
     <prerequisite/>
-    <text>You've learned some of an artificer's inventiveness, granting you the following benefits:
+    <text>You&apos;ve learned some of an artificer&apos;s inventiveness, granting you the following benefits:
 
 	• You learn one cantrip of your choice from the artificer spell list, and you learn one 1st-level spell of your choice from that list. Intelligence is your spellcasting ability for these spells. Whenever you gain a level, you can replace one of these spells with another spell of the same level from the artificer spell list.
 
@@ -76,7 +76,7 @@ Source:	Unearthed Arcana: 2020 Feats p. 1</text>
   <!--feat>
     <name>Eldritch Adept (UA)</name>
     <prerequisite/>
-    <text>Studying occult lore, you have unlocked eldritch power within yourself: you learn one Eldritch Invocation option of your choice from the warlock class. If the invocation has a prerequisite, you can choose that invocation only if you're a warlock and only if you meet the prerequisite.
+    <text>Studying occult lore, you have unlocked eldritch power within yourself: you learn one Eldritch Invocation option of your choice from the warlock class. If the invocation has a prerequisite, you can choose that invocation only if you&apos;re a warlock and only if you meet the prerequisite.
 
 Whenever you gain a level, you can replace the invocation with another one from the warlock class.
 
@@ -146,7 +146,7 @@ Source:	Unearthed Arcana: 2020 Feats p. 2</text>
   <!--feat>
     <name>Metamagic Adept (UA)</name>
     <prerequisite/>
-    <text>You've learned how to exert your will on your spells to alter how they function. You gain the following benefits:
+    <text>You&apos;ve learned how to exert your will on your spells to alter how they function. You gain the following benefits:
 
 	• You learn two Metamagic options of your choice from the sorcerer class. You can use only one Metamagic option on a spell when you cast it, unless the option says otherwise. Whenever you gain a level, you can replace one of your Metamagic options with another one from the sorcerer class.
 
@@ -248,7 +248,7 @@ Source:	Unearthed Arcana: 2020 Feats p. 3</text>
   <feat>
     <name>Shield Training (UA) (Constitution)</name>
     <prerequisite/>
-    <text>You've trained in the effective use of shields. You gain the following benefits:
+    <text>You&apos;ve trained in the effective use of shields. You gain the following benefits:
 
 	• Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
 
@@ -264,7 +264,7 @@ Source:	Unearthed Arcana: 2020 Feats p. 3</text>
   <feat>
     <name>Shield Training (UA) (Dexterity)</name>
     <prerequisite/>
-    <text>You've trained in the effective use of shields. You gain the following benefits:
+    <text>You&apos;ve trained in the effective use of shields. You gain the following benefits:
 
 	• Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
 
@@ -280,7 +280,7 @@ Source:	Unearthed Arcana: 2020 Feats p. 3</text>
   <feat>
     <name>Shield Training (UA) (Strength)</name>
     <prerequisite/>
-    <text>You've trained in the effective use of shields. You gain the following benefits:
+    <text>You&apos;ve trained in the effective use of shields. You gain the following benefits:
 
 	• Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
 
@@ -296,7 +296,7 @@ Source:	Unearthed Arcana: 2020 Feats p. 3</text>
   <!--feat>
     <name>Slasher (UA) (Dexterity)</name>
     <prerequisite/>
-    <text>You've learned where to cut to have the greatest results, granting you the following benefits:
+    <text>You&apos;ve learned where to cut to have the greatest results, granting you the following benefits:
 
 	• Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
@@ -310,7 +310,7 @@ Source:	Unearthed Arcana: 2020 Feats p. 3</text>
   <!--feat>
     <name>Slasher (UA) (Strength)</name>
     <prerequisite/>
-    <text>You've learned where to cut to have the greatest results, granting you the following benefits:
+    <text>You&apos;ve learned where to cut to have the greatest results, granting you the following benefits:
 
 	• Increase your Strength or Dexterity score by 1, to a maximum of 20.
 

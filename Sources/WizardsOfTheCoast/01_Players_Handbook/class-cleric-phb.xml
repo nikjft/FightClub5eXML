@@ -48,7 +48,7 @@ Source:	Player's Handbook p. 56</text>
     </trait>
     <trait>
       <name>Healers and Warriors</name>
-      <text>Divine magic, as the name suggests, is the power of the gods, flowing from them into the world. Clerics are conduits for that power, manifesting it as miraculous effects. The gods don't grant this power to everyone who seeks it, but only to those chosen to fulfill a high calling.
+      <text>Divine magic, as the name suggests, is the power of the gods, flowing from them into the world. Clerics are conduits for that power, manifesting it as miraculous effects. The gods don&apos;t grant this power to everyone who seeks it, but only to those chosen to fulfill a high calling.
 
 Harnessing divine magic doesn't rely on study or training. A cleric might learn formulaic prayers and ancient rites, but the ability to cast cleric spells relies on devotion and an intuitive sense of a deity's wishes.
 
@@ -56,7 +56,7 @@ Clerics combine the helpful magic of healing and inspiring their allies with spe
     </trait>
     <trait>
       <name>Divine Agents</name>
-      <text>Not every acolyte or officiant at a temple or shrine is a cleric. Some priests are called to a simple life of temple service, carrying out their gods' will through prayer and sacrifice, not by magic and strength of arms. In some cities, priesthood amounts to a political office, viewed as a stepping stone to higher positions of authority and involving no communion with a god at all. True clerics are rare in most hierarchies.
+      <text>Not every acolyte or officiant at a temple or shrine is a cleric. Some priests are called to a simple life of temple service, carrying out their gods&apos; will through prayer and sacrifice, not by magic and strength of arms. In some cities, priesthood amounts to a political office, viewed as a stepping stone to higher positions of authority and involving no communion with a god at all. True clerics are rare in most hierarchies.
 
 When a cleric takes up an adventuring life, it is usually because his or her god demands it. Pursuing the goals of the gods often involves braving dangers beyond the walls of civilization, smiting evil or seeking holy relics in ancient tombs. Many clerics are also expected to protect their deities' worshipers, which can mean fighting rampaging orcs, negotiating peace between warring nations, or sealing a portal that would allow a demon prince to enter the world.
 
@@ -101,7 +101,7 @@ Source:	Player's Handbook p. 58</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Multiclass Cleric</name>
-        <text>If your group uses the optional rule on multiclassing in the Player's Handbook, here's what you need to know if you choose cleric as one of your classes.
+        <text>If your group uses the optional rule on multiclassing in the Player&apos;s Handbook, here&apos;s what you need to know if you choose cleric as one of your classes.
 
 Ability Score Minimum:
 As a multiclass character, you must have at least the following ability score(s) to take a level in this class, or to take a level in another class if you are already a cleric.
@@ -228,7 +228,7 @@ Source:	Player's Handbook p. 60</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Life Domain: Disciple of Life</name>
-        <text>Also starting at 1st level, your healing spells are more effective. Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell's level.
+        <text>Also starting at 1st level, your healing spells are more effective. Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell&apos;s level.
 
 Source:	Player's Handbook p. 60</text>
       </feature>
@@ -237,7 +237,7 @@ Source:	Player's Handbook p. 60</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Divine Domain: Light Domain</name>
-        <text>Gods of light—including Helm, Lathander, Pholtus, Branchala, the Silver Flame, Belenus, Apollo, and Re-Horakhty—promote the ideals of rebirth and renewal, truth, vigilance, and beauty, often using the symbol of the sun. Some of these gods are portrayed as the sun itself or as a charioteer who guides the sun across the sky. Others are tireless sentinels whose eyes pierce every shadow and see through every deception. Some are deities of beauty and artistry, who teach that art is a vehicle for the soul's improvement. Clerics of a god of light are enlightened souls infused with radiance and the power of their gods' discerning vision, charged with chasing away lies and burning away darkness.
+        <text>Gods of light—including Helm, Lathander, Pholtus, Branchala, the Silver Flame, Belenus, Apollo, and Re-Horakhty—promote the ideals of rebirth and renewal, truth, vigilance, and beauty, often using the symbol of the sun. Some of these gods are portrayed as the sun itself or as a charioteer who guides the sun across the sky. Others are tireless sentinels whose eyes pierce every shadow and see through every deception. Some are deities of beauty and artistry, who teach that art is a vehicle for the soul&apos;s improvement. Clerics of a god of light are enlightened souls infused with radiance and the power of their gods&apos; discerning vision, charged with chasing away lies and burning away darkness.
 
 At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.
 
@@ -256,7 +256,7 @@ Source:	Player's Handbook p. 60</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Light Domain: Bonus Cantrip</name>
-        <text>When you choose this domain at 1st level, you gain the light cantrip if you don't already know it.
+        <text>When you choose this domain at 1st level, you gain the light cantrip if you don&apos;t already know it.
 
 Source:	Player's Handbook p. 61</text>
       </feature>
@@ -265,7 +265,7 @@ Source:	Player's Handbook p. 61</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Light Domain: Warding Flare</name>
-        <text>Also at 1st level, you can interpose divine light between yourself and an attacking enemy. When you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can't be blinded is immune to this feature.
+        <text>Also at 1st level, you can interpose divine light between yourself and an attacking enemy. When you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can&apos;t be blinded is immune to this feature.
 
 You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
@@ -295,7 +295,7 @@ Source:	Player's Handbook p. 61</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Nature Domain: Acolyte of Nature</name>
-        <text>At 1st level, you learn one druid cantrip of your choice. This cantrip counts as a cleric cantrip for you, but it doesn't count against the number of cleric cantrips you know.
+        <text>At 1st level, you learn one druid cantrip of your choice. This cantrip counts as a cleric cantrip for you, but it doesn&apos;t count against the number of cleric cantrips you know.
 
 You also gain proficiency in one of the following skills of your choice: Animal Handling, Nature, or Survival.
 
@@ -354,7 +354,7 @@ Source:	Player's Handbook p. 62</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Divine Domain: Trickery Domain</name>
-        <text>Gods of trickery—such as Tymora, Beshaba, Olidammara, the Traveler, Garl Glittergold, and Loki—are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They're patrons of thieves, scoundrels, gamblers, rebels, and liberators. Their clerics are a disruptive force in the world, puncturing pride, mocking tyrants, stealing from the rich, freeing captives, and flouting hollow traditions. They prefer subterfuge, pranks, deception, and theft rather than direct confrontation.
+        <text>Gods of trickery—such as Tymora, Beshaba, Olidammara, the Traveler, Garl Glittergold, and Loki—are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They&apos;re patrons of thieves, scoundrels, gamblers, rebels, and liberators. Their clerics are a disruptive force in the world, puncturing pride, mocking tyrants, stealing from the rich, freeing captives, and flouting hollow traditions. They prefer subterfuge, pranks, deception, and theft rather than direct confrontation.
 
 At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.
 
@@ -535,7 +535,7 @@ Source:	Player's Handbook p. 63</text>
     <autolevel level="4" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -578,7 +578,7 @@ Source:	Player's Handbook p. 58</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Knowledge Domain: Channel Divinity: Read Thoughts</name>
-        <text>At 6th level, you can use your Channel Divinity to read a creature's thoughts. You can then use your access to the creature's mind to command it.
+        <text>At 6th level, you can use your Channel Divinity to read a creature&apos;s thoughts. You can then use your access to the creature&apos;s mind to command it.
 
 As an action, choose one creature that you can see within 60 feet of you. That creature must make a Wisdom saving throw. If the creature succeeds on the saving throw, you can't use this feature on it again until you finish a long rest.
 
@@ -593,7 +593,7 @@ Source:	Player's Handbook p. 59</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Life Domain: Blessed Healer</name>
-        <text>Beginning at 6th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell's level.
+        <text>Beginning at 6th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell&apos;s level.
 
 Source:	Player's Handbook p. 60</text>
       </feature>
@@ -639,7 +639,7 @@ Source:	Player's Handbook p. 63</text>
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>War Domain: Channel Divinity: War God's Blessing</name>
+        <name>War Domain: Channel Divinity: War God&apos;s Blessing</name>
         <text>At 6th level, when a creature within 30 feet of you makes an attack roll, you can use your reaction to grant that creature a +10 bonus to the roll, using your Channel Divinity. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.
 
 Source:	Player's Handbook p. 63</text>
@@ -649,7 +649,7 @@ Source:	Player's Handbook p. 63</text>
     <autolevel level="8" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -763,7 +763,7 @@ Source:	Player's Handbook p. 58</text>
     <autolevel level="12" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -783,7 +783,7 @@ Source:	Player's Handbook p. 58</text>
     <autolevel level="16" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -897,7 +897,7 @@ Source:	Player's Handbook p. 58</text>
     <autolevel level="19" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 

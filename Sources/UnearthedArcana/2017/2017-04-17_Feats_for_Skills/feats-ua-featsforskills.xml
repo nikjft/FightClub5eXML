@@ -256,7 +256,7 @@ Source:	Unearthed Arcana: Feats for Skills p. 2</text>
     <name>Medic (UA)</name>
     <prerequisite/>
     <proficiency>Medicine</proficiency>
-    <text>You master the physician's arts, gaining the following benefits:
+    <text>You master the physician&apos;s arts, gaining the following benefits:
 
 	• Increase your Wisdom score by 1, to a maximum of 20.
 
@@ -270,7 +270,7 @@ Source:	Unearthed Arcana: Feats for Skills p. 2</text>
   <feat>
     <name>Medic (UA) (Proficient)</name>
     <prerequisite/>
-    <text>You master the physician's arts, gaining the following benefits:
+    <text>You master the physician&apos;s arts, gaining the following benefits:
 
 	• Increase your Wisdom score by 1, to a maximum of 20.
 

@@ -56,7 +56,7 @@ Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 8 (1d8 + 4) slash
       <text>
 When injured the achaierai can use its reaction to release a cloud of poisonous gas in a 10-foot radius. All creatures in the cloud take 7 (2d6) poison damage and must make a DC 15 Constitution saving throw or be poisoned for 1 minute. While poisoned the target is confused as if from a confusion spell. At the end of its turns, the affected target can repeat the Constitution saving throw. If it succeeds the confusion ends. Achaierai are immune to the effects of this cloud.</text>
     </reaction>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 131</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 131</description>
   </monster>
   <monster>
     <name>Aribeth De Tylmarande</name>
@@ -76,7 +76,7 @@ When injured the achaierai can use its reaction to release a cloud of poisonous 
     <skill>Perception +5, Religion +4</skill>
     <resist/>
     <vulnerable/>
-    <immune>necrotic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered</immune>
+    <immune>necrotic; bludgeoning, piercing, and slashing from nonmagical weapons that aren&apos;t silvered</immune>
     <conditionImmune>poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>15</passive>
@@ -149,7 +149,7 @@ Aribeth adds 4 to her AC against one melee attack that would hit her. To do so, 
     </reaction>
     <spells>command, searing smite, shield of faith, aid, magic weapon, dispel magic</spells>
     <slots>0, 4, 3, 3</slots>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 108</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 108</description>
   </monster>
   <monster>
     <name>Baalzebul</name>
@@ -176,7 +176,7 @@ Aribeth adds 4 to her AC against one melee attack that would hit her. To do so, 
     <languages>All, telepathy 100 ft.</languages>
     <cr>26</cr>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede Baalzebul's darkvision.</text>
     </trait>
@@ -278,7 +278,7 @@ Baalzebul disgorges a swarm of biting flies (otherwise same as insect plague) th
       <attack>Insect Gorge||8d10</attack>
     </legendary>
     <spells>animate dead, detect evil and good, detect magic, fireball, hallow spell, hold monster, suggestion, teleport, true seeing, dispel evil and good, symbol (pain or insanity), wish</spells>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 92</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 92</description>
   </monster>
   <monster>
     <name>Bebilith</name>
@@ -349,7 +349,7 @@ Ranged Weapon Attack: +10 to hit, range 30/60 ft., one creature. Hit: 36 (8d8) p
 While restrained, the target takes 9 (2d8) poison damage at the start of each of its turns and the target may then make a DC 17 Strength check to free itself from the webbing. Unlike normal webs, fire cannot burn a bebilith's webbing but if used will ignite the web inflicting an additional 3 (1d6) fire damage to trapped targets.</text>
     </action>
     <spells>darkness</spells>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 133</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 133</description>
   </monster>
   <monster>
     <name>Bhaal, Ravager</name>
@@ -465,7 +465,7 @@ The ravager flares its numerous spines and they elongate. Any creature that star
 The damage is halved with a successful save.</text>
       <attack>Spiky Carapace||8d10</attack>
     </legendary>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 95</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 95</description>
   </monster>
   <monster>
     <name>Bodhi Irenicus</name>
@@ -581,7 +581,7 @@ Bodhi Irenicus makes one unarmed strike.</text>
       <text>
 Bodhi Irenicus makes one bite attack.</text>
     </legendary>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 77</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 77</description>
   </monster>
   <monster>
     <name>Borivik Windheim</name>
@@ -645,7 +645,7 @@ Ranged Weapon Attack: +9 to hit, ranged 100/400 ft., one target. Hit: 10 (1d10 +
     </action>
     <spells>absorb elements, ensnaring strike, speak with animals, cordon of arrows, lesser restoration, pass without trace, daylight, nondetection</spells>
     <slots>0, 4, 3, 3</slots>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 56</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 56</description>
   </monster>
   <monster>
     <name>Cornelius Watson</name>
@@ -706,8 +706,8 @@ Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one ta
       <attack>Dagger|+6|1d4+2</attack>
     </action>
     <slots>0, 4,3,3,3,3,1,1,1,1</slots>
-    <spells>detect magic, identify, mage armor, magic missile, detect thoughts, locate object, mirror image, misty step, clairvoyance, counterspell, fireball, arcane eye, banishment, rary's telepathic bond, scrying, wall of force, true seeing, teleport, mind blank, foresight</spells>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 30</description>
+    <spells>detect magic, identify, mage armor, magic missile, detect thoughts, locate object, mirror image, misty step, clairvoyance, counterspell, fireball, arcane eye, banishment, rary&apos;s telepathic bond, scrying, wall of force, true seeing, teleport, mind blank, foresight</spells>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 30</description>
   </monster>
   <monster>
     <name>Cryonax</name>
@@ -818,8 +818,8 @@ With a gesture Cryonax targets a frozen creature (see Tentacle Freeze) that is w
 
 The shroud disappears if Cryonax removes it, Cryonax dies, the shroud takes 100 hit points of damage or another character uses their action and succeeds against a DC 22 Strength check to remove the trapped ally.</text>
     </legendary>
-    <spells>wall of ice, ice storm, sleet storm, cone of cold, otiluke's freezing sphere</spells>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 98</description>
+    <spells>wall of ice, ice storm, sleet storm, cone of cold, otiluke&apos;s freezing sphere</spells>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 98</description>
   </monster>
   <monster>
     <name>Dagryn</name>
@@ -884,7 +884,7 @@ Dagryn magically turns invisible until he attacks, casts a spell, or until its c
     </action>
     <spells>alter self, disguise self, conjure image, levitate, blade ward, eldritch blast, friends, message, vicious mockery, bane, charm person, dimension door, dominate beast, faerie fire, fear, hold monster, misty step, phantasmal force, seeming</spells>
     <slots>0, 0, 0, 0, 0, 3</slots>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 110</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 110</description>
   </monster>
   <monster>
     <name>Darien</name>
@@ -927,7 +927,7 @@ Darien is a 15th-level spellcaster. Her spellcasting ability is Charisma (save D
 	• 1st-5th level (3 5th level slots): armor of agathys, cone of cold, darkness, dream, fear, hallucinatory terrain, hold person, hypnotic pattern, major image, mirror image, mislead, project image, sleet storm</text>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Darien can see normally in darkness, both magical and nonmagical, to a distance of 120 feetEldritch Mind. Darien has advantage on Constitution saving throws that she makes to maintain concentration on a spell.</text>
     </trait>
@@ -968,7 +968,7 @@ When Darien takes damage, she can entomb herself in ice, which melts away at the
     </reaction>
     <spells>alter self, disguise self, false life, invisibility, mage armor, silent image, feeblemind, mass suggestion, project image, blade ward, chill touch, eldritch blast, minor illusion, armor of agathys, cone of cold, darkness, dream, fear, hallucinatory terrain, hold person, hypnotic pattern, major image, mirror image, mislead, project image, sleet storm</spells>
     <slots>0, 0, 0, 0, 0, 3</slots>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 112</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 112</description>
   </monster>
   <monster>
     <name>Deep Spider</name>
@@ -1028,7 +1028,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
 Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 19 (4d6 + 5) slashing damage.</text>
       <attack>Foreleg|+8|4d6+5</attack>
     </action>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 151</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 151</description>
   </monster>
   <monster>
     <name>Demodand, Farastu</name>
@@ -1046,7 +1046,7 @@ Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 19 (4d6 + 5) slash
     <cha>16</cha>
     <save>Str +7, Con +5</save>
     <skill>Athletics +7</skill>
-    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>acid, fire, poison</immune>
     <conditionImmune>poisoned</conditionImmune>
@@ -1060,7 +1060,7 @@ Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 19 (4d6 + 5) slash
 The farastu secretes a thick, tarlike slime and it can choose to use this slime to secure enemies that it has grappled or to make weapons become attached to it. It is able to end the adhesion with a bonus action, causing all items and creatures secured to it to be released. The adhesion also ends after the farastu dies.</text>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede the farastu's darkvision.</text>
     </trait>
@@ -1108,7 +1108,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) pierc
       <text>
 After taking damage from a melee weapon, the farastu can use its reaction to take the weapon, if the attacker fails a DC 15 Dexterity saving throw. The weapon is attached to the farastu's hide until it releases the weapon, or an attacker takes an action and succeeds with a DC 15 Strength check to pry it off the farastu.</text>
     </reaction>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 135</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 135</description>
   </monster>
   <monster>
     <name>Demodand, Kelubar</name>
@@ -1126,7 +1126,7 @@ After taking damage from a melee weapon, the farastu can use its reaction to tak
     <cha>18</cha>
     <save>Str +9, Con +7, Cha +8</save>
     <skill>Athletics +9, Insight +6, Persuasion +8</skill>
-    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>acid, fire, poison</immune>
     <conditionImmune>poisoned</conditionImmune>
@@ -1135,7 +1135,7 @@ After taking damage from a melee weapon, the farastu can use its reaction to tak
     <languages>Abyssal, Common</languages>
     <cr>11</cr>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede the kelubar's darkvision.</text>
     </trait>
@@ -1213,7 +1213,7 @@ If the kelubar rolls 1-2 on a d6 it summons in two farastu, a result of 3-4 summ
 When an attacker that the kelubar can see hits it with an Attack, the kelubar can use its Reaction to halve the attack's damage.</text>
     </reaction>
     <spells>acid arrow, clairvoyance, detect magic, fear, invisibility, spider climb, tongues, fog cloud, ray of enfeeblement, dispel magic</spells>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 136</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 136</description>
   </monster>
   <monster>
     <name>Demodand, Shator</name>
@@ -1231,7 +1231,7 @@ When an attacker that the kelubar can see hits it with an Attack, the kelubar ca
     <cha>20</cha>
     <save>Str +12, Con +10, Cha +10</save>
     <skill>Athletics +12, Insight +8, Persuasion +10</skill>
-    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>acid, fire, poison</immune>
     <conditionImmune>poisoned</conditionImmune>
@@ -1240,7 +1240,7 @@ When an attacker that the kelubar can see hits it with an Attack, the kelubar ca
     <languages>Abyssal, Common</languages>
     <cr>15</cr>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede the shator's darkvision.</text>
     </trait>
@@ -1303,8 +1303,8 @@ The shator exhales poisonous spit in a 20-foot line that is 5 feet wide. Each cr
       <text>
 If the shator rolls 1-2 on a d6 it summons in two farastu, a result of 3-4 summons in one shator.</text>
     </action>
-    <spells>clairvoyance, detect magic, magic missile, invisibility, spider climb, tongues, cloudkill, tasha's hideous laughter, dispel magic, plane shift</spells>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 137</description>
+    <spells>clairvoyance, detect magic, magic missile, invisibility, spider climb, tongues, cloudkill, tasha&apos;s hideous laughter, dispel magic, plane shift</spells>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 137</description>
   </monster>
   <monster>
     <name>Dread Doppelganger</name>
@@ -1370,7 +1370,7 @@ Melee Weapon Attack: +8 to hit, range 5 ft., one target. Hit: 8 (1d6 + 5).</text
 The dread doppelganger magically reads the surface thoughts of one creature within 60 ft. of it. The effect can penetrate barriers, but 3 ft. of wood or dirt, 2 ft. of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the dread doppelganger can continue reading its thoughts, as long as the dread doppelganger's Concentration isn't broken (as if concentrating on a spell). While reading the target's mind, the doppelganger has advantage on Wisdom (Insight) and Charisma (Deception, Intimidation, and Persuasion) checks against the target.</text>
     </action>
     <spells>phantasmal killer, mirror image, mislead</spells>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 139</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 139</description>
   </monster>
   <monster>
     <name>Edwin Odesseiron</name>
@@ -1448,9 +1448,9 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludge
       <text>
 Edwin magically summons three hell hounds. The summoned hell hounds appear in an unoccupied space within 60 feet of its summoner, and act as allies of their summoner. They remain for 10 minutes, until they or their summoner dies, or until their summoner dismisses them as an action.</text>
     </action>
-    <spells>cone of cold, fireball, globe of invulnerability, hold monster, levitate, lightning bolt, magic missile, ray of enfeeblement, wall of force, acid splash, fire bolt, mage hand, poison spray, mage armor, shield, unseen servant, cloud of daggers, mirror image, misty step, counterspell, dispel magic, fireball, stinking cloud, conjure minor elementals, evard's black tentacles, cloudkill, conjure elemental, scrying, arcane gate, contingency, simulacrum, teleport, clone, maze, meteor swarm</spells>
+    <spells>cone of cold, fireball, globe of invulnerability, hold monster, levitate, lightning bolt, magic missile, ray of enfeeblement, wall of force, acid splash, fire bolt, mage hand, poison spray, mage armor, shield, unseen servant, cloud of daggers, mirror image, misty step, counterspell, dispel magic, fireball, stinking cloud, conjure minor elementals, evard&apos;s black tentacles, cloudkill, conjure elemental, scrying, arcane gate, contingency, simulacrum, teleport, clone, maze, meteor swarm</spells>
     <slots>0, 4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 114</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 114</description>
   </monster>
   <monster>
     <name>Eo Ashmajiir</name>
@@ -1516,7 +1516,7 @@ Eo Ashmajiir casts a spell from her spell list that targets only one creature an
     </action>
     <spells>fire bolt, light, mage hand, prestidigitation, shocking grasp, chromatic orb, detect magic, magic missile, shield, detect thoughts, mirror image, misty step, counterspell, fireball, lightning bolt, banishment, greater invisibility, polymorph, dominate person, scrying, wall of force, chain lightning, disintegrate, finger of death, teleport, power word stun, wish</spells>
     <slots>0, 4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 116</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 116</description>
   </monster>
   <monster>
     <name>Faldorn</name>
@@ -1583,9 +1583,9 @@ Faldorn magically polymorphs into a beast or elemental with a challenge rating o
 
 While in a new form, Faldorn retains her game statistics and ability to speak, but her AC, movement modes, Strength, and Dexterity are replaced by those of the new form, and she gains any special senses, proficiencies, traits, actions, and reactions(except class features, legendary actions, and lair actions) that the new form has but that she lacks. She can cast her spells with verbal or somatic components in her new form. The new form's attacks count as magical for the purpose of overcoming resistances and immunity to nonmagical attacks.</text>
     </action>
-    <spells>animal friendship, awaken, barkskin, locate animals or plants, speak with animals, speak with plants, wall of thorns, druidcraft, poison spray, produce flame, shillelagh, entangle, longstrider, speak with animals, thunderwave, animal messenger, barkskin, conjure animals, water breathing, dominate beast, locate creature, stoneskin, wall of fire, commune with nature, mass cure wounds, tree stride, heal, heroes' feast, sunbeam, fire storm, animal shapes, foresight</spells>
+    <spells>animal friendship, awaken, barkskin, locate animals or plants, speak with animals, speak with plants, wall of thorns, druidcraft, poison spray, produce flame, shillelagh, entangle, longstrider, speak with animals, thunderwave, animal messenger, barkskin, conjure animals, water breathing, dominate beast, locate creature, stoneskin, wall of fire, commune with nature, mass cure wounds, tree stride, heal, heroes&apos; feast, sunbeam, fire storm, animal shapes, foresight</spells>
     <slots>0, 4,3,3,3,3,1,1,1,1</slots>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 50</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 50</description>
   </monster>
   <monster>
     <name>Flimp Shagglecran</name>
@@ -1661,7 +1661,7 @@ When Flimp or another creature he can see within 30 feet of him makes an ability
     </reaction>
     <slots>0, 4, 3, 3, 1</slots>
     <spells>acid splash, fire bolt, guidance, light, cure wounds, feather fall, shield, aid, blur, warding bond, aura of vitality, blink, elemental weapon, fire shield</spells>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 32</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 32</description>
   </monster>
   <monster>
     <name>Gibberling</name>
@@ -1713,7 +1713,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) pierci
       <text>
 Melee Weapon Attack: +4 to hit, reach 5 ft., one target. The target is grappled (escape DC 10). All gibberlings within 5 ft. of the target can use a reaction to make a dagger attack with advantage on the attack roll.</text>
     </action>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 141</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 141</description>
   </monster>
   <monster>
     <name>Hamadryad</name>
@@ -1774,7 +1774,7 @@ Melee Weapon Attack: +5 to hit, range 5 ft., one target. Hit: 5 (1d4 + 3) plus 1
       <attack>Claws|+5|1d4+3+3d6</attack>
     </action>
     <spells>entangle, barkskin, grasping vine, pass without trace</spells>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 143</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 143</description>
   </monster>
   <monster>
     <name>Imoen</name>
@@ -1798,7 +1798,7 @@ Melee Weapon Attack: +5 to hit, range 5 ft., one target. Hit: 5 (1d4 + 3) plus 1
     <conditionImmune/>
     <senses>darkvision 60 ft.</senses>
     <passive>13</passive>
-    <languages>Common, Thieves' cant, Undercommon</languages>
+    <languages>Common, Thieves&apos; cant, Undercommon</languages>
     <cr>8</cr>
     <trait>
       <name>Evasion</name>
@@ -1832,7 +1832,7 @@ Imoen makes two shortsword attacks.</text>
 Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.</text>
       <attack>Shortsword|+7|1d6+4</attack>
     </action>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 88</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 88</description>
   </monster>
   <monster>
     <name>Jaheira</name>
@@ -1897,9 +1897,9 @@ Melee Weapon Attack: +7 to hit (+10 to hit with shillelagh), reach 5 ft., one ta
       <text>
 Jaheira casts the spell conjure animals using a 7th level slot. She can choose to summon three CR 2 beasts or six CR 1 beasts. All summoned beasts have maximum hit points. The damage from the summoned beasts natural weapons are considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks and damage.</text>
     </action>
-    <spells>druidcraft, poison spray, produce flame, shillelagh, entangle, longstrider, speak with animals, thunderwave, animal messenger, barkskin, conjure animals, water breathing, dominate beast, locate creature, stoneskin, wall of fire, commune with nature, mass cure wounds, tree stride, heal, heroes' feast, sunbeam, fire storm, animal shapes</spells>
+    <spells>druidcraft, poison spray, produce flame, shillelagh, entangle, longstrider, speak with animals, thunderwave, animal messenger, barkskin, conjure animals, water breathing, dominate beast, locate creature, stoneskin, wall of fire, commune with nature, mass cure wounds, tree stride, heal, heroes&apos; feast, sunbeam, fire storm, animal shapes</spells>
     <slots>0, 4, 3, 3, 3, 3, 1, 1, 1</slots>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 60</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 60</description>
   </monster>
   <monster>
     <name>Jon Irenicus</name>
@@ -1925,7 +1925,7 @@ Jaheira casts the spell conjure animals using a 7th level slot. She can choose t
     <passive>19</passive>
     <languages>Abyssal, Celestial, Common, Elvish, Infernal, Sylvan</languages>
     <cr>22</cr>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 73</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 73</description>
     <trait>
       <name>Legendary Resistance (3/Day)</name>
       <recharge>3/Day</recharge>
@@ -1959,7 +1959,7 @@ Jon Irenicus is an 20th-level spellcaster. His spellcasting ability is Intellige
 	• 9th level (1 slot): power word kill, time stop</text>
     </trait>
     <action>
-      <name>Multiattack (only useable with Tenser's Transformation)</name>
+      <name>Multiattack (only useable with Tenser&apos;s Transformation)</name>
       <text>
 Jon Irenicus makes two flame tongue attacks or two mace attacks. Each attack does an additional 13 (2d12) force damage.</text>
     </action>
@@ -1999,13 +1999,13 @@ This property can't be used for 24 hours.</text>
 Jon Irenicus makes a paralyze attack with his rod of lordly might. If he hits a creature with his rod, the creature must make a DC 17 Strength saving throw. On a failure, the creature is paralyzed for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on a success. This property can't be used for 24 hours.</text>
     </legendary>
     <legendary>
-      <name>Tenser's Transformation (Costs 3 Actions)</name>
+      <name>Tenser&apos;s Transformation (Costs 3 Actions)</name>
       <text>
 Jon Irenicus casts tenser's transformation. He gains 50 temporary hit points. He gains advantage on his attack rolls with his rod of lordly might. When he hits a target with his rod of lordly might, that target takes an extra 2d12 force damage.
 
 He gains proficiency in Strength and Constitution saving throws. He can use his multiattack.</text>
     </legendary>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 73</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 73</description>
   </monster>
   <monster>
     <name>Kagain</name>
@@ -2069,7 +2069,7 @@ Kagain makes an attack with a melee weapon.</text>
       <text>
 Kagain makes a weapon attack against every creature within 5 ft. of him.</text>
     </legendary>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 118</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 118</description>
   </monster>
   <monster>
     <name>Kivan</name>
@@ -2128,7 +2128,7 @@ Ranged Weapon Attack: +7 to hit, ranged 150/600 ft., one target. Hit: 8 (1d8 + 4
       <text>
 Kivan can use his action to make a ranged attack against any number of creatures with 10 feet of a point he can see within the range of his weapon. He must make a separate attack roll for each target.</text>
     </action>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 48</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 48</description>
   </monster>
   <monster>
     <name>Lothar</name>
@@ -2148,7 +2148,7 @@ Kivan can use his action to make a ranged attack against any number of creatures
     <skill>Insight +4, Perception +4, Stealth +7, Survival +8</skill>
     <resist/>
     <vulnerable/>
-    <immune>bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered</immune>
+    <immune>bludgeoning, piercing, and slashing damage from nonmagical weapons that aren&apos;t silvered</immune>
     <conditionImmune/>
     <senses>darkvision 60 ft.</senses>
     <passive>14</passive>
@@ -2204,7 +2204,7 @@ Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 1 piercing damage 
     </action>
     <spells>plane shift, blade ward, eldritch blast, message, bane, charm person, daylight, faerie fire, fear, misty step</spells>
     <slots>0, 0, 0, 2</slots>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 80</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 80</description>
   </monster>
   <monster>
     <name>Mephistopheles</name>
@@ -2222,7 +2222,7 @@ Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 1 piercing damage 
     <cha>26</cha>
     <save>Int +18, Wis +17, Cha +16</save>
     <skill>Deception +24, Insight +25, Persuasion +24</skill>
-    <resist>acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>fire, poison</immune>
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
@@ -2231,7 +2231,7 @@ Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 1 piercing damage 
     <languages>All, telepathy 100 ft.</languages>
     <cr>27</cr>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede Mephistopheles's darkvision.</text>
     </trait>
@@ -2354,7 +2354,7 @@ Mephistopheles uses his Ashen Teleport action.</text>
     </legendary>
     <spells>animate dead, detect evil and good, detect magic, dispel magic, fireball, geas, greater restoration, hallow, hold monster, locate creature, locate object, major image, resurrection, scrying, suggestion, teleport, true seeing, wall of fire, wall of ice, meteor swarm, symbol, wish, mage hand, ray of frost, absorb elements, mage armor, magic missile, shield, scorching ray, web, haste, sending, slow, acid arrow, banishment, storm sphere, arcane hand, cone of cold, scrying, chain lightning, disintegrate, eyebite, delayed blast fireball, forcecage, whirlwind, horrid wilting, sunburst</spells>
     <slots>0, 4, 3, 3, 3, 2, 1, 1, 1</slots>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 101</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 101</description>
   </monster>
   <monster>
     <name>Minsc And Boo!</name>
@@ -2428,7 +2428,7 @@ Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slash
       <text>
 If Boo take damage, Minsc can choose to take the damage instead.</text>
     </reaction>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 68</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 68</description>
   </monster>
   <monster>
     <name>Montaron And The Laughing Skull</name>
@@ -2452,7 +2452,7 @@ If Boo take damage, Minsc can choose to take the damage instead.</text>
     <conditionImmune/>
     <senses/>
     <passive>14</passive>
-    <languages>Common, Halfling, Thieves' cant</languages>
+    <languages>Common, Halfling, Thieves&apos; cant</languages>
     <cr>11</cr>
     <trait>
       <name>Assassinate</name>
@@ -2502,7 +2502,7 @@ Ranged Weapon Attack: +9 to hit, range 80/320 ft., one target. Hit: 9 (1d8 + 5) 
       <text>
 Montaron reaches inside his bag of holding and releases Xzar. Xzar is a demilich and appears within 5 ft. of Montaron. Xzar rolls for his own initiative. Xzar cannot use lair actions or legendary actions. He has a CR of 14.</text>
     </action>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 86</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 86</description>
   </monster>
   <monster>
     <name>Naes Inuus</name>
@@ -2564,7 +2564,7 @@ Naes activates an aura of sunlight that lasts for 1 minute or until he dismisses
     </action>
     <slots>0, 4,3,2,3,2,1,1,1,1</slots>
     <spells>light, sacred flame, thaumaturgy, cure wounds, guiding bolt, sanctuary, lesser restoration, spiritual weapon, fireball, spirit guardians, deathward, wall of fire, antilife shell, flame strike, blade barrier, divine word, holy aura, mass heal</spells>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 42</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 42</description>
   </monster>
   <monster>
     <name>Nauk</name>
@@ -2643,7 +2643,7 @@ Nauk drinks a potion from the following list:
       <text>
 Nauk adds 4 to his AC against one melee attack that would hit him. To do so, Nauk must see the attacker and be wielding a melee weapon.</text>
     </reaction>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 54</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 54</description>
   </monster>
   <monster>
     <name>Pazuzu</name>
@@ -2752,7 +2752,7 @@ Pazuzu attacks once with his greatsword or talons and can then fly away. Pazuzu'
 Pazuzu casts dispel magic.</text>
     </legendary>
     <spells>astral projection, blight, charm person, detect evil and good, dispel magic, hallow, insect plague, telekinesis, teleport, wind walk, dominate person, hypnotic pattern, plane shift, wish</spells>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 104</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 104</description>
   </monster>
   <monster>
     <name>Pelyious Avhoste</name>
@@ -2772,7 +2772,7 @@ Pazuzu casts dispel magic.</text>
     <skill>Perception +8, Stealth +6</skill>
     <resist/>
     <vulnerable/>
-    <immune>poison; bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered</immune>
+    <immune>poison; bludgeoning, piercing, and slashing damage from nonmagical weapons that aren&apos;t silvered</immune>
     <conditionImmune>poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>18</passive>
@@ -2827,7 +2827,7 @@ Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashi
     </action>
     <spells>fire bolt, light, mage hand, prestidigitation, detect magic, mage armor, magic missile, shield, misty step, suggestion, counterspell, fireball, fly, greater invisibility, ice storm, cone of cold</spells>
     <slots>0, 4, 3, 3, 3, 1</slots>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 120</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 120</description>
   </monster>
   <monster>
     <name>Phaerimm</name>
@@ -2920,7 +2920,7 @@ The phaerimm uses an action to do a stinger attack against a paralyzed target. I
     </action>
     <spells>mage hand, minor illusion, poison spray, ray of frost, dissonant whispers, magic missile, shield, crown of madness, detect thoughts, phantasmal force, fireball, fear, hypnotic pattern, confusion, greater invisibility, phantasmal killer, dominate person, hold monster, telekinesis, chain lightning, mass suggestion, prismatic spray, reverse gravity, dominate monster</spells>
     <slots>0, 4, 3, 3, 3, 2, 1, 1, </slots>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 147</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 147</description>
   </monster>
   <monster>
     <name>Saemon Havarian</name>
@@ -3002,7 +3002,7 @@ Saemon casts the spell animate objects, targeting hand axes that he has hurled a
     </legendary>
     <spells>fire bolt, light, mage hand, prestidigitation, detect magic, mage armor, magic missile, shield, misty step, suggestion, counterspell, fireball, fly, greater invisibility, ice storm, animate objects</spells>
     <slots>0, 4, 3, 3, 3, 1</slots>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 122</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 122</description>
   </monster>
   <monster>
     <name>Sarevok</name>
@@ -3064,12 +3064,12 @@ Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slash
       <attack>Long Sword (Two-Handed)|+10|1d10+5</attack>
     </action>
     <action>
-      <name>Assassin's Strike</name>
+      <name>Assassin&apos;s Strike</name>
       <text>
 Sarevok makes an attack with his long sword. If he hits the target and has advantage on the attack roll, then he deals an additional 21 (6d6) slashing damage.
 
 If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be poisoned for 10 minutes.</text>
-      <attack>Assassin's Strike||6d6</attack>
+      <attack>Assassin&apos;s Strike||6d6</attack>
     </action>
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
@@ -3088,11 +3088,11 @@ Sarevok makes one attack with his long sword.</text>
 Sarevok casts a cantrip from his spell list.</text>
     </legendary>
     <legendary>
-      <name>Channel Bhaal's Hate (Costs 2 Actions)</name>
+      <name>Channel Bhaal&apos;s Hate (Costs 2 Actions)</name>
       <text>
 Sarevok unleashes Bhaal's power. Creatures within 30 feet of Sarevok, including ones behind barriers and around corners, can't regain hit points until the end of Sarevok's next turn.</text>
     </legendary>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 124</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 124</description>
   </monster>
   <monster>
     <name>Sirene</name>
@@ -3153,7 +3153,7 @@ Melee Weapon Attack: +6 to hit, range 5 ft., one target. Hit: 6 (1d4 + 4) pierci
 Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. Hit: 7 (1d6 + 4) piercing damage.</text>
       <attack>Shortbow|+6|1d6+4</attack>
     </action>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 145</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 145</description>
   </monster>
   <monster>
     <name>Skeleton Lord</name>
@@ -3205,7 +3205,7 @@ The skeleton lord makes three greatsword attacks.</text>
 Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 16 (2d6 + 9) slashing damage.</text>
       <attack>Greatsword|+12|2d6+9</attack>
     </action>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 148</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 148</description>
   </monster>
   <monster>
     <name>Skeleton Warrior</name>
@@ -3252,7 +3252,7 @@ The skeleton warrior makes two greatsword attacks.</text>
 Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.</text>
       <attack>Greatsword|+9|2d6+6</attack>
     </action>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 149</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 149</description>
   </monster>
   <monster>
     <name>Ssendam, Lord Of Madness</name>
@@ -3379,7 +3379,7 @@ Ssendam uses her Teleport action.</text>
 Ssendam forces every creature suffering from madness within 60 feet of her to use their reaction to attack another creature within 5 feet of them.</text>
     </legendary>
     <spells>detect good and evil, detect magic, detect thoughts, dispel magic, fear, fly, mass suggestion, plane shift, finger of death, flame strike, power word kill, power word stun, power word heal</spells>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 107</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 107</description>
   </monster>
   <monster>
     <name>Suldil Baldoriel</name>
@@ -3438,7 +3438,7 @@ Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one ta
     </action>
     <spells>fire bolt, light, mage hand, prestidigitation, shocking grasp, chromatic orb, detect magic, magic missile, shield, detect thoughts, mirror image, misty step, counterspell, fireball, lightning bolt, banishment, greater invisibility, polymorph, dominate person, scrying, wall of force, chain lightning, disintegrate, finger of death, teleport, power word stun</spells>
     <slots>0, 4, 3, 3, 3, 3, 1, 1, 1</slots>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 66</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 66</description>
   </monster>
   <monster>
     <name>Sword Spider</name>
@@ -3498,7 +3498,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
 Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.</text>
       <attack>Foreleg|+5|2d6+3</attack>
     </action>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 151</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 151</description>
   </monster>
   <monster>
     <name>Tasloi Sniper</name>
@@ -3554,7 +3554,7 @@ Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. Hit: 7 (1d6 + 4) 
 Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.</text>
       <attack>Shortsword|+6|1d6+4</attack>
     </action>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. </description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. </description>
   </monster>
   <monster>
     <name>Tasloi</name>
@@ -3608,7 +3608,7 @@ Ranged Weapon Attack: +3 to hit, range 5/15 ft., one Large or smaller creature. 
 Ranged Weapon Attack: +5 to hit, range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage.</text>
       <attack>Javelin|+5|1d6+3</attack>
     </action>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 153</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 153</description>
   </monster>
   <monster>
     <name>Tiberius Inuus</name>
@@ -3666,7 +3666,7 @@ Tiberius Inuus touches a creature. The target magically regains 40 hit points an
       <text>
 When Tiberius Inuus is hit by an attack he can utter an oath of vengeance against the creature that made the attack. He gains advantage on attack rolls against that creature for 1 minute or until it drops to 0 hit points or falls unconscious.</text>
     </reaction>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 44</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 44</description>
   </monster>
   <monster>
     <name>Valygar</name>
@@ -3720,7 +3720,7 @@ Ranged Weapon Attack: +8 to hit, range 30/120 ft., one target. Hit: 7 (1d6 + 4) 
       <text>
 When a creature within 5 feet of Valygar casts a spell, he can use his reaction to make a melee weapon attack against that creature.</text>
     </reaction>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 36</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 36</description>
   </monster>
   <monster>
     <name>Vellin Farstride</name>
@@ -3788,7 +3788,7 @@ Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) pierci
 Ranged Weapon Attack: +9 to hit, ranged 80/320 ft., one target. Hit: 8 (1d6 + 5) piercing damage.</text>
       <attack>Shortbow|+9|1d6+5</attack>
     </action>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 62</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 62</description>
   </monster>
   <monster>
     <name>Viconia DeVir</name>
@@ -3870,7 +3870,7 @@ Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 13 (1d6 + 10) blu
     </action>
     <spells>light, sacred flame, thaumaturgy, cure wounds, guiding bolt, sanctuary, lesser restoration, spiritual weapon, bestow curse, spirit guardians, deathward, wall of fire, antilife shell, flame strike, blade barrier, divine word, holy aura, dancing lights, darkness, faerie fire</spells>
     <slots>0, 4, 3, 2, 3, 2, 1, 1, 1</slots>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 126</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 126</description>
   </monster>
   <monster>
     <name>Viktor</name>
@@ -3943,7 +3943,7 @@ Ranged Weapon Attack: +7 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1
     </action>
     <spells>bless, shield of faith, thunderous smite, aid, branding smite, lesser restoration, blinding smite, revivify, banishment, deathward</spells>
     <slots>0, 4, 3, 3, 2</slots>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 82</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 82</description>
   </monster>
   <monster>
     <name>Wolfwere Alpha</name>
@@ -3963,11 +3963,11 @@ Ranged Weapon Attack: +7 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1
     <skill>Perception +6</skill>
     <resist/>
     <vulnerable/>
-    <immune>bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't iron</immune>
+    <immune>bludgeoning, piercing, and slashing damage from nonmagical weapons that aren&apos;t iron</immune>
     <conditionImmune/>
     <senses/>
     <passive>16</passive>
-    <languages>Common (can't speak in wolf form)</languages>
+    <languages>Common (can&apos;t speak in wolf form)</languages>
     <cr>6</cr>
     <trait>
       <name>Shapechanger</name>
@@ -4015,7 +4015,7 @@ Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 10 (2d4 + 5) slash
       <text>
 The wolfwere plays a magical melody on an instrument. Every humanoid within 200 ft. of the wolfwere that can hear the melody must succeed on a DC 16 Wisdom saving throw or be slowed for 10 minutes. A creature can repeat the saving throw at the end of each of its turns. If a creature's saving throw is successful, the effect ends on it. A target that successfully saves is immune to this wolfwere's melody for the next 24 hours.</text>
     </action>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 154</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 154</description>
   </monster>
   <monster>
     <name>Wolfwere</name>
@@ -4035,11 +4035,11 @@ The wolfwere plays a magical melody on an instrument. Every humanoid within 200 
     <skill>Perception +4</skill>
     <resist/>
     <vulnerable/>
-    <immune>bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't iron</immune>
+    <immune>bludgeoning, piercing, and slashing damage from nonmagical weapons that aren&apos;t iron</immune>
     <conditionImmune/>
     <senses/>
     <passive>13</passive>
-    <languages>Common (can't speak in wolf form)</languages>
+    <languages>Common (can&apos;t speak in wolf form)</languages>
     <cr>4</cr>
     <trait>
       <name>Shapechanger</name>
@@ -4087,7 +4087,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) slashi
       <text>
 The wolfwere plays a magical melody on an instrument. Every humanoid within 200 ft. of the wolfwere that can hear the melody must succeed on a DC 13 Wisdom saving throw or be slowed for 10 minutes. A creature can repeat the saving throw at the end of each of its turns. If a creature's saving throw is successful, the effect ends on it. A target that successfully saves is immune to this wolfwere's melody for the next 24 hours.</text>
     </action>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 155</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 155</description>
   </monster>
   <monster>
     <name>Xan Moonblade</name>
@@ -4154,7 +4154,7 @@ Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d8 + 6) slash
     </action>
     <slots>0, 4, 3, 3, 3, 1</slots>
     <spells>fire bolt, light, mage hand, prestidigitation, detect magic, mage armor, magic missile, shield, misty step, suggestion, counterspell, fireball, fly, greater invisibility, ice storm, cone of cold</spells>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 38</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 38</description>
   </monster>
   <monster>
     <name>Xzar The Chaos Clone</name>
@@ -4227,8 +4227,8 @@ Xzar is an 16th-level spellcaster. His spellcasting ability is Intelligence (spe
 Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage.</text>
       <attack>Staff|+5|1d6+1</attack>
     </action>
-    <spells>false life, mage armor, ray of sickness, ray of enfeeblement, mirror image, misty step, animate dead, counterspell, dispel magic, vampiric touch, blight, evard's black tentacles, cloudkill, conjure elemental, scrying, circle of death, create undead, finger of death, teleport, Abi-Dalzim's Horrid Wilting, clone</spells>
+    <spells>false life, mage armor, ray of sickness, ray of enfeeblement, mirror image, misty step, animate dead, counterspell, dispel magic, vampiric touch, blight, evard&apos;s black tentacles, cloudkill, conjure elemental, scrying, circle of death, create undead, finger of death, teleport, Abi-Dalzim&apos;s Horrid Wilting, clone</spells>
     <slots>0, 4, 3, 3, 3, 3, 1, 1, 1</slots>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 128</description>
+    <description>Source:	Minsc and Boo&apos;s Journal of Villainy p. 128</description>
   </monster>
 </compendium>

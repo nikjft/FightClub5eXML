@@ -117,7 +117,7 @@ You can cast hold monster at will-targeting a celestial, fiend, or elemental-wit
 Source:	Player's Handbook p. 110</text>
   </spell>
   <spell>
-    <name>Invocation: Devil's Sight [2014]</name>
+    <name>Invocation: Devil&apos;s Sight [2014]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time/>
@@ -207,7 +207,7 @@ Source:	Player's Handbook p. 111</text>
     <components/>
     <duration/>
     <classes>Eldritch Invocations</classes>
-    <text>You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
+    <text>You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature&apos;s senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
 
 Blinded:
 	• A blinded creature can't see and automatically fails any ability check that requires sight.
@@ -388,7 +388,7 @@ Source:	Player's Handbook p. 111</text>
     <components/>
     <duration/>
     <classes>Eldritch Invocations</classes>
-    <text>You can cast bane once using a warlock spell slot. You can't do so again until you finish a long rest.
+    <text>You can cast bane once using a warlock spell slot. You can&apos;t do so again until you finish a long rest.
 
 Source:	Player's Handbook p. 111</text>
   </spell>
@@ -610,7 +610,7 @@ Source:	Player's Handbook p. 81</text>
     <components>V, S, M (2 ki points)</components>
     <duration>Instantaneous</duration>
     <classes>Monk (Way of the Four Elements)</classes>
-    <text>You can create a blast of compressed air that strikes like a mighty fist. As an action, you can spend 2 ki points and choose a creature within 30 feet of you. That creature must make a Strength saving throw. On a failed save, the creature takes 3d10 bludgeoning damage, plus an extra 1d10 bludgeoning damage for each additional ki point you spend, and you can push the creature up to 20 feet away from you and knock it prone. On a successful save, the creature takes half as much damage, and you don't push it or knock it prone.
+    <text>You can create a blast of compressed air that strikes like a mighty fist. As an action, you can spend 2 ki points and choose a creature within 30 feet of you. That creature must make a Strength saving throw. On a failed save, the creature takes 3d10 bludgeoning damage, plus an extra 1d10 bludgeoning damage for each additional ki point you spend, and you can push the creature up to 20 feet away from you and knock it prone. On a successful save, the creature takes half as much damage, and you don&apos;t push it or knock it prone.
 
 Prone:
 	• A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.
@@ -781,7 +781,7 @@ Source:	Player's Handbook p. 81</text>
     <components>(1 ki point)</components>
     <duration>Instantaneous</duration>
     <classes>Monk (Way of the Four Elements)</classes>
-    <text>As an action, you can spend 1 ki point to choose an area of ice or water no larger than 30 feet on a side within 120 feet of you. You can change water to ice within the area and vice versa, and you can reshape ice in the area in any manner you choose. You can raise or lower the ice's elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can't exceed half the area's largest dimension. For example, if you affect a 30-foot square, you can create a pillar up to 15 feet high, raise or lower the square's elevation by up to 15 feet, dig a trench up to 15 feet deep, and so on. You can't shape the ice to trap or injure a creature in the area.
+    <text>As an action, you can spend 1 ki point to choose an area of ice or water no larger than 30 feet on a side within 120 feet of you. You can change water to ice within the area and vice versa, and you can reshape ice in the area in any manner you choose. You can raise or lower the ice's elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can't exceed half the area's largest dimension. For example, if you affect a 30-foot square, you can create a pillar up to 15 feet high, raise or lower the square&apos;s elevation by up to 15 feet, dig a trench up to 15 feet deep, and so on. You can&apos;t shape the ice to trap or injure a creature in the area.
 
 Source:	Player's Handbook p. 81</text>
   </spell>
@@ -823,7 +823,7 @@ Source:	Player's Handbook p. 81</text>
     <components>(2 ki points)</components>
     <duration>Instantaneous</duration>
     <classes>Monk (Way of the Four Elements)</classes>
-    <text>You can spend 2 ki points as an action to create a whip of water that shoves and pulls a creature to unbalance it. A creature that you can see that is within 30 feet of you must make a Dexterity saving throw. On a failed save, the creature takes 3d10 bludgeoning damage, plus an extra 1d10 bludgeoning damage for each additional ki point you spend, and you can either knock it prone or pull it up to 25 feet closer to you. On a successful save, the creature takes half as much damage, and you don't pull it or knock it prone.
+    <text>You can spend 2 ki points as an action to create a whip of water that shoves and pulls a creature to unbalance it. A creature that you can see that is within 30 feet of you must make a Dexterity saving throw. On a failed save, the creature takes 3d10 bludgeoning damage, plus an extra 1d10 bludgeoning damage for each additional ki point you spend, and you can either knock it prone or pull it up to 25 feet closer to you. On a successful save, the creature takes half as much damage, and you don&apos;t pull it or knock it prone.
 
 Prone:
 	• A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.
@@ -865,7 +865,7 @@ Source:	Player's Handbook p. 81</text>
   </spell>
 
   <spell>
-    <name>Maneuver: Commander's Strike [2014]</name>
+    <name>Maneuver: Commander&apos;s Strike [2014]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time/>
@@ -873,7 +873,7 @@ Source:	Player's Handbook p. 81</text>
     <components/>
     <duration/>
     <classes>Maneuver Options</classes>
-    <text>When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one superiority die. That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack's damage roll.
+    <text>When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one superiority die. That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack&apos;s damage roll.
 
 Source:	Player's Handbook p. 74</text>
   </spell>
@@ -886,7 +886,7 @@ Source:	Player's Handbook p. 74</text>
     <components/>
     <duration/>
     <classes>Maneuver Options</classes>
-    <text>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add the superiority die to the attack's damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.
+    <text>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it&apos;s holding. You add the superiority die to the attack&apos;s damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.
 
 Source:	Player's Handbook p. 74</text>
   </spell>
@@ -899,7 +899,7 @@ Source:	Player's Handbook p. 74</text>
     <components/>
     <duration/>
     <classes>Maneuver Options</classes>
-    <text>When you hit a creature with a weapon attack, you can expend one superiority die to distract the creature, giving your allies an opening. You add the superiority die to the attack's damage roll. The next attack roll against the target by an attacker other than you has advantage if the attack is made before the start of your next turn.
+    <text>When you hit a creature with a weapon attack, you can expend one superiority die to distract the creature, giving your allies an opening. You add the superiority die to the attack&apos;s damage roll. The next attack roll against the target by an attacker other than you has advantage if the attack is made before the start of your next turn.
 
 Source:	Player's Handbook p. 74</text>
   </spell>
@@ -925,7 +925,7 @@ Source:	Player's Handbook p. 74</text>
     <components/>
     <duration/>
     <classes>Maneuver Options</classes>
-    <text>You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll against that creature this turn. If that attack hits, add the superiority die to the attack's damage roll.
+    <text>You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll against that creature this turn. If that attack hits, add the superiority die to the attack&apos;s damage roll.
 
 Source:	Player's Handbook p. 74</text>
   </spell>
@@ -938,7 +938,7 @@ Source:	Player's Handbook p. 74</text>
     <components/>
     <duration/>
     <classes>Maneuver Options</classes>
-    <text>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to goad the target into attacking you. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn.
+    <text>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to goad the target into attacking you. You add the superiority die to the attack&apos;s damage roll, and the target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn.
 
 Source:	Player's Handbook p. 74</text>
   </spell>
@@ -951,7 +951,7 @@ Source:	Player's Handbook p. 74</text>
     <components/>
     <duration/>
     <classes>Maneuver Options</classes>
-    <text>When you make a melee weapon attack on your turn, you can expend one superiority die to increase your reach for that attack by 5 feet. If you hit, you add the superiority die to the attack's damage roll.
+    <text>When you make a melee weapon attack on your turn, you can expend one superiority die to increase your reach for that attack by 5 feet. If you hit, you add the superiority die to the attack&apos;s damage roll.
 
 Source:	Player's Handbook p. 74</text>
   </spell>
@@ -964,7 +964,7 @@ Source:	Player's Handbook p. 74</text>
     <components/>
     <duration/>
     <classes>Maneuver Options</classes>
-    <text>When you hit a creature with a weapon attack, you can expend one superiority die to maneuver one of your comrades into a more advantageous position. You add the superiority die to the attack's damage roll, and you choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.
+    <text>When you hit a creature with a weapon attack, you can expend one superiority die to maneuver one of your comrades into a more advantageous position. You add the superiority die to the attack&apos;s damage roll, and you choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.
 
 Source:	Player's Handbook p. 74</text>
   </spell>
@@ -977,7 +977,7 @@ Source:	Player's Handbook p. 74</text>
     <components/>
     <duration/>
     <classes>Maneuver Options</classes>
-    <text>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, it is frightened of you until the end of your next turn.
+    <text>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack&apos;s damage roll, and the target must make a Wisdom saving throw. On a failed save, it is frightened of you until the end of your next turn.
 
 Frightened:
 	• A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
@@ -1020,7 +1020,7 @@ Source:	Player's Handbook p. 74</text>
     <components/>
     <duration/>
     <classes>Maneuver Options</classes>
-    <text>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to drive the target back. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you push the target up to 15 feet away from you.
+    <text>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to drive the target back. You add the superiority die to the attack&apos;s damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you push the target up to 15 feet away from you.
 
 Source:	Player's Handbook p. 74</text>
   </spell>
@@ -1046,7 +1046,7 @@ Source:	Player's Handbook p. 74</text>
     <components/>
     <duration/>
     <classes>Maneuver Options</classes>
-    <text>When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack's damage roll.
+    <text>When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack&apos;s damage roll.
 
 Source:	Player's Handbook p. 74</text>
   </spell>
@@ -1072,7 +1072,7 @@ Source:	Player's Handbook p. 74</text>
     <components/>
     <duration/>
     <classes>Maneuver Options</classes>
-    <text>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.
+    <text>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack&apos;s damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.
 
 Prone:
 	• A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.
@@ -1241,14 +1241,14 @@ Source:	Player's Handbook p. 110</text>
   <feat>
     <name>Invocation: Bewitching Whispers [2014]</name>
     <prerequisite>7th level</prerequisite>
-    <text>You can cast compulsion once using a warlock spell slot. You can't do so again until you finish a long rest.
+    <text>You can cast compulsion once using a warlock spell slot. You can&apos;t do so again until you finish a long rest.
 
 Source:	Player's Handbook p. 110</text>
   </feat>
   <feat>
     <name>Invocation: Book of Ancient Secrets [2014]</name>
     <prerequisite>Pact of the Tome</prerequisite>
-    <text>You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class's spell list. The spells needn't be from the same spell list. The spells appear in the book and don't count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can't cast the spells except as rituals, unless you've learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.
+    <text>You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class's spell list. The spells needn't be from the same spell list. The spells appear in the book and don't count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can&apos;t cast the spells except as rituals, unless you&apos;ve learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.
 
 On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.
 
@@ -1276,7 +1276,7 @@ Source:	Player's Handbook p. 110</text>
 Source:	Player's Handbook p. 81</text>
   </feat>
   <feat>
-    <name>Commander's Strike [2014]</name>
+    <name>Commander&apos;s Strike [2014]</name>
     <prerequisite/>
     <text>Maneuver: Battle Master
 When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one superiority die. That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack's damage roll.
@@ -1284,7 +1284,7 @@ When you take the Attack action on your turn, you can forgo one of your attacks 
 Source:	Player's Handbook p. 74</text>
   </feat>
   <feat>
-    <name>Invocation: Devil's Sight [2014]</name>
+    <name>Invocation: Devil&apos;s Sight [2014]</name>
     <prerequisite/>
     <text>You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
 
@@ -1309,7 +1309,7 @@ Source:	Player's Handbook p. 74</text>
   <feat>
     <name>Invocation: Dreadful Word [2014]</name>
     <prerequisite>7th level</prerequisite>
-    <text>You can cast confusion once using a warlock spell slot. You can't do so again until you finish a long rest.
+    <text>You can cast confusion once using a warlock spell slot. You can&apos;t do so again until you finish a long rest.
 
 Source:	Player's Handbook p. 110</text>
   </feat>
@@ -1402,7 +1402,7 @@ Source:	Player's Handbook p. 81</text>
   <feat>
     <name>Invocation: Gaze of Two Minds [2014]</name>
     <prerequisite/>
-    <text>You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
+    <text>You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature&apos;s senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
 	
 Blinded:
 	• A blinded creature can't see and automatically fails any ability check that requires sight.
@@ -1476,14 +1476,14 @@ Source:	Player's Handbook p. 74</text>
   <feat>
     <name>Invocation: Minions of Chaos [2014]</name>
     <prerequisite>9th level</prerequisite>
-    <text>You can cast conjure elemental once using a warlock spell slot. You can't do so again until you finish a long rest.
+    <text>You can cast conjure elemental once using a warlock spell slot. You can&apos;t do so again until you finish a long rest.
 
 Source:	Player's Handbook p. 111</text>
   </feat>
   <feat>
     <name>Invocation: Mire the Mind [2014]</name>
     <prerequisite>5th level</prerequisite>
-    <text>You can cast slow once using a warlock spell slot. You can't do so again until you finish a long rest.
+    <text>You can cast slow once using a warlock spell slot. You can&apos;t do so again until you finish a long rest.
 
 Source:	Player's Handbook p. 111</text>
   </feat>
@@ -1529,7 +1529,7 @@ Source:	Player's Handbook p. 107</text>
   <feat>
       <name>Pact Boon: Pact of the Chain [2014]</name>
     <prerequisite/>
-    <text>You learn the find familiar spell and can cast it as a ritual. The spell doesn't count against your number of spells known.
+    <text>You learn the find familiar spell and can cast it as a ritual. The spell doesn&apos;t count against your number of spells known.
 
 When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: imp, pseudodragon, quasit, or sprite.
 
@@ -1540,7 +1540,7 @@ Source:	Player's Handbook p. 107</text>
   <feat>
       <name>Pact Boon: Pact of the Tome [2014]</name>
     <prerequisite/>
-    <text>Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class's spell list. The cantrips do not need to be from the same spell list. While the book is on your person, you can cast those cantrips at will. They don't count against your number of cantrips known. Any cantrip you cast with this feature is considered a warlock cantrip for you. If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
+    <text>Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class&apos;s spell list. The cantrips do not need to be from the same spell list. While the book is on your person, you can cast those cantrips at will. They don&apos;t count against your number of cantrips known. Any cantrip you cast with this feature is considered a warlock cantrip for you. If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
 
 Source:	Player's Handbook p. 108</text>
     </feat>
@@ -1615,21 +1615,21 @@ Source:	Player's Handbook p. 81</text>
   <feat>
     <name>Invocation: Sculptor of Flesh [2014]</name>
     <prerequisite>7th level</prerequisite>
-    <text>You can cast polymorph once using a warlock spell slot. You can't do so again until you finish a long rest.
+    <text>You can cast polymorph once using a warlock spell slot. You can&apos;t do so again until you finish a long rest.
 
 Source:	Player's Handbook p. 111</text>
   </feat>
   <feat>
     <name>Elemental Discipline: Shape the Flowing River [2014]</name>
     <prerequisite/>
-    <text>As an action, you can spend 1 ki point to choose an area of ice or water no larger than 30 feet on a side within 120 feet of you. You can change water to ice within the area and vice versa, and you can reshape ice in the area in any manner you choose. You can raise or lower the ice's elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can't exceed half the area's largest dimension. For example, if you affect a 30-foot square, you can create a pillar up to 15 feet high. raise or lower the square's elevation by up to 15 feet, dig a trench up to 15 feet deep, and so on. You can't shape the ice to trap or injure a creature in the area.
+    <text>As an action, you can spend 1 ki point to choose an area of ice or water no larger than 30 feet on a side within 120 feet of you. You can change water to ice within the area and vice versa, and you can reshape ice in the area in any manner you choose. You can raise or lower the ice's elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can't exceed half the area's largest dimension. For example, if you affect a 30-foot square, you can create a pillar up to 15 feet high. raise or lower the square&apos;s elevation by up to 15 feet, dig a trench up to 15 feet deep, and so on. You can&apos;t shape the ice to trap or injure a creature in the area.
 
 Source:	Player's Handbook p. 81</text>
   </feat>
   <feat>
     <name>Invocation: Sign of Ill Omen [2014]</name>
     <prerequisite>5th level</prerequisite>
-    <text>You can cast bestow curse once using a warlock spell slot. You can't do so again until you finish a long rest.
+    <text>You can cast bestow curse once using a warlock spell slot. You can&apos;t do so again until you finish a long rest.
 
 Source:	Player's Handbook p. 111</text>
   </feat>
@@ -1651,7 +1651,7 @@ Source:	Player's Handbook p. 81</text>
   <feat>
     <name>Invocation: Thief of Five Fates [2014]</name>
     <prerequisite/>
-    <text>You can cast bane once using a warlock spell slot. You can't do so again until you finish a long rest.
+    <text>You can cast bane once using a warlock spell slot. You can&apos;t do so again until you finish a long rest.
 
 Source:	Player's Handbook p. 111</text>
   </feat>
@@ -1678,7 +1678,7 @@ Source:	Player's Handbook p. 74</text>
   <feat>
     <name>Elemental Discipline: Unbroken Air [2014]</name>
     <prerequisite/>
-    <text>You can create a blast of compressed air that strikes like a mighty fist. As an action, you can spend 2 ki points and choose a creature within 30 feet of you. That creature must make a Strength saving throw. On a failed save, the creature takes 3d10 bludgeoning damage, plus an extra 1d10 bludgeoning damage for each additional ki point you spend, and you can push the creature up to 20 feet away from you and knock it prone. On a successful save, the creature takes half as much damage, and you don't push it or knock it prone.
+    <text>You can create a blast of compressed air that strikes like a mighty fist. As an action, you can spend 2 ki points and choose a creature within 30 feet of you. That creature must make a Strength saving throw. On a failed save, the creature takes 3d10 bludgeoning damage, plus an extra 1d10 bludgeoning damage for each additional ki point you spend, and you can push the creature up to 20 feet away from you and knock it prone. On a successful save, the creature takes half as much damage, and you don&apos;t push it or knock it prone.
 
 Prone:
 	• A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.
@@ -1697,14 +1697,14 @@ Source:	Player's Handbook p. 111</text>
   <feat>
     <name>Invocation: Voice of the Chain Master [2014]</name>
     <prerequisite>Pact of the Chain</prerequisite>
-    <text>You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
+    <text>You can communicate telepathically with your familiar and perceive through your familiar&apos;s senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar&apos;s senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
 
 Source:	Player's Handbook p. 111</text>
   </feat>
   <feat>
     <name>Elemental Discipline: Water Whip [2014]</name>
     <prerequisite/>
-    <text>You can spend 2 ki points as an action to create a whip of water that shoves and pulls a creature to unbalance it. A creature that you can see that is within 30 feet of you must make a Dexterity saving throw. On a failed save, the creature takes 3d10 bludgeoning damage, plus an extra 1d10 bludgeoning damage for each additional ki point you spend, and you can either knock it prone or pull it up to 25 feet closer to you. On a successful save, the creature takes half as much damage, and you don't pull it or knock it prone.
+    <text>You can spend 2 ki points as an action to create a whip of water that shoves and pulls a creature to unbalance it. A creature that you can see that is within 30 feet of you must make a Dexterity saving throw. On a failed save, the creature takes 3d10 bludgeoning damage, plus an extra 1d10 bludgeoning damage for each additional ki point you spend, and you can either knock it prone or pull it up to 25 feet closer to you. On a successful save, the creature takes half as much damage, and you don&apos;t pull it or knock it prone.
 
 Prone:
 	• A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.

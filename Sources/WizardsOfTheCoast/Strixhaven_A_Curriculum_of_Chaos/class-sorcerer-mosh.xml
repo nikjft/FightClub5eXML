@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <class>
     <name>Sorcerer</name>
@@ -9,7 +10,7 @@
 
 Upon selecting the Mage of Prismari subclass, you gain two features: Creative Skills and Kinetic Artistry.
 
-In this subclass's features, any reference to your class refers to the class from which you gained the subclass. If you're a druid, the College of Prismari counts as your circle; if you're a sorcerer, the magic of the college is the origin of your sorcery; and if you're a wizard, the college represents your arcane tradition.
+In this subclass&apos;s features, any reference to your class refers to the class from which you gained the subclass. If you&apos;re a druid, the College of Prismari counts as your circle; if you&apos;re a sorcerer, the magic of the college is the origin of your sorcery; and if you&apos;re a wizard, the college represents your arcane tradition.
 
 When you subsequently reach a level in your class that gives you a subclass feature, you gain one feature of your choice from the options presented here. Each feature has a class level prerequisite, as noted beneath its name. You must meet that prerequisite to gain the feature.
 
@@ -38,7 +39,7 @@ Scorching Whirl:
 Flames wreath your steps. Once before the end of your turn, you can force each creature within 5 feet of you to make a Dexterity saving throw against your spell save DC. On a failure, a creature takes fire damage equal to 1d4 + your spellcasting modifier.
 
 Thunderlight Jaunt:
-You take on a nimble lightning form. Until the end of your turn, you can move through the space of other creatures, and you do not provoke opportunity attacks. If you end your turn inside a creature's space, you are pushed into the nearest unoccupied space.
+You take on a nimble lightning form. Until the end of your turn, you can move through the space of other creatures, and you do not provoke opportunity attacks. If you end your turn inside a creature&apos;s space, you are pushed into the nearest unoccupied space.
 
 You can use a bonus action in this way a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
@@ -65,7 +66,7 @@ Source:	Strixhaven: A Curriculum of Chaos p. 5</text>
         <text>At 14th level, honing your talents, you skillfully infuse your motions with even more potent expressions of elemental might. Once per turn when you deal damage to at least one target, you gain an additional effect determined by the damage type chosen for your Favored Medium feature:
 
 Cold:
-One of the targets of your choice takes an additional 1d6 cold damage and must make a Constitution saving throw against your spell save DC. On a failed save, the target's speed is reduced by 10 feet until the end of its next turn, as ice mires it. A target can be affected by the ice only once per round.
+One of the targets of your choice takes an additional 1d6 cold damage and must make a Constitution saving throw against your spell save DC. On a failed save, the target&apos;s speed is reduced by 10 feet until the end of its next turn, as ice mires it. A target can be affected by the ice only once per round.
 
 Fire:
 One of the targets of your choice takes an additional 1d6 fire damage. Fortifying flames then dance around one creature of your choice within 30 feet of you. The chosen creature gains 1d6 temporary hit points.
@@ -104,7 +105,7 @@ Source:	Strixhaven: A Curriculum of Chaos p. 5</text>
 
 Upon selecting the Mage of Quandrix subclass, you gain two features: Quandrix Spells and Functions of Probability.
 
-In this subclass's features, any reference to your class refers to the class from which you gained the subclass. If you're a sorcerer, the magic of Quandrix is part of your sorcerous origin, and if you're a wizard, the college represents your arcane tradition.
+In this subclass&apos;s features, any reference to your class refers to the class from which you gained the subclass. If you&apos;re a sorcerer, the magic of Quandrix is part of your sorcerous origin, and if you&apos;re a wizard, the college represents your arcane tradition.
 
 When you subsequently reach a level in your class that gives you a subclass feature, you gain one feature of your choice from the options presented here. Each feature has a class level prerequisite, as noted beneath its name. You must meet that prerequisite to gain the feature.
 
@@ -117,7 +118,7 @@ Source:	Strixhaven: A Curriculum of Chaos p. 5</text>
         <name>Mage of Quandrix: Quandrix Spells</name>
         <text>At 1st level, you learn the cantrip guidance and the 1st-level spell guiding bolt. You learn additional spells when you reach certain levels in this class, as shown on the Quandrix Spells table.
 
-Each of these spells counts as a class spell for you, but it doesn't count against the number of spells you know. If you are a wizard, you can add these spells to your spellbook upon learning them, without expending any gold, and prepare them as normal.
+Each of these spells counts as a class spell for you, but it doesn&apos;t count against the number of spells you know. If you are a wizard, you can add these spells to your spellbook upon learning them, without expending any gold, and prepare them as normal.
 
 Mage of Quandrix Expanded Spells:
 Spell Level | Spells

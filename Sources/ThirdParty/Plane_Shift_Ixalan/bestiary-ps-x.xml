@@ -111,7 +111,7 @@ The elder dinosaur makes one bite attack against a Large or smaller creature it 
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The monstrosity (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity (titan) regains spent legendary actions at the start of its turn.</text>
+      <text>The monstrosity (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity (titan) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Attack</name>
@@ -208,7 +208,7 @@ The elder dinosaur makes one bite attack against a Large or smaller creature it 
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The monstrosity (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity (titan) regains spent legendary actions at the start of its turn.</text>
+      <text>The monstrosity (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity (titan) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Attack</name>
@@ -308,7 +308,7 @@ The elder dinosaur makes one bite attack against a Large or smaller creature it 
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The monstrosity (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity (titan) regains spent legendary actions at the start of its turn.</text>
+      <text>The monstrosity (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity (titan) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Attack</name>
@@ -405,7 +405,7 @@ The elder dinosaur makes one bite attack against a Large or smaller creature it 
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The monstrosity (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity (titan) regains spent legendary actions at the start of its turn.</text>
+      <text>The monstrosity (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity (titan) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Attack</name>
@@ -527,7 +527,7 @@ The elder dinosaur makes one bite attack against a Large or smaller creature it 
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The monstrosity (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity (titan) regains spent legendary actions at the start of its turn.</text>
+      <text>The monstrosity (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity (titan) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Attack</name>
@@ -627,7 +627,7 @@ The elder dinosaur makes one bite attack against a Large or smaller creature it 
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The monstrosity (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity (titan) regains spent legendary actions at the start of its turn.</text>
+      <text>The monstrosity (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity (titan) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Attack</name>
@@ -731,7 +731,7 @@ The elder dinosaur makes one bite attack against a Large or smaller creature it 
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The monstrosity (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity (titan) regains spent legendary actions at the start of its turn.</text>
+      <text>The monstrosity (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity (titan) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Attack</name>
@@ -802,7 +802,7 @@ Ranged Weapon Attack: +5 to hit, range 15/30 ft., one creature. The target must 
     <environment/>
   </monster>
   <monster>
-    <name>Gishath, Sun's Avatar</name>
+    <name>Gishath, Sun&apos;s Avatar</name>
     <size>G</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -866,7 +866,7 @@ Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 25 (4d8 + 7) blu
     <legendary>
       <name>Legendary Actions (2/Turn)</name>
       <recharge>2/Turn</recharge>
-      <text>Gishath, can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Gishath, regains spent legendary actions at the start of its turn.</text>
+      <text>Gishath, can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Gishath, regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Attack</name>
@@ -953,7 +953,7 @@ A target that successfully saves is immune to this Harpy–Plane Shift: Ixalan's
     <save>Dex +5, Con +10, Wis +7, Cha +7</save>
     <skill>Perception +7</skill>
     <passive>17</passive>
-    <languages>Giant Owl, understands Common but can't speak it</languages>
+    <languages>Giant Owl, understands Common but can&apos;t speak it</languages>
     <cr>13</cr>
     <resist>bludgeoning, piercing, slashing from nonmagical attacks</resist>
     <immune>fire</immune>

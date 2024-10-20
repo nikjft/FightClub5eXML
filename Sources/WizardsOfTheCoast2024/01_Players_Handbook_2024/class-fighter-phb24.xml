@@ -129,7 +129,7 @@ Source:	Player's Handbook 2024 p. 91</text>
     <autolevel level="2">
       <feature>
         <name>Tactical Mind</name>
-        <text>You have a mind for tactics on and off the battlefield. When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining Hit Points, you roll 1d10 and add the number rolled to the ability check, potentially turning it into a success. If the check still fails. this use of Second Wind isn't expended.
+        <text>You have a mind for tactics on and off the battlefield. When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining Hit Points, you roll 1d10 and add the number rolled to the ability check, potentially turning it into a success. If the check still fails. this use of Second Wind isn&apos;t expended.
 
 Source:	Player's Handbook 2024 p. 91</text>
       </feature>
@@ -138,7 +138,7 @@ Source:	Player's Handbook 2024 p. 91</text>
     <autolevel level="3">
       <feature>
         <name>Fighter Subclass</name>
-        <text>You gain a Fighter subclass of your choice. The Battle Master, Champion, Eldritch Knight, and Psi Warrior subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Fighter levels. For the rest of your career, you gain each of your subclass's features that are of your Fighter level or lower.
+        <text>You gain a Fighter subclass of your choice. The Battle Master, Champion, Eldritch Knight, and Psi Warrior subclasses are detailed after this class&apos;s description. A subclass is a specialization that grants you features at certain Fighter levels. For the rest of your career, you gain each of your subclass&apos;s features that are of your Fighter level or lower.
 
 Source:	Player's Handbook 2024 p. 92</text>
       </feature>
@@ -197,7 +197,7 @@ Source:	Player's Handbook 2024 p. 92</text>
     <autolevel level="9">
       <feature>
         <name>Indomitable</name>
-        <text>If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can't use this feature again until you finish a Long Rest.
+        <text>If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can&apos;t use this feature again until you finish a Long Rest.
 
 You can use this feature twice before a Long Rest starting at level 13 and three times before a Long Rest starting at level 17.
 
@@ -346,7 +346,7 @@ Source:	Player's Handbook 2024 p. 93</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Battle Master: Student Of War</name>
-        <text>You gain proficiency with one type of Artisan's Tools of your choice, and you gain proficiency in one skill of your choice from the skills available to Fighters at level 1.
+        <text>You gain proficiency with one type of Artisan&apos;s Tools of your choice, and you gain proficiency in one skill of your choice from the skills available to Fighters at level 1.
 
 Source:	Player's Handbook 2024 p. 94</text>
       </feature>
@@ -556,7 +556,7 @@ Source:	Player's Handbook 2024 p. 97</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Eldritch Knight: Eldritch Strike</name>
-        <text>You learn how to make your weapon strikes undercut a creature's ability to withstand your spells. When you hit a creature with an attack using a weapon, that creature has Disadvantage on the next saving throw it makes against a spell you cast before the end of your next turn.
+        <text>You learn how to make your weapon strikes undercut a creature&apos;s ability to withstand your spells. When you hit a creature with an attack using a weapon, that creature has Disadvantage on the next saving throw it makes against a spell you cast before the end of your next turn.
 
 Source:	Player's Handbook 2024 p. 97</text>
       </feature>

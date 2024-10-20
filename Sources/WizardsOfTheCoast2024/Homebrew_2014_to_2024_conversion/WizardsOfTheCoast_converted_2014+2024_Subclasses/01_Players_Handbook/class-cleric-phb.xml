@@ -54,7 +54,7 @@ Source:	Player's Handbook p. 61</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Nature Domain: Acolyte of Nature [2014]</name>
-        <text>At 1st level, you learn one druid cantrip of your choice. This cantrip counts as a cleric cantrip for you, but it doesn't count against the number of cleric cantrips you know.
+        <text>At 1st level, you learn one druid cantrip of your choice. This cantrip counts as a cleric cantrip for you, but it doesn&apos;t count against the number of cleric cantrips you know.
 
 You also gain proficiency in one of the following skills of your choice: Animal Handling, Nature, or Survival.
 
@@ -148,7 +148,7 @@ Source:	Player's Handbook p. 62</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Knowledge Domain: Channel Divinity: Read Thoughts [2014]</name>
-        <text>At 6th level, you can use your Channel Divinity to read a creature's thoughts. You can then use your access to the creature's mind to command it.
+        <text>At 6th level, you can use your Channel Divinity to read a creature&apos;s thoughts. You can then use your access to the creature&apos;s mind to command it.
 
 As an action, choose one creature that you can see within 60 feet of you. That creature must make a Wisdom saving throw. If the creature succeeds on the saving throw, you can't use this feature on it again until you finish a long rest.
 

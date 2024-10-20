@@ -52,7 +52,7 @@ Source:	Phandelver and Below: The Shattered Obelisk p. 72,
     <magic>YES</magic>
     <weight>7</weight>
     <detail>greataxe, rare (requires attunement)</detail>
-    <text>Carvings of decapitated mind flayers adorn this greataxe's metal blade. You gain a +1 bonus to attack and damage rolls made with this greataxe.
+    <text>Carvings of decapitated mind flayers adorn this greataxe&apos;s metal blade. You gain a +1 bonus to attack and damage rolls made with this greataxe.
 
 An Aberration hit with this greataxe takes an extra 1d12 slashing damage. If the Aberration is currently grappling a creature, the Aberration must succeed on a DC 15 Strength saving throw or release each creature it is grappling.
 
@@ -289,7 +289,7 @@ Source:	Phandelver and Below: The Shattered Obelisk p. 219</text>
     <type>RG</type>
     <magic>YES</magic>
     <detail>uncommon (requires attunement)</detail>
-    <text>This ring has 6 charges. While you wear it, you can expend 1 of its charges to project your voice to be heard clearly by all creatures within 1 mile of yourself, regardless of intervening noise, for 1 minute. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks this projection. If you project your voice while speaking a language the listening creatures don't understand, you can make the creatures understand what you're saying. You must be able to see the creatures to make them understand. The ring regains 1d6 expended charges daily at dawn.
+    <text>This ring has 6 charges. While you wear it, you can expend 1 of its charges to project your voice to be heard clearly by all creatures within 1 mile of yourself, regardless of intervening noise, for 1 minute. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks this projection. If you project your voice while speaking a language the listening creatures don&apos;t understand, you can make the creatures understand what you&apos;re saying. You must be able to see the creatures to make them understand. The ring regains 1d6 expended charges daily at dawn.
 
 Source:	Phandelver and Below: The Shattered Obelisk p. 219</text>
   </item>

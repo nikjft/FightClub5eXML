@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <monster>
     <name>Aberrant Spirit</name>
@@ -47,31 +48,31 @@ The aberration regains 5 hit points at the start of its turn if it has at least 
     <trait>
       <name>Whispering Aura (Star Spawn Only)</name>
       <text>
-At the start of each of the aberration's turns, each creature within 5 feet of the aberration must succeed on a Wisdom saving throw against your spell save DC or take 2d6 psychic damage, provided that the aberration isn't incapacitated.</text>
+At the start of each of the aberration&apos;s turns, each creature within 5 feet of the aberration must succeed on a Wisdom saving throw against your spell save DC or take 2d6 psychic damage, provided that the aberration isn&apos;t incapacitated.</text>
     </trait>
     <action>
       <name>Multiattack</name>
       <text>
-The aberration makes a number of attacks equal to half this spell's level (rounded down).</text>
+The aberration makes a number of attacks equal to half this spell&apos;s level (rounded down).</text>
     </action>
     <action>
       <name>Eye Ray (Beholderkin Only)</name>
       <text>
-Ranged Spell Attack: your spell attack modifier to hit, range 150 ft., one target. Hit: 1d8 + 3 + the spell's level psychic damage.</text>
+Ranged Spell Attack: your spell attack modifier to hit, range 150 ft., one target. Hit: 1d8 + 3 + the spell&apos;s level psychic damage.</text>
     </action>
     <action>
       <name>Claws (Slaad Only)</name>
       <text>
-Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d10 + 3 + the spell's level slashing damage.
+Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d10 + 3 + the spell&apos;s level slashing damage.
 
-If the target is a creature, it can't regain hit points until the start of the aberration's next turn.</text>
+If the target is a creature, it can&apos;t regain hit points until the start of the aberration&apos;s next turn.</text>
     </action>
     <action>
       <name>Psychic Slam (Star Spawn Only)</name>
       <text>
-Melee Spell Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d8 + 3 + the spell's level psychic damage.</text>
+Melee Spell Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d8 + 3 + the spell&apos;s level psychic damage.</text>
     </action>
-    <description>Source:	Tasha's Cauldron of Everything p. 109</description>
+    <description>Source:	Tasha&apos;s Cauldron of Everything p. 109</description>
     <environment/>
   </monster>
   <monster>
@@ -135,7 +136,7 @@ Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit: 17 (2d8 + 8) blu
     <action>
       <name>Frightful Presence</name>
       <text>
-Each creature of the dracolich's choice that is within 120 feet of the dracolich and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dracolich's Frightful Presence for the next 24 hours.</text>
+Each creature of the dracolich&apos;s choice that is within 120 feet of the dracolich and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature&apos;s saving throw is successful or the effect ends for it, the creature is immune to the dracolich&apos;s Frightful Presence for the next 24 hours.</text>
     </action>
     <action>
       <name>Fire Breath (Recharge 5-6)</name>
@@ -147,7 +148,7 @@ The dracolich exhales fire in a 60-foot cone. Each creature in that area must ma
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The undead can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The undead regains spent legendary actions at the start of its turn.</text>
+      <text>The undead can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The undead regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Detect</name>
@@ -167,9 +168,9 @@ The dracolich beats its wings. Each creature within 10 feet of the dracolich mus
     <legendary>
       <name>Lair Actions</name>
       <text>
-On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:
+On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can&apos;t use the same effect two rounds in a row:
 
-	• Magma erupts from a point on the ground the dragon can see within 120 feet of it, creating a 20-foot-high, 5-foot-radius geyser. Each creature in the geyser's area must make a DC 15 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.
+	• Magma erupts from a point on the ground the dragon can see within 120 feet of it, creating a 20-foot-high, 5-foot-radius geyser. Each creature in the geyser&apos;s area must make a DC 15 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.
 
 	• A tremor shakes the lair in a 60-foot radius around the dragon. Each creature other than the dragon on the ground in that area must succeed on a DC 15 Dexterity saving throw or be knocked prone.
 
@@ -178,17 +179,17 @@ On initiative count 20 (losing initiative ties), the dragon takes a lair action 
     <legendary>
       <name>Regional Effects</name>
       <text>
-The region containing a legendary red dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:
+The region containing a legendary red dragon&apos;s lair is warped by the dragon&apos;s magic, which creates one or more of the following effects:
 
-	• Small earthquakes are common within 6 miles of the dragon's lair.
+	• Small earthquakes are common within 6 miles of the dragon&apos;s lair.
 
 	• Water sources within 1 mile of the lair are supernaturally warm and tainted by sulfur.
 
-	• Rocky fissures within 1 mile of the dragon's lair form portals to the Elemental Plane of Fire, allowing creatures of elemental fire into the world to dwell nearby.
+	• Rocky fissures within 1 mile of the dragon&apos;s lair form portals to the Elemental Plane of Fire, allowing creatures of elemental fire into the world to dwell nearby.
 
 If the dragon dies, these effects fade over the course of 1d10 days.</text>
     </legendary>
-    <description>Source:	Tasha's Cauldron of Everything</description>
+    <description>Source:	Tasha&apos;s Cauldron of Everything</description>
     <environment>mountain, hill</environment>
   </monster>
   <monster>
@@ -237,7 +238,7 @@ You can add your proficiency bonus to any ability check or saving throw that the
       <text>
 Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d8 + 2 slashing damage.</text>
     </action>
-    <description>Source:	Tasha's Cauldron of Everything</description>
+    <description>Source:	Tasha&apos;s Cauldron of Everything</description>
     <environment/>
   </monster>
   <monster>
@@ -282,9 +283,9 @@ You can add your proficiency bonus to any ability check or saving throw that the
     <action>
       <name>Binding Strike</name>
       <text>
-Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d6 + 2 + PB piercing damage or 1d6 + 2 + PB bludgeoning damage (your choice), and the target is grappled (escape DC equal to your spellcasting save DC). Until this grapple ends, the beast can't use this attack on another target.</text>
+Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d6 + 2 + PB piercing damage or 1d6 + 2 + PB bludgeoning damage (your choice), and the target is grappled (escape DC equal to your spellcasting save DC). Until this grapple ends, the beast can&apos;t use this attack on another target.</text>
     </action>
-    <description>Source:	Tasha's Cauldron of Everything</description>
+    <description>Source:	Tasha&apos;s Cauldron of Everything</description>
     <environment/>
   </monster>
   <monster>
@@ -319,7 +320,7 @@ Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target.
     <trait>
       <name>Flyby</name>
       <text>
-The beast doesn't provoke opportunity attacks when it flies out of an enemy's reach.</text>
+The beast doesn&apos;t provoke opportunity attacks when it flies out of an enemy&apos;s reach.</text>
     </trait>
     <trait>
       <name>Primal Bond</name>
@@ -331,7 +332,7 @@ You can add your proficiency bonus to any ability check or saving throw that the
       <text>
 Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d4 + 3 + PB slashing damage</text>
     </action>
-    <description>Source:	Tasha's Cauldron of Everything</description>
+    <description>Source:	Tasha&apos;s Cauldron of Everything</description>
     <environment/>
   </monster>
   <monster>
@@ -371,24 +372,24 @@ The beast can breathe only underwater.</text>
     <trait>
       <name>Flyby (Air Only)</name>
       <text>
-The beast doesn't provoke opportunity attacks when it flies out of an enemy's reach.</text>
+The beast doesn&apos;t provoke opportunity attacks when it flies out of an enemy&apos;s reach.</text>
     </trait>
     <trait>
       <name>Pack Tactics (Land and Water Only)</name>
       <text>
-The beast has advantage on an attack roll against a creature if at least one of the beast's allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
+The beast has advantage on an attack roll against a creature if at least one of the beast&apos;s allies is within 5 feet of the creature and the ally isn&apos;t incapacitated.</text>
     </trait>
     <action>
       <name>Multiattack</name>
       <text>
-The beast makes a number of attacks equal to half this spell's level (rounded down).</text>
+The beast makes a number of attacks equal to half this spell&apos;s level (rounded down).</text>
     </action>
     <action>
       <name>Maul</name>
       <text>
-Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d8 + 4 + the spell's level piercing damage.</text>
+Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d8 + 4 + the spell&apos;s level piercing damage.</text>
     </action>
-    <description>Source:	Tasha's Cauldron of Everything</description>
+    <description>Source:	Tasha&apos;s Cauldron of Everything</description>
     <environment/>
   </monster>
   <monster>
@@ -423,17 +424,17 @@ Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target.
     <action>
       <name>Multiattack</name>
       <text>
-The celestial makes a number of attacks equal to half this spell's level (rounded down).</text>
+The celestial makes a number of attacks equal to half this spell&apos;s level (rounded down).</text>
     </action>
     <action>
       <name>Radiant Bow (Avenger Only)</name>
       <text>
-Ranged Weapon Attack: your spell attack modifier to hit, range 150/600 ft., one target. Hit: 2d6 + 2 + the spell's level radiant damage.</text>
+Ranged Weapon Attack: your spell attack modifier to hit, range 150/600 ft., one target. Hit: 2d6 + 2 + the spell&apos;s level radiant damage.</text>
     </action>
     <action>
       <name>Radiant Mace (Defender Only)</name>
       <text>
-Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d10 + 3 + the spell's level radiant damage, and the celestial can choose itself or another creature it can see within 10 feet of the target.
+Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d10 + 3 + the spell&apos;s level radiant damage, and the celestial can choose itself or another creature it can see within 10 feet of the target.
 
 The chosen creature gains 1d10 temporary hit points.</text>
     </action>
@@ -441,9 +442,9 @@ The chosen creature gains 1d10 temporary hit points.</text>
       <name>Healing Touch (1/Day)</name>
       <recharge>1/Day</recharge>
       <text>
-The celestial touches another creature. The target magically regains hit points equal to 2d8 + the spell's level.</text>
+The celestial touches another creature. The target magically regains hit points equal to 2d8 + the spell&apos;s level.</text>
     </action>
-    <description>Source:	Tasha's Cauldron of Everything</description>
+    <description>Source:	Tasha&apos;s Cauldron of Everything</description>
     <environment/>
   </monster>
   <monster>
@@ -483,24 +484,24 @@ A creature that touches the construct or hits it with a melee attack while withi
     <trait>
       <name>Stony Lethargy (Stone Only)</name>
       <text>
-When a creature the construct can see starts its turn within 10 feet of the construct, the construct can force it to make a Wisdom saving throw against your spell save DC. On a failed save, the target can't use reactions and its speed is halved until the start of its next turn.</text>
+When a creature the construct can see starts its turn within 10 feet of the construct, the construct can force it to make a Wisdom saving throw against your spell save DC. On a failed save, the target can&apos;t use reactions and its speed is halved until the start of its next turn.</text>
     </trait>
     <action>
       <name>Multiattack</name>
       <text>
-The construct makes a number of attacks equal to half this spell's level (rounded down).</text>
+The construct makes a number of attacks equal to half this spell&apos;s level (rounded down).</text>
     </action>
     <action>
       <name>Slam</name>
       <text>
-Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d8 + 4 + the spell's level bludgeoning damage.</text>
+Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d8 + 4 + the spell&apos;s level bludgeoning damage.</text>
     </action>
     <reaction>
       <name>Berserk Lashing (Clay Only)</name>
       <text>
 When the construct takes damage, it makes a slam attack against a random creature within 5 feet of it. If no creature is within reach, the construct moves up to half its speed toward an enemy it can see, without provoking opportunity attacks.</text>
     </reaction>
-    <description>Source:	Tasha's Cauldron of Everything</description>
+    <description>Source:	Tasha&apos;s Cauldron of Everything</description>
     <environment/>
   </monster>
   <monster>
@@ -540,14 +541,14 @@ The item is immune to any spell or effect that would alter its form.</text>
     <trait>
       <name>Irrepressible Dance</name>
       <text>
-When any creature starts its turn within 10 feet of the item, the item can increase or decrease (your choice) the walking speed of that creature by 10 feet until the end of the turn, provided the item isn't incapacitated.</text>
+When any creature starts its turn within 10 feet of the item, the item can increase or decrease (your choice) the walking speed of that creature by 10 feet until the end of the turn, provided the item isn&apos;t incapacitated.</text>
     </trait>
     <action>
       <name>Force-Empowered Slam</name>
       <text>
 Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target you can see. 1d10 +, p. force damage.</text>
     </action>
-    <description>Source:	Tasha's Cauldron of Everything</description>
+    <description>Source:	Tasha&apos;s Cauldron of Everything</description>
     <environment/>
   </monster>
   <monster>
@@ -587,14 +588,14 @@ The elemental can move through a space as narrow as 1 inch wide without squeezin
     <action>
       <name>Multiattack</name>
       <text>
-The elemental makes a number of attacks equal to half this spell's level (rounded down).</text>
+The elemental makes a number of attacks equal to half this spell&apos;s level (rounded down).</text>
     </action>
     <action>
       <name>Slam</name>
       <text>
-Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d10 + 4 + the spell's level bludgeoning damage</text>
+Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d10 + 4 + the spell&apos;s level bludgeoning damage</text>
     </action>
-    <description>Source:	Tasha's Cauldron of Everything</description>
+    <description>Source:	Tasha&apos;s Cauldron of Everything</description>
     <environment/>
   </monster>
   <monster>
@@ -629,14 +630,14 @@ Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target.
     <action>
       <name>Multiattack</name>
       <text>
-The fey makes a number of attacks equal to half this spell's level (rounded down).</text>
+The fey makes a number of attacks equal to half this spell&apos;s level (rounded down).</text>
     </action>
     <action>
       <name>Shortsword</name>
       <text>
-Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d6 + 3 + the spell's level piercing damage + 1d6 force damage.</text>
+Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d6 + 3 + the spell&apos;s level piercing damage + 1d6 force damage.</text>
     </action>
-    <description>Source:	Tasha's Cauldron of Everything</description>
+    <description>Source:	Tasha&apos;s Cauldron of Everything</description>
     <environment/>
   </monster>
   <monster>
@@ -676,38 +677,38 @@ The fiend has advantage on saving throws against spells and other magical effect
     <trait>
       <name>Death Throes (Demon Only)</name>
       <text>
-When the fiend drops to 0 hit points or the spell ends, the fiend explodes, and each creature within 10 feet of it must make a Dexterity saving throw against your spell save DC. A creature takes 2d10 + this spell's level fire damage on a failed save, or half as much damage on a successful one.</text>
+When the fiend drops to 0 hit points or the spell ends, the fiend explodes, and each creature within 10 feet of it must make a Dexterity saving throw against your spell save DC. A creature takes 2d10 + this spell&apos;s level fire damage on a failed save, or half as much damage on a successful one.</text>
     </trait>
     <trait>
-      <name>Devil's Sight (Devil Only)</name>
+      <name>Devil&apos;s Sight (Devil Only)</name>
       <text>
-Magical darkness doesn't impede the fiend's darkvision.</text>
+Magical darkness doesn&apos;t impede the fiend&apos;s darkvision.</text>
     </trait>
     <action>
       <name>Multiattack</name>
       <text>
-The fiend makes a number of attacks equal to half this spell's level (rounded down).</text>
+The fiend makes a number of attacks equal to half this spell&apos;s level (rounded down).</text>
     </action>
     <action>
       <name>Bite (Demon Only)</name>
       <text>
-Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d12 + 3 + the spell's level necrotic damage.</text>
+Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d12 + 3 + the spell&apos;s level necrotic damage.</text>
     </action>
     <action>
       <name>Claws (Yugoloth Only)</name>
       <text>
-Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d8 + 3 + the spell's level slashing damage.
+Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d8 + 3 + the spell&apos;s level slashing damage.
 
 Immediately after the attack hits or misses, the fiend can magically teleport up to 30 feet to an unoccupied space it can see.</text>
     </action>
     <action>
       <name>Hurl Flame (Devil Only)</name>
       <text>
-Ranged Spell Attack: your spell attack modifier to hit, range 150 ft., one target. Hit: 2d6 + 3 + the spell's level fire damage.
+Ranged Spell Attack: your spell attack modifier to hit, range 150 ft., one target. Hit: 2d6 + 3 + the spell&apos;s level fire damage.
 
-If the target is a flammable object that isn't being worn or carried, it also catches fire.</text>
+If the target is a flammable object that isn&apos;t being worn or carried, it also catches fire.</text>
     </action>
-    <description>Source:	Tasha's Cauldron of Everything</description>
+    <description>Source:	Tasha&apos;s Cauldron of Everything</description>
     <environment/>
   </monster>
   <monster>
@@ -753,9 +754,9 @@ Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1 piercing damage 
     <action>
       <name>Shape-Shift</name>
       <text>
-The mimic polymorphs into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</text>
+The mimic polymorphs into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn&apos;t transformed. It reverts to its true form if it dies.</text>
     </action>
-    <description>Source:	Tasha's Cauldron of Everything</description>
+    <description>Source:	Tasha&apos;s Cauldron of Everything</description>
     <environment/>
   </monster>
   <monster>
@@ -775,7 +776,7 @@ The mimic polymorphs into an object or back into its true, amorphous form. Its s
     <save>Wis +9, Cha +7</save>
     <skill>Perception +9</skill>
     <passive>19</passive>
-    <languages>understands the languages of creatures attuned to it but can't speak</languages>
+    <languages>understands the languages of creatures attuned to it but can&apos;t speak</languages>
     <cr/>
     <resist>piercing, slashing</resist>
     <immune>acid, bludgeoning, cold, fire, lightning, necrotic, poison, psychic, radiant</immune>
@@ -795,17 +796,17 @@ The servant has advantage on saving throws against spells and other magical effe
     <trait>
       <name>Regeneration</name>
       <text>
-The servant regains 10 hit points at the start of its turn. If it is reduced to 0 hit points, this trait doesn't function until an attuned creature spends 24 hours repairing the artifact or until the artifact is subjected to lightning damage.</text>
+The servant regains 10 hit points at the start of its turn. If it is reduced to 0 hit points, this trait doesn&apos;t function until an attuned creature spends 24 hours repairing the artifact or until the artifact is subjected to lightning damage.</text>
     </trait>
     <trait>
       <name>Standing Leap</name>
       <text>
-The servant's long jump is up to 50 feet and its high jump is up to 25 feet, with or without a running start.</text>
+The servant&apos;s long jump is up to 50 feet and its high jump is up to 25 feet, with or without a running start.</text>
     </trait>
     <trait>
       <name>Unusual Nature</name>
       <text>
-The servant doesn't require air, food, drink, or sleep.</text>
+The servant doesn&apos;t require air, food, drink, or sleep.</text>
     </trait>
     <action>
       <name>Destructive Fist</name>
@@ -823,10 +824,10 @@ If the target is an object, it takes triple damage.</text>
     <action>
       <name>Crushing Leap</name>
       <text>
-If the servant jumps at least 25 feet as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures is pushed to an unoccupied space within 5 feet of the servant and must make a DC 25 Dexterity saving throw. On a failed save, a creature takes 26 (4d12) bludgeoning damage and is knocked prone. On a successful save, a creature takes half as much damage and isn't knocked prone.</text>
+If the servant jumps at least 25 feet as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures is pushed to an unoccupied space within 5 feet of the servant and must make a DC 25 Dexterity saving throw. On a failed save, a creature takes 26 (4d12) bludgeoning damage and is knocked prone. On a successful save, a creature takes half as much damage and isn&apos;t knocked prone.</text>
       <attack>Crushing Leap||4d12</attack>
     </action>
-    <description>Source:	Tasha's Cauldron of Everything</description>
+    <description>Source:	Tasha&apos;s Cauldron of Everything</description>
     <environment/>
   </monster>
   <monster>
@@ -871,13 +872,13 @@ While in sunlight, the reflection has disadvantage on attack rolls, ability chec
     <action>
       <name>Strength Drain</name>
       <text>
-Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4.
+Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) necrotic damage, and the target&apos;s Strength score is reduced by 1d4.
 
 The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.</text>
       <attack>Strength Drain|+4|2d6+2</attack>
       <text>If a non-evil humanoid dies from this attack, a new reflection rises from the corpse 1d4 hours later.</text>
     </action>
-    <description>Source:	Tasha's Cauldron of Everything</description>
+    <description>Source:	Tasha&apos;s Cauldron of Everything</description>
     <environment>underdark, urban</environment>
   </monster>
   <monster>
@@ -917,17 +918,17 @@ The spirit has advantage on attack rolls against frightened creatures.</text>
     <trait>
       <name>Weight of Sorrow (Despair Only)</name>
       <text>
-Any creature, other than you, that starts its turn within 5 feet of the spirit has its speed reduced by 20 feet until the start of that creature's next turn.</text>
+Any creature, other than you, that starts its turn within 5 feet of the spirit has its speed reduced by 20 feet until the start of that creature&apos;s next turn.</text>
     </trait>
     <action>
       <name>Multiattack</name>
       <text>
-The spirit makes a number of attacks equal to half this spell's level (rounded down).</text>
+The spirit makes a number of attacks equal to half this spell&apos;s level (rounded down).</text>
     </action>
     <action>
       <name>Chilling Rend</name>
       <text>
-Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d12 + 3 + the spell's level cold damage.</text>
+Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d12 + 3 + the spell&apos;s level cold damage.</text>
     </action>
     <action>
       <name>Dreadful Scream (1/Day)</name>
@@ -935,7 +936,7 @@ Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target.
       <text>
 The spirit screams: Each creature within 30 feet of it must succeed on a Wisdom saving throw against your spell save DC or be frightened for 1 minute. The frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
     </action>
-    <description>Source:	Tasha's Cauldron of Everything</description>
+    <description>Source:	Tasha&apos;s Cauldron of Everything</description>
     <environment/>
   </monster>
   <monster>
@@ -980,26 +981,26 @@ Any creature, other than you, that starts its turn within 5 feet of the spirit m
     <action>
       <name>Multiattack</name>
       <text>
-The spirit makes a number of attacks equal to half this spell's level (rounded down).</text>
+The spirit makes a number of attacks equal to half this spell&apos;s level (rounded down).</text>
     </action>
     <action>
       <name>Deathly Touch (Ghostly Only)</name>
       <text>
-Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d8 + 3 + the spell's level necrotic damage, and the creature must succeed on a Wisdom saving throw against your spell save DC or be frightened of the undead until the end of the target's next turn.</text>
+Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d8 + 3 + the spell&apos;s level necrotic damage, and the creature must succeed on a Wisdom saving throw against your spell save DC or be frightened of the undead until the end of the target&apos;s next turn.</text>
     </action>
     <action>
       <name>Grave Bolt (Skeletal Only)</name>
       <text>
-Ranged Spell Attack: your spell attack modifier to hit, range 150 ft., one target. Hit: 2d4 + 3 + the spell's level necrotic damage.</text>
+Ranged Spell Attack: your spell attack modifier to hit, range 150 ft., one target. Hit: 2d4 + 3 + the spell&apos;s level necrotic damage.</text>
     </action>
     <action>
       <name>Rotting Claw (Putrid Only)</name>
       <text>
-Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d6 + 3 + the spell's level slashing damage.
+Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d6 + 3 + the spell&apos;s level slashing damage.
 
 If the target is poisoned, it must succeed on a Constitution saving throw against your spell save DC be paralyzed until the end of its next turn.</text>
     </action>
-    <description>Source:	Tasha's Cauldron of Everything</description>
+    <description>Source:	Tasha&apos;s Cauldron of Everything</description>
     <environment/>
   </monster>
   <monster>
@@ -1051,7 +1052,7 @@ Ranged Weapon Attack: your spell attack modifier to hit, range 60 ft., one targe
       <text>
 The spirit and each willing creature of your choice within 5 feet of it teleport up to 15 feet to unoccupied spaces you can see. Then each creature within 5 feet of the space that the spirit left must succeed on a Dexterity saving throw against your spell save DC or take 1d6 +, p. fire damage.</text>
     </action>
-    <description>Source:	Tasha's Cauldron of Everything</description>
+    <description>Source:	Tasha&apos;s Cauldron of Everything</description>
     <environment/>
   </monster>
 </compendium>

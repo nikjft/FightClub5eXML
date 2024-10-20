@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <!--race>
     <name>Centaur (Theros)</name>
@@ -67,7 +68,7 @@ In addition, any climb that requires hands and feet is especially difficult for 
     <spellAbility/>
     <trait>
       <name>Description</name>
-      <text>The leonin guard the shining lands of Oreskos, a golden plain where even the gods rarely trespass. Prides of these nomadic, lion-like humanoids rarely interact with other peoples, having all they need in their shimmering homeland and knowing the treachery of strangers. Still, some leonin wonder what lies beyond Oreskos's border mountains and seek to test themselves in a wider world.
+      <text>The leonin guard the shining lands of Oreskos, a golden plain where even the gods rarely trespass. Prides of these nomadic, lion-like humanoids rarely interact with other peoples, having all they need in their shimmering homeland and knowing the treachery of strangers. Still, some leonin wonder what lies beyond Oreskos&apos;s border mountains and seek to test themselves in a wider world.
 
 Source:	Mythic Odysseys of Theros p. 20</text>
     </trait>
@@ -83,7 +84,7 @@ Source:	Mythic Odysseys of Theros p. 20</text>
       <name>Size</name>
       <text>Leonin are typically over 6 feet tall, with some standing over 7 feet. Your size is Medium.
 
-Here's how to determine your height and weight randomly, starting with rolling a size modifier:
+Here&apos;s how to determine your height and weight randomly, starting with rolling a size modifier:
 
 Size modifier = 2d10
 Height= 5 feet + 6 inches + your size modifier in inches
@@ -91,19 +92,19 @@ Weight in pounds = 180 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Claws</name>
       <text>Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you can deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.</text>
     </trait>
     <trait>
-      <name>Hunter's Instincts</name>
+      <name>Hunter&apos;s Instincts</name>
       <text>You have proficiency in one of the following skills of your choice: Athletics, Intimidation, Perception, or Survival.</text>
     </trait>
     <trait>
       <name>Daunting Roar</name>
-      <text>As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn. The DC of the save equals 8 + your proficiency bonus + your Constitution modifier. Once you use this trait, you can't use it again until you finish a short or long rest.</text>
+      <text>As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn. The DC of the save equals 8 + your proficiency bonus + your Constitution modifier. Once you use this trait, you can&apos;t use it again until you finish a short or long rest.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -135,7 +136,7 @@ Source:	Mythic Odysseys of Theros p. 22</text>
       <name>Size</name>
       <text>Minotaurs average over 6 feet in height, and they have stocky builds. Your size is Medium.
 
-Here's how to determine your height and weight randomly, starting with rolling a size modifier:
+Here&apos;s how to determine your height and weight randomly, starting with rolling a size modifier:
 
 Size modifier = 2d8
 Height = 5 feet + 4 inches + your size modifier in inches
@@ -187,7 +188,7 @@ Source:	Mythic Odysseys of Theros p. 24</text>
       <name>Size</name>
       <text>Satyrs range from just under 5 feet to about 6 feet in height, with generally slender builds. Your size is Medium.
 
-Here's how to determine your height and weight randomly, starting with rolling a size modifier:
+Here&apos;s how to determine your height and weight randomly, starting with rolling a size modifier:
 
 Size modifier = 2d8
 Height = 4 feet + 8 inches + your size modifier in inches
@@ -237,7 +238,7 @@ Source:	Mythic Odysseys of Theros p. 26</text>
     </trait>
     <trait>
       <name>Alignment</name>
-      <text>Tritons tend toward neutrality. Their culture encourages them to be mindful of life's currents, knowing when to harness fate's tides and when to flow along with them.</text>
+      <text>Tritons tend toward neutrality. Their culture encourages them to be mindful of life&apos;s currents, knowing when to harness fate&apos;s tides and when to flow along with them.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -253,11 +254,11 @@ Source:	Mythic Odysseys of Theros p. 26</text>
     </trait>
     <trait>
       <name>Control Air and Water</name>
-      <text>A child of the sea, you can call on the magic of elemental air and water. You can cast fog cloud with this trait. Starting at 3rd level, you can cast gust of wind with it, and starting at 5th level, you can also cast wall of water with it. Once you cast a spell with this trait, you can't cast that spell with it again until you finish a long rest. Charisma is your spellcasting ability for these spells.</text>
+      <text>A child of the sea, you can call on the magic of elemental air and water. You can cast fog cloud with this trait. Starting at 3rd level, you can cast gust of wind with it, and starting at 5th level, you can also cast wall of water with it. Once you cast a spell with this trait, you can&apos;t cast that spell with it again until you finish a long rest. Charisma is your spellcasting ability for these spells.</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Emissary of the Sea</name>

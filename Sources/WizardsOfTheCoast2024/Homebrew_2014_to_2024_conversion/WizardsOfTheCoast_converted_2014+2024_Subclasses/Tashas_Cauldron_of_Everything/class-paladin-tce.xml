@@ -71,7 +71,7 @@ Source:	Tasha's Cauldron of Everything p. 54</text>
     <autolevel level="7">
       <feature optional="YES">
         <name>Oath of the Watchers: Aura of the Sentinel [2014]</name>
-        <text>You emit an aura of alertness while you aren't incapacitated. When you and any creatures of your choice within 10 feet of you roll initiative, you all gain a bonus to initiative equal to your proficiency bonus.
+        <text>You emit an aura of alertness while you aren&apos;t incapacitated. When you and any creatures of your choice within 10 feet of you roll initiative, you all gain a bonus to initiative equal to your proficiency bonus.
 
 At 18th level, the range of this aura increases to 30 feet.
 
@@ -82,7 +82,7 @@ Source:	Tasha's Cauldron of Everything p. 54</text>
     <autolevel level="15">
       <feature optional="YES">
         <name>Oath of the Watchers: Vigilant Rebuke [2014]</name>
-        <text>You've learned how to chastise anyone who dares wield beguilements against you and your wards. Whenever you or a creature you can see within 30 feet of you succeeds on an Intelligence, a Wisdom, or a Charisma saving throw, you can use your reaction to deal 2d8 + your Charisma modifier force damage to the creature that forced the saving throw.
+        <text>You&apos;ve learned how to chastise anyone who dares wield beguilements against you and your wards. Whenever you or a creature you can see within 30 feet of you succeeds on an Intelligence, a Wisdom, or a Charisma saving throw, you can use your reaction to deal 2d8 + your Charisma modifier force damage to the creature that forced the saving throw.
 
 Source:	Tasha's Cauldron of Everything p. 54</text>
       </feature>

@@ -5,7 +5,7 @@
     <autolevel level="3">
       <feature optional="YES">
         <name>Monastic Tradition: Way of the Drunken Master (UA)</name>
-        <text>The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant but proves frustrating to engage. The drunken master's erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats. Cunning warriors can see through the drunken master's apparent incompetence to recognize the masterful technique employed.
+        <text>The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant but proves frustrating to engage. The drunken master&apos;s erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats. Cunning warriors can see through the drunken master&apos;s apparent incompetence to recognize the masterful technique employed.
 
 Source:	Unearthed Arcana: A Trio Of Subclasses p. 1</text>
       </feature>
@@ -14,7 +14,7 @@ Source:	Unearthed Arcana: A Trio Of Subclasses p. 1</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Way of the Drunken Master (UA): Drunken Technique</name>
-        <text>When you choose this tradition at 3rd level, you gain proficiency in the Performance skill if you don't already have it; your martial arts technique mixes martial training with the precision of a dancer and the antics of a jester.
+        <text>When you choose this tradition at 3rd level, you gain proficiency in the Performance skill if you don&apos;t already have it; your martial arts technique mixes martial training with the precision of a dancer and the antics of a jester.
 
 You also learn how to twist and turn quickly as part of your Flurry of Blows. Whenever you use Flurry of Blows, you gain the benefit of the Disengage action, and your walking speed increases by 10 feet until the end of the current turn.
 
@@ -35,7 +35,7 @@ Source:	Unearthed Arcana: A Trio Of Subclasses p. 1</text>
 
     <autolevel level="11">
       <feature optional="YES">
-        <name>Way of the Drunken Master (UA): Drunkard's Luck</name>
+        <name>Way of the Drunken Master (UA): Drunkard&apos;s Luck</name>
         <text>Starting at 11th level, you always seem to get a lucky bounce at just the right moment to save you from doom. When you make a saving throw, you can spend 1 ki point to give yourself advantage on that roll. You must decide to use this feature before rolling.
 
 Source:	Unearthed Arcana: A Trio Of Subclasses p. 1</text>

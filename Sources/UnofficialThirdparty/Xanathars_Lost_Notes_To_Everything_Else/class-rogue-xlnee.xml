@@ -5,7 +5,7 @@
     <autolevel level="3">
       <feature optional="YES">
         <name>Roguish Archetype: Divine Herald (HB)</name>
-        <text>Your strict upbringing made you an unwavering and swift agent of divine retribution. You don't simply exist to serve the priests of your order, you have a higher purpose and calling-to alleviate the world of false prophets and heretics.
+        <text>Your strict upbringing made you an unwavering and swift agent of divine retribution. You don&apos;t simply exist to serve the priests of your order, you have a higher purpose and calling-to alleviate the world of false prophets and heretics.
 
 Source:	Xanathar's Lost Notes to Everything Else p. 30 (Homebrew)</text>
       </feature>
@@ -87,7 +87,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 31 (Homebrew)</text>
     <autolevel level="13">
       <feature optional="YES">
         <name>Divine Herald (HB): Crosier of Penance</name>
-        <text>At 13th level, the fire of your faith cannot be extinguished. When you are reduced to 0 hit points and don't die outright, you can make a DC 10 Wisdom saving throw. If you succeed, you can immediately roll any number of Hit Dice and regain hit points equal to the result.
+        <text>At 13th level, the fire of your faith cannot be extinguished. When you are reduced to 0 hit points and don&apos;t die outright, you can make a DC 10 Wisdom saving throw. If you succeed, you can immediately roll any number of Hit Dice and regain hit points equal to the result.
 
 After the saving throw succeeds, you can't cast a spell or use this feature again until you finish a long rest.
 

@@ -21,7 +21,7 @@
     <cr/>
     <exp/>
     <resist>Necrotic, Radiant</resist>
-    <immune>patron's damage type</immune>
+    <immune>patron&apos;s damage type</immune>
     <vulnerable/>
     <conditionImmune>Charmed, Frightened, Paralyzed, Petrified, Stunned</conditionImmune>
     <senses>blindsight 30 ft., darkvision 120 ft.</senses>
@@ -54,7 +54,7 @@ The draconic avatar has a damage type that affects its breath weapon, bite attac
       <text>
 Melee Weapon Attack: 4 + PB to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage plus (2d6 + PB) damage of your patron's damage type.</text>
       <attack>Bite|+4|2d10+4</attack>
-      <attack>Patron's Damage Type||2d6</attack>
+      <attack>Patron&apos;s Damage Type||2d6</attack>
     </action>
     <action>
       <name>Claw</name>
@@ -71,7 +71,7 @@ The draconic avatar exhales a powerful blast of its damage type. If the damage t
     </action>
     <spells/>
     <slots/>
-    <description>Source:	Tasha's Crucible of Everything Else, Volume 2 p. 39 (Homebrew)</description>
+    <description>Source:	Tasha&apos;s Crucible of Everything Else, Volume 2 p. 39 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
@@ -91,7 +91,7 @@ The draconic avatar exhales a powerful blast of its damage type. If the damage t
     <save/>
     <skill>Stealth +1</skill>
     <passive>11</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr/>
     <exp/>
     <resist/>
@@ -242,7 +242,7 @@ Ranged Weapon Attack: +2 to hit, range 20/60 ft., one target. Hit: 5 (2d4) bludg
     </action>
     <spells/>
     <slots/>
-    <description>Source:	Tasha's Crucible of Everything Else, Volume 2 p. 58 (Homebrew)</description>
+    <description>Source:	Tasha&apos;s Crucible of Everything Else, Volume 2 p. 58 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
@@ -262,7 +262,7 @@ Ranged Weapon Attack: +2 to hit, range 20/60 ft., one target. Hit: 5 (2d4) bludg
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands Common but can't speak</languages>
+    <languages>understands Common but can&apos;t speak</languages>
     <cr>11</cr>
     <exp>7200</exp>
     <resist>bludgeoning, piercing, and slashing</resist>
@@ -308,7 +308,7 @@ Melee Weapon Attack: +4 to hit, reach 0 ft., one target in the swarm's space. Hi
     </action>
     <spells/>
     <slots/>
-    <description>Source:	Tasha's Crucible of Everything Else, Volume 2 p. 59 (Homebrew)</description>
+    <description>Source:	Tasha&apos;s Crucible of Everything Else, Volume 2 p. 59 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
@@ -369,7 +369,7 @@ Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's space. Hi
     </action>
     <spells/>
     <slots/>
-    <description>Source:	Tasha's Crucible of Everything Else, Volume 2 p. 60 (Homebrew)</description>
+    <description>Source:	Tasha&apos;s Crucible of Everything Else, Volume 2 p. 60 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
@@ -441,7 +441,7 @@ Ranged Weapon Attack: +8 to hit, range 150/600 ft., one target. Hit: 18 (4d8) pi
     </action>
     <spells/>
     <slots/>
-    <description>Source:	Tasha's Crucible of Everything Else, Volume 2 p. 60 (Homebrew)</description>
+    <description>Source:	Tasha&apos;s Crucible of Everything Else, Volume 2 p. 60 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
@@ -504,7 +504,7 @@ Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 7 (2d6) pier
     </action>
     <spells/>
     <slots/>
-    <description>Source:	Tasha's Crucible of Everything Else, Volume 2 p. 61 (Homebrew)</description>
+    <description>Source:	Tasha&apos;s Crucible of Everything Else, Volume 2 p. 61 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
@@ -577,7 +577,7 @@ The swarm engulfs a creature within its space, which must succeed on a DC 13 Str
     </action>
     <spells/>
     <slots/>
-    <description>Source:	Tasha's Crucible of Everything Else, Volume 2 p. 62 (Homebrew)</description>
+    <description>Source:	Tasha&apos;s Crucible of Everything Else, Volume 2 p. 62 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
@@ -597,7 +597,7 @@ The swarm engulfs a creature within its space, which must succeed on a DC 13 Str
     <save/>
     <skill/>
     <passive>9</passive>
-    <languages>understands Common but can't speak</languages>
+    <languages>understands Common but can&apos;t speak</languages>
     <cr>6</cr>
     <exp>2300</exp>
     <resist>Piercing and Slashing</resist>
@@ -640,7 +640,7 @@ Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 15 (4d6) pie
     </action>
     <spells/>
     <slots/>
-    <description>Source:	Tasha's Crucible of Everything Else, Volume 2 p. 62 (Homebrew)</description>
+    <description>Source:	Tasha&apos;s Crucible of Everything Else, Volume 2 p. 62 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
@@ -718,7 +718,7 @@ The swarm attempts to grab a creature within its space. The target must succeed 
     </action>
     <spells/>
     <slots/>
-    <description>Source:	Tasha's Crucible of Everything Else, Volume 2 p. 63 (Homebrew)</description>
+    <description>Source:	Tasha&apos;s Crucible of Everything Else, Volume 2 p. 63 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
@@ -772,7 +772,7 @@ The swarm can detach itself by spending 5 feet of its movement. It does so after
     </action>
     <spells/>
     <slots/>
-    <description>Source:	Tasha's Crucible of Everything Else, Volume 2 p. 63 (Homebrew)</description>
+    <description>Source:	Tasha&apos;s Crucible of Everything Else, Volume 2 p. 63 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
@@ -828,7 +828,7 @@ Melee Weapon Attack: +6 to hit, reach 0 ft., one target in the swarm's space. Hi
     </action>
     <spells/>
     <slots/>
-    <description>Source:	Tasha's Crucible of Everything Else, Volume 2 p. 65 (Homebrew)</description>
+    <description>Source:	Tasha&apos;s Crucible of Everything Else, Volume 2 p. 65 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
@@ -848,7 +848,7 @@ Melee Weapon Attack: +6 to hit, reach 0 ft., one target in the swarm's space. Hi
     <save>Wis +1</save>
     <skill/>
     <passive>8</passive>
-    <languages>understands Common but can't speak</languages>
+    <languages>understands Common but can&apos;t speak</languages>
     <cr>5</cr>
     <exp>1800</exp>
     <resist>bludgeoning, piercing, and slashing 
@@ -886,7 +886,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 21 (6d6) bludgeoni
     </action>
     <spells/>
     <slots/>
-    <description>Source:	Tasha's Crucible of Everything Else, Volume 2 p. 65 (Homebrew)</description>
+    <description>Source:	Tasha&apos;s Crucible of Everything Else, Volume 2 p. 65 (Homebrew)</description>
     <environment/>
   </monster>
 </compendium>

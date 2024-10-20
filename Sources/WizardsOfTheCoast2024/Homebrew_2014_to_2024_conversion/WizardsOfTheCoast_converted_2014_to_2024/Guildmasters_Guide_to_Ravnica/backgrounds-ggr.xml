@@ -5,7 +5,7 @@
     <proficiency>Insight, Intimidation</proficiency>
     <trait>
       <name>Description</name>
-      <text>The brutes are at the gate, chaos is looming, and the only thing standing in the way of disaster is the foundation of law and order—as embodied in the Azorius Senate. You're a proud member of the Azorius guild, which both enacts and enforces the laws that make Ravnican society function smoothly and safely.
+      <text>The brutes are at the gate, chaos is looming, and the only thing standing in the way of disaster is the foundation of law and order—as embodied in the Azorius Senate. You&apos;re a proud member of the Azorius guild, which both enacts and enforces the laws that make Ravnican society function smoothly and safely.
 
 	• Skill Proficiencies: Insight, Intimidation
 	• Languages: Two of your choice
@@ -15,7 +15,7 @@ Source:	Guildmasters' Guide to Ravnica p. 33</text>
     </trait>
     <trait>
       <name>Feature: Legal Authority</name>
-      <text>You have the authority to enforce the laws of Ravnica, and that status inspires a certain amount of respect and even fear in the populace. People mind their manners in your presence and avoid drawing your attention; they assume you have the right to be wherever you are. Showing your Azorius insignia gets you an audience with anyone you want to talk to (though it might cause more problems than it solves when you're dealing with incorrigible lawbreakers). If you abuse this privilege, though, you can get in serious trouble with your superiors and even be stripped of your position.</text>
+      <text>You have the authority to enforce the laws of Ravnica, and that status inspires a certain amount of respect and even fear in the populace. People mind their manners in your presence and avoid drawing your attention; they assume you have the right to be wherever you are. Showing your Azorius insignia gets you an audience with anyone you want to talk to (though it might cause more problems than it solves when you&apos;re dealing with incorrigible lawbreakers). If you abuse this privilege, though, you can get in serious trouble with your superiors and even be stripped of your position.</text>
     </trait>
     <trait>
       <name>Azorius Guild Spells</name>
@@ -73,7 +73,7 @@ d6 | Flaw
     </trait>
     <trait>
       <name>Contacts</name>
-      <text>The Azorius Senate is a sprawling bureaucracy, and people in a variety of positions throughout the guild can pull strings to make things happen. Because of the guild's role in making and enforcing laws for the entire city, your place in the Azorius can easily bring you into contact with members of other guilds, for good or ill.
+      <text>The Azorius Senate is a sprawling bureaucracy, and people in a variety of positions throughout the guild can pull strings to make things happen. Because of the guild&apos;s role in making and enforcing laws for the entire city, your place in the Azorius can easily bring you into contact with members of other guilds, for good or ill.
 
 Roll twice on the Azorius Contacts table (for an ally and a rival) and once on the Non-Azorius Contacts table.
 
@@ -103,7 +103,7 @@ d10 | Contact
     </trait>
     <trait>
       <name>How Do I Fit In?</name>
-      <text>As a member of the Azorius Senate, you are probably engaged in the work of law enforcement (even if your background involved the legislative or judicial aspects of the senate's activities). Legislative aides and judges' clerks find little reason to venture beyond the Azorius guildhalls, but soldiers and lawmages patrol the streets daily.
+      <text>As a member of the Azorius Senate, you are probably engaged in the work of law enforcement (even if your background involved the legislative or judicial aspects of the senate&apos;s activities). Legislative aides and judges&apos; clerks find little reason to venture beyond the Azorius guildhalls, but soldiers and lawmages patrol the streets daily.
 
 An Azorius soldier or lawmage is a force for order, charged with fighting crime on the streets—and in the halls of power. You might spend your time foiling thefts, putting a stop to Orzhov extortion, rooting out Dimir spies, or hunting down Golgari assassins. Perhaps you take your orders from a precognitive mage (or you are one yourself) who receives unpredictable and cryptic visions of future crimes that you and your allies must try to prevent.</text>
     </trait>
@@ -113,7 +113,7 @@ An Azorius soldier or lawmage is a force for order, charged with fighting crime 
     <proficiency>Athletics, Intimidation</proficiency>
     <trait>
       <name>Description</name>
-      <text>As a member of the Boros Legion, your life is devoted to the service of angels and consecrated to the work of establishing justice and peace on the streets of Ravnica. You might be a true believer, inspired by the example of the angels, moved by the plight of the downtrodden, and devoted to the cause of justice. Or you could be a cynic in the ranks, perhaps because you reluctantly followed in the footsteps of a Boros parent, succumbed to the persuasion of a charismatic recruiter's lofty promises, or were drawn in by the prospect of a life of action.
+      <text>As a member of the Boros Legion, your life is devoted to the service of angels and consecrated to the work of establishing justice and peace on the streets of Ravnica. You might be a true believer, inspired by the example of the angels, moved by the plight of the downtrodden, and devoted to the cause of justice. Or you could be a cynic in the ranks, perhaps because you reluctantly followed in the footsteps of a Boros parent, succumbed to the persuasion of a charismatic recruiter&apos;s lofty promises, or were drawn in by the prospect of a life of action.
 
 	• Skill Proficiencies: Athletics, Intimidation
 	• Tool Proficiencies: One type of gaming set
@@ -174,13 +174,13 @@ d10 | Contact
     </trait>
     <trait>
       <name>How Do I Fit In?</name>
-      <text>As a member of the Boros Legion, you are subject to the orders of your superior officers. You go where the angels tell you to go, and you do what they command you to do, to the best of your ability. If you enjoy some measure of independence, it's either because you have proven yourself capable of working without close supervision or because you're a rebellious sort who is willing to disobey orders now and face the consequences later.
+      <text>As a member of the Boros Legion, you are subject to the orders of your superior officers. You go where the angels tell you to go, and you do what they command you to do, to the best of your ability. If you enjoy some measure of independence, it&apos;s either because you have proven yourself capable of working without close supervision or because you&apos;re a rebellious sort who is willing to disobey orders now and face the consequences later.
 
 As a soldier on the street, you are tasked with bringing dangerous threats like the Rakdos and the Gruul in line. You might contend with Rakdos performances gone horribly out of control, Gruul raids on outlying neighborhoods, shipments of rot-infested vegetation from the Golgari undercity, and violent uprisings among the guildless. At the same time, you might have to worry about Dimir spies infiltrating your leadership, overzealous or corrupt Azorius senators abusing the law at the expense of justice, Izzet experiments leveling city blocks, and Simic creations that break out of laboratories and wreak havoc through the Tenth District.</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>The Boros Legion is a zealous army, full of righteous energy tempered with military discipline. Its members share its leadership's devotion to the ideals of justice, or they find satisfaction in the more warfare-oriented aspects of the legion's work.
+      <text>The Boros Legion is a zealous army, full of righteous energy tempered with military discipline. Its members share its leadership&apos;s devotion to the ideals of justice, or they find satisfaction in the more warfare-oriented aspects of the legion&apos;s work.
 
 d8 | Personality Trait
 1 | I approach every task with the same high degree of military precision.
@@ -222,7 +222,7 @@ d6 | Flaw
     <proficiency>Deception, Stealth</proficiency>
     <trait>
       <name>Description</name>
-      <text>You're a spy. Secrets and misinformation are your stock in trade. You skulk in the shadows, infiltrate other guilds, and steal the most precious secrets, whether they're written in locked journals or hidden away in someone's mind. Even you might not be aware of all the reasons behind the missions you carry out. Sometimes a mission's sole purpose is to conceal the motivation behind another strike performed in a different part of the city, or simply to spread fear.
+      <text>You're a spy. Secrets and misinformation are your stock in trade. You skulk in the shadows, infiltrate other guilds, and steal the most precious secrets, whether they're written in locked journals or hidden away in someone&apos;s mind. Even you might not be aware of all the reasons behind the missions you carry out. Sometimes a mission&apos;s sole purpose is to conceal the motivation behind another strike performed in a different part of the city, or simply to spread fear.
 
 As part of your covert work for House Dimir, you maintain a false identity as a member of another guild. You can choose your secondary guild or roll to determine it randomly. This secondary guild membership determines a portion of your starting equipment and is also where most of your contacts come from. You infiltrate your secondary guild to learn its secrets, keep tabs on its activities, or perhaps undermine it from within.
 
@@ -286,7 +286,7 @@ d8 | Contact
     </trait>
     <trait>
       <name>How Do I Fit In?</name>
-      <text>As a Dimir adventurer, you are a member of the guild's network of spies, thieves, assassins, and mind mages that lurks behind the facade of the public guild. On the surface, House Dimir presents the appearance of a network of couriers, investigators, media reporters, and archivists, dealing in information and spreading news. But you and your peers trade in secrets. You use secret symbols, runes, and signals to surreptitiously communicate with other Dimir agents, often in plain sight.
+      <text>As a Dimir adventurer, you are a member of the guild&apos;s network of spies, thieves, assassins, and mind mages that lurks behind the facade of the public guild. On the surface, House Dimir presents the appearance of a network of couriers, investigators, media reporters, and archivists, dealing in information and spreading news. But you and your peers trade in secrets. You use secret symbols, runes, and signals to surreptitiously communicate with other Dimir agents, often in plain sight.
 
 Like any good spy, you have multiple identities: your true face as an agent of House Dimir; a guildless identity; and a role as a member of another guild. Within that secondary guild, you might already be on a mission for House Dimir, assigned to spy on the guild, collect information about a person, or recruit another spy from the ranks of the guild. Or that guild could be a launching point for your real mission. Perhaps, for example, you were ordered to infiltrate the Azorius in hopes of gaining access to a notorious inmate in an Azorius prison.</text>
     </trait>
@@ -345,7 +345,7 @@ Source:	Guildmasters' Guide to Ravnica p. 53</text>
     </trait>
     <trait>
       <name>Feature: Undercity Paths</name>
-      <text>You know hidden, underground pathways that you can use to bypass crowds, obstacles, and observation as you move through the city. When you aren't in combat, you and companions you lead can travel between any two locations in the city twice as fast as your speed would normally allow. The paths of the undercity are haunted by dangers that rarely brave the light of the surface world, so your journey isn't guaranteed to be safe.</text>
+      <text>You know hidden, underground pathways that you can use to bypass crowds, obstacles, and observation as you move through the city. When you aren&apos;t in combat, you and companions you lead can travel between any two locations in the city twice as fast as your speed would normally allow. The paths of the undercity are haunted by dangers that rarely brave the light of the surface world, so your journey isn&apos;t guaranteed to be safe.</text>
     </trait>
     <trait>
       <name>Golgari Guild Spells</name>
@@ -395,7 +395,7 @@ d10 | Contact
     </trait>
     <trait>
       <name>How Do I Fit In?</name>
-      <text>As part of the Golgari Swarm, you are a specialized instrument of the greater body. Your orders, when you have such, come from the guildmaster by way of his chancellors, who carry his messages throughout the guild. The swarm relies on you to advance the greater good by protecting some part, however small, of its teeming existence. That responsibility doesn't mean you're indispensable; your eventual death is part of your purpose and function, too, and you'll be replaced even as your body provides nutrients to further the swarm's growth.
+      <text>As part of the Golgari Swarm, you are a specialized instrument of the greater body. Your orders, when you have such, come from the guildmaster by way of his chancellors, who carry his messages throughout the guild. The swarm relies on you to advance the greater good by protecting some part, however small, of its teeming existence. That responsibility doesn't mean you're indispensable; your eventual death is part of your purpose and function, too, and you&apos;ll be replaced even as your body provides nutrients to further the swarm&apos;s growth.
 
 A classic adventuring role for a member of the Golgari involves crawling through dungeon-like environments—the sewers and ancient vaults of the undercity—in search of treasures left behind by the dead. Sometimes you might be sent to find a specific item believed lost in a dangerous part of the undercity. At other times, you could be asked to collect samples of a specific fungus, retrieve a body floating in the muck of the sewers, or bring back whatever booty you can to help fill the swarm's coffers.
 
@@ -405,7 +405,7 @@ The shamans of the Golgari use their magic to accelerate the cycle of decay and 
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>Members of the Golgari Swarm are unmistakably products of the undercity, ill at ease amid the comforts of civilization. They bring about the same discomfort in others by reminding them of death's inevitable approach.
+      <text>Members of the Golgari Swarm are unmistakably products of the undercity, ill at ease amid the comforts of civilization. They bring about the same discomfort in others by reminding them of death&apos;s inevitable approach.
 
 d8 | Personality Trait
 1 | Remember, I could kill you in your sleep. Or put centipedes in your bedroll.
@@ -447,7 +447,7 @@ d6 | Flaw
     <proficiency>Animal Handling, Athletics</proficiency>
     <trait>
       <name>Description</name>
-      <text>The entire world of Ravnica is a sprawling metropolis, but you are a native of the wild areas that still exist—the abandoned districts, the rubblebelts, the overgrown parks, and the crumbling ruins. You are part of a savage society that clings desperately to the Old Ways—attuned to nature, full of primal rage, and given short shrift by a world consumed with continuing civilization's march of progress.
+      <text>The entire world of Ravnica is a sprawling metropolis, but you are a native of the wild areas that still exist—the abandoned districts, the rubblebelts, the overgrown parks, and the crumbling ruins. You are part of a savage society that clings desperately to the Old Ways—attuned to nature, full of primal rage, and given short shrift by a world consumed with continuing civilization&apos;s march of progress.
 
 	• Skill Proficiencies: Animal Handling, Athletics
 	• Tool Proficiencies: Herbalism kit
@@ -516,7 +516,7 @@ Sometimes your objective might be more esoteric. With prophecies of the return o
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>Gruul ways aren't the ways of civilized folk, and the Gruul have little patience for social niceties. But they do have cherished traditions and values, just as important to them as the different values held by the urban, cosmopolitan culture of Ravnica.
+      <text>Gruul ways aren&apos;t the ways of civilized folk, and the Gruul have little patience for social niceties. But they do have cherished traditions and values, just as important to them as the different values held by the urban, cosmopolitan culture of Ravnica.
 
 d8 | Personality Trait
 1 | Unlike people, the beasts of the wild are friends who won't stab me in the back.
@@ -558,7 +558,7 @@ d6 | Flaw
     <proficiency>Arcana, Investigation</proficiency>
     <trait>
       <name>Description</name>
-      <text>Armed with an inventive intellect, a love of magical technology, and an unquenchable energy, you are an enthusiastic participant in the research work of the Izzet League. Though you're likely to begin your career as a mere attendant, you can aspire to become a skilled mage or alchemist, a laboratory supervisor, or even a flamethrower-wielding scorchbringer tasked with defending Izzet laboratories. The Izzet are obsessive, brilliant, inspired, and an unpredictable force of chaos in Ravnica, and you epitomize all of those qualities.
+      <text>Armed with an inventive intellect, a love of magical technology, and an unquenchable energy, you are an enthusiastic participant in the research work of the Izzet League. Though you&apos;re likely to begin your career as a mere attendant, you can aspire to become a skilled mage or alchemist, a laboratory supervisor, or even a flamethrower-wielding scorchbringer tasked with defending Izzet laboratories. The Izzet are obsessive, brilliant, inspired, and an unpredictable force of chaos in Ravnica, and you epitomize all of those qualities.
 
 	• Skill Proficiencies: Arcana, Investigation
 	• Tool Proficiencies: One type of artisan's tools
@@ -595,7 +595,7 @@ The chaos bolt spell is a favorite of Izzet spellcasters because of its unpredic
     </trait>
     <trait>
       <name>Contacts</name>
-      <text>The laboratories of the Izzet League are constantly starting up new projects and dissolving old ones, so it's easy for even the lowliest attendant to make friends (and enemies) in laboratories across Ravnica.
+      <text>The laboratories of the Izzet League are constantly starting up new projects and dissolving old ones, so it&apos;s easy for even the lowliest attendant to make friends (and enemies) in laboratories across Ravnica.
 
 Roll twice on the Izzet Contacts table (for an ally and a rival) and once on the Non-Izzet Contacts table.
 
@@ -625,7 +625,7 @@ d10 | Contact
     </trait>
     <trait>
       <name>How Do I Fit In?</name>
-      <text>Whatever your role in the Izzet League, you are expected to contribute to its research in some way. That contribution might involve participating in tests, whether as an assistant, a researcher, or a subject. You might be one of the soldiers who protects a laboratory, or a laborer responsible for lifting heavy pieces of equipment into place. Everyone's contribution matters, even if the Izzet know that some matter more than others.</text>
+      <text>Whatever your role in the Izzet League, you are expected to contribute to its research in some way. That contribution might involve participating in tests, whether as an assistant, a researcher, or a subject. You might be one of the soldiers who protects a laboratory, or a laborer responsible for lifting heavy pieces of equipment into place. Everyone&apos;s contribution matters, even if the Izzet know that some matter more than others.</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
@@ -671,7 +671,7 @@ d6 | Flaw
     <proficiency>Intimidation, Religion</proficiency>
     <trait>
       <name>Description</name>
-      <text>The prospect of immense wealth is the promise of membership in the Orzhov Syndicate. All of the guild's endeavors channel wealth from Ravnican society into the ranks of the Orzhov—and concentrates the spoils at the top of the hierarchy. As a functionary in that system, your best hope is to claim as much as possible of the money that passes through your hands on its way up, so that you can work your way into a more prominent position.
+      <text>The prospect of immense wealth is the promise of membership in the Orzhov Syndicate. All of the guild&apos;s endeavors channel wealth from Ravnican society into the ranks of the Orzhov—and concentrates the spoils at the top of the hierarchy. As a functionary in that system, your best hope is to claim as much as possible of the money that passes through your hands on its way up, so that you can work your way into a more prominent position.
 
 Regardless of your past and the wealth of your family, your initial status with the guild is near the bottom, until you have proven your value.
 
@@ -683,7 +683,7 @@ Source:	Guildmasters' Guide to Ravnica p. 72</text>
     </trait>
     <trait>
       <name>Feature: Leverage</name>
-      <text>You can exert leverage over one or more individuals below you in the guild's hierarchy and demand their help as needs warrant. For example, you can have a message carried across a neighborhood, procure a short carriage ride without paying, or have others clean up a bloody mess you left in an alley. The DM decides if your demands are reasonable and if there are subordinates available to fulfill them. As your status in the guild improves, you gain influence over more people, including ones in greater positions of power.</text>
+      <text>You can exert leverage over one or more individuals below you in the guild&apos;s hierarchy and demand their help as needs warrant. For example, you can have a message carried across a neighborhood, procure a short carriage ride without paying, or have others clean up a bloody mess you left in an alley. The DM decides if your demands are reasonable and if there are subordinates available to fulfill them. As your status in the guild improves, you gain influence over more people, including ones in greater positions of power.</text>
     </trait>
     <trait>
       <name>Orzhov Guild Spells</name>
@@ -703,7 +703,7 @@ Your magic tends to manifest as swirling shadows, brilliant light, or sometimes 
     </trait>
     <trait>
       <name>Contacts</name>
-      <text>The Orzhov Syndicate operates according to a strict hierarchy built on a network of connections among old, wealthy families. Your family might provide important contacts, while your family's activities in crime, banking, or debt collection could tie you to members of other guilds.
+      <text>The Orzhov Syndicate operates according to a strict hierarchy built on a network of connections among old, wealthy families. Your family might provide important contacts, while your family&apos;s activities in crime, banking, or debt collection could tie you to members of other guilds.
 
 Roll twice on the Orzhov Contacts table (for an ally and a rival) and once on the Non-Orzhov Contacts table.
 
@@ -781,7 +781,7 @@ d6 | Flaw
     <proficiency>Acrobatics, Performance</proficiency>
     <trait>
       <name>Description</name>
-      <text>You're an entertainer at heart, a performer with a flair for the dramatic and a love of the spotlight. You've spent years honing your craft, mastering a demanding set of skills so you can perform them with panache and make them look easy. The wild applause, the screams of the crowds, the mayhem and terror spreading into the streets—this is what you live for.
+      <text>You&apos;re an entertainer at heart, a performer with a flair for the dramatic and a love of the spotlight. You&apos;ve spent years honing your craft, mastering a demanding set of skills so you can perform them with panache and make them look easy. The wild applause, the screams of the crowds, the mayhem and terror spreading into the streets—this is what you live for.
 
 You're also a member of a cult devoted to an ancient demon who delights in violence and chaos. It just so happens that Rakdos loves a good show, and your highest aspiration is to please the Defiler, the Lord of Riots, with your own performance.
 
@@ -809,7 +809,7 @@ d8 | Type of Performer
     </trait>
     <trait>
       <name>Feature: Fearsome Reputation</name>
-      <text>People recognize you as a member of the Cult of Rakdos, and they're careful not to draw your anger or ridicule. You can get away with minor criminal offenses, such as refusing to pay for food at a restaurant or breaking down a door at a local shop, if no legal authorities witness the crime. Most people are too daunted by you to report your wrongdoing to the Azorius.</text>
+      <text>People recognize you as a member of the Cult of Rakdos, and they&apos;re careful not to draw your anger or ridicule. You can get away with minor criminal offenses, such as refusing to pay for food at a restaurant or breaking down a door at a local shop, if no legal authorities witness the crime. Most people are too daunted by you to report your wrongdoing to the Azorius.</text>
     </trait>
     <trait>
       <name>Rakdos Guild Spells</name>
@@ -865,7 +865,7 @@ You work as part of a troupe, with your artistic talents used in service to a ri
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>Members of demonic cults aren't generally known as the kindest or most mentally stable individuals, so you're likely to have something in your nature that distinguishes you from the law-abiding citizens of Ravnica.
+      <text>Members of demonic cults aren&apos;t generally known as the kindest or most mentally stable individuals, so you&apos;re likely to have something in your nature that distinguishes you from the law-abiding citizens of Ravnica.
 
 d8 | Personality Trait
 1 | I revel in mayhem, the more destructive the better.
@@ -907,7 +907,7 @@ d6 | Flaw
     <proficiency>Nature, Persuasion</proficiency>
     <trait>
       <name>Description</name>
-      <text>You are a member of a blessed community, built on the ideals of harmony. Here, nature and civilization coexist peacefully, living and growing in accordance with the will of the Worldsoul, Mat'Selesnya. As a member of the Selesnya Conclave, you are surrounded by people and other creatures who share your worldview and your longing for deeper spiritual communion with the world, and you have a fervent desire to share the joy you have experienced with Ravnica. Along with the rest of the conclave, you are committed to resisting the ambitions of the other guilds—with military force if necessary.
+      <text>You are a member of a blessed community, built on the ideals of harmony. Here, nature and civilization coexist peacefully, living and growing in accordance with the will of the Worldsoul, Mat&apos;Selesnya. As a member of the Selesnya Conclave, you are surrounded by people and other creatures who share your worldview and your longing for deeper spiritual communion with the world, and you have a fervent desire to share the joy you have experienced with Ravnica. Along with the rest of the conclave, you are committed to resisting the ambitions of the other guilds—with military force if necessary.
 
 	• Skill Proficiencies: Nature, Persuasion
 	• Tool Proficiencies: One type of artisan's tools or one musical instrument
@@ -917,7 +917,7 @@ d6 | Flaw
 Source:	Guildmasters' Guide to Ravnica p. 86</text>
     </trait>
     <trait>
-      <name>Feature: Conclave's Shelter</name>
+      <name>Feature: Conclave&apos;s Shelter</name>
       <text>As a member of the Selesnya Conclave, you can count on your guild mates to provide shelter and aid. You and your companions can find a place to hide or rest in any Selesnya enclave in the city, unless you have proven to be a danger to them. The members of the enclave will shield you from the law or anyone else searching for you, though they will not risk their lives in this effort.
 
 In addition, as a guild member you can receive free healing and care at a Selesnya enclave, though you must provide any material components needed for spells.</text>
@@ -970,7 +970,7 @@ d10 | Contact
     </trait>
     <trait>
       <name>How Do I Fit In?</name>
-      <text>Although the guild teaches the importance of subjugating the individual will to the good of the conclave, it also celebrates the diversity of individuals, in the same sense that a field that produces different crops is healthier than one that yields a single crop. That principle applies to your skills as an adventurer. As long as your efforts are directed toward advancing the goals of the guild rather than your private agenda, you're allowed to put your talents to work in your unique way.
+      <text>Although the guild teaches the importance of subjugating the individual will to the good of the conclave, it also celebrates the diversity of individuals, in the same sense that a field that produces different crops is healthier than one that yields a single crop. That principle applies to your skills as an adventurer. As long as your efforts are directed toward advancing the goals of the guild rather than your private agenda, you&apos;re allowed to put your talents to work in your unique way.
 
 That said, you must never lose sight of the fact that you are part of a larger community. That includes the whole guild, of course, but your ties to community start with your vernadi (enclave) and its voda (dryad leader). The dryads want to know what you're doing and what purpose it serves, and they act to curtail your actions—or even expel you from the guild—if they determine that you aren't serving Selesnya's best interests.</text>
     </trait>
@@ -1018,7 +1018,7 @@ d6 | Flaw
     <proficiency>Arcana, Medicine</proficiency>
     <trait>
       <name>Description</name>
-      <text>Imagine a perfect world: one in which nature and civilization exist in harmony, adapted to each other; one in which life is shaped to match its environment and the environment is shaped to match life. That's the world you have been trying to grow in the laboratories of the Simic Combine. Nature is all about adaptation, evolution, and balance—but for it to keep up with the pace of advancing civilization, nature needs some help from biomancers and terraformers. If, along the way, you happen to create super-soldiers and mutant monsters that can bolster the combine's defenses against the schemes and ambitions of the other guilds, so much the better.
+      <text>Imagine a perfect world: one in which nature and civilization exist in harmony, adapted to each other; one in which life is shaped to match its environment and the environment is shaped to match life. That&apos;s the world you have been trying to grow in the laboratories of the Simic Combine. Nature is all about adaptation, evolution, and balance—but for it to keep up with the pace of advancing civilization, nature needs some help from biomancers and terraformers. If, along the way, you happen to create super-soldiers and mutant monsters that can bolster the combine&apos;s defenses against the schemes and ambitions of the other guilds, so much the better.
 
 	• Skill Proficiencies: Arcana, Medicine
 	• Languages: Two of your choice
@@ -1041,7 +1041,7 @@ d6 | Clade/Project
     </trait>
     <trait>
       <name>Feature: Researcher</name>
-      <text>When you attempt to learn or recall a magical or scientific fact, if you don't know that information, you know where and from whom you can obtain it. Usually, this information comes from a Simic laboratory, or sometimes from an Izzet facility, a library, a university, or an independent scholar or other learned person or creature. Knowing where the information can be found doesn't automatically enable you to learn it; you might need to offer bribes, favors, or other incentives to induce people to reveal their secrets.
+      <text>When you attempt to learn or recall a magical or scientific fact, if you don&apos;t know that information, you know where and from whom you can obtain it. Usually, this information comes from a Simic laboratory, or sometimes from an Izzet facility, a library, a university, or an independent scholar or other learned person or creature. Knowing where the information can be found doesn&apos;t automatically enable you to learn it; you might need to offer bribes, favors, or other incentives to induce people to reveal their secrets.
 
 Your DM might rule that the knowledge you seek is secreted away in an inaccessible place, or that it simply can't be found. Unearthing the deepest secrets of the multiverse can require an adventure or even a whole campaign.</text>
     </trait>
@@ -1093,13 +1093,13 @@ d10 | Contact
     </trait>
     <trait>
       <name>How Do I Fit In?</name>
-      <text>As a Simic adventurer, your mission likely aligns with the Adaptationist philosophy; the disagreements and tensions among the guilds will soon erupt into open conflict, and your guild needs your help to ensure that the Simic survive. That help might come in the form of defending against Golgari incursions into Simic zonots or shielding Simic research from Azorius intrusion. It could also involve more subtle, diplomatic work to maintain balance among the guilds, or subterfuge aimed at undermining another guild's grab for power.
+      <text>As a Simic adventurer, your mission likely aligns with the Adaptationist philosophy; the disagreements and tensions among the guilds will soon erupt into open conflict, and your guild needs your help to ensure that the Simic survive. That help might come in the form of defending against Golgari incursions into Simic zonots or shielding Simic research from Azorius intrusion. It could also involve more subtle, diplomatic work to maintain balance among the guilds, or subterfuge aimed at undermining another guild&apos;s grab for power.
 
 Self-improvement is also an important part of your mission. Anything you can do to make yourself more capable—whether learning a new spell or adopting a new hybridizing mutation—gives the Simic a stronger weapon in its arsenal. The combine must change to survive, and that means individual members of the guild must grow and adapt as well.</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>The bizarre science of the Simic Combine attracts a certain type of personality and encompasses a set of beliefs about the nature of life. Simic members' bonds and flaws derive from their scientific research—including their creation of new life forms, which they can become very attached to.
+      <text>The bizarre science of the Simic Combine attracts a certain type of personality and encompasses a set of beliefs about the nature of life. Simic members&apos; bonds and flaws derive from their scientific research—including their creation of new life forms, which they can become very attached to.
 
 d8 | Personality Trait
 1 | I can't wait to see what I become next!

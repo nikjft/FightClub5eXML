@@ -5,7 +5,7 @@
     <autolevel level="3">
       <feature optional="YES">
         <name>Roguish Archetype: Bloodknife (HB)</name>
-        <text>The Infernal Legions have many soldiers, but none are more deadly then those known as Bloodknives. The elite warriors of Hell's armies, Bloodknives enhance their significant skills with infernal blood magic. By sacrificing their own vitality, they gain access to sinister abilities beyond the skill of other mortal warriors. Experts at sowing chaos and death among, their foes, Bloodknives are dispatched by the Lords of Hell only when an especially powerful foe needs to be dealt with.
+        <text>The Infernal Legions have many soldiers, but none are more deadly then those known as Bloodknives. The elite warriors of Hell&apos;s armies, Bloodknives enhance their significant skills with infernal blood magic. By sacrificing their own vitality, they gain access to sinister abilities beyond the skill of other mortal warriors. Experts at sowing chaos and death among, their foes, Bloodknives are dispatched by the Lords of Hell only when an especially powerful foe needs to be dealt with.
 
 Source:	LaserLlama: Rogueish Archetypes v2.0.1 p. 2 (Homebrew)</text>
       </feature>
@@ -128,12 +128,12 @@ Source:	LaserLlama: Rogueish Archetypes v2.0.1 p. 4 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Fencer (HB): Classical Training</name>
-        <text>At 3rd level, you gain proficiency with medium armor. You also don't need advantage on your attack roll to apply your Sneak Attack if you use an Exploit as part of that attack.
+        <text>At 3rd level, you gain proficiency with medium armor. You also don&apos;t need advantage on your attack roll to apply your Sneak Attack if you use an Exploit as part of that attack.
 
 Source:	LaserLlama: Rogueish Archetypes v2.0.1 p. 4 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Fencer (HB): Fencer's Exploits</name>
+        <name>Fencer (HB): Fencer&apos;s Exploits</name>
         <text>You have studied and learned various advanced martial techniques. At 3rd level, you gain the following features:
 
 Martial Exploits:
@@ -222,8 +222,8 @@ Clubs (1), Diamonds (2), Hearts (3), Spades (4). If you draw a joker, you pick w
 Source:	LaserLlama: Rogueish Archetypes v2.0.1 p. 5 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Gambler (HB): Gambler's Know-how</name>
-        <text>In life's games, sometimes you win, and sometimes you need to improvise. When you adopt this Archetype at 3rd level, you gain proficiency with improvised weapons, playing cards, and one other gaming set of your choice. Whenever you make an ability check that uses a gaming set that you are proficient with, you add double your proficiency bonus to your roll.
+        <name>Gambler (HB): Gambler&apos;s Know-how</name>
+        <text>In life&apos;s games, sometimes you win, and sometimes you need to improvise. When you adopt this Archetype at 3rd level, you gain proficiency with improvised weapons, playing cards, and one other gaming set of your choice. Whenever you make an ability check that uses a gaming set that you are proficient with, you add double your proficiency bonus to your roll.
 
 Also, if you spend at least 1 minute observing or playing a game you aren't familiar with, you can add your proficiency bonus to any ability checks related to that game. Only one game or gaming set can benefit from this feature at a time.
 
@@ -249,7 +249,7 @@ Source:	LaserLlama: Rogueish Archetypes v2.0.1 p. 5 (Homebrew)</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Gambler (HB): Jackpot</name>
-        <text>Your good fortune is another's bad luck. Starting at 17th level, whenever you roll a 6 on a d6 for one of your Sneak Attack dice, you roll an additional d6 and add it to your damage roll.
+        <text>Your good fortune is another&apos;s bad luck. Starting at 17th level, whenever you roll a 6 on a d6 for one of your Sneak Attack dice, you roll an additional d6 and add it to your damage roll.
 
 Source:	LaserLlama: Rogueish Archetypes v2.0.1 p. 5 (Homebrew)</text>
       </feature>
@@ -358,7 +358,7 @@ Source:	LaserLlama: Rogueish Archetypes v2.0.1 p. 7 (Homebrew)</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Roguish Archetype: Ruffian (HB)</name>
-        <text>Not all rogues rely on stealth and deception to defeat their foes. Ruffians are the rogues who like to face their enemies directly, and strive to overcome them with devastating blows and ruthless combat techniques. Often employed as hired muscle for thieves' guilds, criminal syndicates, and other organizations that don't shy away from force, Ruffians can be found in almost any village, city, or town where crime exists.
+        <text>Not all rogues rely on stealth and deception to defeat their foes. Ruffians are the rogues who like to face their enemies directly, and strive to overcome them with devastating blows and ruthless combat techniques. Often employed as hired muscle for thieves&apos; guilds, criminal syndicates, and other organizations that don&apos;t shy away from force, Ruffians can be found in almost any village, city, or town where crime exists.
 
 Source:	LaserLlama: Rogueish Archetypes v2.0.1 p. 8 (Homebrew)</text>
       </feature>
@@ -404,7 +404,7 @@ Source:	LaserLlama: Rogueish Archetypes v2.0.1 p. 8 (Homebrew)</text>
     <autolevel level="13">
       <feature optional="YES">
         <name>Ruffian (HB): Dodge and Counter</name>
-        <text>Beginning at 13th level, you can redirect the force of your enemies' blows against them. As a reaction when a creature that is one size larger then you or smaller misses you with a melee attack, you can force the creature to make a Dexterity saving throw. (Save DC is equal to 8 + your proficiency bonus + your Strength modifier). On a failed save, it is knocked prone and has its speed reduced to zero until the end of your next turn, or it is grappled by you (your choice).
+        <text>Beginning at 13th level, you can redirect the force of your enemies&apos; blows against them. As a reaction when a creature that is one size larger then you or smaller misses you with a melee attack, you can force the creature to make a Dexterity saving throw. (Save DC is equal to 8 + your proficiency bonus + your Strength modifier). On a failed save, it is knocked prone and has its speed reduced to zero until the end of your next turn, or it is grappled by you (your choice).
 
 You must have at least one free hand at the time of this reaction in order to grapple a creature with this feature.
 
@@ -414,7 +414,7 @@ Source:	LaserLlama: Rogueish Archetypes v2.0.1 p. 8 (Homebrew)</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Ruffian (HB): Ruthless Strike</name>
-        <text>You can combine a creature's fear with your deadly attacks to strike with ruthless efficiency. Beginning at 17th level, when you hit a creature that is frightened of you with a weapon attack or unarmed strike that includes your Sneak Attack damage, your attack becomes an automatic critical hit.
+        <text>You can combine a creature&apos;s fear with your deadly attacks to strike with ruthless efficiency. Beginning at 17th level, when you hit a creature that is frightened of you with a weapon attack or unarmed strike that includes your Sneak Attack damage, your attack becomes an automatic critical hit.
 
 You can use this feature a number of times equal to your Strength modifier (minimum of once), and you regain all expended uses when you finish a short or long rest.
 
@@ -437,7 +437,7 @@ Source:	LaserLlama: Rogueish Archetypes v2.0.1 p. 9 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Saboteur (HB): Explosives</name>
-        <text>At 3rd level, you gain proficiency with alchemist's tools, along with the secrets of creating explosive Black Powder:
+        <text>At 3rd level, you gain proficiency with alchemist&apos;s tools, along with the secrets of creating explosive Black Powder:
 
 Black Powder Charges:
 At the end of each long rest, you can use your alchemist's supplies to produce a number of Black Powder Charges equal to your proficiency bonus + your Intelligence modifier (minimum of 1). These Charges are used to craft the explosives you know, and become inert if they are not used by the end of your next long rest.
@@ -638,7 +638,7 @@ Source:	LaserLlama: Rogueish Archetypes v2.0.1 p. 11 (Homebrew)</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Surgeon (HB): Expert Surgeon</name>
-        <text>You have become an expert at analyzing your foe's on the fly. Starting at 17th level, when you make a Wisdom (Medicine) check, you can use your rogue level in place of a d20 roll.
+        <text>You have become an expert at analyzing your foe&apos;s on the fly. Starting at 17th level, when you make a Wisdom (Medicine) check, you can use your rogue level in place of a d20 roll.
 
 In addition, you gain access to surgical abilities that rival the most powerful arcane and divine magics. As an action, you can touch a creature and inflict the effects of either the contagion or regenerate spell, using your Wisdom in place of a spellcasting modifier. Once you recreate either spell you must finish a short or long rest before you can do so again.
 
@@ -649,13 +649,13 @@ Source:	LaserLlama: Rogueish Archetypes v2.0.1 p. 11 (Homebrew)</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Roguish Archetype: Alternate Assassin (HB)</name>
-        <text>The Assassin Roguish Archetype was originally published in the Player's Handbook, and is widely regarded as one of the more underwhelming subclasses, as it fails to deliver on its fantasy. The Alternate Assassin is an attempt to bring the Assassin up to par with the other official rogue subclasses.
+        <text>The Assassin Roguish Archetype was originally published in the Player&apos;s Handbook, and is widely regarded as one of the more underwhelming subclasses, as it fails to deliver on its fantasy. The Alternate Assassin is an attempt to bring the Assassin up to par with the other official rogue subclasses.
 
 Source:	LaserLlama: Rogueish Archetypes v2.0.1 p. 12 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Alternate Assassin (HB): Assassin's Strike</name>
-        <text>You are at your deadliest when your enemies don't see you coming. Starting at 3rd level, you gain the following benefits:
+        <name>Alternate Assassin (HB): Assassin&apos;s Strike</name>
+        <text>You are at your deadliest when your enemies don&apos;t see you coming. Starting at 3rd level, you gain the following benefits:
 
 You have advantage on any attack rolls you make against creatures that have not yet acted in combat. When you hit a creature that is surprised with an attack, your attack becomes an automatic critical hit. When you score a critical hit and roll a 1 on any of your damage dice for that attack, you can re-roll those dice. You must use the new roll, even if you roll another 1.
 
@@ -663,7 +663,7 @@ Source:	LaserLlama: Rogueish Archetypes v2.0.1 p. 12 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Alternate Assassin (HB): Infiltrator</name>
-        <text>You have the skills to infiltrate and sow death wherever your target dwells. When you adopt this Archetype at 3rd level, you gain proficiency with the disguise kit and the poisoner's kit.
+        <text>You have the skills to infiltrate and sow death wherever your target dwells. When you adopt this Archetype at 3rd level, you gain proficiency with the disguise kit and the poisoner&apos;s kit.
 
 Moreover, when you make a Charisma (Deception) check while wearing a disguise you created with your disguise kit, you can treat a roll of 7 or lower on the d20 as an 8.
 
@@ -673,7 +673,7 @@ Source:	LaserLlama: Rogueish Archetypes v2.0.1 p. 12 (Homebrew)</text>
     <autolevel level="9">
       <feature optional="YES">
         <name>Alternate Assassin (HB): Stolen Identity</name>
-        <text>You have mastered the dark art of stealing another creature's identity. Starting at 9th level, over the course of an hour, you can craft a perfect disguise of a humanoid creature you have slain, so long as you have the corpse and a disguise kit. To see through your disguise, a creature must succeed on an Intelligence (Investigation) or a Wisdom (Insight) check, contested by your Charisma (Deception) check.
+        <text>You have mastered the dark art of stealing another creature&apos;s identity. Starting at 9th level, over the course of an hour, you can craft a perfect disguise of a humanoid creature you have slain, so long as you have the corpse and a disguise kit. To see through your disguise, a creature must succeed on an Intelligence (Investigation) or a Wisdom (Insight) check, contested by your Charisma (Deception) check.
 
 Also, over an 8 hour period, which can be during a long rest, you can use this disguise to completely assume the life of the slain humanoid. After which, other creatures believe you to be that person until given an obvious reason not to.
 
@@ -683,13 +683,13 @@ Source:	LaserLlama: Rogueish Archetypes v2.0.1 p. 12 (Homebrew)</text>
     <autolevel level="13">
       <feature optional="YES">
         <name>Alternate Assassin (HB): Imposter</name>
-        <text>The skill with which you adopt another creature's identity is nearly supernatural. Beginning at 13th level, when you make a Charisma (Deception) check to thwart a creature trying to see through your disguise you have advantage on your roll.
+        <text>The skill with which you adopt another creature&apos;s identity is nearly supernatural. Beginning at 13th level, when you make a Charisma (Deception) check to thwart a creature trying to see through your disguise you have advantage on your roll.
 
 Source:	LaserLlama: Rogueish Archetypes v2.0.1 p. 12 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Alternate Assassin (HB): Poisoned Blade</name>
-        <text>Your skills with a poisoner's kit have grown beyond normal limits. At 13th level, you can use a bonus action to soak your blade with poison. The next time you hit with an attack with that blade, you can apply your Sneak Attack bonus, even if you don't meet the normal requirements for Sneak Attack, and your Sneak Attack damage becomes necrotic damage.
+        <text>Your skills with a poisoner&apos;s kit have grown beyond normal limits. At 13th level, you can use a bonus action to soak your blade with poison. The next time you hit with an attack with that blade, you can apply your Sneak Attack bonus, even if you don&apos;t meet the normal requirements for Sneak Attack, and your Sneak Attack damage becomes necrotic damage.
 
 Once you use this bonus action you must finish a short or long rest before you can use it again.
 

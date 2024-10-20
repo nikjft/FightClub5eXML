@@ -19,7 +19,7 @@ Source:	Ghosts of Saltmarsh p. 29</text>
     </trait>
     <trait>
       <name>Fishing Tale</name>
-      <text>You can tell a compelling tale, whether tall or true, to impress and entertain others. Once a day, you can tell your story to willing listeners. At the DM's discretion, a number of those listeners become friendly toward you; this is not a magical effect, and continued amicability on their part depends on your actions. You can roll on the following table to help determine the theme of your tale or choose one that best fits your character. Alternatively, work with your DM to create your own fishing tale.
+      <text>You can tell a compelling tale, whether tall or true, to impress and entertain others. Once a day, you can tell your story to willing listeners. At the DM&apos;s discretion, a number of those listeners become friendly toward you; this is not a magical effect, and continued amicability on their part depends on your actions. You can roll on the following table to help determine the theme of your tale or choose one that best fits your character. Alternatively, work with your DM to create your own fishing tale.
 
 Fishing Tale:
 d8 | Tale
@@ -90,7 +90,7 @@ Source:	Ghosts of Saltmarsh p. 31</text>
     </trait>
     <trait>
       <name>Feature: Steady</name>
-      <text>You can move twice the normal amount of time (up to 16 hours) each day before being subject to the effect of a forced march (see "Travel Pace" in chapter 8 of the Player's Handbook). Additionally, you can automatically find a safe route to land a boat on shore, provided such a route exists.</text>
+      <text>You can move twice the normal amount of time (up to 16 hours) each day before being subject to the effect of a forced march (see "Travel Pace" in chapter 8 of the Player&apos;s Handbook). Additionally, you can automatically find a safe route to land a boat on shore, provided such a route exists.</text>
     </trait>
     <trait>
       <name>Hardship Endured</name>
@@ -107,7 +107,7 @@ d6 | Hardship
     </trait>
     <trait>
       <name>Saltmarsh Ties</name>
-      <text>As a former member of Saltmarsh's elite marine contingent. you are friends of Tom and Will Stoutly and can turn to them for help and support. Eliander Fireborn, captain of the guard. also makes time to listen to your concerns.</text>
+      <text>As a former member of Saltmarsh&apos;s elite marine contingent. you are friends of Tom and Will Stoutly and can turn to them for help and support. Eliander Fireborn, captain of the guard. also makes time to listen to your concerns.</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
@@ -162,8 +162,8 @@ d6 | Flaw
 Source:	Ghosts of Saltmarsh p. 33</text>
     </trait>
     <trait>
-      <name>Feature: I'll Patch It!</name>
-      <text>Provided you have carpenter's tools and wood, you can perform repairs on a water vehicle. When you use this ability, you restore a number of hit points to the hull of a water vehicle equal to 5 × your proficiency modifier. A vehicle cannot be patched by you in this way again until after it has been pulled ashore and fully repaired.</text>
+      <name>Feature: I&apos;ll Patch It!</name>
+      <text>Provided you have carpenter&apos;s tools and wood, you can perform repairs on a water vehicle. When you use this ability, you restore a number of hit points to the hull of a water vehicle equal to 5 × your proficiency modifier. A vehicle cannot be patched by you in this way again until after it has been pulled ashore and fully repaired.</text>
     </trait>
     <trait>
       <name>Life at Sea</name>
@@ -179,7 +179,7 @@ d6 | Sea's Influence
     </trait>
     <trait>
       <name>Saltmarsh Ties</name>
-      <text>Ships make Saltmarsh's economy run. You have contacts with one of the following leaders in town.
+      <text>Ships make Saltmarsh&apos;s economy run. You have contacts with one of the following leaders in town.
 
 Choose or roll on the table.
 
@@ -233,7 +233,7 @@ d6 | Flaw
     <proficiency>Athletics, Deception</proficiency>
     <trait>
       <name>Description</name>
-      <text>On a rickety barge, you carried a hundred longswords in fish barrels right past the dock master's oblivious lackeys. You have paddled a riverboat filled with stolen elven wine under the gaze of the moon and sold it for twice its value in the morning. In your more charitable times, you have transported innocents out of war zones or helped guide herd animals to safety on the banks of a burning river.
+      <text>On a rickety barge, you carried a hundred longswords in fish barrels right past the dock master&apos;s oblivious lackeys. You have paddled a riverboat filled with stolen elven wine under the gaze of the moon and sold it for twice its value in the morning. In your more charitable times, you have transported innocents out of war zones or helped guide herd animals to safety on the banks of a burning river.
 
 	• Skill Proficiencies: Athletics, Deception
 	• Tool Proficiencies: Vehicles (water)
@@ -243,7 +243,7 @@ Source:	Ghosts of Saltmarsh p. 34</text>
     </trait>
     <trait>
       <name>Feature: Down Low</name>
-      <text>You are acquainted with a network of smugglers who are willing to help you out of tight situations. While in a particular town, city, or other similarly sized community (DM's discretion), you and your companions can stay for free in safe houses. Safe houses provide a poor lifestyle. While staying at a safe house, you can choose to keep your presence (and that of your companions) a secret.</text>
+      <text>You are acquainted with a network of smugglers who are willing to help you out of tight situations. While in a particular town, city, or other similarly sized community (DM&apos;s discretion), you and your companions can stay for free in safe houses. Safe houses provide a poor lifestyle. While staying at a safe house, you can choose to keep your presence (and that of your companions) a secret.</text>
     </trait>
     <trait>
       <name>Claim to Fame</name>
@@ -259,7 +259,7 @@ d6 | Accomplishment
     </trait>
     <trait>
       <name>Saltmarsh Ties</name>
-      <text>It's an open secret, at least among the old-timers in town, that Gellan Primewater runs the biggest smuggling operation in this section of the coast. You have contacts with him and his organization, enabling you to request an audience with him as necessary.</text>
+      <text>It&apos;s an open secret, at least among the old-timers in town, that Gellan Primewater runs the biggest smuggling operation in this section of the coast. You have contacts with him and his organization, enabling you to request an audience with him as necessary.</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>

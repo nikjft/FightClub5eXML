@@ -154,7 +154,7 @@ When a creature within 60 feet of the dandylion hits it with an attack roll, the
     </reaction>
     <spells>druidcraft, guidance, purify food and drink, speak with plants, entangle, goodberry</spells>
     <slots/>
-    <description>Dandylions are herbivorous farmers who cultivate beautiful gardens of flowers and fields of crops in the Feywild. If treated with respect, dandylions are glad to share their wealth of knowledge about farming with those who show interest in the subject. They give great gardening advice, and their fruits and vegetables are healthy and delicious. Some of their crops also have magical properties, making them valuable as potion ingredients and spell components. Dandylions protect their farms ferociously, and anyone who tramples on or steals from a dandylion's bounty is likely to incur the creature's fury. The surest way to entice a dandylion to give up some of its beloved produce or flowers is to flatter it.
+    <description>Dandylions are herbivorous farmers who cultivate beautiful gardens of flowers and fields of crops in the Feywild. If treated with respect, dandylions are glad to share their wealth of knowledge about farming with those who show interest in the subject. They give great gardening advice, and their fruits and vegetables are healthy and delicious. Some of their crops also have magical properties, making them valuable as potion ingredients and spell components. Dandylions protect their farms ferociously, and anyone who tramples on or steals from a dandylion&apos;s bounty is likely to incur the creature&apos;s fury. The surest way to entice a dandylion to give up some of its beloved produce or flowers is to flatter it.
 
 A dandylion has soft green fur woven with small leaves. A small, fluffy seed head at the end of the dandylion's tail contains seed pods. These seed pods enrich soil, giving rise to healthy plants and bountiful harvests. Often, dandylions weave necklaces with petals from their flower gardens and brag about the fertility of their soil. Dandylions love to boast about the fullness of their sunny yellow manes.
 
@@ -259,7 +259,7 @@ Source:	Misplaced Monsters: Volume One p. 8</description>
     <save/>
     <skill>Perception +6</skill>
     <passive>16</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>8</cr>
     <exp/>
     <resist>Lightning</resist>
@@ -468,7 +468,7 @@ Sheldon summons a powerful gust of wind and flies up to his speed. This movement
     </action>
     <spells>light, mage hand (the hand is invisible), dimension door, telekinesis</spells>
     <slots/>
-    <description>Sheldon is a friendly, good-natured dragon who collects and eats blueberries. When he's not attending parties, he lives in Wildspace. His body magically produces air, allowing him to thrive in a vacuum and create powerful gusts of wind. Sheldon uses the wind to knock down foes and propel himself farther than his wings can take him on their own.
+    <description>Sheldon is a friendly, good-natured dragon who collects and eats blueberries. When he&apos;s not attending parties, he lives in Wildspace. His body magically produces air, allowing him to thrive in a vacuum and create powerful gusts of wind. Sheldon uses the wind to knock down foes and propel himself farther than his wings can take him on their own.
 
 Source:	Misplaced Monsters: Volume One p. 14</description>
     <environment/>

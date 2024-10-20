@@ -42,7 +42,7 @@ Source:	Dungeon Master's Guide p. 96</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Death Domain: Channel Divinity: Touch of Death [2014]</name>
-        <text>Starting at 2nd level, the cleric can use Channel Divinity to destroy another creature's life force by touch.
+        <text>Starting at 2nd level, the cleric can use Channel Divinity to destroy another creature&apos;s life force by touch.
 
 When the cleric hits a creature with a melee attack, the cleric can use Channel Divinity to deal extra necrotic damage to the target. The damage equals 5 + twice his or her cleric level.
 
@@ -53,7 +53,7 @@ Source:	Dungeon Master's Guide p. 97</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Death Domain: Inescapable Destruction [2014]</name>
-        <text>Starting at 6th level, the cleric's ability to channel negative energy becomes more potent. Necrotic damage dealt by the character's cleric spells and Channel Divinity options ignores resistance to necrotic damage.
+        <text>Starting at 6th level, the cleric&apos;s ability to channel negative energy becomes more potent. Necrotic damage dealt by the character&apos;s cleric spells and Channel Divinity options ignores resistance to necrotic damage.
 
 Source:	Dungeon Master's Guide p. 97</text>
       </feature>
@@ -62,7 +62,7 @@ Source:	Dungeon Master's Guide p. 97</text>
     <autolevel level="8">
       <feature optional="YES">
         <name>Death Domain: Divine Strike [2014]</name>
-        <text>At 8th level, the cleric gains the ability to infuse his or her weapon strikes with necrotic energy. Once on each of the cleric's turns when he or she hits a creature with a weapon attack, the cleric can cause the attack to deal an extra 1d8 necrotic damage to the target. When the cleric reaches 14th level, the extra damage increases to 2d8.
+        <text>At 8th level, the cleric gains the ability to infuse his or her weapon strikes with necrotic energy. Once on each of the cleric&apos;s turns when he or she hits a creature with a weapon attack, the cleric can cause the attack to deal an extra 1d8 necrotic damage to the target. When the cleric reaches 14th level, the extra damage increases to 2d8.
 
 Source:	Dungeon Master's Guide p. 97</text>
       </feature>

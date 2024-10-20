@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Celebrity Adventurer's Scion [2014]</name>
+    <name>Celebrity Adventurer&apos;s Scion [2014]</name>
     <proficiency>Perception, Performance</proficiency>
     <trait>
       <name>Description</name>
-      <text>Your family name strikes fear and admiration in the hearts of the common folk—but that's got nothing to do with you. Songs and stories celebrating the adventuring exploits of your famous parent are widely known. Kids across the land grew up wishing they were you. But being the child of a famous adventurer wasn't all hugs and kisses.
+      <text>Your family name strikes fear and admiration in the hearts of the common folk—but that&apos;s got nothing to do with you. Songs and stories celebrating the adventuring exploits of your famous parent are widely known. Kids across the land grew up wishing they were you. But being the child of a famous adventurer wasn&apos;t all hugs and kisses.
 
 You seldom saw your celebrity-adventurer parent, and when they were around, it was all about them and tales of slaying this demon or vanquishing that dragon. All too often, you'd be woken out of a sound sleep by someone standing outside your home screaming about the latest threat to the town, the region, or the world.
 
@@ -20,11 +20,11 @@ Source:	Acquisitions Incorporated p. 48</text>
     </trait>
     <trait>
       <name>Feature: Name Dropping</name>
-      <text>You know and have met any number of powerful people across the land—and some of them might even remember you. You might be able to wrangle minor assistance from a major figure in the campaign, at the DM's discretion. Additionally, the common folk treat you with deference, and your heritage and the stories you tell might be good for a free meal or a place to sleep.</text>
+      <text>You know and have met any number of powerful people across the land—and some of them might even remember you. You might be able to wrangle minor assistance from a major figure in the campaign, at the DM&apos;s discretion. Additionally, the common folk treat you with deference, and your heritage and the stories you tell might be good for a free meal or a place to sleep.</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>Scions of celebrity adventurers must deal with fame that's not theirs, wealth they didn't earn, and expectations they can never hope to meet. These hardships can have adverse effects, but those who cope with them can arrive at a decent attitude and a grounded worldview. Those who fail become bitter — or worse.
+      <text>Scions of celebrity adventurers must deal with fame that&apos;s not theirs, wealth they didn&apos;t earn, and expectations they can never hope to meet. These hardships can have adverse effects, but those who cope with them can arrive at a decent attitude and a grounded worldview. Those who fail become bitter — or worse.
 
 d8 | Personality Trait
 1 | I will never get out of my famous parent's shadow, and no one else will ever understand this burden.
@@ -125,7 +125,7 @@ d6 | Flaw
     <proficiency>Deception, Insight</proficiency>
     <trait>
       <name>Description</name>
-      <text>All you need to make a lot of gold is a little gold. Except at those times when all you need to have no gold at all is a little gold. Whether you're a good gambler or a bad one rarely matters, because no one can divine the whims of Lady Luck. Sometimes you're up, sometimes you're down. But the thing about gambling is that someone is always willing to take a bet.
+      <text>All you need to make a lot of gold is a little gold. Except at those times when all you need to have no gold at all is a little gold. Whether you're a good gambler or a bad one rarely matters, because no one can divine the whims of Lady Luck. Sometimes you&apos;re up, sometimes you&apos;re down. But the thing about gambling is that someone is always willing to take a bet.
 
 	• Skill Proficiencies: Deception, Insight
 	• Tool Proficiencies: One gaming set
@@ -136,7 +136,7 @@ Source:	Acquisitions Incorporated p. 49</text>
     </trait>
     <trait>
       <name>Feature: Never Tell Me the Odds</name>
-      <text>Odds and probability are your bread and butter. During downtime activities that involve games of chance or figuring odds on the best plan, you can get a solid sense of which choice is likely the best one and which opportunities seem too good to be true, at the DM's determination.</text>
+      <text>Odds and probability are your bread and butter. During downtime activities that involve games of chance or figuring odds on the best plan, you can get a solid sense of which choice is likely the best one and which opportunities seem too good to be true, at the DM&apos;s determination.</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
@@ -197,7 +197,7 @@ Source:	Acquisitions Incorporated p. 50</text>
     </trait>
     <trait>
       <name>Feature: Legalese</name>
-      <text>Your experience with your local legal system has given you a firm knowledge of the ins and outs of that system. Even when the law is not on your side, you can use complex terms like ex injuria jus non oritur and cogitationis poenam nemo patitur to frighten people into thinking you know what you're talking about. With common folks who don't know any better, you might be able to intimidate or deceive to get favors or special treatment.</text>
+      <text>Your experience with your local legal system has given you a firm knowledge of the ins and outs of that system. Even when the law is not on your side, you can use complex terms like ex injuria jus non oritur and cogitationis poenam nemo patitur to frighten people into thinking you know what you&apos;re talking about. With common folks who don&apos;t know any better, you might be able to intimidate or deceive to get favors or special treatment.</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
@@ -256,7 +256,7 @@ Source:	Acquisitions Incorporated p. 51</text>
     </trait>
     <trait>
       <name>Feature: Inside Informant</name>
-      <text>You have connections to your previous employer or other groups you dealt with during your previous employment. You can communicate with your contacts, gaining information at the DM's discretion.</text>
+      <text>You have connections to your previous employer or other groups you dealt with during your previous employment. You can communicate with your contacts, gaining information at the DM&apos;s discretion.</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>

@@ -23,7 +23,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 314</text>
     <weight/>
     <value>50.0</value>
     <property/>
-    <text>An axe beak's splayed toes allow it to run across snow, and it can carry as much weight as a mule. A domesticated axe beak can be purchased in Ten-Towns for 50 gp.
+    <text>An axe beak&apos;s splayed toes allow it to run across snow, and it can carry as much weight as a mule. A domesticated axe beak can be purchased in Ten-Towns for 50 gp.
 
 Source:	Icewind Dale: Rime of the Frostmaiden p. 20</text>
   </item>
@@ -62,7 +62,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 20</text>
     <weight>0.25</weight>
     <value>2.0</value>
     <property/>
-    <text>A crampon is a metal plate with spikes that is strapped to the sole of a boot. A creature wearing crampons can't fall prone while moving across slippery ice.
+    <text>A crampon is a metal plate with spikes that is strapped to the sole of a boot. A creature wearing crampons can&apos;t fall prone while moving across slippery ice.
 
 Source:	Icewind Dale: Rime of the Frostmaiden p. 20</text>
   </item>
@@ -80,13 +80,13 @@ If you have proficiency with a certain kind of vehicle (land or water), you can 
 Source:	Icewind Dale: Rime of the Frostmaiden p. 20</text>
   </item>
   <item>
-    <name>Hook of Fisher's Delight</name>
+    <name>Hook of Fisher&apos;s Delight</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>This tiny silver fishhook has a little gold feather attached to it. For it to function, the feathered hook must be tied to the end of a fishing line and immersed in enough water to fill at least a 10-foot cube. At the end of each uninterrupted hour of immersion, roll a d6. On a 6, a floppy, 6-inch-long magical fish appears on the end of the hook. The color and properties of the conjured fish are determined by rolling on the Hook of Fisher's Delight table. Once the hook conjures a fish, it can't do so again until the next dawn.
+    <text>This tiny silver fishhook has a little gold feather attached to it. For it to function, the feathered hook must be tied to the end of a fishing line and immersed in enough water to fill at least a 10-foot cube. At the end of each uninterrupted hour of immersion, roll a d6. On a 6, a floppy, 6-inch-long magical fish appears on the end of the hook. The color and properties of the conjured fish are determined by rolling on the Hook of Fisher&apos;s Delight table. Once the hook conjures a fish, it can&apos;t do so again until the next dawn.
 
 Hook of Fisher's Delight:
 d20 | Fish Color | Result
@@ -223,7 +223,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 315</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>Using an action to read the scroll causes the tarrasque (see the creature's entry in the Monster Manual) to appear in an unoccupied space you can see within 1 mile of you. The tarrasque disappears when it drops to 0 hit points and is hostile toward all creatures other than itself.
+    <text>Using an action to read the scroll causes the tarrasque (see the creature&apos;s entry in the Monster Manual) to appear in an unoccupied space you can see within 1 mile of you. The tarrasque disappears when it drops to 0 hit points and is hostile toward all creatures other than itself.
 
 Source:	Icewind Dale: Rime of the Frostmaiden p. 315</text>
   </item>

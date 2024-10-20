@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <class>
     <name>Spellcaster Sidekick [2014]</name>
@@ -39,7 +40,7 @@ To gain the Spellcaster class, a creature must have at least one language in its
 
 A sidekick gains the following class features as it gains levels in this class, as summarized on the Spellcaster table.
 
-Source:	Tasha's Cauldron of Everything p. 144</text>
+Source:	Tasha&apos;s Cauldron of Everything p. 144</text>
       </feature>
     </autolevel>
 
@@ -52,14 +53,14 @@ In addition, the sidekick gains proficiency in two skills of your choice from th
 
 The sidekick gains proficiency with light armor, and if it is a humanoid or has a simple or martial weapon in its stat block, it also gains proficiency with all simple weapons.
 
-Source:	Tasha's Cauldron of Everything p. 144</text>
+Source:	Tasha&apos;s Cauldron of Everything p. 144</text>
       </feature>
     </autolevel>
 
     <autolevel level="1">
       <feature>
         <name>Spellcasting</name>
-        <text>At 1st level, the sidekick gains the ability to cast spells. (If the creature already has the Spellcasting trait, this feature replaces that trait.) Choose the Spellcaster's role: Mage, Healer, or Prodigy. This choice determines the spell list and spellcasting ability used by the sidekick, as shown on the Spellcasting table.
+        <text>At 1st level, the sidekick gains the ability to cast spells. (If the creature already has the Spellcasting trait, this feature replaces that trait.) Choose the Spellcaster&apos;s role: Mage, Healer, or Prodigy. This choice determines the spell list and spellcasting ability used by the sidekick, as shown on the Spellcasting table.
 
 Role | Spell List | Ability
 Mage | Wizard | Intelligence
@@ -67,7 +68,7 @@ Healer | Cleric and Druid | Wisdom
 Prodigy | Bard and Warlock | Charisma
 
 Spell Slots:
-The Spellcaster table shows how many spell slots the sidekick has to cast its spellcaster spells of 1st level and higher. To cast one of these spells, the sidekick must expend a slot of the spell's level or higher. The spellcaster regains all expended spell slots when it finishes a long rest.
+The Spellcaster table shows how many spell slots the sidekick has to cast its spellcaster spells of 1st level and higher. To cast one of these spells, the sidekick must expend a slot of the spell&apos;s level or higher. The spellcaster regains all expended spell slots when it finishes a long rest.
 
 Spells Known:
 The sidekick knows two cantrips and one 1st-level spell of your choice from its spell list. Here are recommendations for a 1st-level spellcaster of each role:
@@ -80,24 +81,24 @@ The Cantrips Known and Spells Known columns of the Spellcaster table shows when 
 
 Additionally, when the sidekick gains a level in this class, you can choose one of the spells it knows from this class and replace it with another spell from its spell list. The new spell must be a cantrip or of a level for which the sidekick has spell slots.
 
-Spellcasting Ability. The sidekick's spellcasting ability for these spells depends on the choice you made on the Spellcasting table.
+Spellcasting Ability. The sidekick&apos;s spellcasting ability for these spells depends on the choice you made on the Spellcasting table.
 
 The sidekick uses its spellcasting ability whenever a spell refers to that ability. In addition, it uses its spellcasting ability modifier when setting the saving throw DC for a spell it casts and when making an attack roll with one.
-Spell save DC = 8 + sidekick's proficiency bonus + spellcasting ability modifier
-Spell attack modifier= sidekick's proficiency bonus+ spellcasting ability modifier
+Spell save DC = 8 + sidekick&apos;s proficiency bonus + spellcasting ability modifier
+Spell attack modifier= sidekick&apos;s proficiency bonus+ spellcasting ability modifier
 
 	Spellcasting Focus. The sidekick can use a focus for its spells depending on the choice you made on the Spellcasting table. A Mage can use an arcane focus, a Healer can use a holy symbol, and a Prodigy can use an arcane focus or a musical instrument.
 
-Source:	Tasha's Cauldron of Everything p. 144</text>
+Source:	Tasha&apos;s Cauldron of Everything p. 144</text>
       </feature>
     </autolevel>
 
     <autolevel level="4" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 18th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 18th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can&apos;t increase an ability score above 20 using this feature.
 
-Source:	Tasha's Cauldron of Everything p. 146</text>
+Source:	Tasha&apos;s Cauldron of Everything p. 146</text>
       </feature>
     </autolevel>
 
@@ -106,61 +107,61 @@ Source:	Tasha's Cauldron of Everything p. 146</text>
         <name>Potent Cantrips</name>
         <text>Starting at 6th level, the sidekick can add its spellcasting ability modifier to the damage it deals with any cantrip.
 
-Source:	Tasha's Cauldron of Everything p. 146</text>
+Source:	Tasha&apos;s Cauldron of Everything p. 146</text>
       </feature>
     </autolevel>
 
     <autolevel level="8" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 18th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 18th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can&apos;t increase an ability score above 20 using this feature.
 
-Source:	Tasha's Cauldron of Everything p. 146</text>
+Source:	Tasha&apos;s Cauldron of Everything p. 146</text>
       </feature>
     </autolevel>
 
     <autolevel level="12" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 18th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 18th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can&apos;t increase an ability score above 20 using this feature.
 
-Source:	Tasha's Cauldron of Everything p. 146</text>
+Source:	Tasha&apos;s Cauldron of Everything p. 146</text>
       </feature>
     </autolevel>
 
     <autolevel level="14">
       <feature>
         <name>Empowered Spells</name>
-        <text>At 14th level, choose one school of magic. Whenever the sidekick casts a spell of that school by expending a spell slot, the sidekick can add its spellcasting ability modifier to the spell's damage roll or healing roll, if any.
+        <text>At 14th level, choose one school of magic. Whenever the sidekick casts a spell of that school by expending a spell slot, the sidekick can add its spellcasting ability modifier to the spell&apos;s damage roll or healing roll, if any.
 
-Source:	Tasha's Cauldron of Everything p. 146</text>
+Source:	Tasha&apos;s Cauldron of Everything p. 146</text>
       </feature>
     </autolevel>
 
     <autolevel level="16" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 18th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 18th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can&apos;t increase an ability score above 20 using this feature.
 
-Source:	Tasha's Cauldron of Everything p. 146</text>
+Source:	Tasha&apos;s Cauldron of Everything p. 146</text>
       </feature>
     </autolevel>
 
     <autolevel level="18" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 18th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 18th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can&apos;t increase an ability score above 20 using this feature.
 
-Source:	Tasha's Cauldron of Everything p. 146</text>
+Source:	Tasha&apos;s Cauldron of Everything p. 146</text>
       </feature>
     </autolevel>
 
     <autolevel level="20">
       <feature>
         <name>Focused Casting</name>
-        <text>At 20th level, Taking damage can't break the sidekick's concentration on a spell.
+        <text>At 20th level, Taking damage can&apos;t break the sidekick&apos;s concentration on a spell.
 
-Source:	Tasha's Cauldron of Everything p. 146</text>
+Source:	Tasha&apos;s Cauldron of Everything p. 146</text>
       </feature>
     </autolevel>
 

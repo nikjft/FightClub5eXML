@@ -61,7 +61,7 @@ Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 8</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Multiclass Druid</name>
-        <text>If your group uses the multiclassing rules in the Player's Handbook, here's what you need to know if you choose Druid as one of your classes.
+        <text>If your group uses the multiclassing rules in the Player&apos;s Handbook, here&apos;s what you need to know if you choose Druid as one of your classes.
 
 Ability Score Minimum:
 As a multiclass character, you must have a score of at least 13 in the Druid's primary ability, Wisdom, to take a level in this class or to take a level in another class if you're already a Druid.
@@ -104,7 +104,7 @@ Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 8</text>
     <autolevel level="1">
       <feature>
         <name>Spellcasting</name>
-        <text>You have learned to cast spells through studying the mystical forces of nature. See the Player's Handbook for the rules on spellcasting. The information below details how you use those rules as a Druid.
+        <text>You have learned to cast spells through studying the mystical forces of nature. See the Player&apos;s Handbook for the rules on spellcasting. The information below details how you use those rules as a Druid.
 
 Cantrips:
 You know two cantrips of your choice from the Druid spell list. Rather than choosing, you may start with the Druidcraft and Produce Flame cantrips.
@@ -193,7 +193,7 @@ Source:	Unearthed Arcana: Player's Handbook Playtest 8 p. 9</text>
     <autolevel level="3">
       <feature>
         <name>Druid Subclass</name>
-        <text>You gain a Druid subclass of your choice: Circle of the Land, Circle of the Moon, Circle of the Sea, or Circle of the Stars. Only The Circle of the Moon subclass is detailed after this class's description.
+        <text>You gain a Druid subclass of your choice: Circle of the Land, Circle of the Moon, Circle of the Sea, or Circle of the Stars. Only The Circle of the Moon subclass is detailed after this class&apos;s description.
 
 A subclass is a specialization that grants you special abilities at certain Druid levels. For the rest of your career, you gain each of your subclass's features that are of your Druid level and lower.
 

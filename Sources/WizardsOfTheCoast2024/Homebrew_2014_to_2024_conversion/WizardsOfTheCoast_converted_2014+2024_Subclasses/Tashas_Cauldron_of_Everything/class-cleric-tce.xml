@@ -123,7 +123,7 @@ Source:	Tasha's Cauldron of Everything p. 32</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Divine Domain: Twilight Domain [2014]</name>
-        <text>The twilit transition from light into darkness often brings calm and even joy, as the day's labors end and the hours of rest begin. The darkness can also bring terrors, but the gods of twilight guard against the horrors of the night.
+        <text>The twilit transition from light into darkness often brings calm and even joy, as the day&apos;s labors end and the hours of rest begin. The darkness can also bring terrors, but the gods of twilight guard against the horrors of the night.
 
 Clerics who serve these deities-examples of which appear on the Twilight Deities table-bring comfort to those who seek rest and protect them by venturing into the encroaching darkness to ensure that the dark is a comfort, not a terror.
 
@@ -190,7 +190,7 @@ Source:	Tasha's Cauldron of Everything p. 34</text>
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Order Domain: Channel Divinity: Order's Demand [2014]</name>
+        <name>Order Domain: Channel Divinity: Order&apos;s Demand [2014]</name>
         <text>Starting at 2nd level, you can use your Channel Divinity to exert an intimidating presence over others.
 
 As an action, you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or be charmed by you until the end of your next turn or until the charmed creature takes any damage. You can also cause any of the charmed creatures to drop what they are holding when they fail the saving throw.
@@ -288,7 +288,7 @@ Source:	Tasha's Cauldron of Everything p. 34</text>
     <autolevel level="8">
       <feature optional="YES">
         <name>Order Domain: Blessed Strikes [2014]</name>
-        <text>You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+        <text>You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can&apos;t use this feature again until the start of your next turn.
 
 Source:	Guildmasters' Guide to Ravnica p. 25,
 		Tasha's Cauldron of Everything p. 31</text>
@@ -308,7 +308,7 @@ Source:	Guildmasters' Guide to Ravnica p. 25,
     <autolevel level="8">
       <feature optional="YES">
         <name>Peace Domain: Blessed Strikes [2014]</name>
-        <text>You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+        <text>You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can&apos;t use this feature again until the start of your next turn.
 
 Source:	Tasha's Cauldron of Everything p. 32</text>
       </feature>
@@ -326,7 +326,7 @@ Source:	Tasha's Cauldron of Everything p. 32</text>
     <autolevel level="8">
       <feature optional="YES">
         <name>Twilight Domain: Blessed Strikes [2014]</name>
-        <text>You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+        <text>You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can&apos;t use this feature again until the start of your next turn.
 
 Source:	Tasha's Cauldron of Everything p. 34</text>
       </feature>
@@ -369,7 +369,7 @@ Source:	Tasha's Cauldron of Everything p. 34</text>
 
     <autolevel level="17">
       <feature optional="YES">
-        <name>Order Domain: Order's Wrath [2014]</name>
+        <name>Order Domain: Order&apos;s Wrath [2014]</name>
         <text>Starting at 17th level, enemies you designate for destruction wilt under the combined efforts of you and your allies. If you deal your Divine Strike damage to a creature on your turn, you can curse that creature until the start of your next turn. The next time one of your allies hits the cursed creature with an attack, the target also takes 2d8 psychic damage, and the curse ends. You can curse a creature in this way only once per turn.
 
 Source:	Guildmasters' Guide to Ravnica p. 25,
@@ -380,7 +380,7 @@ Source:	Guildmasters' Guide to Ravnica p. 25,
     <autolevel level="17">
       <feature optional="YES">
         <name>Peace Domain: Expansive Bond [2014]</name>
-        <text>The benefits of your Emboldening Bond and Protective Bond features now work when the creatures are within 60 feet of each other. Moreover, when a creature uses Protective Bond to take someone else's damage, the creature has resistance to that damage.
+        <text>The benefits of your Emboldening Bond and Protective Bond features now work when the creatures are within 60 feet of each other. Moreover, when a creature uses Protective Bond to take someone else&apos;s damage, the creature has resistance to that damage.
 
 Source:	Tasha's Cauldron of Everything p. 32</text>
       </feature>

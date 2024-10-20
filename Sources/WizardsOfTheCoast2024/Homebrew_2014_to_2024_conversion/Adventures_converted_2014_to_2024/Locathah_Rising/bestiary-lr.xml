@@ -151,7 +151,7 @@ Fhenimore's spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spe
 	• 3/Day each: control water, darkness, water breathing, water walk
 	• 1/Day each: call lightning, Evard's black tentacles</text>
     </trait>
-    <spells>command, create or destroy water, control water, darkness, water breathing, water walk, call lightning, Evard's black tentacles</spells>
+    <spells>command, create or destroy water, control water, darkness, water breathing, water walk, call lightning, Evard&apos;s black tentacles</spells>
     <description>Source:	Locathah Rising p. 20</description>
     <environment>coastal, underwater</environment>
   </monster>
@@ -216,7 +216,7 @@ Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing da
 Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 27 (5d10) thunder damage.</text>
       <attack>Thunderous Touch|+5|5d10</attack>
     </action>
-    <spells>command, create or destroy water, control water, darkness, water breathing, water walk, Evard's black tentacles, lightning bolt</spells>
+    <spells>command, create or destroy water, control water, darkness, water breathing, water walk, Evard&apos;s black tentacles, lightning bolt</spells>
     <environment>coastal, underwater</environment>
   </monster>
   <monster>
@@ -284,7 +284,7 @@ Melee or Ranged Weapon Attack: +11 to hit, reach 5 ft. or range 20/60 ft., one t
       <attack>Wave|+11|1d6+6</attack>
     </action>
     <action>
-      <name>Umberlee's Wake (Recharge 5-6)</name>
+      <name>Umberlee&apos;s Wake (Recharge 5-6)</name>
       <recharge>D5</recharge>
       <text>
 Power ripples out in a 60-foot radius sphere from a point within range (150 ft.) as the will of Umberlee affects all in her watery embrace. Each creature in that area must succeed on a DC 18 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save. This only affects targets that are submerged or floating in water. Gar Shatterkeel–Locathah Rising and any undead serving him are immune to this effect.</text>
@@ -292,7 +292,7 @@ Power ripples out in a 60-foot radius sphere from a point within range (150 ft.)
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Gar can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Gar regains spent legendary actions at the start of its turn.</text>
+      <text>Gar can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Gar regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Move</name>
@@ -464,7 +464,7 @@ Whymsee's spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell
 	• 3/Day each: control water, darkness, water breathing, water walk
 	• 1/Day each: call lightning, Evard's black tentacles</text>
     </trait>
-    <spells>command, create or destroy water, control water, darkness, water breathing, water walk, call lightning, Evard's black tentacles</spells>
+    <spells>command, create or destroy water, control water, darkness, water breathing, water walk, call lightning, Evard&apos;s black tentacles</spells>
     <description>Source:	Locathah Rising p. 20</description>
     <environment>coastal, underwater</environment>
   </monster>
@@ -485,7 +485,7 @@ Whymsee's spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell
     <save>Str +12, Dex +5, Con +10, Int +9, Wis +7</save>
     <skill/>
     <passive>14</passive>
-    <languages>Abyssal, Celestial, Infernal, Primordial, telepathy 60 ft. but can't speak</languages>
+    <languages>Abyssal, Celestial, Infernal, Primordial, telepathy 60 ft. but can&apos;t speak</languages>
     <cr>14</cr>
     <resist/>
     <immune>lightning; bludgeoning, piercing, slashing from nonmagical attacks</immune>
@@ -507,7 +507,7 @@ The kraken makes two tentacle attacks, each of which it can replace with one use
       <text>
 Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 20 (3d8 + 7) piercing damage.</text>
       <attack>Bite|+12|3d8+7</attack>
-      <text>If the target is a Medium or smaller creature grappled by the kraken, that creature is swallowed and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the kraken, and it takes 21 (6d6) acid damage at the start of each of the kraken's turns. One Medium or two smaller creatures can be swallowed at the same time.
+      <text>If the target is a Medium or smaller creature grappled by the kraken, that creature is swallowed and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the kraken, and it takes 21 (6d6) acid damage at the start of each of the kraken&apos;s turns. One Medium or two smaller creatures can be swallowed at the same time.
 
 If the kraken takes 35 damage or more on a single turn from a creature inside it, the kraken must succeed on a DC 23 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in spaces within 10 feet of the kraken. If the kraken dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 10 feet of movement, exiting prone.</text>
     </action>

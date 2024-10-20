@@ -17,7 +17,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 26 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Way of Mundanity (HB): Spell Deflection</name>
-        <text>You can use your Deflect Missiles ability to reduce the damage you take from magical sources. When targeted by any magical damage that isn't bludgeoning, slashing, or piercing you can spend 1 ki point to reduce the damage dealt as you would with Deflect Missiles. If you reduce the damage to 0, you can choose to cause your next melee attack to deal additional force damage equal to 1 of your martial arts dice.
+        <text>You can use your Deflect Missiles ability to reduce the damage you take from magical sources. When targeted by any magical damage that isn&apos;t bludgeoning, slashing, or piercing you can spend 1 ki point to reduce the damage dealt as you would with Deflect Missiles. If you reduce the damage to 0, you can choose to cause your next melee attack to deal additional force damage equal to 1 of your martial arts dice.
 
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 26 (Homebrew)</text>
       </feature>
@@ -25,7 +25,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 26 (Homebrew)</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Way of Mundanity (HB): Suppressing Ki</name>
-        <text>You've learned to use your ki to disrupt the magical nature of other creatures or objects. You can spend 3 ki points to cast counterspell, dispel magic, nondetection, or remove curse, using Wisdom as your spellcasting modifier. Beginning at 17th level, you can also spend 8 ki points to cast antimagic field as an action. (Added as spells in the Monk (Way of Mundanity) spell list)
+        <text>You&apos;ve learned to use your ki to disrupt the magical nature of other creatures or objects. You can spend 3 ki points to cast counterspell, dispel magic, nondetection, or remove curse, using Wisdom as your spellcasting modifier. Beginning at 17th level, you can also spend 8 ki points to cast antimagic field as an action. (Added as spells in the Monk (Way of Mundanity) spell list)
 
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 26 (Homebrew)</text>
       </feature>
@@ -66,7 +66,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 27 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Way of the Iron Grasp (HB): Iron Grasp Technique</name>
-        <text>You can disrupt the flow of ki in another creature's body with grappling techniques that prevent it from moving and harming allies. You master special martial arts techniques used to disable opponents and safeguard allies. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows and that creature is no more than one size category larger than you, you can force the creature to make a Strength or Dexterity saving throw (its choice) against your ki save DC. On a failed save, the target is grappled by you. You must use a free hand for the grapple as normal.
+        <text>You can disrupt the flow of ki in another creature&apos;s body with grappling techniques that prevent it from moving and harming allies. You master special martial arts techniques used to disable opponents and safeguard allies. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows and that creature is no more than one size category larger than you, you can force the creature to make a Strength or Dexterity saving throw (its choice) against your ki save DC. On a failed save, the target is grappled by you. You must use a free hand for the grapple as normal.
 
 While grappled in this way, the creature has disadvantage on attack rolls against targets other than you. If the creature uses its action to try to escape the grapple, it makes its ability check against your ki save DC. When it does so, you can expend 1 ki point as a reaction to impose disadvantage on its ability check.
 
@@ -90,7 +90,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 27 (Homebrew)</text>
     <autolevel level="11">
       <feature optional="YES">
         <name>Way of the Iron Grasp (HB): Colossal Grasp</name>
-        <text>You can use your Iron Grasp Technique to grapple creatures up to three size categories larger than you, rather than one, though you can't drag such a creature with you when you move.
+        <text>You can use your Iron Grasp Technique to grapple creatures up to three size categories larger than you, rather than one, though you can&apos;t drag such a creature with you when you move.
 
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 27 (Homebrew)</text>
       </feature>
@@ -104,7 +104,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 27 (Homebrew)</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Way of the Iron Grasp (HB): Crushing Grasp</name>
-        <text>Your grasp allows you to more easily interfere with the flow of ki in an opponent's body. When you attempt a stunning strike against a creature you're grappling with your Iron Grasp Technique, the creature has disadvantage on its saving throw.
+        <text>Your grasp allows you to more easily interfere with the flow of ki in an opponent&apos;s body. When you attempt a stunning strike against a creature you&apos;re grappling with your Iron Grasp Technique, the creature has disadvantage on its saving throw.
 
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 27 (Homebrew)</text>
       </feature>
@@ -114,7 +114,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 27 (Homebrew)</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Monastic Tradition: Way of the Four Elements Remastered (HB)</name>
-        <text>This Remastered subclass aims to bring the Four Elements subclass up to the precedent set by the other Player's Handbook monk subclasses in the following ways:
+        <text>This Remastered subclass aims to bring the Four Elements subclass up to the precedent set by the other Player&apos;s Handbook monk subclasses in the following ways:
 
 	• It recalculates the ki cost of spells and other abilities.
 
@@ -136,7 +136,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 28 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Way of the Four Elements Remastered (HB): Casting Elemental Spells</name>
-        <text>Some elemental disciplines allow you to cast spells. See chapter 10 of the Player's Handbook for the general rules of spellcasting. To cast one of these spells, you use its casting time and other rules, but you don't need to provide material components for it.
+        <text>Some elemental disciplines allow you to cast spells. See chapter 10 of the Player&apos;s Handbook for the general rules of spellcasting. To cast one of these spells, you use its casting time and other rules, but you don&apos;t need to provide material components for it.
 
 The maximum number of ki points you can spend to cast a spell in this way (including its base ki point cost and any additional ki points you spend to increase its level) is determined by your monk level, as shown in the Spells and Ki Points table.
 

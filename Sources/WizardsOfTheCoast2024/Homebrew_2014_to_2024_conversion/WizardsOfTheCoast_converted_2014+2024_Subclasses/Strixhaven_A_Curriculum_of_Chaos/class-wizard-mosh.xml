@@ -74,7 +74,7 @@ Source:	Strixhaven: A Curriculum of Chaos p. 3</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Mage of Lorehold: War Echoes [2014]</name>
-        <text>At 10th level, by pulling from the magic of the past, you can cause your opponent's old wounds to resonate anew. Once per turn, when a creature you can see hits a target with an attack roll, you can use your reaction to force the target to make a Wisdom saving throw against your spell save DC. On a failure, the target becomes vulnerable to one of the damage types dealt by the attack. This vulnerability lasts until the end of the target's next turn and affects the damage dealt by the triggering attack.
+        <text>At 10th level, by pulling from the magic of the past, you can cause your opponent&apos;s old wounds to resonate anew. Once per turn, when a creature you can see hits a target with an attack roll, you can use your reaction to force the target to make a Wisdom saving throw against your spell save DC. On a failure, the target becomes vulnerable to one of the damage types dealt by the attack. This vulnerability lasts until the end of the target&apos;s next turn and affects the damage dealt by the triggering attack.
 
 You can use your reaction in this way a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
@@ -84,7 +84,7 @@ Source:	Strixhaven: A Curriculum of Chaos p. 3</text>
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Mage of Lorehold: History's Whims [2014]</name>
+        <name>Mage of Lorehold: History&apos;s Whims [2014]</name>
         <text>At 14th level, through steeping yourself in the chaotic whims of history, you learn how to briefly channel the wild nature of time itself. As a bonus action, you can enter a state of chronal chaos. When you enter this state, and at the start of each of your subsequent turns while in this state, you gain one of the following benefits of your choice:
 
 Luck:
@@ -288,7 +288,7 @@ Source:	Strixhaven: A Curriculum of Chaos p. 6</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Mage of Silverquill: Eloquent Apprentice [2014]</name>
-        <text>At 2nd level, you learn one cantrip of your choice, either sacred flame or vicious mockery. It doesn't count against the number of cantrips you know, and it is added to your class spell list if it isn't there already.
+        <text>At 2nd level, you learn one cantrip of your choice, either sacred flame or vicious mockery. It doesn&apos;t count against the number of cantrips you know, and it is added to your class spell list if it isn&apos;t there already.
 
 Additionally, you gain proficiency in your choice of two of the following skills: Deception, Intimidation, Performance, Persuasion, or Insight.
 
@@ -310,7 +310,7 @@ Source:	Strixhaven: A Curriculum of Chaos p. 7</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Mage of Silverquill: Inky Shroud [2014]</name>
-        <text>At 6th level, you learn the darkness spell, and it is added to your class spell list if it isn't there already. If you are a wizard, you add it to your spellbook, if it's not there already.
+        <text>At 6th level, you learn the darkness spell, and it is added to your class spell list if it isn&apos;t there already. If you are a wizard, you add it to your spellbook, if it&apos;s not there already.
 
 You can cast the spell without expending a spell slot, and you can't do so again until you finish a long rest. When you cast the spell in this way, you can see normally through the darkness created, and when a creature you can see starts its turn in the darkness, you can deal 2d10 psychic damage to that creature.
 
@@ -323,7 +323,7 @@ Source:	Strixhaven: A Curriculum of Chaos p. 7</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Mage of Silverquill: Infusion of Eloquence [2014]</name>
-        <text>Beginning at 10th level, when you cast a spell that deals damage, you can invoke additional words of power to change the spell's damage type to your choice of psychic or radiant. Any creature damaged by the spell takes extra damage equal to your proficiency bonus and has its emotions swayed with despair or adoration, based on the damage type dealt:
+        <text>Beginning at 10th level, when you cast a spell that deals damage, you can invoke additional words of power to change the spell&apos;s damage type to your choice of psychic or radiant. Any creature damaged by the spell takes extra damage equal to your proficiency bonus and has its emotions swayed with despair or adoration, based on the damage type dealt:
 
 Psychic:
 The creature is frightened of you until the start of your next turn.

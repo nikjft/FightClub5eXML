@@ -38,7 +38,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 4 (Homebrew)</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Satire (HB): One for the Crowd</name>
-        <text>At 14th level you learn tasha's hideous laughter as a bard spell. If you already know it, you learn one other 1st level bard spell of your choice. When you fail a saving throw or miss an attack roll, you may use your reaction to cast tasha's hideous laughter on a creature you can see without expending a spell slot or requiring material components. You may cast it this way a number of times equal to your Charisma modifier, and you regain all expended uses when you finish a short or long rest.
+        <text>At 14th level you learn tasha&apos;s hideous laughter as a bard spell. If you already know it, you learn one other 1st level bard spell of your choice. When you fail a saving throw or miss an attack roll, you may use your reaction to cast tasha&apos;s hideous laughter on a creature you can see without expending a spell slot or requiring material components. You may cast it this way a number of times equal to your Charisma modifier, and you regain all expended uses when you finish a short or long rest.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 4 (Homebrew)</text>
       </feature>
@@ -61,8 +61,8 @@ You may target one additional humanoid with your war song starting at 6th level 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 5 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Skald (HB): Ancient Wolf's Song</name>
-        <text>Starting at 3rd level, whenever you use your bonus action to use the effect of your war song you can expend one use of your Bardic Inspiration to incite fury in your allies. The targeted allies can roll a bardic inspiration die instead of a 1d4 when rolling damage for a melee weapon attack, and can move up to 5 feet without provoking opportunity attacks in addition to the attack's other effects.
+        <name>Skald (HB): Ancient Wolf&apos;s Song</name>
+        <text>Starting at 3rd level, whenever you use your bonus action to use the effect of your war song you can expend one use of your Bardic Inspiration to incite fury in your allies. The targeted allies can roll a bardic inspiration die instead of a 1d4 when rolling damage for a melee weapon attack, and can move up to 5 feet without provoking opportunity attacks in addition to the attack&apos;s other effects.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 5 (Homebrew)</text>
       </feature>
@@ -82,7 +82,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 5 (Homebrew)</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Skald (HB): Embodiment of Legend</name>
-        <text>Starting at 14th level you can personify a legendary warrior if you perform for at least 1 minute by singing or reciting a poem about them. You must also concentrate for the duration of the performance. At the end of the performance, you may cast tenser's transformation without requiring concentration or material components. You can end the spell's effect as a bonus action. Once you use this ability you cannot use it again until you finish a long rest.
+        <text>Starting at 14th level you can personify a legendary warrior if you perform for at least 1 minute by singing or reciting a poem about them. You must also concentrate for the duration of the performance. At the end of the performance, you may cast tenser&apos;s transformation without requiring concentration or material components. You can end the spell&apos;s effect as a bonus action. Once you use this ability you cannot use it again until you finish a long rest.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 5 (Homebrew)</text>
       </feature>

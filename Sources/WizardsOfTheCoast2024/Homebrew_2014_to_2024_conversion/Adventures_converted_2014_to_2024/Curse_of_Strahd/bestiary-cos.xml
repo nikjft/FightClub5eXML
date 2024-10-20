@@ -17,10 +17,10 @@
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>10</cr>
     <resist/>
-    <immune>poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</immune>
+    <immune>poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t adamantine</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
@@ -266,7 +266,7 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slash
     <save>Dex +6, Int +4</save>
     <skill>Acrobatics +6, Deception +3, Perception +3, Stealth +9</skill>
     <passive>13</passive>
-    <languages>Thieves' cant plus any two languages</languages>
+    <languages>Thieves&apos; cant plus any two languages</languages>
     <cr>8</cr>
     <resist>poison</resist>
     <immune/>
@@ -378,8 +378,8 @@ Baba Lysaga is a 16th-level spellcaster. Her spellcasting ability is Intelligenc
 	• 8th level (1 slots): power word stun</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 2, 1, 1, 1</slots>
-    <spells>acid splash, fire bolt, light, mage hand, prestidigitation, detect magic, magic missile, sleep, witch bolt, crown of madness, enlarge/reduce, misty step, dispel magic, fireball, lightning bolt, blight, Evard's black tentacles, polymorph, cloudkill, geas, scrying, programmed illusion, true seeing, finger of death, mirage arcane, power word stun</spells>
-    <description>Two women gave life to Strahd von Zarovich. The first was Queen Ravenovia van Roeyen, Strahd's biological mother. The second was the queen's midwife, a devout follower of Mother Night named Baba Lysaga. Although it was the former who raised Strahd and enabled him to follow in his father's footsteps, it was the latter who sensed a potential for greatness and darkness in Strahd surpassing that of any other mortal. Lysaga believed then, as she believes now, that she is Strahd's true mother.
+    <spells>acid splash, fire bolt, light, mage hand, prestidigitation, detect magic, magic missile, sleep, witch bolt, crown of madness, enlarge/reduce, misty step, dispel magic, fireball, lightning bolt, blight, Evard&apos;s black tentacles, polymorph, cloudkill, geas, scrying, programmed illusion, true seeing, finger of death, mirage arcane, power word stun</spells>
+    <description>Two women gave life to Strahd von Zarovich. The first was Queen Ravenovia van Roeyen, Strahd's biological mother. The second was the queen's midwife, a devout follower of Mother Night named Baba Lysaga. Although it was the former who raised Strahd and enabled him to follow in his father&apos;s footsteps, it was the latter who sensed a potential for greatness and darkness in Strahd surpassing that of any other mortal. Lysaga believed then, as she believes now, that she is Strahd&apos;s true mother.
 
 Other Mother:
 When Strahd was still a baby in his crib, Baba Lysaga cast protective spells on him and crept into his nursery on stormy nights to sing magical rhymes to him. She also placed the "spark of magic" in him, ensuring that he would become a spellcaster.
@@ -408,7 +408,7 @@ Source:	Curse of Strahd p. 228</description>
     <environment/>
   </monster>
   <monster>
-    <name>Baba Lysaga's Creeping Hut [2014]</name>
+    <name>Baba Lysaga&apos;s Creeping Hut [2014]</name>
     <size>G</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -646,7 +646,7 @@ The witch is a 3rd-level spellcaster. Its spellcasting ability is Intelligence (
 	• 2nd level (2 slots): alter self, invisibility</text>
     </trait>
     <slots>0, 4, 2</slots>
-    <spells>mage hand, prestidigitation, ray of frost, ray of sickness, sleep, Tasha's hideous laughter, alter self, invisibility</spells>
+    <spells>mage hand, prestidigitation, ray of frost, ray of sickness, sleep, Tasha&apos;s hideous laughter, alter self, invisibility</spells>
     <description>The mad women and men known as Barovian witches forge pacts with Strahd and the Dark Powers of Ravenloft in exchange for magic and longevity. They prefer to live in the shadows and can see in the dark. When traveling in the open, they use alter self spells to assume less conspicuous forms. They also use these spells to grow long, sharp claws with which they can attack.
 
 Brothers and Sisters of Strahd:
@@ -677,7 +677,7 @@ Source:	Curse of Strahd p. 229</description>
     <save/>
     <skill/>
     <passive>11</passive>
-    <languages>understands Abyssal, Common, and Infernal but can't speak </languages>
+    <languages>understands Abyssal, Common, and Infernal but can&apos;t speak </languages>
     <cr>3</cr>
     <resist/>
     <immune>fire</immune>
@@ -943,7 +943,7 @@ Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one ta
     <save/>
     <skill>Insight +4, Perception +6</skill>
     <passive>16</passive>
-    <languages>Common (can't speak in raven form)</languages>
+    <languages>Common (can&apos;t speak in raven form)</languages>
     <cr>2</cr>
     <resist/>
     <immune>bludgeoning, piercing, slashing from nonmagical attacks not made with silvered weapons</immune>
@@ -1150,10 +1150,10 @@ Instead of dealing damage, Doru can grapple the target (escape DC 13).</text>
     <save/>
     <skill>Perception +4</skill>
     <passive>14</passive>
-    <languages>Common (can't speak in wolf form)</languages>
+    <languages>Common (can&apos;t speak in wolf form)</languages>
     <cr>3</cr>
     <resist/>
-    <immune>bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</immune>
+    <immune>bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</immune>
     <vulnerable/>
     <conditionImmune/>
     <senses/>
@@ -1322,7 +1322,7 @@ The target must succeed on a DC 18 Constitution saving throw or be paralyzed for
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The undead can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The undead regains spent legendary actions at the start of its turn.</text>
+      <text>The undead can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The undead regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Cantrip</name>
@@ -1374,12 +1374,12 @@ Exethanter is an 18th-level spellcaster. Its spellcasting ability is Intelligenc
 	• 9th level (1 slots): power word kill</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
-    <spells>mage hand, prestidigitation, ray of frost, detect magic, magic missile, shield, thunderwave, detect thoughts, invisibility, Melf's acid arrow, mirror image, animate dead, counterspell, dispel magic, fireball, blight, dimension door, cloudkill, scrying, disintegrate, globe of invulnerability, finger of death, plane shift, dominate monster, power word stun, power word kill</spells>
+    <spells>mage hand, prestidigitation, ray of frost, detect magic, magic missile, shield, thunderwave, detect thoughts, invisibility, Melf&apos;s acid arrow, mirror image, animate dead, counterspell, dispel magic, fireball, blight, dimension door, cloudkill, scrying, disintegrate, globe of invulnerability, finger of death, plane shift, dominate monster, power word stun, power word kill</spells>
     <description>Source:	Curse of Strahd p. 189</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ezmerelda d'Avenir [2014]</name>
+    <name>Ezmerelda d&apos;Avenir [2014]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>Chaotic Good</alignment>
@@ -1455,7 +1455,7 @@ Ezmerelda is a 7th-level spellcaster. Her spellcasting ability is Intelligence (
     </trait>
     <slots>0, 4, 3, 3, 1</slots>
     <spells>fire bolt, light, mage hand, prestidigitation, protection from evil and good, magic missile, shield, darkvision, knock, mirror image, clairvoyance, lightning bolt, magic circle, greater invisibility</spells>
-    <description>Ezmerelda d'Avenir, a Vistana, is the protégé of Rudolph van Richten — despite the fact that her first encounter with the vampire hunter was anything but pleasant.
+    <description>Ezmerelda d&apos;Avenir, a Vistana, is the protégé of Rudolph van Richten — despite the fact that her first encounter with the vampire hunter was anything but pleasant.
 
 Witness to Tragedy:
 When Ezmerelda was a little girl, her family kidnapped van Richten's teenage son, Erasmus, and delivered him into the clutches of a vampire. Even today, years later, she can still hear Erasmus's pleas for mercy. That event haunted her childhood.
@@ -1955,10 +1955,10 @@ Kasimir is a 9th-level spellcaster. Its spellcasting ability is Intelligence (sp
     <save/>
     <skill>Perception +4</skill>
     <passive>14</passive>
-    <languages>Common (can't speak in wolf form)</languages>
+    <languages>Common (can&apos;t speak in wolf form)</languages>
     <cr>3</cr>
     <resist/>
-    <immune>bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</immune>
+    <immune>bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</immune>
     <vulnerable/>
     <conditionImmune/>
     <senses/>
@@ -2413,7 +2413,7 @@ Madam Eva is a 16th-level spellcaster. Her spellcasting ability is Wisdom (spell
     </trait>
     <slots>0, 4, 3, 3, 3, 2, 1, 1, 1</slots>
     <spells>light, mending, sacred flame, thaumaturgy, bane, command, detect evil and good, protection from evil and good, lesser restoration, protection from poison, spiritual weapon, create food and water, speak with dead, spirit guardians, divination, freedom of movement, guardian of faith, greater restoration, raise dead, find the path, harm, true seeing, fire storm, regenerate, earthquake</spells>
-    <description>The fortune-teller Madam Eva lives among the Vistani but isn't truly one of them. She appears to be in her seventies, but she is, in fact, much older.
+    <description>The fortune-teller Madam Eva lives among the Vistani but isn&apos;t truly one of them. She appears to be in her seventies, but she is, in fact, much older.
 
 Royal Blood:
 Madam Eva is Strahd's half-sister, though Strahd is unaware of this fact. Her real name is Katarina, and she is the daughter of a Vistani woman whom King Barov, Strahd's father, took to his bed during one of his many crusades. Madam Eva knows she is Strahd's half-sister but has told no one of the royal blood flowing through her veins.
@@ -2464,7 +2464,7 @@ Source:	Curse of Strahd p. 233</description>
 Majesto can use its action to polymorph into a beast form that resembles a rat (speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</text>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede Majesto's darkvision.</text>
     </trait>
@@ -2713,7 +2713,7 @@ Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashi
 Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 3 (1d4 + 1) piercing damage.</text>
       <attack>Dagger|+3|1d4+1</attack>
     </action>
-    <description>Mongrelfolk are humanoids that have undergone, or whose ancestors underwent, horrific magical transformations, to the extent that they retain only a fraction of their original being. Their humanoid bodies incorporate the features of various beasts. For example, one mongrelfolk might have the basic body shape of a dwarf with a head that combines the features of a cat and a lizard, one arm that ends in a crab's pincer, and one leg that ends in a cloven hoof. Another might have the skin and horns of a cow, the eyes of a spider, frog's legs, and a scaly lizard's tail. Each mongrelfolk's mad combination of humanoid and animal forms results in its having a slow, awkward gait.
+    <description>Mongrelfolk are humanoids that have undergone, or whose ancestors underwent, horrific magical transformations, to the extent that they retain only a fraction of their original being. Their humanoid bodies incorporate the features of various beasts. For example, one mongrelfolk might have the basic body shape of a dwarf with a head that combines the features of a cat and a lizard, one arm that ends in a crab's pincer, and one leg that ends in a cloven hoof. Another might have the skin and horns of a cow, the eyes of a spider, frog's legs, and a scaly lizard&apos;s tail. Each mongrelfolk&apos;s mad combination of humanoid and animal forms results in its having a slow, awkward gait.
 
 Sound Mimicry:
 Mongrelfolk have misshapen mouths and vocal cords. They speak fragmented Common mixed with various animal cries and nonsense. They can effectively imitate sounds made by beasts and humanoids that they've heard. Mongrelfolk aren't sophisticated enough to use these sounds as a covert form of communication, but they can use the sounds to lure enemies into a trap or otherwise distract them.
@@ -2750,7 +2750,7 @@ Source:	Curse of Strahd p. 234</description>
     <passive>16</passive>
     <languages>Abyssal, Common, Infernal, Primordial</languages>
     <cr>5</cr>
-    <resist>cold, fire; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold, fire; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <immune/>
     <vulnerable/>
     <conditionImmune>charmed</conditionImmune>
@@ -3239,7 +3239,7 @@ Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) pierci
     <save/>
     <skill>Performance +2</skill>
     <passive>11</passive>
-    <languages>understands Common but doesn't speak and can't read or write</languages>
+    <languages>understands Common but doesn&apos;t speak and can&apos;t read or write</languages>
     <cr>1/4</cr>
     <resist/>
     <immune>poison</immune>
@@ -3263,7 +3263,7 @@ Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeonin
 Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.</text>
       <attack>Dart|+4|1d4+2</attack>
     </action>
-    <description>After her husband died in battle, Duchess Dorfniya Dilisnya set her sights on becoming Count Strahd von Zarovich's bride, but she failed to win his love. Her visits to the castle were nonetheless frequent, and she never traveled without her fool, the delightful Pidlwick. The little man was like a ray of sunshine in Castle Ravenloft, and though he failed to amuse Strahd, he delighted Tatyana and Sergei with his jokes and gambols. As a result, Strahd didn't object whenever Pidlwick and the duchess came to visit.
+    <description>After her husband died in battle, Duchess Dorfniya Dilisnya set her sights on becoming Count Strahd von Zarovich&apos;s bride, but she failed to win his love. Her visits to the castle were nonetheless frequent, and she never traveled without her fool, the delightful Pidlwick. The little man was like a ray of sunshine in Castle Ravenloft, and though he failed to amuse Strahd, he delighted Tatyana and Sergei with his jokes and gambols. As a result, Strahd didn&apos;t object whenever Pidlwick and the duchess came to visit.
 
 Eager to please and desiring to return the courtesy, the duchess commissioned the legendary toymaker Fritz von Weerg to build a clockwork effigy of Pidlwick as a gift for Strahd's family. Although the duchess's heart was in the right place, the effigy didn't have Pidlwick's abilities, and it failed to entertain anyone. Even though Pidlwick himself had spent months training it, the effigy couldn't speak, and its movements were more awkward than amusing.
 
@@ -3354,7 +3354,7 @@ Rahadin's innate spellcasting ability is Intelligence. He can innately cast the 
 	• 3/Day: misty step, phantom steed</text>
     </trait>
     <spells>magic weapon, nondetection, misty step, phantom steed</spells>
-    <description>Rahadin, the dusk elf chamberlain of Castle Ravenloft, has served Strahd's family faithfully for nearly five hundred years. He is Strahd's eternal servant, a longtime comrade-in-arms, and a ruthless warrior who has killed thousands in his lifetime.
+    <description>Rahadin, the dusk elf chamberlain of Castle Ravenloft, has served Strahd&apos;s family faithfully for nearly five hundred years. He is Strahd&apos;s eternal servant, a longtime comrade-in-arms, and a ruthless warrior who has killed thousands in his lifetime.
 
 Exile:
 Rahadin was exiled for refusing to bow down to a dusk elf prince whom he considered weak and corrupt. When the dusk elves later declined to pay fealty to King Barov, Rahadin helped Barov conquer them. The elf kingdom's royal line was obliterated, the dusk elves hunted like rabbits. The few that survived were either subjugated or forced to live among the Vistani. So pleased was Barov with Rahadin that the king made the dusk elf an honorary member of his family.
@@ -3704,7 +3704,7 @@ Revenants that were spellcasters before they died might retain some or all of th
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands all languages it knew in life but can't speak</languages>
+    <languages>understands all languages it knew in life but can&apos;t speak</languages>
     <cr>1</cr>
     <resist>acid, fire, lightning, thunder; bludgeoning, piercing, slashing from nonmagical attacks</resist>
     <immune>necrotic, poison</immune>
@@ -3923,7 +3923,7 @@ Strahd magically calls 2d4 swarm of bats or swarm of rats, provided that the sun
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Strahd can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Strahd regains spent legendary actions at the start of its turn.</text>
+      <text>Strahd can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Strahd regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Move</name>
@@ -4025,7 +4025,7 @@ Source:	Curse of Strahd p. 240</description>
     <save>Wis +0</save>
     <skill/>
     <passive>8</passive>
-    <languages>understands the languages it knew in life but can't speak</languages>
+    <languages>understands the languages it knew in life but can&apos;t speak</languages>
     <cr>1</cr>
     <resist/>
     <immune>poison</immune>
@@ -4080,7 +4080,7 @@ Source:	Curse of Strahd p. 241</description>
     <environment/>
   </monster>
   <monster>
-    <name>Strahd's Animated Armor [2014]</name>
+    <name>Strahd&apos;s Animated Armor [2014]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Lawful Evil</alignment>
@@ -4096,7 +4096,7 @@ Source:	Curse of Strahd p. 241</description>
     <save/>
     <skill>Perception +3</skill>
     <passive>13</passive>
-    <languages>understands Common but can't speak</languages>
+    <languages>understands Common but can&apos;t speak</languages>
     <cr>6</cr>
     <resist>cold, fire</resist>
     <immune>lightning, poison</immune>
@@ -4405,7 +4405,7 @@ The possession lasts until the body drops to 0 hit points, Thorn ends it as a bo
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands Common and Druidic but doesn't speak</languages>
+    <languages>understands Common and Druidic but doesn&apos;t speak</languages>
     <cr>7</cr>
     <resist/>
     <immune/>
@@ -4445,7 +4445,7 @@ Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 16 (3d6 + 6) blud
 Melee Weapon Attack: +9 to hit, reach 15 ft., one creature not grappled by the blight. The target is grappled (escape DC 15). Until the grapple ends, the target takes 9 (1d6 + 6) bludgeoning damage at the start of each of its turns. The root has AC 15 and can be severed by dealing 6 slashing damage or more to it at once. Cutting the root doesn't hurt the blight, but ends the grapple.</text>
       <attack>Grasping Root|+9|1d6+6</attack>
     </action>
-    <description>Blights (as described in the Monster Manual) are evil, ambulatory plant creatures, and a tree blight is a particularly enormous variety. It looks like a dead tree or treant, 30 feet tall, with spongy wooden flesh, thorny branches, and rubbery roots that trail behind it. It has blood for sap and is so saturated with blood that it doesn't catch fire easily.
+    <description>Blights (as described in the Monster Manual) are evil, ambulatory plant creatures, and a tree blight is a particularly enormous variety. It looks like a dead tree or treant, 30 feet tall, with spongy wooden flesh, thorny branches, and rubbery roots that trail behind it. It has blood for sap and is so saturated with blood that it doesn&apos;t catch fire easily.
 
 Vicious Carnivore:
 A tree blight feeds on warm-blooded prey and takes perverse delight in causing carnage. It strikes with its heavy branches and crushes prey to death with its roots. It can open its gaping, tooth-filled mouth and bite a creature caught in its roots. The roots of a tree blight can be severed, though cutting them causes the blight no harm.
@@ -4473,10 +4473,10 @@ Source:	Curse of Strahd p. 230</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>5</cr>
     <resist/>
-    <immune>lightning, poison; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</immune>
+    <immune>lightning, poison; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t adamantine</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
@@ -4840,7 +4840,7 @@ Instead of dealing damage, Volenta can grapple the target (escape DC 13).</text>
     <save/>
     <skill>Insight +4, Perception +6</skill>
     <passive>16</passive>
-    <languages>Common (can't speak in raven form)</languages>
+    <languages>Common (can&apos;t speak in raven form)</languages>
     <cr>2</cr>
     <resist/>
     <immune>bludgeoning, piercing, slashing from nonmagical attacks not made with silvered weapons</immune>
@@ -4964,10 +4964,10 @@ Ranged Weapon Attack: +4 to hit, ranged 150/600 ft., one target. Hit: 6 (1d8 + 2
     <save/>
     <skill>Perception +4</skill>
     <passive>14</passive>
-    <languages>Common (can't speak in wolf form)</languages>
+    <languages>Common (can&apos;t speak in wolf form)</languages>
     <cr>3</cr>
     <resist/>
-    <immune>bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</immune>
+    <immune>bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</immune>
     <vulnerable/>
     <conditionImmune/>
     <senses/>

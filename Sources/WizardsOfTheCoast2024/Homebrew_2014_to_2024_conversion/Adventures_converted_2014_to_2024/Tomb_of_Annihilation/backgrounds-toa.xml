@@ -5,7 +5,7 @@
     <proficiency>Insight, Religion</proficiency>
     <trait>
       <name>Description</name>
-      <text>You have always been fascinated by other cultures, from the most ancient and primeval lost lands to the most modern civilizations. By studying other cultures' customs, philosophies, laws, rituals, religious beliefs, languages, and art, you have learned how tribes, empires, and all forms of society in between craft their own destinies and doom. This knowledge came to you not only through books and scrolls, but also through first-hand observation — by visiting far-flung settlements and exploring local histories and customs.
+      <text>You have always been fascinated by other cultures, from the most ancient and primeval lost lands to the most modern civilizations. By studying other cultures&apos; customs, philosophies, laws, rituals, religious beliefs, languages, and art, you have learned how tribes, empires, and all forms of society in between craft their own destinies and doom. This knowledge came to you not only through books and scrolls, but also through first-hand observation — by visiting far-flung settlements and exploring local histories and customs.
 
 	• Skill Proficiencies: Insight, Religion
 	• Languages: Two of your choice
@@ -15,7 +15,7 @@ Source:	Tomb of Annihilation p. 191</text>
     </trait>
     <trait>
       <name>Cultural Chameleon</name>
-      <text>Before becoming an adventurer, you spent much of your adult life away from your homeland, living among people different from your kin. You came to understand these foreign cultures and the ways of their people, who eventually treated you as one of their own. One culture had more of an influence on you than any other, shaping your beliefs and customs. Choose a race whose culture you've adopted, or roll on the Adopted Culture table.
+      <text>Before becoming an adventurer, you spent much of your adult life away from your homeland, living among people different from your kin. You came to understand these foreign cultures and the ways of their people, who eventually treated you as one of their own. One culture had more of an influence on you than any other, shaping your beliefs and customs. Choose a race whose culture you&apos;ve adopted, or roll on the Adopted Culture table.
 
 Adopted Culture:
 d8 | Culture
@@ -30,11 +30,11 @@ d8 | Culture
     </trait>
     <trait>
       <name>Feature: Adept Linguist</name>
-      <text>You can communicate with humanoids who don't speak any language you know. You must observe the humanoids interacting with one another for at least 1 day, after which you learn a handful of important words, expressions, and gestures — enough to communicate on a rudimentary level.</text>
+      <text>You can communicate with humanoids who don&apos;t speak any language you know. You must observe the humanoids interacting with one another for at least 1 day, after which you learn a handful of important words, expressions, and gestures — enough to communicate on a rudimentary level.</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>Anthropologists leave behind the societies into which they were born to discover what life is like in other parts of the world. They seek to see how other races and civilizations survive — or why they did not. Some anthropologists are driven by intellectual curiosity, while others want the fame and recognition that comes with being the first to discover a new people, a lost tribe, or the truth about an ancient empire's downfall.
+      <text>Anthropologists leave behind the societies into which they were born to discover what life is like in other parts of the world. They seek to see how other races and civilizations survive — or why they did not. Some anthropologists are driven by intellectual curiosity, while others want the fame and recognition that comes with being the first to discover a new people, a lost tribe, or the truth about an ancient empire&apos;s downfall.
 
 d6 | Personality Trait
 1 | I prefer the company of those who aren't like me, including people of other races
@@ -104,7 +104,7 @@ d8 | Item
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>Few archaeologists can resist the lure of an unexplored ruin or dungeon, particularly if such a site is the source of legends or is rumored to contain the treasures and relics of wizards, warlords, or royalty. Some archaeologists plunder for wealth or fame, while others consider it their calling to illuminate the past or keep the world's greatest treasures from falling into the wrong hands. Whatever their motivations, archaeologists combine the qualities of a scrappy historian with the self-made heroism of a treasure-hunting scoundrel.
+      <text>Few archaeologists can resist the lure of an unexplored ruin or dungeon, particularly if such a site is the source of legends or is rumored to contain the treasures and relics of wizards, warlords, or royalty. Some archaeologists plunder for wealth or fame, while others consider it their calling to illuminate the past or keep the world&apos;s greatest treasures from falling into the wrong hands. Whatever their motivations, archaeologists combine the qualities of a scrappy historian with the self-made heroism of a treasure-hunting scoundrel.
 
 d8 | Personality Trait
 1 | I love a good puzzle or mystery.

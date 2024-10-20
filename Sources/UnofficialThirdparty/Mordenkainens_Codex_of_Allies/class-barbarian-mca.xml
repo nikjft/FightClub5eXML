@@ -26,7 +26,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 2 (Homebrew)</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Bloodrager (HB): Crippling Blow</name>
-        <text>At 6th level, whenever you spend a Bloodrage die or hit die to increase an attack's damage, you can choose to forego gaining temporary hit points to channel your fury into a crippling blow. The target must succeed on a Constitution saving throw (DC equals 8 + your Proficiency bonus + your Strength modifier) or have its movement speed reduced by half until it succeeds on the saving throw. The creature can repeat this saving throw at the start of each of its turns.
+        <text>At 6th level, whenever you spend a Bloodrage die or hit die to increase an attack&apos;s damage, you can choose to forego gaining temporary hit points to channel your fury into a crippling blow. The target must succeed on a Constitution saving throw (DC equals 8 + your Proficiency bonus + your Strength modifier) or have its movement speed reduced by half until it succeeds on the saving throw. The creature can repeat this saving throw at the start of each of its turns.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 2 (Homebrew)</text>
       </feature>

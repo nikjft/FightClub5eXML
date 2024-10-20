@@ -102,7 +102,7 @@ Source:	Unearthed Arcana: Kits Of Old p. 4</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Scout (UA): Bonus Proficiencies</name>
-        <text>When you choose this archetype at 3rd level, you gain proficiency in three of the following skills of your choice: Acrobatics, Athletics, Investigation, Medicine, Nature, Perception, Stealth, or Survival. You can choose to gain proficiency with thieves' tools in place of one skill choice.
+        <text>When you choose this archetype at 3rd level, you gain proficiency in three of the following skills of your choice: Acrobatics, Athletics, Investigation, Medicine, Nature, Perception, Stealth, or Survival. You can choose to gain proficiency with thieves&apos; tools in place of one skill choice.
 
 Source:	Unearthed Arcana: Kits Of Old p. 4</text>
       </feature>
@@ -132,7 +132,7 @@ Source:	Unearthed Arcana: Kits Of Old p. 4</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Scout (UA): Natural Explorer</name>
-        <text>You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you're proficient in.
+        <text>You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you&apos;re proficient in.
 
 While traveling for an hour or more in your favored terrain, you gain the following benefits:
 

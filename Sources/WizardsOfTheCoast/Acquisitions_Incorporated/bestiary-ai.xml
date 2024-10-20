@@ -64,7 +64,7 @@ The ancient deep crow releases an ear-splitting caw. Each creature within 60 fee
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The monstrosity can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity regains spent legendary actions at the start of its turn.</text>
+      <text>The monstrosity can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Detect</name>
@@ -151,7 +151,7 @@ Auspicia's innate spellcasting ability is Intelligence. She can innately cast th
 	• 1/Day each: augury</text>
     </trait>
     <spells>detect thoughts, augury</spells>
-    <description>The youngest sister of Omin Dran, the half-elf Auspicia Dran had her life torn apart as a child when she was seized by a mysterious creature called the Wandering Crypt. Having spent long years in a kind of dark dream within the crypt, she was saved in the end by her brother Omin's tireless efforts and the valor of his handpicked "C" Team. Now returned safely to the world-and with the false Auspicia of the crypt's creation slain-she focuses on trying to discover her own identity and to work through the ongoing complications arising from her ordeal.
+    <description>The youngest sister of Omin Dran, the half-elf Auspicia Dran had her life torn apart as a child when she was seized by a mysterious creature called the Wandering Crypt. Having spent long years in a kind of dark dream within the crypt, she was saved in the end by her brother Omin&apos;s tireless efforts and the valor of his handpicked "C" Team. Now returned safely to the world-and with the false Auspicia of the crypt&apos;s creation slain-she focuses on trying to discover her own identity and to work through the ongoing complications arising from her ordeal.
 
 When Auspicia emerged from the Wandering Crypt, she carried within her a growing level of psionic power. She can't help but read others' minds, but finds that wearing a diamond earring helps tamp that unwitting ability down. This magic has also left her connected to the crypt in a way she doesn't understand, even as it grants her occasional memories of others still trapped there and an awareness of faraway places. In combat, she manifests an instinctive knowledge of events before they happen, often making use of this ability to bring a fight to a standstill that encourages parley. But she has only just begun to explore her full precognitive potential.
 
@@ -218,7 +218,7 @@ Brahma is a 4th-level spellcaster. Her spellcasting ability is Charisma (spell s
     </trait>
     <slots>0, 4, 3</slots>
     <spells>mage hand, message, vicious mockery, charm person, heroism, illusory script, sleep, unseen servant, cloud of daggers, invisibility</spells>
-    <description>Formally a former member of the "B" Team, Brahma Lutier is a gifted cartographer, spy, and troubadour. Tutored in at least the latter of those vocations by Audra Courtier (wife of Propha Dran and co-owner of the Dran &amp; Courtier inn of Red Larch), Brahma's specialty is a song of domination that is legendarily difficult to resist.
+    <description>Formally a former member of the "B" Team, Brahma Lutier is a gifted cartographer, spy, and troubadour. Tutored in at least the latter of those vocations by Audra Courtier (wife of Propha Dran and co-owner of the Dran &amp; Courtier inn of Red Larch), Brahma&apos;s specialty is a song of domination that is legendarily difficult to resist.
 
 Her retirement is said to be connected to a falling out with husband Oak Truestrike, and Brahma has been operating as a solo agent for some time now. Known for a personality that is murderous and cheery in equal part, she utilizes an instrument of dragonborn design in combat. Known as a war lute, this unique item comes replete with hidden storage and powerful weaponry.
 
@@ -388,7 +388,7 @@ Until this grapple ends, the target is restrained, and the deep crow can't use i
 Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.</text>
       <attack>Claw|+9|2d6+5</attack>
     </action>
-    <description>The only warning you'll get is that fearsome, far-off caw, echoing from the darkness like a death knell. For by the time those glowing red eyes fix on you, it's far too late to run...
+    <description>The only warning you&apos;ll get is that fearsome, far-off caw, echoing from the darkness like a death knell. For by the time those glowing red eyes fix on you, it&apos;s far too late to run...
 
 Some adventurers and sages whisper that deep crows were first spawned as the familiars of evil arcane casters, abandoned in the subterranean depths and left to grow to enormous size. Others claim these creatures were once normal crows transmuted by vile essence and viler powers. But one thing all agree on is that ending up a meal for one of these monstrosities is a too-real threat for those who stumble into their deadly lairs.
 
@@ -409,7 +409,7 @@ Source:	Acquisitions Incorporated p. 210</description>
     <environment/>
   </monster>
   <monster>
-    <name>Donaar Blit'zen</name>
+    <name>Donaar Blit&apos;zen</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (dragonborn)</type>
@@ -535,7 +535,7 @@ Flabbergast is a 9th-level spellcaster. His spellcasting ability is Intelligence
     </trait>
     <slots>0, 4, 3, 3, 3, 1</slots>
     <spells>fire bolt, light, mage hand, prestidigitation, detect magic, mage armor, distort value, gift of gab, suggestion, fast friends, lightning bolt, greater invisibility, cone of cold</spells>
-    <description>Not much is known of the mysterious and aloof majordomo of Acquisitions Incorporated Head Office, the mage known as Flabbergast. It's said that he hails from Neverwinter, and that his wealthy family helped erect and carve the famous Dolphin Bridge in that city. Although he detests physical labor, Flabbergast is a bit of a bridge builder in his own way, always striving to bring people together and flexing his diplomatic muscles. A pacifist bureaucrat, he abhors violence, and rarely puts his magical prowess on display.
+    <description>Not much is known of the mysterious and aloof majordomo of Acquisitions Incorporated Head Office, the mage known as Flabbergast. It&apos;s said that he hails from Neverwinter, and that his wealthy family helped erect and carve the famous Dolphin Bridge in that city. Although he detests physical labor, Flabbergast is a bit of a bridge builder in his own way, always striving to bring people together and flexing his diplomatic muscles. A pacifist bureaucrat, he abhors violence, and rarely puts his magical prowess on display.
 
 One thing that is known (though it's seldom spoken of) is that Flabbergast once worked for Dran Enterprises, and specifically for Portentia Dran. He carries a certain amount of guilt around being complicit in certain Dran Enterprises' dealings, and helped Acquisitions Incorporated on the side even before taking up an official role with the company. Though Head Office certainly trusts him, others might wonder where his true loyalties lie.
 
@@ -601,7 +601,7 @@ Jim is a 9th-level spellcaster. His spellcasting ability is Intelligence (spell 
 *New spell introduced in chapter 3</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 1</slots>
-    <spells>fire bolt, friends, mage hand, minor illusion, prestidigitation, disguise self, Jim's magic missile, mage armor, invisibility, Jim's glowing coin, incite greed, fireball, conjure minor elementals, polymorph, mislead</spells>
+    <spells>fire bolt, friends, mage hand, minor illusion, prestidigitation, disguise self, Jim&apos;s magic missile, mage armor, invisibility, Jim&apos;s glowing coin, incite greed, fireball, conjure minor elementals, polymorph, mislead</spells>
     <description>Have a magical day!
 
 James Winifred Darkmagic III is the scion of a mysterious, multiplanar wizarding family. Jim's arcane pedigree has long preceded him, incorporating equally healthy amounts of magical training and innate eldritch prowess. However, despite a natural talent that could have allowed him to make a name for himself as a court wizard, or perhaps "that strange old man in the village," Jim's original penchant was not for the magic of scroll or spell, but for the stage.
@@ -612,7 +612,7 @@ Source:	Acquisitions Incorporated p. 197</description>
     <environment/>
   </monster>
   <monster>
-    <name>K'thriss Drow'b</name>
+    <name>K&apos;thriss Drow&apos;b</name>
     <size>M</size>
     <type>humanoid (elf)</type>
     <alignment>Chaotic Neutral</alignment>
@@ -715,7 +715,7 @@ Source:	Acquisitions Incorporated p. 202</description>
     <save/>
     <skill>Perception +1</skill>
     <passive>11</passive>
-    <languages>understands Common but can't speak</languages>
+    <languages>understands Common but can&apos;t speak</languages>
     <cr>2</cr>
     <exp>450</exp>
     <resist>bludgeoning, piercing, slashing from nonmagical attacks</resist>
@@ -831,7 +831,7 @@ Môrgæn is a 9th-level spellcaster. Her spellcasting ability is Wisdom (spell s
 	• 3rd level (2 slots): conjure animals</text>
     </trait>
     <slots>0, 4, 3, 2</slots>
-    <spells>mage hand, alarm, animal friendship, hunter's mark, pass without trace, spike growth, conjure animals</spells>
+    <spells>mage hand, alarm, animal friendship, hunter&apos;s mark, pass without trace, spike growth, conjure animals</spells>
     <description>If I had wanted to kill, I would have killed.
 
 The ranger Môrgæn is a renowned tracker and hunter, able to pinpoint-target foes at any range, then vanish into the woods with no one the wiser. Her legendary ability with the longbow and the custom arrows she crafts instills fear into the hearts of her many enemies-and more than a few of her coworkers. Famously, she is the only member of Acquisitions Incorporated known to be paid in advance, lest a missed invoice lead to dire repercussions.
@@ -900,7 +900,7 @@ Ranged Weapon Attack: +5 to hit, range 30/120 ft., one target. Hit: 6 (1d6 + 3) 
       <text>
 When Oak takes damage from a melee weapon attack, he can make a hooked dagger attack.</text>
     </reaction>
-    <description>Oak Truestrike is the "B" Team's decisionist-and, depending on who you talk to, a reincarnated demigod. (It's a long story.) Those who know him acknowledge his confidence, his arrogance, and his odd ability to engage with others by somehow saying exactly what each listener wants to hear. Whether this is some subtle magical ability or simply grifter's charm, he makes good use of it either way.
+    <description>Oak Truestrike is the "B" Team's decisionist-and, depending on who you talk to, a reincarnated demigod. (It&apos;s a long story.) Those who know him acknowledge his confidence, his arrogance, and his odd ability to engage with others by somehow saying exactly what each listener wants to hear. Whether this is some subtle magical ability or simply grifter&apos;s charm, he makes good use of it either way.
 
 Oak becomes a radically different person with each of his reincarnations, flipping between neutral good and neutral evil. His memories of past lives have been fractured by his many deaths, but he spends each new life accounting for the previous life in a karmic-ledger kind of way. His current incarnation embraces the good side. Mostly. Except for that occasional toxic bitterness. Oh, and the misanthropy. Actually, if you end up hating this guy, it's probably not your fault.
 
@@ -955,7 +955,7 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludg
       <attack>Maul|+6|2d6+3</attack>
     </action>
     <reaction>
-      <name>War God's Blessing (Recharges after a Short or Long Rest)</name>
+      <name>War God&apos;s Blessing (Recharges after a Short or Long Rest)</name>
       <recharge>SHORT</recharge>
       <text>
 When a creature within 30 feet of Omin makes an attack roll, but before learning whether it hits or misses, Omin can grant the creature a +10 bonus to that roll.</text>
@@ -973,7 +973,7 @@ Omin is a 9th-level spellcaster. His spellcasting ability is Wisdom (spell save 
 	• 5th level (1 slots): dispel evil and good, flame strike, hold monster, greater restoration, legend lore</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 1</slots>
-    <spells>guidance, sacred flame, spare the dying, thaumaturgy, bless, command, divine favor, shield of faith, enhance ability, hold person, magic weapon, silence, spiritual weapon, beacon of hope, crusader's mantle, dispel magic, mass healing word, spirit guardians, death ward, freedom of movement, locate creature, stoneskin, dispel evil and good, flame strike, hold monster, greater restoration, legend lore</spells>
+    <spells>guidance, sacred flame, spare the dying, thaumaturgy, bless, command, divine favor, shield of faith, enhance ability, hold person, magic weapon, silence, spiritual weapon, beacon of hope, crusader&apos;s mantle, dispel magic, mass healing word, spirit guardians, death ward, freedom of movement, locate creature, stoneskin, dispel evil and good, flame strike, hold monster, greater restoration, legend lore</spells>
     <description>My duty, first and foremost, is to my shareholders. And I am the only shareholder.
 
 Ominifis Hereward Dran spent his formative years in the small waystop of Red Larch, where his mother, Prophetess, ran a popular inn and restaurant. In the brief periods of respite afforded by working the family business, Omin and his sisters, Auspicia and Portentia, were wont to wander the hills and trails around town, dreaming of adventure. But adventure of the wrong kind came calling for the trio one day, when an underground ruin they had often explored-actually a creature called the Wandering Crypt-took Auspicia from the world.
@@ -1032,7 +1032,7 @@ Pendragon is a 4th-level spellcaster. His spellcasting ability is Intelligence (
     </trait>
     <slots>0, 4, 3</slots>
     <spells>acid splash, light, mage hand, poison spray, shocking grasp, detect magic, mage armor, magic missile, sleep, blindness/deafness, cloud of daggers, scorching ray</spells>
-    <description>Able arcanist Pendragon Beestinger took over as "B" Team cartographer after Brahma Lutier left the group. In fact, his first assignment was to assist in the team's attempts to apprehend the wandering bard. An adopted child of the "C" Team's Rosie Beestinger, Pendragon is his mother's foil in almost every way-including his goal of wanting to mainstream some of the family's rumored criminal interests. Pendragon has, in fact, attempted to kill his mother-and been killed himself in the process. Despite his having been resurrected at Rosie's request, things remain cool between the two.
+    <description>Able arcanist Pendragon Beestinger took over as "B" Team cartographer after Brahma Lutier left the group. In fact, his first assignment was to assist in the team's attempts to apprehend the wandering bard. An adopted child of the "C" Team's Rosie Beestinger, Pendragon is his mother's foil in almost every way-including his goal of wanting to mainstream some of the family&apos;s rumored criminal interests. Pendragon has, in fact, attempted to kill his mother-and been killed himself in the process. Despite his having been resurrected at Rosie&apos;s request, things remain cool between the two.
 
 Pendragon was kicked out of wizarding school as a result of the dark rumors following the Beestinger clan. Now a self-taught mage, he specializes in making use of the dangerous spells and weird trinkets he often comes across in his role as a kind of arcane archaeologist. Seeking out the family feeling that an adventuring group provides keeps him in the "B" Team, even if that unfortunately comes with Oak Truestrike as a kind of father figure.
 
@@ -1148,7 +1148,7 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashi
       <text>
 Portentia magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than her own, or back into her true form. Any equipment she is wearing or carrying is absorbed or borne by the new form (her choice). In a new form, Portentia retains her game statistics and ability to speak, but her AC, movement modes, Strength, Dexterity, and special senses are replaced by those of the new form, and she gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that she lacks.</text>
     </action>
-    <description>Now the owner and driving force behind Dran Enterprises-perhaps Acquisitions Incorporated's most notable rival in the adventuring-for-profit-and-power biz— Portentia Dran is more than she appears to be. Quite literally. The person known as Portentia is actually a changeling, who took the place of the real Portentia before her fifth year.
+    <description>Now the owner and driving force behind Dran Enterprises-perhaps Acquisitions Incorporated&apos;s most notable rival in the adventuring-for-profit-and-power biz— Portentia Dran is more than she appears to be. Quite literally. The person known as Portentia is actually a changeling, who took the place of the real Portentia before her fifth year.
 
 The changeling Portentia can affect a range of dis guises, and has spent long years engaged in a mission of manipulating the members of the Dran family. Years ago, it was Portentia who tricked her sister Auspicia into exploring the depths of the Wandering Crypt. And she would have been successful in arranging for Omin to be claimed by that creature as well if he hadn't fled immediately in search of a weapon to aid his captured sister.
 
@@ -1365,7 +1365,7 @@ Splugoth remembers and repeats aloud a few words from a place he entered while w
       <text>
 When a creature Splugoth can see hits him with a melee weapon attack, the weapon snags on a pocket of residual resurrectional energy and is caught fast. The attack is negated and the weapon cannot be used until the creature succeeds on a DC 12 Strength (Athletics) check as an action to pull it out of Splugoth. Natural weapons can have their attacks negated by this feature, but can then be retracted automatically at the end of the attacking creature's turn.</text>
     </reaction>
-    <description>I'm going to give you a piece of advice. Don't trust Acquisitions Incorporated. And never, ever, ever trust Omin Dran. Wait, that's two pieces of advice. You owe me.
+    <description>I'm going to give you a piece of advice. Don&apos;t trust Acquisitions Incorporated. And never, ever, ever trust Omin Dran. Wait, that&apos;s two pieces of advice. You owe me.
 
 Sometimes a goblin can't catch a break. First, you fall in with a cult that works for the release of a death god. Then you get taken prisoner by a group of sociopathic adventurers who end up letting you die after you save their sorry lives. One minute, you're a dead goblin named Splug. And then you're alive again, and it seems like a really good idea to play up the drama of resurrection with a cool new name-and a master plan for cold, cold revenge against those who betrayed you.
 
@@ -1392,7 +1392,7 @@ Source:	Acquisitions Incorporated p. 213</description>
     <save>Dex +8, Int +3</save>
     <skill>Acrobatics +11, Athletics +7, Perception +5, Performance +5, Persuasion +5, Sleight of hand +11, Stealth +8</skill>
     <passive>15</passive>
-    <languages>Common, Draconic, Thieves' cant</languages>
+    <languages>Common, Draconic, Thieves&apos; cant</languages>
     <cr>5</cr>
     <exp>1800</exp>
     <resist/>

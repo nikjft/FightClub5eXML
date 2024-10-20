@@ -30,7 +30,7 @@ Source:	Xanathar's Guide to Everything p. 15</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>College of Swords: Fighting Style [2014]</name>
-        <text>At 3rd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if something in the game lets you choose again.
+        <text>At 3rd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can&apos;t take a Fighting Style option more than once, even if something in the game lets you choose again.
 
 Source:	Xanathar's Guide to Everything p. 15</text>
       </feature>
@@ -99,7 +99,7 @@ Source:	Xanathar's Guide to Everything p. 15</text>
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>College of Swords: Master's Flourish [2014]</name>
+        <name>College of Swords: Master&apos;s Flourish [2014]</name>
         <text>Starting at 14th level, whenever you use a Blade Flourish option, you can roll a d6 and use it instead of expending a Bardic Inspiration die.
 
 Source:	Xanathar's Guide to Everything p. 15</text>
@@ -120,7 +120,7 @@ Source:	Xanathar's Guide to Everything p. 16</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>College of Whispers: Psychic Blades [2014]</name>
-        <text>When you join the College of Whispers at 3rd level, you gain the ability to make your weapon attacks magically toxic to a creature's mind.
+        <text>When you join the College of Whispers at 3rd level, you gain the ability to make your weapon attacks magically toxic to a creature&apos;s mind.
 
 When you hit a creature with a weapon attack, you can expend one use of your Bardic Inspiration to deal an extra 2d6 psychic damage to that target. You can do so only once per round on your turn.
 
@@ -153,7 +153,7 @@ Source:	Xanathar's Guide to Everything p. 16</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>College of Whispers: Mantle of Whispers [2014]</name>
-        <text>At 6th level, you gain the ability to adopt a humanoid's persona. When a humanoid dies within 30 feet of you, you can magically capture its shadow using your reaction. You retain this shadow until you use it or you finish a long rest.
+        <text>At 6th level, you gain the ability to adopt a humanoid&apos;s persona. When a humanoid dies within 30 feet of you, you can magically capture its shadow using your reaction. You retain this shadow until you use it or you finish a long rest.
 
 You can use the shadow as an action. When you do so, it vanishes, magically transforming into a disguise that appears on you. You now look like the dead person, but healthy and alive. This disguise lasts for 1 hour or until you end it as a bonus action.
 
@@ -175,7 +175,7 @@ Source:	Xanathar's Guide to Everything p. 16</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>College of Whispers: Shadow Lore [2014]</name>
-        <text>At 14th level, you gain the ability to weave dark magic into your words and tap into a creature's deepest fears.
+        <text>At 14th level, you gain the ability to weave dark magic into your words and tap into a creature&apos;s deepest fears.
 
 As an action, you magically whisper a phrase that only one creature of your choice within 30 feet of you can hear. The target must make a Wisdom saving throw against your spell save DC. It automatically succeeds if it doesn't share a language with you or if it can't hear you. On a successful saving throw, your whisper sounds like unintelligible mumbling and has no effect.
 

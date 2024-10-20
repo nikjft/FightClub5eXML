@@ -107,7 +107,7 @@ The target suffers the effect of the confusion spell without making a saving thr
     <save>Dex +6, Int +4</save>
     <skill>Acrobatics +6, Deception +3, Perception +3, Stealth +9</skill>
     <passive>13</passive>
-    <languages>Thieves' cant plus any two languages</languages>
+    <languages>Thieves&apos; cant plus any two languages</languages>
     <cr>8</cr>
     <resist>poison</resist>
     <immune/>
@@ -224,7 +224,7 @@ Barbatos is a 6th-level spellcaster. His spellcasting ability is Wisdom (spell s
 	• 2nd level (2 slots): locate animals or plants</text>
     </trait>
     <slots>0, 4, 2</slots>
-    <spells>ensnaring strike, hail of thorns, hunter's mark, locate animals or plants</spells>
+    <spells>ensnaring strike, hail of thorns, hunter&apos;s mark, locate animals or plants</spells>
     <description>Source:	Infernal Machine Rebuild p. 52</description>
     <environment/>
   </monster>
@@ -278,7 +278,7 @@ The brain in iron's innate spellcasting ability is Intelligence (spell save DC 1
 	• 3/Day each: charm person, command, hold person
 	• 1/Day each: compulsion, hold monster, sleep (cast at 3rd level), Tasha's hideous laughter</text>
     </trait>
-    <spells>detect thoughts, mage hand, zone of truth, charm person, command, hold person, compulsion, hold monster, sleep, Tasha's hideous laughter</spells>
+    <spells>detect thoughts, mage hand, zone of truth, charm person, command, hold person, compulsion, hold monster, sleep, Tasha&apos;s hideous laughter</spells>
     <description>Source:	Infernal Machine Rebuild p. 48</description>
     <environment/>
   </monster>
@@ -819,7 +819,7 @@ Source:	Infernal Machine Rebuild p. 56</description>
     <save/>
     <skill>Perception +5, Stealth +4</skill>
     <passive>15</passive>
-    <languages>Giant Owl, understands Common, Elvish, and Sylvan but can't speak them</languages>
+    <languages>Giant Owl, understands Common, Elvish, and Sylvan but can&apos;t speak them</languages>
     <cr>1/4</cr>
     <resist/>
     <immune/>
@@ -1206,7 +1206,7 @@ Thessalar is an 18th-level spellcaster. His spellcasting ability is Intelligence
 	• 5th level (1 slots): cloudkill</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 1</slots>
-    <spells>light, mending, message, shocking grasp, alarm, cure wounds, identify, ray of sickness, invisibility, Melf's acid arrow, web, dispel magic, haste, stinking cloud, blight, Mordenkainen's faithful hound, Otiluke's resilient sphere, cloudkill</spells>
+    <spells>light, mending, message, shocking grasp, alarm, cure wounds, identify, ray of sickness, invisibility, Melf's acid arrow, web, dispel magic, haste, stinking cloud, blight, Mordenkainen&apos;s faithful hound, Otiluke&apos;s resilient sphere, cloudkill</spells>
     <description>Thessalar was a master alchemist and creator of monsters, whose own blood was said to possess dire magical properties.
 
 He is vainglorious, egotistical, and utterly ruthless in furthering his research. His career began as a priest in the service of Moloch, where he rose through the ranks before eventually taking over the temple as a working laboratory. Most of his experiments have involved the pursuit of new forms of life, resulting in such creatures as the thessalhydra and the owlbear. In recent years, he has also researched the prolonging of life—namely his own. Thessalar hopes that by becoming a lich, his research and experiments can continue indefinitely.
@@ -1217,7 +1217,7 @@ Source:	Infernal Machine Rebuild p. 57</description>
     <environment/>
   </monster>
   <monster>
-    <name>Thessalar's Homunculus [2014]</name>
+    <name>Thessalar&apos;s Homunculus [2014]</name>
     <size>T</size>
     <type>construct</type>
     <alignment>Neutral</alignment>
@@ -1233,7 +1233,7 @@ Source:	Infernal Machine Rebuild p. 57</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>0</cr>
     <resist/>
     <immune>poison</immune>
@@ -1278,7 +1278,7 @@ Ranged Weapon Attack: +4 to hit, range 30ft., one target. Hit: 5 (1d6 + 2) acid 
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>0</cr>
     <resist/>
     <immune>poison</immune>
@@ -1319,7 +1319,7 @@ Source:	Infernal Machine Rebuild p. 86</description>
     <save>Str +12, Dex +5, Con +10, Int +9, Wis +7</save>
     <skill/>
     <passive>12</passive>
-    <languages>understands Abyssal, Celestial, Infernal, and Primordial but can't speak, telepathy 120 ft.</languages>
+    <languages>understands Abyssal, Celestial, Infernal, and Primordial but can&apos;t speak, telepathy 120 ft.</languages>
     <cr>14</cr>
     <resist/>
     <immune>acid; bludgeoning, piercing, slashing from nonmagical attacks</immune>
@@ -1373,7 +1373,7 @@ The thessalkraken spits a glob of acid at a point it can see within 60 feet of i
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The monstrosity (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity (titan) regains spent legendary actions at the start of its turn.</text>
+      <text>The monstrosity (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity (titan) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Tentacle Attack</name>

@@ -8,7 +8,7 @@
     <ritual>NO</ritual>
     <time>1 action</time>
     <range>150 feet</range>
-    <components>V, S, M (a shard of onyx and a drop of the caster's blood, both of which the spell consumes)</components>
+    <components>V, S, M (a shard of onyx and a drop of the caster&apos;s blood, both of which the spell consumes)</components>
     <duration>Concentration, up to 1 minute</duration>
     <text>This spell creates a sphere centered on a point you choose within range. The sphere can have a radius of up to 40 feet. The area within this sphere is filled with magical darkness and crushing gravitational force.
 
@@ -20,7 +20,7 @@ Source:	Explorer's Guide to Wildemount p. 186</text>
     <roll>8d10</roll>
   </spell>
   <spell>
-    <name>Fortune's Favor</name>
+    <name>Fortune&apos;s Favor</name>
     <classes>Wizard (Chronurgy), Wizard (Graviturgy)</classes>
     <level>2</level>
     <school>D</school>
@@ -86,7 +86,7 @@ Source:	Explorer's Guide to Wildemount p. 187</text>
     <range>120 feet</range>
     <components>V, S, M (a black marble)</components>
     <duration>Instantaneous</duration>
-    <text>A 20-foot-radius sphere of crushing force forms at a point you can see within range and tugs at the creatures there. Each creature in the sphere must make a Constitution saving throw. On a failed save, the creature takes 5d10 force damage and is pulled in a straight line toward the center of the sphere, ending in an unoccupied space as close to the center as possible (even if that space is in the air). On a successful save, the creature takes half as much damage and isn't pulled.
+    <text>A 20-foot-radius sphere of crushing force forms at a point you can see within range and tugs at the creatures there. Each creature in the sphere must make a Constitution saving throw. On a failed save, the creature takes 5d10 force damage and is pulled in a straight line toward the center of the sphere, ending in an unoccupied space as close to the center as possible (even if that space is in the air). On a successful save, the creature takes half as much damage and isn&apos;t pulled.
 
 At Higher Levels:
 When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.
@@ -182,7 +182,7 @@ Source:	Explorer's Guide to Wildemount p. 188</text>
     <range>1000 feet</range>
     <components>V, S, M (a small, nine-pointed star made of iron)</components>
     <duration>Concentration, up to 1 minute</duration>
-    <text>You create a 20-foot-radius sphere of destructive gravitational force centered on a point you can see within range. For the spell's duration, the sphere and any space within 100 feet of it are difficult terrain, and nonmagical objects fully inside the sphere are destroyed if they aren't being worn or carried.
+    <text>You create a 20-foot-radius sphere of destructive gravitational force centered on a point you can see within range. For the spell&apos;s duration, the sphere and any space within 100 feet of it are difficult terrain, and nonmagical objects fully inside the sphere are destroyed if they aren&apos;t being worn or carried.
 
 When the sphere appears and at the start of each of your turns until the spell ends, unsecured objects within 100 feet of the sphere are pulled toward the sphere's center, ending in an unoccupied space as close to the center as possible.
 
@@ -206,7 +206,7 @@ Source:	Explorer's Guide to Wildemount p. 188</text>
     <range>60 feet</range>
     <components>V, S, M (a crystal prism)</components>
     <duration>Concentration, up to 1 minute</duration>
-    <text>You shatter the barriers between realities and timelines, thrusting a creature into turmoil and madness. The target must succeed on a Wisdom saving throw, or it can't take reactions until the spell ends. The affected target must also roll a d10 at the start of each of its turns; the number rolled determines what happens to the target, as shown on the Reality Break Effects table.
+    <text>You shatter the barriers between realities and timelines, thrusting a creature into turmoil and madness. The target must succeed on a Wisdom saving throw, or it can&apos;t take reactions until the spell ends. The affected target must also roll a d10 at the start of each of its turns; the number rolled determines what happens to the target, as shown on the Reality Break Effects table.
 
 At the end of each of its turns, the affected target can repeat the Wisdom saving throw, ending the spell on itself on a success.
 
@@ -266,7 +266,7 @@ Source:	Explorer's Guide to Wildemount p. 189</text>
     <range>120 feet</range>
     <components>V, S</components>
     <duration>1 round</duration>
-    <text>You target the triggering creature, which must succeed on a Wisdom saving throw or vanish, being thrown to another point in time and causing the attack to miss or the spell to be wasted. At the start of its next turn, the target reappears where it was or in the closest unoccupied space. The target doesn't remember you casting the spell or being affected by it.
+    <text>You target the triggering creature, which must succeed on a Wisdom saving throw or vanish, being thrown to another point in time and causing the attack to miss or the spell to be wasted. At the start of its next turn, the target reappears where it was or in the closest unoccupied space. The target doesn&apos;t remember you casting the spell or being affected by it.
 
 At Higher Levels:
 When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. All targets must be within 30 feet of each other.

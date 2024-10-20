@@ -21,7 +21,7 @@ Source:	Matt Mercer - College of the Maestro v1.2 p. 2 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>College of the Maestro (HB): Symphony of Conflict</name>
-        <text>You've been trained in the bardic art of magically manipulating the sounds of combat into a concert of powerful melodies that can alter the very battlefield around you.
+        <text>You&apos;ve been trained in the bardic art of magically manipulating the sounds of combat into a concert of powerful melodies that can alter the very battlefield around you.
 
 When you select this bardic school at 3rd level, you learn 2 conducting techniques of your choice, which are detailed in the "Conducting Techniques" spell list. Al techniques require at least one free hand, baton, or wand to utilize. For these techniques to function, you must be able to see your target, and they must be able to hear you.
 
@@ -98,7 +98,7 @@ Source:	Matt Mercer - College of the Maestro v1.2 p. 2 (Homebrew)</text>
     <components/>
     <duration/>
     <classes>Conducting Techniques</classes>
-    <text>You play a terrifying dirge to accompany a deathblow, striking fear into the hearts of your nearby enemies. When an ally brings a creature within 60 feet to 0 hitpoints, you can use your reaction to expend and roll a Bardic Inspiration die. Select a number of creatures within 15 feet of the triggering ally equal to half of the number rolled (minimum 1). Each target must make a Wisdom saving throw against your Spell save DC or becomed frightened of the triggering ally until the end of that ally's next turn. After the effect ends, or the save is successful, targeted creatures are immune to Dirge of Dread for the next 24 hours.
+    <text>You play a terrifying dirge to accompany a deathblow, striking fear into the hearts of your nearby enemies. When an ally brings a creature within 60 feet to 0 hitpoints, you can use your reaction to expend and roll a Bardic Inspiration die. Select a number of creatures within 15 feet of the triggering ally equal to half of the number rolled (minimum 1). Each target must make a Wisdom saving throw against your Spell save DC or becomed frightened of the triggering ally until the end of that ally&apos;s next turn. After the effect ends, or the save is successful, targeted creatures are immune to Dirge of Dread for the next 24 hours.
 
 Source:	Matt Mercer - College of the Maestro v1.2 p. 2 (Homebrew)</text>
   </spell>
@@ -134,7 +134,7 @@ Source:	Matt Mercer - College of the Maestro v1.2 p. 2 (Homebrew)</text>
     <components/>
     <duration/>
     <classes>Conducting Techniques</classes>
-    <text>Your manipulation of tempo and song can inspire others to act more quickly. You can use a Bonus action on your turn to choose one creature other than yourself within 60 feet. Expend and roll a Bardic Inspiration die, adding the number rolled to the creature's initiative and moving them up the initiative order accordingly. If this would move them higher than you, they immediately take their turn after you this round. Acreature cannot be affected by Hasten Tempo again until they've finished a short or long rest.
+    <text>Your manipulation of tempo and song can inspire others to act more quickly. You can use a Bonus action on your turn to choose one creature other than yourself within 60 feet. Expend and roll a Bardic Inspiration die, adding the number rolled to the creature&apos;s initiative and moving them up the initiative order accordingly. If this would move them higher than you, they immediately take their turn after you this round. Acreature cannot be affected by Hasten Tempo again until they&apos;ve finished a short or long rest.
 
 Source:	Matt Mercer - College of the Maestro v1.2 p. 3 (Homebrew)</text>
   </spell>
@@ -170,7 +170,7 @@ Source:	Matt Mercer - College of the Maestro v1.2 p. 3 (Homebrew)</text>
     <components/>
     <duration/>
     <classes>Conducting Techniques</classes>
-    <text>You shape the harmonic vibrations of a weapon's movements into a dangerous, sonic enhancement. Using a bonus action, you can expend and roll a Bardic Inspiration die, choosimg one weapon within 60 feet of you. Until the end of your next turn, all attacks with that weapon deal additional thunder damage equal to half of number rolled (minimum of 1).
+    <text>You shape the harmonic vibrations of a weapon&apos;s movements into a dangerous, sonic enhancement. Using a bonus action, you can expend and roll a Bardic Inspiration die, choosimg one weapon within 60 feet of you. Until the end of your next turn, all attacks with that weapon deal additional thunder damage equal to half of number rolled (minimum of 1).
 
 Source:	Matt Mercer - College of the Maestro v1.2 p. 3 (Homebrew)</text>
   </spell>

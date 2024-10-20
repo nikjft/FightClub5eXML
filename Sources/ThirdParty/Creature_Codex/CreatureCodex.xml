@@ -17,7 +17,7 @@
     <save/>
     <skill>Athletics +9, Intimidation +5</skill>
     <passive>12</passive>
-    <languages>understands all but can't speak</languages>
+    <languages>understands all but can&apos;t speak</languages>
     <cr>5</cr>
     <resist/>
     <immune/>
@@ -65,7 +65,7 @@ The aatxe lowers its horns and paws at the ground with its hooves. Each creature
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The celestial (shapechanger) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The celestial (shapechanger) regains spent legendary actions at the start of its turn.</text>
+      <text>The celestial (shapechanger) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The celestial (shapechanger) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -460,10 +460,10 @@ The alp can use its action to polymorph into a Small or Tiny beast it has seen, 
 While in sunlight, the alp has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</text>
     </trait>
     <action>
-      <name>Sleeper's Slap</name>
+      <name>Sleeper&apos;s Slap</name>
       <text>
 Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) bludgeoning damage, and, if the target was sleeping or unconscious before it was hit, it must succeed on a DC 13 Wisdom saving throw or become frightened and restrained for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the restrained condition on itself on a success. The creature must succeed on another saving throw on a following round to end the frightened condition.</text>
-      <attack>Sleeper's Slap|+4|2d4+3</attack>
+      <attack>Sleeper&apos;s Slap|+4|2d4+3</attack>
     </action>
     <trait>
       <name>Innate Spellcasting</name>
@@ -945,7 +945,7 @@ The gate lasts 1 hour; though, the zoryas can choose to close it at any time as 
 The zoryas regains 10 hp at the start of its turn. If the zoryas takes necrotic damage, this trait doesn't function at the start of the zoryas' next turn. The zoryas' body is destroyed only if it starts its turn with 0 hp and doesn't regenerate.</text>
     </trait>
     <trait>
-      <name>Sun's Guidance (3/Day)</name>
+      <name>Sun&apos;s Guidance (3/Day)</name>
       <recharge>3/Day</recharge>
       <text>
 he zoryas has advantage on melee attack rolls until the end of its next turn.</text>
@@ -970,7 +970,7 @@ The zoryas' lantern brightens, bathing its environs in brilliant light. Each cre
 The light dispels up to three spells or other magical effects of 3rd level or lower like the dispel magic spell within the area.</text>
     </action>
     <action>
-      <name>Dusk's Arrival (Recharges after a Long Rest)</name>
+      <name>Dusk&apos;s Arrival (Recharges after a Long Rest)</name>
       <recharge>LONG</recharge>
       <text>
 The zoryas' lantern darkens, snuffing out nearby natural and magical sources of light. Each creature within 30 feet of the zoryas must make a DC 16 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one. The area is bathed in darkness like the darkness spell until the end of the zoryas' next turn.</text>
@@ -1057,10 +1057,10 @@ If the target is a humanoid, it must succeed on a DC 14 Constitution saving thro
       <attack>Blood Bite (Bat or Hybrid Form Only)|+10|5d6+5</attack>
     </action>
     <action>
-      <name>Oblivion's Mace (Humanoid or Hybrid Form Only)</name>
+      <name>Oblivion&apos;s Mace (Humanoid or Hybrid Form Only)</name>
       <text>
 Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 15 (4d4 + 5) bludgeoning damage.</text>
-      <attack>Oblivion's Mace (Humanoid or Hybrid Form Only)|+10|4d4+5</attack>
+      <attack>Oblivion&apos;s Mace (Humanoid or Hybrid Form Only)|+10|4d4+5</attack>
     </action>
     <action>
       <name>Screech (Recharge 5-6)</name>
@@ -1079,7 +1079,7 @@ The Bat King magically calls 2d4 swarms of bats. In an urban environment, he can
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The fey (shapechanger, animal lord) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The fey (shapechanger, animal lord) regains spent legendary actions at the start of its turn.</text>
+      <text>The fey (shapechanger, animal lord) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The fey (shapechanger, animal lord) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -1213,7 +1213,7 @@ When Brother Ox is hit by a ranged weapon attack, he can reduce the damage he ta
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The fey (shapechanger, animal lord) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The fey (shapechanger, animal lord) regains spent legendary actions at the start of its turn.</text>
+      <text>The fey (shapechanger, animal lord) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The fey (shapechanger, animal lord) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -1342,7 +1342,7 @@ Until this grapple ends, the target is restrained and takes 10 (3d6) piercing da
     <legendary>
       <name>Legendary Actions (2/Turn)</name>
       <recharge>2/Turn</recharge>
-      <text>The fey (shapechanger, animal lord) can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The fey (shapechanger, animal lord) regains spent legendary actions at the start of its turn.</text>
+      <text>The fey (shapechanger, animal lord) can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The fey (shapechanger, animal lord) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -1447,10 +1447,10 @@ The Mouse King wears a ring of spell turning.</text>
 In mouse form, the Mouse King makes two bite attacks. In humanoid form, he makes three king's blade attacks. In hybrid form, he makes three attacks. two with his king's blade and one with his bite.</text>
     </action>
     <action>
-      <name>King's Blade (Humanoid or Hybrid Form Only)</name>
+      <name>King&apos;s Blade (Humanoid or Hybrid Form Only)</name>
       <text>
 Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 15 (2d8 + 6) piercing damage.</text>
-      <attack>King's Blade (Humanoid or Hybrid Form Only)|+10|2d8+6</attack>
+      <attack>King&apos;s Blade (Humanoid or Hybrid Form Only)|+10|2d8+6</attack>
     </action>
     <action>
       <name>Bite (Mouse or Hybrid Form Only)</name>
@@ -1469,7 +1469,7 @@ The Mouse King magically calls 2d4 swarms of rats. In an urban environment, he c
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The fey (shapechanger, animal lord) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The fey (shapechanger, animal lord) regains spent legendary actions at the start of its turn.</text>
+      <text>The fey (shapechanger, animal lord) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The fey (shapechanger, animal lord) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -1477,7 +1477,7 @@ The Mouse King magically calls 2d4 swarms of rats. In an urban environment, he c
 The Mouse King can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The Mouse King regains spent legendary actions at the start of his turn.</text>
     </legendary>
     <legendary>
-      <name>King's Blade</name>
+      <name>King&apos;s Blade</name>
       <text>
 The Mouse King makes one king's blade attack.</text>
     </legendary>
@@ -1598,7 +1598,7 @@ The Queen of Birds adds 5 to her AC against one melee weapon attack that would h
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The fey (shapechanger, animal lord) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The fey (shapechanger, animal lord) regains spent legendary actions at the start of its turn.</text>
+      <text>The fey (shapechanger, animal lord) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The fey (shapechanger, animal lord) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -1731,7 +1731,7 @@ The target must succeed on a DC 18 Dexterity saving throw or shed dim light in a
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The fey (shapechanger, animal lord) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The fey (shapechanger, animal lord) regains spent legendary actions at the start of its turn.</text>
+      <text>The fey (shapechanger, animal lord) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The fey (shapechanger, animal lord) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -1864,7 +1864,7 @@ Each creature must succeed on a DC 18 Charisma saving throw or be stunned for 10
     <legendary>
       <name>Legendary Actions (6/Turn)</name>
       <recharge>6/Turn</recharge>
-      <text>The fey (shapechanger, animal lord) can take 6 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The fey (shapechanger, animal lord) regains spent legendary actions at the start of its turn.</text>
+      <text>The fey (shapechanger, animal lord) can take 6 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The fey (shapechanger, animal lord) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -1935,7 +1935,7 @@ The queen of serpents's innate spellcasting ability is Charisma (spell save DC 1
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>truesight 60 ft.</senses>
     <trait>
-      <name>Aura Of Necromancy's Bane</name>
+      <name>Aura Of Necromancy&apos;s Bane</name>
       <text>
 Necromancy spells can't be cast within 120 feet of the ankou. When an undead creature starts its turn within 30 feet of the ankou, it must make a DC 22 Constitution saving throw, taking 21 (6d6) radiant damage on a failed save, or half as much damage on a successful one.</text>
     </trait>
@@ -1951,7 +1951,7 @@ Immunity to the grappled, paralyzed, petrified, prone, and restrained conditions
 The cloak of ghostly shadows ends when the ankou chooses to end it as a bonus action, when the ankou dies, or if the ankou ends its turn in bright light.</text>
     </trait>
     <trait>
-      <name>Death's Apotheosis</name>
+      <name>Death&apos;s Apotheosis</name>
       <text>
 The ankou has the celestial type in addition to the dragon type and its weapon attacks are magical.</text>
     </trait>
@@ -1994,7 +1994,7 @@ On a failure, its speed is reduced to 0 for 1 minute. If the save fails by 5 or 
 A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the ankou's Horrifying Presence for the next 24 hours.</text>
     </action>
     <action>
-      <name>Reaper's Breath (Recharge 56)</name>
+      <name>Reaper&apos;s Breath (Recharge 56)</name>
       <text>
 The ankou exhales cold fire in a 120-foot line that is 10 feet wide. Each creature in that area must make a DC 22 Dexterity saving throw, taking 66 (12d10) cold damage on a failed save, or half as much damage on a successful one. Undead creatures automatically fail the saving throw and treat all damage dealt by this breath weapon as radiant instead of cold.</text>
     </action>
@@ -2011,7 +2011,7 @@ The ankou can transport itself and up to eight creatures in contact with it to a
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The dragon can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.</text>
+      <text>The dragon can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The dragon regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -2061,7 +2061,7 @@ The ankou moves up to half its speed without provoking opportunity attacks. Any 
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>truesight 60 ft.</senses>
     <trait>
-      <name>Aura Of Necromancy's Bane</name>
+      <name>Aura Of Necromancy&apos;s Bane</name>
       <text>
 When an undead creature starts its turn within 30 feet of the ankou, the undead must make a DC 15 Constitution saving throw, taking 7 (2d6) radiant damage on a failed save, or half as much damage on a successful one.</text>
     </trait>
@@ -2093,7 +2093,7 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slash
       <attack>Claw|+6|2d6+3</attack>
     </action>
     <action>
-      <name>Reaper's Breath (Recharge 56)</name>
+      <name>Reaper&apos;s Breath (Recharge 56)</name>
       <text>
 The ankou exhales cold fire in a 30-foot line that is 5 feet wide. Each creature in that area must make a DC 15 Dexterity saving throw, taking 44 (8d10) cold damage on a failed save, or half as much damage on a successful one. Undead creatures automatically fail the saving throw and treat all damage dealt by this breath weapon as radiant instead of cold.</text>
     </action>
@@ -2237,7 +2237,7 @@ Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 9 (1d8 + 5) pierc
     <save/>
     <skill>Stealth +4</skill>
     <passive>11</passive>
-    <languages>Understands Common but can't speak</languages>
+    <languages>Understands Common but can&apos;t speak</languages>
     <cr>2</cr>
     <resist/>
     <immune/>
@@ -2534,7 +2534,7 @@ Azi Dahaka exhales a blast of wind and lightning in a 60-foot cone. Each creatur
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The dragon can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.</text>
+      <text>The dragon can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The dragon regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -2596,7 +2596,7 @@ Baba Yaga has advantage on Wisdom (Perception) checks that rely on sight. As an 
 Creatures with Intelligence 3 or lower obey Baba Yaga unquestioningly. Her utterances are often captured as engravings on nearby stone and wood surfaces. These magical reproductions of her words are made in the Common tongue and fade after several days.</text>
     </trait>
     <trait>
-      <name>Grandmother's Teeth</name>
+      <name>Grandmother&apos;s Teeth</name>
       <text>
 The iron teeth of Baba Yaga are sentient, magical, and airborne dentures that sometimes work at cross-purposes to the Old Witch. If the teeth and Baba Yaga are getting along, the teeth reside inside her mouth, providing her with a bite attack and access to its spell list. Baba Yaga can cast a spell from the teeth's innate spell list as a bonus action, using her spellcasting ability. Spells cast in this way are removed from the teeth's spells per day total. If the witch and her teeth are not getting along, the teeth will fly around casting its spells as it wishes (often to the benefit of Baba Yaga's enemies).</text>
     </trait>
@@ -2647,7 +2647,7 @@ When Baba Yaga's turn ends, she can take an additional turn. A creature able to 
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The fey can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The fey regains spent legendary actions at the start of its turn.</text>
+      <text>The fey can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The fey regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -2864,7 +2864,7 @@ When a creature makes an attack against Barong or one of his allies within 30 fe
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The celestial can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The celestial regains spent legendary actions at the start of its turn.</text>
+      <text>The celestial can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The celestial regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -2906,7 +2906,7 @@ Barong roars a command at one allied undead or celestial within 30 feet of him. 
     <save/>
     <skill/>
     <passive>12</passive>
-    <languages>Understands Common, Abyssal but can't speak</languages>
+    <languages>Understands Common, Abyssal but can&apos;t speak</languages>
     <cr>3</cr>
     <resist/>
     <immune/>
@@ -3220,7 +3220,7 @@ When it is hit by an attack, the bloody bones regains 5 (1d10) hit points and ha
     <save/>
     <skill>Perception +1, Stealth +4</skill>
     <passive>11</passive>
-    <languages>Understands the languages of its creator but can't speak</languages>
+    <languages>Understands the languages of its creator but can&apos;t speak</languages>
     <cr>1/8</cr>
     <resist>bludgeoning, piercing, slashing from nonmagical weapons</resist>
     <immune>cold, fire, poison, psychic</immune>
@@ -3280,7 +3280,7 @@ While inside its book, the bookkeeper magically turns its book invisible until i
     <save/>
     <skill>Perception +3, Stealth +3</skill>
     <passive>13</passive>
-    <languages>Understands but can't speak</languages>
+    <languages>Understands but can&apos;t speak</languages>
     <cr>1/2</cr>
     <resist>acid</resist>
     <immune/>
@@ -3444,7 +3444,7 @@ Melee Weapon Attack: +6 to hit, reach 0 ft., up to two creatures in the swarm's 
     <passive>5</passive>
     <languages/>
     <cr>2</cr>
-    <resist>piercing, slashing from nonmagical weapons that aren't adamantine</resist>
+    <resist>piercing, slashing from nonmagical weapons that aren&apos;t adamantine</resist>
     <immune>poison</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
@@ -3720,7 +3720,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. 6 (1d6 + 3) piercing 
 
 While attached, the chupacabra doesn't attack.</text>
       <attack>Bite|+5|1d6+3</attack>
-      <text>Instead, at the start of each of the chupacabra's turns, the target loses 6 (1d6 + 3) hp due to blood loss. The chupacabra can detach itself by spending 5 feet of its movement. It does so after the target is reduced to 0 hp. A creature, including the target, can use its action to detach the chupacabra.</text>
+      <text>Instead, at the start of each of the chupacabra&apos;s turns, the target loses 6 (1d6 + 3) hp due to blood loss. The chupacabra can detach itself by spending 5 feet of its movement. It does so after the target is reduced to 0 hp. A creature, including the target, can use its action to detach the chupacabra.</text>
     </action>
     <action>
       <name>Fearful Gaze</name>
@@ -3752,7 +3752,7 @@ When the chupacabra is reduced to less than half of its maximum hp, it releases 
     <save>Dex +6, Con +4</save>
     <skill>Acrobatics +6, Investigation +4, Perception +4, Stealth +9, Survival +4</skill>
     <passive>14</passive>
-    <languages>Understands Common but can't speak</languages>
+    <languages>Understands Common but can&apos;t speak</languages>
     <cr>6</cr>
     <resist/>
     <immune>lightning, poison</immune>
@@ -3985,7 +3985,7 @@ The corpse thief targets one creature within 5 feet of it and attempts to steal 
     <save>Dex +8, Wis +4, Cha +2</save>
     <skill/>
     <passive>11</passive>
-    <languages>Understands but can't speak</languages>
+    <languages>Understands but can&apos;t speak</languages>
     <cr>6</cr>
     <resist>acid, lightning, thunder; bludgeoning, piercing, slashing from nonmagical weapons</resist>
     <immune>cold, necrotic, poison</immune>
@@ -4132,7 +4132,7 @@ Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d8) piercing d
       <attack>Morningstar|+3|1d8</attack>
     </action>
     <action>
-      <name>Night's Chill (Recharge 5-6)</name>
+      <name>Night&apos;s Chill (Recharge 5-6)</name>
       <recharge>D5</recharge>
       <text>
 The cueyatl moon priest harnesses moonlight, dispelling magical light in a 30-foot radius. In addition, each hostile creature within 30 feet must make a DC 13 Constitution saving throw, taking 16 (3d10) cold damage on a failed save, and half as much damage on a successful one.
@@ -4686,7 +4686,7 @@ The range and accuracy of Chemosh's arrows are not affected by water.</text>
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The fiend (demon) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The fiend (demon) regains spent legendary actions at the start of its turn.</text>
+      <text>The fiend (demon) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The fiend (demon) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -4724,7 +4724,7 @@ The chemosh, demon lord of conquest's innate spellcasting ability is Charisma (s
     <environment/>
   </monster>
   <monster>
-    <name>Chittr'k'k, Demon Lord Of Rats</name>
+    <name>Chittr&apos;k&apos;k, Demon Lord Of Rats</name>
     <size>M</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -4790,7 +4790,7 @@ When Chittr'k'k or a rattok demon within 120 feet of Chittr'k'k reduces a creatu
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The fiend (demon) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The fiend (demon) regains spent legendary actions at the start of its turn.</text>
+      <text>The fiend (demon) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The fiend (demon) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -4885,7 +4885,7 @@ Rangda magically teleports to an unoccupied space within line of sight. Alternat
     <legendary>
       <name>Legendary Actions (5/Turn)</name>
       <recharge>5/Turn</recharge>
-      <text>The fiend (demon) can take 5 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The fiend (demon) regains spent legendary actions at the start of its turn.</text>
+      <text>The fiend (demon) can take 5 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The fiend (demon) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -4990,7 +4990,7 @@ Melee Spell Attack: +11 to hit, reach 15 ft., one creature. The target is magica
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The fiend (demon) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The fiend (demon) regains spent legendary actions at the start of its turn.</text>
+      <text>The fiend (demon) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The fiend (demon) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -5302,7 +5302,7 @@ The neophron makes three attacks. one with its bite and one with its claws.</tex
       <text>
 Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage.  If the target is a Medium or smaller creature, it must succeed on a DC 16 Dexterity saving throw or be swallowed. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the neophron, and it takes 14 (4d6) acid damage at the start of each of the neophron's turns.</text>
       <attack>Bite|+7|2d10+4</attack>
-      <text>The neophron can only swallow one creature at a time. If a humanoid dies while swallowed, it transforms into a ghast. At the start of its next turn, the neophron regurgitates the ghast into an unoccupied space within 10 feet. The ghast is under the neophron's control and acts immediately after the neophron in the initiative count.
+      <text>The neophron can only swallow one creature at a time. If a humanoid dies while swallowed, it transforms into a ghast. At the start of its next turn, the neophron regurgitates the ghast into an unoccupied space within 10 feet. The ghast is under the neophron&apos;s control and acts immediately after the neophron in the initiative count.
 
 If the neophron takes 20 or more damage in a single turn from a creature inside it, the neophron must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate the swallowed creature, which falls prone in a space within 10 feet of the neophron. If the neophron dies, a swallowed creature is no longer restrained by it and can escape the corpse by using 5 feet of movement, exiting prone.</text>
     </action>
@@ -5402,7 +5402,7 @@ The pishacha magically turns invisible until it attacks or until its concentrati
     <save/>
     <skill/>
     <passive>11</passive>
-    <languages>Understands Abyssal but can't speak</languages>
+    <languages>Understands Abyssal but can&apos;t speak</languages>
     <cr>3</cr>
     <resist>cold, fire, lightning, bludgeoning, piercing, slashing</resist>
     <immune>poison</immune>
@@ -5994,7 +5994,7 @@ The devil shark exhales a 60-foot cone of supernaturally cold water. Each creatu
     <environment>underwater</environment>
   </monster>
   <monster>
-    <name>Belphegor, Hell's Inventor</name>
+    <name>Belphegor, Hell&apos;s Inventor</name>
     <size>H</size>
     <type>fiend (devil)</type>
     <alignment>Lawful Evil</alignment>
@@ -6012,7 +6012,7 @@ The devil shark exhales a 60-foot cone of supernaturally cold water. Each creatu
     <passive>21</passive>
     <languages/>
     <cr>22</cr>
-    <resist>cold; bludgeoning, piercing, slashing from nonmagical weapons that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, slashing from nonmagical weapons that aren&apos;t silvered</resist>
     <immune>fire, poison</immune>
     <vulnerable/>
     <conditionImmune>frightened, poisoned</conditionImmune>
@@ -6081,7 +6081,7 @@ When Belphegor is hit by an attacker he hit with his soul flail in the past minu
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The fiend (devil) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The fiend (devil) regains spent legendary actions at the start of its turn.</text>
+      <text>The fiend (devil) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The fiend (devil) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -6178,7 +6178,7 @@ Parzelon summons 1d4 barbed devils or 1d4 spawn of Parzelon. A summoned devil ap
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The fiend (devil) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The fiend (devil) regains spent legendary actions at the start of its turn.</text>
+      <text>The fiend (devil) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The fiend (devil) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -6246,7 +6246,7 @@ The parzelon, king of secrets is a 20th-level spellcaster. Its spellcasting abil
     <conditionImmune>poisoned</conditionImmune>
     <senses>darkvision 120 ft., truesight 60 ft.</senses>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede the spawn's darkvision.</text>
     </trait>
@@ -6334,7 +6334,7 @@ The spawn of parzelon's innate spellcasting ability is Charisma (spell save DC 1
     <conditionImmune>poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede the imp's darkvision.</text>
     </trait>
@@ -6388,7 +6388,7 @@ Ranged Spell Attack: +4 to hit, range 150 ft., one target. Hit: 5 (2d4) fire dam
     <passive>20</passive>
     <languages>Infernal, telepathy 120 ft.</languages>
     <cr>16</cr>
-    <resist>cold; bludgeoning, piercing, slashing from nonmagical weapons that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, slashing from nonmagical weapons that aren&apos;t silvered</resist>
     <immune>fire, necrotic, poison</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
@@ -6450,7 +6450,7 @@ The infernal knight magically tears a rift in the fabric of the multiverse. The 
     <environment/>
   </monster>
   <monster>
-    <name>Wind's Harp</name>
+    <name>Wind&apos;s Harp</name>
     <size>M</size>
     <type>fiend (devil)</type>
     <alignment>Lawful Evil</alignment>
@@ -6866,7 +6866,7 @@ The dracotaur exhales lightning in a 60-foot line that is 5 feet wide. Each crea
     <save>Str +9, Con +8</save>
     <skill>Athletics +9, Perception +6</skill>
     <passive>16</passive>
-    <languages>Understands Common but can't speak</languages>
+    <languages>Understands Common but can&apos;t speak</languages>
     <cr>8</cr>
     <resist/>
     <immune>poison, psychic</immune>
@@ -6951,7 +6951,7 @@ The dragon swings its bladed tail. Each creature within 10 feet of the dragon mu
     <save>Str +12, Con +11</save>
     <skill>Athletics +12, Perception +10</skill>
     <passive>20</passive>
-    <languages>Understands Common but can't speak</languages>
+    <languages>Understands Common but can&apos;t speak</languages>
     <cr>14</cr>
     <resist/>
     <immune>poison, psychic</immune>
@@ -7233,7 +7233,7 @@ Undead within the area of effect must also make a DC 19 Wisdom saving throw or b
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The dragon can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.</text>
+      <text>The dragon can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The dragon regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -7351,7 +7351,7 @@ Undead within the area of effect must also make a DC 23 Wisdom saving throw or b
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The dragon can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.</text>
+      <text>The dragon can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The dragon regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -7533,7 +7533,7 @@ The dragon blasts warped arcane energy in a 60-foot line that is 5 feet wide. Ea
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The dragon can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.</text>
+      <text>The dragon can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The dragon regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -7628,7 +7628,7 @@ The dragon blasts warped arcane energy in a 90-foot line that is 5 feet wide. Ea
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The dragon can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.</text>
+      <text>The dragon can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The dragon regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -8242,7 +8242,7 @@ The moon drake makes three attacks. one with its bite and two with its claws.</t
       <text>
 Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) piercing damage plus 5 (1d10) radiant damage.</text>
       <attack>Bite|+8|2d6+5</attack>
-      <text>A shapechanger that takes radiant damage from this attack instantly reverts to its true form and can't assume a different form for 1d4 rounds.</text>
+      <text>A shapechanger that takes radiant damage from this attack instantly reverts to its true form and can&apos;t assume a different form for 1d4 rounds.</text>
     </action>
     <action>
       <name>Claw</name>
@@ -8552,7 +8552,7 @@ Ranged Weapon Attack: +5 to hit, range 60/120 ft., one Large or smaller creature
 The dream squire has advantage on saving throws against being charmed or frightened. If an effect would cause the squire to take a harmful action against its master, it can immediately repeat the saving throw (if any), ending the effect on a success. The squire has disadvantage on attack rolls or ability checks made against its master.</text>
     </trait>
     <trait>
-      <name>Master's Bond</name>
+      <name>Master&apos;s Bond</name>
       <text>
 The dream squire is bound to serve another creature as its master. The squire obeys all the master's commands, and the master can communicate telepathically with the squire as long as they are on the same plane.
 
@@ -8639,7 +8639,7 @@ The dream wraith targets an unconscious or sleeping creature within 5 feet of it
 The dream wraith gains temporary hp for 1 hour equal to the amount of hp the creature lost.</text>
     </action>
     <reaction>
-      <name>Dreamer's Gaze</name>
+      <name>Dreamer&apos;s Gaze</name>
       <text>
 When a creature the dream wraith can see starts its turn within 30 feet of the dream wraith, the dream wraith can create the illusion that it looks like that creature's most recently departed loved one. If the creature can see the dream wraith, it must succeed on a DC 14 Wisdom saving throw or be stunned until the end of its turn.</text>
     </reaction>
@@ -8929,7 +8929,7 @@ The storm lord creates a peal of ear-splitting thunder. Each creature within 30 
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>Understands Primordial but can't speak</languages>
+    <languages>Understands Primordial but can&apos;t speak</languages>
     <cr>4</cr>
     <resist>bludgeoning, piercing, slashing from nonmagical weapons</resist>
     <immune>poison</immune>
@@ -9010,7 +9010,7 @@ The target takes an extra 18 (4d8) fire damage and catches on fire, taking 7 (2d
 The archer has advantage on saving throws against being charmed, and magic can't put the archer to sleep.</text>
     </trait>
     <trait>
-      <name>Hunter's Aim</name>
+      <name>Hunter&apos;s Aim</name>
       <text>
 Once per turn, when the archer makes a ranged attack with its longbow and hits, the target takes an extra 28 (8d6) damage.</text>
     </trait>
@@ -9059,7 +9059,7 @@ Ranged Weapon Attack: +9 to hit, range 150/600 ft., one target. Hit: 9 (1d8 + 5)
     <conditionImmune/>
     <senses/>
     <trait>
-      <name>Archer's Step</name>
+      <name>Archer&apos;s Step</name>
       <text>
 The deathsworn can use Disengage as a bonus action.</text>
     </trait>
@@ -9663,7 +9663,7 @@ The elophar's innate spellcasting ability is Intelligence (spell save DC 13, +5 
     <save/>
     <skill>Stealth +5</skill>
     <passive>9</passive>
-    <languages>Understands Goblin but can't speak</languages>
+    <languages>Understands Goblin but can&apos;t speak</languages>
     <cr>1/4</cr>
     <resist/>
     <immune>fire</immune>
@@ -9889,7 +9889,7 @@ When a creature Berchta can see targets her with an attack, Berchta can force th
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The fey (shapechanger) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The fey (shapechanger) regains spent legendary actions at the start of its turn.</text>
+      <text>The fey (shapechanger) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The fey (shapechanger) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -10000,7 +10000,7 @@ When a creature Reynard can see hits him with an attack, he halves the damage fr
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The fey (shapechanger) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The fey (shapechanger) regains spent legendary actions at the start of its turn.</text>
+      <text>The fey (shapechanger) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The fey (shapechanger) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -10208,7 +10208,7 @@ The flame-scourged scion fills the area around itself with a cloud of burning em
     <save/>
     <skill>Perception +2</skill>
     <passive>12</passive>
-    <languages>Understands Common but can't speak</languages>
+    <languages>Understands Common but can&apos;t speak</languages>
     <cr>1/2</cr>
     <resist>necrotic</resist>
     <immune>poison</immune>
@@ -10409,7 +10409,7 @@ The flying polyp's innate spellcasting ability is Intelligence (spell save DC 18
     <save/>
     <skill>Perception +4</skill>
     <passive>14</passive>
-    <languages>Understands Common, Sylvan but can't speak</languages>
+    <languages>Understands Common, Sylvan but can&apos;t speak</languages>
     <cr>1/2</cr>
     <resist/>
     <immune/>
@@ -10618,7 +10618,7 @@ If the target is a creature, it must make a DC 13 Constitution saving throw or b
     </action>
     <action>
       <name>Spore Cloud</name>
-      <text>(Recharge 56). The wirbeln ejects spores in a 15foot cone. All creatures that are not wirbeln fungi must succeed on a DC 13 Constitution saving throw or take 5 (1d10) poison damage and be subject to one of the following effects for 1 minute, depending on the wirbeln's color. green is poisoned; red is blinded; yellow is incapacitated; blue is paralyzed; purple is frightened; and black is 5 (2d4) poison damage each round.
+      <text>(Recharge 56). The wirbeln ejects spores in a 15foot cone. All creatures that are not wirbeln fungi must succeed on a DC 13 Constitution saving throw or take 5 (1d10) poison damage and be subject to one of the following effects for 1 minute, depending on the wirbeln&apos;s color. green is poisoned; red is blinded; yellow is incapacitated; blue is paralyzed; purple is frightened; and black is 5 (2d4) poison damage each round.
 
 The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
     </action>
@@ -10776,7 +10776,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slash
     <save/>
     <skill/>
     <passive>11</passive>
-    <languages>Understands Common but can't speak</languages>
+    <languages>Understands Common but can&apos;t speak</languages>
     <cr>3</cr>
     <resist/>
     <immune/>
@@ -10832,7 +10832,7 @@ When a creature hits the ghost boar with a melee weapon attack, the ghost boar c
     <save/>
     <skill/>
     <passive>11</passive>
-    <languages>Understands Common but can't speak</languages>
+    <languages>Understands Common but can&apos;t speak</languages>
     <cr>6</cr>
     <resist/>
     <immune/>
@@ -12012,7 +12012,7 @@ The mountain giant unleashes a barrage of boulders in a 60-foot cone. Each creat
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The giant can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The giant regains spent legendary actions at the start of its turn.</text>
+      <text>The giant can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The giant regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -12117,7 +12117,7 @@ The void giant is an 11th-level spellcaster. Its spellcasting ability is Intelli
     <save/>
     <skill/>
     <passive>8</passive>
-    <languages>Understands but can't speak, telepathy 120 ft.</languages>
+    <languages>Understands but can&apos;t speak, telepathy 120 ft.</languages>
     <cr>3</cr>
     <resist/>
     <immune/>
@@ -12352,10 +12352,10 @@ When the shadow goblin is hit by an attack from a creature it can see, it can cu
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>Understands the languages of its creator but can't speak</languages>
+    <languages>Understands the languages of its creator but can&apos;t speak</languages>
     <cr>9</cr>
     <resist>acid, cold, fire, lightning</resist>
-    <immune>poison, psychic; bludgeoning, piercing, slashing from nonmagical weapons that aren't adamantine</immune>
+    <immune>poison, psychic; bludgeoning, piercing, slashing from nonmagical weapons that aren&apos;t adamantine</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
@@ -12434,10 +12434,10 @@ Poison Breath (Brimstone Infusion Only; Recharge 5-6). The golem exhales poisono
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>Understands the languages of its creator but can't speak</languages>
+    <languages>Understands the languages of its creator but can&apos;t speak</languages>
     <cr>10</cr>
     <resist/>
-    <immune>fire, poison, psychic; bludgeoning, piercing, slashing from nonmagical Weapons that aren't adamantine</immune>
+    <immune>fire, poison, psychic; bludgeoning, piercing, slashing from nonmagical Weapons that aren&apos;t adamantine</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
@@ -12509,10 +12509,10 @@ Flame Breath (Recharge 5?6). The golem breathes fire in a 30-foot cone. Each cre
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>Understands the languages of its creator but can't speak</languages>
+    <languages>Understands the languages of its creator but can&apos;t speak</languages>
     <cr>7</cr>
     <resist/>
-    <immune>poison, psychic; bludgeoning, piercing, slashing from nonmagical Weapons that aren't adamantine</immune>
+    <immune>poison, psychic; bludgeoning, piercing, slashing from nonmagical Weapons that aren&apos;t adamantine</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
@@ -12591,9 +12591,9 @@ It regains 10 hp, and its AC increases by 2 until the end of its next turn.</tex
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>Understands the languages of its creator but can't speak</languages>
+    <languages>Understands the languages of its creator but can&apos;t speak</languages>
     <cr>7</cr>
-    <resist>bludgeoning, piercing, slashing from nonmagical Weapons that aren't adamantine</resist>
+    <resist>bludgeoning, piercing, slashing from nonmagical Weapons that aren&apos;t adamantine</resist>
     <immune>necrotic, poison, psychic</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
@@ -12669,7 +12669,7 @@ Ranged Weapon Attack: +6 to hit, range 60/240 ft., one target. Hit: 7 (1d8 + 3) 
     <save/>
     <skill>Perception +4</skill>
     <passive>14</passive>
-    <languages>Understands the languages of its creator but can't speak</languages>
+    <languages>Understands the languages of its creator but can&apos;t speak</languages>
     <cr>3</cr>
     <resist>fire; bludgeoning, piercing, slashing from nonmagical weapons</resist>
     <immune>poison, psychic</immune>
@@ -12732,7 +12732,7 @@ The golem makes a slam attack against a target it is grappling as it opens a pla
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>Understands the languages of its creator but can't speak</languages>
+    <languages>Understands the languages of its creator but can&apos;t speak</languages>
     <cr>10</cr>
     <resist/>
     <immune/>
@@ -12755,7 +12755,7 @@ The golem makes a slam attack against a target it is grappling as it opens a pla
     <save/>
     <skill>Perception +2, Stealth +4, Survival +5</skill>
     <passive>12</passive>
-    <languages>Understands the languages of its creator but can't speak</languages>
+    <languages>Understands the languages of its creator but can&apos;t speak</languages>
     <cr>8</cr>
     <resist/>
     <immune/>
@@ -12778,9 +12778,9 @@ The golem makes a slam attack against a target it is grappling as it opens a pla
     <save/>
     <skill/>
     <passive>9</passive>
-    <languages>Understands the languages of its creator but can't speak</languages>
+    <languages>Understands the languages of its creator but can&apos;t speak</languages>
     <cr>2</cr>
-    <resist>piercing, slashing from nonmagical weapons that aren't adamantine</resist>
+    <resist>piercing, slashing from nonmagical weapons that aren&apos;t adamantine</resist>
     <immune>poison, psychic</immune>
     <vulnerable>bludgeoning</vulnerable>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
@@ -12826,9 +12826,9 @@ When a glass golem takes bludgeoning damage, it can make one shard attack agains
     <save/>
     <skill/>
     <passive>9</passive>
-    <languages>Understands the languages of its creator but can't speak</languages>
+    <languages>Understands the languages of its creator but can&apos;t speak</languages>
     <cr>1/4</cr>
-    <resist>bludgeoning, piercing from nonmagical weapons that aren't adamantine</resist>
+    <resist>bludgeoning, piercing from nonmagical weapons that aren&apos;t adamantine</resist>
     <immune>poison, psychic</immune>
     <vulnerable>slashing</vulnerable>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
@@ -12866,9 +12866,9 @@ The target must succeed on a DC 11 Dexterity saving throw or be knocked prone.</
     <save/>
     <skill/>
     <passive>8</passive>
-    <languages>Understands the languages of its creator but can't speak</languages>
+    <languages>Understands the languages of its creator but can&apos;t speak</languages>
     <cr>3</cr>
-    <resist>bludgeoning, piercing, slashing from nonmagical weapons that aren't adamantine</resist>
+    <resist>bludgeoning, piercing, slashing from nonmagical weapons that aren&apos;t adamantine</resist>
     <immune>poison, psychic</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
@@ -12925,9 +12925,9 @@ The keg golem shoots a 1 gallon jet of ale in a 15-foot line that is 5 feet wide
     <save>Str +6, Dex +8</save>
     <skill>Athletics +6, Perception +9</skill>
     <passive>19</passive>
-    <languages>Understands the languages of its creator but can't speak</languages>
+    <languages>Understands the languages of its creator but can&apos;t speak</languages>
     <cr>9</cr>
-    <resist>bludgeoning, piercing; slashing from nonmagical weapons that aren't adamantine.</resist>
+    <resist>bludgeoning, piercing; slashing from nonmagical weapons that aren&apos;t adamantine.</resist>
     <immune>cold, fire, poison, psychic</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
@@ -12993,7 +12993,7 @@ When a spell is cast within 30 feet of it, the golem absorbs some of the spell's
     <save/>
     <skill/>
     <passive>9</passive>
-    <languages>Understands the languages of its creator but can't speak</languages>
+    <languages>Understands the languages of its creator but can&apos;t speak</languages>
     <cr>8</cr>
     <resist>bludgeoning, piercing, slashing</resist>
     <immune>acid, cold, fire, lightning, necrotic, poison, psychic, radiant, thunder</immune>
@@ -13062,9 +13062,9 @@ Ranged Spell Attack: +6 to hit, range 120/480 ft., one target. Hit: 25 (4d10 + 3
     <save/>
     <skill/>
     <passive>9</passive>
-    <languages>Understands the languages of its creator but can't speak</languages>
+    <languages>Understands the languages of its creator but can&apos;t speak</languages>
     <cr>1</cr>
-    <resist>bludgeoning, piercing, slashing from nonmagical weapons that aren't adamantine.</resist>
+    <resist>bludgeoning, piercing, slashing from nonmagical weapons that aren&apos;t adamantine.</resist>
     <immune>poison, psychic</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
@@ -13116,9 +13116,9 @@ Ranged Weapon Attack: +2 to hit, range 30/120 ft., one target. Hit: 3 (1d6) blud
     <save/>
     <skill/>
     <passive>8</passive>
-    <languages>Understands the languages of its creator but can't speak</languages>
+    <languages>Understands the languages of its creator but can&apos;t speak</languages>
     <cr>1/4</cr>
-    <resist>bludgeoning, piercing, slashing from nonmagical weapons that aren't adamantine.</resist>
+    <resist>bludgeoning, piercing, slashing from nonmagical weapons that aren&apos;t adamantine.</resist>
     <immune>poison, psychic</immune>
     <vulnerable>fire</vulnerable>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
@@ -13169,10 +13169,10 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashi
     <save/>
     <skill/>
     <passive>8</passive>
-    <languages>Understands the languages of its creator but can't speak</languages>
+    <languages>Understands the languages of its creator but can&apos;t speak</languages>
     <cr>3</cr>
     <resist/>
-    <immune>poison, psychic; bludgeoning, piercing, slashing from nonmagical weapons that aren't adamantine.</immune>
+    <immune>poison, psychic; bludgeoning, piercing, slashing from nonmagical weapons that aren&apos;t adamantine.</immune>
     <vulnerable>fire</vulnerable>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone, restrained, stunned</conditionImmune>
     <senses>darkvision 30 ft.</senses>
@@ -13232,10 +13232,10 @@ The air is momentarily filled with paper golems. Each creature within 5 feet of 
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>Understands Dwarvish but can't speak</languages>
+    <languages>Understands Dwarvish but can&apos;t speak</languages>
     <cr>18</cr>
     <resist/>
-    <immune>poison, psychic; bludgeoning, piercing, slashing from nonmagical weapons that aren't adamantine</immune>
+    <immune>poison, psychic; bludgeoning, piercing, slashing from nonmagical weapons that aren&apos;t adamantine</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
@@ -13308,9 +13308,9 @@ All other effects of the catapult attack remain the same.</text>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>Understands the languages of its creator but can't speak</languages>
+    <languages>Understands the languages of its creator but can&apos;t speak</languages>
     <cr>3</cr>
-    <resist>bludgeoning, piercing, slashing from nonmagical weapons that aren't adamantine.</resist>
+    <resist>bludgeoning, piercing, slashing from nonmagical weapons that aren&apos;t adamantine.</resist>
     <immune>poison, psychic</immune>
     <vulnerable>fire</vulnerable>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
@@ -13557,12 +13557,12 @@ The grave behemoth vomits putrid flesh and 5 (2d4) zombies in a 30-foot cone. Ea
     <conditionImmune>charmed, frightened</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <trait>
-      <name>Headsman's Woe</name>
+      <name>Headsman&apos;s Woe</name>
       <text>
 If the green knight's head is severed by a vorpal weapon or by other means, magical vines sprout from its neck and the head reattaches by the start of the green knight's next turn, preventing the green knight from dying from the loss of its head.</text>
     </trait>
     <trait>
-      <name>Knight's Challenge (3/Day)</name>
+      <name>Knight&apos;s Challenge (3/Day)</name>
       <recharge>3/Day</recharge>
       <text>
 As a bonus action, the green knight targets one creature that it can see within 30 feet and issues a challenge. If the target can see the green knight, it must succeed on a DC 14 Wisdom saving throw or become magically compelled to engage the green knight in melee combat for 1 minute, or until the knight challenges a new opponent. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
@@ -13603,7 +13603,7 @@ Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 30/120 ft., one t
       <attack>Javelin|+7|1d6+4</attack>
     </action>
     <reaction>
-      <name>Knight's Rebuke</name>
+      <name>Knight&apos;s Rebuke</name>
       <text>
 When the green knight is hit by a melee attack from a creature it has successfully challenged, it can make one battle axe attack with advantage against the attacker.</text>
     </reaction>
@@ -13694,7 +13694,7 @@ After releasing the ink, the grindylow can use the Dash action as a bonus action
     <save>Dex +10, Con +12, Wis +12</save>
     <skill>Athletics +14, Insight +12, Intimidation +11</skill>
     <passive>15</passive>
-    <languages>Understands but can't speak, telepathy 120 ft.</languages>
+    <languages>Understands but can&apos;t speak, telepathy 120 ft.</languages>
     <cr>21</cr>
     <resist>necrotic</resist>
     <immune>fire, radiant; bludgeoning, piercing, slashing from nonmagical weapons</immune>
@@ -13741,7 +13741,7 @@ Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 18 (2d10 + 7) blu
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The celestial can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The celestial regains spent legendary actions at the start of its turn.</text>
+      <text>The celestial can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The celestial regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -14025,7 +14025,7 @@ The herald magically shoots fire in a 60-foot line that is 5 feet wide. Each cre
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The dragon can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.</text>
+      <text>The dragon can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The dragon regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -14130,7 +14130,7 @@ The target must succeed on a DC 18 Wisdom saving throw or be restrained by magic
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The dragon can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.</text>
+      <text>The dragon can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The dragon regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -14357,7 +14357,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slash
       <text>
 Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 7 (2d6) necrotic damage.</text>
       <attack>Tongue|+7|1d6+4</attack>
-      <text>The target's hp maximum is reduced by an amount equal to the necrotic damage taken. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0.</text>
+      <text>The target&apos;s hp maximum is reduced by an amount equal to the necrotic damage taken. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0.</text>
     </action>
     <action>
       <name>Hunter of the Lost</name>
@@ -14687,7 +14687,7 @@ The incinis transforms into a wave of magma, moving up to its speed in a straigh
     <save/>
     <skill>Arcana +4, Stealth +4</skill>
     <passive>11</passive>
-    <languages>Understands the languages of its creator but can't speak</languages>
+    <languages>Understands the languages of its creator but can&apos;t speak</languages>
     <cr>1/4</cr>
     <resist/>
     <immune/>
@@ -14749,7 +14749,7 @@ The inkling's innate spellcasting ability is Intelligence (spell save DC 12, +4 
     <save/>
     <skill>Athletics +6, Perception +3</skill>
     <passive>13</passive>
-    <languages>Understands the languages of its creator but can't speak</languages>
+    <languages>Understands the languages of its creator but can&apos;t speak</languages>
     <cr>5</cr>
     <resist>cold, fire; bludgeoning, piercing, slashing from nonmagical weapons</resist>
     <immune>lightning, necrotic, poison, psychic, radiant</immune>
@@ -14881,7 +14881,7 @@ The jaanavar jal expels a line of burning oil that is 40 feet long and 5 feet wi
     <save/>
     <skill>Athletics +6, Perception +4</skill>
     <passive>14</passive>
-    <languages>Understands the languages it knew in life but can't speak</languages>
+    <languages>Understands the languages it knew in life but can&apos;t speak</languages>
     <cr>6</cr>
     <resist>necrotic; bludgeoning, piercing, slashing from nonmagical weapons</resist>
     <immune>poison</immune>
@@ -14990,7 +14990,7 @@ Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 14 (2d10 + 3) blu
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The plant can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The plant regains spent legendary actions at the start of its turn.</text>
+      <text>The plant can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The plant regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -16020,7 +16020,7 @@ The target magically regains 22 (5d8) hp and is cured of any curses or diseases 
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The celestial can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The celestial regains spent legendary actions at the start of its turn.</text>
+      <text>The celestial can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The celestial regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -16317,7 +16317,7 @@ The target must succeed on a DC 17 Wisdom saving throw or be charmed for 1 minut
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The undead can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The undead regains spent legendary actions at the start of its turn.</text>
+      <text>The undead can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The undead regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -16392,7 +16392,7 @@ If the pact lich fails a saving throw, it can choose to succeed instead.</text>
 As a bonus action when in an area of dim light or darkness, the pact lich can become invisible until it moves or takes an action or reaction.</text>
     </trait>
     <trait>
-      <name>Patron's Blessing</name>
+      <name>Patron&apos;s Blessing</name>
       <text>
 When the pact lich reduces a target to 0 hp, the lich gains 25 temporary hp.</text>
     </trait>
@@ -16418,7 +16418,7 @@ Melee Spell Attack: +10 to hit, reach 5 ft., one target. Hit: 10 (3d6) necrotic 
 
 The target must succeed on a DC 18 Charisma saving throw or have vivid hallucinations for 1 minute. During this time, the target is blinded, stunned, and deafened, sensing only the hallucinatory terrain and events.</text>
       <attack>Maddening Touch|+10|3d6</attack>
-      <text>The hallucinations play on aspects of the creature's deepest fears. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      <text>The hallucinations play on aspects of the creature&apos;s deepest fears. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
     </action>
     <action>
       <name>Enhanced Eldritch Blast</name>
@@ -16437,7 +16437,7 @@ The pact lich targets one creature it can see within 60 feet of it. The target m
     <legendary>
       <name>Legendary Actions (5/Turn)</name>
       <recharge>5/Turn</recharge>
-      <text>The undead can take 5 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The undead regains spent legendary actions at the start of its turn.</text>
+      <text>The undead can take 5 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The undead regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -16494,7 +16494,7 @@ The pact lich's innate spellcasting ability is Charisma (spell save DC 18, +10 t
     <save/>
     <skill>Stealth +6</skill>
     <passive>10</passive>
-    <languages>Understands Common but can't speak</languages>
+    <languages>Understands Common but can&apos;t speak</languages>
     <cr>1/4</cr>
     <resist>acid, cold, fire, lightning, thunder; bludgeoning, piercing, slashing from nonmagical weapons</resist>
     <immune>necrotic, poison</immune>
@@ -16891,7 +16891,7 @@ If a creature fails the saving throw by 5 or more, it is stunned until the end o
     <save/>
     <skill>Athletics +5, Perception +3, Stealth +1</skill>
     <passive>13</passive>
-    <languages>Understands Common, Sylvan but can't speak</languages>
+    <languages>Understands Common, Sylvan but can&apos;t speak</languages>
     <cr>5</cr>
     <resist/>
     <immune>poison</immune>
@@ -17064,7 +17064,7 @@ Mantik unleashes an ground-shaking roar. Each creature within 60 feet who can he
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>Mantik, can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Mantik, regains spent legendary actions at the start of its turn.</text>
+      <text>Mantik, can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Mantik, regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -17181,10 +17181,10 @@ The Master has advantage on saving throws against spells and other magical effec
 Fiends summoned by the Master's Summon Fiend share a telepathic link with him, are under his control, and can't summon other demons or devils. A fiend remains until it or the Master dies or until the Master dismisses it as a bonus action. The total CR of the fiends under the Master's control can't exceed 16, otherwise the Master can summon any number or combination of fiends. Any fiends the Master attempts to summon in excess of this limit aren't summoned.</text>
     </trait>
     <action>
-      <name>Master's Knife</name>
+      <name>Master&apos;s Knife</name>
       <text>
 Melee Weapon Attack. +10 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 14 (4d6) fire damage.</text>
-      <attack>Master's Knife|+10|2d6+4</attack>
+      <attack>Master&apos;s Knife|+10|2d6+4</attack>
     </action>
     <action>
       <name>Summon Fiend (Recharge 6)</name>
@@ -17195,7 +17195,7 @@ The Master summons 2d4 wind demons (see page 93), 1d4 wind's harp devils (see pa
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The humanoid (tiefling) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The humanoid (tiefling) regains spent legendary actions at the start of its turn.</text>
+      <text>The humanoid (tiefling) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The humanoid (tiefling) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -17279,10 +17279,10 @@ The Master has advantage on saving throws against spells and other magical effec
 Fiends summoned by the Master's Summon Fiend share a telepathic link with him, are under his control, and can't summon other demons or devils. A fiend remains until it or the Master dies or until the Master dismisses it as a bonus action. The total CR of the fiends under the Master's control can't exceed 16, otherwise the Master can summon any number or combination of fiends. Any fiends the Master attempts to summon in excess of this limit aren't summoned.</text>
     </trait>
     <action>
-      <name>Master's Knife</name>
+      <name>Master&apos;s Knife</name>
       <text>
 Melee Weapon Attack. +10 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 14 (4d6) fire damage.</text>
-      <attack>Master's Knife|+10|2d6+4</attack>
+      <attack>Master&apos;s Knife|+10|2d6+4</attack>
     </action>
     <action>
       <name>Summon Fiend (Recharge 6)</name>
@@ -17293,7 +17293,7 @@ The Master summons 2d4 wind demons (see page 93), 1d4 wind's harp devils (see pa
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The humanoid (tiefling) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The humanoid (tiefling) regains spent legendary actions at the start of its turn.</text>
+      <text>The humanoid (tiefling) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The humanoid (tiefling) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -17377,7 +17377,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slash
 
 If the target is a Large or smaller creature, it is grappled (escape DC 13).</text>
       <attack>Bite|+5|2d6+3</attack>
-      <text>Until this grapple ends, the megapede has advantage on attacks against the grappled target, and it can't make bite attacks against another target.</text>
+      <text>Until this grapple ends, the megapede has advantage on attacks against the grappled target, and it can&apos;t make bite attacks against another target.</text>
     </action>
     <action>
       <name>Stinger</name>
@@ -17556,7 +17556,7 @@ The moon priestess is a 10th-level spellcaster. Its spellcasting ability is Wisd
     <save>Dex +3, Wis +4</save>
     <skill>Athletics +8, Perception +4, Survival +4</skill>
     <passive>14</passive>
-    <languages>Understands the languages it knew in life but can't speak</languages>
+    <languages>Understands the languages it knew in life but can&apos;t speak</languages>
     <cr>8</cr>
     <resist>necrotic</resist>
     <immune>cold, poison</immune>
@@ -17736,7 +17736,7 @@ If the morko lacks the room to grow back to its regular size, it attains the max
     <save/>
     <skill/>
     <passive>13</passive>
-    <languages>Understands but can't speak</languages>
+    <languages>Understands but can&apos;t speak</languages>
     <cr>9</cr>
     <resist>acid, cold, fire, radiant, thunder</resist>
     <immune>poison, psychic; bludgeoning, piercing, slashing</immune>
@@ -17853,7 +17853,7 @@ The nachzehrer makes three attacks. two with its fists and one with its bite.</t
       <text>
 Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. 7 (1d4 + 5) piercing damage plus 13 (3d8) necrotic damage.</text>
       <attack>Bite|+8|1d4+5</attack>
-      <text>The target's hp maximum is reduced by an amount equal to the necrotic damage taken, and the nachzehrer regains hp equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0.
+      <text>The target&apos;s hp maximum is reduced by an amount equal to the necrotic damage taken, and the nachzehrer regains hp equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0.
 
 The target must succeed on a DC 16 Constitution saving throw or become infected with the grave pox disease (see the Grave Pox trait).</text>
     </action>
@@ -18100,7 +18100,7 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one prone creature. 15 (2d10 + 4) b
       <attack>Stomp|+6|2d10+4</attack>
     </action>
     <action>
-      <name>Year's Termination (1/Day)</name>
+      <name>Year&apos;s Termination (1/Day)</name>
       <recharge>1/Day</recharge>
       <text>
 The nian creates magical darkness and silence around it in a 15-foot-radius sphere that moves with it and spreads around corners. The dark silence lasts as long as the nian maintains concentration, up to 10 minutes (as if concentrating on a spell). The nian sees objects in the sphere in shades of gray. Darkvision can't penetrate the darkness, no natural light can illuminate it, no sound can be created within or pass through it, and any creature or object entirely inside the sphere of dark silence is immune to thunder damage.
@@ -18127,7 +18127,7 @@ Creatures entirely inside the darkness are deafened and can't cast spells that i
     <save>Str +8, Con +8, Wis +7, Cha +7</save>
     <skill>Athletics +8, Intimidation +7, Perception +7, Stealth +11</skill>
     <passive>17</passive>
-    <languages>Understands Common, Abyssal but can't speak</languages>
+    <languages>Understands Common, Abyssal but can&apos;t speak</languages>
     <cr>10</cr>
     <resist>necrotic, bludgeoning</resist>
     <immune/>
@@ -18164,7 +18164,7 @@ The nightgaunt can use its Baneful Presence. It then makes three attacks. two wi
       <text>
 Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage, and the target is grappled (escape DC 16) if it is a Medium or smaller creature.</text>
       <attack>Clutching Claws|+8|2d8+4</attack>
-      <text>Until this grapple ends, the target is restrained. The nightgaunt has two claws, each of which can grapple only one target. While using a claw to grapple, the nightgaunt can't use that claw to attack.</text>
+      <text>Until this grapple ends, the target is restrained. The nightgaunt has two claws, each of which can grapple only one target. While using a claw to grapple, the nightgaunt can&apos;t use that claw to attack.</text>
     </action>
     <action>
       <name>Barbed Tail</name>
@@ -18287,7 +18287,7 @@ Melee Weapon Attack:+7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) pierci
       <attack>Bite|+7|2d6+4</attack>
     </action>
     <action>
-      <name>Berserker's Blood (Recharge 5-6)</name>
+      <name>Berserker&apos;s Blood (Recharge 5-6)</name>
       <recharge>D5</recharge>
       <text>
 If the tusked crimson ogre doesn't have all of its hp, it flexes and roars, spraying blood from its wounds. Each creature within 15 feet of the ogre must make a DC 14 Constitution saving throw. On a failure, a creature takes 21 (6d6) acid damage and goes berserk. On a success, a creature takes half the damage and doesn't go berserk. On each of its turns, a berserk creature must attack the nearest creature it can see, eschewing ranged or magical attacks in favor of melee attacks. If no creature is near enough to move to and attack, the berserk creature attacks an object, with preference for an object smaller than itself. Once a creature goes berserk, it continues to do so until it is unconscious, regains all of its hp, or is cured through lesser restoration or similar magic.</text>
@@ -18379,7 +18379,7 @@ The oliphaunt sweeps its tusks in a wide arc. Each creature in a 20-foot cube mu
     <save/>
     <skill>Arcana +5</skill>
     <passive>8</passive>
-    <languages>Understands Common but can't speak, telepathy 10 ft.</languages>
+    <languages>Understands Common but can&apos;t speak, telepathy 10 ft.</languages>
     <cr>1</cr>
     <resist>acid, cold, fire, poison</resist>
     <immune/>
@@ -19047,7 +19047,7 @@ Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one ta
     <save>Wis +3</save>
     <skill>Perception +5, Survival +3</skill>
     <passive>15</passive>
-    <languages>Understands Common but can't speak</languages>
+    <languages>Understands Common but can&apos;t speak</languages>
     <cr>3</cr>
     <resist/>
     <immune/>
@@ -19080,7 +19080,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) pierci
       <text>
 Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage, and the target must make a DC 12 Constitution saving throw. On a failed save, it takes 14 (4d6) poison damage and is poisoned for 1 minute.</text>
       <attack>Bite (Snake Head)|+5|1d4+3</attack>
-      <text>On a success, it takes half the damage and isn't poisoned.</text>
+      <text>On a success, it takes half the damage and isn&apos;t poisoned.</text>
     </action>
     <description>Source:	Creature Codex (3pp)</description>
     <environment/>
@@ -19153,7 +19153,7 @@ When the dragon is hit with an attack, it gains resistance to damage of that typ
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The dragon can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.</text>
+      <text>The dragon can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The dragon regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -19412,7 +19412,7 @@ The phantom emits an eerie moan. Each creature within 30 feet that isn't an unde
     <environment/>
   </monster>
   <monster>
-    <name>Philosopher's Ghost</name>
+    <name>Philosopher&apos;s Ghost</name>
     <size>M</size>
     <type>ooze</type>
     <alignment>Unaligned</alignment>
@@ -19566,7 +19566,7 @@ The piasa exhales sleep gas in a 30-foot cone. Each creature in that area must s
     <save>Con +3, Wis +1</save>
     <skill>Arcana +6, History +6</skill>
     <passive>9</passive>
-    <languages>Understands Common but can't speak, telepathy 120 ft.</languages>
+    <languages>Understands Common but can&apos;t speak, telepathy 120 ft.</languages>
     <cr>4</cr>
     <resist>bludgeoning, piercing, slashing from nonmagical weapons</resist>
     <immune>poison</immune>
@@ -19614,7 +19614,7 @@ d4 | Attack | Effect
     <save/>
     <skill>Perception +4</skill>
     <passive>14</passive>
-    <languages>Understands but can't speak</languages>
+    <languages>Understands but can&apos;t speak</languages>
     <cr>6</cr>
     <resist>necrotic</resist>
     <immune/>
@@ -19697,7 +19697,7 @@ Hallowed reeds within 60 feet of an alabaster tree have advantage on saving thro
 The alabaster tree knows if a creature within 60 feet of it is good-aligned or not.</text>
     </trait>
     <trait>
-      <name>Soul's Respite</name>
+      <name>Soul&apos;s Respite</name>
       <text>
 A good-aligned creature who takes a short rest within 10 feet of an alabaster tree gains all the benefits of a long rest.</text>
     </trait>
@@ -20184,7 +20184,7 @@ When a creature the quickstep can see targets it with an attack, the quickstep c
     <save>Con +3, Wis +7, Cha +3</save>
     <skill>Perception +7</skill>
     <passive>17</passive>
-    <languages>Understands the languages it knew in life but can't speak</languages>
+    <languages>Understands the languages it knew in life but can&apos;t speak</languages>
     <cr>6</cr>
     <resist/>
     <immune>cold, poison, psychic</immune>
@@ -20327,7 +20327,7 @@ The greater rakshasa chooses a point it can see within 60 feet, conjuring a terr
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The fiend can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The fiend regains spent legendary actions at the start of its turn.</text>
+      <text>The fiend can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The fiend regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -20464,7 +20464,7 @@ The ramag portal master is a 7th-level spellcaster. Its spellcasting ability is 
     <conditionImmune/>
     <senses>darkvision 60 ft.</senses>
     <trait>
-      <name>I'm Bigger That's Why</name>
+      <name>I&apos;m Bigger That&apos;s Why</name>
       <text>
 As a bonus action, the ratatosk warlord commands one ratatosk within 30 feet of it to make one melee attack as a reaction.</text>
     </trait>
@@ -20709,7 +20709,7 @@ The razorleaf shakes loose a deadly shower of slicing leaves. Each creature with
     <save>Str +8, Wis +4</save>
     <skill>Athletics +8, Perception +4</skill>
     <passive>14</passive>
-    <languages>Understands but can't speak</languages>
+    <languages>Understands but can&apos;t speak</languages>
     <cr>8</cr>
     <resist>cold, fire, lightning; bludgeoning, piercing, slashing from nonmagical weapons</resist>
     <immune>poison</immune>
@@ -21010,7 +21010,7 @@ Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) Claws
     <save/>
     <skill>Perception +7</skill>
     <passive>17</passive>
-    <languages>Understands the languages of its creator but can't speak</languages>
+    <languages>Understands the languages of its creator but can&apos;t speak</languages>
     <cr>7</cr>
     <resist>bludgeoning, piercing, slashing from nonmagical weapons</resist>
     <immune>poison</immune>
@@ -21297,7 +21297,7 @@ The shadow river lord expels a geyser of shadowy water from its staff in a 30-fo
     <save>Con +7, Wis +5</save>
     <skill>Perception +5</skill>
     <passive>15</passive>
-    <languages>Understands Common but can't speak</languages>
+    <languages>Understands Common but can&apos;t speak</languages>
     <cr>5</cr>
     <resist>necrotic</resist>
     <immune/>
@@ -21583,7 +21583,7 @@ The avatar uses its action to consult its weighty zom for insight. The zom flash
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The aberration (shoth) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The aberration (shoth) regains spent legendary actions at the start of its turn.</text>
+      <text>The aberration (shoth) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The aberration (shoth) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -21848,7 +21848,7 @@ A shoth who has less than half its maximum hp can merge with any other shoth cre
     <save/>
     <skill>Perception +2, Stealth +6</skill>
     <passive>12</passive>
-    <languages>Understands Common but can't speak</languages>
+    <languages>Understands Common but can&apos;t speak</languages>
     <cr>2</cr>
     <resist>bludgeoning, piercing, slashing from nonmagical weapons</resist>
     <immune>poison</immune>
@@ -22028,7 +22028,7 @@ When the Monkey King is hit by a weapon attack, he gains resistance to bludgeoni
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The celestial (simian) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The celestial (simian) regains spent legendary actions at the start of its turn.</text>
+      <text>The celestial (simian) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The celestial (simian) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -22200,7 +22200,7 @@ The simurg's innate spellcasting ability is Wisdom (spell save DC 14). It can in
     <save/>
     <skill/>
     <passive>9</passive>
-    <languages>Understands the languages it knew in life but can't speak</languages>
+    <languages>Understands the languages it knew in life but can&apos;t speak</languages>
     <cr>2</cr>
     <resist/>
     <immune>poison</immune>
@@ -22268,7 +22268,7 @@ Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 4 (1d6 + 1) 
 The monarch skeleton and any skeletons within 30 feet of it have advantage on attack rolls against a creature if at least one of the skeleton's allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
     </trait>
     <trait>
-      <name>Sovereign's Command</name>
+      <name>Sovereign&apos;s Command</name>
       <text>
 As a bonus action, the monarch commands a skeleton within 30 feet of it to make one attack as a reaction against a creature the monarch attacked this round.</text>
     </trait>
@@ -22316,7 +22316,7 @@ Each non-skeleton creature within 30 feet of the monarch must succeed on a DC 16
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>Understands the languages it knew in life but can't speak</languages>
+    <languages>Understands the languages it knew in life but can&apos;t speak</languages>
     <cr>2</cr>
     <resist>fire, piercing, slashing</resist>
     <immune>poison</immune>
@@ -22495,7 +22495,7 @@ When a creature moves within 5 feet of the sleipnir, the sleipnir can move up to
 Any creature that starts its turn within 15 feet of the giant sloth must succeed on a DC 15 Constitution saving throw or have disadvantage on its next attack roll or ability check.</text>
     </trait>
     <trait>
-      <name>Hunter's Dash (1/Day)</name>
+      <name>Hunter&apos;s Dash (1/Day)</name>
       <recharge>1/Day</recharge>
       <text>
 The giant sloth moves double its normal speed and has advantage on all of its attacks for 1 round.</text>
@@ -22520,7 +22520,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 17 (3d8 + 4) pierc
       <attack>Bite|+7|3d8+4</attack>
     </action>
     <action>
-      <name>Sloth's Embrace</name>
+      <name>Sloth&apos;s Embrace</name>
       <text>
 The giant sloth crushes a creature it is grappling by pulling the creature against its fetid, furry chest.
 
@@ -22600,7 +22600,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. 4 (1d4 + 2) slashing 
     <save/>
     <skill>Athletics +8, Stealth +3</skill>
     <passive>11</passive>
-    <languages>Understands Common, Undercommon but can't speak</languages>
+    <languages>Understands Common, Undercommon but can&apos;t speak</languages>
     <cr>4</cr>
     <resist>necrotic</resist>
     <immune/>
@@ -22608,7 +22608,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. 4 (1d4 + 2) slashing 
     <conditionImmune>charmed, frightened</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <trait>
-      <name>Night's Blood</name>
+      <name>Night&apos;s Blood</name>
       <text>
 If a bite wound from the spawn of Chernobog results in an infection, the black oil that drips from the spawn's jaws seeps into the wound and vanishes. After each long rest, the creature must make a DC 14 Constitution saving throw. On two successes, the disease is cured. On a failure, the disease progresses, forcing the creature to undergo a series of changes, in the following order.
 
@@ -22744,7 +22744,7 @@ The crypt spider can have no more than four zombies under its control at one tim
 The spirit lamp can't be surprised and can use a bonus action to take the Disengage action.</text>
     </trait>
     <trait>
-      <name>Lantern's Light</name>
+      <name>Lantern&apos;s Light</name>
       <text>
 As a bonus action, the spirit lamp can open or close its lantern. When open, the lantern sheds bright light in a 30-foot radius and dim light for an additional 30 feet. The spirit lamp can only see objects within the lantern's light and is blind while the lantern is closed. The lantern's light pierces magical and nonmagical darkness and can't be dispelled by magical darkness. If a creature dies in the lantern's light, its spirit is trapped in the lantern.</text>
     </trait>
@@ -22961,7 +22961,7 @@ The Queen of Birds (see page 30) is guarded by a special variety of terror birds
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>Understands the languages of its creator but can't speak</languages>
+    <languages>Understands the languages of its creator but can&apos;t speak</languages>
     <cr>3</cr>
     <resist>bludgeoning, piercing, slashing from nonmagical weapons</resist>
     <immune>poison</immune>
@@ -23463,7 +23463,7 @@ The tveirherjar targets one creature it can see within 30 feet of it. If the cre
     <save/>
     <skill>Acrobatics +8, Athletics +8, Perception +4</skill>
     <passive>14</passive>
-    <languages>Understands Common but can't speak</languages>
+    <languages>Understands Common but can&apos;t speak</languages>
     <cr>7</cr>
     <resist/>
     <immune/>
@@ -23601,7 +23601,7 @@ The undine can communicate telepathically with any creature cursed by it with no
 The undine can use its action to polymorph into a Small or Medium humanoid with legs or with a mermaid's tail or back into its true watery humanoid form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</text>
     </trait>
     <trait>
-      <name>Undine's Curse</name>
+      <name>Undine&apos;s Curse</name>
       <text>
 A creature cursed by the undine gains the Amphibious trait and a swimming speed of 30 feet. After each long rest, the target must succeed on a DC 15 Constitution saving throw or its Constitution score is reduced by 1d4 as it forgets to breathe regularly while resting. If the target received a Cursed Kiss from the undine within the past 24 hours, it automatically succeeds on its next saving throw. If the target ever lies to or is unfaithful to the undine, it has disadvantage on its next saving throw, and its Constitution is reduced by 2d4 instead of 1d4 on a failure. The curse lasts until the undine takes a bonus action to lift it or until lifted by a remove curse spell or similar magic.</text>
     </trait>
@@ -24312,7 +24312,7 @@ When it is hit by a melee weapon attack within 10 feet of it, the venom maw hydr
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The monstrosity can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity regains spent legendary actions at the start of its turn.</text>
+      <text>The monstrosity can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -24405,7 +24405,7 @@ The vines of Nemthyr shoots poisonous thorns in a 30-foot cone. Each creature in
     <environment>forest, grassland</environment>
   </monster>
   <monster>
-    <name>Warlock's Trumpetbloom</name>
+    <name>Warlock&apos;s Trumpetbloom</name>
     <size>L</size>
     <type>plant</type>
     <alignment>Neutral Evil</alignment>
@@ -24421,7 +24421,7 @@ The vines of Nemthyr shoots poisonous thorns in a 30-foot cone. Each creature in
     <save>Str +6, Con +7</save>
     <skill>Perception +3, Stealth +3</skill>
     <passive>13</passive>
-    <languages>Understands but can't speak</languages>
+    <languages>Understands but can&apos;t speak</languages>
     <cr>7</cr>
     <resist>fire</resist>
     <immune>poison</immune>
@@ -24849,7 +24849,7 @@ The whisperer in darkness's innate spellcasting ability is Intelligence (spell s
     <save/>
     <skill>Athletics +5, Insight +4, Perception +4</skill>
     <passive>14</passive>
-    <languages>Understands Common, Elvish, Celestial, Sylvan but can't speak</languages>
+    <languages>Understands Common, Elvish, Celestial, Sylvan but can&apos;t speak</languages>
     <cr>2</cr>
     <resist/>
     <immune/>
@@ -24910,7 +24910,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. 10 (2d6 + 3) bludgeon
     <save>Con +4, Wis +5</save>
     <skill>Perception +5, Stealth +6</skill>
     <passive>15</passive>
-    <languages>Understands Common but can't speak</languages>
+    <languages>Understands Common but can&apos;t speak</languages>
     <cr>2</cr>
     <resist>acid, cold, fire, lightning, necrotic, thunder; bludgeoning, piercing, slashing from nonmagical weapons</resist>
     <immune>poison</immune>
@@ -25217,7 +25217,7 @@ When a creature the wyvern knight can see attacks a target that is within 5 feet
     <save>Wis +5</save>
     <skill>Athletics +8, Perception +5</skill>
     <passive>15</passive>
-    <languages>Understands Common, Draconic but can't speak</languages>
+    <languages>Understands Common, Draconic but can&apos;t speak</languages>
     <cr>7</cr>
     <resist/>
     <immune/>
@@ -25395,7 +25395,7 @@ The target is stable and doesn't die if this effect reduces its hp to 0. After 2
     <save>Wis +4</save>
     <skill>Stealth +10</skill>
     <passive>11</passive>
-    <languages>Understands Common but can't speak</languages>
+    <languages>Understands Common but can&apos;t speak</languages>
     <cr>5</cr>
     <resist/>
     <immune>necrotic</immune>
@@ -25670,7 +25670,7 @@ Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 20 (3d10 + 4) sla
     <save/>
     <skill/>
     <passive>8</passive>
-    <languages>Understands the languages it knew in life but can't speak</languages>
+    <languages>Understands the languages it knew in life but can&apos;t speak</languages>
     <cr>2</cr>
     <resist/>
     <immune>poison</immune>
@@ -25765,7 +25765,7 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the lord'
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The undead (zombie) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The undead (zombie) regains spent legendary actions at the start of its turn.</text>
+      <text>The undead (zombie) can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The undead (zombie) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Options</name>
@@ -26372,7 +26372,7 @@ The necromancers of the Blood Kingdom regularly animate the corpses of dwarven r
     <conditionImmune/>
     <senses/>
     <trait>
-      <name>Clockworker's Charm</name>
+      <name>Clockworker&apos;s Charm</name>
       <text>
 Whenever the gear mage casts a spell that animates, creates, or modifies an object, the spell's duration is increased by 3 minutes, if it has a duration.</text>
     </trait>
@@ -26430,7 +26430,7 @@ The gear mage is a 9th-level spellcaster. Its spellcasting ability is Intelligen
     <conditionImmune/>
     <senses/>
     <trait>
-      <name>Clockworker's Charm</name>
+      <name>Clockworker&apos;s Charm</name>
       <text>
 Whenever the gear mage casts a spell that animates, creates, or modifies an object, the spell's duration is increased by 3 minutes, if it has a duration.</text>
     </trait>
@@ -26786,7 +26786,7 @@ The scorpion assassin is a 5th-level spellcaster. Its spellcasting ability is Wi
     <save>Dex +7, Int +5</save>
     <skill>Acrobatics +7, Deception +9, Investigation +5, Perception +5, Persuasion +6, Stealth +10</skill>
     <passive>15</passive>
-    <languages>Thieves' cant</languages>
+    <languages>Thieves&apos; cant</languages>
     <cr>8</cr>
     <resist>poison</resist>
     <immune/>
@@ -26892,7 +26892,7 @@ Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 5 (1d6 + 2) p
       <text>
 Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage, and, if the target is a Medium or smaller creature, it is grappled (escape DC 12).</text>
       <attack>Tentacle Hand|+4|1d4+2</attack>
-      <text>Until this grapple ends, the target is restrained, and the void cultist can't use its tentacle hand against another target. In addition, the tentacle hand grants the cultist advantage on Strength (Athletics) checks.</text>
+      <text>Until this grapple ends, the target is restrained, and the void cultist can&apos;t use its tentacle hand against another target. In addition, the tentacle hand grants the cultist advantage on Strength (Athletics) checks.</text>
     </action>
     <action>
       <name>Tusks</name>
@@ -27244,7 +27244,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashi
       <attack>Longsword|+4|1d8+2</attack>
     </action>
     <action>
-      <name>War God's Healing (Recharge 5-6)</name>
+      <name>War God&apos;s Healing (Recharge 5-6)</name>
       <recharge>D5</recharge>
       <text>
 The war chaplain targets one ally within 30 feet engaged in melee combat. The target regains 10 (3d6) hit points.</text>
@@ -27330,7 +27330,7 @@ The war priest is a 7th-level spellcaster. Its spellcasting ability is Wisdom (s
     <components>V, S, M</components>
     <duration>1 hour</duration>
     <classes>Ranger, Druid, Cleric (Nature)</classes>
-    <text>You call a roggenwolf within range to your side (though it may take some time to get to you) and can verbally communicate with it for the duration. If you make an offering of meat and a successful DC 13 Charisma ability check, the roggenwolf will give you information about nearby locations and prey, including whatever it has seen within the past day. You might be able to persuade a roggenwolf to attack a particular creature or howl at a particular location, at the GM's discretion.
+    <text>You call a roggenwolf within range to your side (though it may take some time to get to you) and can verbally communicate with it for the duration. If you make an offering of meat and a successful DC 13 Charisma ability check, the roggenwolf will give you information about nearby locations and prey, including whatever it has seen within the past day. You might be able to persuade a roggenwolf to attack a particular creature or howl at a particular location, at the GM&apos;s discretion.
 
 Source:	Creature Codex (3pp) p. 320</text>
   </spell>
@@ -27339,7 +27339,7 @@ Source:	Creature Codex (3pp) p. 320</text>
     <type>G</type>
     <weight/>
     <property/>
-    <text>This shimmering cloak is made from the scales of a scitalis. While in an area of bright or dim light, you can pull the cloak's hood over your head to cause the scales to glimmer and shine. Each creature within 10 feet of you must succeed on a DC 15 Constitution saving throw or be blinded until the end of its next turn. Once this property has been used twice, it can't be used again until the next dawn. Pulling the hood up or down requires an action.
+    <text>This shimmering cloak is made from the scales of a scitalis. While in an area of bright or dim light, you can pull the cloak&apos;s hood over your head to cause the scales to glimmer and shine. Each creature within 10 feet of you must succeed on a DC 15 Constitution saving throw or be blinded until the end of its next turn. Once this property has been used twice, it can&apos;t be used again until the next dawn. Pulling the hood up or down requires an action.
 
 Source:	Creature Codex (3pp)</text>
   </item>

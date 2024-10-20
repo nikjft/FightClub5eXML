@@ -23,7 +23,7 @@ Source:	Unearthed Arcana: Sorcerer And Warlock p. 1</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Aberrant Mind (UA): Psionic Spells</name>
-        <text>Starting at 1st level, your aberrant nature changes your mind in subtle but profound ways. You learn additional spells when you reach certain levels in this class, as shown on the Psionic Spells table. The spell counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know.
+        <text>Starting at 1st level, your aberrant nature changes your mind in subtle but profound ways. You learn additional spells when you reach certain levels in this class, as shown on the Psionic Spells table. The spell counts as a sorcerer spell for you, but it doesn&apos;t count against the number of sorcerer spells you know.
 
 Psionic Spells:
 Sorcerer Level | Spells
@@ -40,7 +40,7 @@ Source:	Unearthed Arcana: Sorcerer And Warlock p. 1</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Aberrant Mind (UA): Unique Disturbance</name>
-        <text>Regardless of its genesis, the Aberrant Mind origin imparts a sense of eeriness to the character or their surroundings. This can be as subtle as when your sorcerer reads a creature's mind with detect thoughts, anyone in their immediate vicinity experiences a faint but pervasive sense of dread. Or it could be unmistakable, such as sweating a sheen of viscous mucus when you're scared, or your pupils squirming when you're excited. Consider the potentially unspeakable source of your sorcerer's powers, and use that as a guide to weave threads of eeriness throughout your magic.
+        <text>Regardless of its genesis, the Aberrant Mind origin imparts a sense of eeriness to the character or their surroundings. This can be as subtle as when your sorcerer reads a creature's mind with detect thoughts, anyone in their immediate vicinity experiences a faint but pervasive sense of dread. Or it could be unmistakable, such as sweating a sheen of viscous mucus when you're scared, or your pupils squirming when you&apos;re excited. Consider the potentially unspeakable source of your sorcerer&apos;s powers, and use that as a guide to weave threads of eeriness throughout your magic.
 
 Source:	Unearthed Arcana: Sorcerer And Warlock p. 1</text>
       </feature>
@@ -49,7 +49,7 @@ Source:	Unearthed Arcana: Sorcerer And Warlock p. 1</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Aberrant Mind (UA): Warped Being</name>
-        <text>Starting at 1st level, your aberrant origin protects you from harm. Your body might have a coating of viscous slime, tough hide, scales, or an invisible psionic barrier (choose the form of protection when you gain this feature). Whatever form the protection takes, your AC equals 13 + your Dexterity modifier while you aren't wearing armor.
+        <text>Starting at 1st level, your aberrant origin protects you from harm. Your body might have a coating of viscous slime, tough hide, scales, or an invisible psionic barrier (choose the form of protection when you gain this feature). Whatever form the protection takes, your AC equals 13 + your Dexterity modifier while you aren&apos;t wearing armor.
 
 Source:	Unearthed Arcana: Sorcerer And Warlock p. 1</text>
       </feature>
@@ -58,7 +58,7 @@ Source:	Unearthed Arcana: Sorcerer And Warlock p. 1</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Aberrant Mind (UA): Psionic Sorcery</name>
-        <text>Beginning at 6th level, when you cast any of the spells gained from your Psionic Spells feature, you can cast it by expending a spell slot as normal or by spending a number of sorcery points equal to the spell's level. If you cast the spell using sorcery points, it requires no components.
+        <text>Beginning at 6th level, when you cast any of the spells gained from your Psionic Spells feature, you can cast it by expending a spell slot as normal or by spending a number of sorcery points equal to the spell&apos;s level. If you cast the spell using sorcery points, it requires no components.
 
 Source:	Unearthed Arcana: Sorcerer And Warlock p. 1</text>
       </feature>

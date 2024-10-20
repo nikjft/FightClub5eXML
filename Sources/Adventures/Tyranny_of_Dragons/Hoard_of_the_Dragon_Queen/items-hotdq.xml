@@ -37,7 +37,7 @@ Source:	Hoard of the Dragon Queen p. 94,
     <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
     <range>20/60</range>
-    <text>This spear is enchanted with 10 charges of a daylight spell for use in twilight or dark forest underbrush. The command phrase is "Tiamat's eyes shine," written in Draconic runes on the spear's crossguard.
+    <text>This spear is enchanted with 10 charges of a daylight spell for use in twilight or dark forest underbrush. The command phrase is "Tiamat&apos;s eyes shine," written in Draconic runes on the spear&apos;s crossguard.
 
 Thrown: If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
 
@@ -57,7 +57,7 @@ Source:	Hoard of the Dragon Queen p. 69</text>
     <property>H,2H,M</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
-    <text>A sentient (neutral evil) greatsword, Hazirawn is capable of speech in Common and Netherese. Even if you aren't attuned to the sword, you gain a +1 bonus to attack and damage rolls made with this weapon. If you are not attuned to Hazirawn, you deal an extra 1d6 necrotic damage when you hit with the weapon.
+    <text>A sentient (neutral evil) greatsword, Hazirawn is capable of speech in Common and Netherese. Even if you aren&apos;t attuned to the sword, you gain a +1 bonus to attack and damage rolls made with this weapon. If you are not attuned to Hazirawn, you deal an extra 1d6 necrotic damage when you hit with the weapon.
 
 Increased Potency: While you are attuned to this weapon, its bonus on attack and damage rolls increases to +2, and a hit deals an extra 2d6 necrotic damage (instead of 1d6).
 

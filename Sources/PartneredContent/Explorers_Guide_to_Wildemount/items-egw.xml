@@ -7,7 +7,7 @@
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>This amulet smells of old, ale-stained wood. While wearing it, you can regain 4d4 + 4 hit points when you drink a pint of beer, ale, mead, or wine. Once the amulet has restored hit points, it can't do so again until the next dawn.
+    <text>This amulet smells of old, ale-stained wood. While wearing it, you can regain 4d4 + 4 hit points when you drink a pint of beer, ale, mead, or wine. Once the amulet has restored hit points, it can&apos;t do so again until the next dawn.
 
 Source:	Explorer's Guide to Wildemount p. 265</text>
     <roll>4d4+4</roll>
@@ -19,7 +19,7 @@ Source:	Explorer's Guide to Wildemount p. 265</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>This Large cannon is imbued with magic. It requires no ammunition and doesn't need to be loaded. It takes one action to aim the cannon and one action to fire it. After the cannon has fired, it must recharge for 5 minutes before it can be fired again.
+    <text>This Large cannon is imbued with magic. It requires no ammunition and doesn&apos;t need to be loaded. It takes one action to aim the cannon and one action to fire it. After the cannon has fired, it must recharge for 5 minutes before it can be fired again.
 
 The creature firing the cannon chooses the effect from the following options:
 
@@ -47,7 +47,7 @@ Source:	Explorer's Guide to Wildemount p. 265</text>
     <value>10.0</value>
     <property/>
     <ac>2</ac>
-    <text>While holding this iron tower shield, you gain a +1 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.
+    <text>While holding this iron tower shield, you gain a +1 bonus to AC. This bonus is in addition to the shield&apos;s normal bonus to AC.
 
 Additionally, the shield has 3 charges, and it regains 1d3 expended charges daily at dawn. If you are holding the shield and push a creature within your reach at least 5 feet away, you can expend 1 charge to push that creature an additional 10 feet, knock it prone, or both.
 
@@ -62,7 +62,7 @@ Source:	Explorer's Guide to Wildemount p. 266</text>
     <weight/>
     <value>300.0</value>
     <property/>
-    <text>This tarry substance harvested from the dark boughs of the death's head willow is a powerful intoxicant. It can be smoked as a concentrate or injected directly into the bloodstream. A creature subjected to a dose of black sap cannot be charmed or frightened for 1d6 hours.
+    <text>This tarry substance harvested from the dark boughs of the death&apos;s head willow is a powerful intoxicant. It can be smoked as a concentrate or injected directly into the bloodstream. A creature subjected to a dose of black sap cannot be charmed or frightened for 1d6 hours.
 
 For each dose of black sap consumed, a creature must succeed on a DC 15 Constitution saving throw or become poisoned for 2d4 hours—an effect that is cumulative with multiple doses.
 
@@ -155,7 +155,7 @@ Source:	Explorer's Guide to Wildemount p. 152</text>
     <property>H,2H,M</property>
     <dmg1>1d12</dmg1>
     <dmgType>S</dmgType>
-    <text>You gain a +2 bonus to attack and damage rolls made with this magic axe. The axe deals an extra 1d6 necrotic damage to creatures that aren't constructs or undead. If you reduce such a creature to 0 hit points with an attack using this axe, you gain 10 temporary hit points.
+    <text>You gain a +2 bonus to attack and damage rolls made with this magic axe. The axe deals an extra 1d6 necrotic damage to creatures that aren&apos;t constructs or undead. If you reduce such a creature to 0 hit points with an attack using this axe, you gain 10 temporary hit points.
 
 This axe is forged from a dark, rust-colored metal and once belonged to the goliath barbarian Grog Strongjaw of Vox Machina.
 
@@ -176,7 +176,7 @@ Source:	Explorer's Guide to Wildemount p. 266</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>This translucent, bubble-like sphere has a slightly tacky outer surface, and you gain the item's benefits only while wearing it over your head like a helmet.
+    <text>This translucent, bubble-like sphere has a slightly tacky outer surface, and you gain the item&apos;s benefits only while wearing it over your head like a helmet.
 
 The bubble contains 1 hour of breathable air. The bubble regains all its expended air daily at dawn.
 
@@ -194,7 +194,7 @@ Source:	Explorer's Guide to Wildemount p. 266</text>
 Source:	Explorer's Guide to Wildemount p. 266</text>
   </item>
   <item>
-    <name>Butcher's Bib</name>
+    <name>Butcher&apos;s Bib</name>
     <detail>rare (requires attunement)</detail>
     <detail/>
     <type>W</type>
@@ -221,7 +221,7 @@ Source:	Explorer's Guide to Wildemount p. 266</text>
 Source:	Explorer's Guide to Wildemount p. 266</text>
   </item>
   <item>
-    <name>Danoth's Visor</name>
+    <name>Danoth&apos;s Visor</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -269,7 +269,7 @@ Source:	Explorer's Guide to Wildemount p. 266</text>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>B</dmgType>
-    <text>This item takes the form of a leather-wrapped metal rod emblazoned with the symbol of Pelor, the Dawn Father. While grasping the rod, you can use a bonus action to cause a warhammer head of crackling radiance to spring into existence. The warhammer's radiant head emits bright light in a 15-foot radius and dim light for an additional 15 feet. The light is sunlight. You can use an action to make the radiant head disappear.
+    <text>This item takes the form of a leather-wrapped metal rod emblazoned with the symbol of Pelor, the Dawn Father. While grasping the rod, you can use a bonus action to cause a warhammer head of crackling radiance to spring into existence. The warhammer&apos;s radiant head emits bright light in a 15-foot radius and dim light for an additional 15 feet. The light is sunlight. You can use an action to make the radiant head disappear.
 
 While the radiant head is active, you gain a +2 bonus to attack and damage rolls made with this magic weapon, and attacks with the weapon deal radiant damage instead of bludgeoning damage. An undead creature hit by the weapon takes an extra 1d8 radiant damage.
 
@@ -290,7 +290,7 @@ Source:	Explorer's Guide to Wildemount p. 266</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>This reddish brown dust can be sprinkled over any edible substance to greatly improve the flavor. The dust also dulls the eater's senses: anyone eating food treated with this dust has disadvantage on Wisdom ability checks and Wisdom saving throws for 1 hour. There is enough dust to flavor six servings.
+    <text>This reddish brown dust can be sprinkled over any edible substance to greatly improve the flavor. The dust also dulls the eater&apos;s senses: anyone eating food treated with this dust has disadvantage on Wisdom ability checks and Wisdom saving throws for 1 hour. There is enough dust to flavor six servings.
 
 Source:	Explorer's Guide to Wildemount p. 267</text>
   </item>
@@ -420,7 +420,7 @@ Exalted: When the armor reaches an exalted state, it gains the following propert
 Source:	Explorer's Guide to Wildemount p. 271</text>
   </item>
   <item>
-    <name>Hunter's Coat</name>
+    <name>Hunter&apos;s Coat</name>
     <detail>leather armor, very rare (requires attunement)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -440,7 +440,7 @@ Source:	Explorer's Guide to Wildemount p. 267</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Infiltrator's Key</name>
+    <name>Infiltrator&apos;s Key</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -582,7 +582,7 @@ Source:	Explorer's Guide to Wildemount p. 276</text>
     <weight/>
     <value>400.0</value>
     <property/>
-    <text>Beasts of burden are common throughout Xhorhas, and often horses and other riding animals are the best or only option. For those who require speed and have a little more coin to spend, the best option is often a moorbounder. However, moorbounders that haven't undergone proper training or established bonds of trust with their masters tend to attack and even eat their riders.
+    <text>Beasts of burden are common throughout Xhorhas, and often horses and other riding animals are the best or only option. For those who require speed and have a little more coin to spend, the best option is often a moorbounder. However, moorbounders that haven&apos;t undergone proper training or established bonds of trust with their masters tend to attack and even eat their riders.
 
 Moorbounders can cost anywhere from 300 to 500 gp each. They're often cheaper and more abundant in towns on the wastes than in cities like Rosohna.
 
@@ -636,7 +636,7 @@ Source:	Explorer's Guide to Wildemount p. 268</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>Used to summon night, this 6-inch-diameter, jet-black orb is cold to the touch. You can spend 10 minutes to activate it, causing the area within 10 miles of it at the moment of activation to become night even if it is daytime. This night lasts for 24 hours, until you cancel it as an action, or until your attunement to the pearl ends. Once used, the pearl can't be used again for 24 hours.
+    <text>Used to summon night, this 6-inch-diameter, jet-black orb is cold to the touch. You can spend 10 minutes to activate it, causing the area within 10 miles of it at the moment of activation to become night even if it is daytime. This night lasts for 24 hours, until you cancel it as an action, or until your attunement to the pearl ends. Once used, the pearl can&apos;t be used again for 24 hours.
 
 Source:	Explorer's Guide to Wildemount p. 268</text>
   </item>
@@ -717,7 +717,7 @@ Source:	Explorer's Guide to Wildemount p. 103</text>
     <value>500.0</value>
     <property/>
     <ac>11</ac>
-    <text>An outfit made of pride silk weighs 4 pounds and costs 500 gp. If you aren't wearing armor, your base Armor Class is 11 + your Dexterity modifier while wearing it.
+    <text>An outfit made of pride silk weighs 4 pounds and costs 500 gp. If you aren&apos;t wearing armor, your base Armor Class is 11 + your Dexterity modifier while wearing it.
 
 Source:	Explorer's Guide to Wildemount p. 103</text>
   </item>
@@ -771,7 +771,7 @@ Source:	Explorer's Guide to Wildemount p. 269</text>
     <roll>2d10</roll>
   </item>
   <item>
-    <name>Ruin's Wake</name>
+    <name>Ruin&apos;s Wake</name>
     <detail>spear, artifact (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -980,7 +980,7 @@ Source:	Explorer's Guide to Wildemount p. 270</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>A Stormgirdle is a wide belt made of thick leather branded with the symbol of Kord. The girdle's clasps are made from dragon ivory.
+    <text>A Stormgirdle is a wide belt made of thick leather branded with the symbol of Kord. The girdle&apos;s clasps are made from dragon ivory.
 
 Dormant: While wearing the Stormgirdle in its dormant state, you have resistance to lightning damage and thunder damage, and your Strength score becomes 21 if it isn't already 21 or higher. In addition, you can use an action to become a Storm Avatar for 1 minute, gaining the following benefits for the duration:
 
@@ -1099,7 +1099,7 @@ Source:	Explorer's Guide to Wildemount p. 273</text>
     <magic>YES</magic>
     <weight/>
     <property/>
-    <text>This clockwork device resembles a metal crab the size of a dinner plate. Every action used to wind up the device allows it to operate for 1 minute, to a maximum of 10 minutes. While operational, the item uses the accompanying Vox Seeker stat block. This automaton is under the DM's control. A vox seeker reduced to 0 hit points is destroyed.
+    <text>This clockwork device resembles a metal crab the size of a dinner plate. Every action used to wind up the device allows it to operate for 1 minute, to a maximum of 10 minutes. While operational, the item uses the accompanying Vox Seeker stat block. This automaton is under the DM&apos;s control. A vox seeker reduced to 0 hit points is destroyed.
 
 Source:	Explorer's Guide to Wildemount p. 270</text>
   </item>
@@ -1164,7 +1164,7 @@ Source:	Explorer's Guide to Wildemount p. 279</text>
     <weight/>
     <value>30.0</value>
     <property/>
-    <text>A dark blue oil can be extracted from the rare fruit of the willowshade plant. A creature can use its action to apply the oil to another creature that has been petrified for less than 1 minute, causing the petrified condition on that creature to end at the start of what would be that creature's next turn.
+    <text>A dark blue oil can be extracted from the rare fruit of the willowshade plant. A creature can use its action to apply the oil to another creature that has been petrified for less than 1 minute, causing the petrified condition on that creature to end at the start of what would be that creature&apos;s next turn.
 
 Source:	Explorer's Guide to Wildemount p. 70</text>
   </item>

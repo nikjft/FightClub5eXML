@@ -27,7 +27,7 @@ Source:	Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
       </feature>
       <feature optional="YES">
         <name>Gunslinger: Gunsmith</name>
-        <text>Upon choosing this archetype at 3rd level, you gain proficiency with Tinker's Tools.
+        <text>Upon choosing this archetype at 3rd level, you gain proficiency with Tinker&apos;s Tools.
 
 You may use them to craft ammunition at half the cost, repair damaged firearms, or even draft and create new ones (DM's discretion). Some extremely experimental and intricate firearms are only available through crafting.
 
@@ -52,7 +52,7 @@ Source:	Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
       </feature>
       <feature optional="YES">
         <name>Firearm Properties</name>
-        <text>Firearms are a new and volatile technology, and as such bring their own unique set of weapon properties. Some properties are followed by a number, and this number signifies an element of that property (outlined below). These properties replace the optional ones presented in the Dungeon Master's Guide. Firearms are ranged weapons.
+        <text>Firearms are a new and volatile technology, and as such bring their own unique set of weapon properties. Some properties are followed by a number, and this number signifies an element of that property (outlined below). These properties replace the optional ones presented in the Dungeon Master&apos;s Guide. Firearms are ranged weapons.
 
 Reload:
 The weapon can be fired a number of times equal to its Reload score before you must spend 1 attack or 1 action to reload. You must have one free hand to reload a firearm.

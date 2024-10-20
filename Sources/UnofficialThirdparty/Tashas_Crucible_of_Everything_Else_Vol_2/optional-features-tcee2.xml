@@ -858,7 +858,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 37 (Homebrew)</text>
     <range/>
     <components/>
     <classes>Eldritch Invocations</classes>
-    <text>Fog, mist, rain, snow, dust, smoke, and similar substances do not obscure your vision, and you can cast fog cloud once using a warlock spell slot. You can't do so again until you finish a long rest.
+    <text>Fog, mist, rain, snow, dust, smoke, and similar substances do not obscure your vision, and you can cast fog cloud once using a warlock spell slot. You can&apos;t do so again until you finish a long rest.
 
 Source:	Tasha's Crucible of Everything Else, Volume 2 p. 37 (Homebrew)</text>
   </spell>
@@ -904,7 +904,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 37 (Homebrew)</text>
 Source:	Tasha's Crucible of Everything Else, Volume 2 p. 37 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Invocation: Patron's Reach (HB)</name>
+    <name>Invocation: Patron&apos;s Reach (HB)</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time/>

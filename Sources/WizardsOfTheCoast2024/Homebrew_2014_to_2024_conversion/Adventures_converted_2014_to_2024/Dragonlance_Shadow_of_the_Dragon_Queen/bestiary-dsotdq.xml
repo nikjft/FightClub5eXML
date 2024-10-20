@@ -464,7 +464,7 @@ If the target is a Humanoid, it must succeed on a DC 12 Constitution saving thro
     <conditionImmune/>
     <senses>blindsight 30 ft., darkvision 120 ft.</senses>
     <passive>13</passive>
-    <languages>understands Common and Draconic but can't speak</languages>
+    <languages>understands Common and Draconic but can&apos;t speak</languages>
     <cr>3</cr>
     <description>Source:	Dragonlance: Shadow of the Dragon Queen p. 201</description>
     <trait>
@@ -850,7 +850,7 @@ Iriad takes the Help action.</text>
     <conditionImmune/>
     <senses>blindsight 60 ft. (blind beyond this radius)</senses>
     <passive>10</passive>
-    <languages>understands the languages spoken by its creator but can't speak</languages>
+    <languages>understands the languages spoken by its creator but can&apos;t speak</languages>
     <cr>6</cr>
     <description>Source:	Dragonlance: Shadow of the Dragon Queen p. 202</description>
     <trait>
@@ -982,7 +982,7 @@ Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 9 (1d10 + 4) pier
 Kansaldi hurls magical flames at a creature she can see within 60 feet of herself. The target must make a DC 16 Dexterity saving throw. On a failed save, the target takes 11 (2d10) fire damage and catches fire; until a creature takes an action to put out the fire, the target takes 5 (1d10) fire damage at the start of each of its turns. On a successful save, the target takes half as much damage and doesn't catch fire.</text>
     </action>
     <action>
-      <name>Dragon Queen's Favor (Bonus Action)</name>
+      <name>Dragon Queen&apos;s Favor (Bonus Action)</name>
       <text>
 Kansaldi or one creature she can see within 60 feet of herself magically regains 17 (2d12 + 4) hit points.</text>
     </action>
@@ -1158,7 +1158,7 @@ Leedara magically assumes the appearance she had in life, and her creature type 
     <conditionImmune>exhaustion, poisoned</conditionImmune>
     <senses>blindsight 30 ft., darkvision 60 ft.</senses>
     <passive>14</passive>
-    <languages>understands Common and Draconic but can't speak</languages>
+    <languages>understands Common and Draconic but can&apos;t speak</languages>
     <cr>10</cr>
     <description>Source:	Dragonlance: Shadow of the Dragon Queen p. 195</description>
     <trait>
@@ -1595,7 +1595,7 @@ After the draconian kills a Medium or smaller Humanoid, the draconian magically 
     <conditionImmune/>
     <senses>darkvision 60 ft.</senses>
     <passive>12</passive>
-    <languages>understands the languages it knew in life but can't speak</languages>
+    <languages>understands the languages it knew in life but can&apos;t speak</languages>
     <cr>7</cr>
     <description>Source:	Dragonlance: Shadow of the Dragon Queen p. 208</description>
     <trait>
@@ -1786,7 +1786,7 @@ The fire ignites flammable objects that aren't being worn or carried.</text>
     <conditionImmune/>
     <senses>blindsight 30 ft., darkvision 120 ft.</senses>
     <passive>13</passive>
-    <languages>understands Common and Draconic but can't speak</languages>
+    <languages>understands Common and Draconic but can&apos;t speak</languages>
     <cr>3</cr>
     <description>Source:	Dragonlance: Shadow of the Dragon Queen p. 201</description>
     <trait>

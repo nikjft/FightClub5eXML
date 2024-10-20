@@ -11,7 +11,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 19 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Oath of Inquisition (HB): Tenets of Inquisition</name>
-        <text>To an Inquisitor, magic is a sacred force. A spellcaster who refuses to renounce evil invites the fire of an Inquisitor's wrath.
+        <text>To an Inquisitor, magic is a sacred force. A spellcaster who refuses to renounce evil invites the fire of an Inquisitor&apos;s wrath.
 
 Purity in Magic:
 To be endowed with magic is a blessing, and mine is to be used righteously.
@@ -54,7 +54,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 19 (Homebrew)</text>
     <autolevel level="7">
       <feature optional="YES">
         <name>Oath of Inquisition (HB): Aura of Supression</name>
-        <text>Starting at 7th level, you emanate an aura that quells magic while you're not incapacitated. The aura extends 15 feet from you in every direction. Whenever any enemy within the aura makes a Constitution saving throw to maintain concentration, it has disadvantage on that save. In addition, whenever any ally within the aura makes a save to avoid becoming charmed, frightened, paralyzed, or stunned by a magical effect, it has advantage on that save.
+        <text>Starting at 7th level, you emanate an aura that quells magic while you&apos;re not incapacitated. The aura extends 15 feet from you in every direction. Whenever any enemy within the aura makes a Constitution saving throw to maintain concentration, it has disadvantage on that save. In addition, whenever any ally within the aura makes a save to avoid becoming charmed, frightened, paralyzed, or stunned by a magical effect, it has advantage on that save.
 
 At 18th level, the range of this aura increases to 30 feet.
 
@@ -145,7 +145,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 20 (Homebrew)</text>
     <autolevel level="7">
       <feature optional="YES">
         <name>Oath of Pestilence (HB): Aura of Malevolence</name>
-        <text>Starting at 7th level, you constantly emanate an aura of unsettling energy while you're not incapacitated. The aura extends 30 feet from you in every direction. Any enemy within the aura that can see you must spend 1 extra foot of movement for every foot it moves toward you. A creature ignores this effect if immune to being frightened.
+        <text>Starting at 7th level, you constantly emanate an aura of unsettling energy while you&apos;re not incapacitated. The aura extends 30 feet from you in every direction. Any enemy within the aura that can see you must spend 1 extra foot of movement for every foot it moves toward you. A creature ignores this effect if immune to being frightened.
 
 At 18th level, the range of this aura increases to 60 feet.
 
@@ -178,13 +178,13 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 20 (Homebrew)</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Sacred Oath: Oath of Treachery (HB)</name>
-        <text>Commonly known as blackguards, these profane warriors are faithful only to trickster gods, demons lords, or their own image. These paladins make backstabbing and duplicity an art among their ranks. Even the Lords of Hell are loath to ally with these champions of discord, but sometimes Baalzebul and Glasya find a kindred spirit in a blackguard's penchant for double dealing and treachery.
+        <text>Commonly known as blackguards, these profane warriors are faithful only to trickster gods, demons lords, or their own image. These paladins make backstabbing and duplicity an art among their ranks. Even the Lords of Hell are loath to ally with these champions of discord, but sometimes Baalzebul and Glasya find a kindred spirit in a blackguard&apos;s penchant for double dealing and treachery.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 21 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Oath of Treachery (HB): Tenets of Treachery</name>
-        <text>A paladin who embraces the Oath of Treachery owes allegiance to no one. There are no tenets of this oath, for it lacks any substance. Those who are unfortunate enough to have close contact with blackguards have observed that a blackguard's overwhelming concern is power and safety, especially if both can be obtained at the expense of others.
+        <text>A paladin who embraces the Oath of Treachery owes allegiance to no one. There are no tenets of this oath, for it lacks any substance. Those who are unfortunate enough to have close contact with blackguards have observed that a blackguard&apos;s overwhelming concern is power and safety, especially if both can be obtained at the expense of others.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 21 (Homebrew)</text>
       </feature>
@@ -218,7 +218,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 21 (Homebrew)</text>
     <autolevel level="7">
       <feature optional="YES">
         <name>Oath of Treachery (HB): Aura of Treachery</name>
-        <text>Starting at 7th level, you constantly emanate an aura of discord, which gives you the following benefits while you're not incapacitated.
+        <text>Starting at 7th level, you constantly emanate an aura of discord, which gives you the following benefits while you&apos;re not incapacitated.
 
 Despairing Presence:
 Whenever a creature within 5 feet of you makes a saving throw you can use your reaction to impose disadvantage on that saving throw.
@@ -231,7 +231,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 21 (Homebrew)</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Oath of Treachery (HB): Blackguard's Escape</name>
+        <name>Oath of Treachery (HB): Blackguard&apos;s Escape</name>
         <text>Starting at 15th level, you gain the ability to slip away from your foes. Immediately after you are hit by an attack, you can use your reaction to turn invisible and teleport up to 60 feet to a spot you can see. You remain invisible until the end of your next turn or until you attack, deal damage, or force a creature to make a saving throw.
 
 Once you use this feature, you must finish a short or long rest before you can use it again.

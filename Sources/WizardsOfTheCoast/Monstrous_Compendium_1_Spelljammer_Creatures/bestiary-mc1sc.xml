@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <monster>
     <name>Asteroid Spider</name>
@@ -24,7 +25,7 @@
     <immune/>
     <vulnerable/>
     <conditionImmune/>
-    <senses>Blindsight 120 ft. while the spider's eyes are closed, passive Perception 21</senses>
+    <senses>Blindsight 120 ft. while the spider&apos;s eyes are closed, passive Perception 21</senses>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+5</text>
@@ -32,7 +33,7 @@
     <trait>
       <name>False Appearance</name>
       <text>
-If the spider is motionless, has its eyes and mouth closed, and has its legs wrapped around its body at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the spider move or act, that creature must succeed on a DC 18 Intelligence (Investigation) check to discern that the spider is anything other than an asteroid.</text>
+If the spider is motionless, has its eyes and mouth closed, and has its legs wrapped around its body at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn&apos;t observed the spider move or act, that creature must succeed on a DC 18 Intelligence (Investigation) check to discern that the spider is anything other than an asteroid.</text>
     </trait>
     <trait>
       <name>Legendary Resistance (3/Day)</name>
@@ -43,7 +44,7 @@ If the spider fails a saving throw, it can choose to succeed instead.</text>
     <trait>
       <name>Unusual Nature</name>
       <text>
-The spider doesn't require air.</text>
+The spider doesn&apos;t require air.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -71,7 +72,7 @@ The spider pulls each creature grappled by it up to 60 feet straight toward itse
     <action>
       <name>Snare Ship (1/Day) (Bonus Action)</name>
       <text>
-The spider weavers a magical web around a spelljamming ship it can see within 120 feet of itself. The web lasts for 1 minute and suppresses the magic of any spelljamming helm aboard the ship. Decks and other surfaces of the ship that aren't enclosed become difficult terrain until the effect ends. The web is impervious to damage but is destroyed by a successful casitng of dispel magic (DC 18).</text>
+The spider weavers a magical web around a spelljamming ship it can see within 120 feet of itself. The web lasts for 1 minute and suppresses the magic of any spelljamming helm aboard the ship. Decks and other surfaces of the ship that aren&apos;t enclosed become difficult terrain until the effect ends. The web is impervious to damage but is destroyed by a successful casitng of dispel magic (DC 18).</text>
     </action>
     <description>An asteroid spider is a menace native to Wildspace and the Astral Sea. A full-grown specimen has a body 30 feet in diameter and legs that are at least 30 feet long. When it wraps its legs tightly around its body and closes its eyes, the asteroid spider resembles nothing so much as a giant, lifeless rock in space—hence its name.
 
@@ -112,12 +113,12 @@ Source:	Monstrous Compendium Volume 1: Spelljammer Creatures p. 3</description>
     <trait>
       <name>Shutdown</name>
       <text>
-If targeted by dispel magic, the horror must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute or until it takes any damage.</text>
+If targeted by dispel magic, the horror must succeed on a Constitution saving throw against the caster&apos;s spell save DC or fall unconscious for 1 minute or until it takes any damage.</text>
     </trait>
     <trait>
       <name>Unusual Nature</name>
       <text>
-The horror doesn't require air, food, drink, or sleep.</text>
+The horror doesn&apos;t require air, food, drink, or sleep.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -149,7 +150,7 @@ The spider pulls each creature grappled by it up to 60 feet straight toward itse
     <action>
       <name>Spelljamming Helm Interface</name>
       <text>
-The horror attaches to a spelljamming helm it can see within 5 feet of itself and attunes to the helm instantly. If another creature is already attuned to the helm, that creature's attunement to the helm ends when the horror's attunement begins. The horror can operate the helm even though it isn't a spellcaster. The horror can detach from the helm as a bonus action, which ends its attunement to the helm.</text>
+The horror attaches to a spelljamming helm it can see within 5 feet of itself and attunes to the helm instantly. If another creature is already attuned to the helm, that creature&apos;s attunement to the helm ends when the horror&apos;s attunement begins. The horror can operate the helm even though it isn&apos;t a spellcaster. The horror can detach from the helm as a bonus action, which ends its attunement to the helm.</text>
     </action>
     <description>Clockwork horrors are ruthless insectile automatons— eldritch machines encased in adamantine or some other precious metal. They roam Wildspace in commandeered spelljamming ships, gathering the precious metals and crystals they need to build more of their kind. Clockwork horrors have no goal beyond replication and will stop at nothing to create new clockwork horrors. The time it takes for a clockwork horror to build another of its kind, assuming it has the requisite materials, is approximately ten days.
 
@@ -196,7 +197,7 @@ Source:	Monstrous Compendium Volume 1: Spelljammer Creatures p. 4</description>
     <trait>
       <name>Far Realm Parasite</name>
       <text>
-Inside the lich's torso dwells a wormlike parasite that contains the lich's soul. When the lich dies, it implodes into the parasite, which then vanishes into the Far Realm. In 2d4 days, the parasite causes the lich to reappear within 1d4 miles of where it died. If the lich died inside a magic circle cast to contain Undead, the lich instead reappears as an otyugh with all the lich's memories.</text>
+Inside the lich&apos;s torso dwells a wormlike parasite that contains the lich&apos;s soul. When the lich dies, it implodes into the parasite, which then vanishes into the Far Realm. In 2d4 days, the parasite causes the lich to reappear within 1d4 miles of where it died. If the lich died inside a magic circle cast to contain Undead, the lich instead reappears as an otyugh with all the lich&apos;s memories.</text>
       <attack>Days||2d4</attack>
       <attack>Miles||1d4</attack>
     </trait>
@@ -209,7 +210,7 @@ If the lich fails a saving throw, it can choose to succeed instead.</text>
     <trait>
       <name>Unusual Nature</name>
       <text>
-The lich doesn't need air, food, drink, or sleep.</text>
+The lich doesn&apos;t need air, food, drink, or sleep.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -219,14 +220,14 @@ The lich makes one Parasitic Tentacle attack or uses Spellcasting. The lich also
     <action>
       <name>Parasitic Tentacle</name>
       <text>
-Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. Hit: 25 (6d6 + 4) piercing damage plus 25 (6d6 + 4) necrotic damage. The target must succeed on a DC 17 Constitution saving throw or be poisoned. The poisoned target can repeat the save at the end of each of its turns, ending the effect on itself on a success. The third time the target fails the save, the target dies and dissolves into a gibbering mouther that obeys the lich and uses the target's initiative.</text>
+Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. Hit: 25 (6d6 + 4) piercing damage plus 25 (6d6 + 4) necrotic damage. The target must succeed on a DC 17 Constitution saving throw or be poisoned. The poisoned target can repeat the save at the end of each of its turns, ending the effect on itself on a success. The third time the target fails the save, the target dies and dissolves into a gibbering mouther that obeys the lich and uses the target&apos;s initiative.</text>
       <attack>Parasitic Tentacle|+9|6d6+4</attack>
       <attack>Necrotic Damage||6d6+4</attack>
     </action>
     <action>
       <name>Psychic Whisper</name>
       <text>
-The lich targets one creature it can see within 120 feet of itself. The target must succeed on a DC 17 Wisdom saving throw or take 25 (6d6 + 4) psychic damage and be stunned until the end of the lich's next turn as incomprehensible whispers fill the target's mind.</text>
+The lich targets one creature it can see within 120 feet of itself. The target must succeed on a DC 17 Wisdom saving throw or take 25 (6d6 + 4) psychic damage and be stunned until the end of the lich&apos;s next turn as incomprehensible whispers fill the target&apos;s mind.</text>
       <attack>Pyschic Whisper||6d6+4</attack>
     </action>
     <action>
@@ -246,7 +247,7 @@ Immediately after taking damage, the lich, along with any equipment it is wearin
     <spells>detect magic, mage hand, prestidigitation, dispel magic, hunger of Hadar, lightning bolt, arcane eye, dimension door, plane shift</spells>
     <description>From beyond the stars, a Great Old One whispers promises of reality-defying knowledge and world-bending power. When a wizard or a warlock hears that whisper and listens too intently, they might set foot on the twisting path toward becoming an eldritch lich.
 
-Like other liches, eldritch liches are spellcasters who have cheated death, but an eldritch lich does so by allowing a Great Old One to implant a Far Realm parasite in the lich. That parasite bestows undeath upon the spellcaster and causes strange tentacles to sprout from the body. The parasite's mouth is visible on the lich's torso, and the parasite guards the lich against destruction, reviving the lich a few days after death. Canny foes can sabotage an eldritch lich's revival by slaying the lich in a magic circle, thereby forcing the lich to return in a distorted form, robbed of most of its power.
+Like other liches, eldritch liches are spellcasters who have cheated death, but an eldritch lich does so by allowing a Great Old One to implant a Far Realm parasite in the lich. That parasite bestows undeath upon the spellcaster and causes strange tentacles to sprout from the body. The parasite&apos;s mouth is visible on the lich&apos;s torso, and the parasite guards the lich against destruction, reviving the lich a few days after death. Canny foes can sabotage an eldritch lich&apos;s revival by slaying the lich in a magic circle, thereby forcing the lich to return in a distorted form, robbed of most of its power.
 
 An eldritch lich constantly hears bizarre whispers from the Far Realm, to which the lich nods and mutters. Occasionally, the lich uses its telepathy to share those whispers with the minds around it.
 
@@ -307,13 +308,13 @@ The fractine has advantage on saving throws against spells and other magical eff
     <trait>
       <name>Two-Dimensionality</name>
       <text>
-The fractine can occupy another creature's space and vice versa. It can move through other creatures and objects as if they were difficult terrain, but it takes 5 (1d10) force damage if it ends its turn inside an object.</text>
+The fractine can occupy another creature&apos;s space and vice versa. It can move through other creatures and objects as if they were difficult terrain, but it takes 5 (1d10) force damage if it ends its turn inside an object.</text>
       <attack>Two-Dimensionality||1d10</attack>
     </trait>
     <trait>
       <name>Unusual Nature</name>
       <text>
-The fractine doesn't require air, drink, or sleep.</text>
+The fractine doesn&apos;t require air, drink, or sleep.</text>
     </trait>
     <action>
       <name>Extradimensional Touch</name>
@@ -324,11 +325,11 @@ Melee Spell Attack: +5 to hit, reach 5 ft., one target. Hit: 24 (8d6) force dama
     <action>
       <name>Imprison (Bonus Action)</name>
       <text>
-The fractine targets one creature of its size or smaller in its space. The target must succeed on a DC 16 Dexterity saving throw or be imprisoned in a demiplane. While the creature is imprisoned, a distorted image of it can be seen on the fractine's two-dimensional surface.
+The fractine targets one creature of its size or smaller in its space. The target must succeed on a DC 16 Dexterity saving throw or be imprisoned in a demiplane. While the creature is imprisoned, a distorted image of it can be seen on the fractine&apos;s two-dimensional surface.
 
-The demiplane moves with the fractine, has indestructible and opaque walls, and is only as big as it needs to be to contain the target, which doesn't suffer from hunger or thirst while imprisoned. No other creature can enter the demiplane, and the fractine can't be harmed from within the demiplane.
+The demiplane moves with the fractine, has indestructible and opaque walls, and is only as big as it needs to be to contain the target, which doesn&apos;t suffer from hunger or thirst while imprisoned. No other creature can enter the demiplane, and the fractine can&apos;t be harmed from within the demiplane.
 
-The fractine can imprison only one creature at a time and can release that creature as a bonus action. If the fractine is reduced to 0 hit points, any creature in the fractine's demiplane is released instantly. A released creature reappears in an unoccupied space as close to the fractine (or where it died) as possible. A creature can leave the demiplane on its own by using magic that enables planar travel, such as the plane shift spell.</text>
+The fractine can imprison only one creature at a time and can release that creature as a bonus action. If the fractine is reduced to 0 hit points, any creature in the fractine&apos;s demiplane is released instantly. A released creature reappears in an unoccupied space as close to the fractine (or where it died) as possible. A creature can leave the demiplane on its own by using magic that enables planar travel, such as the plane shift spell.</text>
     </action>
     <reaction>
       <name>Mirrored Damage</name>
@@ -339,15 +340,15 @@ In response to being damaged by a creature it can see within 120 feet of itself,
     <reaction>
       <name>Split</name>
       <text>
-When a Large fractine that has at least 10 hit points remaining takes bludgeoning, piercing, slashing, or thunder damage from any source, it splits into two Medium fractines. The new fractines occupy the space formerly occupied by the original fractine, and each new fractine has hit points equal to half the original's, rounded down. If the original fractine had a creature trapped in its demiplane, that creature is released when the fractine splits, reappearing in an unoccupied space as close to the new fractines as possible.</text>
+When a Large fractine that has at least 10 hit points remaining takes bludgeoning, piercing, slashing, or thunder damage from any source, it splits into two Medium fractines. The new fractines occupy the space formerly occupied by the original fractine, and each new fractine has hit points equal to half the original&apos;s, rounded down. If the original fractine had a creature trapped in its demiplane, that creature is released when the fractine splits, reappearing in an unoccupied space as close to the new fractines as possible.</text>
     </reaction>
     <description>A fractine is a bizarre, two-dimensional creature that flies through Wildspace and the Astral Sea, folding and refolding like a piece of origami. When it encounters another creature, it flattens into a plane that resembles a trapezoidal mirror between 9 and 13 feet tall.
 
 Astral explorers who have encountered fractines attest that the creatures are intelligent and often allow themselves to be used as scrying sensors, their reflective surfaces substituting for the mirror needed to cast certain divination spells. While being used in this way, the fractine siphons magical energy from the spellcaster—not enough to cause harm, but enough to make the caster take notice.
 
-A fractine needs light and magical energy to survive. It can draw sustenance from a nearby light source, spellcaster, magic item, or magical effect without causing harm to anyone or anything. A fractine that doesn't consume light or magical energy for ten days begins to flicker. A day later, it folds in on itself and self-destructs, leaving no trace of itself behind. The destruction of a fractine is accompanied by a loud sound reminiscent of shattering glass.
+A fractine needs light and magical energy to survive. It can draw sustenance from a nearby light source, spellcaster, magic item, or magical effect without causing harm to anyone or anything. A fractine that doesn&apos;t consume light or magical energy for ten days begins to flicker. A day later, it folds in on itself and self-destructs, leaving no trace of itself behind. The destruction of a fractine is accompanied by a loud sound reminiscent of shattering glass.
 
-A fractine attacks by falling on its targets, dealing damage as it passes through them. A fractine can also imprison a creature inside a demiplane contained within its two-dimensional form, the prisoner's distorted reflection visible in the fractine's glassy surface.
+A fractine attacks by falling on its targets, dealing damage as it passes through them. A fractine can also imprison a creature inside a demiplane contained within its two-dimensional form, the prisoner&apos;s distorted reflection visible in the fractine&apos;s glassy surface.
 
 Bludgeoning, piercing, slashing, and thunder damage can cause a fractine to break into two smaller fractines, each one autonomous and capable of imprisoning creatures. When a fractine dies, it folds in on itself and disappears, releasing any creature trapped inside it.
 
@@ -391,7 +392,7 @@ If it has at least 1 hit point, the gadabout can generate an air envelope around
     <trait>
       <name>Unusual Nature</name>
       <text>
-The gadabout doesn't require food or sleep.</text>
+The gadabout doesn&apos;t require food or sleep.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -407,13 +408,13 @@ Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashi
     <action>
       <name>Wrap</name>
       <text>
-The gadabout enters the space of a willing Medium or Small creature within 5 feet of itself and gently wraps its branches around the target. The target is grappled (escape DC 0). Any attempt by the target to escape the grapple causes the gadabout to use its reaction to move into the nearest unoccupied space. While grappled by the gadabout, the target determines where the gadabout moves on the gadabout's turns and accompanies the gadabout wherever it goes.</text>
+The gadabout enters the space of a willing Medium or Small creature within 5 feet of itself and gently wraps its branches around the target. The target is grappled (escape DC 0). Any attempt by the target to escape the grapple causes the gadabout to use its reaction to move into the nearest unoccupied space. While grappled by the gadabout, the target determines where the gadabout moves on the gadabout&apos;s turns and accompanies the gadabout wherever it goes.</text>
     </action>
-    <description>Gadabouts are gentle, winged creatures that can be used as personal conveyances for short-distance travel across the airless void of Wildspace. A gadabout wraps its branches around a Humanoid creature, spreads its butterfly wings, and allows its wearer to fly through space in a continuously refreshed air envelope. The gadabout's leaves even provide a nourishing syrup that its wearer can consume in the absence of other food and water. One Humanoid can survive on these leaves for up to sixty days.
+    <description>Gadabouts are gentle, winged creatures that can be used as personal conveyances for short-distance travel across the airless void of Wildspace. A gadabout wraps its branches around a Humanoid creature, spreads its butterfly wings, and allows its wearer to fly through space in a continuously refreshed air envelope. The gadabout&apos;s leaves even provide a nourishing syrup that its wearer can consume in the absence of other food and water. One Humanoid can survive on these leaves for up to sixty days.
 
 Gadabouts require sunlight and water to survive. A healthy specimen can live for 25 years. Although its preferred mode of travel is flight, a gadabout can creep slowly along the ground as well.
 
-Elves are the only Humanoids to date who know how to grow gadabouts. Since gadabouts don't generate seeds, each one is a valuable commodity. Mercane and dohwar merchants who come into possession of a healthy gadabout might sell it for 2,500 gp or more.
+Elves are the only Humanoids to date who know how to grow gadabouts. Since gadabouts don&apos;t generate seeds, each one is a valuable commodity. Mercane and dohwar merchants who come into possession of a healthy gadabout might sell it for 2,500 gp or more.
 
 Source:	Monstrous Compendium Volume 1: Spelljammer Creatures p. 8</description>
     <environment/>
@@ -455,7 +456,7 @@ The goon balloon bursts when it drops to 0 hit points, releasing noxious gas in 
     <trait>
       <name>Unusual Nature</name>
       <text>
-The goon balloon doesn't require air, food, or drink.</text>
+The goon balloon doesn&apos;t require air, food, or drink.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -471,15 +472,15 @@ Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) slashing d
     <action>
       <name>Scintillating Eye</name>
       <text>
-Magical, kaleidoscopic light emanates from one of the goon balloon's eyes as the goon balloon targets one creature it can see within 30 feet of itself. The target must make a DC 12 Wisdom saving throw, taking 6 (1d12) psychic damage on a failed save, or half as much damage on a successful one.</text>
+Magical, kaleidoscopic light emanates from one of the goon balloon&apos;s eyes as the goon balloon targets one creature it can see within 30 feet of itself. The target must make a DC 12 Wisdom saving throw, taking 6 (1d12) psychic damage on a failed save, or half as much damage on a successful one.</text>
       <attack>Scintillating Eye||1d12</attack>
     </action>
     <action>
       <name>Float (Bonus Action)</name>
       <text>
-The goon balloon moves up to 20 feet vertically in one direction without provoking opportunity attacks. If it ends this movement suspended in the air, it hovers in place. It can't be knocked prone while airborne.</text>
+The goon balloon moves up to 20 feet vertically in one direction without provoking opportunity attacks. If it ends this movement suspended in the air, it hovers in place. It can&apos;t be knocked prone while airborne.</text>
     </action>
-    <description>A goon balloon looks like a 5-foot-diameter beach ball with clawed feet. Unblinking eyes on the outer surface of its spherical air sac enable the creature to see in all directions at once. These eyes can produce kaleidoscopic light that tears at the minds of the goon balloon's foes.
+    <description>A goon balloon looks like a 5-foot-diameter beach ball with clawed feet. Unblinking eyes on the outer surface of its spherical air sac enable the creature to see in all directions at once. These eyes can produce kaleidoscopic light that tears at the minds of the goon balloon&apos;s foes.
 
 A goon balloon speaks by pumping air through a hidden orifice on its underside. When the goon balloon dies, the air in its sac transforms into a noxious gas that bursts from the corpse, potentially poisoning other creatures nearby.
 
@@ -510,7 +511,7 @@ Source:	Monstrous Compendium Volume 1: Spelljammer Creatures p. 9</description>
     <vulnerable/>
     <conditionImmune/>
     <senses>Darkvision 120 ft., Passive Perception 11</senses>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>16</cr>
     <exp>15000</exp>
     <trait>
@@ -558,7 +559,7 @@ The beast magically teleports, along with any equipment it is wearing or carryin
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The beast can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The beast regains spent legendary actions at the start of its turn.</text>
+      <text>The beast can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature&apos;s turn. The beast regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Tusk Attack</name>
@@ -577,7 +578,7 @@ The beast howls as it exhales a cloud of magical fear gas in a 120-foot cone. An
     </legendary>
     <description>Nightmare beasts are enormous quadrupeds that stand 20 feet tall, or 40 feet tall when rearing on their hind legs.
 
-A nightmare beast's legs end in claws, enabling it to climb well despite its size. Its skin is thick and tough, and its teeth are long and sharp. A pair of long, curved tusks jut from the sides of the beast's mouth, and its large red eyes glow in the dark. The creature smashes through structures and fortifications with ease, and it doesn't hesitate to rend foes with its claws and gore them with its tusks, but its most devastating attack is its magical ability to disintegrate foes with its terrible gaze.
+A nightmare beast&apos;s legs end in claws, enabling it to climb well despite its size. Its skin is thick and tough, and its teeth are long and sharp. A pair of long, curved tusks jut from the sides of the beast&apos;s mouth, and its large red eyes glow in the dark. The creature smashes through structures and fortifications with ease, and it doesn&apos;t hesitate to rend foes with its claws and gore them with its tusks, but its most devastating attack is its magical ability to disintegrate foes with its terrible gaze.
 
 Powerful spellcasters create nightmare beasts to serve as living siege engines. A single beast can lay waste to entire cities and armies.
 
@@ -616,18 +617,18 @@ Source:	Monstrous Compendium Volume 1: Spelljammer Creatures p. 10</description>
     <trait>
       <name>Unusual Nature</name>
       <text>
-The parasite doesn't require air or sleep.</text>
+The parasite doesn&apos;t require air or sleep.</text>
     </trait>
     <action>
       <name>Cling</name>
       <text>
-Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 12 (3d6 + 2) necrotic damage, and the parasite attaches to the target. While attached, the parasite can't make Cling attacks. The parasite can detach itself by spending 5 feet of its movement. As an action, a creature within reach of the parasite can try to detach it, doing so with a successful DC 14 Strength check.</text>
+Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 12 (3d6 + 2) necrotic damage, and the parasite attaches to the target. While attached, the parasite can&apos;t make Cling attacks. The parasite can detach itself by spending 5 feet of its movement. As an action, a creature within reach of the parasite can try to detach it, doing so with a successful DC 14 Strength check.</text>
       <attack>Cling|+4|3d6+2</attack>
     </action>
     <action>
       <name>Consume Life</name>
       <text>
-The parasite deals 12 (3d6 + 2) necrotic damage to one creature it is physically attached to, provided that creature isn't a Construct or an Undead. The parasite regains hit points equal to the damage taken.</text>
+The parasite deals 12 (3d6 + 2) necrotic damage to one creature it is physically attached to, provided that creature isn&apos;t a Construct or an Undead. The parasite regains hit points equal to the damage taken.</text>
       <attack>Consume Life||3d6+2</attack>
     </action>
     <action>
@@ -675,7 +676,7 @@ Source:	Monstrous Compendium Volume 1: Spelljammer Creatures p. 11</description>
     <trait>
       <name>Flyby</name>
       <text>
-The star lancer doesn't provoke opportunity attacks when it flies out of an enemy's reach.</text>
+The star lancer doesn&apos;t provoke opportunity attacks when it flies out of an enemy&apos;s reach.</text>
     </trait>
     <action>
       <name>Horn</name>
@@ -688,11 +689,11 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) pierci
       <name>Invisibility Cloak (3/Day)</name>
       <recharge>3/Day</recharge>
       <text>
-The star lancer and one creature riding it (chosen by the star lancer) magically turn invisible. This effect lasts until the star lancer or a creature riding it attacks or casts a spell, or until the star lancer's concentration ends (as if concentrating on a spell). Any equipment worn or carried by the invisible creatures is also invisible for the duration of the Invisibility Cloak.</text>
+The star lancer and one creature riding it (chosen by the star lancer) magically turn invisible. This effect lasts until the star lancer or a creature riding it attacks or casts a spell, or until the star lancer&apos;s concentration ends (as if concentrating on a spell). Any equipment worn or carried by the invisible creatures is also invisible for the duration of the Invisibility Cloak.</text>
     </action>
-    <description>Drifting in the Astral Sea are the petrified husks of dead gods, their colossal bodies riddled with natural tunnels and caverns. While exploring the innards of one of these dead gods, githyanki xenomancers found a vast cavern containing scores of winged creatures they had never encountered before. The cavern's denizens used telepathy to question the githyanki interlopers, who promptly suggested an alliance. The winged creatures quickly developed a fondness for the githyanki.
+    <description>Drifting in the Astral Sea are the petrified husks of dead gods, their colossal bodies riddled with natural tunnels and caverns. While exploring the innards of one of these dead gods, githyanki xenomancers found a vast cavern containing scores of winged creatures they had never encountered before. The cavern&apos;s denizens used telepathy to question the githyanki interlopers, who promptly suggested an alliance. The winged creatures quickly developed a fondness for the githyanki.
 
-The githyanki refer to the winged creatures as star lancers ("vah'k'rel" in the Gith tongue) and came to realize star lancers are reincarnations of the dead god's most ardent worshipers. When a star lancer dies, its soul instantly returns to the Great Cavern that forms the hollow heart of the dead god. There, the soul becomes housed in the body of a new, fully grown star lancer that rises magically from the cavern floor. As long as the dead god and its Great Cavern remain intact, the number of star lancers in the multiverse is finite and never-changing.
+The githyanki refer to the winged creatures as star lancers ("vah&apos;k&apos;rel" in the Gith tongue) and came to realize star lancers are reincarnations of the dead god&apos;s most ardent worshipers. When a star lancer dies, its soul instantly returns to the Great Cavern that forms the hollow heart of the dead god. There, the soul becomes housed in the body of a new, fully grown star lancer that rises magically from the cavern floor. As long as the dead god and its Great Cavern remain intact, the number of star lancers in the multiverse is finite and never-changing.
 
 A star lancer resembles a shark, albeit one that has four wings and a long tail. Its head bears a sharp protuberance that the creature uses to impale enemies.
 
@@ -733,13 +734,13 @@ Source:	Monstrous Compendium Volume 1: Spelljammer Creatures p. 12</description>
     <trait>
       <name>Cavities</name>
       <text>
-The yggdrasti has 1d4 + 2 cavities in its trunk. Each cavity is big enough to hold one Medium creature, two Small creatures, or eight Tiny creatures. A creature inside a cavity has three-quarters cover against attacks and other effects that originate outside the cavity. The yggdrasti's cavities aren't connected to one another.</text>
+The yggdrasti has 1d4 + 2 cavities in its trunk. Each cavity is big enough to hold one Medium creature, two Small creatures, or eight Tiny creatures. A creature inside a cavity has three-quarters cover against attacks and other effects that originate outside the cavity. The yggdrasti&apos;s cavities aren&apos;t connected to one another.</text>
       <attack>Cavities||1d4+2</attack>
     </trait>
     <trait>
       <name>False Appearance</name>
       <text>
-If the yggdrasti is motionless and rooted in the ground at the start of combat, it looks just like a dead tree and has advantage on its initiative roll. Moreover, if a creature hasn't observed the rooted yggdrasti move or act, that creature must succeed on a DC 18 Intelligence (Investigation) check to discern that the yggdrasti is animate.</text>
+If the yggdrasti is motionless and rooted in the ground at the start of combat, it looks just like a dead tree and has advantage on its initiative roll. Moreover, if a creature hasn&apos;t observed the rooted yggdrasti move or act, that creature must succeed on a DC 18 Intelligence (Investigation) check to discern that the yggdrasti is animate.</text>
     </trait>
     <trait>
       <name>Lightning Conduit</name>
@@ -749,7 +750,7 @@ If the yggdrasti is subjected to lightning damage, it is unhurt, and the lightni
     <trait>
       <name>Unusual Nature</name>
       <text>
-The yggdrasti doesn't require air or sleep.</text>
+The yggdrasti doesn&apos;t require air or sleep.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -773,7 +774,7 @@ The yggdrasti shoots lightning at one creature within 120 feet of itself. The ta
 
 Creatures sometimes try to hitch a ride on an yggdrasti to take advantage of its air envelope. A typical yggdrasti specimen has cavities inside its trunk in which Medium or smaller creatures can lurk.
 
-Yggdrasti attack any settlements or spelljamming ships they come across without provocation. By using a speak with plants spell or similar magic, someone might be able to convince an yggdrasti to break off its attack, but the monster's innate hatred of other living things is extremely difficult for it to suppress.
+Yggdrasti attack any settlements or spelljamming ships they come across without provocation. By using a speak with plants spell or similar magic, someone might be able to convince an yggdrasti to break off its attack, but the monster&apos;s innate hatred of other living things is extremely difficult for it to suppress.
 
 Yggdrasti sometimes make landfall and disguise themselves as ordinary trees, burying their roots in the ground to pull off the deception. They can uproot themselves at any time and use their roots to shamble awkwardly across the ground, but flying is their preferred mode of travel.
 

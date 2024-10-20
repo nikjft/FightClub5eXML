@@ -52,7 +52,7 @@ Source:	Explorer's Guide to Wildemount p. 184</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Chronurgy Magic: Arcane Abeyance</name>
-        <text>When you cast a spell using a spell slot of 4th level or lower, you can condense the spell's magic into a mote. The spell is frozen in time at the moment of casting and held within a gray bead for 1 hour. This bead is a Tiny object with AC 15 and 1 hit point, and it is immune to poison and psychic damage. When the duration ends, or if the bead is destroyed, it vanishes in a flash of light, and the spell is lost.
+        <text>When you cast a spell using a spell slot of 4th level or lower, you can condense the spell&apos;s magic into a mote. The spell is frozen in time at the moment of casting and held within a gray bead for 1 hour. This bead is a Tiny object with AC 15 and 1 hit point, and it is immune to poison and psychic damage. When the duration ends, or if the bead is destroyed, it vanishes in a flash of light, and the spell is lost.
 
 A creature holding the bead can use its action to release the spell within, whereupon the bead disappears. The spell uses your spell attack bonus and save DC, and the spell treats the creature who released it as the caster for all other purposes.
 
@@ -90,7 +90,7 @@ Source:	Explorer's Guide to Wildemount p. 185</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Graviturgy Magic: Adjust Density</name>
-        <text>As an action, you can magically alter the weight of one object or creature you can see within 30 feet of you. The object or creature must be Large or smaller. The target's weight is halved or doubled for up to 1 minute or until your concentration ends (as if you were concentrating on a spell).
+        <text>As an action, you can magically alter the weight of one object or creature you can see within 30 feet of you. The object or creature must be Large or smaller. The target&apos;s weight is halved or doubled for up to 1 minute or until your concentration ends (as if you were concentrating on a spell).
 
 While the weight of a creature is halved by this effect, the creature's speed increases by 10 feet, it can jump twice as far as normal, and it has disadvantage on Strength checks and Strength saving throws. While the weight of a creature is doubled by this effect, the creature's speed is reduced by 10 feet, and it has advantage on Strength checks and Strength saving throws.
 
@@ -103,7 +103,7 @@ Source:	Explorer's Guide to Wildemount p. 185</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Graviturgy Magic: Gravity Well</name>
-        <text>You've learned how to manipulate gravity around a living being: whenever you cast a spell on a creature, you can move the target 5 feet to an unoccupied space of your choice if the target is willing to move, the spell hits it with an attack, or it fails a saving throw against the spell.
+        <text>You&apos;ve learned how to manipulate gravity around a living being: whenever you cast a spell on a creature, you can move the target 5 feet to an unoccupied space of your choice if the target is willing to move, the spell hits it with an attack, or it fails a saving throw against the spell.
 
 Source:	Explorer's Guide to Wildemount p. 185</text>
       </feature>
@@ -112,7 +112,7 @@ Source:	Explorer's Guide to Wildemount p. 185</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Graviturgy Magic: Violent Attraction</name>
-        <text>When another creature that you can see within 60 feet of you hits with a weapon attack, you can use your reaction to increase the attack's velocity, causing the attack's target to take an extra 1d10 damage of the weapon's type.
+        <text>When another creature that you can see within 60 feet of you hits with a weapon attack, you can use your reaction to increase the attack's velocity, causing the attack&apos;s target to take an extra 1d10 damage of the weapon&apos;s type.
 
 Alternatively, if a creature within 60 feet of you takes damage from a fall, you can use your reaction to increase the fall's damage by 2d10.
 

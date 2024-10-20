@@ -33,7 +33,7 @@ Source:	Xanathar's Guide to Everything p. 45</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Inquisitive: Insightful Fighting [2014]</name>
-        <text>At 3rd level, you gain the ability to decipher an opponent's tactics and develop a counter to them. As a bonus action, you can make a Wisdom (Insight) check against a creature you can see that isn't incapacitated, contested by the target's Charisma (Deception) check. If you succeed, you can use your Sneak Attack against that target even if you don't have advantage on the attack roll, but not if you have disadvantage on it.
+        <text>At 3rd level, you gain the ability to decipher an opponent's tactics and develop a counter to them. As a bonus action, you can make a Wisdom (Insight) check against a creature you can see that isn't incapacitated, contested by the target&apos;s Charisma (Deception) check. If you succeed, you can use your Sneak Attack against that target even if you don&apos;t have advantage on the attack roll, but not if you have disadvantage on it.
 
 This benefit lasts for 1 minute or until you successfully use this feature against a different target.
 
@@ -66,7 +66,7 @@ Source:	Xanathar's Guide to Everything p. 45</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Inquisitive: Eye for Weakness [2014]</name>
-        <text>At 17th level, you learn to exploit a creature's weaknesses by carefully studying its tactics and movement. While your Insightful Fighting feature applies to a creature, your Sneak Attack damage against that creature increases by 3d6.
+        <text>At 17th level, you learn to exploit a creature&apos;s weaknesses by carefully studying its tactics and movement. While your Insightful Fighting feature applies to a creature, your Sneak Attack damage against that creature increases by 3d6.
 
 Source:	Xanathar's Guide to Everything p. 45</text>
       </feature>
@@ -134,7 +134,7 @@ Source:	Sword Coast Adventurer's Guide p. 135,
     <autolevel level="17">
       <feature optional="YES">
         <name>Mastermind: Soul of Deceit [2014]</name>
-        <text>Starting at 17th level, your thoughts can't be read by telepathy or other means, unless you allow it. You can present false thoughts by succeeding on a Charisma (Deception) check contested by the mind reader's Wisdom (Insight) check.
+        <text>Starting at 17th level, your thoughts can&apos;t be read by telepathy or other means, unless you allow it. You can present false thoughts by succeeding on a Charisma (Deception) check contested by the mind reader&apos;s Wisdom (Insight) check.
 
 Additionally, no matter what you say, magic that would determine if you are telling the truth indicates you are being truthful if you so choose, and you can't be compelled to tell the truth by magic.
 
@@ -155,7 +155,7 @@ Source:	Xanathar's Guide to Everything p. 47</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Scout: Skirmisher [2014]</name>
-        <text>Starting at 3rd level, you are difficult to pin down during a fight. You can move up to half your speed as a reaction when an enemy ends its turn within 5 feet of you. This movement doesn't provoke opportunity attacks.
+        <text>Starting at 3rd level, you are difficult to pin down during a fight. You can move up to half your speed as a reaction when an enemy ends its turn within 5 feet of you. This movement doesn&apos;t provoke opportunity attacks.
 
 Source:	Xanathar's Guide to Everything p. 47</text>
       </feature>
@@ -164,7 +164,7 @@ Source:	Xanathar's Guide to Everything p. 47</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Scout: Survivalist [2014]</name>
-        <text>When you choose this archetype at 3rd level, you gain proficiency in the Nature and Survival skills if you don't already have it. Your proficiency bonus is doubled for any ability check you make that uses either of those proficiencies.
+        <text>When you choose this archetype at 3rd level, you gain proficiency in the Nature and Survival skills if you don&apos;t already have it. Your proficiency bonus is doubled for any ability check you make that uses either of those proficiencies.
 
 Source:	Xanathar's Guide to Everything p. 47</text>
         <proficiency>nature, survival</proficiency>
@@ -197,7 +197,7 @@ Source:	Xanathar's Guide to Everything p. 47</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Scout: Sudden Strike [2014]</name>
-        <text>Starting at 17th level, you can strike with deadly speed. If you take the Attack action on your turn, you can make one additional attack as a bonus action. This attack can benefit from your Sneak Attack even if you have already used it this turn, but you can't use your Sneak Attack against the same target more than once in a turn.
+        <text>Starting at 17th level, you can strike with deadly speed. If you take the Attack action on your turn, you can make one additional attack as a bonus action. This attack can benefit from your Sneak Attack even if you have already used it this turn, but you can&apos;t use your Sneak Attack against the same target more than once in a turn.
 
 Source:	Xanathar's Guide to Everything p. 47</text>
       </feature>
@@ -217,7 +217,7 @@ Source:	Xanathar's Guide to Everything p. 48</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Swashbuckler: Fancy Footwork [2014]</name>
-        <text>When you choose this archetype at 3rd level, you learn how to land a strike and then slip away without reprisal. During your turn, if you make a melee attack against a creature, that creature can't make opportunity attacks against you for the rest of your turn.
+        <text>When you choose this archetype at 3rd level, you learn how to land a strike and then slip away without reprisal. During your turn, if you make a melee attack against a creature, that creature can&apos;t make opportunity attacks against you for the rest of your turn.
 
 Source:	Xanathar's Guide to Everything p. 48</text>
       </feature>
@@ -261,7 +261,7 @@ Source:	Xanathar's Guide to Everything p. 48</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Swashbuckler: Master Duelist [2014]</name>
-        <text>Beginning at 17th level, your mastery of the blade lets you turn failure into success in combat. If you miss with an attack roll, you can roll it again with advantage. Once you do so, you can't use this feature again until you finish a short or long rest.
+        <text>Beginning at 17th level, your mastery of the blade lets you turn failure into success in combat. If you miss with an attack roll, you can roll it again with advantage. Once you do so, you can&apos;t use this feature again until you finish a short or long rest.
 
 Source:	Xanathar's Guide to Everything p. 48</text>
       </feature>

@@ -82,7 +82,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Divine Right (HB): Royal Spells</name>
-        <text>You learn certain spells at the sorcerer levels noted in the table below. They count as sorcerer spells for you, but they don't count against your number of Spells Known.
+        <text>You learn certain spells at the sorcerer levels noted in the table below. They count as sorcerer spells for you, but they don&apos;t count against your number of Spells Known.
 
 When you gain a sorcerer level, you can replace one spell from this feature with a conjuration or enchantment spell of the same level from the cleric, sorcerer, or wizard spell list.
 
@@ -113,7 +113,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Divine Right (HB): Words of Authority</name>
-        <text>Your voice has been imbued with divine authority, and it is difficult for the weak willed to resist your commands. Also beginning at 1st level, when you target a creature within 5 feet that can hear you with an enchantment spell, you can impose disadvantage on the creature's saving throw.
+        <text>Your voice has been imbued with divine authority, and it is difficult for the weak willed to resist your commands. Also beginning at 1st level, when you target a creature within 5 feet that can hear you with an enchantment spell, you can impose disadvantage on the creature&apos;s saving throw.
 
 Once you use this feature to impose disadvantage, you must finish a short or long rest before you can use it again. Upon reaching 2nd level, if you have no uses of this feature remaining, you can expend 2 Sorcery Points to use it again.
 
@@ -143,7 +143,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
     <autolevel level="18">
       <feature optional="YES">
         <name>Divine Right (HB): Divine Command</name>
-        <text>Upon reaching 18th level, you become a legendary figure of authority for your people, and your voice is blessed with increased divine power. You learn the divine word spell. It becomes a sorcerer spell for you, but it doesn't count against your total number of Spells Known. As an action, you can cast divine word without expending a spell slot. Once you do so, you must finish a long rest before you can cast divine word at no cost again.
+        <text>Upon reaching 18th level, you become a legendary figure of authority for your people, and your voice is blessed with increased divine power. You learn the divine word spell. It becomes a sorcerer spell for you, but it doesn&apos;t count against your total number of Spells Known. As an action, you can cast divine word without expending a spell slot. Once you do so, you must finish a long rest before you can cast divine word at no cost again.
 
 Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 3 (Homebrew)</text>
       </feature>
@@ -158,7 +158,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Emberheart (HB): Emberheart Spells</name>
-        <text>You learn certain spells at the sorcerer levels noted in the table below. They count as sorcerer spells for you, but they don't count against your number of Spells Known.
+        <text>You learn certain spells at the sorcerer levels noted in the table below. They count as sorcerer spells for you, but they don&apos;t count against your number of Spells Known.
 
 Whenever you gain a sorcerer level, you can replace one spell from this feature with another spell of your choice of the same level, that deals only fire damage, from any spell list.
 
@@ -213,7 +213,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
     <autolevel level="18">
       <feature optional="YES">
         <name>Emberheart (HB): Primordial Inferno</name>
-        <text>Your flaming soul has become an inferno, making you more elemental then mortal. Starting at 18th level, you don't need to eat, drink, or sleep, and you are immune to fire damage.
+        <text>Your flaming soul has become an inferno, making you more elemental then mortal. Starting at 18th level, you don&apos;t need to eat, drink, or sleep, and you are immune to fire damage.
 
 When you take damage from a creature within 60 feet, you can use your reaction to force it to make Dexterity saving throw. On a failure, they take fire damage equal to your level.
 
@@ -315,7 +315,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Greensinger (HB): Vigorous Vines</name>
-        <text>Beginning at 1st level, you can use a bonus action to extrude (or retract) a thin, yet vigorous, vine from your body up to 10 feet in length. You can use this vine to perform simple tasks, but it can't be used to attack, manipulate tools, or activate items, and it cannot carry more than 10 pounds.
+        <text>Beginning at 1st level, you can use a bonus action to extrude (or retract) a thin, yet vigorous, vine from your body up to 10 feet in length. You can use this vine to perform simple tasks, but it can&apos;t be used to attack, manipulate tools, or activate items, and it cannot carry more than 10 pounds.
 
 You can extrude a total number of vines at one time equal to your proficiency bonus. The vines share your Armor Class and they each have hit points equal to your sorcerer level.
 
@@ -337,7 +337,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
     <autolevel level="14">
       <feature optional="YES">
         <name>Greensinger (HB): Creeping Defense</name>
-        <text>Upon reaching 14th level, your vines can grow up to 20 feet in length. Also, when you are hit by an attack, you can use your reaction to block the incoming blow with one of your vines. If the incoming damage destroys your vine, you take any additional damage that exceeds your vine's hit points.
+        <text>Upon reaching 14th level, your vines can grow up to 20 feet in length. Also, when you are hit by an attack, you can use your reaction to block the incoming blow with one of your vines. If the incoming damage destroys your vine, you take any additional damage that exceeds your vine&apos;s hit points.
 
 Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 6 (Homebrew)</text>
       </feature>
@@ -370,7 +370,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Hellspawn (HB): Abyssal Spells</name>
-        <text>You learn certain spells at the sorcerer levels noted in the table below. They count as sorcerer spells for you, but they don't count against your number of Spells Known.
+        <text>You learn certain spells at the sorcerer levels noted in the table below. They count as sorcerer spells for you, but they don&apos;t count against your number of Spells Known.
 
 Whenever you gain a level, you can replace one spell from this feature with another conjuration or evocation spell of the same level from the sorcerer, warlock, or wizard spell list.
 
@@ -431,7 +431,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Ironmonger (HB): Iron Spells</name>
-        <text>You learn certain spells at the sorcerer levels noted in the table below. They count as sorcerer spells for you, but they don't count against your number of Spells Known.
+        <text>You learn certain spells at the sorcerer levels noted in the table below. They count as sorcerer spells for you, but they don&apos;t count against your number of Spells Known.
 
 Whenever you gain a level, you can replace one spell from this feature with another abjuration or conjuration spell of the same level from the sorcerer or wizard spell list.
 
@@ -453,7 +453,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Ironmonger (HB): Blade of Strife</name>
-        <text>Beginning at 1st level, you can summon the Ironmonger's signature weapon, the Blade of Strife. As a bonus action, you create this mystical Blade at a point you can see within 60 feet. It lasts for 1 minute or until you use this feature again.
+        <text>Beginning at 1st level, you can summon the Ironmonger&apos;s signature weapon, the Blade of Strife. As a bonus action, you create this mystical Blade at a point you can see within 60 feet. It lasts for 1 minute or until you use this feature again.
 
 When you create the Blade, you can make a melee spell attack against one creature within 10 feet of it. On a hit, the target takes 1d8 magical slashing damage. As a bonus action, you can move the Blade up to 30 feet and repeat the attack.
 
@@ -500,7 +500,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Stoneblood (HB): Stoneblood Spells</name>
-        <text>You learn certain spells at the sorcerer levels noted in the table below. They count as sorcerer spells for you, but they don't count against your number of Spells Known.
+        <text>You learn certain spells at the sorcerer levels noted in the table below. They count as sorcerer spells for you, but they don&apos;t count against your number of Spells Known.
 
 Whenever you gain a level in this class, you can replace one spell from this feature with another spell of the same level, that deals only bludgeoning damage, from any spell list.
 
@@ -590,7 +590,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Stormsoul (HB): Stormsoul Spells</name>
-        <text>You learn certain spells at the sorcerer levels noted in the table below. They count as sorcerer spells for you, but they don't count against your number of Spells Known.
+        <text>You learn certain spells at the sorcerer levels noted in the table below. They count as sorcerer spells for you, but they don&apos;t count against your number of Spells Known.
 
 When you gain a sorcerer level, you can replace one spell from this feature with another spell of the same level, that deals only lightning or thunder damage, from any spell list.
 
@@ -667,7 +667,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Vampiric Soul (HB): Vampiric Spells</name>
-        <text>You learn certain spells at the sorcerer levels noted in the table below. They count as sorcerer spells for you, but they don't count against your number of Spells Known.
+        <text>You learn certain spells at the sorcerer levels noted in the table below. They count as sorcerer spells for you, but they don&apos;t count against your number of Spells Known.
 
 When you gain a sorcerer level, you can replace one spell from this feature with a necromancy or enchantment spell, of the same level from the sorcerer, warlock, or wizard spell list.
 
@@ -730,7 +730,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Voidwielder (HB): Entropic Magic</name>
-        <text>You learn certain spells at the sorcerer levels noted in the table below. They count as sorcerer spells for you, but they don't count against your number of Spells Known.
+        <text>You learn certain spells at the sorcerer levels noted in the table below. They count as sorcerer spells for you, but they don&apos;t count against your number of Spells Known.
 
 Whenever you gain a level, you can replace one spell from this feature with another abjuration or necromancy spell of the same level from the sorcerer, warlock, or wizard spell list.
 
@@ -777,7 +777,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
     <autolevel level="18">
       <feature optional="YES">
         <name>Voidwielder (HB): Ray of Annihilation</name>
-        <text>The overwhelming power you draw from the Void allows you to unmake creation itself. At 18th level, you learn disintegrate, but it doesn't count against your total number of Spells Known. Once per long rest, you can cast disintegrate, at its lowest level, without expending a spell slot.
+        <text>The overwhelming power you draw from the Void allows you to unmake creation itself. At 18th level, you learn disintegrate, but it doesn&apos;t count against your total number of Spells Known. Once per long rest, you can cast disintegrate, at its lowest level, without expending a spell slot.
 
 Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 12 (Homebrew)</text>
       </feature>
@@ -814,7 +814,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Waveborn (HB): Waveborn Magic</name>
-        <text>You learn certain spells at the sorcerer levels noted in the table below. They count as sorcerer spells for you, but they don't count against your number of Spells Known.
+        <text>You learn certain spells at the sorcerer levels noted in the table below. They count as sorcerer spells for you, but they don&apos;t count against your number of Spells Known.
 
 Whenever you gain a sorcerer level, you can replace one spell from this feature with another spell of your choice of the same level, that deals only cold damage, from any spell list.
 
@@ -860,7 +860,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
     <autolevel level="18">
       <feature optional="YES">
         <name>Waveborn (HB): Primordial Deluge</name>
-        <text>Your watery soul has become a great sea, making you more elemental then mortal. Starting at 18th level, you don't need to eat, drink, or sleep, and you are immune to cold damage.
+        <text>Your watery soul has become a great sea, making you more elemental then mortal. Starting at 18th level, you don&apos;t need to eat, drink, or sleep, and you are immune to cold damage.
 
 Also, as long as you are not incapacitated, when you are hit by an attack that is a critical hit, you can absorb the blow like flowing water, turning a critical hit into a normal hit.
 
@@ -891,13 +891,13 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Metamagic: Brutal Spell (HB)</name>
-        <text>When you cast a spell that deals damage, you can spend 2 Sorcery Points to empower the casting. If you roll the highest number of any of the spell's damage dice you can roll that die again and add it to the total damage. However, if you roll the lowest number on any of the spell's damage dice, you remove that die, and its damage, from the total damage of the spell.
+        <text>When you cast a spell that deals damage, you can spend 2 Sorcery Points to empower the casting. If you roll the highest number of any of the spell&apos;s damage dice you can roll that die again and add it to the total damage. However, if you roll the lowest number on any of the spell&apos;s damage dice, you remove that die, and its damage, from the total damage of the spell.
 
 Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 14 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Metamagic: Cerebral Spell (HB)</name>
-        <text>When you cast a spell that forces an Intelligence or Charisma saving throw, you can spend 3 Sorcery Points and change the spell's saving throw to target the other ability score instead.
+        <text>When you cast a spell that forces an Intelligence or Charisma saving throw, you can spend 3 Sorcery Points and change the spell&apos;s saving throw to target the other ability score instead.
 
 This Metamagic only changes the initial saving throw. Any subsequent saving throws target the original ability score.
 
@@ -925,7 +925,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Metamagic: Kinetic Spell (HB)</name>
-        <text>When you cast a spell that forces a Strength or a Dexterity saving throw, you can spend 2 Sorcery Points and change the spell's saving throw target the other ability score instead.
+        <text>When you cast a spell that forces a Strength or a Dexterity saving throw, you can spend 2 Sorcery Points and change the spell&apos;s saving throw target the other ability score instead.
 
 This Metamagic only changes the initial saving throw. Any subsequent saving throws target the original ability score.
 
@@ -951,7 +951,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Metamagic: Potent Spell (HB)</name>
-        <text>When you cast a spell that deals damage, you can spend 1 Sorcery Point to have the spell to ignore a single target's resistances to the damage of the spell.
+        <text>When you cast a spell that deals damage, you can spend 1 Sorcery Point to have the spell to ignore a single target&apos;s resistances to the damage of the spell.
 
 Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 15 (Homebrew)</text>
       </feature>
@@ -963,7 +963,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Metamagic: Resolute Spell (HB)</name>
-        <text>When you cast a spell that forces a Wisdom or a Constitution saving throw, you can spend 2 Sorcery Points and change the spell's saving throw target the other ability score instead.
+        <text>When you cast a spell that forces a Wisdom or a Constitution saving throw, you can spend 2 Sorcery Points and change the spell&apos;s saving throw target the other ability score instead.
 
 This Metamagic only changes the initial saving throw. Any subsequent saving throws target the original ability score.
 
@@ -971,7 +971,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Metamagic: Savage Spell (HB)</name>
-        <text>When you cast a spell that deals bludgeoning, piercing, or slashing damage, you can spend 1 Sorcery Point to change the spell's damage type to another from the list above.
+        <text>When you cast a spell that deals bludgeoning, piercing, or slashing damage, you can spend 1 Sorcery Point to change the spell&apos;s damage type to another from the list above.
 
 Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 15 (Homebrew)</text>
       </feature>
@@ -1003,7 +1003,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Metamagic: Unstable Spell (HB)</name>
-        <text>When you cast a spell that forces a target to make a saving throw, you can spend 2 Sorcery Points to have the initial saving throw target an ability score determined by random chance. Roll a d12, and the spell's initial saving throw is changed to target the ability score from the list below.
+        <text>When you cast a spell that forces a target to make a saving throw, you can spend 2 Sorcery Points to have the initial saving throw target an ability score determined by random chance. Roll a d12, and the spell&apos;s initial saving throw is changed to target the ability score from the list below.
 
 If you roll a 1, your spell immediately fails. However, only the 2 Sorcery Points you spent to use this ability are wasted, and you regain the spell slot you used to cast the spell.
 
@@ -1043,13 +1043,13 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Metamagic: Brutal Spell (HB)</name>
-        <text>When you cast a spell that deals damage, you can spend 2 Sorcery Points to empower the casting. If you roll the highest number of any of the spell's damage dice you can roll that die again and add it to the total damage. However, if you roll the lowest number on any of the spell's damage dice, you remove that die, and its damage, from the total damage of the spell.
+        <text>When you cast a spell that deals damage, you can spend 2 Sorcery Points to empower the casting. If you roll the highest number of any of the spell&apos;s damage dice you can roll that die again and add it to the total damage. However, if you roll the lowest number on any of the spell&apos;s damage dice, you remove that die, and its damage, from the total damage of the spell.
 
 Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 14 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Metamagic: Cerebral Spell (HB)</name>
-        <text>When you cast a spell that forces an Intelligence or Charisma saving throw, you can spend 3 Sorcery Points and change the spell's saving throw to target the other ability score instead.
+        <text>When you cast a spell that forces an Intelligence or Charisma saving throw, you can spend 3 Sorcery Points and change the spell&apos;s saving throw to target the other ability score instead.
 
 This Metamagic only changes the initial saving throw. Any subsequent saving throws target the original ability score.
 
@@ -1077,7 +1077,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Metamagic: Kinetic Spell (HB)</name>
-        <text>When you cast a spell that forces a Strength or a Dexterity saving throw, you can spend 2 Sorcery Points and change the spell's saving throw target the other ability score instead.
+        <text>When you cast a spell that forces a Strength or a Dexterity saving throw, you can spend 2 Sorcery Points and change the spell&apos;s saving throw target the other ability score instead.
 
 This Metamagic only changes the initial saving throw. Any subsequent saving throws target the original ability score.
 
@@ -1103,7 +1103,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Metamagic: Potent Spell (HB)</name>
-        <text>When you cast a spell that deals damage, you can spend 1 Sorcery Point to have the spell to ignore a single target's resistances to the damage of the spell.
+        <text>When you cast a spell that deals damage, you can spend 1 Sorcery Point to have the spell to ignore a single target&apos;s resistances to the damage of the spell.
 
 Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 15 (Homebrew)</text>
       </feature>
@@ -1115,7 +1115,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Metamagic: Resolute Spell (HB)</name>
-        <text>When you cast a spell that forces a Wisdom or a Constitution saving throw, you can spend 2 Sorcery Points and change the spell's saving throw target the other ability score instead.
+        <text>When you cast a spell that forces a Wisdom or a Constitution saving throw, you can spend 2 Sorcery Points and change the spell&apos;s saving throw target the other ability score instead.
 
 This Metamagic only changes the initial saving throw. Any subsequent saving throws target the original ability score.
 
@@ -1123,7 +1123,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Metamagic: Savage Spell (HB)</name>
-        <text>When you cast a spell that deals bludgeoning, piercing, or slashing damage, you can spend 1 Sorcery Point to change the spell's damage type to another from the list above.
+        <text>When you cast a spell that deals bludgeoning, piercing, or slashing damage, you can spend 1 Sorcery Point to change the spell&apos;s damage type to another from the list above.
 
 Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 15 (Homebrew)</text>
       </feature>
@@ -1155,7 +1155,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Metamagic: Unstable Spell (HB)</name>
-        <text>When you cast a spell that forces a target to make a saving throw, you can spend 2 Sorcery Points to have the initial saving throw target an ability score determined by random chance. Roll a d12, and the spell's initial saving throw is changed to target the ability score from the list below.
+        <text>When you cast a spell that forces a target to make a saving throw, you can spend 2 Sorcery Points to have the initial saving throw target an ability score determined by random chance. Roll a d12, and the spell&apos;s initial saving throw is changed to target the ability score from the list below.
 
 If you roll a 1, your spell immediately fails. However, only the 2 Sorcery Points you spent to use this ability are wasted, and you regain the spell slot you used to cast the spell.
 
@@ -1195,13 +1195,13 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Metamagic: Brutal Spell (HB)</name>
-        <text>When you cast a spell that deals damage, you can spend 2 Sorcery Points to empower the casting. If you roll the highest number of any of the spell's damage dice you can roll that die again and add it to the total damage. However, if you roll the lowest number on any of the spell's damage dice, you remove that die, and its damage, from the total damage of the spell.
+        <text>When you cast a spell that deals damage, you can spend 2 Sorcery Points to empower the casting. If you roll the highest number of any of the spell&apos;s damage dice you can roll that die again and add it to the total damage. However, if you roll the lowest number on any of the spell&apos;s damage dice, you remove that die, and its damage, from the total damage of the spell.
 
 Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 14 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Metamagic: Cerebral Spell (HB)</name>
-        <text>When you cast a spell that forces an Intelligence or Charisma saving throw, you can spend 3 Sorcery Points and change the spell's saving throw to target the other ability score instead.
+        <text>When you cast a spell that forces an Intelligence or Charisma saving throw, you can spend 3 Sorcery Points and change the spell&apos;s saving throw to target the other ability score instead.
 
 This Metamagic only changes the initial saving throw. Any subsequent saving throws target the original ability score.
 
@@ -1229,7 +1229,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Metamagic: Kinetic Spell (HB)</name>
-        <text>When you cast a spell that forces a Strength or a Dexterity saving throw, you can spend 2 Sorcery Points and change the spell's saving throw target the other ability score instead.
+        <text>When you cast a spell that forces a Strength or a Dexterity saving throw, you can spend 2 Sorcery Points and change the spell&apos;s saving throw target the other ability score instead.
 
 This Metamagic only changes the initial saving throw. Any subsequent saving throws target the original ability score.
 
@@ -1255,7 +1255,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Metamagic: Potent Spell (HB)</name>
-        <text>When you cast a spell that deals damage, you can spend 1 Sorcery Point to have the spell to ignore a single target's resistances to the damage of the spell.
+        <text>When you cast a spell that deals damage, you can spend 1 Sorcery Point to have the spell to ignore a single target&apos;s resistances to the damage of the spell.
 
 Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 15 (Homebrew)</text>
       </feature>
@@ -1267,7 +1267,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Metamagic: Resolute Spell (HB)</name>
-        <text>When you cast a spell that forces a Wisdom or a Constitution saving throw, you can spend 2 Sorcery Points and change the spell's saving throw target the other ability score instead.
+        <text>When you cast a spell that forces a Wisdom or a Constitution saving throw, you can spend 2 Sorcery Points and change the spell&apos;s saving throw target the other ability score instead.
 
 This Metamagic only changes the initial saving throw. Any subsequent saving throws target the original ability score.
 
@@ -1275,7 +1275,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Metamagic: Savage Spell (HB)</name>
-        <text>When you cast a spell that deals bludgeoning, piercing, or slashing damage, you can spend 1 Sorcery Point to change the spell's damage type to another from the list above.
+        <text>When you cast a spell that deals bludgeoning, piercing, or slashing damage, you can spend 1 Sorcery Point to change the spell&apos;s damage type to another from the list above.
 
 Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 15 (Homebrew)</text>
       </feature>
@@ -1307,7 +1307,7 @@ Source:	LaserLlama: Sorcerous Origins, Metamagics &amp; Origin Spells v2.0.0 p. 
       </feature>
       <feature optional="YES">
         <name>Metamagic: Unstable Spell (HB)</name>
-        <text>When you cast a spell that forces a target to make a saving throw, you can spend 2 Sorcery Points to have the initial saving throw target an ability score determined by random chance. Roll a d12, and the spell's initial saving throw is changed to target the ability score from the list below.
+        <text>When you cast a spell that forces a target to make a saving throw, you can spend 2 Sorcery Points to have the initial saving throw target an ability score determined by random chance. Roll a d12, and the spell&apos;s initial saving throw is changed to target the ability score from the list below.
 
 If you roll a 1, your spell immediately fails. However, only the 2 Sorcery Points you spent to use this ability are wasted, and you regain the spell slot you used to cast the spell.
 

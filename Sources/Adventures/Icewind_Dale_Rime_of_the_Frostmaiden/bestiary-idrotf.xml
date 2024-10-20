@@ -52,7 +52,7 @@ Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one t
       <attack>Javelin|+6|1d6+4</attack>
     </action>
     <reaction>
-      <name>Stone's Endurance (Recharges after a Short or Long Rest)</name>
+      <name>Stone&apos;s Endurance (Recharges after a Short or Long Rest)</name>
       <recharge>SHORT</recharge>
       <text>
 When Aruk takes damage, it reduces the damage taken by 9 (1d12 + 3).</text>
@@ -137,7 +137,7 @@ Ranged Spell Attack: +13 to hit, range 90 ft., one target. Hit: 13 (3d8) cold da
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Auril can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Auril regains spent legendary actions at the start of its turn.</text>
+      <text>Auril can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Auril regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Talons</name>
@@ -280,7 +280,7 @@ The freed creature appears in an unoccupied space of its choice within 30 feet o
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Auril can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Auril regains spent legendary actions at the start of its turn.</text>
+      <text>Auril can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Auril regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Attack</name>
@@ -396,7 +396,7 @@ Auril creates a magical blizzard in a 30-foot-radius sphere centered on herself.
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Auril can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Auril regains spent legendary actions at the start of its turn.</text>
+      <text>Auril can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Auril regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Polar Ray</name>
@@ -503,7 +503,7 @@ Avarice is a 10th-level spellcaster. Her spellcasting ability is Intelligence (s
 	• 5th level (2 slots): Bigby's hand, Rary's telepathic bond</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 2</slots>
-    <spells>fire bolt, mage hand, message, minor illusion, prestidigitation, detect magic, mage armor, magic missile, flaming sphere, knock, scorching ray, counterspell, fireball, fly, banishment, fire shield, Bigby's hand, Rary's telepathic bond</spells>
+    <spells>fire bolt, mage hand, message, minor illusion, prestidigitation, detect magic, mage armor, magic missile, flaming sphere, knock, scorching ray, counterspell, fireball, fly, banishment, fire shield, Bigby&apos;s hand, Rary&apos;s telepathic bond</spells>
     <description>Avarice is a cruel and vindictive tiefling trained in the arcane tradition of evocation. She likes using her magic to destroy things, and her hunger for magic items knows no bounds. Her supreme confidence means that she never backs down from a challenge, even when the odds are clearly stacked against her. Seeing other wizards as a threat, paranoia rules her life.
 
 Avarice has been a member of the Arcane Brotherhood for almost two years. She fantasizes about rising to fame and prominence in record time and hopes that plundering the lost Netherese city of Ythryn will turn her fantasies into reality.
@@ -575,7 +575,7 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) pierc
 Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage.</text>
       <attack>Hooves|+6|2d4+4</attack>
     </action>
-    <description>A white moose is attacking loggers in the forest near Lonelywood. The town's logging industry is essential to the growth and survival of Ten-Towns, and Speaker Nimsy Huddle has assured the other speakers that Lonelywood's "moose problem" will be dealt with in short order. Hunters have been dispatched to kill the moose, but it has eluded them so far. From what the hunters have seen, their prey is smarter than the average moose, and its white hide makes it hard to spot in the snow. What they don't know is that the moose is using a magic mirror as a scrying device to show it where its enemies are.
+    <description>A white moose is attacking loggers in the forest near Lonelywood. The town's logging industry is essential to the growth and survival of Ten-Towns, and Speaker Nimsy Huddle has assured the other speakers that Lonelywood&apos;s "moose problem" will be dealt with in short order. Hunters have been dispatched to kill the moose, but it has eluded them so far. From what the hunters have seen, their prey is smarter than the average moose, and its white hide makes it hard to spot in the snow. What they don&apos;t know is that the moose is using a magic mirror as a scrying device to show it where its enemies are.
 
 Source:	Icewind Dale: Rime of the Frostmaiden p. 82</description>
     <environment/>
@@ -659,7 +659,7 @@ Ranged Weapon Attack: +4 to hit, ranged 80/320 ft., one target. Hit: 6 (1d8 + 2)
     <conditionImmune/>
     <senses/>
     <trait>
-      <name>Auril's Blessing (3/Day)</name>
+      <name>Auril&apos;s Blessing (3/Day)</name>
       <recharge>3/Day</recharge>
       <text>
 When Bjornhild hits a creature with a weapon attack, the attack deals an extra 11 (2d10) cold damage.</text>
@@ -681,7 +681,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slas
 Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing damage if used with two hands to make a melee attack, plus 11 (2d10) cold damage if Bjornhild uses Auril's Blessing.</text>
       <attack>Spear|+7|1d6+4</attack>
     </action>
-    <description>It's unusual for a woman to lead a Reghed tribe, but Bjornhild is a most extraordinary woman. The fearless wife of the late King Korold, she fought alongside him in many battles. After a frost giant's mammoth companion slew Korold, the formidable Bjornhild took his place.
+    <description>It&apos;s unusual for a woman to lead a Reghed tribe, but Bjornhild is a most extraordinary woman. The fearless wife of the late King Korold, she fought alongside him in many battles. After a frost giant&apos;s mammoth companion slew Korold, the formidable Bjornhild took his place.
 
 Bjornhild worships the Frostmaiden and is so ruthless that her enemies believe she has actual ice flowing through her veins. She has no living children that she knows of, but with Auril's blessing, she won't need any heirs to preserve her legacy. Bjornhild intends to live forever by demonstrating her unwavering faith in the Frostmaiden and becoming the Chosen of Auril.
 
@@ -753,8 +753,8 @@ The brain's innate spellcasting ability is Intelligence (spell save DC 14, +6 to
 	• 3/Day each: charm person, hold person
 	• 1/Day each: compulsion, hold monster, sleep (3rd-level version), Tasha's hideous laughter</text>
     </trait>
-    <spells>chill touch, detect thoughts, mage hand, zone of truth, charm person, hold person, compulsion, hold monster, sleep, Tasha's hideous laughter</spells>
-    <description>Through an eldritch ritual combining alchemy, necromancy, and grim surgical precision, the brain of a mortal being (willing or unwilling) is encased in a glass jar filled with preserving fluids and the liquefied goop of their body's flesh. The transformation renders the brain immortal and imbues it with psionic power, so that it can spend eternity plotting and executing its desires.
+    <spells>chill touch, detect thoughts, mage hand, zone of truth, charm person, hold person, compulsion, hold monster, sleep, Tasha&apos;s hideous laughter</spells>
+    <description>Through an eldritch ritual combining alchemy, necromancy, and grim surgical precision, the brain of a mortal being (willing or unwilling) is encased in a glass jar filled with preserving fluids and the liquefied goop of their body&apos;s flesh. The transformation renders the brain immortal and imbues it with psionic power, so that it can spend eternity plotting and executing its desires.
 
 A brain in a jar can speak without vocal cords, psionically projecting its disembodied voice outward for all to hear. It enjoys conversation so much that it is prone to talking for hours on end, sometimes to itself if there are no others with whom it can speak. It also likes to think out loud and reflect on the events and decisions that led to its great transformation.
 
@@ -911,7 +911,7 @@ Any creature with an Intelligence of 4 or more that is within 30 feet of the dra
 The dragon exhales a ray of radiant energy in a 120-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 31 (7d8) radiant damage on a failed save, or half as much damage on a successful one.</text>
       <attack>Radiant Breath||7d8</attack>
     </action>
-    <description>This construct is fashioned from pieces of chardalyn (see the sidebar on Chardalyn) that have been assembled in the form of a dragon. The only parts of the dragon not forged from chardalyn are its wing flaps, which are made of an oily film as tough as rubber, and its heart, which is an orb of pulsating, radiant energy. Demonic magic suffusing the chardalyn imbues the construct with malevolence, allowing it to enjoy the terror it causes. This effect extends outward from it, corrupting other creatures who get too close to the dragon. Those affected by the dragon's presence turn their efforts to helping the dragon inflict suffering on others.
+    <description>This construct is fashioned from pieces of chardalyn (see the sidebar on Chardalyn) that have been assembled in the form of a dragon. The only parts of the dragon not forged from chardalyn are its wing flaps, which are made of an oily film as tough as rubber, and its heart, which is an orb of pulsating, radiant energy. Demonic magic suffusing the chardalyn imbues the construct with malevolence, allowing it to enjoy the terror it causes. This effect extends outward from it, corrupting other creatures who get too close to the dragon. Those affected by the dragon&apos;s presence turn their efforts to helping the dragon inflict suffering on others.
 
 A chardalyn dragon serves the tyrannical will of its evil creator—a tireless drive devotion that exceeds its own instinct of self-preservation. Thus, the dragon will destroy itself in pursuit of its master's desires if necessary. The dragon likes to tear foes apart, as well as knock down doors and other structures. Against enemies it can't reach, it fires a beam of destructive radiance from its grill-like maw.
 
@@ -1295,7 +1295,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 284</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>2</cr>
     <resist/>
     <immune>poison</immune>
@@ -1425,7 +1425,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 270</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dzaan's Clone</name>
+    <name>Dzaan&apos;s Clone</name>
     <size>M</size>
     <type>humanoid</type>
     <alignment>Lawful Evil</alignment>
@@ -1488,7 +1488,7 @@ If the simulacrum casts this spell using a 2nd-level spell slot, it creates one 
     <environment/>
   </monster>
   <monster>
-    <name>Dzaan's Simulacrum</name>
+    <name>Dzaan&apos;s Simulacrum</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Lawful Evil</alignment>
@@ -1553,7 +1553,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 270</description>
     <environment/>
   </monster>
   <monster>
-    <name>F'yorl</name>
+    <name>F&apos;yorl</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Lawful Evil</alignment>
@@ -1743,7 +1743,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 288</description>
     <save/>
     <skill/>
     <passive>9</passive>
-    <languages>understands Giant but can't speak</languages>
+    <languages>understands Giant but can&apos;t speak</languages>
     <cr>6</cr>
     <resist/>
     <immune>cold, poison</immune>
@@ -1794,7 +1794,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 288</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>3</cr>
     <resist/>
     <immune>lightning, poison</immune>
@@ -1989,7 +1989,7 @@ The vampire emits a bone-chilling cackle. Each creature of the vampire's choice 
       <text>
 The vampire targets one humanoid it can see within 30 feet of it. If the target can see the vampire, the target must succeed on a DC 15 Constitution saving throw against this magic or be poisoned for 24 hours. A creature whose saving throw is successful is immune to this vampire's Sickening Gaze for 24 hours.</text>
     </action>
-    <description>When a gnoll's ravenous hunger is so great that it craves flesh and blood even after death, it can rise as a vampire to continue its feeding frenzy.
+    <description>When a gnoll&apos;s ravenous hunger is so great that it craves flesh and blood even after death, it can rise as a vampire to continue its feeding frenzy.
 
 A gnoll vampire is a savage predator that feeds on the blood of the living. It cackles maniacally when it catches the scent of its prey and quickly moves in for the kill, tearing away flesh with its claws, gorging on meat and blood, and leaving nothing behind but bones, gristle, and the victim's blood-spattered belongings.
 
@@ -2103,7 +2103,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 303</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands Deep Speech and Gnomish but can't speak, telepathy 60 ft.</languages>
+    <languages>understands Deep Speech and Gnomish but can&apos;t speak, telepathy 60 ft.</languages>
     <cr>1/2</cr>
     <resist/>
     <immune/>
@@ -2207,7 +2207,7 @@ Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one t
       <attack>Javelin|+6|1d6+4</attack>
     </action>
     <reaction>
-      <name>Stone's Endurance (Recharges after a Short or Long Rest)</name>
+      <name>Stone&apos;s Endurance (Recharges after a Short or Long Rest)</name>
       <recharge>SHORT</recharge>
       <text>
 When the goliath takes damage, it reduces the damage taken by 9 (1d12 + 3).</text>
@@ -2234,10 +2234,10 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 292</description>
     <save/>
     <skill>Athletics +8, Perception +8, Survival +5</skill>
     <passive>18</passive>
-    <languages>Common, Giant (can't speak in bear form)</languages>
+    <languages>Common, Giant (can&apos;t speak in bear form)</languages>
     <cr>8</cr>
     <resist>cold</resist>
-    <immune>bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</immune>
+    <immune>bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</immune>
     <vulnerable>fire</vulnerable>
     <conditionImmune/>
     <senses/>
@@ -2287,12 +2287,12 @@ Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (1d12 + 5) slas
       <attack>Greataxe (Humanoid or Hybrid Form Only)|+8|1d12+5</attack>
     </action>
     <reaction>
-      <name>Stone's Endurance (Recharges after a Short or Long Rest)</name>
+      <name>Stone&apos;s Endurance (Recharges after a Short or Long Rest)</name>
       <recharge>SHORT</recharge>
       <text>
 When the werebear takes damage, it reduces the damage taken by 10 (1d12 + 4).</text>
     </reaction>
-    <description>Goliath legends speak of a creature that prowls the far reaches of Icewind Dale, known as Oyaminartok the Winter Walker. She can take the form of either a polar bear or a hulking, bipedal shape obscured by wind and blowing snow. Elders invoke her name to keep young goliaths from wandering too far from home before they're ready. Adult goliaths sometimes encounter this legendary individual in their travels to the far-flung corners of the dale. If they flee like cowards, Oyaminartok laughs and lets them go to wander in obscurity. If they challenge Oyaminartok to a fight, the Winter Walker smiles and tests their mettle. Those who impress her with their fighting skills are bitten and become goliath werebears themselves—goliaths who carry Oyaminartok's curse of lycanthropy. Contrary to myth, Oyaminartok is not a monster but a force of good in the region, and she passes her curse only to goliaths whose hearts are pure.
+    <description>Goliath legends speak of a creature that prowls the far reaches of Icewind Dale, known as Oyaminartok the Winter Walker. She can take the form of either a polar bear or a hulking, bipedal shape obscured by wind and blowing snow. Elders invoke her name to keep young goliaths from wandering too far from home before they&apos;re ready. Adult goliaths sometimes encounter this legendary individual in their travels to the far-flung corners of the dale. If they flee like cowards, Oyaminartok laughs and lets them go to wander in obscurity. If they challenge Oyaminartok to a fight, the Winter Walker smiles and tests their mettle. Those who impress her with their fighting skills are bitten and become goliath werebears themselves—goliaths who carry Oyaminartok&apos;s curse of lycanthropy. Contrary to myth, Oyaminartok is not a monster but a force of good in the region, and she passes her curse only to goliaths whose hearts are pure.
 
 Oyaminartok and others of her kind try to help creatures they come across, for the weather and the geography of Icewind Dale can be brutal. They know the safest routes across the tundra, and they can help guide travelers through the Sea of Moving Ice and across its ever-shifting ice floes. These polar werebears attack evil in the wilderness, but they steer clear of camps and settlements. Fire is Oyaminartok's bane, and thus she and her kind are wary around hearths and open flames.
 
@@ -2348,7 +2348,7 @@ Grandolpha's innate spellcasting ability is Wisdom (spell save DC 13). She can i
 	• 3/Day each: detect magic, enlarge/reduce (self only), faerie fire, invisibility (self only), polymorph, stoneskin (self only)</text>
     </trait>
     <spells>druidcraft, mending, poison spray, detect magic, enlarge/reduce, faerie fire, invisibility, polymorph, stoneskin</spells>
-    <description>Grandolpha Muzgardt, the grand dame of the Muzgardt duergar clan, has recently arrived at the fortress after being invited here by Xardorok. The Muzgardts are based in Gracklstugh, a duergar city in the Underdark. They mass-produce and distribute a filthy duergar ale made from mushrooms. Xardorok has been eager to take a fourth wife and has had his eye on Grandolpha Muzgardt for many years. He asked Grandolpha to his fortress to give her a gift—a pseudodragon made of chardalyn (a pseudo-pseudodragon, if you will)—and make her an offer she can't refuse. Once he conquers Icewind Dale, he wants the Muzgardts to control the ale trade throughout his sunless surface kingdom.
+    <description>Grandolpha Muzgardt, the grand dame of the Muzgardt duergar clan, has recently arrived at the fortress after being invited here by Xardorok. The Muzgardts are based in Gracklstugh, a duergar city in the Underdark. They mass-produce and distribute a filthy duergar ale made from mushrooms. Xardorok has been eager to take a fourth wife and has had his eye on Grandolpha Muzgardt for many years. He asked Grandolpha to his fortress to give her a gift—a pseudodragon made of chardalyn (a pseudo-pseudodragon, if you will)—and make her an offer she can&apos;t refuse. Once he conquers Icewind Dale, he wants the Muzgardts to control the ale trade throughout his sunless surface kingdom.
 
 Grandolpha, for her part, is too canny and jaded to fall for Xardorok's blunt attempt at seduction. She has begun plotting with disenfranchised advisors and warriors in his ranks to overthrow him when the moment is right. Ironically, despite his paranoia, Xardorok is too blinded by his admiration for Grandolpha to foresee her treachery.
 
@@ -2416,7 +2416,7 @@ Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashi
 Melee or Ranged Weapon Attack: +8 to hit, range 30/120 ft., one target. Hit: 8 (1d6 + 5) piercing damage, plus 6 (1d12) piercing damage if Gunvald uses Menacing Blows.</text>
       <attack>Javelin|+8|1d6+5</attack>
     </action>
-    <description>The thirty-year-old Bear King cuts an impressive figure and is renowned for his size and strength. He tries to be honorable, but he is often merciless and doesn't change his mind easily. He has trouble relating to Ten-Towners, so he avoids them. His perspective on townsfolk might change if they helped him destroy the chardalyn berserkers who have turned against their own.
+    <description>The thirty-year-old Bear King cuts an impressive figure and is renowned for his size and strength. He tries to be honorable, but he is often merciless and doesn&apos;t change his mind easily. He has trouble relating to Ten-Towners, so he avoids them. His perspective on townsfolk might change if they helped him destroy the chardalyn berserkers who have turned against their own.
 
 Gunvald has had three wives in six years, each of whom died while she was pregnant. His advisors fear that the gods have cursed Gunvald and the entire tribe. In truth, the king's doting shaman, Ulkora, lusts for him and surreptitiously poisoned his wives. In time, Ulkora hopes Gunvald will turn his loving eye toward her and allow her to bear his true heir. If Gunvald were to learn the truth, he would put Ulkora to death.
 
@@ -2474,10 +2474,10 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 294</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>10</cr>
     <resist/>
-    <immune>fire, poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</immune>
+    <immune>fire, poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t adamantine</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
@@ -2523,7 +2523,7 @@ Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 20 (3d8 + 7) blud
 Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 23 (3d10 + 7) slashing damage.</text>
       <attack>Sword|+13|3d10+7</attack>
     </action>
-    <description>The mightiest of the golems, the iron golem is a massive, towering giant wrought of heavy metal. An iron golem's shape can be worked into any form, though most are fashioned to look like giant suits of armor. Its fist can destroy creatures with a single blow, and its clanging steps shake the earth beneath its feet. Iron golems wield enormous blades to extend their reach, and all can belch clouds of deadly poison.
+    <description>The mightiest of the golems, the iron golem is a massive, towering giant wrought of heavy metal. An iron golem&apos;s shape can be worked into any form, though most are fashioned to look like giant suits of armor. Its fist can destroy creatures with a single blow, and its clanging steps shake the earth beneath its feet. Iron golems wield enormous blades to extend their reach, and all can belch clouds of deadly poison.
 
 An iron golem's body is smelted with rare tinctures and admixtures. Though other golems bear weaknesses inherent in their materials or the power of the elemental spirit bound within them, iron golems were designed to be nearly invulnerable. Their iron bodies imprison the spirits that drive them, and are susceptible only to weapons imbued with magic or the strength of adamantine.
 
@@ -2610,7 +2610,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 215</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak, telepathy 30 ft.</languages>
+    <languages>understands the languages of its creator but can&apos;t speak, telepathy 30 ft.</languages>
     <cr>1</cr>
     <resist/>
     <immune>poison</immune>
@@ -2851,7 +2851,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 296</description>
     <save>Wis +0</save>
     <skill/>
     <passive>8</passive>
-    <languages>understands Common and Draconic but can't speak</languages>
+    <languages>understands Common and Draconic but can&apos;t speak</languages>
     <cr>1/8</cr>
     <resist/>
     <immune>poison</immune>
@@ -2936,7 +2936,7 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) pierci
 Ranged Weapon Attack: +6 to hit, range 100/400 ft., one target. Hit: 8 (1d10 + 3) piercing damage.</text>
       <attack>Heavy Crossbow|+6|1d10+3</attack>
     </action>
-    <description>The Wolf Tribe has been without a king or queen for years. Its most powerful chieftain, Isarr Kronenstrom, is a psychotic brute who worships Malar the Beast Lord. He hunts Ten-Towners for sport, bathes in their blood, and strikes fear into the hearts of his enemies. Several members of Isarr's clan have deserted him or been killed off, but the few that remain are fiercely loyal. They believe, incorrectly, that he's the Chosen of Malar.
+    <description>The Wolf Tribe has been without a king or queen for years. Its most powerful chieftain, Isarr Kronenstrom, is a psychotic brute who worships Malar the Beast Lord. He hunts Ten-Towners for sport, bathes in their blood, and strikes fear into the hearts of his enemies. Several members of Isarr&apos;s clan have deserted him or been killed off, but the few that remain are fiercely loyal. They believe, incorrectly, that he&apos;s the Chosen of Malar.
 
 Although Isarr calls himself the Wolf King, few others in the Wolf Tribe support him in that claim, but the other Wolf clan chieftains are too weak and disorganized to challenge him.
 
@@ -3057,7 +3057,7 @@ The fanatic is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spel
     </trait>
     <slots>0, 4, 3</slots>
     <spells>light, sacred flame, thaumaturgy, command, inflict wounds, shield of faith, hold person, spiritual weapon</spells>
-    <description>From this usurped office, he coordinates all cult activities in Ten-Towns. It's a role he carved out for himself by asserting that he's tight with Levistus. He rules the roost by sheer force of personality, though it chafes him that Hethyl Arkorran has more respect and influence within the cult. Kadroth doesn't involve Avarice in cult affairs because he fears her spellcasting ability and her connection to the Arcane Brotherhood. She could take over the cult anytime she wanted, and Kadroth doesn't want to give her any reason to do so.
+    <description>From this usurped office, he coordinates all cult activities in Ten-Towns. It's a role he carved out for himself by asserting that he's tight with Levistus. He rules the roost by sheer force of personality, though it chafes him that Hethyl Arkorran has more respect and influence within the cult. Kadroth doesn&apos;t involve Avarice in cult affairs because he fears her spellcasting ability and her connection to the Arcane Brotherhood. She could take over the cult anytime she wanted, and Kadroth doesn&apos;t want to give her any reason to do so.
 
 For all his political machinations, Kadroth is a visionary who has so far made the cult stronger through his actions and decisions. He spends hours behind his desk, staring into the burning fireplace and drawing inspiration from its crackling flames. The slightest disturbance upsets him.
 
@@ -3164,7 +3164,7 @@ The fanatic is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spel
     </trait>
     <slots>0, 4, 3</slots>
     <spells>light, sacred flame, thaumaturgy, command, inflict wounds, shield of faith, hold person, spiritual weapon</spells>
-    <description>Fanatics are often part of a cult's leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else.
+    <description>Fanatics are often part of a cult&apos;s leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else.
 
 Source:	Icewind Dale: Rime of the Frostmaiden p. 259</description>
     <environment/>
@@ -3210,7 +3210,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) pierci
 Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.</text>
       <attack>Tail|+4|1d4+2</attack>
     </action>
-    <description>The tasty and tenacious knucklehead trout can't easily be caught in nets. Moreover, using a line to reel in such a strong fish is a significant undertaking. Incautious fishers who get pulled into freezing water can quickly die, particularly if they're weighed down by heavy furs and cloaks.
+    <description>The tasty and tenacious knucklehead trout can&apos;t easily be caught in nets. Moreover, using a line to reel in such a strong fish is a significant undertaking. Incautious fishers who get pulled into freezing water can quickly die, particularly if they&apos;re weighed down by heavy furs and cloaks.
 
 A male knucklehead trout can weigh 70 pounds or more. The females tend to be smaller, weighing about 50 pounds. Both are prized for their ivory-like bones.
 
@@ -3277,13 +3277,13 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) pierci
 The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.</text>
       <attack>Bite|+6|1d4+4</attack>
     </action>
-    <description>The gnoll vampire Tekeli-li has a small number of kobold vampire spawn minions to keep it company in the Caves of Hunger (see chapter 6). The vampiric kobolds are terrified of the gnoll vampire and can't understand its commands, so they give Tekeli-li a wide berth. These ravenous undead kobolds thirst for blood and tend to swarm one foe at a time.
+    <description>The gnoll vampire Tekeli-li has a small number of kobold vampire spawn minions to keep it company in the Caves of Hunger (see chapter 6). The vampiric kobolds are terrified of the gnoll vampire and can&apos;t understand its commands, so they give Tekeli-li a wide berth. These ravenous undead kobolds thirst for blood and tend to swarm one foe at a time.
 
 Source:	Icewind Dale: Rime of the Frostmaiden p. 297</description>
     <environment/>
   </monster>
   <monster>
-    <name>Living Bigby's Hand</name>
+    <name>Living Bigby&apos;s Hand</name>
     <size>L</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -3330,7 +3330,7 @@ If the target is a Large or smaller creature, the living spell can move it up to
 The living spell attempts to grab a Huge or smaller creature within 5 feet of it. The target must succeed on a DC 15 Dexterity saving throw or be grappled (escape DC 15). Until the grapple ends, the target takes 15 (2d6 + 8) bludgeoning damage at the start of each of its turns. The living spell can grapple only one creature at a time and can't use Force Fist until the grapple ends.</text>
       <attack>Grasping Hand||2d6+8</attack>
     </action>
-    <description>A living Bigby's hand is a Large, hovering hand of shimmering, translucent force. It often serves as a guardian, attacking creatures that cross its path while remaining loyal to its caster.
+    <description>A living Bigby&apos;s hand is a Large, hovering hand of shimmering, translucent force. It often serves as a guardian, attacking creatures that cross its path while remaining loyal to its caster.
 
 Areas of wild magic and sites that have been ravaged by powerful eldritch forces can give rise to spell effects that become living beings. These so-called living spells haunt the places where they were created, subsisting on ambient magical energy.
 
@@ -3506,7 +3506,7 @@ Each non-undead creature within 60 feet of the banshee that can see her must suc
 The banshee releases a mournful wail, provided that she isn't in sunlight. This wail has no effect on constructs and undead. All other creatures within 30 feet of her that can hear her must make a DC 13 Constitution saving throw. On a failure, a creature drops to 0 hit points. On a success, a creature takes 10 (3d6) psychic damage.</text>
       <attack>Wail (1/Day)||3d6</attack>
     </action>
-    <description>This banshee is the spectral remnant of a female elf warrior who was banished for a selfish, evil act. It wields a spectral longbow that shoots phantom arrows. There is only one banshee haunting the forest. If it's destroyed, it re-forms after 24 hours in a random location in the forest, damned to its eternal exile.
+    <description>This banshee is the spectral remnant of a female elf warrior who was banished for a selfish, evil act. It wields a spectral longbow that shoots phantom arrows. There is only one banshee haunting the forest. If it&apos;s destroyed, it re-forms after 24 hours in a random location in the forest, damned to its eternal exile.
 
 Source:	Icewind Dale: Rime of the Frostmaiden p. 81</description>
     <environment/>
@@ -3552,7 +3552,7 @@ Mjenir is a 4th-level spellcaster. His spellcasting ability is Wisdom (spell sav
     </trait>
     <slots>0, 4, 3</slots>
     <spells>druidcraft, produce flame, shillelagh, entangle, longstrider, speak with animals, thunderwave, animal messenger, barkskin</spells>
-    <description>With grand events having been set in motion, those sensitive to prophecy have begun to experience dreams and visions. One such person is Mjenir, a fifty-year-old shaman of the Reghed Elk Tribe, who received a vision about the characters' journey to the Reghed Glacier.
+    <description>With grand events having been set in motion, those sensitive to prophecy have begun to experience dreams and visions. One such person is Mjenir, a fifty-year-old shaman of the Reghed Elk Tribe, who received a vision about the characters&apos; journey to the Reghed Glacier.
 
 Druids dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are tribal shamans who heal the sick, pray to animal spirits, and provide spiritual guidance.
 
@@ -3601,7 +3601,7 @@ The goat has advantage on Strength and Dexterity saving throws made against effe
 Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.</text>
       <attack>Ram|+4|1d6+2</attack>
     </action>
-    <description>Mountain goats are found throughout the Spine of the World and on the slopes of Kelvin's Cairn, their thick fur and layers of body fat protecting them from the extreme cold. They are expert climbers, able to leap and bound up sheer slopes.
+    <description>Mountain goats are found throughout the Spine of the World and on the slopes of Kelvin&apos;s Cairn, their thick fur and layers of body fat protecting them from the extreme cold. They are expert climbers, able to leap and bound up sheer slopes.
 
 Mountain goats are territorial but easily placated with offerings of food. Their stubbornness makes them difficult to domesticate.
 
@@ -3609,7 +3609,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 304</description>
     <environment/>
   </monster>
   <monster>
-    <name>Nass Lantomir's Ghost</name>
+    <name>Nass Lantomir&apos;s Ghost</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -3676,7 +3676,7 @@ The ghost is a 6th-level spellcaster. Its spellcasting ability is Intelligence (
     </trait>
     <slots>0, 4, 3, 3</slots>
     <spells>mage hand, message, prestidigitation, ray of frost, detect magic, thunderwave, counterspell</spells>
-    <description>Nass Lantomir was an apprentice of Zelenn the White, one of five archmages who oversee the Arcane Brotherhood. Nass and Zelenn's relationship started off well, but in recent years it has become painfully obvious to Zelenn that Nass has been slow to master the arcane tradition of divination. Zelenn's suggestion that Nass leave the Hosttower of the Arcane and gain experience abroad left Nass feeling unwanted. After much thought, however, Nass came around to the idea. She could put her magic to the test and carve out a name for herself.
+    <description>Nass Lantomir was an apprentice of Zelenn the White, one of five archmages who oversee the Arcane Brotherhood. Nass and Zelenn&apos;s relationship started off well, but in recent years it has become painfully obvious to Zelenn that Nass has been slow to master the arcane tradition of divination. Zelenn&apos;s suggestion that Nass leave the Hosttower of the Arcane and gain experience abroad left Nass feeling unwanted. After much thought, however, Nass came around to the idea. She could put her magic to the test and carve out a name for herself.
 
 As she was preparing to leave the Hosttower, Nass overheard her master talking to another wizard about a covert expedition to Icewind Dale being undertaken to seek out long-lost magic from a bygone empire. Rather than carry out her original plan, Nass followed her fellow wizards to Icewind Dale. She caught up to them in Bryn Shander and made her presence known, claiming she was sent by her master to aid the expedition with her divinations. Egos and frayed nerves caused the group to split up shortly thereafter, with each wizard determined to succeed alone.
 
@@ -3740,7 +3740,7 @@ Prisoner 237 is a 5th-level spellcaster. His spellcasting ability is Intelligenc
     </trait>
     <slots>0, 4, 3, 2</slots>
     <spells>light, message, prestidigitation, shocking grasp, mage armor, shield, sleep, arcane lock, detect thoughts, suggestion, counterspell, lightning bolt</spells>
-    <description>Vaelish Gant, Prisoner 237 within the walls of Revel's End, is a member of the Arcane Brotherhood who first engaged in criminal activity by insinuating himself into the trade network of Ten-Towns. He hoped that his work would help the Arcane Brotherhood gain control of the region. A few years ago, shortly after his arrival in Ten-Towns, Gant established a protection racket in Bryn Shander and tried to turn the town against its speaker, Duvessa Shane, with the goal of supplanting her. He also tried to destabilize the economy of Ten-Towns. A party of adventurers thwarted his criminal ventures by capturing him.
+    <description>Vaelish Gant, Prisoner 237 within the walls of Revel&apos;s End, is a member of the Arcane Brotherhood who first engaged in criminal activity by insinuating himself into the trade network of Ten-Towns. He hoped that his work would help the Arcane Brotherhood gain control of the region. A few years ago, shortly after his arrival in Ten-Towns, Gant established a protection racket in Bryn Shander and tried to turn the town against its speaker, Duvessa Shane, with the goal of supplanting her. He also tried to destabilize the economy of Ten-Towns. A party of adventurers thwarted his criminal ventures by capturing him.
 
 Rather than put Gant to death for his crimes in Icewind Dale, the Council of Speakers in Ten-Towns made a deal with representatives of the Lords' Alliance to have Gant serve a life sentence in Revel's End, so as not to incur the Arcane Brotherhood's wrath. The Council of Speakers did this not realizing that Gant's scheme wasn't sanctioned by the Arcane Brotherhood but rather hatched by Gant himself, who intended to impress his superiors by pulling it off.
 
@@ -4125,7 +4125,7 @@ Sephek can innately cast misty step up to three times per day, requiring no comp
 	• At will: misty step</text>
     </trait>
     <spells>misty step</spells>
-    <description>Sephek Kaltro is a well-built man in his thirties. He has an olive complexion, dark hair pulled back in a ponytail, and no facial or body hair. He is dressed in a stylish vest with matching pants and boots, similar in style to those worn by mariners of the southern Sword Coast, but wears no armor or cold weather clothing and doesn't appear to be armed. His most striking feature is his eyes, which are as blue as a frozen lake.
+    <description>Sephek Kaltro is a well-built man in his thirties. He has an olive complexion, dark hair pulled back in a ponytail, and no facial or body hair. He is dressed in a stylish vest with matching pants and boots, similar in style to those worn by mariners of the southern Sword Coast, but wears no armor or cold weather clothing and doesn&apos;t appear to be armed. His most striking feature is his eyes, which are as blue as a frozen lake.
 
 Source:	Icewind Dale: Rime of the Frostmaiden p. 23</description>
     <environment/>
@@ -4508,7 +4508,7 @@ The Telepathic Pentacle makes as many bite attacks as it has heads.</text>
 Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) piercing damage.</text>
       <attack>Bite|+8|1d10+5</attack>
     </action>
-    <description>Months before Ythryn's fall, a circle of mages known as the Telepathic Pentacle tried to fuse their minds together to become a conjoined telepathic force. The procedure went terribly wrong, and their bodies and minds melded into a single monstrosity. Iriolarthas imprisoned the thing in this empty well so that its latent telepathic powers could be tapped by the city's elite. A short obituary is engraved around the lip of the well in Draconic: "Herein lie the immortal remains of the Telepathic Pentacle. Sit, meditate, and learn."
+    <description>Months before Ythryn&apos;s fall, a circle of mages known as the Telepathic Pentacle tried to fuse their minds together to become a conjoined telepathic force. The procedure went terribly wrong, and their bodies and minds melded into a single monstrosity. Iriolarthas imprisoned the thing in this empty well so that its latent telepathic powers could be tapped by the city&apos;s elite. A short obituary is engraved around the lip of the well in Draconic: "Herein lie the immortal remains of the Telepathic Pentacle. Sit, meditate, and learn."
 Source:	Icewind Dale: Rime of the Frostmaiden p. 244</description>
     <environment/>
   </monster>
@@ -4529,7 +4529,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 244</description>
     <save/>
     <skill>Perception +6</skill>
     <passive>16</passive>
-    <languages>understands Common and Undercommon but doesn't speak, telepathy 60 ft.</languages>
+    <languages>understands Common and Undercommon but doesn&apos;t speak, telepathy 60 ft.</languages>
     <cr>10</cr>
     <resist>lightning</resist>
     <immune>cold, fire</immune>
@@ -4679,7 +4679,7 @@ Vellynne is an 8th-level spellcaster. Her spellcasting ability is Intelligence (
 	• 4th level (2 slots): arcane eye, blight</text>
     </trait>
     <slots>0, 4, 3, 3, 2</slots>
-    <spells>chill touch, light, mage hand, message, prestidigitation, comprehend languages, detect magic, ray of sickness, Tasha's hideous laughter, darkvision, hold person, ray of enfeeblement, animate dead, Leomund's tiny hut, vampiric touch, arcane eye, blight</spells>
+    <spells>chill touch, light, mage hand, message, prestidigitation, comprehend languages, detect magic, ray of sickness, Tasha&apos;s hideous laughter, darkvision, hold person, ray of enfeeblement, animate dead, Leomund&apos;s tiny hut, vampiric touch, arcane eye, blight</spells>
     <description>Vellynne Harpell is a member of the prestigious Harpell family, based in the town of Longsaddle. Cold and dispassionate, she took to magic only a decade ago in her late forties and is skilled in the arcane tradition of necromancy. She has a lifelong struggle—a nervous disorder that manifests as trembling. It can affect her balance and her stride, but she has learned to cast her spells unimpeded by it.
 
 Despite her firm grasp of the dark arts, she would not have been admitted into the Arcane Brotherhood without her family connections—a fact that sticks in her craw.
@@ -4956,7 +4956,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 287</description>
     <save/>
     <skill/>
     <passive>9</passive>
-    <languages>understands Yeti but can't speak</languages>
+    <languages>understands Yeti but can&apos;t speak</languages>
     <cr>1/8</cr>
     <resist/>
     <immune>cold</immune>

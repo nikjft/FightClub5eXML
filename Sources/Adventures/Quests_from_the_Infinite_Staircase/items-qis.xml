@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Daoud's Wondrous Lanthorn</name>
+    <name>Daoud&apos;s Wondrous Lanthorn</name>
     <type>W</type>
     <magic>1</magic>
     <detail>artifact (requires attunement)</detail>
@@ -85,7 +85,7 @@ Source:	Quests from the Infinite Staircase p. 191</text>
     <magic>1</magic>
     <weight>4</weight>
     <detail>rare (requires attunement)</detail>
-    <text>An ornate carving of a serpent adorned with a coursing river spirals down the length of this redand-gold staff. While you're holding it, you can use an action to produce one of the following effects. Once the staff has produced an effect, it can't produce that effect again until the next dawn.
+    <text>An ornate carving of a serpent adorned with a coursing river spirals down the length of this redand-gold staff. While you&apos;re holding it, you can use an action to produce one of the following effects. Once the staff has produced an effect, it can&apos;t produce that effect again until the next dawn.
 
 Orb of Lightning:
 You create a Small orb of lightning in an unoccupied space you can see within 60 feet of yourself. You concentrate on this orb as if concentration on a spell. As a bonus action, you can move the orb up to 20 feet in any direction.

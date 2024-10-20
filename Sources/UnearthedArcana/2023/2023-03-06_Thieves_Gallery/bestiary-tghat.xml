@@ -25,7 +25,7 @@
     <passive>17</passive>
     <languages>Common, Druidic, Elvish, Infernal, Sylvan</languages>
     <cr>5</cr>
-    <description>The tiefling Doric was taken in by a wood elf enclave in Neverwinter Wood after being abandoned as a child, and she guards her adoptive community with nature's ferocity. The Circle of the Moon has taught her to heed her primal instincts, which rarely lead her astray. She can be brusque, but she will fight tooth and nail for a cause she believes in.
+    <description>The tiefling Doric was taken in by a wood elf enclave in Neverwinter Wood after being abandoned as a child, and she guards her adoptive community with nature&apos;s ferocity. The Circle of the Moon has taught her to heed her primal instincts, which rarely lead her astray. She can be brusque, but she will fight tooth and nail for a cause she believes in.
 
 Doric has joined the Emerald Enclave, a network of survivalists who tend to the balance between civilization and nature. When the Lord of Neverwinter targeted her woodland home for its resources, Doric rallied the resistance.
 
@@ -99,7 +99,7 @@ When Doric is damaged by a creature that she can see within 60 feet of herself, 
     <passive>13</passive>
     <languages>Common</languages>
     <cr>5</cr>
-    <description>Edgin Darvis has a talent for improvisation and strategy. He's a musician and tale-teller who relies on charisma first—rather than magic or muscle—to escape trouble. Once a member of the Harpers, a spy organization dedicated to protecting Faerûn's common folk, Edgin has forsworn his oath and turned to thievery to support his family. Edgin's strong moral compass compels him to steal only from people he believes deserve to lose both coin and face.
+    <description>Edgin Darvis has a talent for improvisation and strategy. He's a musician and tale-teller who relies on charisma first—rather than magic or muscle—to escape trouble. Once a member of the Harpers, a spy organization dedicated to protecting Faerûn&apos;s common folk, Edgin has forsworn his oath and turned to thievery to support his family. Edgin&apos;s strong moral compass compels him to steal only from people he believes deserve to lose both coin and face.
 
 Edgin's confidence and rakish demeanor make him a natural leader. With carefully chosen words, he inspires the members of his thieves' crew to greatness. But when his past mistakes come calling, Edgin must face the music. He now seeks to make amends to those he's wronged and to confront those who have wronged him.
 
@@ -249,7 +249,7 @@ Forge halves the damage he takes from an attack that hits him. He must be able t
     <passive>13</passive>
     <languages>Common, Halfling</languages>
     <cr>5</cr>
-    <description>Holga Kilgore is a member of the Uthgardt Elk Tribe, and her strength and scowl conceal a generous heart. She's a woman of few words who lets her actions (and punches) speak for her. A fearsome combatant when her ire is up, Holga wields anything that comes to hand—from weapons to snacks. Her unwavering loyalty makes her a fierce defender of allies, particularly her best friend, Edgin.
+    <description>Holga Kilgore is a member of the Uthgardt Elk Tribe, and her strength and scowl conceal a generous heart. She&apos;s a woman of few words who lets her actions (and punches) speak for her. A fearsome combatant when her ire is up, Holga wields anything that comes to hand—from weapons to snacks. Her unwavering loyalty makes her a fierce defender of allies, particularly her best friend, Edgin.
 
 After Holga was exiled from her clan, she wandered unmoored and craving connection. Now that she has forged a new home with Edgin and his band of thieves, she won't lose another family without a fight.
 
@@ -321,7 +321,7 @@ Holga shoves a creature within 5 feet of herself. That creature must succeed on 
     <passive>11</passive>
     <languages>Common, Draconic, Elvish</languages>
     <cr>5</cr>
-    <description>Simon Aumar suffers under the weight of his family name. Though he is a descendent of an elf and the legendary wizard Elminster Aumar, Simon's own sorcerous wild magic runs uncontrolled through his veins. Simon has not yet developed the ability to harness his power, and his spells explode or fizzle seemingly at random.
+    <description>Simon Aumar suffers under the weight of his family name. Though he is a descendent of an elf and the legendary wizard Elminster Aumar, Simon&apos;s own sorcerous wild magic runs uncontrolled through his veins. Simon has not yet developed the ability to harness his power, and his spells explode or fizzle seemingly at random.
 
 Though he's dogged by doubt, the brave young mage has earned his place in Edgin's crew. He performs best under pressure, instinctively unleashing his magic in dire moments. How he will continue to unlock his potential and what he will do with his volatile gift are yet to be seen.
 
@@ -378,7 +378,7 @@ Roll a d6. On a roll of 1, Simon must roll on the Wild Magic Surge table in the 
       <text>
 When Simon or another creature he can see within 10 feet of himself would take damage, he conjures a shimmering, 10-foot-radius sphere of magical force centered on himself. Creatures inside the sphere have resistance to the damage that triggered this reaction.</text>
     </reaction>
-    <spells>mage hand, minor illusion, prestidigitation, speak with dead, fog cloud, mage armor, magic missile, spider climb, Bigby's hand, major image</spells>
+    <spells>mage hand, minor illusion, prestidigitation, speak with dead, fog cloud, mage armor, magic missile, spider climb, Bigby&apos;s hand, major image</spells>
   </monster>
   <monster>
     <name>Sofina</name>
@@ -405,7 +405,7 @@ When Simon or another creature he can see within 10 feet of himself would take d
     <passive>12</passive>
     <languages>Abyssal, Common, Draconic, Infernal, Thayan</languages>
     <cr>15</cr>
-    <description>Sofina is a Red Wizard of Thay, an elite practitioner of magic with ties to Thay's tyrannical magocracy. Sofina specializes in necromancy. Death magic and fear are both tools in her arsenal.
+    <description>Sofina is a Red Wizard of Thay, an elite practitioner of magic with ties to Thay&apos;s tyrannical magocracy. Sofina specializes in necromancy. Death magic and fear are both tools in her arsenal.
 
 As Red Wizards are shunned outside Thay, Sofina conceals her affiliations and coldly rebuffs any who seek her friendship. A canny operator, she has patiently moved her pieces into place, and her grand designs now begin to take shape.
 
@@ -450,7 +450,7 @@ Sofina magically calls down a meteor swarm that detonates in four 40-foot-radius
       <text>
 Sofina magically summons the spirit of a Thayan assassin, which appears as a wraith (see the Monster Manual). The summoned wraith appears in an unoccupied space within 60 feet of Sofina, whom it obeys. The summoned wraith takes its turn immediately after Sofina. It lasts for 1 hour, until it or Sofina dies, or until Sofina dismisses it as a bonus action.</text>
     </action>
-    <spells>mage hand, message, prestidigitation, bestow curse, Bigby's hand, dimension door, mage armor, Otiluke's resilient sphere, thunderwave, Evard's black tentacles, finger of death, time stop</spells>
+    <spells>mage hand, message, prestidigitation, bestow curse, Bigby's hand, dimension door, mage armor, Otiluke&apos;s resilient sphere, thunderwave, Evard&apos;s black tentacles, finger of death, time stop</spells>
   </monster>
   <monster>
     <name>Xenk Yendar</name>

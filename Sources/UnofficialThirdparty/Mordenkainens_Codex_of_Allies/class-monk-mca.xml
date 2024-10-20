@@ -91,15 +91,15 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 16 (Homebrew)</text>
     <autolevel level="11">
       <feature optional="YES">
         <name>Way of the Nomad (HB): Transposition</name>
-        <text>Starting at 11th level if you haven't moved yet on your turn, as an action you can spend 4 ki points choose one creature you can see within 120 feet of you. The creature must make a Wisdom saving throw against your Ki save DC. On a failed save, you and that creature teleport, swapping places, and your speed is reduced to 0 until the beginning of your next turn. This ability fails and is wasted if either of you can't fit in the destination space. Allies can choose to willingly fail this saving throw.
+        <text>Starting at 11th level if you haven&apos;t moved yet on your turn, as an action you can spend 4 ki points choose one creature you can see within 120 feet of you. The creature must make a Wisdom saving throw against your Ki save DC. On a failed save, you and that creature teleport, swapping places, and your speed is reduced to 0 until the beginning of your next turn. This ability fails and is wasted if either of you can&apos;t fit in the destination space. Allies can choose to willingly fail this saving throw.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 16 (Homebrew)</text>
       </feature>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Way of the Nomad (HB): Nomad's Caravan</name>
-        <text>Starting at 17th level, once during your turn when you teleport you may choose up to six allies you can see that are within 30 feet of you and spend 1 ki point for each ally to teleport the chosen allies along with you. Each ally appears within 5 feet of your destination space. If there isn't an open space for all the targets to occupy at the arrival point, this ability fails and is wasted.
+        <name>Way of the Nomad (HB): Nomad&apos;s Caravan</name>
+        <text>Starting at 17th level, once during your turn when you teleport you may choose up to six allies you can see that are within 30 feet of you and spend 1 ki point for each ally to teleport the chosen allies along with you. Each ally appears within 5 feet of your destination space. If there isn&apos;t an open space for all the targets to occupy at the arrival point, this ability fails and is wasted.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 16 (Homebrew)</text>
       </feature>
@@ -114,7 +114,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 16 (Homebrew)</text>
 Source:	Mordenkainen's Codex of Allies v1.3 p. 17 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Way of the Storm Fist (HB): Lightning's Strike</name>
+        <name>Way of the Storm Fist (HB): Lightning&apos;s Strike</name>
         <text>Starting when you choose this tradition at 3rd level, you learn the shocking grasp cantrip.
 
 Whenever you make an unarmed strike, you can you use your reaction and spend 1 ki point to empower your fist with lightning. An unarmed strike made in this way has advantage on the attack roll if the target is wearing armor made of metal. The attack deals its normal damage and you can cast shocking grasp as part of that attack, using the attack roll of your unarmed strike for the melee spell attack of your shocking grasp.
@@ -149,7 +149,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 17 (Homebrew)</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Way of the Storm Fist (HB): Ride the Lightning</name>
-        <text>Starting at 17th level, as an action, you may spend 6 ki points to let loose a line of lightning that is 60 feet long and 5 feet wide. Each creature in the line must make a Dexterity saving throw against your Ki save DC, taking 5d8 lightning damage on a failed save, or half as much damage on a successful one. You can then teleport to an unoccupied space touched by the line. You can spend a number of additional ki points up to half your monk level when you use this ability. You can increase this ability's damage by 1d8 per additional ki point spent on it.
+        <text>Starting at 17th level, as an action, you may spend 6 ki points to let loose a line of lightning that is 60 feet long and 5 feet wide. Each creature in the line must make a Dexterity saving throw against your Ki save DC, taking 5d8 lightning damage on a failed save, or half as much damage on a successful one. You can then teleport to an unoccupied space touched by the line. You can spend a number of additional ki points up to half your monk level when you use this ability. You can increase this ability&apos;s damage by 1d8 per additional ki point spent on it.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 17 (Homebrew)</text>
       </feature>
@@ -187,7 +187,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 18 (Homebrew)</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Way of Tranquility (HB): Emissary of Peace</name>
-        <text>At 6th level, you gain the ability to diffuse violent situations. Whenever you make a Charisma check to calm violent emotions or to counsel peace, you have advantage on the roll. You must make this entreaty in good faith; it doesn't apply if proficiency in the Deception or Intimidation skill applies to your check.
+        <text>At 6th level, you gain the ability to diffuse violent situations. Whenever you make a Charisma check to calm violent emotions or to counsel peace, you have advantage on the roll. You must make this entreaty in good faith; it doesn&apos;t apply if proficiency in the Deception or Intimidation skill applies to your check.
 
 You also gain proficiency in the Insight, Performance or Persuasion skill (choose one).
 
@@ -197,7 +197,7 @@ Source:	Mordenkainen's Codex of Allies v1.3 p. 18 (Homebrew)</text>
     <autolevel level="11">
       <feature optional="YES">
         <name>Way of Tranquility (HB): Returning Veil</name>
-        <text>Starting at 11th level, you can use the force of ki to send a creature's attacks back at it. As a bonus action, you can spend 2 ki points to seize control of the flow of ki around you to create a protective veil that can bounce back an attack. Until the end of your next turn, attack rolls against you have disadvantage, and when a creature you can see misses you with a melee attack, you can use your reaction to force the creature to repeat the attack roll against itself.
+        <text>Starting at 11th level, you can use the force of ki to send a creature&apos;s attacks back at it. As a bonus action, you can spend 2 ki points to seize control of the flow of ki around you to create a protective veil that can bounce back an attack. Until the end of your next turn, attack rolls against you have disadvantage, and when a creature you can see misses you with a melee attack, you can use your reaction to force the creature to repeat the attack roll against itself.
 
 Source:	Mordenkainen's Codex of Allies v1.3 p. 18 (Homebrew)</text>
       </feature>

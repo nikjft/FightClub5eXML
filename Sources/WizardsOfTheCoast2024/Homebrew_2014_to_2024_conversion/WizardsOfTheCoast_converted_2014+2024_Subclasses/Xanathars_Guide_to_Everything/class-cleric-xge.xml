@@ -25,7 +25,7 @@ Source:	Xanathar's Guide to Everything p. 18</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Forge Domain: Bonus Proficiency [2014]</name>
-        <text>When you choose this domain at 1st level, you gain proficiency with heavy armor and smith's tools.
+        <text>When you choose this domain at 1st level, you gain proficiency with heavy armor and smith&apos;s tools.
 
 Source:	Xanathar's Guide to Everything p. 19</text>
       </feature>
@@ -34,7 +34,7 @@ Source:	Xanathar's Guide to Everything p. 19</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Forge Domain: Blessing of the Forge [2014]</name>
-        <text>At 1st level, you gain the ability to imbue magic into a weapon or armor. At the end of a long rest, you can touch one nonmagical object that is a suit of armor or a simple or martial weapon. Until the end of your next long rest or until you die, the object becomes a magic item, granting a +1 bonus to AC if it's armor or a +1 bonus to attack and damage rolls if it's a weapon.
+        <text>At 1st level, you gain the ability to imbue magic into a weapon or armor. At the end of a long rest, you can touch one nonmagical object that is a suit of armor or a simple or martial weapon. Until the end of your next long rest or until you die, the object becomes a magic item, granting a +1 bonus to AC if it&apos;s armor or a +1 bonus to attack and damage rolls if it&apos;s a weapon.
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
@@ -87,7 +87,7 @@ Source:	Xanathar's Guide to Everything p. 20</text>
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Forge Domain: Channel Divinity: Artisan's Blessing [2014]</name>
+        <name>Forge Domain: Channel Divinity: Artisan&apos;s Blessing [2014]</name>
         <text>Starting at 2nd level, you can use your Channel Divinity to create simple items.
 
 You conduct an hour-long ritual that crafts a nonmagical item that must include some metal: a simple or martial weapon, a suit of armor, ten pieces of ammunition, a set of tools, or another metal object (see chapter 5, "Equipment," in the Player's Handbook for examples of these items). The creation is completed at the end of the hour, coalescing in an unoccupied space of your choice on a surface within 5 feet of you.
@@ -101,7 +101,7 @@ Source:	Xanathar's Guide to Everything p. 19</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Grave Domain: Channel Divinity: Path to the Grave [2014]</name>
-        <text>Starting at 2nd level, you can use your Channel Divinity to mark another creature's life force for termination.
+        <text>Starting at 2nd level, you can use your Channel Divinity to mark another creature&apos;s life force for termination.
 
 As an action, you choose one creature you can see within 30 feet of you, cursing it until the end of your next turn. The next time you or an ally of yours hits the cursed creature with an attack, the creature has vulnerability to all of that attack's damage, and then the curse ends.
 
@@ -123,8 +123,8 @@ Source:	Xanathar's Guide to Everything p. 19</text>
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Grave Domain: Sentinel at Death's Door [2014]</name>
-        <text>At 6th level, you gain the ability to impede death's progress.
+        <name>Grave Domain: Sentinel at Death&apos;s Door [2014]</name>
+        <text>At 6th level, you gain the ability to impede death&apos;s progress.
 
 As a reaction when you or a creature you can see within 30 feet of you suffers a critical hit, you can turn that hit into a normal hit. Any effects triggered by a critical hit are canceled.
 
@@ -167,7 +167,7 @@ Source:	Xanathar's Guide to Everything p. 19</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Grave Domain: Keeper of Souls [2014]</name>
-        <text>Starting at 17th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature only if you aren't incapacitated. Once you use it, you can't do so again until the start of your next turn.
+        <text>Starting at 17th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature only if you aren&apos;t incapacitated. Once you use it, you can&apos;t do so again until the start of your next turn.
 
 Source:	Xanathar's Guide to Everything p. 20</text>
       </feature>

@@ -16,7 +16,7 @@ Source:	LaserLlama: Druid Circles v2.1.0 p. 2 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Circle of the Ancients (HB): Circle Spells</name>
-        <text>When you reach certain Druid levels, you gain access to the spells listed below. They count as Druid spells for you, and you always have them prepared, but they don't count against the number of spells you prepare each day.
+        <text>When you reach certain Druid levels, you gain access to the spells listed below. They count as Druid spells for you, and you always have them prepared, but they don&apos;t count against the number of spells you prepare each day.
 
 Circle of the Ancients Spells:
 Druid Level | Spells
@@ -81,7 +81,7 @@ Source:	LaserLlama: Druid Circles v2.1.0 p. 3 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Circle of the Depths (HB): Circle Spells</name>
-        <text>Your time in the endless dark grants you deep magics. You learn mind sliver. It counts as a Druid cantrip for you, but doesn't count against your number of Cantrips Known.
+        <text>Your time in the endless dark grants you deep magics. You learn mind sliver. It counts as a Druid cantrip for you, but doesn&apos;t count against your number of Cantrips Known.
 
 When you reach certain Druid levels, you gain access to the spells in the table below. They count as Druid spells for you, and you always have them prepared, but they don't count against the number of spells you prepare each day.
 
@@ -166,7 +166,7 @@ Source:	LaserLlama: Druid Circles v2.1.0 p. 4 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Circle of the Guardians (HB): Circle Spells</name>
-        <text>Your link with your primal grove grants you access to certain spells. When you reach certain Druid levels, you gain access to the spells in the table below. They count as Druid spells for you, and you always have them prepared, but they don't count against the total number of spells you prepare each day.
+        <text>Your link with your primal grove grants you access to certain spells. When you reach certain Druid levels, you gain access to the spells in the table below. They count as Druid spells for you, and you always have them prepared, but they don&apos;t count against the total number of spells you prepare each day.
 
 Circle of the Guardians Spells:
 Druid Level | Spells
@@ -300,13 +300,13 @@ Source:	LaserLlama: Druid Circles v2.1.0 p. 6 (Homebrew)</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Druid Circle: Circle of Scales (HB)</name>
-        <text>Your elder dragon grants you access to certain spells. When you reach certain Druid levels, you gain access to the spells in the table below. They count as Druid spells for you, and you always have them prepared, but they don't count against the total number of Druid spells you can prepare each day.
+        <text>Your elder dragon grants you access to certain spells. When you reach certain Druid levels, you gain access to the spells in the table below. They count as Druid spells for you, and you always have them prepared, but they don&apos;t count against the total number of Druid spells you can prepare each day.
 
 Source:	LaserLlama: Druid Circles v2.1.0 p. 6 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Circle of Scales (HB): Circle Spells</name>
-        <text>Your elder dragon grants you access to certain spells. When you reach certain Druid levels, you gain access to the spells in the table below. They count as Druid spells for you, and you always have them prepared, but they don't count against the total number of Druid spells you can prepare each day.
+        <text>Your elder dragon grants you access to certain spells. When you reach certain Druid levels, you gain access to the spells in the table below. They count as Druid spells for you, and you always have them prepared, but they don&apos;t count against the total number of Druid spells you can prepare each day.
 
 Circle of Scales Spells:
 Druid Level | Spells
@@ -320,7 +320,7 @@ Source:	LaserLlama: Druid Circles v2.1.0 p. 7 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Circle of Scales (HB): Gift of the Elder Dragon</name>
-        <text>When you join this Circle you pledge yourself in service to a great dragon. Choose the scale color of the dragon you serve. You gain resistance to the damage type associated with your elder dragon's Element on the table below.
+        <text>When you join this Circle you pledge yourself in service to a great dragon. Choose the scale color of the dragon you serve. You gain resistance to the damage type associated with your elder dragon&apos;s Element on the table below.
 
 Elder Dragon Elements:
 Color| Element
@@ -365,7 +365,7 @@ Source:	LaserLlama: Druid Circles v2.1.0 p. 7 (Homebrew)</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Circle of Scales (HB): Infused Strikes</name>
-        <text>When you empower your Wild Shape transformation with draconic magic, your beast's natural weapon attacks deal the damage type of your dragon's Element.
+        <text>When you empower your Wild Shape transformation with draconic magic, your beast&apos;s natural weapon attacks deal the damage type of your dragon&apos;s Element.
 
 In addition, you can now Wild Shape into a beast with a CR as high as your Druid level divided by 3, rounded down.
 
@@ -536,7 +536,7 @@ Source:	LaserLlama: Druid Circles v2.1.0 p. 9 (Homebrew)</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Circle of the Swarm (HB): From Many, One</name>
-        <text>You and the multitudes you protect have become one being. When you are reduced to 0 hit points, but are not killed outright, you can expend a use of Wild Shape to turn into a swarm of beasts with a Challenge Rating of 1/2 or lower, and immediately move up to the swarm's walking, flying, or climbing speed without provoking opportunity attacks.
+        <text>You and the multitudes you protect have become one being. When you are reduced to 0 hit points, but are not killed outright, you can expend a use of Wild Shape to turn into a swarm of beasts with a Challenge Rating of 1/2 or lower, and immediately move up to the swarm&apos;s walking, flying, or climbing speed without provoking opportunity attacks.
 
 Once you use this feature you must finish a long rest before you can use your Wild Shape in this way again.
 
@@ -569,7 +569,7 @@ Druid Level | Spells
 Source:	LaserLlama: Druid Circles v2.1.0 p. 10 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Circle of the Tempest (HB): Nature's Wrath</name>
+        <name>Circle of the Tempest (HB): Nature&apos;s Wrath</name>
         <text>You can channel the destructive power of nature. When you cast a Druid spell that deals lightning or thunder damage, you can expend a use of Wild Shape and cause it to deal maximum damage to one target, instead of rolling.
 
 Source:	LaserLlama: Druid Circles v2.1.0 p. 10 (Homebrew)</text>
@@ -734,7 +734,7 @@ Source:	LaserLlama: Druid Circles v2.1.0 p. 12 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Alternate Circle of the Land (HB): Nature's Ward</name>
+        <name>Alternate Circle of the Land (HB): Nature&apos;s Ward</name>
         <text>You are able to adapt to the hostile effects of nearly any wild place. When you finish a short or long rest, choose one of the following damage types: acid, cold, fire, lightning, poison, or thunder. You gain resistance to that type of damage until the end of your next short or long rest.
 
 Source:	LaserLlama: Druid Circles v2.1.0 p. 12 (Homebrew)</text>
@@ -742,7 +742,7 @@ Source:	LaserLlama: Druid Circles v2.1.0 p. 12 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Alternate Circle of the Land (HB): Nature's Sanctuary</name>
+        <name>Alternate Circle of the Land (HB): Nature&apos;s Sanctuary</name>
         <text>Creatures of the natural world can sense your devotion to nature and are hesitant to attack you. When a beast or plant attacks you, you can force it to make a Wisdom saving throw. On a failure, the attack automatically misses. On a success, the creature is immune to this effect for 24 hours.
 
 Beasts and plants with a Wisdom of 4 or higher are aware of this effect before they make their attack against you.

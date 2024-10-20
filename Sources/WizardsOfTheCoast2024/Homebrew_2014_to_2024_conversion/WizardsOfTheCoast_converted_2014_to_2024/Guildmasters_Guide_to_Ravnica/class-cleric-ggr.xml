@@ -47,7 +47,7 @@ Source:	Guildmasters' Guide to Ravnica p. 25</text>
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Order Domain: Channel Divinity: Order's Demand</name>
+        <name>Order Domain: Channel Divinity: Order&apos;s Demand</name>
         <text>Starting at 2nd level, you can use your Channel Divinity to exert an intimidating presence over others.
 
 As an action, you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or be charmed by you until the end of your next turn or until the charmed creature takes any damage. You can also cause any of the charmed creatures to drop what they are holding when they fail the saving throw.
@@ -90,7 +90,7 @@ Source:	Guildmasters' Guide to Ravnica p. 25</text>
 
     <autolevel level="17">
       <feature optional="YES">
-        <name>Order Domain: Order's Wrath</name>
+        <name>Order Domain: Order&apos;s Wrath</name>
         <text>Starting at 17th level, enemies you designate for destruction wilt under the combined efforts of you and your allies. If you deal your Divine Strike damage to a creature on your turn, you can curse that creature until the start of your next turn. The next time one of your allies hits the cursed creature with an attack, the target also takes 2d8 psychic damage, and the curse ends. You can curse a creature in this way only once per turn.
 
 Source:	Guildmasters' Guide to Ravnica p. 25</text>

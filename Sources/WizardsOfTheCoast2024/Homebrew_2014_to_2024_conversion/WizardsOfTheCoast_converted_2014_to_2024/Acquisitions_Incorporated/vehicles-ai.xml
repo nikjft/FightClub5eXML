@@ -91,7 +91,7 @@ Ranged Weapon Attack: +8 to hit, range 120/480 ft., one target. Hit: 11 (2d10) p
 Until the grapple ends, the target's speed is halved, and it can't move farther away from the battle balloon. Each of the battle balloon's harpoon guns can grapple one target. While it has one or more targets grappled with its harpoon gun attack, the battle balloon's speed is not halved.</text>
       <attack>Weapons:|+8|2d10</attack>
     </action>
-    <description>Through the winter clouds that surround the castle on this desolate hill, you see a shape emerge. Something so gigantic, you can't believe it can actually fly.
+    <description>Through the winter clouds that surround the castle on this desolate hill, you see a shape emerge. Something so gigantic, you can&apos;t believe it can actually fly.
 
 Airships are relatively rare in Acquisitions Incorporated, which is thought to hold no more than five in its fleet. But the unparalleled usefulness of these craft in commerce—and in combat—makes the company-standard battle balloon a much-coveted upgrade for any franchise.
 

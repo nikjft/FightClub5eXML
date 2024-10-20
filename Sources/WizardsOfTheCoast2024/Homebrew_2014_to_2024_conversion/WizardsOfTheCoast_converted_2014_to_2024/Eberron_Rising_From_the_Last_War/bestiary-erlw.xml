@@ -99,7 +99,7 @@ Blinding Ray: The target and each creature within 10 feet of it must succeed on 
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Belashyrra can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Belashyrra regains spent legendary actions at the start of its turn.</text>
+      <text>Belashyrra can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Belashyrra regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Claw</name>
@@ -140,7 +140,7 @@ Belashyrra's lair is known to touch remote areas of the Shadow Marches and caver
 
 If Belashyrra dies, these effects fade over the course of 1d10 days.</text>
     </legendary>
-    <description>Dreadful Visions. The madness of Belashyrra is tied to sight: images that can't be unseen, horrific hallucinations, the fear of blindness and of being watched—or realizing that something else is using your eyes. Belashyrra can force its victims to question whether what they perceive is real, or can fill their world with such terrors that they willingly blind themselves to escape.
+    <description>Dreadful Visions. The madness of Belashyrra is tied to sight: images that can&apos;t be unseen, horrific hallucinations, the fear of blindness and of being watched—or realizing that something else is using your eyes. Belashyrra can force its victims to question whether what they perceive is real, or can fill their world with such terrors that they willingly blind themselves to escape.
 
 Belashyrra sees mortals as raw materials to be exploited or insects to be exterminated. However, the Lord of Eyes has been known to take an interest in specific mortals. Belashyrra's warlocks serve as its envoys in the world and are often directed to seek out creatures and sites that the daelkyr wishes to see through their eyes.
 
@@ -256,7 +256,7 @@ Source:	Eberron: Rising from the Last War p. 316</description>
     <save/>
     <skill>Acrobatics +4, Deception +5, Insight +2, Perception +2, Persuasion +5</skill>
     <passive>12</passive>
-    <languages>Common, Dwarvish, Elvish, Halfling, Thieves' cant</languages>
+    <languages>Common, Dwarvish, Elvish, Halfling, Thieves&apos; cant</languages>
     <cr>1/2</cr>
     <resist/>
     <immune/>
@@ -341,7 +341,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) pierci
 Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.</text>
       <attack>Claws|+5|1d8+3</attack>
     </action>
-    <description>Dinosaurs are widespread on Eberron, particularly in Q'barra, the Talenta Plains, Xen'drik, and Argonnessen. Smaller dinosaurs are the rule in Q'barra and the Talenta Plains, including varieties commonly used by Talenta halflings as mounts.
+    <description>Dinosaurs are widespread on Eberron, particularly in Q'barra, the Talenta Plains, Xen&apos;drik, and Argonnessen. Smaller dinosaurs are the rule in Q&apos;barra and the Talenta Plains, including varieties commonly used by Talenta halflings as mounts.
 
 Source:	Eberron: Rising from the Last War p. 289,
 		Wayfinder's Guide to Eberron p. 81</description>
@@ -689,7 +689,7 @@ If the target is a Medium or smaller creature, it is grappled (escape DC 23), pu
       <text>
 Dyrrn targets one creature it can see within 60 feet of it. The target must succeed on a DC 23 Constitution saving throw or take 22 (4d6 + 8) necrotic damage and become corrupted for 1 minute.</text>
       <attack>Corruption||4d6+8</attack>
-      <text>A corrupted creature's flesh twists in alien ways. The creature has disadvantage on attack rolls, its speed is reduced by half, and if it tries to cast a spell, it must first succeed on a DC 15 Intelligence check or the spell fails and is wasted. The corrupted creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      <text>A corrupted creature&apos;s flesh twists in alien ways. The creature has disadvantage on attack rolls, its speed is reduced by half, and if it tries to cast a spell, it must first succeed on a DC 15 Intelligence check or the spell fails and is wasted. The corrupted creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
     </action>
     <action>
       <name>Extract Brain</name>
@@ -702,7 +702,7 @@ If this damage reduces the target to 0 hit points, Dyrrn kills the target by ext
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Dyrrn can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Dyrrn regains spent legendary actions at the start of its turn.</text>
+      <text>Dyrrn can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Dyrrn regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Tentacle Whip</name>
@@ -811,7 +811,7 @@ While the messenger is on the same plane of existence as its master, it can magi
 Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.</text>
       <attack>Bite|+5|1d4+3</attack>
     </action>
-    <description>Constructed Nature. A homunculus doesn't require air, food, drink, or sleep.
+    <description>Constructed Nature. A homunculus doesn&apos;t require air, food, drink, or sleep.
 
 A homunculus is a construct servant created for certain tasks. Artificers and wizards are responsible for most of the homunculi in existence.
 
@@ -856,7 +856,7 @@ The fastieth can take the Dodge action as a bonus action.</text>
 Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.</text>
       <attack>Bite|+6|1d8+4</attack>
     </action>
-    <description>Dinosaurs are widespread on Eberron, particularly in Q'barra, the Talenta Plains, Xen'drik, and Argonnessen. Smaller dinosaurs are the rule in Q'barra and the Talenta Plains, including varieties commonly used by Talenta halflings as mounts.
+    <description>Dinosaurs are widespread on Eberron, particularly in Q'barra, the Talenta Plains, Xen&apos;drik, and Argonnessen. Smaller dinosaurs are the rule in Q&apos;barra and the Talenta Plains, including varieties commonly used by Talenta halflings as mounts.
 
 Source:	Eberron: Rising from the Last War p. 289</description>
     <environment/>
@@ -1119,7 +1119,7 @@ Source:	Eberron: Rising from the Last War p. 294</description>
     <save/>
     <skill>Perception +4, Stealth +4</skill>
     <passive>13</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>1</cr>
     <resist/>
     <immune>poison</immune>
@@ -1145,7 +1145,7 @@ If the target is a creature, it must succeed on a DC 13 Strength saving throw or
       <attack>Bite|+5|1d6+3</attack>
       <attack>Bite||1d6</attack>
     </action>
-    <description>Constructed Nature. A homunculus doesn't require air, food, drink, or sleep.
+    <description>Constructed Nature. A homunculus doesn&apos;t require air, food, drink, or sleep.
 
 A homunculus is a construct servant created for certain tasks. Artificers and wizards are responsible for most of the homunculi in existence.
 
@@ -1435,12 +1435,12 @@ The target can repeat the saving throw at the end of each of its turns, ending t
       <text>
 Illmarrow exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 20 Constitution saving throw. On a failed save, a creature takes 35 (10d6) poison damage and is poisoned for 1 minute. While poisoned in this way, the creature can't regain hit points. On a successful save, the creature takes half as much damage and isn't poisoned.</text>
       <attack>Poison Breath||10d6</attack>
-      <text>A humanoid reduced to 0 hit points by this damage dies and rises at the start of Illmarrow's next turn as a zombie. The zombie acts immediately after Illmarrow in the initiative count and is permanently under her command, following her verbal orders.</text>
+      <text>A humanoid reduced to 0 hit points by this damage dies and rises at the start of Illmarrow&apos;s next turn as a zombie. The zombie acts immediately after Illmarrow in the initiative count and is permanently under her command, following her verbal orders.</text>
     </action>
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>Lady can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Lady regains spent legendary actions at the start of its turn.</text>
+      <text>Lady can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Lady regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Cantrip</name>
@@ -1557,7 +1557,7 @@ Melee Spell Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) fire da
 The living spell unleashes a thin sheet of flames in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save, or half as much damage on a successful one.</text>
       <attack>Spell Mimicry||3d6</attack>
     </action>
-    <description>Constructed Nature. A living spell doesn't require air, food, drink, or sleep.
+    <description>Constructed Nature. A living spell doesn&apos;t require air, food, drink, or sleep.
 
 Of all the anomalies that emerged from the magical cataclysm that created the Mournland, the appearance of living spells might be the most mysterious. In some unknown fashion, the magical energy unleashed during the Last War caused spell effects to take on sentience. A living spell appears much like a normal spell effect, except that its magical energy endures indefinitely.
 
@@ -1639,9 +1639,9 @@ Melee Spell Attack: +8 to hit, reach 10 ft., one target. Hit: 22 (5d6 + 5) poiso
       <text>
 The living spell creates a 40-foot-diameter sphere of fog within 60 feet of it (the fog spreads around corners). When a creature enters the fog for the first time on a turn or starts its turn there, it must make a DC 16 Constitution saving throw, taking 22 (5d8) poison damage on a failed save, or half as much damage on a successful one.</text>
       <attack>Spell Mimicry||5d8</attack>
-      <text>The fog moves 10 feet away from the living spell at the start of each of its turns, rolling along the ground and through openings. The fog lasts for 10 minutes or until the living spell's concentration ends (as if concentrating on a spell).</text>
+      <text>The fog moves 10 feet away from the living spell at the start of each of its turns, rolling along the ground and through openings. The fog lasts for 10 minutes or until the living spell&apos;s concentration ends (as if concentrating on a spell).</text>
     </action>
-    <description>Constructed Nature. A living spell doesn't require air, food, drink, or sleep.
+    <description>Constructed Nature. A living spell doesn&apos;t require air, food, drink, or sleep.
 
 Of all the anomalies that emerged from the magical cataclysm that created the Mournland, the appearance of living spells might be the most mysterious. In some unknown fashion, the magical energy unleashed during the Last War caused spell effects to take on sentience. A living spell appears much like a normal spell effect, except that its magical energy endures indefinitely.
 
@@ -1724,7 +1724,7 @@ Melee Spell Attack: +7 to hit, reach 10 ft., one target. Hit: 21 (5d6 + 4) light
 The living spell unleashes a stroke of lightning in a line 100 feet long and 5 feet wide. Each creature in the line must make a DC 15 Dexterity saving throw, taking 28 (8d6) lightning damage on a failed save, or half as much damage on a successful one.</text>
       <attack>Spell Mimicry||8d6</attack>
     </action>
-    <description>Constructed Nature. A living spell doesn't require air, food, drink, or sleep.
+    <description>Constructed Nature. A living spell doesn&apos;t require air, food, drink, or sleep.
 
 Of all the anomalies that emerged from the magical cataclysm that created the Mournland, the appearance of living spells might be the most mysterious. In some unknown fashion, the magical energy unleashed during the Last War caused spell effects to take on sentience. A living spell appears much like a normal spell effect, except that its magical energy endures indefinitely.
 
@@ -1833,7 +1833,7 @@ Source:	Eberron: Rising from the Last War p. 318</description>
     <passive>18</passive>
     <languages>Common, Infernal</languages>
     <cr>15</cr>
-    <resist>bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <immune/>
     <vulnerable>piercing from magic weapons wielded by good creatures</vulnerable>
     <conditionImmune/>
@@ -1862,7 +1862,7 @@ Ranged Spell Attack: +10 to hit, range 120 ft., one target. Hit: 13 (3d8) damage
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Mordakhesh can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Mordakhesh regains spent legendary actions at the start of its turn.</text>
+      <text>Mordakhesh can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Mordakhesh regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Attack</name>
@@ -1875,7 +1875,7 @@ Mordakhesh makes one weapon attack or casts chromatic orb.</text>
 Modakhesh gains resistance to one damage type of his choice—acid, cold, fire, lightning, poison, or thunder—until the start of his next turn.</text>
     </legendary>
     <legendary>
-      <name>Warlord's Command (Costs 2 Actions)</name>
+      <name>Warlord&apos;s Command (Costs 2 Actions)</name>
       <text>
 Mordakhesh targets up to two allies that he can see within 30 feet of him. If a target can see and hear him, the target can make one weapon attack as a reaction and gains advantage on the attack roll.</text>
     </legendary>
@@ -2044,7 +2044,7 @@ In a new form, Rak Tulkhesh retains his alignment, hit points, Hit Dice, ability
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Rak can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Rak regains spent legendary actions at the start of its turn.</text>
+      <text>Rak can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Rak regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Attack</name>
@@ -2070,7 +2070,7 @@ Rak Tulkhesh's spellcasting ability is Charisma (spell save DC 24). He can innat
 	• 1/Day each: banishing smite, blinding smite, staggering smite</text>
     </trait>
     <spells>detect thoughts, dispel magic, spirit guardians, banishing smite, blinding smite, staggering smite</spells>
-    <description>Immortal Nature. An overlord doesn't require air, food, drink or sleep. It also can't die permanently. Upon its death, it reforms elsewhere in the multiverse and becomes active again at a time set by the DM.
+    <description>Immortal Nature. An overlord doesn&apos;t require air, food, drink or sleep. It also can&apos;t die permanently. Upon its death, it reforms elsewhere in the multiverse and becomes active again at a time set by the DM.
 
 In the first days of the world, the children of Khyber rose from the darkness to reign over Eberron. The greatest among them were the overlords, who held dominion over a world of fear, war, and death until the children of Eberron and Siberys rose up against them. Armies of dragons fought against the fiends of Khyber. And though the overlords couldn't be destroyed, the couatl sacrificed their lives to build a prison of celestial light: a silver flame that bound the overlords in Khyber once more. These bonds have held for countless generations, but the overlords still yearn to break free and reclaim the world above.
 
@@ -2276,7 +2276,7 @@ In a new form, Sul Khatesh retains her alignment, hit points, Hit Dice, ability 
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Sul can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Sul regains spent legendary actions at the start of its turn.</text>
+      <text>Sul can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Sul regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Attack</name>
@@ -2303,7 +2303,7 @@ Sul Khatesh's spellcasting ability is Intelligence (spell save DC 26, +18 to hit
 	• 1/Day each: foresight, gate, power word kill, teleport</text>
     </trait>
     <spells>counterspell, detect magic, detect thoughts, dispel magic, eyebite, fireball, lightning bolt, shield, chain lightning, create undead, dream, hold monster, mass suggestion, scrying, foresight, gate, power word kill, teleport</spells>
-    <description>Immortal Nature. An overlord doesn't require air, food, drink or sleep. It also can't die permanently. Upon its death, it reforms elsewhere in the multiverse and becomes active again at a time set by the DM.
+    <description>Immortal Nature. An overlord doesn&apos;t require air, food, drink or sleep. It also can&apos;t die permanently. Upon its death, it reforms elsewhere in the multiverse and becomes active again at a time set by the DM.
 
 In the first days of the world, the children of Khyber rose from the darkness to reign over Eberron. The greatest among them were the overlords, who held dominion over a world of fear, war, and death until the children of Eberron and Siberys rose up against them. Armies of dragons fought against the fiends of Khyber. And though the overlords couldn't be destroyed, the couatl sacrificed their lives to build a prison of celestial light: a silver flame that bound the overlords in Khyber once more. These bonds have held for countless generations, but the overlords still yearn to break free and reclaim the world above.
 
@@ -2331,7 +2331,7 @@ Source:	Eberron: Rising from the Last War p. 304</description>
     <save/>
     <skill>Athletics +3, Deception +2, Perception +4, Sleight of hand +5, Stealth +5</skill>
     <passive>14</passive>
-    <languages>Common, Thieves' cant</languages>
+    <languages>Common, Thieves&apos; cant</languages>
     <cr>2</cr>
     <resist/>
     <immune/>
@@ -2470,7 +2470,7 @@ Ranged Spell Attack: +10 to hit, range 120 ft., one target. Hit: 22 (4d10) fire 
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The regains spent legendary actions at the start of its turn.</text>
+      <text>The can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Attack</name>
@@ -2505,7 +2505,7 @@ The Lord of Blades is a 20th-level spellcaster. His spellcasting ability is Inte
 	• 5th level (2 slots): animate objects, wall of force</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 2</slots>
-    <spells>fire bolt, mage hand, mending, prestidigitation, expeditious retreat, sanctuary, thunderwave, blur, heat metal, scorching ray, see invisibility, dispel magic, fly, haste, freedom of movement, Mordenkainen's faithful hound, animate objects, wall of force</spells>
+    <spells>fire bolt, mage hand, mending, prestidigitation, expeditious retreat, sanctuary, thunderwave, blur, heat metal, scorching ray, see invisibility, dispel magic, fly, haste, freedom of movement, Mordenkainen&apos;s faithful hound, animate objects, wall of force</spells>
     <description>The Lord of Blades is a warforged warlord who has broken all ties with his former masters. He has established a nation for his people deep in the Mournland, centered in a great fortress where warforged from all over Khorvaire can come and feel a sense of belonging. No one knows what the Lord of Blades plans for his followers, but many fear that he intends to build a legion of warforged zealots, primed to march from the Mournland to unleash destruction on their former masters.
 
 Some tales assert that the Lord of Blades led the warforged armies of Cyre in the Last War. Others cast him as a newer warforged, perhaps the last to come out of the Cannith creation forges before the Thronehold Accords led to their dismantling. One story claims the Lord of Blades caused the destruction of Cyre and warns that he plans to repeat the Day of Mourning in each of the remaining Five Nations. Whatever the truth, he has become a beacon for warforged everywhere.
@@ -2649,7 +2649,7 @@ The councilor chooses a point it can see within 60 feet of it. Each creature in 
     <legendary>
       <name>Legendary Actions (2/Turn)</name>
       <recharge>2/Turn</recharge>
-      <text>The undead can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The undead regains spent legendary actions at the start of its turn.</text>
+      <text>The undead can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The undead regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Touch</name>
@@ -2719,7 +2719,7 @@ Source:	Eberron: Rising from the Last War p. 311</description>
     <passive>13</passive>
     <languages>Common, Elvish</languages>
     <cr>2</cr>
-    <resist>radiant; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>radiant; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <immune>poison</immune>
     <vulnerable>necrotic</vulnerable>
     <conditionImmune>exhaustion, poisoned</conditionImmune>
@@ -2785,7 +2785,7 @@ Source:	Eberron: Rising from the Last War p. 311</description>
     <save/>
     <skill>Perception +5</skill>
     <passive>15</passive>
-    <languages>understands Common, Elvish, and Sylvan but can't speak</languages>
+    <languages>understands Common, Elvish, and Sylvan but can&apos;t speak</languages>
     <cr>1/8</cr>
     <resist/>
     <immune/>
@@ -2808,7 +2808,7 @@ The hawk has advantage on Wisdom (Perception) checks that rely on sight.</text>
 Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) slashing damage.</text>
       <attack>Talons|+6|1d4+4</attack>
     </action>
-    <description>The elves of Valenar say that when their ancestors fought the giants of Xen'drik, elf druids took the forms of animals on the battlefield. The cruel and mighty Emperor Cul'sir of the giants laid a curse upon the druids and trapped them in the forms of animals. Just as the ancestors of the Valenar guide their warriors in battle, the spirits of these druids can awaken power in an animal to create a companion worthy of a champion.
+    <description>The elves of Valenar say that when their ancestors fought the giants of Xen&apos;drik, elf druids took the forms of animals on the battlefield. The cruel and mighty Emperor Cul&apos;sir of the giants laid a curse upon the druids and trapped them in the forms of animals. Just as the ancestors of the Valenar guide their warriors in battle, the spirits of these druids can awaken power in an animal to create a companion worthy of a champion.
 
 Valenar animals are awakened to advanced intelligence and power by the touch of an ancestral spirit. Traditionally, Valenar animals choose Valenar elves as companions, reflecting a bond between the ancestors of elf and animal. To be chosen by a Valenar animal is a great honor, and any such elf is treated with respect and reverence. Still, on the rare occasions when a Valenar animal chooses an adventurer of a different ancestry as a companion, it is universally accepted.
 
@@ -2847,7 +2847,7 @@ Source:	Eberron: Rising from the Last War p. 312</description>
     <save/>
     <skill>Perception +4</skill>
     <passive>14</passive>
-    <languages>understands Common, Elvish, and Sylvan but can't speak</languages>
+    <languages>understands Common, Elvish, and Sylvan but can&apos;t speak</languages>
     <cr>1/2</cr>
     <resist/>
     <immune/>
@@ -2872,7 +2872,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) pierci
 If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</text>
       <attack>Bite|+5|1d6+3</attack>
     </action>
-    <description>The elves of Valenar say that when their ancestors fought the giants of Xen'drik, elf druids took the forms of animals on the battlefield. The cruel and mighty Emperor Cul'sir of the giants laid a curse upon the druids and trapped them in the forms of animals. Just as the ancestors of the Valenar guide their warriors in battle, the spirits of these druids can awaken power in an animal to create a companion worthy of a champion.
+    <description>The elves of Valenar say that when their ancestors fought the giants of Xen&apos;drik, elf druids took the forms of animals on the battlefield. The cruel and mighty Emperor Cul&apos;sir of the giants laid a curse upon the druids and trapped them in the forms of animals. Just as the ancestors of the Valenar guide their warriors in battle, the spirits of these druids can awaken power in an animal to create a companion worthy of a champion.
 
 Valenar animals are awakened to advanced intelligence and power by the touch of an ancestral spirit. Traditionally, Valenar animals choose Valenar elves as companions, reflecting a bond between the ancestors of elf and animal. To be chosen by a Valenar animal is a great honor, and any such elf is treated with respect and reverence. Still, on the rare occasions when a Valenar animal chooses an adventurer of a different ancestry as a companion, it is universally accepted.
 
@@ -2911,7 +2911,7 @@ Source:	Eberron: Rising from the Last War p. 312</description>
     <save/>
     <skill>Perception +4</skill>
     <passive>14</passive>
-    <languages>understands Common, Elvish, and Sylvan but can't speak</languages>
+    <languages>understands Common, Elvish, and Sylvan but can&apos;t speak</languages>
     <cr>1/2</cr>
     <resist/>
     <immune/>
@@ -2929,7 +2929,7 @@ The steed can magically bond with one creature it can see, immediately after spe
 Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.</text>
       <attack>Hooves|+5|2d6+3</attack>
     </action>
-    <description>The elves of Valenar say that when their ancestors fought the giants of Xen'drik, elf druids took the forms of animals on the battlefield. The cruel and mighty Emperor Cul'sir of the giants laid a curse upon the druids and trapped them in the forms of animals. Just as the ancestors of the Valenar guide their warriors in battle, the spirits of these druids can awaken power in an animal to create a companion worthy of a champion.
+    <description>The elves of Valenar say that when their ancestors fought the giants of Xen&apos;drik, elf druids took the forms of animals on the battlefield. The cruel and mighty Emperor Cul&apos;sir of the giants laid a curse upon the druids and trapped them in the forms of animals. Just as the ancestors of the Valenar guide their warriors in battle, the spirits of these druids can awaken power in an animal to create a companion worthy of a champion.
 
 Valenar animals are awakened to advanced intelligence and power by the touch of an ancestral spirit. Traditionally, Valenar animals choose Valenar elves as companions, reflecting a bond between the ancestors of elf and animal. To be chosen by a Valenar animal is a great honor, and any such elf is treated with respect and reverence. Still, on the rare occasions when a Valenar animal chooses an adventurer of a different ancestry as a companion, it is universally accepted.
 
@@ -2968,7 +2968,7 @@ Source:	Eberron: Rising from the Last War p. 313</description>
     <save>Int +4, Wis +8, Cha +7</save>
     <skill/>
     <passive>10</passive>
-    <languages>understands Common but can't speak</languages>
+    <languages>understands Common but can&apos;t speak</languages>
     <cr>25</cr>
     <resist/>
     <immune>necrotic, poison; bludgeoning, piercing, slashing from nonmagical attacks</immune>
@@ -3128,7 +3128,7 @@ Source:	Eberron: Rising from the Last War p. 320</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>8</cr>
     <resist/>
     <immune>poison, psychic</immune>

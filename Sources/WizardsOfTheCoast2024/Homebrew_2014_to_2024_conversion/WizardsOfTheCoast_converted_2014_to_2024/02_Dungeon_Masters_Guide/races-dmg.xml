@@ -15,7 +15,7 @@ Source:	Dungeon Master's Guide p. 282</text>
     </trait>
     <trait>
       <name>Life Span</name>
-      <text>Aarakocra reach maturity by age 3. Compared to humans, aarakocra don't usually live longer than 30 years.</text>
+      <text>Aarakocra reach maturity by age 3. Compared to humans, aarakocra don&apos;t usually live longer than 30 years.</text>
     </trait>
     <trait>
       <name>Alignment</name>
@@ -33,7 +33,7 @@ Weight in pounds = 70 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Flight</name>
-      <text>You have a flying speed of 50 feet. To use this speed, you can't be wearing medium or heavy armor.</text>
+      <text>You have a flying speed of 50 feet. To use this speed, you can&apos;t be wearing medium or heavy armor.</text>
     </trait>
     <trait>
       <name>Dive Attack</name>
@@ -82,7 +82,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Thanks to your celestial heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of grey.</text>
+      <text>Thanks to your celestial heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of grey.</text>
     </trait>
     <trait>
       <name>Celestial Resistance</name>
@@ -106,7 +106,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     <spellAbility/>
     <trait>
       <name>Description</name>
-      <text>Source:	Dungeon Master's Guide p. 282</text>
+      <text>Source:	Dungeon Master&apos;s Guide p. 282</text>
     </trait>
     <trait>
       <name>Life Span</name>
@@ -166,7 +166,7 @@ Source:	Player's Handbook p. 23,
     </trait>
     <trait>
       <name>Alignment</name>
-      <text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.</text>
+      <text>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others&apos; freedom as well as their own, and they are more often good than not.</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -180,7 +180,7 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray</text>
+      <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray</text>
     </trait>
     <trait>
       <name>Keen Senses</name>
@@ -188,11 +188,11 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Fey Ancestry</name>
-      <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep</text>
+      <text>You have advantage on saving throws against being charmed, and magic can&apos;t put you to sleep</text>
     </trait>
     <trait>
       <name>Trance</name>
-      <text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+      <text>Elves don&apos;t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
 
 If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.</text>
     </trait>
@@ -218,7 +218,7 @@ If you meditate during a long rest, you finish the rest after only 4 hours. You 
     <spellAbility/>
     <trait>
       <name>Description</name>
-      <text>Source:	Dungeon Master's Guide p. 282</text>
+      <text>Source:	Dungeon Master&apos;s Guide p. 282</text>
     </trait>
     <trait>
       <name>Bite</name>
@@ -226,7 +226,7 @@ If you meditate during a long rest, you finish the rest after only 4 hours. You 
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Rampage</name>
@@ -272,7 +272,7 @@ Weight in pounds = 35 + your size modifier</text>
     </trait>
     <trait>
       <name>Superior Darkvision</name>
-      <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
@@ -325,7 +325,7 @@ Weight in pounds = 35 + your size modifier</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -341,7 +341,7 @@ Weight in pounds = 35 + your size modifier</text>
     <spellAbility/>
     <trait>
       <name>Description</name>
-      <text>Source:	Dungeon Master's Guide p. 282</text>
+      <text>Source:	Dungeon Master&apos;s Guide p. 282</text>
     </trait>
     <trait>
       <name>Blindsight</name>
@@ -369,7 +369,7 @@ Weight in pounds = 35 + your size modifier</text>
     <spellAbility/>
     <trait>
       <name>Description</name>
-      <text>War is the lifeblood of hobgoblins. Its glories are the dreams that inspire them. Its horrors don't feature in their nightmares. Cowardice is more terrible to hobgoblins than dying, for they carry their living acts into the afterlife. A hero in death becomes a hero eternal.
+      <text>War is the lifeblood of hobgoblins. Its glories are the dreams that inspire them. Its horrors don&apos;t feature in their nightmares. Cowardice is more terrible to hobgoblins than dying, for they carry their living acts into the afterlife. A hero in death becomes a hero eternal.
 
 Source:	Dungeon Master's Guide p. 282</text>
     </trait>
@@ -393,11 +393,11 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Martial Advantage</name>
-      <text>Once per turn, you can deal an extra 2d6 damage to a creature you hit with a weapon attack if that creature is within 5 ft. of an ally of yours that isn't incapacitated.</text>
+      <text>Once per turn, you can deal an extra 2d6 damage to a creature you hit with a weapon attack if that creature is within 5 ft. of an ally of yours that isn&apos;t incapacitated.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -475,7 +475,7 @@ Source:	Dungeon Master's Guide p. 282</text>
     </trait>
     <trait>
       <name>Pack Tactics</name>
-      <text>You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
+      <text>You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn&apos;t incapacitated.</text>
     </trait>
     <trait>
       <name>Sunlight Sensitivity</name>
@@ -483,7 +483,7 @@ Source:	Dungeon Master's Guide p. 282</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -499,7 +499,7 @@ Source:	Dungeon Master's Guide p. 282</text>
     <spellAbility/>
     <trait>
       <name>Description</name>
-      <text>Kuo-toa, also known as gogglers and men-fish, were a debased, piscine race of warm-blooded and amphibious creatures that dwelt in the Underdark. Sinister secrets lurked below the surface of their alien minds, for the kuo-toa were fanatics plagued by mental instability that saw things others couldn't and worshiped gods that didn't exist | at least until they believed hard enough.
+      <text>Kuo-toa, also known as gogglers and men-fish, were a debased, piscine race of warm-blooded and amphibious creatures that dwelt in the Underdark. Sinister secrets lurked below the surface of their alien minds, for the kuo-toa were fanatics plagued by mental instability that saw things others couldn&apos;t and worshiped gods that didn&apos;t exist | at least until they believed hard enough.
 
 Source:	Dungeon Master's Guide p. 282</text>
     </trait>
@@ -521,7 +521,7 @@ Source:	Dungeon Master's Guide p. 282</text>
     </trait>
     <trait>
       <name>Superior Darkvision</name>
-      <text>You have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -639,7 +639,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Aggressive</name>
@@ -659,7 +659,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
     <spellAbility/>
     <trait>
       <name>Description</name>
-      <text>Source:	Dungeon Master's Guide p. 282</text>
+      <text>Source:	Dungeon Master&apos;s Guide p. 282</text>
     </trait>
     <trait>
       <name>Brittle Bones</name>
@@ -667,15 +667,15 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Undead Nature</name>
-      <text>You are immune to poison damage and exhaustion, and you can't be poisoned. You don't require air, food, drink, or sleep.</text>
+      <text>You are immune to poison damage and exhaustion, and you can&apos;t be poisoned. You don&apos;t require air, food, drink, or sleep.</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Languages</name>
-      <text>You can't speak, but you can understand the languages you knew in life.</text>
+      <text>You can&apos;t speak, but you can understand the languages you knew in life.</text>
     </trait>
   </race>
   <race>
@@ -687,7 +687,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
     <spellAbility/>
     <trait>
       <name>Description</name>
-      <text>Source:	Dungeon Master's Guide p. 282</text>
+      <text>Source:	Dungeon Master&apos;s Guide p. 282</text>
     </trait>
     <trait>
       <name>Chameleon Skin</name>
@@ -695,7 +695,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Stench</name>
-      <text>Any creature other than a Troglodyte that starts its turn within 5 ft. of you must succeed on a DC 12 Constitution saving throw or be poisoned until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all Troglodytes for 1 hour.</text>
+      <text>Any creature other than a Troglodyte that starts its turn within 5 ft. of you must succeed on a DC 12 Constitution saving throw or be poisoned until the start of the creature&apos;s next turn. On a successful saving throw, the creature is immune to the stench of all Troglodytes for 1 hour.</text>
     </trait>
     <trait>
       <name>Sunlight Sensitivity</name>
@@ -707,7 +707,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -723,7 +723,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
     <spellAbility/>
     <trait>
       <name>Description</name>
-      <text>Source:	Dungeon Master's Guide p. 282</text>
+      <text>Source:	Dungeon Master&apos;s Guide p. 282</text>
     </trait>
     <trait>
       <name>Undead Fortitude</name>
@@ -731,15 +731,15 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Undead Nature</name>
-      <text>You are immune to poison damage and exhaustion, and you can't be poisoned. You don't require air, food, drink, or sleep.</text>
+      <text>You are immune to poison damage and exhaustion, and you can&apos;t be poisoned. You don&apos;t require air, food, drink, or sleep.</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Languages</name>
-      <text>You can't speak, but you can understand the languages you knew in life.</text>
+      <text>You can&apos;t speak, but you can understand the languages you knew in life.</text>
     </trait>
   </race>
 </compendium>

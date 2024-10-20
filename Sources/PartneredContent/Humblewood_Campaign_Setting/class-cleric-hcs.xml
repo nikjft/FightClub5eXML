@@ -91,7 +91,7 @@ Source:	Humblewood Campaign Setting p. 40</text>
       </feature>
       <feature optional="YES">
         <name>Night Domain: Eye of Twilight</name>
-        <text>Beginning at 1st level, a divine blessing grants you the ability to see more clearly in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in magical or nonmagical darkness as if it were only dim light. You can't discern color in the darkness, only shades of gray.
+        <text>Beginning at 1st level, a divine blessing grants you the ability to see more clearly in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in magical or nonmagical darkness as if it were only dim light. You can&apos;t discern color in the darkness, only shades of gray.
 
 When you reach 6th level, you can see in dim light within 120 feet of you as if it were bright light, and in magical or nonmagical darkness as if it were dim light. You can't discern color in the darkness, only shades of gray.
 
@@ -103,7 +103,7 @@ Source:	Humblewood Campaign Setting p. 40</text>
       </feature>
       <feature optional="YES">
         <name>Night Domain: Ward of Shadows</name>
-        <text>At 1st level, you can create a ward of divine shadows to conceal yourself from an attacking enemy. When attacked by a creature you can see within 30 feet of you, you can use your reaction to impose disadvantage on the attack roll, as shadows envelop your form. An attacker that can't be blinded is immune to this feature.
+        <text>At 1st level, you can create a ward of divine shadows to conceal yourself from an attacking enemy. When attacked by a creature you can see within 30 feet of you, you can use your reaction to impose disadvantage on the attack roll, as shadows envelop your form. An attacker that can&apos;t be blinded is immune to this feature.
 
 You can use this feature a number of times equal to your Wisdom modifier (a minimum of once), and regain all expended uses when you finish a long rest.
 

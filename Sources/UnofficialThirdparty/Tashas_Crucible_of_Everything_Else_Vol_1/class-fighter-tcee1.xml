@@ -165,7 +165,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 24 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Scrapper (HB): Dirty Fighting</name>
-        <text>Only fools fight fair. At 3rd level, you learn a few dirty tricks you can use in combat. When you hit a creature with a melee weapon attack, you can use one dirty trick as long as you aren't wielding a weapon with the Two-Handed property and aren't wearing heavy armor.
+        <text>Only fools fight fair. At 3rd level, you learn a few dirty tricks you can use in combat. When you hit a creature with a melee weapon attack, you can use one dirty trick as long as you aren&apos;t wielding a weapon with the Two-Handed property and aren&apos;t wearing heavy armor.
 
 You have a number of trick points equal to twice your proficiency bonus. When you use a dirty trick, you expend one or more trick points, each of which deals an additional 1d6 bludgeoning damage to the target as part of the attack. The maximum number of trick points you can expend on a single dirty trick cannot exceed your proficiency bonus. You regain all expended trick points when you complete a short or long rest.
 
@@ -191,13 +191,13 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 25 (Homebrew)</text>
     <autolevel level="7">
       <feature optional="YES">
         <name>Scrapper (HB): Heave-Ho</name>
-        <text>Starting at 7th level, you can use your action to throw a creature you're grappling. If they're smaller than your size, you can throw them a number of feet equal to your Strength score. If they're your size, you can throw them half that distance. If they're one size larger than you, you throw them a number of feet equal to your Strength modifier (minimum 1 foot). The creature falls prone and takes bludgeoning damage equal to your Strength modifier, plus 1d8 bludgeoning damage for every 5 feet you threw it, rounded down. If the creature would strike an object, structure, or other creature, the struck target must succeed on a Dexterity saving throw or else take an equal amount of damage. The thrown creature then stops moving. If the struck target is the same size as or smaller than the thrown creature and fails the saving throw, it is also knocked prone.
+        <text>Starting at 7th level, you can use your action to throw a creature you're grappling. If they're smaller than your size, you can throw them a number of feet equal to your Strength score. If they&apos;re your size, you can throw them half that distance. If they&apos;re one size larger than you, you throw them a number of feet equal to your Strength modifier (minimum 1 foot). The creature falls prone and takes bludgeoning damage equal to your Strength modifier, plus 1d8 bludgeoning damage for every 5 feet you threw it, rounded down. If the creature would strike an object, structure, or other creature, the struck target must succeed on a Dexterity saving throw or else take an equal amount of damage. The thrown creature then stops moving. If the struck target is the same size as or smaller than the thrown creature and fails the saving throw, it is also knocked prone.
 
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 25 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Scrapper (HB): Read The Room</name>
-        <text>You're always expecting a fight. Starting at 7th level, when you spend at least 1 minute observing your immediate environment and the creatures in it, you learn certain details likely to be of use in the event that violence breaks out. The environment must be a confined space, such as a room, or an open space in an urban setting.
+        <text>You&apos;re always expecting a fight. Starting at 7th level, when you spend at least 1 minute observing your immediate environment and the creatures in it, you learn certain details likely to be of use in the event that violence breaks out. The environment must be a confined space, such as a room, or an open space in an urban setting.
 
 Ask the DM up to three of the following questions, and they must respond truthfully.
 
@@ -232,7 +232,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 25 (Homebrew)</text>
     <autolevel level="18">
       <feature optional="YES">
         <name>Scrapper (HB): Sucker Punch</name>
-        <text>Starting at 18th level, you know it's a fight when everyone else thinks it's still a conversation.
+        <text>Starting at 18th level, you know it&apos;s a fight when everyone else thinks it&apos;s still a conversation.
 
 When you roll initiative, you can spend 3 trick points to immediately make a melee attack against one creature you can see within 5 feet of you. If the attack hits and you use a dirty trick, the creature has disadvantage on its saving throw.
 

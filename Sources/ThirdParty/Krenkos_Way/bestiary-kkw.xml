@@ -41,7 +41,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) pierci
 Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 7 (1d8 + 3) piercing damage.</text>
       <attack>Light Crossbow|+5|1d8+3</attack>
     </action>
-    <description>Source:	Krenko's Way p. 167</description>
+    <description>Source:	Krenko&apos;s Way p. 167</description>
     <environment/>
   </monster>
   <monster>
@@ -95,7 +95,7 @@ Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 6 (1d8 + 2) 
       <text>
 When a creature Krenko can see targets him with an attack, Krenko chooses another goblin within 5 feet of him. The two goblins swap places, and the chosen goblin becomes the target instead.</text>
     </reaction>
-    <description>Source:	Krenko's Way p. 168</description>
+    <description>Source:	Krenko&apos;s Way p. 168</description>
     <environment/>
   </monster>
   <monster>
@@ -143,7 +143,7 @@ The armor makes two melee attacks.</text>
 Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage.</text>
       <attack>Slam|+6|1d6+4</attack>
     </action>
-    <description>Source:	Krenko's Way p. 170</description>
+    <description>Source:	Krenko&apos;s Way p. 170</description>
     <environment/>
   </monster>
 </compendium>

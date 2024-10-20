@@ -5,7 +5,7 @@
     <autolevel level="2">
       <feature optional="YES">
         <name>Druid Circle: Circle of Seasons (HB)</name>
-        <text>Druids of the Circle of Seasons learn early in their trials that all things are transient. All things that live must die, and those things that don't live are worn away by the wind and rain.
+        <text>Druids of the Circle of Seasons learn early in their trials that all things are transient. All things that live must die, and those things that don&apos;t live are worn away by the wind and rain.
 
 As a druid of the seasons, you embody nature's invisible hand. Whether through famine or pestilence, flood or fire, you revere the world's natural cycle of destruction and rebirth. Your connection to the natural cycles of life and death allows you to burn nature's enemies and renew your allies.
 
@@ -19,7 +19,7 @@ Source:	Xanathar's Lost Notes To Everything Else p. 15 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Circle of Seasons (HB): Shroud of Seasons</name>
-        <text>Starting at 2nd level, you can expend one use of your Wild Shape to embrace friend or foe under nature's shroud.
+        <text>Starting at 2nd level, you can expend one use of your Wild Shape to embrace friend or foe under nature&apos;s shroud.
 
 As an action, choose one creature you can see within 60 feet of you that has at least 1 hit point. That creature must make a Constitution saving throw; a creature can choose to fail this saving throw if it wishes.
 
@@ -82,7 +82,7 @@ Source:	Xanathar's Lost Notes To Everything Else p. 16 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Circle of the Spiritlords (HB): Spirit Bond</name>
-        <text>When you choose this circle at 2nd level, you choose one spirit-element to bond with your mask from the Spirit Bond table, and you learn the cantrip associated with your spirit-element's fledging conduit, which counts as a druid cantrip for you, and doesn't count against your number of cantrips known. You can select one additional spirit-element at 6th level and again at 10th level.
+        <text>When you choose this circle at 2nd level, you choose one spirit-element to bond with your mask from the Spirit Bond table, and you learn the cantrip associated with your spirit-element&apos;s fledging conduit, which counts as a druid cantrip for you, and doesn&apos;t count against your number of cantrips known. You can select one additional spirit-element at 6th level and again at 10th level.
 
 Additionally, you can cast the find familiar spell, which bears features similar to your chosen spirit-element (glowing skin, fiery eyes, a thorny tail, etc.). Once you cast find familiar using this feature, you can't cast it again until you finish a long rest.
 

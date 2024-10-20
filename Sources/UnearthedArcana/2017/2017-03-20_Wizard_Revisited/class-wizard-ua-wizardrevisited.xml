@@ -55,7 +55,7 @@ Source:	Unearthed Arcana: Wizard Revisited p. 1</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Theurgy (UA): Divine Inspiration</name>
-        <text>When you choose this tradition at 2nd level, choose a domain from your chosen deity's list of eligible domains (see appendix B, "Gods of the Multiverse," in the Player's Handbook for examples). The Knowledge and Light domains are especially appropriate choices for a theurgist.
+        <text>When you choose this tradition at 2nd level, choose a domain from your chosen deity&apos;s list of eligible domains (see appendix B, "Gods of the Multiverse," in the Player&apos;s Handbook for examples). The Knowledge and Light domains are especially appropriate choices for a theurgist.
 
 Source:	Unearthed Arcana: Wizard Revisited p. 1</text>
       </feature>
@@ -64,7 +64,7 @@ Source:	Unearthed Arcana: Wizard Revisited p. 1</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Theurgy (UA): Arcane Acolyte</name>
-        <text>At 6th level, you gain your chosen domain's 1st-level benefits. However, you do not gain any weapon or armor proficiencies from the domain.
+        <text>At 6th level, you gain your chosen domain&apos;s 1st-level benefits. However, you do not gain any weapon or armor proficiencies from the domain.
 
 Source:	Unearthed Arcana: Wizard Revisited p. 1</text>
       </feature>
@@ -73,7 +73,7 @@ Source:	Unearthed Arcana: Wizard Revisited p. 1</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Theurgy (UA): Arcane Priest</name>
-        <text>At 10th level, you gain your chosen domain's 6th-level benefits. Your faith and your understanding of magic allow you to delve into your god's secrets.
+        <text>At 10th level, you gain your chosen domain&apos;s 6th-level benefits. Your faith and your understanding of magic allow you to delve into your god&apos;s secrets.
 
 Source:	Unearthed Arcana: Wizard Revisited p. 1</text>
       </feature>
@@ -82,7 +82,7 @@ Source:	Unearthed Arcana: Wizard Revisited p. 1</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Theurgy (UA): Arcane High Priest</name>
-        <text>At 14th level, you gain your chosen domain's 17th-level benefits. Your academic nature and understanding of magic and doctrine allow you to master this ability sooner than a cleric of your domain.
+        <text>At 14th level, you gain your chosen domain&apos;s 17th-level benefits. Your academic nature and understanding of magic and doctrine allow you to master this ability sooner than a cleric of your domain.
 
 Source:	Unearthed Arcana: Wizard Revisited p. 1</text>
       </feature>
@@ -102,7 +102,7 @@ Source:	Unearthed Arcana: Non-Divine Faithful p. 2</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Theurgy (UA) V2: Divine Inspiration</name>
-        <text>When you select this tradition at 2nd level, pick a divine domain from your chosen deity's list of eligible domains. Alternatively, the following domains are thematically appropriate and easily compatible with the theurgist concept:
+        <text>When you select this tradition at 2nd level, pick a divine domain from your chosen deity&apos;s list of eligible domains. Alternatively, the following domains are thematically appropriate and easily compatible with the theurgist concept:
 	• Arcana*
 	• Death
 	• Knowledge
@@ -183,7 +183,7 @@ Source:	Sword Coast Adventurer's Guide, p. 125</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Theurgy (UA) V2: Channel Arcana: Touch of Death (Death Domain)</name>
-        <text>Starting at 2nd level, you can use Channel Arcana to destroy another creature's life force by touch. When you hit a creature with a melee attack, you can use Channel Arcana to deal extra necrotic damage to the target. The damage equals 5 + twice your wizard level.
+        <text>Starting at 2nd level, you can use Channel Arcana to destroy another creature&apos;s life force by touch. When you hit a creature with a melee attack, you can use Channel Arcana to deal extra necrotic damage to the target. The damage equals 5 + twice your wizard level.
 
 Source:	Dungeon Master's Guide, p. 97</text>
       </feature>
@@ -269,7 +269,7 @@ Source:	Player's Handbook, p. 63</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Theurgy (UA) V2: Arcane Acolyte</name>
-        <text>At 6th level, you gain your chosen domain's 1st level benefits. However, you do not gain any weapon or armor proficiencies from your domain.
+        <text>At 6th level, you gain your chosen domain&apos;s 1st level benefits. However, you do not gain any weapon or armor proficiencies from your domain.
 
 Source:	Unearthed Arcana: Non-Divine Faithful p. 3</text>
       </feature>
@@ -308,7 +308,7 @@ Source:	Player's Handbook, p. 59</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Theurgy (UA) V2: Disciple of Life (Life Domain)</name>
-        <text>Your healing spells are more effective. Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell's level.
+        <text>Your healing spells are more effective. Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell&apos;s level.
 
 Source:	Player's Handbook, p. 60</text>
       </feature>
@@ -317,7 +317,7 @@ Source:	Player's Handbook, p. 60</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Theurgy (UA) V2: Bonus Cantrip (Light Domain)</name>
-        <text>You gain the light cantrip if you don't already know it.
+        <text>You gain the light cantrip if you don&apos;t already know it.
 
 Source:	Player's Handbook, p. 61</text>
       </feature>
@@ -326,7 +326,7 @@ Source:	Player's Handbook, p. 61</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Theurgy (UA) V2: Warding Flare (Light Domain)</name>
-        <text>You can interpose divine light between yourself and an attacking enemy. When you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can't be blinded is immune to this feature.
+        <text>You can interpose divine light between yourself and an attacking enemy. When you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can&apos;t be blinded is immune to this feature.
 
 You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
@@ -375,7 +375,7 @@ Source:	Player's Handbook, p. 63</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Theurgy (UA) V2: Arcane Priest</name>
-        <text>At 10th level, you gain your chosen domain's 6th level benefits. Your faith and your understanding of magic allow you to delve into your god's secrets.
+        <text>At 10th level, you gain your chosen domain&apos;s 6th level benefits. Your faith and your understanding of magic allow you to delve into your god&apos;s secrets.
 
 Source:	Unearthed Arcana: Non-Divine Faithful p. 3</text>
       </feature>
@@ -402,7 +402,7 @@ Source:	Dungeon Master's Guide, p. 97</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Theurgy (UA) V2: Channel Divinity: Read Thoughts (Knowledge Domain)</name>
-        <text>You can use your Channel Divinity to read a creature's thoughts. You can then use your access to the creature's mind to command it.
+        <text>You can use your Channel Divinity to read a creature&apos;s thoughts. You can then use your access to the creature&apos;s mind to command it.
 
 As an action, choose one creature that you can see within 60 feet of you. That creature must make a Wisdom saving throw. If the creature succeeds on the saving throw, you can't use this feature on it again until you finish a long rest.
 
@@ -417,7 +417,7 @@ Source:	Player's Handbook, p. 59</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Theurgy (UA) V2: Blessed Healer (Life Domain)</name>
-        <text>The healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell's level.
+        <text>The healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell&apos;s level.
 
 Source:	Player's Handbook, p. 60</text>
       </feature>
@@ -467,7 +467,7 @@ Source:	Player's Handbook, p. 63</text>
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Theurgy (UA) V2: Channel Divinity: War God's Blessing (War Domain)</name>
+        <name>Theurgy (UA) V2: Channel Divinity: War God&apos;s Blessing (War Domain)</name>
         <text>When a creature within 30 feet of you makes an attack roll, you can use your reaction to grant that creature a +10 bonus to the roll, using your Channel Divinity. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.
 
 Source:	Player's Handbook, p. 63</text>
@@ -477,7 +477,7 @@ Source:	Player's Handbook, p. 63</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Theurgy (UA) V2: Arcane High Priest</name>
-        <text>At 14th level, you gain your chosen domain's 17th level benefits. Your academic nature and understanding of magic and doctrine allow you to master this ability sooner than a cleric of your domain.
+        <text>At 14th level, you gain your chosen domain&apos;s 17th level benefits. Your academic nature and understanding of magic and doctrine allow you to master this ability sooner than a cleric of your domain.
 
 Source:	Unearthed Arcana: Non-Divine Faithful p. 3</text>
       </feature>
@@ -573,7 +573,7 @@ Source:	Player's Handbook, p. 63</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Arcane Tradition: War Magic (UA)</name>
-        <text>A variety of arcane colleges specialize in training wizards for war. The tradition of War Magic blends principles of evocation and abjuration. It teaches techniques that empower a caster's spells, while also providing methods for a wizard to bolster their own defenses.
+        <text>A variety of arcane colleges specialize in training wizards for war. The tradition of War Magic blends principles of evocation and abjuration. It teaches techniques that empower a caster&apos;s spells, while also providing methods for a wizard to bolster their own defenses.
 
 Followers of this tradition are known as war mages. They see their magic as both a weapon and armor, a resource superior to any flimsy piece of steel. War mages strike fast in battle, using their spells to seize tactical control of a situation. Their spells strike hard, while their defensive skills foil their opponents' attempts to counterattack.
 
@@ -600,7 +600,7 @@ Source:	Unearthed Arcana: Wizard Revisited p. 2</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>War Magic (UA): Power Surge</name>
-        <text>Starting at 6th level, you can empower your spells that unleash harm on groups of foes. When you force multiple creatures to make saving throws against the damage of one of your spells, you can increase the spell's damage by rolling two more of its damage dice. This increase occurs only on the turn you cast the spell.
+        <text>Starting at 6th level, you can empower your spells that unleash harm on groups of foes. When you force multiple creatures to make saving throws against the damage of one of your spells, you can increase the spell&apos;s damage by rolling two more of its damage dice. This increase occurs only on the turn you cast the spell.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 

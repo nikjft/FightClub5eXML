@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <item>
     <name>Whistle-Stick [2014]</name>
@@ -7,7 +8,7 @@
     <weight/>
     <value/>
     <property/>
-    <text>The grung of One Grung Above are trained to use this new musical instrument. This is a hollow tube with holes cut throughout, much like a flute. You can play music with it for entertainment, but the grung also swing it about by a sturdy cord (attached) to create a sound recognizable by other grung, so they know each other's approximate location. Additionally, grung that know Thieves' Cant can use a whistle stick in this manner to communicate over distance.
+    <text>The grung of One Grung Above are trained to use this new musical instrument. This is a hollow tube with holes cut throughout, much like a flute. You can play music with it for entertainment, but the grung also swing it about by a sturdy cord (attached) to create a sound recognizable by other grung, so they know each other&apos;s approximate location. Additionally, grung that know Thieves&apos; Cant can use a whistle stick in this manner to communicate over distance.
 
 If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.
 
@@ -29,6 +30,6 @@ Identify a tune | 10
 Improvise a tune | 20
 
 Source:	One Grung Above p. 4,
-		Xanathar's Guide of Everything p. 83</text>
+		Xanathar&apos;s Guide of Everything p. 83</text>
   </item>
 </compendium>

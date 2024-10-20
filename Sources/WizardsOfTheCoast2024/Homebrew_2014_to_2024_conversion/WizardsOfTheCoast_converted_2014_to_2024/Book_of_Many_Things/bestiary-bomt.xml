@@ -22,7 +22,7 @@
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, poisoned</conditionImmune>
     <senses>blindsight 10 ft., darkvision 60 ft.</senses>
     <passive>10</passive>
-    <languages>understands commands given in any language but can't speak</languages>
+    <languages>understands commands given in any language but can&apos;t speak</languages>
     <cr>7</cr>
     <description>Source:	The Book of Many Things p. 135</description>
     <trait>
@@ -88,7 +88,7 @@ When a creature makes an attack against the wearer of the guardian's amulet, the
     <conditionImmune>charmed, frightened</conditionImmune>
     <senses>blindsight 10 ft.</senses>
     <passive>15</passive>
-    <languages>Common, thieves' cant, plus any one language</languages>
+    <languages>Common, thieves&apos; cant, plus any one language</languages>
     <cr>5</cr>
     <description>Source:	The Book of Many Things p. 45</description>
     <trait>
@@ -468,7 +468,7 @@ Flames momentarily surround Aurnozci. Each creature within 15 feet of Aurnozci m
     <conditionImmune/>
     <senses/>
     <passive>20</passive>
-    <languages>Common, Thieves' cant (can't speak in wolf form)</languages>
+    <languages>Common, Thieves&apos; cant (can&apos;t speak in wolf form)</languages>
     <cr>9</cr>
     <description>Source:	The Book of Many Things p. 82</description>
     <trait>
@@ -541,7 +541,7 @@ Augustus takes the Dash, Disengage, or Hide action.</text>
     <conditionImmune/>
     <senses>darkvision 60 ft.</senses>
     <passive>20</passive>
-    <languages>Common, Thieves' cant (can't speak in rat form)</languages>
+    <languages>Common, Thieves&apos; cant (can&apos;t speak in rat form)</languages>
     <cr>9</cr>
     <description>Source:	The Book of Many Things p. 83</description>
     <trait>
@@ -734,7 +734,7 @@ Brusipha casts one of the following spells, using Charisma as the spellcasting a
 Brusipha magically creates a psychic link with one creature she can see. For the next hour, Brusipha knows the current distance and direction to the target if it is on the same plane of existence. The link ends if Brusipha has the incapacitated condition or uses this ability on a different target.</text>
     </action>
     <reaction>
-      <name>Baphomet's Blessing</name>
+      <name>Baphomet&apos;s Blessing</name>
       <text>
 When Brusipha reduces a hostile creature to 0 hit points, she gains 8 temporary hit points.</text>
     </reaction>
@@ -761,9 +761,9 @@ When Brusipha reduces a hostile creature to 0 hit points, she gains 8 temporary 
     <vulnerable/>
     <immune>poison</immune>
     <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
-    <senses>blindsight 60 ft. (can't see beyond this radius)</senses>
+    <senses>blindsight 60 ft. (can&apos;t see beyond this radius)</senses>
     <passive>10</passive>
-    <languages>understands one of your languages but can't speak</languages>
+    <languages>understands one of your languages but can&apos;t speak</languages>
     <cr>0</cr>
     <description>Source:	The Book of Many Things p. 72</description>
     <trait>
@@ -840,7 +840,7 @@ When a creature the deck defender can see attacks a target other than the deck d
     <conditionImmune>charmed, frightened</conditionImmune>
     <senses>blindsight 30 ft.</senses>
     <passive>17</passive>
-    <languages>Common, thieves' cant, plus any one language</languages>
+    <languages>Common, thieves&apos; cant, plus any one language</languages>
     <cr>11</cr>
     <description>Source:	The Book of Many Things p. 46</description>
     <trait>
@@ -1092,7 +1092,7 @@ The hag magically curses a creature it can see within 60 feet of itself. The cre
     <spells>bless, guidance, silent image, bane, bestow curse, divination, scrying</spells>
   </monster>
   <monster>
-    <name>Gremorly's Ghost [2014]</name>
+    <name>Gremorly&apos;s Ghost [2014]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>neutral evil</alignment>
@@ -1490,7 +1490,7 @@ When the hawk is in dim light or darkness, it teleports up to 30 feet to an unoc
     <conditionImmune>exhaustion, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>16</passive>
-    <languages>Blink Dog, understands Sylvan but can't speak it</languages>
+    <languages>Blink Dog, understands Sylvan but can&apos;t speak it</languages>
     <cr>3</cr>
     <description>Source:	The Book of Many Things p. 164</description>
     <trait>
@@ -1536,13 +1536,13 @@ The hound magically teleports, along with any equipment it is wearing or carryin
     <cha>10</cha>
     <save/>
     <skill>perception +4</skill>
-    <resist>bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine</resist>
+    <resist>bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t adamantine</resist>
     <vulnerable/>
     <immune>force, necrotic, poison</immune>
     <conditionImmune>blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned, stunned</conditionImmune>
     <senses>blindsight 60 ft. (blind beyond this radius)</senses>
     <passive>14</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>4</cr>
     <description>Source:	The Book of Many Things p. 135</description>
     <trait>
@@ -1607,7 +1607,7 @@ The drone launches a tiny orb of magical force at a creature it can see within 3
       <text>+6</text>
     </trait>
     <trait>
-      <name>Devotion's Call (1/Day)</name>
+      <name>Devotion&apos;s Call (1/Day)</name>
       <recharge>1/Day</recharge>
       <text>
 The medusa can cast the Resurrection spell, requiring no material components and using Wisdom as the spellcasting ability.</text>
@@ -1726,7 +1726,7 @@ The medusa makes one Final Blade attack with advantage.</text>
       <text>+4</text>
     </trait>
     <trait>
-      <name>Comet's Voice (1/Day)</name>
+      <name>Comet&apos;s Voice (1/Day)</name>
       <recharge>1/Day</recharge>
       <text>
 The hierophant can cast Contact Other Plane, using Charisma as the spellcasting ability.</text>
@@ -1747,10 +1747,10 @@ The hierophant's thoughts can't be read by any means unless the hierophant allow
 The hierophant makes two Herald's Axe attacks or three Comet Blast attacks.</text>
     </action>
     <action>
-      <name>Herald's Axe</name>
+      <name>Herald&apos;s Axe</name>
       <text>
 Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 11 (1d12 + 5) slashing damage plus 10 (3d6) necrotic damage.</text>
-      <attack>Herald's Axe|9|1d12 + 5+3d6</attack>
+      <attack>Herald&apos;s Axe|9|1d12 + 5+3d6</attack>
     </action>
     <action>
       <name>Comet Blast</name>
@@ -1773,7 +1773,7 @@ The hierophant casts one of the following spells, using Charisma as the spellcas
 	• 1/Day each: Dimension Door, Mass Suggestion</text>
     </action>
     <action>
-      <name>Star's Hunger (Bonus Action)</name>
+      <name>Star&apos;s Hunger (Bonus Action)</name>
       <text>
 The hierophant targets one creature within 30 feet of the center of its All-Consuming Star. The target must succeed on a DC 17 Strength saving throw or be pulled up to 30 feet toward the center of the All-Consuming Star.</text>
     </action>
@@ -1796,7 +1796,7 @@ The hierophant targets one creature within 30 feet of the center of its All-Cons
     <cha>20</cha>
     <save>wis +7, cha +10</save>
     <skill>persuasion +10, insight +7, deception +10, perception +7</skill>
-    <resist>acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>fire, poison</immune>
     <conditionImmune>charmed, poisoned</conditionImmune>
@@ -2232,10 +2232,10 @@ Any creature that attempts to damage Oddlewin must first succeed on a DC 12 Char
 	Oddlewin can't regain hit points, including through magical healing, except through his Reversal of Fortune reaction.</text>
     </trait>
     <action>
-      <name>Fool's Scepter</name>
+      <name>Fool&apos;s Scepter</name>
       <text>
 Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.</text>
-      <attack>Fool's Scepter|4|1d6 + 2</attack>
+      <attack>Fool&apos;s Scepter|4|1d6 + 2</attack>
     </action>
     <action>
       <name>Cloud of Cards</name>
@@ -2260,7 +2260,7 @@ Oddlewin takes the Disengage or Hide action.</text>
 In response to another creature dealing damage to Oddlewin, Oddlewin reduces the damage to 0 and regains 9 (2d8) hit points.</text>
     </reaction>
     <slots/>
-    <spells>mage hand, tasha's hideous laughter</spells>
+    <spells>mage hand, tasha&apos;s hideous laughter</spells>
   </monster>
   <monster>
     <name>Otherworldly Corrupter [2014]</name>
@@ -2284,7 +2284,7 @@ In response to another creature dealing damage to Oddlewin, Oddlewin reduces the
     <conditionImmune>charmed, frightened</conditionImmune>
     <senses>blindsight 30 ft.</senses>
     <passive>20</passive>
-    <languages>Common, telepathy 120 ft., Thieves' cant</languages>
+    <languages>Common, telepathy 120 ft., Thieves&apos; cant</languages>
     <cr>17</cr>
     <description>Source:	The Book of Many Things p. 47</description>
     <trait>
@@ -2989,7 +2989,7 @@ The veiled presence magically emanates dazzling light in a 10-foot-radius sphere
     <conditionImmune/>
     <senses/>
     <passive>15</passive>
-    <languages>Common (can't speak in vulture form)</languages>
+    <languages>Common (can&apos;t speak in vulture form)</languages>
     <cr>4</cr>
     <description>Source:	The Book of Many Things p. 184</description>
     <trait>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Abi-Dalzim's Horrid Wilting</name>
+    <name>Abi-Dalzim&apos;s Horrid Wilting</name>
     <classes>Warlock</classes>
   </spell>
   <spell>
@@ -57,7 +57,7 @@
     <classes>Cleric</classes>
   </spell>
   <spell>
-    <name>Tenser's Transformation</name>
+    <name>Tenser&apos;s Transformation</name>
     <classes>Bard</classes>
   </spell>
   <spell>

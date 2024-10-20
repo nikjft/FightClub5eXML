@@ -102,7 +102,7 @@ Ramius casts one of the following spells, using Charisma as the spellcasting abi
 As a reaction to Ramius or an adjacent creature taking 50 points or more of damage, Ramius reaches out and channels divine energy, healing 13 (2d8 + 4) hit points.</text>
       <attack>Healing Touch||2d8+4</attack>
     </reaction>
-    <spells>Aura of Purity, Compelled Duel, Crusader's Mantle, Death Ward, Dispel Evil and Good, Find Steed, Lesser Restoration, Remove Curse, Revivify, Shield of Faith</spells>
+    <spells>Aura of Purity, Compelled Duel, Crusader&apos;s Mantle, Death Ward, Dispel Evil and Good, Find Steed, Lesser Restoration, Remove Curse, Revivify, Shield of Faith</spells>
   </monster>
   <monster>
     <name>Zythan</name>
@@ -265,7 +265,7 @@ Sarevok makes a Longsword attack.</text>
 Sarevok uses Flames of Bhaal.</text>
     </legendary>
     <legendary>
-      <name>Channel Bhaal's Hate (Costs 2 Actions)</name>
+      <name>Channel Bhaal&apos;s Hate (Costs 2 Actions)</name>
       <text>
 Sarevok unleashes Bhaal's power. Creatures within 30 feet of Sarevok, including ones behind barriers and around corners, can't regain hit points until the end of Sarevok's next turn.</text>
     </legendary>
@@ -275,7 +275,7 @@ Sarevok unleashes Bhaal's power. Creatures within 30 feet of Sarevok, including 
     <name>Slayer</name>
     <size>M</size>
     <type>fiend</type>
-    <alignment>host's alignment</alignment>
+    <alignment>host&apos;s alignment</alignment>
     <ac>19 (natural armor)</ac>
     <hp>136 (16d8 + 64)</hp>
     <speed>40 ft.</speed>
@@ -287,7 +287,7 @@ Sarevok unleashes Bhaal's power. Creatures within 30 feet of Sarevok, including 
     <cha>14</cha>
     <save>Dex +8, Int +5</save>
     <skill>Acrobatics +8, Deception +6, Perception +6, Stealth +12</skill>
-    <resist>bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>poison</immune>
     <conditionImmune/>
@@ -306,7 +306,7 @@ Sarevok unleashes Bhaal's power. Creatures within 30 feet of Sarevok, including 
 During its first turn, the Slayer has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the Slayer scores against a surprised creature is a critical hit.</text>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede the Slayer's darkvision.</text>
     </trait>
@@ -346,7 +346,7 @@ Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slash
     <cha>20</cha>
     <save>Str +11, Cha +11</save>
     <skill>Deception +11, Insight +10, Intimidation +11, Persuasion +11</skill>
-    <resist>acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable>radiant</vulnerable>
     <immune>fire, poison</immune>
     <conditionImmune>charmed, poisoned</conditionImmune>
@@ -414,7 +414,7 @@ The avatar causes caustic slime to emanate from itself, covering a 15-foot-radiu
     <conditionImmune>frightened, paralyzed</conditionImmune>
     <senses>blindsight 120 ft.</senses>
     <passive>15</passive>
-    <languages>understands Abyssal, Celestial, Infernal, and Primordial but can't speak, telepathy 120 ft.</languages>
+    <languages>understands Abyssal, Celestial, Infernal, and Primordial but can&apos;t speak, telepathy 120 ft.</languages>
     <cr>21</cr>
     <description>Source:	Chains of Asmodeus p. 120</description>
     <trait>
@@ -749,7 +749,7 @@ When hit with an attack, Ekengarik temporarily hardens her carapace, reducing he
     <cha>11</cha>
     <save>Str +6</save>
     <skill>Acrobatics +4, Stealth +4</skill>
-    <resist>bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>cold, fire, poison</immune>
     <conditionImmune>charmed, poisoned</conditionImmune>
@@ -947,7 +947,7 @@ Waeloquay makes a Slam attack with advantage.</text>
     <cha>25</cha>
     <save>Int +14, Wis +14, Cha +14</save>
     <skill>Arcana +14, Deception +21, Insight +14, Intimidation +14, Persuasion +21, Religion +14</skill>
-    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>fire, poison</immune>
     <conditionImmune>charmed, poisoned</conditionImmune>
@@ -961,7 +961,7 @@ Waeloquay makes a Slam attack with advantage.</text>
       <text>+7</text>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede Adramalech's darkvision.</text>
     </trait>
@@ -1039,7 +1039,7 @@ Adramalech fortifies the mind of a creature he can see within 60 feet of him, or
     <cha>18</cha>
     <save>Str +14, Dex +13, Con +15</save>
     <skill>Acrobatics +20, Athletics +21, Intimidation +11, Medicine +10, Stealth +13, Survival +10</skill>
-    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>fire, poison</immune>
     <conditionImmune>poisoned</conditionImmune>
@@ -1059,7 +1059,7 @@ For each Brittle Spine a creature has, the creature takes 3 (1d6) poison damage 
       <attack>Brittle Spine||1d6</attack>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede Adramalech's darkvision.</text>
     </trait>
@@ -1146,7 +1146,7 @@ Morax bristles the spines within a creature that he can see. The target immediat
     <cha>16</cha>
     <save>Str +15, Int +12</save>
     <skill>Athletics +22, History +12, Insight +10, Intimidation +17, Perception +10, Survival +10</skill>
-    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>fire, poison</immune>
     <conditionImmune>poisoned</conditionImmune>
@@ -1160,7 +1160,7 @@ Morax bristles the spines within a creature that he can see. The target immediat
       <text>+7</text>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede Abigor's darkvision.</text>
     </trait>
@@ -1231,7 +1231,7 @@ Abigor targets a hammer that it can see within 60 feet to let out a thunderous r
     <cha>10</cha>
     <save/>
     <skill/>
-    <resist>cold, fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold, fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>acid</immune>
     <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, prone</conditionImmune>
@@ -1307,7 +1307,7 @@ Devorastus moves up to its speed. While doing so, it can enter Large or smaller 
     <cha>16</cha>
     <save>Con +12, Int +14, Wis +13</save>
     <skill>Arcana +20, History +20, Investigation +14, Perception +13, Sleight of Hand +9</skill>
-    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>fire, poison</immune>
     <conditionImmune>charmed, poisoned</conditionImmune>
@@ -1327,7 +1327,7 @@ Rimmon has advantage to hit creatures under an infernal contract and when he hit
       <attack>Contractually Obligated||2d8</attack>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede Rimmon's darkvision.</text>
     </trait>
@@ -1377,7 +1377,7 @@ Rimmon emits a burst of energy that arcs towards a creature he can see within 15
     <cha>27</cha>
     <save>Int +12, Wis +13, Cha +14</save>
     <skill>Arcana +12, Deception +20, Insight +13, Intimidation +14, Performance +14, Persuasion +20</skill>
-    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>fire, poison, psychic</immune>
     <conditionImmune>charmed, poisoned</conditionImmune>
@@ -1397,7 +1397,7 @@ Zagum has advantage to hit creatures under an infernal contract and when he hits
       <attack>Contractually Obligated||2d8</attack>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede Zagum's darkvision.</text>
     </trait>
@@ -1450,7 +1450,7 @@ A confused creature may repeat the saving throw at the end of its turn, ending t
     <cha>17</cha>
     <save>Str +15, Dex +13, Con +14</save>
     <skill>Arcana +10, Athletics +22, Insight +11, Intimidation +17, Perception +11, Survival +11</skill>
-    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>fire, poison</immune>
     <conditionImmune>charmed, poisoned</conditionImmune>
@@ -1470,7 +1470,7 @@ Buer has advantage to hit creatures under an infernal contract and when she hits
       <attack>Contractually Obligated||2d8</attack>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede Buer's darkvision.</text>
     </trait>
@@ -1555,7 +1555,7 @@ Buer devours a Soul Coin, instantly refreshing one Recharge ability of any devil
     <skill>Arcana +16, Deception +28, Insight +28, Intimidation +19, Perception +19, Persuasion +19, Religion +16</skill>
     <resist>cold</resist>
     <vulnerable/>
-    <immune>fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</immune>
+    <immune>fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</immune>
     <conditionImmune>blinded, charmed, frightened, paralyzed, poisoned, stunned</conditionImmune>
     <senses>darkvision 120 ft., truesight 60 ft.</senses>
     <passive>29</passive>
@@ -1620,11 +1620,11 @@ Asmodeus targets a creature he can see within 120 feet of him. The target must m
       <attack>Infernal Word: Stun||10d8</attack>
     </action>
     <action>
-      <name>Hell-Lord's Suggestion (Recharge 5-6)</name>
+      <name>Hell-Lord&apos;s Suggestion (Recharge 5-6)</name>
       <recharge>D5</recharge>
       <text>
 Asmodeus targets a creature he can see within 120 feet of him. The target must make a DC 24 Charisma saving throw, taking 44 (8d10) psychic damage on a failed save, or half as much damage on a successful one. A creature that failed the save has the charmed condition for up to 1 minute. While charmed, a creature is controlled by Asmodeus, performing only actions that he suggests. A charmed creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success, but taking the damage again on a failed save.</text>
-      <attack>Hell-Lord's Suggestion||8d10</attack>
+      <attack>Hell-Lord&apos;s Suggestion||8d10</attack>
     </action>
     <action>
       <name>Fires of the Nine Hells (Recharge 5-6)</name>
@@ -1681,7 +1681,7 @@ Asmodeus summons an allied pit fiend in an unoccupied space that he can see.</te
     <cha>26</cha>
     <save>Str +17, Con +15, Int +13, Cha +16</save>
     <skill>Athletics +17, Deception +24, Insight +15, Intimidation +16, Persuasion +16</skill>
-    <resist>acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>fire, poison</immune>
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
@@ -1695,7 +1695,7 @@ Asmodeus summons an allied pit fiend in an unoccupied space that he can see.</te
       <text>+8</text>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede Baalzebul's darkvision.</text>
     </trait>
@@ -1808,7 +1808,7 @@ Baalzebul summons an allied bone devil in an unoccupied space that he can see.</
     <cha>29</cha>
     <save>Str +15, Dex +11, Con +14, Wis +14</save>
     <skill>Athletics +15, Deception +25, Insight +14, Intimidation +17, Perception +14, Persuasion +25</skill>
-    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>fire, poison</immune>
     <conditionImmune>charmed, poisoned</conditionImmune>
@@ -1827,7 +1827,7 @@ Baalzebul summons an allied bone devil in an unoccupied space that he can see.</
 All damage dealt by Belial can only be restored through magical means.</text>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede Belials darkvision.</text>
     </trait>
@@ -1922,7 +1922,7 @@ Belial summons an allied horned devil in an unoccupied space that he can see.</t
     <cha>24</cha>
     <save>Str +17, Dex +11, Con +15, Int +15</save>
     <skill>Arcana +23, Insight +22, Intimidation +15, Perception +14, Persuasion +15, Stealth +11</skill>
-    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>fire, poison</immune>
     <conditionImmune>charmed, frightened, poisoned</conditionImmune>
@@ -1936,7 +1936,7 @@ Belial summons an allied horned devil in an unoccupied space that he can see.</t
       <text>+8</text>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede Dispater's darkvision.</text>
     </trait>
@@ -2037,7 +2037,7 @@ Dispater summons an allied erinyes in an unoccupied space that he can see.</text
     <cha>29</cha>
     <save>Dex +15, Con +14, Wis +14, Cha +17</save>
     <skill>Acrobatics +15, Deception +25, Insight +14, Intimidation +17, Perception +14, Persuasion +25</skill>
-    <resist>bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>cold, fire, poison</immune>
     <conditionImmune>charmed, poisoned</conditionImmune>
@@ -2138,7 +2138,7 @@ Fierna summons an allied spined devil in an unoccupied space that she can see.</
     <cha>28</cha>
     <save>Dex +17, Int +13, Wis +15, Cha +17</save>
     <skill>Deception +25, Intimidation +17, Perception +15, Persuasion +17, Stealth +25, Survival +15</skill>
-    <resist>cold, necrotic, radiant; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold, necrotic, radiant; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>fire, poison</immune>
     <conditionImmune>charmed, poisoned</conditionImmune>
@@ -2248,7 +2248,7 @@ Glasya summons an allied erinyes in an unoccupied space that she can see.</text>
     <cha>26</cha>
     <save>Dex +16, Con +14, Int +15, Wis +17</save>
     <skill>Acrobatics +24, Deception +16, Intimidation +16, Perception +25, Persuasion +16, Stealth +16</skill>
-    <resist>bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>cold, fire, poison</immune>
     <conditionImmune>charmed, poisoned</conditionImmune>
@@ -2267,7 +2267,7 @@ Glasya summons an allied erinyes in an unoccupied space that she can see.</text>
 Levistus is always entombed in ice. The ice provides 100 temporary hit points. While Levistus has these temporary hit points, he has vulnerability to fire damage. If Levistus starts his turn with no temporary hit points from the ice, he regains 100 temporary hit points.</text>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede Levistus's darkvision.</text>
     </trait>
@@ -2363,7 +2363,7 @@ Levistus summons an allied ice devil in an unoccupied space that he can see.</te
     <cha>25</cha>
     <save>Dex +11, Con +16, Wis +15, Cha +15</save>
     <skill>Arcana +14, Deception +15, Insight +15, Intimidation +23, Investigation +14, Persuasion +23</skill>
-    <resist>acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>fire, poison</immune>
     <conditionImmune>charmed, poisoned</conditionImmune>
@@ -2377,7 +2377,7 @@ Levistus summons an allied ice devil in an unoccupied space that he can see.</te
       <text>+8</text>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede Mammon's darkvision.</text>
     </trait>
@@ -2470,7 +2470,7 @@ Mammon summons an allied horned devil in an unoccupied space that he can see.</t
     <cha>26</cha>
     <save>Int +18, Wis +17, Cha +16</save>
     <skill>Deception +24, Insight +25, Persuasion +24</skill>
-    <resist>acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>fire, poison</immune>
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
@@ -2484,7 +2484,7 @@ Mammon summons an allied horned devil in an unoccupied space that he can see.</t
       <text>+8</text>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede Mephistopheles' darkvision.</text>
     </trait>
@@ -2597,7 +2597,7 @@ Mephistopheles summons an allied horned devil in an unoccupied space that he can
     <cha>26</cha>
     <save>Dex +10, Con +16, Wis +12</save>
     <skill>Arcana +15, Deception +16, Insight +12, Persuasion +16</skill>
-    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>fire, poison</immune>
     <conditionImmune>poisoned</conditionImmune>
@@ -2693,7 +2693,7 @@ Bel magically summons an ice devil with an ice spear (as described in the ice de
     <cha>14</cha>
     <save>Dex +8, Int +7</save>
     <skill>Deception +6, Intimidation +6, Perception +5, Stealth +8</skill>
-    <resist>bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>cold, fire, poison</immune>
     <conditionImmune>poisoned</conditionImmune>
@@ -2707,7 +2707,7 @@ Bel magically summons an ice devil with an ice spear (as described in the ice de
       <text>+4</text>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede the kocrachon's darkvision.</text>
     </trait>
@@ -2763,7 +2763,7 @@ Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 10 (1d12 + 4) pie
     <cha>13</cha>
     <save>Dex +11, Cha +5</save>
     <skill>Intimidation +5, Perception +5, Stealth +11, Survival +5</skill>
-    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>fire, poison</immune>
     <conditionImmune>charmed, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned</conditionImmune>
@@ -2777,7 +2777,7 @@ Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 10 (1d12 + 4) pie
       <text>+4</text>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede the ayperobo swarm's darkvision.</text>
     </trait>
@@ -2960,7 +2960,7 @@ After taking damage, the halog is now invulnerable to the damage type of the dam
     <cha>10</cha>
     <save>Dex +8, Con +7</save>
     <skill>Acrobatics +8, Athletics +9, Perception +6, Stealth +12</skill>
-    <resist>bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered; damage from spells</resist>
+    <resist>bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered; damage from spells</resist>
     <vulnerable/>
     <immune>fire</immune>
     <conditionImmune/>
@@ -2979,7 +2979,7 @@ After taking damage, the halog is now invulnerable to the damage type of the dam
 Attacks made against a bezekira in bright or dim light have disadvantage.</text>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede the bezekira's darkvision.</text>
     </trait>
@@ -3095,7 +3095,7 @@ As a reaction to taking damage, the maelephant enters a defensive stance until t
     <cha>13</cha>
     <save>Str +8, Con +9</save>
     <skill>Deception +5, Insight +4, Intimidation +5, Perception +4</skill>
-    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>fire, poison</immune>
     <conditionImmune>poisoned</conditionImmune>
@@ -3115,7 +3115,7 @@ Any creature hostile to the excruciarch that starts its turn within 20 feet of t
       <attack>Aura of Torment||4d4</attack>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede the excruciarch's darkvision.</text>
     </trait>
@@ -3171,7 +3171,7 @@ As a reaction to a creature resisting damage dealt by the excruciarch, it turns 
     <cha>11</cha>
     <save>Dex +8, Con +8</save>
     <skill>Acrobatics +8, Athletics +4, Perception +11, Survival +7</skill>
-    <resist>cold, fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold, fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune/>
     <conditionImmune>blinded, charmed, poisoned</conditionImmune>
@@ -3658,7 +3658,7 @@ The vorvolaka makes a Talon attack against a creature. On a hit, the creature's 
     <skill>Athletics +12, Insight +6, Intimidation +4, Perception +6</skill>
     <resist>cold</resist>
     <vulnerable/>
-    <immune>fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</immune>
+    <immune>fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</immune>
     <conditionImmune>frightened, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
     <passive>16</passive>
@@ -3670,7 +3670,7 @@ The vorvolaka makes a Talon attack against a creature. On a hit, the creature's 
       <text>+5</text>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede the war devil's darkvision.</text>
     </trait>
@@ -3973,10 +3973,10 @@ Jenevere casts one of the following spells, requiring no material components and
       <text>+4</text>
     </trait>
     <action>
-      <name>Arbiter's Touch</name>
+      <name>Arbiter&apos;s Touch</name>
       <text>
 Melee Spell Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) radiant damage.</text>
-      <attack>Arbiter's Touch|9|2d6+5</attack>
+      <attack>Arbiter&apos;s Touch|9|2d6+5</attack>
     </action>
     <action>
       <name>Judgement</name>
@@ -3986,7 +3986,7 @@ Koh Tam judges a creature within 60 feet of him. The target must succeed on a DC
       <attack>Extra Damage||10d12+5</attack>
     </action>
     <action>
-      <name>Arbiter's Light (Recharge 4-6)</name>
+      <name>Arbiter&apos;s Light (Recharge 4-6)</name>
       <recharge>D4</recharge>
       <text>
 Ranged Spell Attack: +9 to hit, range 120 ft., one target. Hit: 70 (10d12 + 5) radiant damage, and the target has the blinded condition until the start of Koh Tam's next turn.
@@ -3994,7 +3994,7 @@ Ranged Spell Attack: +9 to hit, range 120 ft., one target. Hit: 70 (10d12 + 5) r
 Blinded:
 	• A blinded creature can't see and automatically fails any ability check that requires sight.
 	• Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.</text>
-      <attack>Arbiter's Light|9|10d12+5</attack>
+      <attack>Arbiter&apos;s Light|9|10d12+5</attack>
     </action>
     <action>
       <name>Spellcasting</name>
@@ -4022,7 +4022,7 @@ Koh Tam casts one of the following spells, using Wisdom as the spellcasting abil
     <cha>14</cha>
     <save>Con +11, Wis +7</save>
     <skill>Arcana +9, Deception +7, Insight +7, Intimidation +7</skill>
-    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>fire, poison</immune>
     <conditionImmune>poisoned, stunned</conditionImmune>
@@ -4036,7 +4036,7 @@ Koh Tam casts one of the following spells, using Wisdom as the spellcasting abil
       <text>+5</text>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede the paeliryon's darkvision.</text>
     </trait>
@@ -4169,7 +4169,7 @@ The miasmorne secretes an acidic solution, then sprays it around itself. All cre
     <cha>10</cha>
     <save>Con +11, Int +5</save>
     <skill>Insight +4, Nature +5, Perception +4, Survival +4</skill>
-    <resist>fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>psychic</immune>
     <conditionImmune>blinded, charmed, frightened</conditionImmune>

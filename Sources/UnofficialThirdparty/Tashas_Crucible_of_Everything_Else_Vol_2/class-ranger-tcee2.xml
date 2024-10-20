@@ -6,13 +6,13 @@
     <autolevel level="3">
       <feature optional="YES">
         <name>Ranger Archetype: Bog Phantom (HB)</name>
-        <text>You follow patterns set by will-o'-wisps, departed souls that feed on fear and despair. Good Bog Phantoms often serve as guides in swamps or other dangerous areas. Evil ones may copy the behaviors of their power's inspiration, and enjoy luring unsuspecting wanderers to their deaths.
+        <text>You follow patterns set by will-o&apos;-wisps, departed souls that feed on fear and despair. Good Bog Phantoms often serve as guides in swamps or other dangerous areas. Evil ones may copy the behaviors of their power&apos;s inspiration, and enjoy luring unsuspecting wanderers to their deaths.
 
 Source:	Tasha's Crucible of Everything Else, Volume 2 p. 28 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Bog Phantom (HB): Bog Phantom Magic</name>
-        <text>You learn an additional spell when you reach certain levels in this class, as shown in the Bog Phantom Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
+        <text>You learn an additional spell when you reach certain levels in this class, as shown in the Bog Phantom Spells table. The spell counts as a ranger spell for you, but it doesn&apos;t count against the number of ranger spells you know.
 
 Bog Phantom Spells:
 Level | Spells
@@ -82,7 +82,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 29 (Homebrew)</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Ranger Archetype: Predator (HB)</name>
-        <text>The Predator archetype involves hunting monstrosities of the world such as the basilisk, hydra, and wyvern. They study these creatures' traits and emulate their abilities and behaviors using their swift cunning, physical might, and primal magic.
+        <text>The Predator archetype involves hunting monstrosities of the world such as the basilisk, hydra, and wyvern. They study these creatures&apos; traits and emulate their abilities and behaviors using their swift cunning, physical might, and primal magic.
 
 Source:	Tasha's Crucible of Everything Else, Volume 2 p. 29 (Homebrew)</text>
       </feature>
@@ -141,7 +141,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 2 p. 30 (Homebrew)</text>
     </autolevel>
     <autolevel level="11">
       <feature optional="YES">
-        <name>Predator (HB): Predator's Prowess</name>
+        <name>Predator (HB): Predator&apos;s Prowess</name>
         <text>You gain one of the following features of your choice.
 
 Basilisk's Petrifying Gaze:

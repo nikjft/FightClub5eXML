@@ -58,7 +58,7 @@ Source:	Heliana's Guide to Monster Hunting p. 182 (Homebrew)</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Circle of the Hive (HB): Honeydrenaline</name>
-        <text>You have attracted a species of flying arthropod that produces a mixture of sugar and adrenaline with amazing, stimulating properties. As a bonus action, you can send these creatures to invigorate a willing creature you can see within 30 feet of you. The creature regains hit points equal to your druid level and can immediately use its reaction to move up to its speed. This movement doesn't provoke opportunity attacks.
+        <text>You have attracted a species of flying arthropod that produces a mixture of sugar and adrenaline with amazing, stimulating properties. As a bonus action, you can send these creatures to invigorate a willing creature you can see within 30 feet of you. The creature regains hit points equal to your druid level and can immediately use its reaction to move up to its speed. This movement doesn&apos;t provoke opportunity attacks.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 

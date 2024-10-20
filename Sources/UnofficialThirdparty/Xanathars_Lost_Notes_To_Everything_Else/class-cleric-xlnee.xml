@@ -41,7 +41,7 @@ Source:	Xanathar's Lost Notes To Everything Else p. 13 (Homebrew)</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Entropy Domain (HB): Channel Divinity: Entropic Retaliation</name>
-        <text>At 6th level, you can use your Channel Divinity to drain a caster's magical power. When you succeed on a saving throw against a spell or successfully disrupt a spell using Arcane Disruption, you can use your reaction to force the caster to make a Constitution saving throw. On a failed save, the caster loses an additional spell slot of the same level. If they possess no more slots of that level, they instead gain a level of exhaustion.
+        <text>At 6th level, you can use your Channel Divinity to drain a caster&apos;s magical power. When you succeed on a saving throw against a spell or successfully disrupt a spell using Arcane Disruption, you can use your reaction to force the caster to make a Constitution saving throw. On a failed save, the caster loses an additional spell slot of the same level. If they possess no more slots of that level, they instead gain a level of exhaustion.
 
 Source:	Xanathar's Lost Notes To Everything Else p. 13 (Homebrew)</text>
       </feature>

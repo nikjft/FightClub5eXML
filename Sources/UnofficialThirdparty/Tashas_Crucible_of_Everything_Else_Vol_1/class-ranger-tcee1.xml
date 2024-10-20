@@ -59,7 +59,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 34 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Herbalist (HB): Herbalist Magic</name>
-        <text>You learn an additional spell when you reach certain levels in this class, as shown in the Herbalist Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
+        <text>You learn an additional spell when you reach certain levels in this class, as shown in the Herbalist Spells table. The spell counts as a ranger spell for you, but it doesn&apos;t count against the number of ranger spells you know.
 
 Herbalist Spells:
 Ranger Level | Spell
@@ -169,13 +169,13 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 36 (Homebrew)</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Ranger Archetype: Stargazer (HB)</name>
-        <text>Staring up at the night sky, one's thoughts may drift to the vast unknown of the cosmos; an infinitely expansive sea of darkness speckled with inconceivably hot stars and unforgivingly harsh planets. While the starry heavens might seem absolutely foreign and unknowable, the Stargazer finds comfort and guidance from them. They learn more about their current location by looking at the constellations than they would from seeing a map.
+        <text>Staring up at the night sky, one&apos;s thoughts may drift to the vast unknown of the cosmos; an infinitely expansive sea of darkness speckled with inconceivably hot stars and unforgivingly harsh planets. While the starry heavens might seem absolutely foreign and unknowable, the Stargazer finds comfort and guidance from them. They learn more about their current location by looking at the constellations than they would from seeing a map.
 
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 36 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Stargazer (HB): Stargazer Magic</name>
-        <text>You learn an additional spell when you reach certain levels in this class, as shown in the Stargazer Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
+        <text>You learn an additional spell when you reach certain levels in this class, as shown in the Stargazer Spells table. The spell counts as a ranger spell for you, but it doesn&apos;t count against the number of ranger spells you know.
 
 Stargazer Spells:
 Ranger Level | Spell
@@ -189,7 +189,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 36 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Stargazer (HB): Astronavigation</name>
-        <text>Beginning at 3rd level, you gain proficiency with cartographer's tools and navigator's tools. While you have a clear vision of any cosmic bodies (such as stars, moons, or planets), you always know your location in the Material Plane and what time of year it is. This feature does not work if you are not on the planet or plane of your origin, though you can spend 8 hours studying the night sky to reorient yourself on new planets or planes in this way.
+        <text>Beginning at 3rd level, you gain proficiency with cartographer&apos;s tools and navigator&apos;s tools. While you have a clear vision of any cosmic bodies (such as stars, moons, or planets), you always know your location in the Material Plane and what time of year it is. This feature does not work if you are not on the planet or plane of your origin, though you can spend 8 hours studying the night sky to reorient yourself on new planets or planes in this way.
 
 Further, you have advantage on saving throws against being blinded, and dim light does not impose disadvantage on your Wisdom (Perception) checks.
 
@@ -219,7 +219,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 37 (Homebrew)</text>
     <autolevel level="11">
       <feature optional="YES">
         <name>Stargazer (HB): Guiding Light</name>
-        <text>Whenever you hit a creature with a 19 or 20 on an attack roll, you can choose to cause the creature to emanate bright sunlight until the start of your next turn. An affected creature sheds bright light in a 20-foot radius and dim light for an additional 20-feet. Any creature or object within the bright light can't benefit from being invisible, and the next attack made against the glowing creature has advantage while it is illuminated.
+        <text>Whenever you hit a creature with a 19 or 20 on an attack roll, you can choose to cause the creature to emanate bright sunlight until the start of your next turn. An affected creature sheds bright light in a 20-foot radius and dim light for an additional 20-feet. Any creature or object within the bright light can&apos;t benefit from being invisible, and the next attack made against the glowing creature has advantage while it is illuminated.
 
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 37 (Homebrew)</text>
       </feature>

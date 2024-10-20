@@ -16,7 +16,7 @@ Source:	Unearthed Arcana: 2020 Subclasses Pt3 p. 3</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Circle of the Stars (UA): Star Map</name>
-        <text>You've created a star map as part of your study of the heavens. The map is a Tiny object and can serve as a spellcasting focus for your druid spells. You decide what form the object takes, or you can determine what it is by rolling on the Star Map table.
+        <text>You&apos;ve created a star map as part of your study of the heavens. The map is a Tiny object and can serve as a spellcasting focus for your druid spells. You decide what form the object takes, or you can determine what it is by rolling on the Star Map table.
 
 Star Map:
 d6 | Map Form
@@ -37,7 +37,7 @@ Source:	Unearthed Arcana: 2020 Subclasses Pt3 p. 3</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Circle of the Stars (UA): Starry Form</name>
-        <text>You gain the ability to harness constellations' power to alter your form.
+        <text>You gain the ability to harness constellations&apos; power to alter your form.
 
 As an action, you can expend a use of your Wild Shape feature to take on a starry form rather than transforming into a beast.
 

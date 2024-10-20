@@ -168,7 +168,7 @@ Source:	LaserLlama: Paladin Sacred Oaths v2.5.1 p. 4 (Homebrew)</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Sacred Oath: Oath of the Corsair (HB)</name>
-        <text>Fearsome warriors of the high seas, Corsair Paladins, swear an Oath to themselves and their crew and will do whatever it takes to maintain their freedom. Chaotic by nature, these scallywags abhor any laws that aren't their own. While most Paladins follow the law of the land or the tenets of a deity, Corsairs follow only laws they have personally agreed to. No matter their philosophy, Corsairs are all fiercely loyal.
+        <text>Fearsome warriors of the high seas, Corsair Paladins, swear an Oath to themselves and their crew and will do whatever it takes to maintain their freedom. Chaotic by nature, these scallywags abhor any laws that aren&apos;t their own. While most Paladins follow the law of the land or the tenets of a deity, Corsairs follow only laws they have personally agreed to. No matter their philosophy, Corsairs are all fiercely loyal.
 
 Source:	LaserLlama: Paladin Sacred Oaths v2.5.1 p. 4 (Homebrew)</text>
       </feature>
@@ -355,7 +355,7 @@ Source:	LaserLlama: Paladin Sacred Oaths v2.5.1 p. 6 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Oath of the Forge (HB): Forge Spells</name>
-        <text>The spells below become Paladin spells for you at the levels noted in the table below. You always have them prepared, but they don't count against the spells you can prepare each day.
+        <text>The spells below become Paladin spells for you at the levels noted in the table below. You always have them prepared, but they don&apos;t count against the spells you can prepare each day.
 
 Oath of the Forge Spells:
 Paladin Level | Spells
@@ -439,7 +439,7 @@ Source:	LaserLlama: Paladin Sacred Oaths v2.5.1 p. 7 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Oath of the Inquisition (HB): Inquisition Spells</name>
-        <text>The spells below become Paladin spells for you at the levels noted in the table below. You always have them prepared, but they don't count against the spells you can prepare each day.
+        <text>The spells below become Paladin spells for you at the levels noted in the table below. You always have them prepared, but they don&apos;t count against the spells you can prepare each day.
 
 Oath of the Inquisition Spells:
 Paladin Level | Spells
@@ -521,7 +521,7 @@ Source:	LaserLlama: Paladin Sacred Oaths v2.5.1 p. 8 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Oath of Liberty (HB): Liberty Spells</name>
-        <text>The spells below become Paladin spells for you at the levels noted in the table below. You always have them prepared, but they don't count against the spells you can prepare each day.
+        <text>The spells below become Paladin spells for you at the levels noted in the table below. You always have them prepared, but they don&apos;t count against the spells you can prepare each day.
 
 Oath of Liberty Spells:
 Paladin Level | Spells
@@ -606,7 +606,7 @@ Source:	LaserLlama: Paladin Sacred Oaths v2.5.1 p. 10 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Oath of Mysticism (HB): Mysticism Spells</name>
-        <text>The spells below become Paladin spells for you at the levels noted in the table below. You always have them prepared, but they don't count against the spells you can prepare each day.
+        <text>The spells below become Paladin spells for you at the levels noted in the table below. You always have them prepared, but they don&apos;t count against the spells you can prepare each day.
 
 Oath of Mysticism Spells:
 Paladin Level | Spells
@@ -690,7 +690,7 @@ Source:	LaserLlama: Paladin Sacred Oaths v2.5.1 p. 10 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Oath of Prosperity (HB): Prosperity Spells</name>
-        <text>The spells below become Paladin spells for you at the levels noted in the table below. You always have them prepared, but they don't count against the spells you can prepare each day.
+        <text>The spells below become Paladin spells for you at the levels noted in the table below. You always have them prepared, but they don&apos;t count against the spells you can prepare each day.
 
 Oath of Prosperity Spells:
 Paladin Level | Spells
@@ -772,7 +772,7 @@ Source:	LaserLlama: Paladin Sacred Oaths v2.5.1 p. 11 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Oath of the Shield (HB): Shield Spells</name>
-        <text>The spells below become Paladin spells for you at the levels noted in the table below. You always have them prepared, but they don't count against the spells you can prepare each day.
+        <text>The spells below become Paladin spells for you at the levels noted in the table below. You always have them prepared, but they don&apos;t count against the spells you can prepare each day.
 
 Oath of the Shield Spells:
 Paladin Level | Spells
@@ -854,7 +854,7 @@ Source:	LaserLlama: Paladin Sacred Oaths v2.5.1 p. 12 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Oath of the Wild (HB): Wild Spells</name>
-        <text>The spells below become Paladin spells for you at the levels noted in the table below. You always have them prepared, but they don't count against the spells you can prepare each day.
+        <text>The spells below become Paladin spells for you at the levels noted in the table below. You always have them prepared, but they don&apos;t count against the spells you can prepare each day.
 
 Oath of the Wild Spells:
 Paladin Level | Spells
@@ -890,7 +890,7 @@ Source:	LaserLlama: Paladin Sacred Oaths v2.5.1 p. 13 (Homebrew)</text>
     <autolevel level="15">
       <feature optional="YES">
         <name>Oath of the Wild (HB): Undying Predator</name>
-        <text>Not even death can keep you from defending the wilds. If you are reduced to 0 hit points and are not killed outright, you can choose to drop to 1 hit point instead. Once you use this ability, you can't use it again until you finish a long rest.
+        <text>Not even death can keep you from defending the wilds. If you are reduced to 0 hit points and are not killed outright, you can choose to drop to 1 hit point instead. Once you use this ability, you can&apos;t use it again until you finish a long rest.
 
 Additionally, you suffer none of the drawbacks of old age, and you can't be aged magically.
 
@@ -923,13 +923,13 @@ Source:	LaserLlama: Paladin Sacred Oaths v2.5.1 p. 13 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>The Oathless (HB): Tenets of the Oathless</name>
-        <text>An Oathless Paladin owes allegiance to no one. They hold to no Tenets and are loyal to nothing but themselves. Oathless Paladins are often selfish, with their own safety and power being their only concern. These lost warriors won't hesitate to obtain what they desire, even at the expense of others.
+        <text>An Oathless Paladin owes allegiance to no one. They hold to no Tenets and are loyal to nothing but themselves. Oathless Paladins are often selfish, with their own safety and power being their only concern. These lost warriors won&apos;t hesitate to obtain what they desire, even at the expense of others.
 
 Source:	LaserLlama: Paladin Sacred Oaths v2.5.1 p. 13 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>The Oathless (HB): Oathless Spells</name>
-        <text>The spells below become Paladin spells for you at the levels noted in the table below. You always have them prepared, but they don't count against the spells you can prepare each day.
+        <text>The spells below become Paladin spells for you at the levels noted in the table below. You always have them prepared, but they don&apos;t count against the spells you can prepare each day.
 
 The Oathless Spells:
 Paladin Level | Spells

@@ -77,13 +77,13 @@ Sorcerers have no use for the spellbooks and ancient tomes of magic lore that wi
     </trait>
     <trait>
       <name>Unexplained Powers</name>
-      <text>Sorcerers are rare in the world, and it's unusual to find a sorcerer who is not involved in the adventuring life in some way. People with magical power seething in their veins soon discover that the power doesn't like to stay quiet. A sorcerer's magic wants to be wielded, and it has a tendency to spill out in unpredictable ways if it isn't called on.
+      <text>Sorcerers are rare in the world, and it's unusual to find a sorcerer who is not involved in the adventuring life in some way. People with magical power seething in their veins soon discover that the power doesn't like to stay quiet. A sorcerer&apos;s magic wants to be wielded, and it has a tendency to spill out in unpredictable ways if it isn&apos;t called on.
 
 Sorcerers often have obscure or quixotic motivations driving them to adventure. Some seek a greater understanding of the magical force that infuses them, or the answer to the mystery of its origin. Others hope to find a way to get rid of it, or to unleash its full potential. Whatever their goals, sorcerers are every bit as useful to an adventuring party as wizards, making up for a comparative lack of breadth in their magical knowledge with enormous flexibility in using the spells they know.</text>
     </trait>
     <trait>
       <name>Creating a Sorcerer</name>
-      <text>The most important question to consider when creating your sorcerer is the origin of your power. As a starting character, you'll choose an origin that ties to a draconic bloodline or the influence of wild magic, but the exact source of your power is up to you to decide. Is it a family curse, passed down to you from distant ancestors? Or did some extraordinary event leave you blessed with inherent magic but perhaps scarred as well?
+      <text>The most important question to consider when creating your sorcerer is the origin of your power. As a starting character, you&apos;ll choose an origin that ties to a draconic bloodline or the influence of wild magic, but the exact source of your power is up to you to decide. Is it a family curse, passed down to you from distant ancestors? Or did some extraordinary event leave you blessed with inherent magic but perhaps scarred as well?
 
 How do you feel about the magical power coursing through you? Do you embrace it, try to master it, or revel in its unpredictable nature? Is it a blessing or a curse? Did you seek it out, or did it find you? Did you have the option to refuse it, and do you wish you had? What do you intend to do with it? Perhaps you feel like you've been given this power for some lofty purpose. Or you might decide that the power gives you the right to do what you want, to take what you want from those who lack such power. Perhaps your power links you to a powerful individual in the world — the fey creature that blessed you at birth, the dragon who put a drop of its blood into your veins, the lich who created you as an experiment, or the deity who chose you to carry this power.
 
@@ -119,7 +119,7 @@ Source:	Player's Handbook p. 99</text>
     <autolevel level="1">
       <feature optional="YES">
         <name>Multiclass Sorcerer</name>
-        <text>If your group uses the optional rule on multiclassing in the Player's Handbook, here's what you need to know if you choose sorcerer as one of your classes.
+        <text>If your group uses the optional rule on multiclassing in the Player&apos;s Handbook, here&apos;s what you need to know if you choose sorcerer as one of your classes.
 
 Ability Score Minimum:
 As a multiclass character, you must have at least the following ability score(s) to take a level in this class, or to take a level in another class if you are already a sorcerer.
@@ -378,7 +378,7 @@ Source:	Player's Handbook p. 101</text>
       </feature>
       <feature optional="YES">
         <name>Metamagic: Careful Spell</name>
-        <text>When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.
+        <text>When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell&apos;s full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.
 
 Source:	Player's Handbook p. 102</text>
       </feature>
@@ -424,7 +424,7 @@ Source:	Player's Handbook p. 102</text>
       </feature>
       <feature optional="YES">
         <name>Metamagic: Twinned Spell</name>
-        <text>When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
+        <text>When you cast a spell that targets only one creature and doesn&apos;t have a range of self, you can spend a number of sorcery points equal to the spell&apos;s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 
 To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, magic missile and scorching ray aren't eligible, but ray of frost and chromatic orb are.
 
@@ -443,7 +443,7 @@ Source:	Player's Handbook p. 102</text>
     <autolevel level="4" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -488,7 +488,7 @@ Source:	Player's Handbook p. 102</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Wild Magic: Bend Luck</name>
-        <text>Starting at 6th level, you have the ability to twist fate using your wild magic. When another creature you can see makes an attack roll, an ability check, or a saving throw, you can use your reaction and spend 2 sorcery points to roll 1d4 and apply the number rolled as a bonus or penalty (your choice) to the creature's roll. You can do so after the creature rolls but before any effects of the roll occur.
+        <text>Starting at 6th level, you have the ability to twist fate using your wild magic. When another creature you can see makes an attack roll, an ability check, or a saving throw, you can use your reaction and spend 2 sorcery points to roll 1d4 and apply the number rolled as a bonus or penalty (your choice) to the creature&apos;s roll. You can do so after the creature rolls but before any effects of the roll occur.
 
 Source:	Player's Handbook p. 103</text>
       </feature>
@@ -505,7 +505,7 @@ Source:	Player's Handbook p. 103</text>
     <autolevel level="8" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -546,7 +546,7 @@ Source:	Player's Handbook p. 99</text>
       </feature>
       <feature optional="YES">
         <name>Metamagic: Careful Spell</name>
-        <text>When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.
+        <text>When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell&apos;s full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.
 
 Source:	Player's Handbook p. 102</text>
       </feature>
@@ -592,7 +592,7 @@ Source:	Player's Handbook p. 102</text>
       </feature>
       <feature optional="YES">
         <name>Metamagic: Twinned Spell</name>
-        <text>When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
+        <text>When you cast a spell that targets only one creature and doesn&apos;t have a range of self, you can spend a number of sorcery points equal to the spell&apos;s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 
 To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, magic missile and scorching ray aren't eligible, but ray of frost and chromatic orb are.
 
@@ -619,7 +619,7 @@ Source:	Player's Handbook p. 102</text>
     <autolevel level="12" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -691,7 +691,7 @@ Source:	Player's Handbook p. 103</text>
     <autolevel level="16" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
@@ -716,7 +716,7 @@ Source:	Player's Handbook p. 99</text>
       </feature>
       <feature optional="YES">
         <name>Metamagic: Careful Spell</name>
-        <text>When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.
+        <text>When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell&apos;s full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.
 
 Source:	Player's Handbook p. 102</text>
       </feature>
@@ -762,7 +762,7 @@ Source:	Player's Handbook p. 102</text>
       </feature>
       <feature optional="YES">
         <name>Metamagic: Twinned Spell</name>
-        <text>When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
+        <text>When you cast a spell that targets only one creature and doesn&apos;t have a range of self, you can spend a number of sorcery points equal to the spell&apos;s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 
 To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, magic missile and scorching ray aren't eligible, but ray of frost and chromatic orb are.
 
@@ -818,7 +818,7 @@ Source:	Player's Handbook p. 103</text>
     <autolevel level="19" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&apos;t increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 

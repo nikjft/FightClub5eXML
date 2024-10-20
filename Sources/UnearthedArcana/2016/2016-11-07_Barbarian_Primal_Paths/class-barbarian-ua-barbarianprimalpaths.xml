@@ -18,7 +18,7 @@ Source:	Unearthed Arcana: Barbarian Primal Paths p. 1</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Path of the Ancestral Guardian (UA): Ancestral Protectors</name>
-        <text>Starting when you choose this path at 3rd level, spectral warriors appear when you rage. These warriors distract a foe you designate and hinder its attempts to evade you. While you're raging, you can use a bonus action on your turn to choose one creature you can see within 5 feet of you. Until the start of your next turn or until your rage ends, the chosen creature has disadvantage on any attack roll that doesn't target you, and if the creature takes the Disengage action within 5 feet of you, its speed is halved until the end of its turn.
+        <text>Starting when you choose this path at 3rd level, spectral warriors appear when you rage. These warriors distract a foe you designate and hinder its attempts to evade you. While you&apos;re raging, you can use a bonus action on your turn to choose one creature you can see within 5 feet of you. Until the start of your next turn or until your rage ends, the chosen creature has disadvantage on any attack roll that doesn&apos;t target you, and if the creature takes the Disengage action within 5 feet of you, its speed is halved until the end of its turn.
 
 Source:	Unearthed Arcana: Barbarian Primal Paths p. 1</text>
       </feature>
@@ -112,7 +112,7 @@ Source:	Unearthed Arcana: Barbarian Primal Paths p. 1</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Path of the Zealot (UA): Zealous Focus</name>
-        <text>At 6th level, the divine power that fuels your rage can shield you from harm. If you fail a saving throw while raging, you can instead succeed on that saving throw as a reaction. However, doing so immediately ends your rage, and you can't rage again until you finish a short or long rest.
+        <text>At 6th level, the divine power that fuels your rage can shield you from harm. If you fail a saving throw while raging, you can instead succeed on that saving throw as a reaction. However, doing so immediately ends your rage, and you can&apos;t rage again until you finish a short or long rest.
 
 Source:	Unearthed Arcana: Barbarian Primal Paths p. 2</text>
       </feature>
@@ -152,7 +152,7 @@ Source:	Unearthed Arcana: Barbarian Primal Paths p. 2</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Path of the Ancestral Guardian (UA): Vengeful Ancestors</name>
-        <text>At 14th level, your ancestral spirits grow powerful enough to strike your foes. When you or an ally you can see within 30 feet of you is damaged by a melee attack while you're raging, you can use your reaction to cause the attacker to take 2d8 force damage from the spirits.
+        <text>At 14th level, your ancestral spirits grow powerful enough to strike your foes. When you or an ally you can see within 30 feet of you is damaged by a melee attack while you&apos;re raging, you can use your reaction to cause the attacker to take 2d8 force damage from the spirits.
 
 Source:	Unearthed Arcana: Barbarian Primal Paths p. 1</text>
       </feature>
@@ -179,7 +179,7 @@ Source:	Unearthed Arcana: Barbarian Primal Paths p. 1</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Path of the Zealot (UA): Rage Beyond Death</name>
-        <text>Beginning at 14th level, the divine power that fuels your rage allows you to shrug off fatal blows. While raging, having 0 hit points doesn't knock you unconscious. You still must make death saving throws, and you suffer the normal effects of taking damage while at 0 hit points. However, if you would die due to failing death saving throws, you don't die until your rage ends.
+        <text>Beginning at 14th level, the divine power that fuels your rage allows you to shrug off fatal blows. While raging, having 0 hit points doesn&apos;t knock you unconscious. You still must make death saving throws, and you suffer the normal effects of taking damage while at 0 hit points. However, if you would die due to failing death saving throws, you don&apos;t die until your rage ends.
 
 Source:	Unearthed Arcana: Barbarian Primal Paths p. 2</text>
       </feature>

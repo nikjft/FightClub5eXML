@@ -41,7 +41,7 @@ Source:	Xanathar's Guide to Everything p. 55</text>
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>The Hexblade: Hexblade's Curse [2014]</name>
+        <name>The Hexblade: Hexblade&apos;s Curse [2014]</name>
         <text>Starting at 1st level, you gain the ability to place a baleful curse on someone. As a bonus action, choose one creature you can see within 30 feet of you. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or you are incapacitated. Until the curse ends, you gain the following benefits:
 
 	• You gain a bonus to damage rolls against the cursed target. The bonus equals your proficiency bonus.
@@ -75,7 +75,7 @@ Source:	Xanathar's Guide to Everything p. 55</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>The Hexblade: Armor of Hexes [2014]</name>
-        <text>At 10th level, your hex grows more powerful. If the target cursed by your Hexblade's Curse hits you with an attack roll, you can use your reaction to roll a d6. On a 4 or higher, the attack instead misses you, regardless of its roll.
+        <text>At 10th level, your hex grows more powerful. If the target cursed by your Hexblade&apos;s Curse hits you with an attack roll, you can use your reaction to roll a d6. On a 4 or higher, the attack instead misses you, regardless of its roll.
 
 Source:	Xanathar's Guide to Everything p. 55</text>
       </feature>
@@ -84,7 +84,7 @@ Source:	Xanathar's Guide to Everything p. 55</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>The Hexblade: Master of Hexes [2014]</name>
-        <text>Starting at 14th level, you can spread your Hexblade's Curse from a slain creature to another creature. When the creature cursed by your Hexblade's Curse dies, you can apply the curse to a different creature you can see within 30 feet of you, provided you aren't incapacitated. When you apply the curse in this way, you don't regain hit points from the death of the previously cursed creature.
+        <text>Starting at 14th level, you can spread your Hexblade's Curse from a slain creature to another creature. When the creature cursed by your Hexblade's Curse dies, you can apply the curse to a different creature you can see within 30 feet of you, provided you aren&apos;t incapacitated. When you apply the curse in this way, you don&apos;t regain hit points from the death of the previously cursed creature.
 
 Source:	Xanathar's Guide to Everything p. 55</text>
       </feature>

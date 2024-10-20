@@ -71,7 +71,7 @@ d6 | Flaw
     <proficiency>Deception, Religion</proficiency>
     <trait>
       <name>Description</name>
-      <text>You believe in a doctrine outlawed by your faith, taught to you in secret by other heretics. Perhaps your superiors excommunicated you from your temple, or forbidden dogma provided answers to questions you never sought. Whatever your origin, you're now shunned by the faithful, or worse, hunted.
+      <text>You believe in a doctrine outlawed by your faith, taught to you in secret by other heretics. Perhaps your superiors excommunicated you from your temple, or forbidden dogma provided answers to questions you never sought. Whatever your origin, you&apos;re now shunned by the faithful, or worse, hunted.
 
 	• Skill Proficiencies: Deception, Religion
 	• Languages: Two of your choice
@@ -142,7 +142,7 @@ d6 | Flaw
     <proficiency>Athletics, History</proficiency>
     <trait>
       <name>Description</name>
-      <text>You have heroes in your family background and the story of your ancestors is known far and wide. Perhaps your parents were a famous adventuring duo, or a grandparent hunted and killed great evils. Maybe your heroic bloodline has many heroes within it going back as far as any can remember. Whatever the case, the deeds of those who came before you are great and the public's expectation of your accomplishments is even greater. The weight of your family name affects all you do.
+      <text>You have heroes in your family background and the story of your ancestors is known far and wide. Perhaps your parents were a famous adventuring duo, or a grandparent hunted and killed great evils. Maybe your heroic bloodline has many heroes within it going back as far as any can remember. Whatever the case, the deeds of those who came before you are great and the public&apos;s expectation of your accomplishments is even greater. The weight of your family name affects all you do.
 
 	• Skill Proficiencies: Athletics, History
 	• Tool Proficiencies: Vehicles (land)
@@ -153,11 +153,11 @@ Source:	Xanathar's Lost Notes of Everything Else p. 43 (Homebrew)</text>
     </trait>
     <trait>
       <name>Feature:</name>
-      <text>Since your family name is known, you can reap many benefits by flying the flag of your heritage. People in positions of power and privilege are willing to take a meeting with you and grant you favors. The DM decides the extent and effect of these favors, but they shouldn't involve lavish gifts or great personal risk to the granter.</text>
+      <text>Since your family name is known, you can reap many benefits by flying the flag of your heritage. People in positions of power and privilege are willing to take a meeting with you and grant you favors. The DM decides the extent and effect of these favors, but they shouldn&apos;t involve lavish gifts or great personal risk to the granter.</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>You've lived a different life than those less famous than you, and probably don't know yourself as well as you should. Since birth you've been told you are special and destined for greatness, which is an idea you may be eager to prove or disprove. You're used to being under pressure and to folks talking about you both to your face and behind your back. As you start your adventuring career you have a choice to make. Most people of a heroic lineage who adventure either embrace the family name or try to get out there and make their own way. The result, however, is the same-a determined hero trying to show the world they're something more just a lucky kid with the right parents.
+      <text>You've lived a different life than those less famous than you, and probably don't know yourself as well as you should. Since birth you've been told you are special and destined for greatness, which is an idea you may be eager to prove or disprove. You&apos;re used to being under pressure and to folks talking about you both to your face and behind your back. As you start your adventuring career you have a choice to make. Most people of a heroic lineage who adventure either embrace the family name or try to get out there and make their own way. The result, however, is the same-a determined hero trying to show the world they&apos;re something more just a lucky kid with the right parents.
 
 d8 | Personality Trait
 1 | I am polite and humble to all who fawn over me.
@@ -211,15 +211,15 @@ Source:	Xanathar's Lost Notes of Everything Else p. 44 (Homebrew)</text>
     </trait>
     <trait>
       <name>Feature: Kindred Spirit</name>
-      <text>Nonhostile creatures of the same type as your polymorphed form are inclined to like you. These creatures might help guide you to a place if they know its location, provide you with shelter, or shield you from danger, provided they aren't put directly into harm's way.</text>
+      <text>Nonhostile creatures of the same type as your polymorphed form are inclined to like you. These creatures might help guide you to a place if they know its location, provide you with shelter, or shield you from danger, provided they aren&apos;t put directly into harm&apos;s way.</text>
     </trait>
     <trait>
       <name>Variant Feature: Body Horror</name>
-      <text>This feature is meant for games using the variant madness rules in chapter 8 of the Dungeon Master's Guide. Before choosing this feature you must ask your DM. You have spent so much time in the form of another creature that you aren't easily shocked by bodily manipulation and mutilation. Whenever such a sight would cause you to save against a madness effect you automatically succeed.</text>
+      <text>This feature is meant for games using the variant madness rules in chapter 8 of the Dungeon Master&apos;s Guide. Before choosing this feature you must ask your DM. You have spent so much time in the form of another creature that you aren&apos;t easily shocked by bodily manipulation and mutilation. Whenever such a sight would cause you to save against a madness effect you automatically succeed.</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>You have spent so much time in the skin of another form that you're not comfortable with your true body. This discomfort may manifest in a physical form like fidgeting, wearing baggy or eccentric clothing, or the need to change your appearance through tattoos or piercings. You may have more of a subconscious mental tick like targeting the appearance of others to make yourself feel better or nightmares of once again living in your polymorphed form. Your old form was a prison that hid your true self, but it was also a way to keep yourself shielded from harm.
+      <text>You have spent so much time in the skin of another form that you&apos;re not comfortable with your true body. This discomfort may manifest in a physical form like fidgeting, wearing baggy or eccentric clothing, or the need to change your appearance through tattoos or piercings. You may have more of a subconscious mental tick like targeting the appearance of others to make yourself feel better or nightmares of once again living in your polymorphed form. Your old form was a prison that hid your true self, but it was also a way to keep yourself shielded from harm.
 
 d8 | Personality Trait
 1 | I am always fidgeting because I am uncomfortable.
@@ -282,7 +282,7 @@ Source:	Xanathar's Lost Notes of Everything Else p. 45 (Homebrew)</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>As a voice of experience in your party, you know the danger of the road you walk. You understand when to be cautious and when it is time to take a risk. You have the right advice, warnings, and stories for all situations. Even if you don't know what you're doing, your past makes others look to you for leadership.
+      <text>As a voice of experience in your party, you know the danger of the road you walk. You understand when to be cautious and when it is time to take a risk. You have the right advice, warnings, and stories for all situations. Even if you don&apos;t know what you&apos;re doing, your past makes others look to you for leadership.
 
 d8 | Personality Trait
 1 | I have no idea how to tell a short story.

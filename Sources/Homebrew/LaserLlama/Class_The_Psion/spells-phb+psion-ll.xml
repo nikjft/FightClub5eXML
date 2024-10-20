@@ -113,7 +113,7 @@
     <classes>Psion (LaserLlama)</classes>
   </spell>
   <spell>
-    <name>Tasha's Hideous Laughter</name>
+    <name>Tasha&apos;s Hideous Laughter</name>
     <classes>Psion (LaserLlama)</classes>
   </spell>
   <spell>
@@ -321,11 +321,11 @@
     <classes>Psion (LaserLlama)</classes>
   </spell>
   <spell>
-    <name>Otiluke's Resilient Sphere</name>
+    <name>Otiluke&apos;s Resilient Sphere</name>
     <classes>Psion (LaserLlama)</classes>
   </spell>
   <spell>
-    <name>Bigby's Hand</name>
+    <name>Bigby&apos;s Hand</name>
     <classes>Psion (LaserLlama)</classes>
   </spell>
   <spell>
@@ -369,7 +369,7 @@
     <classes>Psion (LaserLlama)</classes>
   </spell>
   <spell>
-    <name>Rary's Telepathic Bond</name>
+    <name>Rary&apos;s Telepathic Bond</name>
     <classes>Psion (LaserLlama)</classes>
   </spell>
   <spell>
@@ -527,7 +527,7 @@
     <classes>Psion (LaserLlama) (Enlightened)</classes>
   </spell>
   <spell>
-    <name>Otiluke's Resilient Sphere</name>
+    <name>Otiluke&apos;s Resilient Sphere</name>
     <classes>Psion (LaserLlama) (Enlightened)</classes>
   </spell>
   <spell>
@@ -614,7 +614,7 @@
 
 
   <spell>
-    <name>Tasha's Hideous Laughter</name>
+    <name>Tasha&apos;s Hideous Laughter</name>
     <classes>Psion (LaserLlama) (Wilder)</classes>
   </spell>
   <spell>

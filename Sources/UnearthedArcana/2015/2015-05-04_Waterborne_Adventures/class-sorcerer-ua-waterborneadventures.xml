@@ -42,7 +42,7 @@ Source:	Unearthed Arcana: Waterborne Adventures p. 4</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Storm Sorcery (UA): Heart of the Storm</name>
-        <text>At 6th level, you gain resistance to lightning and thunder damage. Whenever you cast a spell other than a cantrip that deals lightning or thunder damage, a stormy aura surrounds you. In addition to the spell's effects, creatures of your choice within 10 feet of you take lightning or thunder damage (choose each time this ability activates) equal to half your sorcerer level.
+        <text>At 6th level, you gain resistance to lightning and thunder damage. Whenever you cast a spell other than a cantrip that deals lightning or thunder damage, a stormy aura surrounds you. In addition to the spell&apos;s effects, creatures of your choice within 10 feet of you take lightning or thunder damage (choose each time this ability activates) equal to half your sorcerer level.
 
 Source:	Unearthed Arcana: Waterborne Adventures p. 4</text>
       </feature>
@@ -63,7 +63,7 @@ Source:	Unearthed Arcana: Waterborne Adventures p. 4</text>
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Storm Sorcery (UA): Storm's Fury</name>
+        <name>Storm Sorcery (UA): Storm&apos;s Fury</name>
         <text>At 14th level, the storm energy you channel through your magic seethes within your soul. When you are hit by a melee attack, you can use your reaction to deal lightning damage to the attacker equal to your sorcerer level. The attacker must also make a Strength saving throw, with a DC equal to 8 + your Charisma bonus + your proficiency bonus. On a failed save, the attacker is pushed in a straight line 20 feet away from you.
 
 Source:	Unearthed Arcana: Waterborne Adventures p. 4</text>

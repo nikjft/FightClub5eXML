@@ -34,7 +34,7 @@ Source:	Bigby Presents: Glory of the Giants p. 110</text>
     <modifier category="bonus">melee damage +3</modifier>
   </item>
   <item>
-    <name>Bigby's Beneficent Bracelet [2014]</name>
+    <name>Bigby&apos;s Beneficent Bracelet [2014]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>artifact (requires attunement)</detail>
@@ -191,7 +191,7 @@ Source:	Bigby Presents: Glory of the Giants p. 111</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>55</weight>
-    <text>Set in the center of this armor's chest is a citrine engraved with the shield rune.
+    <text>Set in the center of this armor&apos;s chest is a citrine engraved with the shield rune.
 
 While wearing this armor, your hit point maximum increases by an amount equal to 10 + your level.
 
@@ -207,7 +207,7 @@ Source:	Bigby Presents: Glory of the Giants p. 111</text>
     <type>W</type>
     <magic>YES</magic>
     <detail>rare (requires attunement)</detail>
-    <text>This jagged iron circlet bears ornaments in the shape of the enemy rune. When worn, the crown glows with pale light as it draws upon the wearer's fury to strike opponents with vicious terror.
+    <text>This jagged iron circlet bears ornaments in the shape of the enemy rune. When worn, the crown glows with pale light as it draws upon the wearer&apos;s fury to strike opponents with vicious terror.
 
 When you make an attack roll against a creature and hit it while wearing this crown, you can spend and roll one of your unspent Hit Dice. The creature takes extra psychic damage equal to the number rolled.
 
@@ -216,11 +216,11 @@ Invoking the Rune: As an action, you can invoke the crown's rune to cast the fea
 Source:	Bigby Presents: Glory of the Giants p. 111</text>
   </item>
   <item>
-    <name>Delver's Claws [2014]</name>
+    <name>Delver&apos;s Claws [2014]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>rare (requires attunement)</detail>
-    <text>The back of this weatherworn leather glove is adorned with three large metal hooks shaped like a mole's claws. Stitched into the glove's palm is the mountain rune.
+    <text>The back of this weatherworn leather glove is adorned with three large metal hooks shaped like a mole&apos;s claws. Stitched into the glove&apos;s palm is the mountain rune.
 
 The glove is considered a simple melee weapon with the finesse and light properties, and it deals 1d4 slashing damage on a hit. While attuned to the glove, you gain a burrowing speed equal to your walking speed and blindsight to 15 feet.
 
@@ -289,7 +289,7 @@ Source:	Bigby Presents: Glory of the Giants p. 112</text>
     <type>G</type>
     <weight/>
     <value/>
-    <text>Sometimes, an egg laid by a giant goose inexplicably contains some kind of small trinket or minor magic item. Once it lays a golden egg, a giant goose can't do so again for a year and a day.
+    <text>Sometimes, an egg laid by a giant goose inexplicably contains some kind of small trinket or minor magic item. Once it lays a golden egg, a giant goose can&apos;t do so again for a year and a day.
 
 You can use the Goose Egg Trinket table to determine the contents of a golden egg. A giant goose's egg can be a great way to give characters an item that's important to the story of an adventure or your campaign.
 
@@ -355,7 +355,7 @@ Source:	Bigby Presents: Glory of the Giants p. 112</text>
     <name>Horizon Puzzle Cube [2014]</name>
     <type>W</type>
     <magic>YES</magic>
-    <text>A Horizon puzzle cube is an 8-inch magical cube made of gold, iron, crystal, and copper, and it is worth 5,000 gp to a sage or collector. A functioning puzzle cube can be solved with 30 minutes of work and a successful DC 25 Intelligence (Investigation) check. When the cube is solved, a 30-foot-diameter portal appears before the creature who solved the cube, leading to the northeastern platform of Horizon's Edge. The portal is two-way and remains open for 10 minutes or until a creature uses an action to change the puzzle's configuration. Puzzle cubes don't function while on Horizon's Edge, but a device somewhere in the demiplane allows a cube to function in reverse while the cube is fitted into it.
+    <text>A Horizon puzzle cube is an 8-inch magical cube made of gold, iron, crystal, and copper, and it is worth 5,000 gp to a sage or collector. A functioning puzzle cube can be solved with 30 minutes of work and a successful DC 25 Intelligence (Investigation) check. When the cube is solved, a 30-foot-diameter portal appears before the creature who solved the cube, leading to the northeastern platform of Horizon's Edge. The portal is two-way and remains open for 10 minutes or until a creature uses an action to change the puzzle's configuration. Puzzle cubes don&apos;t function while on Horizon&apos;s Edge, but a device somewhere in the demiplane allows a cube to function in reverse while the cube is fitted into it.
 
 Source:	Bigby Presents: Glory of the Giants p. 86</text>
   </item>
@@ -365,7 +365,7 @@ Source:	Bigby Presents: Glory of the Giants p. 86</text>
     <magic>YES</magic>
     <detail>whip, rare</detail>
     <weight>3</weight>
-    <text>The handle of this dark leather whip bears the fire rune, and embers dance around the whip's tail.
+    <text>The handle of this dark leather whip bears the fire rune, and embers dance around the whip&apos;s tail.
 
 You gain a +1 bonus to attack and damage rolls made with this weapon, and on a hit, the whip deals an extra 1d6 fire damage. When you score a critical hit with an attack using this whip, the target also has the restrained condition until the start of your next turn, as fiery bands lash around the target.
 
@@ -426,7 +426,7 @@ Source:	Bigby Presents: Glory of the Giants p. 113</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>10</weight>
-    <text>This magic weapon is a triple-barreled bronze musket. You gain a +1 bonus to attack and damage rolls made with it. It requires no ammunition, its damage is radiant instead of piercing, and it doesn't have the loading property. The base of the weapon is emblazoned with the light rune.
+    <text>This magic weapon is a triple-barreled bronze musket. You gain a +1 bonus to attack and damage rolls made with it. It requires no ammunition, its damage is radiant instead of piercing, and it doesn&apos;t have the loading property. The base of the weapon is emblazoned with the light rune.
 
 Additionally, while attuned to the weapon, you can cast dancing lights from the musket at will.
 
@@ -500,7 +500,7 @@ Source:	Bigby Presents: Glory of the Giants p. 114</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>65</weight>
-    <text>Set in the center of this armor's chest is a citrine engraved with the shield rune.
+    <text>Set in the center of this armor&apos;s chest is a citrine engraved with the shield rune.
 
 While wearing this armor, your hit point maximum increases by an amount equal to 10 + your level.
 
@@ -584,7 +584,7 @@ While you are riding the plesiosaurus, you can use it to cast water breathing at
 Source:	Bigby Presents: Glory of the Giants p. 114</text>
   </item>
   <item>
-    <name>Reaper's Scream [2014]</name>
+    <name>Reaper&apos;s Scream [2014]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>morningstar, legendary (requires attunement)</detail>
@@ -613,7 +613,7 @@ Source:	Bigby Presents: Glory of the Giants p. 115</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>40</weight>
-    <text>Set in the center of this armor's chest is a citrine engraved with the shield rune.
+    <text>Set in the center of this armor&apos;s chest is a citrine engraved with the shield rune.
 
 While wearing this armor, your hit point maximum increases by an amount equal to 10 + your level.
 
@@ -684,7 +684,7 @@ Source:	Bigby Presents: Glory of the Giants p. 116</text>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
     <weight>60</weight>
-    <text>Set in the center of this armor's chest is a citrine engraved with the shield rune.
+    <text>Set in the center of this armor&apos;s chest is a citrine engraved with the shield rune.
 
 While wearing this armor, your hit point maximum increases by an amount equal to 10 + your level.
 
@@ -721,7 +721,7 @@ Source:	Bigby Presents: Glory of the Giants p. 116</text>
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Stonebreaker's Breastplate [2014]</name>
+    <name>Stonebreaker&apos;s Breastplate [2014]</name>
     <type>MA</type>
     <magic>YES</magic>
     <detail>legendary (requires attunement)</detail>
@@ -743,7 +743,7 @@ Source:	Bigby Presents: Glory of the Giants p. 116</text>
     <magic>YES</magic>
     <detail>very rare</detail>
     <weight>3</weight>
-    <text>This magic ranged weapon is a flared pistol with the storm rune engraved along the barrel. You gain a +1 bonus to attack and damage rolls made with it. It requires no ammunition, its damage is thunder instead of piercing, and it doesn't have the loading property.
+    <text>This magic ranged weapon is a flared pistol with the storm rune engraved along the barrel. You gain a +1 bonus to attack and damage rolls made with it. It requires no ammunition, its damage is thunder instead of piercing, and it doesn&apos;t have the loading property.
 
 Invoking the Rune:
 As a bonus action, you can invoke the weapon's rune to launch a ball of energy to a point you can see within 30 feet of yourself. The energy then detonates into a 10-foot-radius sphere of turbulent wind and thunder centered on that point, and each creature in that sphere must make a DC 14 Constitution saving throw. On a failed save, a creature takes 3d6 thunder damage, and it can't take reactions until the end of your next turn. On a successful save, a creature takes half as much damage only.
@@ -775,7 +775,7 @@ Once the rune has been invoked, it can't be invoked again until the next dawn.
 Source:	Bigby Presents: Glory of the Giants p. 117</text>
   </item>
   <item>
-    <name>Wayfarer's Boots [2014]</name>
+    <name>Wayfarer&apos;s Boots [2014]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>rare (requires attunement)</detail>

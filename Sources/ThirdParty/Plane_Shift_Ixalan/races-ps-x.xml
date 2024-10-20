@@ -37,11 +37,11 @@ Weight in pounds = 35 + your size modifier</text>
     </trait>
     <trait>
       <name>Agile Climber</name>
-      <text>You have a climbing speed of 25 feet. You can't use your climbing speed while you wear medium or heavy armor. (If your campaign uses the variant rule for encumbrance, you can't use your climbing speed if you are encumbered.)</text>
+      <text>You have a climbing speed of 25 feet. You can&apos;t use your climbing speed while you wear medium or heavy armor. (If your campaign uses the variant rule for encumbrance, you can&apos;t use your climbing speed if you are encumbered.)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -57,7 +57,7 @@ Weight in pounds = 35 + your size modifier</text>
     <spellAbility/>
     <trait>
       <name>Description</name>
-      <text>In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that's why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
+      <text>In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that&apos;s why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
 
 Source:	Plane Shift: Ixalan p. 11 (Third Party)</text>
     </trait>
@@ -217,7 +217,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Menacing</name>
@@ -225,11 +225,11 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Relentless Endurance</name>
-      <text>When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest.</text>
+      <text>When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can&apos;t use this feature again until you finish a long rest.</text>
     </trait>
     <trait>
       <name>Savage Attacks</name>
-      <text>When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.</text>
+      <text>When you score a critical hit with a melee weapon attack, you can roll one of the weapon&apos;s damage dice one additional time and add it to the extra damage of the critical hit.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -256,12 +256,12 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
       <text>Sirens stand about 5 to 6 feet tall, but their bodies are slender and their bones partially hollow to facilitate their flight. Your size is Medium.</text>
     </trait>
     <trait>
-      <name>Siren's Song</name>
+      <name>Siren&apos;s Song</name>
       <text>You know the friends cantrip and can cast it without material components.</text>
     </trait>
     <trait>
       <name>Flight</name>
-      <text>You have a flying speed of 30 feet. You can't use your flying speed while you wear medium or heavy armor. (If your campaign uses the variant rule for encumbrance, you can't use your flying speed if you are encumbered.)</text>
+      <text>You have a flying speed of 30 feet. You can&apos;t use your flying speed while you wear medium or heavy armor. (If your campaign uses the variant rule for encumbrance, you can&apos;t use your flying speed if you are encumbered.)</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -283,7 +283,7 @@ Source:	Plane Shift: Ixalan p. 14 (Third Party)</text>
     </trait>
     <trait>
       <name>Life Span</name>
-      <text>Vampires don't mature and age in the same way that other races do.</text>
+      <text>Vampires don&apos;t mature and age in the same way that other races do.</text>
     </trait>
     <trait>
       <name>Alignment</name>
@@ -295,7 +295,7 @@ Source:	Plane Shift: Ixalan p. 14 (Third Party)</text>
     </trait>
     <trait>
       <name>Bloodthirst</name>
-      <text>You can drain blood and life energy from a willing creature, or one that is grappled by you, incapacitated, or restrained. Make a melee attack against the target. If you hit, you deal 1 piercing damage and 1d6 necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and you regain hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces it's hit point maximum to 0.</text>
+      <text>You can drain blood and life energy from a willing creature, or one that is grappled by you, incapacitated, or restrained. Make a melee attack against the target. If you hit, you deal 1 piercing damage and 1d6 necrotic damage. The target&apos;s hit point maximum is reduced by an amount equal to the necrotic damage taken, and you regain hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces it&apos;s hit point maximum to 0.</text>
     </trait>
     <trait>
       <name>Feast of Blood</name>
@@ -307,7 +307,7 @@ Source:	Plane Shift: Ixalan p. 14 (Third Party)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Thanks to your heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Thanks to your heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Languages</name>

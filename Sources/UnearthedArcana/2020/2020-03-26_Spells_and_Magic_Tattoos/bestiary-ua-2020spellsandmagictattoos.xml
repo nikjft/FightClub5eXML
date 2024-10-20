@@ -325,7 +325,7 @@ The fiend has advantage on saving throws against spells and other magical effect
 When the fiend drops to 0 hit points or the spell ends, the fiend explodes, and each creature within 10 feet of it must make a Dexterity saving throw against your spell save DC. A creature takes 2d10 + this spell's level fire damage on a failed save, or half as much damage on a successful one.</text>
     </trait>
     <trait>
-      <name>Devil's Sight (Devil Only)</name>
+      <name>Devil&apos;s Sight (Devil Only)</name>
       <text>
 Magical darkness doesn't impede the fiend's darkvision.</text>
     </trait>

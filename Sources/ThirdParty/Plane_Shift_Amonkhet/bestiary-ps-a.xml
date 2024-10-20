@@ -68,7 +68,7 @@ The dragon exhales fire in a 60-foot cone. Each creature in that area must make 
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.</text>
+      <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The dragon regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Detect</name>
@@ -329,7 +329,7 @@ The sphinx emits a magical roar. Each time it roars before finishing a long rest
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The monstrosity can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity regains spent legendary actions at the start of its turn.</text>
+      <text>The monstrosity can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Claw Attack</name>
@@ -373,7 +373,7 @@ The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spel
 	• 6th level (1 slots): heroes' feast</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 2, 1</slots>
-    <spells>sacred flame, spare the dying, thaumaturgy, command, detect evil and good, detect magic, lesser restoration, zone of truth, dispel magic, tongues, banishment, freedom of movement, flame strike, greater restoration, heroes' feast</spells>
+    <spells>sacred flame, spare the dying, thaumaturgy, command, detect evil and good, detect magic, lesser restoration, zone of truth, dispel magic, tongues, banishment, freedom of movement, flame strike, greater restoration, heroes&apos; feast</spells>
     <description>Source:	Plane Shift: Amonkhet p. 31</description>
     <environment>desert</environment>
   </monster>
@@ -445,7 +445,7 @@ The dragon exhales fire in a 90-foot cone. Each creature in that area must make 
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.</text>
+      <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The dragon regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Detect</name>
@@ -578,7 +578,7 @@ The angel's spellcasting ability is Charisma (spell save DC 17). The angel can i
     <save>Wis +0</save>
     <skill/>
     <passive>8</passive>
-    <languages>understands all languages it spoke in life but can't speak</languages>
+    <languages>understands all languages it spoke in life but can&apos;t speak</languages>
     <cr>1/4</cr>
     <resist/>
     <immune>poison</immune>
@@ -762,7 +762,7 @@ Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slash
     <legendary>
       <name>Legendary Actions (2/Turn)</name>
       <recharge>2/Turn</recharge>
-      <text>The monstrosity can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity regains spent legendary actions at the start of its turn.</text>
+      <text>The monstrosity can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Ram Attack</name>
@@ -796,7 +796,7 @@ The sphinx magically teleports, along with any equipment it is wearing or carryi
     <passive>13</passive>
     <languages>the languages it knew in life</languages>
     <cr>3</cr>
-    <resist>necrotic; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>necrotic; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <immune>poison</immune>
     <vulnerable/>
     <conditionImmune>exhaustion, poisoned</conditionImmune>
@@ -818,7 +818,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) necrot
 
 The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</text>
       <attack>Life Drain|+4|1d6+2</attack>
-      <text>A humanoid slain by this attack rises 24 hours later as a zombie under the eternal's control, unless the humanoid is restored to life or its body is destroyed. The eternal can have no more than twelve zombies under its control at one time.</text>
+      <text>A humanoid slain by this attack rises 24 hours later as a zombie under the eternal&apos;s control, unless the humanoid is restored to life or its body is destroyed. The eternal can have no more than twelve zombies under its control at one time.</text>
     </action>
     <action>
       <name>Longsword</name>
@@ -954,7 +954,7 @@ Melee Weapon Attack: +8 to hit, reach 5 ft., one prone target. Hit: 22 (3d10 + 6
     <save/>
     <skill>Perception +4</skill>
     <passive>14</passive>
-    <languages>Giant Eagle, understands Common and Auran but can't speak them</languages>
+    <languages>Giant Eagle, understands Common and Auran but can&apos;t speak them</languages>
     <cr>1</cr>
     <resist/>
     <immune/>
@@ -1094,7 +1094,7 @@ The marauder targets one creature it can see within 60 feet of it. If the target
     <legendary>
       <name>Legendary Actions (5/Turn)</name>
       <recharge>5/Turn</recharge>
-      <text>The undead can take 5 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The undead regains spent legendary actions at the start of its turn.</text>
+      <text>The undead can take 5 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The undead regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Attack</name>
@@ -1406,13 +1406,13 @@ Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) pierci
     <passive>12</passive>
     <languages>Infernal, telepathy 120 ft.</languages>
     <cr>9</cr>
-    <resist>cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <immune>fire, poison</immune>
     <vulnerable/>
     <conditionImmune>poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede the demon's darkvision.</text>
     </trait>

@@ -109,7 +109,7 @@ Source:	Unearthed Arcana: Bard Bard Colleges p. 2</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>College of Whispers (UA): Mantle of Whispers</name>
-        <text>At 6th level, you gain the ability to adopt a creature's persona. When you slay a creature with an attack or a spell or a creature dies within 5 feet of you, you can magically capture its shadow using your reaction. You can capture only the shadow of a creature that is your creature type, such as humanoid, and your size (you can capture a Small or Medium shadow if you're Small), and you can have only one shadow captured at a time.
+        <text>At 6th level, you gain the ability to adopt a creature&apos;s persona. When you slay a creature with an attack or a spell or a creature dies within 5 feet of you, you can magically capture its shadow using your reaction. You can capture only the shadow of a creature that is your creature type, such as humanoid, and your size (you can capture a Small or Medium shadow if you&apos;re Small), and you can have only one shadow captured at a time.
 
 After you capture a creature's shadow, you can use your magic to weave it into a disguise that allows you to take on its appearance and gain access to its surface memories. As an action, you take on the creature's appearance for 1 hour or until you end this effect as a bonus action.
 
@@ -126,7 +126,7 @@ Source:	Unearthed Arcana: Bard Bard Colleges p. 2</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>College of Whispers (UA): Shadow Lore</name>
-        <text>At 14th level, you gain the ability to weave dark magic into your words and tap into a creature's deepest fears.
+        <text>At 14th level, you gain the ability to weave dark magic into your words and tap into a creature&apos;s deepest fears.
 
 As an action, you magically whisper a phrase that only one creature of your choice within 30 feet of you can hear. The target must make a Wisdom saving throw against your spell save DC. It automatically succeeds if it doesn't share a language with you or if it can't hear you. On a successful saving throw, your whisper sounds like unintelligible mumbling and has no effect.
 

@@ -10,7 +10,7 @@
     <range>Self</range>
     <components>V, S, M (hacking tools)</components>
     <duration>Concentration, up to 1 hour</duration>
-    <text>You gain advantage on all Intelligence checks using hacking tools to break software encryption or online security when using a foreign system. This spell also allows you to break 2nd-level and lower protective spells such as arcane lock or glyph of warding by making an Intelligence check using hacking tools against the spell save DC of the spell's caster.
+    <text>You gain advantage on all Intelligence checks using hacking tools to break software encryption or online security when using a foreign system. This spell also allows you to break 2nd-level and lower protective spells such as arcane lock or glyph of warding by making an Intelligence check using hacking tools against the spell save DC of the spell&apos;s caster.
 
 At Higher Levels:
 When you cast this spell using a spell slot of 3rd level or higher, you can attempt to counteract a spell set to secure the foreign system if the spell's level is equal to or less than the level of the spell slot you used.
@@ -73,7 +73,7 @@ Source:	Unearthed Arcana: Modern Magic p. 5</text>
     <range>Self</range>
     <components>V, S, M (a small piece of copper wire)</components>
     <duration>Concentration, up to 1 hour</duration>
-    <text>This spell works to actively hide your presence within a computer system. For the spell's duration, you and any other users you choose on your local network gain a +10 bonus to Intelligence checks to avoid detection by administrators, knowbots, tracking software, and the like. Whenever you and your chosen users leave any computer system you are working in while this spell is in effect, all trace of your previous presence in that system is erased.
+    <text>This spell works to actively hide your presence within a computer system. For the spell&apos;s duration, you and any other users you choose on your local network gain a +10 bonus to Intelligence checks to avoid detection by administrators, knowbots, tracking software, and the like. Whenever you and your chosen users leave any computer system you are working in while this spell is in effect, all trace of your previous presence in that system is erased.
 
 Source:	Unearthed Arcana: Modern Magic p. 6</text>
   </spell>
@@ -152,7 +152,7 @@ Source:	Unearthed Arcana: Modern Magic p. 7</text>
     <range>10 feet</range>
     <components>V, S, M (a scrap of black paper)</components>
     <duration>Concentration, up to 1 minute</duration>
-    <text>Four creatures of your choice within range become undetectable to electronic sensors and cameras for the duration of the spell. Anything a target is wearing or carrying is likewise undetectable as long as it is on the target's person. The targets remain visible to vision.
+    <text>Four creatures of your choice within range become undetectable to electronic sensors and cameras for the duration of the spell. Anything a target is wearing or carrying is likewise undetectable as long as it is on the target&apos;s person. The targets remain visible to vision.
 
 Source:	Unearthed Arcana: Modern Magic p. 7</text>
   </spell>
@@ -194,7 +194,7 @@ Source:	Unearthed Arcana: Modern Magic p. 8</text>
     <range>120 feet</range>
     <components>V, S</components>
     <duration>10 minutes</duration>
-    <text>You can use any electronic device within range as if it were in your hands. This is not a telekinesis effect. Rather, this spell allows you to simulate a device's mechanical functions electronically. You are able to access only functions that a person using the device manually would be able to access. You can use remote access with only one device at a time.
+    <text>You can use any electronic device within range as if it were in your hands. This is not a telekinesis effect. Rather, this spell allows you to simulate a device&apos;s mechanical functions electronically. You are able to access only functions that a person using the device manually would be able to access. You can use remote access with only one device at a time.
 
 Source:	Unearthed Arcana: Modern Magic p. 8</text>
   </spell>
@@ -222,7 +222,7 @@ Source:	Unearthed Arcana: Modern Magic p. 8</text>
     <range>Touch</range>
     <components>V, S</components>
     <duration>Concentration, up to 1 hour</duration>
-    <text>The creature you touch feels reality subtly shifted to its favor while this spell is in effect. The target isn't inconvenienced by mundane delays of any sort. Traffic lights are always green, there's always a waiting elevator, and a taxi is always around the corner. The target can run at full speed through dense crowds, and attacks of opportunity provoked by the target's movement are made with disadvantage.
+    <text>The creature you touch feels reality subtly shifted to its favor while this spell is in effect. The target isn't inconvenienced by mundane delays of any sort. Traffic lights are always green, there&apos;s always a waiting elevator, and a taxi is always around the corner. The target can run at full speed through dense crowds, and attacks of opportunity provoked by the target&apos;s movement are made with disadvantage.
 
 Synchronicity grants advantage to Dexterity (Stealth) checks, since the target always finds a handy piece of cover available. Additionally, the target has advantage on all ability checks made to drive a vehicle.
 

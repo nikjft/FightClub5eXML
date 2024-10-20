@@ -17,7 +17,7 @@
     <save>Wis +6, Cha +3</save>
     <skill>Perception +6, Stealth +8, Survival +6</skill>
     <passive>16</passive>
-    <languages>understands Draconic but can't speak</languages>
+    <languages>understands Draconic but can&apos;t speak</languages>
     <cr>10</cr>
     <resist/>
     <immune>necrotic, radiant</immune>
@@ -64,7 +64,7 @@ When the absorber takes damage from a spell, the absorber takes only half the tr
 
 If the spellcaster is within 60 feet of the absorber, the absorber can force the caster to make a DC 16 Dexterity saving throw. Unless the save succeeds, the caster takes the other half of the damage.</text>
     </reaction>
-    <description>Resembling some sort of canine or feline quadruped at a distance, the absorber's monstrous nature becomes quickly apparent as it closes in. Named for its ability to draw magical energy into its body, the absorber can release that energy in devastating blasts through its tail, whose eye is constantly on the lookout for prey.
+    <description>Resembling some sort of canine or feline quadruped at a distance, the absorber&apos;s monstrous nature becomes quickly apparent as it closes in. Named for its ability to draw magical energy into its body, the absorber can release that energy in devastating blasts through its tail, whose eye is constantly on the lookout for prey.
 
 Created by Experimentation
 Aeorian hunters were created through arcane experimentation on beasts and humanoids—both captives and volunteers. These experiments resulted in monstrosities with brightly colored flesh and the power to resist and destroy Aeor's enemies. It is theorized that the mages of Aeor must have possessed some means of controlling their monstrous soldiers, but no such device has yet been found in the wastes of Eiselcross. Draconic was the language used by these mages to train and bind the Aeorian hunters, and the hunters retain an understanding of this language even though they can't speak it.
@@ -101,7 +101,7 @@ Source:	Explorer's Guide to Wildemount p. 283</description>
     <save>Wis +6, Cha +8</save>
     <skill>Perception +6, Survival +6</skill>
     <passive>16</passive>
-    <languages>understands Draconic but can't speak</languages>
+    <languages>understands Draconic but can&apos;t speak</languages>
     <cr>12</cr>
     <resist/>
     <immune>necrotic, radiant</immune>
@@ -188,7 +188,7 @@ Source:	Explorer's Guide to Wildemount p. 283</description>
     <save>Wis +5, Cha +2</save>
     <skill>Perception +5, Stealth +6, Survival +5</skill>
     <passive>15</passive>
-    <languages>understands Draconic but can't speak</languages>
+    <languages>understands Draconic but can&apos;t speak</languages>
     <cr>8</cr>
     <resist/>
     <immune>necrotic, radiant</immune>
@@ -222,7 +222,7 @@ Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) slashi
       <text>
 When a creature the reverser can see within 30 feet of it regains hit points, the reverser reduces the number of hit points regained to 0, and the reverser deals 13 (3d8) force damage to the creature.</text>
     </reaction>
-    <description>A reverser is a terrible foe in melee, laying into other creatures with teeth and claw. But the chaos it imposes is more fearful by far, as its enemies' healing magic are unraveled and turned against them.
+    <description>A reverser is a terrible foe in melee, laying into other creatures with teeth and claw. But the chaos it imposes is more fearful by far, as its enemies&apos; healing magic are unraveled and turned against them.
 
 Created by Experimentation:
 Aeorian hunters were created through arcane experimentation on beasts and humanoids—both captives and volunteers. These experiments resulted in monstrosities with brightly colored flesh and the power to resist and destroy Aeor's enemies. It is theorized that the mages of Aeor must have possessed some means of controlling their monstrous soldiers, but no such device has yet been found in the wastes of Eiselcross. Draconic was the language used by these mages to train and bind the Aeorian hunters, and the hunters retain an understanding of this language even though they can't speak it.
@@ -303,7 +303,7 @@ The target can repeat the saving throw at the end of each of its turns, ending t
 The yeti exhales a 30-foot cone of frigid air. Each creature in that area must make a DC 18 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.</text>
       <attack>Cold Breath||10d8</attack>
     </action>
-    <description>Source:	Explorer's Guide to Wildemount p. 126</description>
+    <description>Source:	Explorer&apos;s Guide to Wildemount p. 126</description>
     <environment>arctic</environment>
   </monster>
   <monster>
@@ -364,7 +364,7 @@ The yeti targets one creature it can see within 30 feet of it. If the target can
 The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If the target's saving throw is successful, or if the effect ends on it, the target is immune to the Chilling Gaze of all yetis (but not abominable yetis) for 1 hour.</text>
       <attack>Chilling Gaze||3d6</attack>
     </action>
-    <description>Source:	Explorer's Guide to Wildemount p. 126</description>
+    <description>Source:	Explorer&apos;s Guide to Wildemount p. 126</description>
     <environment>arctic</environment>
   </monster>
   <monster>
@@ -407,7 +407,7 @@ While the knife remains motionless and isn't flying, it is indistinguishable fro
 Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage.</text>
       <attack>Longknife|+3|1d8+1</attack>
     </action>
-    <description>Source:	Explorer's Guide to Wildemount p. 248</description>
+    <description>Source:	Explorer&apos;s Guide to Wildemount p. 248</description>
     <environment/>
   </monster>
   <monster>
@@ -467,7 +467,7 @@ Ranged Weapon Attack: +10 to hit, range 60/180 ft., one target. Hit: 28 (4d10 + 
       <text>
 The tree magically animates one or two trees it can see within 60 feet of it. These trees have the same statistics as a tree, except they have Intelligence and Charisma scores of 1, they can't speak, and they have only the Slam action option. An animated tree acts as an ally of the tree. The tree remains animate for 1 day or until it dies; until the tree dies or is more than 120 feet from the tree; or until the tree takes a bonus action to turn it back into an inanimate tree. The tree then takes root if possible.</text>
     </action>
-    <description>Source:	Explorer's Guide to Wildemount p. 130,
+    <description>Source:	Explorer&apos;s Guide to Wildemount p. 130,
 		Mythic Odysseys of Theros</description>
     <environment>forest</environment>
   </monster>
@@ -545,7 +545,7 @@ Source:	Explorer's Guide to Wildemount p. 284</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bol'bara</name>
+    <name>Bol&apos;bara</name>
     <size>S</size>
     <type>humanoid (goblinoid)</type>
     <alignment>Chaotic Good</alignment>
@@ -569,7 +569,7 @@ Source:	Explorer's Guide to Wildemount p. 284</description>
     <conditionImmune/>
     <senses>darkvision 60 ft.</senses>
     <trait>
-      <name>Dark One's Blessing</name>
+      <name>Dark One&apos;s Blessing</name>
       <text>
 When Bol'bara reduces a hostile creature to 0 hit points, she gains 6 temporary hit points.</text>
     </trait>
@@ -598,7 +598,7 @@ Ranged Spell Attack: +4 to hit, range 120 ft., one target. Hit: 7 (1d10 + 2) for
     <legendary>
       <name>Legendary Actions (2/Turn)</name>
       <recharge>2/Turn</recharge>
-      <text>The humanoid (goblinoid) can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The humanoid (goblinoid) regains spent legendary actions at the start of its turn.</text>
+      <text>The humanoid (goblinoid) can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The humanoid (goblinoid) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Incorporeal Dash</name>
@@ -619,7 +619,7 @@ Bol'bara's innate spellcasting ability is Charisma (spell save DC 12, +4 to hit 
 	• 1/Day each: charm person, hex, hold person, invisibility</text>
     </trait>
     <spells>eldritch blast, false life, mage armor, mage hand, charm person, hex, hold person, invisibility</spells>
-    <description>Source:	Explorer's Guide to Wildemount p. 261</description>
+    <description>Source:	Explorer&apos;s Guide to Wildemount p. 261</description>
     <environment/>
   </monster>
   <monster>
@@ -698,7 +698,7 @@ Source:	Explorer's Guide to Wildemount p. 295</description>
     <save/>
     <skill>Perception +5</skill>
     <passive>15</passive>
-    <languages>understands Deep Speech but can't speak</languages>
+    <languages>understands Deep Speech but can&apos;t speak</languages>
     <cr>1</cr>
     <resist/>
     <immune>psychic</immune>
@@ -758,7 +758,7 @@ Source:	Explorer's Guide to Wildemount p. 286</description>
     <save>Dex +5, Wis +4, Cha +2</save>
     <skill>Perception +4</skill>
     <passive>14</passive>
-    <languages>telepathy 120 ft., understands Deep Speech but can't speak</languages>
+    <languages>telepathy 120 ft., understands Deep Speech but can&apos;t speak</languages>
     <cr>6</cr>
     <resist/>
     <immune>psychic</immune>
@@ -793,7 +793,7 @@ The emissary emits a dreadful yet alluring hum. Each creature within 20 feet of 
 A 15-foot-radius cloud of toxic crystalline spores extends out from the emissary. The spores spread around corners. Each creature in the area must succeed on a DC 14 Constitution saving throw or become poisoned. While poisoned in this way, a creature takes 11 (2d10) poison damage at the start of each of its turns. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
       <attack>Crystal Spores||2d10</attack>
     </action>
-    <description>These airborne predators serve as assassins and sentinels for the core spawn. The terrible thrum of its insectoid wings and a chittering of mandibles announces an emissary's arrival.
+    <description>These airborne predators serve as assassins and sentinels for the core spawn. The terrible thrum of its insectoid wings and a chittering of mandibles announces an emissary&apos;s arrival.
 
 The core spawn emissary can expel clouds of crystalline spores from tubes in its head. These spores act like a contact poison and can be deadly if inhaled.
 
@@ -886,7 +886,7 @@ Source:	Explorer's Guide to Wildemount p. 286</description>
     <save>Con +10, Wis +4</save>
     <skill>Perception +4</skill>
     <passive>14</passive>
-    <languages>understands Deep Speech but can't speak</languages>
+    <languages>understands Deep Speech but can&apos;t speak</languages>
     <cr>15</cr>
     <resist/>
     <immune>fire, psychic</immune>
@@ -931,7 +931,7 @@ If the target is a Large or smaller creature, it must succeed on a DC 18 Dexteri
       <attack>Bite||6d6</attack>
       <text>If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the worm. If the worm dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.</text>
     </action>
-    <description>This invertebrate horror has quivering, barbed tentacles set around its massive, toothy maw. The worm's cracked and stony hide pulses with a dull orange glow, as if it might be composed of primordial lava perpetually on the verge of hardening into solid rock.
+    <description>This invertebrate horror has quivering, barbed tentacles set around its massive, toothy maw. The worm&apos;s cracked and stony hide pulses with a dull orange glow, as if it might be composed of primordial lava perpetually on the verge of hardening into solid rock.
 
 Offspring of Calamity:
 The aberrant creatures known as core spawn are a subterranean breed of heralds, servants, foot soldiers, and lieutenants of the Elder Evils, awakened in the depths by the cataclysmic actions of the Betrayer Gods and their minions. They often appear on the surface world in the wake of seismic events, such as that which created the bottomless Miskath Pit of Eastern Wynandir. Warlocks and cultists sometimes gather together to hasten the arrival of core spawn to the Material Plane, focusing their arcane power on areas of natural seismic instability when the signs and stars are right.
@@ -956,10 +956,10 @@ Source:	Explorer's Guide to Wildemount p. 287</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>5</cr>
     <resist/>
-    <immune>lightning, poison; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</immune>
+    <immune>lightning, poison; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t adamantine</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
@@ -1001,7 +1001,7 @@ The golem's weapon attacks are magical.</text>
 Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.</text>
       <attack>Slam|+7|2d8+4</attack>
     </action>
-    <description>Source:	Explorer's Guide to Wildemount p. 248</description>
+    <description>Source:	Explorer&apos;s Guide to Wildemount p. 248</description>
     <environment/>
   </monster>
   <monster>
@@ -1023,7 +1023,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludg
     <passive>13</passive>
     <languages>the languages it knew in life</languages>
     <cr>3</cr>
-    <resist>necrotic; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>necrotic; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <immune>poison</immune>
     <vulnerable/>
     <conditionImmune>exhaustion, poisoned</conditionImmune>
@@ -1045,7 +1045,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) necrot
 
 The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</text>
       <attack>Life Drain|+4|1d6+2</attack>
-      <text>A humanoid slain by this attack rises 24 hours later as a zombie under Ferol's control, unless the humanoid is restored to life or its body is destroyed. Ferol can have no more than twelve zombies under its control at one time.</text>
+      <text>A humanoid slain by this attack rises 24 hours later as a zombie under Ferol&apos;s control, unless the humanoid is restored to life or its body is destroyed. Ferol can have no more than twelve zombies under its control at one time.</text>
     </action>
     <action>
       <name>Longsword</name>
@@ -1059,7 +1059,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashi
 Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.</text>
       <attack>Longbow|+4|1d8+2</attack>
     </action>
-    <description>Source:	Explorer's Guide to Wildemount p. 249</description>
+    <description>Source:	Explorer&apos;s Guide to Wildemount p. 249</description>
     <environment>underdark, swamp, urban, desert</environment>
   </monster>
   <monster>
@@ -1079,7 +1079,7 @@ Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2)
     <save>Wis +2</save>
     <skill/>
     <passive>8</passive>
-    <languages>understands Giant but can't speak</languages>
+    <languages>understands Giant but can&apos;t speak</languages>
     <cr>9</cr>
     <resist/>
     <immune>cold, poison</immune>
@@ -1119,7 +1119,7 @@ Ranged Weapon Attack: +10 to hit, range 60/240 ft., one target. Hit: 28 (4d10 + 
 The zombie targets one creature it can see within 60 feet of it. The target must succeed on a DC 17 Constitution saving throw or take 35 (10d6) cold damage and be paralyzed until the end of its next turn.</text>
       <attack>Freezing Stare||10d6</attack>
     </action>
-    <description>An unknown Aeorian object of immense power and mystery was uncovered and brought to the Fortress of the Dead Jarl in Eiselcross to please the ruling frost giant, Conessa Berg. The object's unstable nature unleashed a burst of corroding arcane power, ravaging the denizens of the stronghold with twisting necromantic energies, transforming them into monstrous, rime-infused undead. These hulking brutes now wander the ruined landscape surrounding their cursed home, hunting and destroying all living things with a frightening ferocity.
+    <description>An unknown Aeorian object of immense power and mystery was uncovered and brought to the Fortress of the Dead Jarl in Eiselcross to please the ruling frost giant, Conessa Berg. The object&apos;s unstable nature unleashed a burst of corroding arcane power, ravaging the denizens of the stronghold with twisting necromantic energies, transforming them into monstrous, rime-infused undead. These hulking brutes now wander the ruined landscape surrounding their cursed home, hunting and destroying all living things with a frightening ferocity.
 
 The battered, butchered, and frozen remains of would-be heroes litter battle sites where these undead giants have been encountered. Underestimating these towering horrors has been the folly of numerous expeditions to the northern reaches of Eiselcross, with only rumors often finding their way back as proof that these frigid monsters even exist.
 
@@ -1185,7 +1185,7 @@ If the target is a Large or smaller creature, it must succeed on a DC 20 Dexteri
       <text>
 The frost worm emits a haunting cry. Each creature within 60 feet of the worm that can hear it must succeed on a DC 20 Wisdom saving throw or be stunned for 1 minute. A creature can repeat the saving throw each time it takes damage and at the end of each of its turns, ending the effect on itself on a success. Once a creature successfully saves against this effect, or if this effect ends for it, that creature is immune to the Trill of all frost worms for the next 24 hours. Frost worms are immune to this effect.</text>
     </action>
-    <description>Frost worms burrow through the snow, dirt, ice, and rock of Wildemount's Biting North. These enormous monstrosities eagerly consume any living creature they can wrap their jaws around.
+    <description>Frost worms burrow through the snow, dirt, ice, and rock of Wildemount&apos;s Biting North. These enormous monstrosities eagerly consume any living creature they can wrap their jaws around.
 
 A frost worm spends most of its time beneath the frozen ground, conserving energy while it waits for prey to pass overhead. Smart travelers can identify a frost worm's hunting grounds by looking for recently iced-over tunnels. When the worm senses vibrations above, it bursts forth through dirt, ice, and snow. Those who escape its initial assault must still contend with the worm's haunting trill—a hypnotizing call that stops creatures in their tracks to make them easy prey.
 
@@ -1209,7 +1209,7 @@ Source:	Explorer's Guide to Wildemount p. 289</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>10</cr>
     <resist>bludgeoning, piercing, slashing from nonmagical attacks</resist>
     <immune>fire, poison, psychic</immune>
@@ -1255,7 +1255,7 @@ Ranged Weapon Attack: +9 to hit, range 90 ft., one target. Hit: 12 (2d6 + 5) pie
 The gearkeeper jettisons a spray of jagged metal in a 30-foot cone. Each creature in the area must make a DC 15 Dexterity saving throw, taking 21 (6d6) piercing damage on a failed save, or half as much damage on a successful one.</text>
       <attack>Shrapnel Blast||6d6</attack>
     </action>
-    <description>Source:	Explorer's Guide to Wildemount p. 290</description>
+    <description>Source:	Explorer&apos;s Guide to Wildemount p. 290</description>
     <environment/>
   </monster>
   <monster>
@@ -1275,7 +1275,7 @@ The gearkeeper jettisons a spray of jagged metal in a 30-foot cone. Each creatur
     <save>Str +9, Dex +6</save>
     <skill>Athletics +9, Intimidation +5, Perception +6, Stealth +6</skill>
     <passive>16</passive>
-    <languages>understands Common but can't speak</languages>
+    <languages>understands Common but can&apos;t speak</languages>
     <cr>6</cr>
     <resist/>
     <immune/>
@@ -1381,7 +1381,7 @@ If the target is a creature, it must succeed on a DC 16 Strength saving throw or
 Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (2d8 + 6) piercing damage.</text>
       <attack>Claws|+8|2d8+6</attack>
     </action>
-    <description>Source:	Explorer's Guide to Wildemount p. 272</description>
+    <description>Source:	Explorer&apos;s Guide to Wildemount p. 272</description>
     <environment/>
   </monster>
   <monster>
@@ -1401,7 +1401,7 @@ Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (2d8 + 6) pierc
     <save>Str +12, Con +10</save>
     <skill/>
     <passive>10</passive>
-    <languages>understands Goblin but can't speak</languages>
+    <languages>understands Goblin but can&apos;t speak</languages>
     <cr>7</cr>
     <resist/>
     <immune>poison</immune>
@@ -1493,7 +1493,7 @@ Hulil is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save
     </trait>
     <slots>0, 4, 3</slots>
     <spells>light, sacred flame, thaumaturgy, command, inflict wounds, shield of faith, hold person, spiritual weapon</spells>
-    <description>Source:	Explorer's Guide to Wildemount p. 240</description>
+    <description>Source:	Explorer&apos;s Guide to Wildemount p. 240</description>
     <environment/>
   </monster>
   <monster>
@@ -1513,7 +1513,7 @@ Hulil is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save
     <save>Con +5, Wis +0</save>
     <skill/>
     <passive>8</passive>
-    <languages>understands the languages it knew in life but can't speak</languages>
+    <languages>understands the languages it knew in life but can&apos;t speak</languages>
     <cr>1</cr>
     <resist/>
     <immune>poison</immune>
@@ -1617,7 +1617,7 @@ Ishel's spellcasting ability is Charisma (spell save DC 11). It can innately cas
 	• 1/Day each: darkness, faerie fire</text>
     </trait>
     <spells>dancing lights, darkness, faerie fire</spells>
-    <description>Source:	Explorer's Guide to Wildemount p. 231</description>
+    <description>Source:	Explorer&apos;s Guide to Wildemount p. 231</description>
     <environment>underdark</environment>
   </monster>
   <monster>
@@ -1713,7 +1713,7 @@ In a new form, the dragon retains its alignment, hit points, Hit Dice, ability t
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.</text>
+      <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The dragon regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Detect</name>
@@ -1754,7 +1754,7 @@ The region containing a legendary silver dragon's lair is warped by the dragon's
 
 If the dragon dies, changed weather reverts to normal, as described in the spell, and the other effects fade in 1d10 days.</text>
     </legendary>
-    <description>Source:	Explorer's Guide to Wildemount p. 158</description>
+    <description>Source:	Explorer&apos;s Guide to Wildemount p. 158</description>
     <environment>mountain, urban</environment>
   </monster>
   <monster>
@@ -1935,7 +1935,7 @@ Source:	Explorer's Guide to Wildemount p. 295</description>
     <save>Str +12, Con +10</save>
     <skill/>
     <passive>10</passive>
-    <languages>understands Goblin but can't speak</languages>
+    <languages>understands Goblin but can&apos;t speak</languages>
     <cr>7</cr>
     <resist/>
     <immune>poison</immune>
@@ -1966,7 +1966,7 @@ Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 28 (3d12 + 9) bl
       <text>
 Mossback Steward withdraws into its shell, falls prone, and gains a +5 bonus to AC. While Mossback Steward is in its shell, its speed is 0 and can't increase. Mossback Steward can emerge from its shell as an action, whereupon it is no longer prone.</text>
     </action>
-    <description>Source:	Explorer's Guide to Wildemount p. 256</description>
+    <description>Source:	Explorer&apos;s Guide to Wildemount p. 256</description>
     <environment/>
   </monster>
   <monster>
@@ -1988,7 +1988,7 @@ Mossback Steward withdraws into its shell, falls prone, and gains a +5 bonus to 
     <passive>12</passive>
     <languages>Common, Infernal</languages>
     <cr>3</cr>
-    <resist>cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <immune>fire, poison</immune>
     <vulnerable/>
     <conditionImmune>poisoned</conditionImmune>
@@ -2026,7 +2026,7 @@ The nergaliid magically draws the life from a humanoid it can see within 40 feet
 If this damage kills the target, its body rises at the end of the nergaliid's current turn as a husk zombie (see earlier in this chapter).</text>
       <attack>Siphon Life||3d6</attack>
     </action>
-    <description>Corpulent, scaled, and utterly repulsive, these vicious devils stalk the dark edges of society away from prying eyes, subsisting on the life force of unsuspecting humanoids. Creatures that die to the nergaliid's feeding leave a corrupted undead corpse behind known as a husk zombie (see earlier in this chapter).
+    <description>Corpulent, scaled, and utterly repulsive, these vicious devils stalk the dark edges of society away from prying eyes, subsisting on the life force of unsuspecting humanoids. Creatures that die to the nergaliid&apos;s feeding leave a corrupted undead corpse behind known as a husk zombie (see earlier in this chapter).
 
 The nergaliid favors feeding on the life force of sleeping humanoids, feasting on the same prey nightly—so long as its victim remains unaware. This ensures a lasting source of nourishment, with the victim beset by terrible nightmares as long as the feeding continues. When a nergaliid is discovered, it tries to strike a deal with the one who uncovered it. It might offer material wealth in exchange for freedom and silence. Only when an accord seems unlikely does the nergaliid attack.
 
@@ -2069,7 +2069,7 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludg
 Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 11 (2d6 + 4) piercing damage.</text>
       <attack>Javelin|+6|2d6+4</attack>
     </action>
-    <description>Source:	Explorer's Guide to Wildemount p. 251</description>
+    <description>Source:	Explorer&apos;s Guide to Wildemount p. 251</description>
     <environment>grassland, forest, swamp, hill, desert, coastal, arctic, underdark, mountain</environment>
   </monster>
   <monster>
@@ -2121,7 +2121,7 @@ Old Croaker makes one bite attack against a Medium or smaller target it is grapp
 
 If Old Croaker dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.</text>
     </action>
-    <description>Source:	Explorer's Guide to Wildemount p. 240</description>
+    <description>Source:	Explorer&apos;s Guide to Wildemount p. 240</description>
     <environment>underdark, forest, swamp, desert, coastal</environment>
   </monster>
   <monster>
@@ -2197,7 +2197,7 @@ The dracolich exhales acid in a 90-foot line that is 10 feet wide. Each creature
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The undead can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The undead regains spent legendary actions at the start of its turn.</text>
+      <text>The undead can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The undead regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Detect</name>
@@ -2238,7 +2238,7 @@ The region containing a legendary black dragon's lair is warped by the dragon's 
 
 If the dragon dies, vegetation remains as it has grown, but other effects fade over 1d10 days.</text>
     </legendary>
-    <description>Source:	Explorer's Guide to Wildemount p. 154</description>
+    <description>Source:	Explorer&apos;s Guide to Wildemount p. 154</description>
     <environment>swamp</environment>
   </monster>
   <monster>
@@ -2288,7 +2288,7 @@ Pellinost is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell 
     </trait>
     <slots>0, 4, 3, 2</slots>
     <spells>light, sacred flame, thaumaturgy, cure wounds, guiding bolt, sanctuary, lesser restoration, spiritual weapon, dispel magic, spirit guardians</spells>
-    <description>Source:	Explorer's Guide to Wildemount p. 261</description>
+    <description>Source:	Explorer&apos;s Guide to Wildemount p. 261</description>
     <environment/>
   </monster>
   <monster>
@@ -2336,11 +2336,11 @@ Raegrin can attempt to hide even when they are only lightly obscured by foliage,
 Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.</text>
       <attack>Scimitar|+3|1d6+1</attack>
     </action>
-    <description>Source:	Explorer's Guide to Wildemount p. 240</description>
+    <description>Source:	Explorer&apos;s Guide to Wildemount p. 240</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sahuagin Warlock of Uk'otoa</name>
+    <name>Sahuagin Warlock of Uk&apos;otoa</name>
     <size>M</size>
     <type>humanoid (sahuagin)</type>
     <alignment>Neutral Evil</alignment>
@@ -2418,7 +2418,7 @@ The warlock's innate spellcasting ability is Charisma (spell save DC 13, +5 to h
 	• 1/Day each: armor of Agathys, arms of Hadar, counterspell, crown of madness, invisibility, hunger of Hadar</text>
     </trait>
     <spells>eldritch blast, minor illusion, armor of Agathys, arms of Hadar, counterspell, crown of madness, invisibility, hunger of Hadar</spells>
-    <description>The slumbering leviathan Uk'otoa preys on the fears and ambitions of humanoids that brave the depths of the Lucidian Ocean. Countless communities of sahuagin inhabit uncharted pockets of water along the Menagerie Coast, and the most ambitious among them often hear the call of the leviathan in their dreams, urging them to take his power and use it to achieve their bloodsoaked dreams.
+    <description>The slumbering leviathan Uk&apos;otoa preys on the fears and ambitions of humanoids that brave the depths of the Lucidian Ocean. Countless communities of sahuagin inhabit uncharted pockets of water along the Menagerie Coast, and the most ambitious among them often hear the call of the leviathan in their dreams, urging them to take his power and use it to achieve their bloodsoaked dreams.
 
 Sahuagin who answer the call of Uk'otoa tend to have one ambition in common: vengeance against the land dwellers of the Clovis Concord for daring to sail oceans that do not belong to them. As these devotees receive dark boons from their leviathan lord, other sahuagin begin to gather to their side, drawn to their displays of power and seeking their own pathway to power. Over time, these warlocks eventually become empty husks, mere receptacles for Uk'otoa's power, and puppets that the slumbering leviathan can control as he pleases.
 
@@ -2445,7 +2445,7 @@ Source:	Explorer's Guide to Wildemount p. 297</description>
     <languages>Aquan, Common, Giant</languages>
     <cr>12</cr>
     <resist/>
-    <immune>cold, fire, poison; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</immune>
+    <immune>cold, fire, poison; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</immune>
     <vulnerable/>
     <conditionImmune>paralyzed, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
@@ -2484,7 +2484,7 @@ The sea fury targets one frightened creature it can see within 30 feet of it. Th
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The fey can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The fey regains spent legendary actions at the start of its turn.</text>
+      <text>The fey can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The fey regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>As Water</name>
@@ -2644,7 +2644,7 @@ The abomination can breathe air and water, but it needs to be submerged at least
 Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.</text>
       <attack>Bite|+6|2d8+4</attack>
     </action>
-    <description>Source:	Explorer's Guide to Wildemount p. 215</description>
+    <description>Source:	Explorer&apos;s Guide to Wildemount p. 215</description>
     <environment>underwater</environment>
   </monster>
   <monster>
@@ -2688,16 +2688,16 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashi
       <attack>Longsword|+5|1d8+3</attack>
     </action>
     <reaction>
-      <name>Stone's Endurance (Recharges after a Short or Long Rest)</name>
+      <name>Stone&apos;s Endurance (Recharges after a Short or Long Rest)</name>
       <recharge>SHORT</recharge>
       <text>
 When Sken takes damage, she can use her reaction to reduce the damage taken by 8 (1d12 + 2).</text>
     </reaction>
-    <description>Source:	Explorer's Guide to Wildemount p. 221</description>
+    <description>Source:	Explorer&apos;s Guide to Wildemount p. 221</description>
     <environment/>
   </monster>
   <monster>
-    <name>Skr'a S'orsk</name>
+    <name>Skr&apos;a S&apos;orsk</name>
     <size>M</size>
     <type>humanoid (lizardfolk)</type>
     <alignment>Neutral</alignment>
@@ -2760,7 +2760,7 @@ The lizardfolk is a 5th-level spellcaster. Its spellcasting ability is Wisdom (s
     </trait>
     <slots>0, 4, 3, 2</slots>
     <spells>druidcraft, produce flame, thorn whip, entangle, fog cloud, heat metal, spike growth, conjure animals, plant growth</spells>
-    <description>Source:	Explorer's Guide to Wildemount p. 254</description>
+    <description>Source:	Explorer&apos;s Guide to Wildemount p. 254</description>
     <environment>forest, swamp</environment>
   </monster>
   <monster>
@@ -2799,7 +2799,7 @@ Melee Weapon Attack: +6 to hit, reach 0 ft., one creature in the swarm's space. 
       <attack>Bites|+6|2d6</attack>
       <attack>Bites||4d6</attack>
     </action>
-    <description>Source:	Explorer's Guide to Wildemount p. 247</description>
+    <description>Source:	Explorer&apos;s Guide to Wildemount p. 247</description>
     <environment>forest, swamp</environment>
   </monster>
   <monster>
@@ -2917,7 +2917,7 @@ Melee Weapon Attack: ++4 to hit, reach 5 ft., one target. Hit: 4 (1d4 +2) slashi
       <text>
 The captain adds 2 to its AC against one melee attack that would hit it. To do so, Three Earrings must see the attacker and be wielding a melee weapon.</text>
     </reaction>
-    <description>Source:	Explorer's Guide to Wildemount p. 211</description>
+    <description>Source:	Explorer&apos;s Guide to Wildemount p. 211</description>
     <environment/>
   </monster>
   <monster>
@@ -3030,7 +3030,7 @@ The vox seeker can climb difficult surfaces, including upside down on ceilings, 
 Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) piercing damage plus 3 lightning damage.</text>
       <attack>Pincer|+2|1d4</attack>
     </action>
-    <description>Source:	Explorer's Guide to Wildemount p. 270</description>
+    <description>Source:	Explorer&apos;s Guide to Wildemount p. 270</description>
     <environment/>
   </monster>
   <monster>
@@ -3079,7 +3079,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) pierci
 Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage.</text>
       <attack>Longbow|+5|1d8+3</attack>
     </action>
-    <description>Source:	Explorer's Guide to Wildemount p. 223</description>
+    <description>Source:	Explorer&apos;s Guide to Wildemount p. 223</description>
     <environment/>
   </monster>
 </compendium>

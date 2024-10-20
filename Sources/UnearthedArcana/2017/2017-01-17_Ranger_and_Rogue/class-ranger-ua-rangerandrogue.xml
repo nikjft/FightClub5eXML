@@ -14,7 +14,7 @@ Source:	Unearthed Arcana: Ranger And Rogue p. 1</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Horizon Walker (UA): Planar Magic</name>
-        <text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Horizon Walker Spells table. The spell counts as a ranger spell for you, and it doesn't count against the number of ranger spells you know.
+        <text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Horizon Walker Spells table. The spell counts as a ranger spell for you, and it doesn&apos;t count against the number of ranger spells you know.
 
 Horizon Walker Spells:
 Ranger Level | Spells
@@ -57,7 +57,7 @@ Source:	Unearthed Arcana: Ranger And Rogue p. 1</text>
     <autolevel level="7">
       <feature optional="YES">
         <name>Horizon Walker (UA): Ethereal Step</name>
-        <text>At 7th level, you learn to step through the Ethereal Plane. As a bonus action on your turn, you can cast the etherealness spell with this feature, but the spell ends at the end of the current turn. Once you use this feature, you can't use it again until you finish a short or long rest.
+        <text>At 7th level, you learn to step through the Ethereal Plane. As a bonus action on your turn, you can cast the etherealness spell with this feature, but the spell ends at the end of the current turn. Once you use this feature, you can&apos;t use it again until you finish a short or long rest.
 
 Source:	Unearthed Arcana: Ranger And Rogue p. 1</text>
       </feature>
@@ -99,7 +99,7 @@ Source:	Unearthed Arcana: Ranger And Rogue p. 2</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Primeval Guardian (UA): Guardian Magic</name>
-        <text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Primeval Guardian Spells table. The spell counts as a ranger spell for you, and it doesn't count against the number of ranger spells you know.
+        <text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Primeval Guardian Spells table. The spell counts as a ranger spell for you, and it doesn&apos;t count against the number of ranger spells you know.
 
 Primeval Guardian Spells:
 Ranger Level | Spells

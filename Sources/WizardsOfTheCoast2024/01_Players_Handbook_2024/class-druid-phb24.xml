@@ -74,7 +74,7 @@ Source:	Player's Handbook 2024 p. 79</text>
     <autolevel level="1">
       <feature>
         <name>Spellcasting</name>
-        <text>You have learned to cast spells through studying the mystical forces of nature. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Druid spells, which appear on the Druid spell list later in the class's description.
+        <text>You have learned to cast spells through studying the mystical forces of nature. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Druid spells, which appear on the Druid spell list later in the class&apos;s description.
 
 Cantrips:
 You know two cantrips of your choice from the Druid spell list. Druidcraft and Produce Flame are recommended.
@@ -210,7 +210,7 @@ Source:	Player's Handbook 2024 p. 81</text>
     <autolevel level="3">
       <feature>
         <name>Druid Subclass</name>
-        <text>You gain a Druid subclass of your choice. The Circle of the Land, Circle of the Moon, Circle of the Sea, and Circle of the Stars subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Druid levels. For the rest of your career, you gain each of your subclass's features that are of your Druid level or lower.
+        <text>You gain a Druid subclass of your choice. The Circle of the Land, Circle of the Moon, Circle of the Sea, and Circle of the Stars subclasses are detailed after this class&apos;s description. A subclass is a specialization that grants you features at certain Druid levels. For the rest of your career, you gain each of your subclass&apos;s features that are of your Druid level or lower.
 
 Source:	Player's Handbook 2024 p. 81</text>
       </feature>
@@ -262,7 +262,7 @@ Source:	Player's Handbook 2024 p. 81</text>
     <autolevel level="7">
       <feature optional="YES">
         <name>Elemental Fury: Primal Strike</name>
-        <text>Once on each of your turns when you hit a creature with an attack roll using a weapon or a Beast form's attack in Wild Shape, you can cause the target to take an extra 1d8 Cold, Fire, Lightning, or Thunder damage (choose when you hit).
+        <text>Once on each of your turns when you hit a creature with an attack roll using a weapon or a Beast form&apos;s attack in Wild Shape, you can cause the target to take an extra 1d8 Cold, Fire, Lightning, or Thunder damage (choose when you hit).
 
 Source:	Player's Handbook 2024 p. 81</text>
       </feature>
@@ -391,7 +391,7 @@ Druid Level | Circle Spells
 Source:	Player's Handbook 2024 p. 84</text>
       </feature>
       <feature optional="YES">
-        <name>Circle Of The Land: Land's Aid</name>
+        <name>Circle Of The Land: Land&apos;s Aid</name>
         <text>As a Magic action, you can expend a use of your Wild Shape and choose a point within 60 feet of yourself. Vitality-giving flowers and life-draining thorns appear for a moment in a 10-foot-radius Sphere centered on that point. Each creature of your choice in the Sphere must make a Constitution saving throw against your spell save DC, taking 2d6 Necrotic damage on a failed save or half as much damage on a successful one. One creature of your choice in that area regains 2d6 Hit Points.
 
 The damage and healing increase by 1d6 when you reach Druid levels 10 (3d6) and 14 (4d6).
@@ -418,8 +418,8 @@ Source:	Player's Handbook 2024 p. 85</text>
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Circle Of The Land: Nature's Ward</name>
-        <text>You are immune to the Poisoned condition, and you have Resistance to a damage type associated with your current land choice in the Circle Spells feature, as shown in the Nature's Ward table.
+        <name>Circle Of The Land: Nature&apos;s Ward</name>
+        <text>You are immune to the Poisoned condition, and you have Resistance to a damage type associated with your current land choice in the Circle Spells feature, as shown in the Nature&apos;s Ward table.
 
 Nature's Ward:
 Land Type | Resistance
@@ -434,8 +434,8 @@ Source:	Player's Handbook 2024 p. 85</text>
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Circle Of The Land: Nature's Sanctuary</name>
-        <text>As a Magic action, you can expend a use of your Wild Shape and cause spectral trees and vines to appear in a 15-foot Cube on the ground within 120 feet of yourself. They last there for 1 minute or until you have the Incapacitated condition or die. You and your allies have Half Cover while in that area, and your allies gain the current Resistance of your Nature's Ward while there.
+        <name>Circle Of The Land: Nature&apos;s Sanctuary</name>
+        <text>As a Magic action, you can expend a use of your Wild Shape and cause spectral trees and vines to appear in a 15-foot Cube on the ground within 120 feet of yourself. They last there for 1 minute or until you have the Incapacitated condition or die. You and your allies have Half Cover while in that area, and your allies gain the current Resistance of your Nature&apos;s Ward while there.
 
 As a Bonus Action, you can move the Cube up to 60 feet to ground within 120 feet of yourself.
 
@@ -616,7 +616,7 @@ Source:	Player's Handbook 2024 p. 88</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Circle Of The Stars: Star Map</name>
-        <text>You've created a star chart as part of your heavenly studies. It is a Tiny object, and you can use it as a Spellcasting Focus for your Druid spells. You determine its form by rolling on the Star Map table or by choosing one.
+        <text>You&apos;ve created a star chart as part of your heavenly studies. It is a Tiny object, and you can use it as a Spellcasting Focus for your Druid spells. You determine its form by rolling on the Star Map table or by choosing one.
 
 While holding the map, you have the Guidance and Guiding Bolt spells prepared, and you can cast Guiding Bolt without expending a spell slot. You can cast it in that way a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 

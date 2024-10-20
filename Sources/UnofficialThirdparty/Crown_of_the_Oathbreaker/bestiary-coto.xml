@@ -18,7 +18,7 @@
     <save/>
     <skill/>
     <passive>9</passive>
-    <languages>understands all languages it spoke in life but can't speak</languages>
+    <languages>understands all languages it spoke in life but can&apos;t speak</languages>
     <cr>1/4</cr>
     <resist/>
     <immune>poison</immune>
@@ -291,7 +291,7 @@ Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashi
 Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.</text>
       <attack>Light Crossbow|+3|1d8+1</attack>
     </action>
-    <description>Schofire the Vengeful is a friendly ex-pirate from Ronul's End.
+    <description>Schofire the Vengeful is a friendly ex-pirate from Ronul&apos;s End.
 
 Stat Block Origin: Bandit
 Source:	Crown of the Oathbreaker 143</description>
@@ -492,7 +492,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) pierci
 Ranged Weapon Attack: +4 to hit, ranged 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.</text>
       <attack>Longbow|+4|1d8+2</attack>
     </action>
-    <description>Byra, the eldest daughter of Taem and Gyo of the Halfling's Treasure bakery, is a wild one. She is always on the move, constantly trains with weapons, and seeks adventure wherever she can.
+    <description>Byra, the eldest daughter of Taem and Gyo of the Halfling&apos;s Treasure bakery, is a wild one. She is always on the move, constantly trains with weapons, and seeks adventure wherever she can.
 
 Stat Block Origin: Scout
 Source:	Crown of the Oathbreaker p. 144 (Homebrew)</description>
@@ -928,7 +928,7 @@ The duration of an alarm spell cast by the arcane sentinel becomes 24 huors and 
 Melee Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.</text>
       <attack>Dagger|+4|1d4+2</attack>
     </action>
-    <description>Trained guards and magic using security personnel, the arcane sentinels focus their arcane knowledge on abjuration spells and practices. They are loyal to their employers and are dedicated to protecting what they have been entrusted with. The arcane sentinel's responsibilities extend beyond just layering abjuration spells and include detecting suspicious individuals and holding back criminals until reinforcements arrive.
+    <description>Trained guards and magic using security personnel, the arcane sentinels focus their arcane knowledge on abjuration spells and practices. They are loyal to their employers and are dedicated to protecting what they have been entrusted with. The arcane sentinel&apos;s responsibilities extend beyond just layering abjuration spells and include detecting suspicious individuals and holding back criminals until reinforcements arrive.
 
 Source:	Crown of the Oathbreaker p. 749 (Homebrew)</description>
     <environment/>
@@ -1096,7 +1096,7 @@ Azaeresh kisses a creature charmed by it or a willing creature. The target must 
 As a bonus action, Azaeresh magically enters the Ethereal Plane from the Material Plane, or vice versa.</text>
     </action>
     <loot>gems worth 1000gp, withered right hand (wand of magic detection), Rapier +1, Spyglass of Devilish Revealing</loot>
-    <description>The Raider of Hearts, as the succubus fiend is called by those who know of its reputation, is a daring pirate captain who rebelled against its former succubus queen master and broke away from its rule with a dozen of its kind. The renegade succubi and incubi stole one of the flying ships of the succubus queen's armada, the Last Kiss, and escaped to the Astral Plane through a portal Azaeresh discovered earlier. From there, the demonic pirates raid other planes and retreat to deposit their treasures in their secret hideout. Azaeresh is a calculating and self-centered fiend who makes no allowances.
+    <description>The Raider of Hearts, as the succubus fiend is called by those who know of its reputation, is a daring pirate captain who rebelled against its former succubus queen master and broke away from its rule with a dozen of its kind. The renegade succubi and incubi stole one of the flying ships of the succubus queen&apos;s armada, the Last Kiss, and escaped to the Astral Plane through a portal Azaeresh discovered earlier. From there, the demonic pirates raid other planes and retreat to deposit their treasures in their secret hideout. Azaeresh is a calculating and self-centered fiend who makes no allowances.
 
 Equipment:
 Azaeresh has a mix of gems looted from Master Zaophas' quarters worth 1,000 gold pieces in total. The succubus carries the withered right hand of a witchservant cultist of the Children of the Coven that bears the tattoo of the cult and functions as a wand of magic detection. It was given to Azaeresh as a downpayment from Blister. The fiend pirate captain also has a +1 rapier and a spyglass of devilish revealing in its possession.
@@ -1312,7 +1312,7 @@ Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 30/120 ft., one t
       <text>
 Bakator magically turns invisible until it attacks, casts a spell, or uses its Enlarge, or until its concentration is broken, up to 1 hour (as if concentrating on a spell). Any equipment Bakator wears or carries is invisible with it.</text>
     </action>
-    <description>Bakator lived the life of a duergar raider in the caverns of his people under Vordan until one day, the fortress of the duergar was destroyed by a demonic horde. The demons slaughtered most but left the most resilient defenders alive, only to transport them to the Abyss as slaves. Despite the odds, and thanks to his black heart, Bakator survived and even caught the eye of a servant of Faeryl Myrryn in the soul markets of the Abyss. Led in front of the Blood Queen herself, Bakator swore allegiance to the drow conjurer vampire lord and accepted her blood. Since his transformation into a vampire spawn, Bakator has served Faeryl Myrryn's whim wholeheartedly in the Abyss and the Material Plane. He has received direction from his patron to scout the lands of Aglarion and investigate the Midnight Curse. Bakator is a cold and heartless individual whose soul is pure evil.
+    <description>Bakator lived the life of a duergar raider in the caverns of his people under Vordan until one day, the fortress of the duergar was destroyed by a demonic horde. The demons slaughtered most but left the most resilient defenders alive, only to transport them to the Abyss as slaves. Despite the odds, and thanks to his black heart, Bakator survived and even caught the eye of a servant of Faeryl Myrryn in the soul markets of the Abyss. Led in front of the Blood Queen herself, Bakator swore allegiance to the drow conjurer vampire lord and accepted her blood. Since his transformation into a vampire spawn, Bakator has served Faeryl Myrryn&apos;s whim wholeheartedly in the Abyss and the Material Plane. He has received direction from his patron to scout the lands of Aglarion and investigate the Midnight Curse. Bakator is a cold and heartless individual whose soul is pure evil.
 
 Equipment: Bakator carries a +1 war pick. He wears a suit of demon armor and the stone torc of the tower.
 
@@ -1467,7 +1467,7 @@ Ranged Weapon Attack: +5 to hit, range
 damage.</text>
       <attack>Slingshot|+5|1d4+3</attack>
     </action>
-    <description>Blessed with the spirit and intelligence of a sprite and the wisdom of a dryad, the billie blind is a wise being in a child's body. Billie blinds are enthusiastic and dedicated about a single thing in life. They analyze their chosen subject with meticulous accuracy and learn everything they can about it. These subjects of interest may vary for each individual. One billie blind might be an expert on history, arcane or religious matters, while the other might be an enthusiast of training dogs or making tea. They are rarely encountered and live solitary lives, but sometimes they serve as advisors to noble fey. They are usually reserved and kind but can be easily angered by questioning their expertise on their favorite subject.
+    <description>Blessed with the spirit and intelligence of a sprite and the wisdom of a dryad, the billie blind is a wise being in a child&apos;s body. Billie blinds are enthusiastic and dedicated about a single thing in life. They analyze their chosen subject with meticulous accuracy and learn everything they can about it. These subjects of interest may vary for each individual. One billie blind might be an expert on history, arcane or religious matters, while the other might be an enthusiast of training dogs or making tea. They are rarely encountered and live solitary lives, but sometimes they serve as advisors to noble fey. They are usually reserved and kind but can be easily angered by questioning their expertise on their favorite subject.
 
 Source:	Crown of the Oathbreaker p. 758 (Homebrew)</description>
     <environment/>
@@ -1544,7 +1544,7 @@ Source:	Crown of the Oathbreaker p. 759 (Homebrew)</description>
     <conditionImmune>charmed, exhaustion, paralyzed, petrified, poisoned, prone</conditionImmune>
     <senses>truesight 240 ft.</senses>
     <passive>21</passive>
-    <languages>Can't speak but understands common, telepathy 1,000 ft.</languages>
+    <languages>Can&apos;t speak but understands common, telepathy 1,000 ft.</languages>
     <save/>
     <cr>9</cr>
     <exp>5000</exp>
@@ -1758,7 +1758,7 @@ Commander Pricklethrust touches a creature and magically knows the creature's cu
 Commander Pricklethrust magically turns invisible until it attacks, or until its concentration ends (as if concentrating on a spell). Any equipment Commander Pricklethrust wears or carries is invisible with it.</text>
     </action>
     <spells>Invisibility</spells>
-    <description>Daring and fearless, Commander Pricklethrust has always been a model to the members of King Dasmag's armed forces. The veteran sprite warrior was on the satyr king's side long before they defeated the forces of Faeryl Myrryn, the demon conjurer drow vampire, and served as his chief army officer until the death of his king. The no-nonsense faerie was always apprehensive about the debaucheries of his lord but always served him loyally. Commander Pricklethrust is an expert tactician, a master combatant, and a versatile leader who has seen many forms of enemies and has led countless successful war campaigns. 
+    <description>Daring and fearless, Commander Pricklethrust has always been a model to the members of King Dasmag&apos;s armed forces. The veteran sprite warrior was on the satyr king&apos;s side long before they defeated the forces of Faeryl Myrryn, the demon conjurer drow vampire, and served as his chief army officer until the death of his king. The no-nonsense faerie was always apprehensive about the debaucheries of his lord but always served him loyally. Commander Pricklethrust is an expert tactician, a master combatant, and a versatile leader who has seen many forms of enemies and has led countless successful war campaigns. 
 
 Equpiment:
 Commander Pricklethrust carries a +1 scimitar, a +1 dagger, a +1 light crossbow, and wears +1 leather armor.
@@ -1914,7 +1914,7 @@ Source:	Crown of the Oathbreaker p. 764 (Homebrew)</description>
     <conditionImmune>Charmed, Exhaustion</conditionImmune>
     <senses>blindsight 10 ft., darkvision 60 ft.</senses>
     <passive>10</passive>
-    <languages>Understands commands given in any language but can't speak except for stating its current activity in Master Arlen's voice.</languages>
+    <languages>Understands commands given in any language but can&apos;t speak except for stating its current activity in Master Arlen&apos;s voice.</languages>
     <cr>7</cr>
     <exp>2900</exp>
     <trait>
@@ -1961,13 +1961,13 @@ Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 10 (2d4 + 5) bludg
 Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage. If the target is a creature, it is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the daedal wright can't use its stabilizer arm on another target.</text>
       <attack>Stabilizer Arm|+8|2d6+5</attack>
     </action>
-    <description>The daedal wright is a multifunction construction and production golem invented by Master Arlen. It is equipped with multiple smaller and larger mechanical arms with different appendages for digging, drilling, fine and bulk manipulation, and many more tasks. The archmage's routines imprinted in the daedal wrights allow it to find the most optimal solution to any given problem.
+    <description>The daedal wright is a multifunction construction and production golem invented by Master Arlen. It is equipped with multiple smaller and larger mechanical arms with different appendages for digging, drilling, fine and bulk manipulation, and many more tasks. The archmage&apos;s routines imprinted in the daedal wrights allow it to find the most optimal solution to any given problem.
 
 Source:	Crown of the Oathbreaker p. 766 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dag'drirath</name>
+    <name>Dag&apos;drirath</name>
     <size>L</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -2085,7 +2085,7 @@ Dag'drirath magically calls 2d4 swarms of bats or rats, provided that the sun is
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Dag'drirath can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Dag'drirath regains spent legendary actions at the start of its turn.</text>
+      <text>Dag'drirath can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature&apos;s turn. Dag&apos;drirath regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Move</name>
@@ -2102,7 +2102,7 @@ Dag'drirath makes one talon attack</text>
       <text>
 Dag'drirath makes one bite or beak attack.</text>
     </legendary>
-    <description>The Blood Queen, Faeryl Myrryn, a drow conjurer vampire servant of Orcus, infected Dag'drirath, a vrock, with vampirism during the early years of her experiments. The demon gained new powers and rose above its demonkin but it soon found out that it also acquired new weaknesses. The Blood Queen tasked Dag'drirath with a mission on the Material Plane. However, the undead demon failed and soon found itself trapped in a ruby in the dwarven mining caverns of Darkstone. Some dwarven miners unearthed the treasure that was its prison and have inadvertently released Dag'drirath, but it is still bound by the ruby and confined to the area of the mine. Its most coveted goal is becoming free again and returning to the Abyss.
+    <description>The Blood Queen, Faeryl Myrryn, a drow conjurer vampire servant of Orcus, infected Dag'drirath, a vrock, with vampirism during the early years of her experiments. The demon gained new powers and rose above its demonkin but it soon found out that it also acquired new weaknesses. The Blood Queen tasked Dag&apos;drirath with a mission on the Material Plane. However, the undead demon failed and soon found itself trapped in a ruby in the dwarven mining caverns of Darkstone. Some dwarven miners unearthed the treasure that was its prison and have inadvertently released Dag&apos;drirath, but it is still bound by the ruby and confined to the area of the mine. Its most coveted goal is becoming free again and returning to the Abyss.
 
 Source:	Crown of the Oathbreaker p. 767 (Homebrew)</description>
     <environment/>
@@ -2223,7 +2223,7 @@ When the dryad witch casts eldritch blast, it adds its Charisma modifier (+4) to
 The dryad witch has advantage on saving throws against being charmed.</text>
     </trait>
     <trait>
-      <name>Hag's form (Recharges after a Long Rest)</name>
+      <name>Hag&apos;s form (Recharges after a Long Rest)</name>
       <recharge>LONG</recharge>
       <text>
 The dryad witch can magically polymorph into a small or medium humanoid for one hour. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</text>
@@ -2282,7 +2282,7 @@ Source:	Crown of the Oathbreaker p. 771 (Homebrew)</description>
     <conditionImmune>charmed, prone</conditionImmune>
     <senses>Blindsight 120 ft.</senses>
     <passive>20</passive>
-    <languages>Can't speak but understands Common, Undercommon, Deep Speech, telepathy 120 ft.</languages>
+    <languages>Can&apos;t speak but understands Common, Undercommon, Deep Speech, telepathy 120 ft.</languages>
     <cr>14</cr>
     <exp>11500</exp>
     <trait>
@@ -2379,7 +2379,7 @@ Source:	Crown of the Oathbreaker p. 772 (Homebrew)</description>
     <cha>11</cha>
     <save>Strength +6, Constitution + 5, Wisdom +5</save>
     <skill>Acrobatics + 6, Athletics +6</skill>
-    <resist>cold; bludgeoning, piercing and slashing from nonmagical attacks that aren't silvered.</resist>
+    <resist>cold; bludgeoning, piercing and slashing from nonmagical attacks that aren&apos;t silvered.</resist>
     <immune>fire, poison</immune>
     <vulnerable/>
     <conditionImmune>poisoned</conditionImmune>
@@ -2389,7 +2389,7 @@ Source:	Crown of the Oathbreaker p. 772 (Homebrew)</description>
     <cr>5</cr>
     <exp>1800</exp>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede Eldon Lobo's darkvision.</text>
     </trait>
@@ -2721,7 +2721,7 @@ Frumby regains 1 hit point at the start of each of its turns if he has at least 
 Frumby can move up to its speed without provoking opportunity attacks</text>
     </trait>
     <trait>
-      <name>Vampire Lord's Blessing</name>
+      <name>Vampire Lord&apos;s Blessing</name>
       <text>
 When Frumby reduces a hostile creature to 0 hit points, he gains temporary 20 hit points.</text>
     </trait>
@@ -2741,7 +2741,7 @@ Frumby can create three beams of eldritch blast.</text>
 Ranged Spell Attack: +10 to hit, range 120 ft., one target. Hit: 9 (1d10 + 4) force damage.</text>
       <attack>Eldritch Blast|+10|1d10+4</attack>
     </action>
-    <description>Frumby Goldtooth is a notorious goblin warlock, a master crafter and purveyor of wands, and secretly dedicated to the drow vampire lord and archmage conjurer Faeryl Myrryn with the ultimate goal of becoming a vampire one day. He has been exiled from Gonshar by his cousin Lord Kabok Goldtooth, who is Frumby's greatest rival and most bitter competition. Frumby specializes in crafting magic items and casting enchantments to enslave all manner of beings, whom he sells for hard gold to the right bidder or uses as servants to do his bidding. The goblin warlock has served the Matrons of Malice on many occasions but secretly plots to overtake the realm from them. However, he is wise enough to know that he lacks the power to accomplish this alone, so he is recruiting and tricking powerful allies into joining him in his goal to "liberate" the Bleak Mire.
+    <description>Frumby Goldtooth is a notorious goblin warlock, a master crafter and purveyor of wands, and secretly dedicated to the drow vampire lord and archmage conjurer Faeryl Myrryn with the ultimate goal of becoming a vampire one day. He has been exiled from Gonshar by his cousin Lord Kabok Goldtooth, who is Frumby&apos;s greatest rival and most bitter competition. Frumby specializes in crafting magic items and casting enchantments to enslave all manner of beings, whom he sells for hard gold to the right bidder or uses as servants to do his bidding. The goblin warlock has served the Matrons of Malice on many occasions but secretly plots to overtake the realm from them. However, he is wise enough to know that he lacks the power to accomplish this alone, so he is recruiting and tricking powerful allies into joining him in his goal to "liberate" the Bleak Mire.
 
 Equipment:
 Frumby wears an assortment of golden jewelry worth 564 gold pieces, a +1 glamoured studded leather armor, a ring of spell storing (with a stoneskin spell stored in it), and carries a wand of the mimic at all times.
@@ -2972,7 +2972,7 @@ Source:	Crown of the Oathbreaker p. 781 (Homebrew)</description>
     <save>Dex +5, Cha +5</save>
     <skill>Acrobatics +5, Deception +5, Perception +5, Sleight of Hand +8, Stealth +8</skill>
     <passive>15</passive>
-    <languages>Common, Thieves' cant (Vagabond)</languages>
+    <languages>Common, Thieves&apos; cant (Vagabond)</languages>
     <cr>8</cr>
     <exp>3900</exp>
     <resist/>
@@ -3067,7 +3067,7 @@ When an attacker that Gren can see hits him with an attack, he can use his react
     </reaction>
     <spells>guidance, message, true strike, bane, charm person, cure wounds, heroism, sleep</spells>
     <slots>0, 3</slots>
-    <description>The largest of the Uncanny Vagabonds, Gren, a serious but cheerful young man, has gained fame and reputation within the ranks of his family with his daring approach to problems and his skills as an entertainer. He never knew his father, and he was only a young boy when his mother, an exceptionally beautiful woman, died. On her deathbed, she told the family that Gren's father was none other than King Waldrann Azennar, and she proved it with a love letter that the king wrote to her almost a decade ago. The letter proved genuine, but it only proves that Gren's mother and the king had an affair. The Uncanny Vagabonds couldn't care less, and they know that whatever proof they had would never be enough to turn Gren into royalty. They consider the option as one of their amusing stories and keep calling Gren "Your highness" for the fun of it.
+    <description>The largest of the Uncanny Vagabonds, Gren, a serious but cheerful young man, has gained fame and reputation within the ranks of his family with his daring approach to problems and his skills as an entertainer. He never knew his father, and he was only a young boy when his mother, an exceptionally beautiful woman, died. On her deathbed, she told the family that Gren's father was none other than King Waldrann Azennar, and she proved it with a love letter that the king wrote to her almost a decade ago. The letter proved genuine, but it only proves that Gren&apos;s mother and the king had an affair. The Uncanny Vagabonds couldn&apos;t care less, and they know that whatever proof they had would never be enough to turn Gren into royalty. They consider the option as one of their amusing stories and keep calling Gren "Your highness" for the fun of it.
 
 Equipment:
 Gren has 13 copper pieces, 3 silver pieces, 21 gold pieces, a +1 longsword, and a potion of healing on his person.
@@ -3120,7 +3120,7 @@ Grorrarr is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell s
 Grorrarr has advantage on Wisdom (Perception) checks that rely on sight or smell.</text>
     </trait>
     <trait>
-      <name>Land's Stride</name>
+      <name>Land&apos;s Stride</name>
       <text>
 Moving through nonmagical difficult terrain costs no extra movement for Grorrarr. It can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard. In addition, Grorrarr has advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the entangle spell.</text>
     </trait>
@@ -3155,7 +3155,7 @@ Twice per day, Grorrarr can use its action to magically assume the shape of a be
     </action>
     <spells>druidcraft, guidance, poison spray, produce flame, cure wounds, entangle, jump, speak with animals, barkskin, gust of wind, heat metal, spider climb, call lightning, dispel magic, plant growth, speak with plants, divination, dominate beast, freedom of movement, ice storm, awaken, commune with nature, tree stride</spells>
     <slots>0, 4, 3, 3, 3, 1</slots>
-    <description>Upon his death at old age, Kalymorr the Gorgon Rider, the solitary druid of the King's Forest, has reincarnated as an owlbear. The Eternal Mother gifted the venerable druid with a young body of a monstrosity and allowed him to continue his work by retaining his memories and knowledge. The owlbear knows who it was in its past life, re-named itself Grorrarr, and continued with its duties.
+    <description>Upon his death at old age, Kalymorr the Gorgon Rider, the solitary druid of the King&apos;s Forest, has reincarnated as an owlbear. The Eternal Mother gifted the venerable druid with a young body of a monstrosity and allowed him to continue his work by retaining his memories and knowledge. The owlbear knows who it was in its past life, re-named itself Grorrarr, and continued with its duties.
 
 Source:	Crown of the Oathbreaker p. 784 (Homebrew)</description>
     <environment/>
@@ -3206,7 +3206,7 @@ The despair giant is constantly surrounded by a 10-foot radius aura of despair. 
 Gygor has advantage on saving throws against being charmed.</text>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Gygor can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.</text>
     </trait>
@@ -3216,7 +3216,7 @@ Gygor can see normally in darkness, both magical and nonmagical, to a distance o
 The despair giant is immune to effects that would alter or modify its emotions.</text>
     </trait>
     <trait>
-      <name>Hag's Form (Recharges after a Long Rest)</name>
+      <name>Hag&apos;s Form (Recharges after a Long Rest)</name>
       <recharge>LONG</recharge>
       <text>
 As a bonus action, Gygor can magically polymorph into a small or medium humanoid for one hour. Gygor's statistics are the same in each form. Any equipment Gygor is wearing or carrying isn't transformed. Gygor reverts to its true form if it dies.</text>
@@ -3279,7 +3279,7 @@ Source:	Crown of the Oathbreaker p. 786 (Homebrew)</description>
     <save/>
     <skill>Deception +11, Insight +7, Perception +11</skill>
     <passive>21</passive>
-    <languages>Abyssal, Common, Druidic, Infernal, Sylvan, But can't speak. Telepathy 120 ft.</languages>
+    <languages>Abyssal, Common, Druidic, Infernal, Sylvan, But can&apos;t speak. Telepathy 120 ft.</languages>
     <cr>10</cr>
     <exp>5900</exp>
     <resist>bludgeoning, piercing</resist>
@@ -3365,7 +3365,7 @@ Source:	Crown of the Oathbreaker p. 788 (Homebrew)</description>
     <save>Dex +5, Cha +5</save>
     <skill>Deception +7, Insight +3, Intimidation +7, Persuasion +5, Sleight of Hand +7</skill>
     <passive>11</passive>
-    <languages>Common, Thieves' cant</languages>
+    <languages>Common, Thieves&apos; cant</languages>
     <cr>4</cr>
     <exp>1100</exp>
     <resist/>
@@ -3659,7 +3659,7 @@ As a bonus action, the incubus pirate magically enters the Ethereal Plane from t
     </action>
     <spells/>
     <slots/>
-    <description>Incubus pirates pillage the coasts of the Styx, the multiverse, or even the Material Plane for loot and slaves. They often serve as crews on planar vessels captained by greater fiends. They are hardened sailors who employ roguish tactics in addition to the guiles ebbing from their fiendish natures. They are masters of infiltration and often break down their targets' defenses before storming them in full force.
+    <description>Incubus pirates pillage the coasts of the Styx, the multiverse, or even the Material Plane for loot and slaves. They often serve as crews on planar vessels captained by greater fiends. They are hardened sailors who employ roguish tactics in addition to the guiles ebbing from their fiendish natures. They are masters of infiltration and often break down their targets&apos; defenses before storming them in full force.
 
 Equipment:
 An incubus pirate has thieves' tools, a potion of healing, and 75 gold pieces on its person.
@@ -3804,7 +3804,7 @@ Source:	Crown of the Oathbreaker p. 794 (Homebrew)</description>
     <save>Con +10, Int +7, Wis +8</save>
     <skill>Intimidation +10, Insight +8</skill>
     <passive>13</passive>
-    <languages>Can't speak but understands Common, Undercommon, Deep Speech, telepathy 120 ft.</languages>
+    <languages>Can&apos;t speak but understands Common, Undercommon, Deep Speech, telepathy 120 ft.</languages>
     <cr>10</cr>
     <exp>5900</exp>
     <resist/>
@@ -4023,7 +4023,7 @@ Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (3d6 + 5) slash
     </action>
     <spells/>
     <slots/>
-    <description>Kelzar the troll has molded a pair of one of its family members' arms to its torso, the eyes of some beasts to the back of its head, and the gills of a merrow on its neck to enhance an already menacing body. The mutated troll considers the Ulden Swamps its kingdom and loathes all who enter its domain.
+    <description>Kelzar the troll has molded a pair of one of its family members&apos; arms to its torso, the eyes of some beasts to the back of its head, and the gills of a merrow on its neck to enhance an already menacing body. The mutated troll considers the Ulden Swamps its kingdom and loathes all who enter its domain.
 
 Source:	Crown of the Oathbreaker p. 800 (Homebrew)</description>
     <environment>swamp</environment>
@@ -4210,7 +4210,7 @@ Krasnar Azennar is immune to disease.</text>
 When Krasnar Azennar rolls a 1 or 2 on a damage die for an attack he makes, he can reroll the die and must use the new roll.</text>
     </trait>
     <trait>
-      <name>Hag's Form (Recharges after a Long Rest)</name>
+      <name>Hag&apos;s Form (Recharges after a Long Rest)</name>
       <recharge>LONG</recharge>
       <text>
 Krasnar Azennar can magically polymorph into a small or medium humanoid for one hour. His statistics are the same in each form. Any equipment he is wearing or carrying isn't transformed. He reverts to his true form if he dies.</text>
@@ -4414,7 +4414,7 @@ When a creature Lord Cyne Monder can see attacks a target other than him that is
     </reaction>
     <spells>cure wounds, heroism, protection from evil and good, shield of faith, aid, branding smite, lesser restoration, protection from poison, magic circle, protection from energy, remove curse, revivify</spells>
     <slots>0, 4, 3, 2</slots>
-    <description>The current high commander of the Knights of the Crown, Crownwarden Lord Cyne Monder is an aging paladin of great renown, a noble of an ancient lineage of dwarves with a sordid past, the Monders. As a result of his forebear's folly in attacking the Isles of Xantharos, the family pledged every firstborn of the line to protect the crown, and Lord Cyne Monder is the latest to serve. He is doing his best to rebuild the reputation of his house, his oath binding him to protect the crown, his sovereign, and realm.
+    <description>The current high commander of the Knights of the Crown, Crownwarden Lord Cyne Monder is an aging paladin of great renown, a noble of an ancient lineage of dwarves with a sordid past, the Monders. As a result of his forebear&apos;s folly in attacking the Isles of Xantharos, the family pledged every firstborn of the line to protect the crown, and Lord Cyne Monder is the latest to serve. He is doing his best to rebuild the reputation of his house, his oath binding him to protect the crown, his sovereign, and realm.
 
 Equipment:
 Lord Cyne Monder has 12 copper pieces, 15 silver pieces, 63 gold pieces, a +1 maul, an animated shield, his plate armor, and his ivory holy symbol worth 50 gold pieces on his person.
@@ -4518,7 +4518,7 @@ Lord Ziademos Gorso can manipulate fate using the power of chaos. Four times per
     </reaction>
     <spells>eldritch blast, mage hand, message, minor illusion, poison spray, true strike, vicious mockery, bane, bless, blink, confusion, contact other plane, hold monster, hypnotic pattern, infuse with entropy, mirror image, polymorph, shatter, conjure elemental, eyebite, silent image, bestow curse, arcane eye</spells>
     <slots>0, 0, 0, 0, 0, 3</slots>
-    <description>After the death of his wife, the late Highlady Urmissa, Lord Ziademos Gorso fell apart and escaped to total seclusion in his chambers for several years, refusing to accept food, aid, or contact from anyone, including his daughter and numerous sons. It was a mystery how he sustained himself, but one day he emerged from his room stinking, naked, covered in strange sigils, and a crazed look in his eyes. The lord's mad contemplations led him in the service of the entity he refers to as the Elemental Chaos. The crazed noble struck a pact with his patron, which gave him warlock powers and the ability to sire a bloodline with sorcerous powers of chaos. His numerous children and grandchildren are all born with these magical powers that help them spread chaos in the world and the village is filled with the children of the Gorsos, who all carry the chaotic bloodline of their progenitors.
+    <description>After the death of his wife, the late Highlady Urmissa, Lord Ziademos Gorso fell apart and escaped to total seclusion in his chambers for several years, refusing to accept food, aid, or contact from anyone, including his daughter and numerous sons. It was a mystery how he sustained himself, but one day he emerged from his room stinking, naked, covered in strange sigils, and a crazed look in his eyes. The lord&apos;s mad contemplations led him in the service of the entity he refers to as the Elemental Chaos. The crazed noble struck a pact with his patron, which gave him warlock powers and the ability to sire a bloodline with sorcerous powers of chaos. His numerous children and grandchildren are all born with these magical powers that help them spread chaos in the world and the village is filled with the children of the Gorsos, who all carry the chaotic bloodline of their progenitors.
 
 Equipment:
 Lord Ziademos Gorso wears the silver torc of the tower and wields a unicorn horn cudgel.
@@ -4607,7 +4607,7 @@ Each creature of Malzdreziret's choice that is within 120 feet of Malzdreziret a
 Malzdreziret magically reads the surface thoughts of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, Malzdreziret can continue reading its thoughts, as long as Malzdreziret's concentration isn't broken (as if concentrating on a spell). While reading the target's mind, Malzdreziret has advantage on Wisdom (Insight) and Charisma (Deception, Intimidation, and Persuasion) checks against the target.</text>
       </action>
       <legendary>
-        <text>Malzdreziret can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Malzdreziret regains spent legendary actions at the start of its turn.</text>
+        <text>Malzdreziret can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature&apos;s turn. Malzdreziret regains spent legendary actions at the start of its turn.</text>
       </legendary>
       <legendary>
         <name>Detect</name>
@@ -4723,7 +4723,7 @@ Master Bertio Ranberd can channel divine energy to fuel either of the following 
     </action>
     <spells>guidance, resistance, spare the dying, fire bolt, mage hand, message, minor illusion, prestidigitation, detect magic, identify, magic missile, shield, detect thoughts, hold person, scorching ray, counterspell, dispel magic, glyph of warding, banishment, black tentacles, dimension door, arcane hand, cone of cold, disintegrate, cure wounds, guiding bolt, sanctuary, shield of faith, lesser restoration, spiritual weapon</spells>
     <slots>0, 4, 3, 3, 3, 2, 1</slots>
-    <description>The owner and professor of the Emporium of Marvelous Rarities is a man of few words. He is a practical, calculating wizard who only speaks if needed and keeps everything in rigorous order around his school and his shop. His students don't really know him well, and they don't know anything about his personal dealings, motivations, and background, which is literally very dark. Master Bertio Ranberd is a cleric of the Darkness Within, a dogmatist and irredentist who wishes to elevate his status by serving the fallen angels.
+    <description>The owner and professor of the Emporium of Marvelous Rarities is a man of few words. He is a practical, calculating wizard who only speaks if needed and keeps everything in rigorous order around his school and his shop. His students don&apos;t really know him well, and they don&apos;t know anything about his personal dealings, motivations, and background, which is literally very dark. Master Bertio Ranberd is a cleric of the Darkness Within, a dogmatist and irredentist who wishes to elevate his status by serving the fallen angels.
 
 Equipment:
 Master Bertio Ranberd has 2 copper pieces, 5 silver pieces, 32 gold pieces, a holy symbol of the Darkness Within made out of jet worth 60 gold pieces, a mithral chain shirt, a wand of fire manipulation, a +1 dagger, a potion of superior healing, a potion of invisibility, and a potion of speed on his person.
@@ -4803,7 +4803,7 @@ Ranged Weapon Attack: +5 to hit, reach 150/600 ft., one target. Hit: 7 (1d8 + 3)
 Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.</text>
       <attack>Shortsword|+5|1d6+3</attack>
     </action>
-    <spells>hunter's mark, longstrider, speak with animals, locate animals or plants, pass without trace, silence</spells>
+    <spells>hunter&apos;s mark, longstrider, speak with animals, locate animals or plants, pass without trace, silence</spells>
     <slots>0, 4, 2</slots>
     <description>Menagerie Caretakers are rangers who specialize in handling and tending for beasts and monstrosities, specializing as monster tamers. Their knowledge and everyday practices sometimes bring them into wilderness areas when beasts or monsters need to be subdued by skill or spells. Menagerie Caretakers are usually not the most social of people, preferring to spend time in the presence of beats or monsters, with whom they share a closer affinity.
 

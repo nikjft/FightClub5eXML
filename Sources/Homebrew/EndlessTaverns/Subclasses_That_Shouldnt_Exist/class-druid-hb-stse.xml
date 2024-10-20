@@ -11,14 +11,14 @@ Source:	Subclasses That Shouldn't Exist v1 p. 9 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Circle of the Persistent Weed (HB): Rooted Vitality</name>
-        <text>At 2nd level, your connection to the life force of nature's most tenacious plants grants you and your allies enduring vitality. As a bonus action, you can touch one creature and grant it temporary hit points equal to 1d4 + your Wisdom modifier. These temporary hit points increase to 1d6 at 6th level, 1d8 at 10th level, and 1d10 at 14th level. You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.
+        <text>At 2nd level, your connection to the life force of nature&apos;s most tenacious plants grants you and your allies enduring vitality. As a bonus action, you can touch one creature and grant it temporary hit points equal to 1d4 + your Wisdom modifier. These temporary hit points increase to 1d6 at 6th level, 1d8 at 10th level, and 1d10 at 14th level. You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
 Source:	Subclasses That Shouldn't Exist v1 p. 9 (Homebrew)</text>
       </feature>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Circle of the Persistent Weed (HB): Weed's Ward</name>
+        <name>Circle of the Persistent Weed (HB): Weed&apos;s Ward</name>
         <text>Starting at 6th level, you learn to summon the protective essence of weeds.
 
 As a reaction when you or a nearby ally within 30 feet of you takes damage, you can reduce that damage by an amount equal to your druid level + your Wisdom modifier. You can use this feature a number of times equal to your Wisdom modifier, regaining all expended uses after a long rest.

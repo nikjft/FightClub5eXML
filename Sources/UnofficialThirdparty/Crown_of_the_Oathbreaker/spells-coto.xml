@@ -27,7 +27,7 @@ Source:	Crown of the Oathbreaker p. 908 (Homebrew)</text>
     <range>Self</range>
     <components>V, S</components>
     <duration>8 hours</duration>
-    <text>You resist external influences to your soul through your unbreaking faith. You gain immunity to any effect that would influence your soul (such as the magic jar spell or a hag's nightmare haunting ability).
+    <text>You resist external influences to your soul through your unbreaking faith. You gain immunity to any effect that would influence your soul (such as the magic jar spell or a hag&apos;s nightmare haunting ability).
 
 Source:	Crown of the Oathbreaker p. 908 (Homebrew)</text>
   </spell>
@@ -272,7 +272,7 @@ Source:	Crown of the Oathbreaker p. 913 (Homebrew)</text>
     <range>90 feet</range>
     <components>V, S, M (a small vial of smoke)</components>
     <duration>Concentration, up to 1 minute</duration>
-    <text>You extract the air from your enemy's lungs and fill it with smoke to cause suffocation. Choose a creature that you can see within range. The target must succeed on a Constitution saving throw. On a failed save, the target creature is paralyzed for the duration and starts to suffocate as it has run out of breath. This spell has no effect on constructs, plants, undead, or other creatures that don't breathe. At the end of each of its turns, the target can make another Constitution saving throw. On a success, the spell ends on the target.
+    <text>You extract the air from your enemy&apos;s lungs and fill it with smoke to cause suffocation. Choose a creature that you can see within range. The target must succeed on a Constitution saving throw. On a failed save, the target creature is paralyzed for the duration and starts to suffocate as it has run out of breath. This spell has no effect on constructs, plants, undead, or other creatures that don&apos;t breathe. At the end of each of its turns, the target can make another Constitution saving throw. On a success, the spell ends on the target.
 
 At Higher Levels:
 When you cast this spell using a spell slot of 7th level or higher, you can target one additional creature for each slot level above 6th. The creatures must be within 30 feet of each other when you target them.
@@ -289,7 +289,7 @@ Source:	Crown of the Oathbreaker p. 914 (Homebrew)</text>
     <range>30 feet</range>
     <components>V, S, M (a pinch of ash from a corpse)</components>
     <duration>1 minute</duration>
-    <text>You hinder your enemy's movement, or their combat abilities, or both. Choose a creature that you can see within range and the creature's arms or feet. The target creature must make a Constitution saving throw.
+    <text>You hinder your enemy&apos;s movement, or their combat abilities, or both. Choose a creature that you can see within range and the creature&apos;s arms or feet. The target creature must make a Constitution saving throw.
 
 If you choose its arms, on a failed save, the target creature gains disadvantage on attack rolls and ability checks that require the use of an arm. If you cast this spell again on the same creature's arms and the target fails the saving throw a second time while under the effect of the same spell, the target creature loses the function of their arms entirely.
 

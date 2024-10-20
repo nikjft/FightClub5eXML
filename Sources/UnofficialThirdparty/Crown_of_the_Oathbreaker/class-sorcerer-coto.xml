@@ -13,7 +13,7 @@ Source:	Crown of the Oathbreaker p. 895 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Entropist Bloodline (HB): Touch of Entropy</name>
-        <text>Starting at 1st level, your touch destroys non-organic matter. If the nonmagical object isn't being worn or carried, you can choose to cause your touch to destroy a Tiny object at 1st level, a Small object at 5th level, a Medium object at 9th level, a Large object at 13th level, and a Huge object at 17th level. If the object is being worn or carried by a creature, the creature can make a Dexterity saving throw against your spell save DC to avoid your touch. If the object touched is a non-magical weapon being carried, it takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. If the object touched is either a nonmagical armor or a nonmagical shield being worn or carried, it takes a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed.
+        <text>Starting at 1st level, your touch destroys non-organic matter. If the nonmagical object isn&apos;t being worn or carried, you can choose to cause your touch to destroy a Tiny object at 1st level, a Small object at 5th level, a Medium object at 9th level, a Large object at 13th level, and a Huge object at 17th level. If the object is being worn or carried by a creature, the creature can make a Dexterity saving throw against your spell save DC to avoid your touch. If the object touched is a non-magical weapon being carried, it takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. If the object touched is either a nonmagical armor or a nonmagical shield being worn or carried, it takes a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed.
 
 Source:	Crown of the Oathbreaker p. 896 (Homebrew)</text>
       </feature>
@@ -43,7 +43,7 @@ Source:	Crown of the Oathbreaker p. 896 (Homebrew)</text>
     <autolevel level="18">
       <feature optional="YES">
         <name>Entropist Bloodline (HB): Sphere of Entropy</name>
-        <text>Starting at 18th level, as an action you can rip the fabric of space and create a swirling void in the multiverse, summoning a sphere of annihilation out of raw entropy. The sphere remains in existence for 1 minute, and you have advantage on rolls to control the sphere. You can't use this feature again until you finish a long rest.
+        <text>Starting at 18th level, as an action you can rip the fabric of space and create a swirling void in the multiverse, summoning a sphere of annihilation out of raw entropy. The sphere remains in existence for 1 minute, and you have advantage on rolls to control the sphere. You can&apos;t use this feature again until you finish a long rest.
 
 Source:	Crown of the Oathbreaker p. 897 (Homebrew)</text>
       </feature>
@@ -64,7 +64,7 @@ Source:	Crown of the Oathbreaker p. 897 (Homebrew)</text>
 Source:	Crown of the Oathbreaker p. 897 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Lycanthropic Bloodline (HB): Predator's Knowledge</name>
+        <name>Lycanthropic Bloodline (HB): Predator&apos;s Knowledge</name>
         <text>Starting at 1st level, your bestial side awakens, giving you the skills of predators. You gain proficiency in the Dexterity (Stealth), Wisdom (Perception), and Wisdom (Survival) skills if you are not already proficient in them.
 
 Source:	Crown of the Oathbreaker p. 897 (Homebrew)</text>
@@ -155,7 +155,7 @@ Source:	Crown of the Oathbreaker p. 898 (Homebrew)</text>
     <autolevel level="18">
       <feature optional="YES">
         <name>Primordial Energy Savant (HB): Elemental Gate</name>
-        <text>Starting at 18th level, you can open a portal to any of the elemental planes. You can cast the gate spell to open a portal to an Elemental Plane. Once you use this feature, you can't use it again until you finish a long rest.
+        <text>Starting at 18th level, you can open a portal to any of the elemental planes. You can cast the gate spell to open a portal to an Elemental Plane. Once you use this feature, you can&apos;t use it again until you finish a long rest.
 
 Source:	Crown of the Oathbreaker p. 898 (Homebrew)</text>
       </feature>

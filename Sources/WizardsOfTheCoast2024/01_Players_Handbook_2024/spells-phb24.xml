@@ -29,7 +29,7 @@ Source:	Player's Handbook 2024 p. 239</text>
     <components>V, S, M (a strip of white cloth)</components>
     <duration>8 hour</duration>
     <classes>Bard, Cleric, Druid, Ranger, Paladin</classes>
-    <text>Choose up to three creatures within range. Each target's Hit Points maximum and current Hit Points increase by 5 for the duration.
+    <text>Choose up to three creatures within range. Each target&apos;s Hit Points maximum and current Hit Points increase by 5 for the duration.
 
 Using a Higher-Level Spell Slot:
 Each target's Hit Points increase by 5 for each spell slot level above 2.
@@ -46,7 +46,7 @@ Source:	Player's Handbook 2024 p. 239</text>
     <components>V, S, M (a bell and silver wire)</components>
     <duration>8 hour</duration>
     <classes>Ranger, Wizard</classes>
-    <text>You set an alarm against intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot Cube. Until the spell ends, an alarm alerts you whenever a creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is audible or mental:
+    <text>You set an alarm against intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot Cube. Until the spell ends, an alarm alerts you whenever a creature touches or enters the warded area. When you cast the spell, you can designate creatures that won&apos;t set off the alarm. You also choose whether the alarm is audible or mental:
 
 Audible Alarm:
 The alarm produces the sound of a handbell for 10 seconds within 60 feet of the warded area.
@@ -105,7 +105,7 @@ Source:	Player's Handbook 2024 p. 239</text>
     <components>V, S, M (a morsel of food)</components>
     <duration>24 hour</duration>
     <classes>Bard, Druid, Ranger</classes>
-    <text>A Tiny Beast of your choice that you can see within range must succeed on a Charisma saving throw, or it attempts to deliver a message for you (if the target's Challenge Rating isn't 0, it automatically succeeds). You specify a location you have visited and a recipient who matches a general description, such as "a person dressed in the uniform of the town guard" or "a red-haired dwarf wearing a pointed hat." You also communicate a message of up to twenty-five words. The Beast travels for the duration toward the specified location, covering about 25 miles per 24 hours or 50 miles if the Beast can fly.
+    <text>A Tiny Beast of your choice that you can see within range must succeed on a Charisma saving throw, or it attempts to deliver a message for you (if the target&apos;s Challenge Rating isn&apos;t 0, it automatically succeeds). You specify a location you have visited and a recipient who matches a general description, such as "a person dressed in the uniform of the town guard" or "a red-haired dwarf wearing a pointed hat." You also communicate a message of up to twenty-five words. The Beast travels for the duration toward the specified location, covering about 25 miles per 24 hours or 50 miles if the Beast can fly.
 
 When the Beast arrives, it delivers your message to the creature that you described, mimicking your communication. If the Beast doesn't reach its destination before the spell ends, the message is lost, and the Beast returns to where you cast the spell.
 
@@ -160,7 +160,7 @@ Source:	Player's Handbook 2024 p. 240</text>
     <components>V, S</components>
     <duration>Concentration, up to 1 minute</duration>
     <classes>Bard, Sorcerer, Wizard</classes>
-    <text>Objects animate at your command. Choose a number of nonmagical objects within range that aren't being worn or carried, aren't fixed to a surface, and aren't Gargantuan. The maximum number of objects is equal to your spellcasting ability modifier; for this number, a Medium or smaller target counts as one object, a Large target counts as two, and a Huge target counts as three.
+    <text>Objects animate at your command. Choose a number of nonmagical objects within range that aren't being worn or carried, aren&apos;t fixed to a surface, and aren&apos;t Gargantuan. The maximum number of objects is equal to your spellcasting ability modifier; for this number, a Medium or smaller target counts as one object, a Large target counts as two, and a Huge target counts as three.
 
 Each target animates, sprouts legs, and becomes a Construct that uses the Animated Object stat block; this creature is under your control until the spell ends or until it is reduced to 0 Hit Points. Each creature you make with this spell is an ally to you and your allies. In combat, it shares your Initiative count and takes its turn immediately after yours.
 
@@ -198,7 +198,7 @@ Source:	Player's Handbook 2024 p. 241</text>
     <components>V, S, M (iron filings)</components>
     <duration>Concentration, up to 1 hour</duration>
     <classes>Cleric, Wizard</classes>
-    <text>An aura of antimagic surrounds you in 10-foot Emanation. No one can cast spells, take Magic actions, or create other magical effects inside the aura, and those things can't target or otherwise affect anything inside it. Magical properties of magic items don't work inside the aura or on anything inside it.
+    <text>An aura of antimagic surrounds you in 10-foot Emanation. No one can cast spells, take Magic actions, or create other magical effects inside the aura, and those things can&apos;t target or otherwise affect anything inside it. Magical properties of magic items don&apos;t work inside the aura or on anything inside it.
 
 Areas of effect created by spells or other magic can't extend into the aura, and no one can teleport into or out of it or use planar travel there. Portals close temporarily while in the aura.
 
@@ -271,7 +271,7 @@ Source:	Player's Handbook 2024 p. 242</text>
     <components>V, S, M (gold dust worth 25+ GP, which the spell consumes)</components>
     <duration/>
     <classes>Wizard</classes>
-    <text>You touch a closed door, window, gate, container, or hatch and magically lock it for the duration. This lock can't be unlocked by any nonmagical means. You and any creatures you designate when you cast the spell can open and close the object despite the lock. You can also set a password that, when spoken within 5 feet of the object, unlocks it for 1 minute.
+    <text>You touch a closed door, window, gate, container, or hatch and magically lock it for the duration. This lock can&apos;t be unlocked by any nonmagical means. You and any creatures you designate when you cast the spell can open and close the object despite the lock. You can also set a password that, when spoken within 5 feet of the object, unlocks it for 1 minute.
 
 Source:	Player's Handbook 2024 p. 242</text>
   </spell>
@@ -284,7 +284,7 @@ Source:	Player's Handbook 2024 p. 242</text>
     <components>V, S</components>
     <duration>Instantaneous</duration>
     <classes>Sorcerer, Wizard</classes>
-    <text>You tap into your life force to heal yourself. Roll one or two of your unexpended Hit Point Dice, and regain a number of Hit Points equal to the roll's total plus your spellcasting ability modifier. Those dice are then expended.
+    <text>You tap into your life force to heal yourself. Roll one or two of your unexpended Hit Point Dice, and regain a number of Hit Points equal to the roll&apos;s total plus your spellcasting ability modifier. Those dice are then expended.
 
 Using a Higher-Level Spell Slot:
 The number of unexpended Hit Dice you can roll increases by one for each spell slot level above 2.
@@ -316,7 +316,7 @@ Source:	Player's Handbook 2024 p. 243</text>
     <components>V, S</components>
     <duration>Instantaneous</duration>
     <classes>Warlock</classes>
-    <text>Invoking Hadar, you cause tendrils to erupt from yourself. Each creature in a 10-foot Emanation originating from you makes a Strength saving throw. On a failed save, a target takes 2d6 Necrotic damage and can't take Reactions until the start of its next turn. On a successful save, a target takes half as much damage only.
+    <text>Invoking Hadar, you cause tendrils to erupt from yourself. Each creature in a 10-foot Emanation originating from you makes a Strength saving throw. On a failed save, a target takes 2d6 Necrotic damage and can&apos;t take Reactions until the start of its next turn. On a successful save, a target takes half as much damage only.
 
 Using a Higher-Level Spell Slot:
 The damage increases by 1d6 for each spell slot level above 1.
@@ -338,10 +338,10 @@ Source:	Player's Handbook 2024 p. 243</text>
     <school>N</school>
     <time>1 hour</time>
     <range>10 feet</range>
-    <components>V, S, M (for each of the spell's targets, one jacinth worth 1,000+ GP and one silver bar worth 100+ GP, all of which the spell consumes)</components>
+    <components>V, S, M (for each of the spell&apos;s targets, one jacinth worth 1,000+ GP and one silver bar worth 100+ GP, all of which the spell consumes)</components>
     <duration/>
     <classes>Cleric, Warlock, Wizard</classes>
-    <text>You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell ends instantly if you are already on that plane). Each target's body is left behind in a state of suspended animation; it has the Unconscious condition, doesn't need food or air, and doesn't age.
+    <text>You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell ends instantly if you are already on that plane). Each target's body is left behind in a state of suspended animation; it has the Unconscious condition, doesn&apos;t need food or air, and doesn&apos;t age.
 
 A target's astral form resembles its body in almost every way, replicating its game statistics and possessions. The principal difference is the addition of a silvery cord that trails from between the shoulder blades of the astral form. The cord fades from view after 1 foot. If the cord is cut—which happens only when an effect states that it does so—the target's body and astral form both die.
 
@@ -383,7 +383,7 @@ Source:	Player's Handbook 2024 p. 244</text>
     <components>V</components>
     <duration>Concentration, up to 10 minute</duration>
     <classes>Cleric, Paladin</classes>
-    <text>An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have Resistance to Necrotic damage, and your Hit Point maximums can't be reduced. If an ally with 0 Hit Points starts its turn in the aura, that ally regains 1 Hit Point.
+    <text>An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have Resistance to Necrotic damage, and your Hit Point maximums can&apos;t be reduced. If an ally with 0 Hit Points starts its turn in the aura, that ally regains 1 Hit Point.
 
 Source:	Player's Handbook 2024 p. 244</text>
   </spell>
@@ -423,7 +423,7 @@ Source:	Player's Handbook 2024 p. 244</text>
     <components>V, S, M (an agate worth 1,000+ GP, which the spell consumes)</components>
     <duration>Instantaneous</duration>
     <classes>Bard, Druid</classes>
-    <text>You spend the casting time tracing magical pathways within a precious gemstone, and then touch the target. The target must be either a Beast or Plant creature with an Intelligence of 3 or less or a natural plant that isn't a creature. The target gains an Intelligence of 10 and the ability to speak one language you know. If the target is a natural plant, it becomes a Plant creature and gains the ability to move its limbs, roots, vines, creepers, and so forth, and it gains senses similar to a human's. The DM chooses statistics appropriate for the awakened Plant, such as the statistics for the Awakened Shrub or Awakened Tree in the the XMM.
+    <text>You spend the casting time tracing magical pathways within a precious gemstone, and then touch the target. The target must be either a Beast or Plant creature with an Intelligence of 3 or less or a natural plant that isn&apos;t a creature. The target gains an Intelligence of 10 and the ability to speak one language you know. If the target is a natural plant, it becomes a Plant creature and gains the ability to move its limbs, roots, vines, creepers, and so forth, and it gains senses similar to a human&apos;s. The DM chooses statistics appropriate for the awakened Plant, such as the statistics for the Awakened Shrub or Awakened Tree in the the XMM.
 
 The awakened target has the Charmed condition for 30 days or until you or your allies deal damage to it. When that condition ends, the awakened creature chooses its attitude toward you.
 
@@ -487,7 +487,7 @@ Source:	Player's Handbook 2024 p. 245</text>
     <components>V, S, M (a handful of oak bark)</components>
     <duration>1 hour</duration>
     <classes>Druid, Ranger</classes>
-    <text>You touch a willing creature. Until the spell ends, the target's skin assumes a bark-like appearance, and the target has an Armor Class of 17 if its AC is lower than that.
+    <text>You touch a willing creature. Until the spell ends, the target&apos;s skin assumes a bark-like appearance, and the target has an Armor Class of 17 if its AC is lower than that.
 
 Source:	Player's Handbook 2024 p. 245</text>
   </spell>
@@ -514,7 +514,7 @@ Source:	Player's Handbook 2024 p. 245</text>
     <components>S</components>
     <duration>Concentration, up to 1 hour</duration>
     <classes>Druid, Ranger</classes>
-    <text>You touch a willing Beast. For the duration, you can perceive through the Beast's senses as well as your own. When perceiving through the Beast's senses, you benefit from any special senses it has.
+    <text>You touch a willing Beast. For the duration, you can perceive through the Beast&apos;s senses as well as your own. When perceiving through the Beast&apos;s senses, you benefit from any special senses it has.
 
 Source:	Player's Handbook 2024 p. 245</text>
   </spell>
@@ -562,7 +562,7 @@ Source:	Player's Handbook 2024 p. 246</text>
     <roll>1d8</roll>
   </spell>
   <spell>
-    <name>Bigby's Hand</name>
+    <name>Bigby&apos;s Hand</name>
     <level>5</level>
     <school>EV</school>
     <time>Action</time>
@@ -722,7 +722,7 @@ Source:	Player's Handbook 2024 p. 248</text>
     <components>V, S</components>
     <duration>1 minute</duration>
     <classes>Sorcerer, Wizard</classes>
-    <text>Roll 1d6 at the end of each of your turns for the duration. On a roll of 4-6, you vanish from your current plane of existence and appear in the Ethereal Plane (the spell ends instantly if you are already on that plane). While on the Ethereal Plane, you can perceive the plane you left, which is cast in shades of gray, but you can't see anything there more than 60 feet away. You can affect and be affected only by other creatures on the Ethereal Plane, and creatures on the other plane can't perceive you unless they have a special ability that lets them perceive things on the Ethereal Plane.
+    <text>Roll 1d6 at the end of each of your turns for the duration. On a roll of 4-6, you vanish from your current plane of existence and appear in the Ethereal Plane (the spell ends instantly if you are already on that plane). While on the Ethereal Plane, you can perceive the plane you left, which is cast in shades of gray, but you can&apos;t see anything there more than 60 feet away. You can affect and be affected only by other creatures on the Ethereal Plane, and creatures on the other plane can&apos;t perceive you unless they have a special ability that lets them perceive things on the Ethereal Plane.
 
 You return to the other plane at the start of your next turn and when the spell ends if you are on the Ethereal Plane. You return to an unoccupied space of your choice that you can see within 10 feet of the space you left. If no unoccupied space is available within that range, you appear in the nearest unoccupied space.
 
@@ -874,7 +874,7 @@ Source:	Player's Handbook 2024 p. 249</text>
     <components>V, S</components>
     <duration>Instantaneous</duration>
     <classes>Sorcerer, Warlock, Wizard</classes>
-    <text>Channeling the chill of the grave, make a melee spell attack against a target within reach. On a hit, the target takes 1d10 Necrotic damage, and it can't regain Hit Points until the end of your next turn.
+    <text>Channeling the chill of the grave, make a melee spell attack against a target within reach. On a hit, the target takes 1d10 Necrotic damage, and it can&apos;t regain Hit Points until the end of your next turn.
 
 Cantrip Upgrade:
 The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
@@ -971,7 +971,7 @@ Source:	Player's Handbook 2024 p. 250</text>
     <components>V, S, M (a diamond worth 1,000+ GP, which the spell consumes, and a sealable vessel worth 2,000+ GP that is large enough to hold the creature being cloned)</components>
     <duration>Instantaneous</duration>
     <classes>Wizard</classes>
-    <text>You touch a creature or at least 1 cubic inch of its flesh. An inert duplicate of that creature forms inside the vessel used in the spell's casting and finishes growing after 120 days; you choose whether the finished clone is the same age as the creature or younger. The clone remains inert and endures indefinitely while its vessel remains undisturbed.
+    <text>You touch a creature or at least 1 cubic inch of its flesh. An inert duplicate of that creature forms inside the vessel used in the spell&apos;s casting and finishes growing after 120 days; you choose whether the finished clone is the same age as the creature or younger. The clone remains inert and endures indefinitely while its vessel remains undisturbed.
 
 If the original creature dies after the clone finishes forming, the creature's soul transfers to the clone if the soul is free and willing to return. The clone is physically identical to the original and has the same personality, memories, and abilities, but none of the original's equipment. The creature's original remains, if any, become inert and can't be revived, since the creature's soul is elsewhere.
 
@@ -1096,7 +1096,7 @@ Source:	Player's Handbook 2024 p. 252</text>
     <components>V, S</components>
     <duration>1 minute</duration>
     <classes>Druid, Ranger</classes>
-    <text>You commune with nature spirits and gain knowledge of the surrounding area. In the outdoors, the spell gives you knowledge of the area within 3 miles of you. In caves and other natural underground settings, the radius is limited to 300 feet. The spell doesn't function where nature has been replaced by construction, such as in castles and settlements.
+    <text>You commune with nature spirits and gain knowledge of the surrounding area. In the outdoors, the spell gives you knowledge of the area within 3 miles of you. In caves and other natural underground settings, the radius is limited to 300 feet. The spell doesn&apos;t function where nature has been replaced by construction, such as in castles and settlements.
 
 Choose three of the following facts; you learn those facts as they pertain to the spell's area:
 
@@ -1119,7 +1119,7 @@ Source:	Player's Handbook 2024 p. 252</text>
     <components>V</components>
     <duration>Concentration, up to 1 minute</duration>
     <classes>Paladin</classes>
-    <text>You try to compel a creature into a duel. One creature that you can see within range makes a Wisdom saving throw. On a failed save, the target has Disadvantage on attack rolls against creatures other than you, and it can't willingly move to a space that is more than 30 feet away from you.
+    <text>You try to compel a creature into a duel. One creature that you can see within range makes a Wisdom saving throw. On a failed save, the target has Disadvantage on attack rolls against creatures other than you, and it can&apos;t willingly move to a space that is more than 30 feet away from you.
 
 The spell ends if you make an attack roll against a creature other than the target, if you cast a spell on an enemy other than the target, if an ally of yours damages the target, or if you end your turn more than 30 feet away from the target.
 
@@ -1135,7 +1135,7 @@ Source:	Player's Handbook 2024 p. 252</text>
     <components>V, S, M (a pinch of soot and salt)</components>
     <duration>1 hour</duration>
     <classes>Bard, Sorcerer, Warlock, Wizard</classes>
-    <text>For the duration, you understand the literal meaning of any language that you hear or see signed. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text. This spell doesn't decode symbols or secret messages.
+    <text>For the duration, you understand the literal meaning of any language that you hear or see signed. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text. This spell doesn&apos;t decode symbols or secret messages.
 
 Source:	Player's Handbook 2024 p. 252</text>
   </spell>
@@ -1184,7 +1184,7 @@ Source:	Player's Handbook 2024 p. 253</text>
     <components>V, S, M (three nut shells)</components>
     <duration>Concentration, up to 1 minute</duration>
     <classes>Bard, Druid, Sorcerer, Wizard</classes>
-    <text>Each creature in a 10-foot-radius Sphere centered on a point you choose within range must succeed on a Wisdom saving throw, or that target can't take Bonus Actions or Reactions and must roll 1d10 at the start of each of its turns to determine its behavior for that turn, consulting the table below.
+    <text>Each creature in a 10-foot-radius Sphere centered on a point you choose within range must succeed on a Wisdom saving throw, or that target can&apos;t take Bonus Actions or Reactions and must roll 1d10 at the start of each of its turns to determine its behavior for that turn, consulting the table below.
 
 Confused Actions:
 1d10 | Behavior for the Turn
@@ -1211,7 +1211,7 @@ Source:	Player's Handbook 2024 p. 253</text>
     <components>V, S</components>
     <duration>Concentration, up to 10 minute</duration>
     <classes>Druid, Ranger</classes>
-    <text>You conjure nature spirits that appear as a Large pack of spectral, intangible animals in an unoccupied space you can see within range. The pack lasts for the duration, and you choose the spirits' animal form, such as wolves, serpents, or birds.
+    <text>You conjure nature spirits that appear as a Large pack of spectral, intangible animals in an unoccupied space you can see within range. The pack lasts for the duration, and you choose the spirits&apos; animal form, such as wolves, serpents, or birds.
 
 You have Advantage on Strength saving throws while you're within 5 feet of the pack, and when you move on your turn, you can also move the pack up to 30 feet to an unoccupied space you can see.
 
@@ -1287,7 +1287,7 @@ Source:	Player's Handbook 2024 p. 254</text>
     <components>V, S</components>
     <duration>Concentration, up to 10 minute</duration>
     <classes>Druid, Wizard</classes>
-    <text>You conjure a Large, intangible spirit from the Elemental Planes that appears in an unoccupied space within range. Choose the spirit's element, which determines its damage type: air (Lightning), earth (Thunder), fire (Fire), or water (Cold). The spirit lasts for the duration.
+    <text>You conjure a Large, intangible spirit from the Elemental Planes that appears in an unoccupied space within range. Choose the spirit&apos;s element, which determines its damage type: air (Lightning), earth (Thunder), fire (Fire), or water (Cold). The spirit lasts for the duration.
 
 Whenever a creature you can see enters the spirit's space or starts its turn within 5 feet of the spirit, you can force that creature to make a Dexterity saving throw if the spirit has no creature Restrained. On failed save, the target takes 8d8 damage of the spirit's type, and the target has the Restrained condition until the spell ends. At the start of each of its turns, the Restrained target repeats the save. On a failed save, the target takes 4d8 damage of the spirit's type. On a successful save, the target isn't Restrained by the spirit.
 
@@ -1396,7 +1396,7 @@ Source:	Player's Handbook 2024 p. 255</text>
     <components>V</components>
     <duration>1 minute</duration>
     <classes>Warlock, Wizard</classes>
-    <text>You mentally contact a demigod, the spirit of a long-dead sage, or some other knowledgeable entity from another plane. Contacting this otherworldly intelligence can break your mind. When you cast this spell, make a DC 15 Intelligence saving throw. On a successful save, you can ask the entity up to five questions. You must ask your questions before the spell ends. The DM answers each question with one word, such as "yes," "no," "maybe," "never," "irrelevant," or "unclear" (if the entity doesn't know the answer to the question). If a one-word answer would be misleading, the DM might instead offer a short phrase as an answer.
+    <text>You mentally contact a demigod, the spirit of a long-dead sage, or some other knowledgeable entity from another plane. Contacting this otherworldly intelligence can break your mind. When you cast this spell, make a DC 15 Intelligence saving throw. On a successful save, you can ask the entity up to five questions. You must ask your questions before the spell ends. The DM answers each question with one word, such as "yes," "no," "maybe," "never," "irrelevant," or "unclear" (if the entity doesn&apos;t know the answer to the question). If a one-word answer would be misleading, the DM might instead offer a short phrase as an answer.
 
 On a failed save, you take 6d6 Psychic damage and have the Incapacitated condition until you finish a Long Rest. A Greater Restoration spell cast on you ends this effect.
 
@@ -1430,7 +1430,7 @@ Source:	Player's Handbook 2024 p. 256</text>
     <components>V, S, M (a gem-encrusted statuette of yourself worth 1,500+ GP)</components>
     <duration>10 day</duration>
     <classes>Wizard</classes>
-    <text>Choose a spell of level 5 or lower that you can cast, that has a casting time of an action, and that can target you. You cast that spell—called the contingent spell—as part of casting Contingency, expending spell slots for both, but the contingent spell doesn't come into effect. Instead, it takes effect when a certain trigger occurs. You describe that trigger when you cast the two spells. For example, a Contingency cast with Water Breathing might stipulate that Water Breathing comes into effect when you are engulfed in water or a similar liquid.
+    <text>Choose a spell of level 5 or lower that you can cast, that has a casting time of an action, and that can target you. You cast that spell—called the contingent spell—as part of casting Contingency, expending spell slots for both, but the contingent spell doesn&apos;t come into effect. Instead, it takes effect when a certain trigger occurs. You describe that trigger when you cast the two spells. For example, a Contingency cast with Water Breathing might stipulate that Water Breathing comes into effect when you are engulfed in water or a similar liquid.
 
 The contingent spell takes effect immediately after the trigger occurs for the first time, whether or not you want it to, and then Contingency ends.
 
@@ -1527,7 +1527,7 @@ Source:	Player's Handbook 2024 p. 257</text>
     <components>V, S, M (four or more arrows or bolts)</components>
     <duration>8 hour</duration>
     <classes>Ranger</classes>
-    <text>You touch up to four nonmagical Arrows or Bolts and plant them in the ground in your space. Until the spell ends, the ammunition can't be physically uprooted, and whenever a creature other than you enters a space within 30 feet of the ammunition for the first time on a turn or ends its turn there, one piece of ammunition flies up to strike it. The creature must succeed on a Dexterity saving throw or take 2d4 Piercing damage. The piece of ammunition is then destroyed. The spell ends when none of the ammunition remains planted in the ground.
+    <text>You touch up to four nonmagical Arrows or Bolts and plant them in the ground in your space. Until the spell ends, the ammunition can&apos;t be physically uprooted, and whenever a creature other than you enters a space within 30 feet of the ammunition for the first time on a turn or ends its turn there, one piece of ammunition flies up to strike it. The creature must succeed on a Dexterity saving throw or take 2d4 Piercing damage. The piece of ammunition is then destroyed. The spell ends when none of the ammunition remains planted in the ground.
 
 When you cast this spell, you can designate any creatures you choose, and the spell ignores them.
 
@@ -1546,7 +1546,7 @@ Source:	Player's Handbook 2024 p. 258</text>
     <components>S</components>
     <duration>Instantaneous</duration>
     <classes>Sorcerer, Warlock, Wizard</classes>
-    <text>You attempt to interrupt a creature in the process of casting a spell. The creature makes a Constitution saving throw. On a failed save, the spell dissipates with no effect, and the action, Bonus Action, or Reaction used to cast it is wasted. If that spell was cast with a spell slot, the slot isn't expended.
+    <text>You attempt to interrupt a creature in the process of casting a spell. The creature makes a Constitution saving throw. On a failed save, the spell dissipates with no effect, and the action, Bonus Action, or Reaction used to cast it is wasted. If that spell was cast with a spell slot, the slot isn&apos;t expended.
 
 Source:	Player's Handbook 2024 p. 258</text>
   </spell>
@@ -1639,7 +1639,7 @@ Source:	Player's Handbook 2024 p. 259</text>
     <components>V, S</components>
     <duration>Concentration, up to 1 minute</duration>
     <classes>Bard, Sorcerer, Warlock, Wizard</classes>
-    <text>One creature that you can see within range must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The creature succeeds automatically if it isn't Humanoid.
+    <text>One creature that you can see within range must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The creature succeeds automatically if it isn&apos;t Humanoid.
 
 A spectral crown appears on the Charmed target's head, and it must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if no creature is within its reach. The target repeats the save at the end of each of its turns, ending the spell on itself on a success.
 
@@ -1648,7 +1648,7 @@ On your later turns, you must take the Magic action to maintain control of the t
 Source:	Player's Handbook 2024 p. 259</text>
   </spell>
   <spell>
-    <name>Crusader's Mantle</name>
+    <name>Crusader&apos;s Mantle</name>
     <level>3</level>
     <school>EV</school>
     <time>Action</time>
@@ -1710,7 +1710,7 @@ Source:	Player's Handbook 2024 p. 259</text>
     <components>V, M (bat fur and a piece of coal)</components>
     <duration>Concentration, up to 10 minute</duration>
     <classes>Sorcerer, Warlock, Wizard</classes>
-    <text>For the duration, magical Darkness spreads from a point within range and fills a 15-foot-radius Sphere. Darkvision can't see through it, and nonmagical light can't illuminate it.
+    <text>For the duration, magical Darkness spreads from a point within range and fills a 15-foot-radius Sphere. Darkvision can&apos;t see through it, and nonmagical light can&apos;t illuminate it.
 
 Alternatively, you cast the spell on an object that isn't being worn or carried, causing the Darkness to fill a 15-foot Emanation originating from that object. Covering that object with something opaque, such as a bowl or helm, blocks the Darkness.
 
@@ -1740,7 +1740,7 @@ Source:	Player's Handbook 2024 p. 260</text>
     <components>V, S</components>
     <duration>1 hour</duration>
     <classes>Cleric, Druid, Ranger, Sorcerer, Paladin</classes>
-    <text>For the duration, sunlight spreads from a point within range and fills a 60-foot-radius Sphere. The sunlight's area is Bright Light and sheds Dim Light for an additional 60 feet.
+    <text>For the duration, sunlight spreads from a point within range and fills a 60-foot-radius Sphere. The sunlight&apos;s area is Bright Light and sheds Dim Light for an additional 60 feet.
 
 Alternatively, you cast the spell on an object that isn't being worn or carried, causing the sunlight to fill a 60-foot Emanation originating from that object. Covering that object with something opaque, such as a bowl or helm, blocks the sunlight.
 
@@ -1846,7 +1846,7 @@ Source:	Player's Handbook 2024 p. 261</text>
     <components>V, S</components>
     <duration>Concentration, up to 10 minute</duration>
     <classes>Bard, Cleric, Druid, Ranger, Sorcerer, Warlock, Wizard, Paladin</classes>
-    <text>For the duration, you sense the presence of magical effects within 30 feet of yourself. If you sense such effects, you can take the Magic action to see a faint aura around any visible creature or object in the area that bears the magic, and if an effect was created by a spell, you learn the spell's the Player's Handbook 2024.
+    <text>For the duration, you sense the presence of magical effects within 30 feet of yourself. If you sense such effects, you can take the Magic action to see a faint aura around any visible creature or object in the area that bears the magic, and if an effect was created by a spell, you learn the spell&apos;s the Player&apos;s Handbook 2024.
 
 The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead.
 
@@ -1978,7 +1978,7 @@ Source:	Player's Handbook 2024 p. 263</text>
     <components>V, S</components>
     <duration>Instantaneous</duration>
     <classes>Bard, Cleric, Druid, Ranger, Sorcerer, Warlock, Wizard, Paladin</classes>
-    <text>Choose one creature, object, or magical effect within range. Any ongoing spell of level 3 or lower on the target ends. For each ongoing spell of level 4 or higher on the target, make an ability check using your spellcasting ability (DC 10 plus that spell's level). On a successful check, the spell ends.
+    <text>Choose one creature, object, or magical effect within range. Any ongoing spell of level 3 or lower on the target ends. For each ongoing spell of level 4 or higher on the target, make an ability check using your spellcasting ability (DC 10 plus that spell&apos;s level). On a successful check, the spell ends.
 
 Using a Higher-Level Spell Slot:
 You automatically end a spell on the target if the spell's level is equal to or less than the level of the spell slot you use.
@@ -2020,7 +2020,7 @@ Source:	Player's Handbook 2024 p. 264</text>
     <components>V, S, M (incense worth 25+ GP, which the spell consumes)</components>
     <duration>Instantaneous</duration>
     <classes>Cleric, Druid, Wizard</classes>
-    <text>This spell puts you in contact with a god or a god's servants. You ask one question about a specific goal, event, or activity to occur within 7 days. The DM offers a truthful reply, which might be a short phrase or cryptic rhyme. The spell doesn't account for circumstances that might change the answer, such as the casting of other spells.
+    <text>This spell puts you in contact with a god or a god&apos;s servants. You ask one question about a specific goal, event, or activity to occur within 7 days. The DM offers a truthful reply, which might be a short phrase or cryptic rhyme. The spell doesn&apos;t account for circumstances that might change the answer, such as the casting of other spells.
 
 If you cast the spell more than once before finishing a Long Rest, there is a cumulative 25 chance for each casting after the first that you get no answer.
 
@@ -2075,7 +2075,7 @@ Source:	Player's Handbook 2024 p. 265</text>
     <components>V</components>
     <duration>Instantaneous</duration>
     <classes>Cleric</classes>
-    <text>You utter a word imbued with power from the Upper Planes. Each creature of your choice in range makes a Charisma saving throw. On a failed save, a target that has 50 Hit Points or fewer suffers an effect based on its current Hit Points, as shown in the Divine Word Effects table. Regardless of its Hit Points, a Celestial, an Elemental, a Fey, or a Fiend target that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to the current plane for 24 hours by any means short of a Wish spell.
+    <text>You utter a word imbued with power from the Upper Planes. Each creature of your choice in range makes a Charisma saving throw. On a failed save, a target that has 50 Hit Points or fewer suffers an effect based on its current Hit Points, as shown in the Divine Word Effects table. Regardless of its Hit Points, a Celestial, an Elemental, a Fey, or a Fiend target that fails its save is forced back to its plane of origin (if it isn&apos;t there already) and can&apos;t return to the current plane for 24 hours by any means short of a Wish spell.
 
 Divine Word Effects:
 Hit Points | Effect
@@ -2147,7 +2147,7 @@ Your Concentration can last longer with a spell slot of level 6 (up to 10 minute
 Source:	Player's Handbook 2024 p. 266</text>
   </spell>
   <spell>
-    <name>Dragon's Breath</name>
+    <name>Dragon&apos;s Breath</name>
     <level>2</level>
     <school>T</school>
     <time>Bonus Action</time>
@@ -2171,7 +2171,7 @@ Source:	Player's Handbook 2024 p. 266</text>
     <roll level="9">10d6</roll>
   </spell>
   <spell>
-    <name>Drawmij's Instant Summons</name>
+    <name>Drawmij&apos;s Instant Summons</name>
     <level>6</level>
     <school>C</school>
     <time>1 minute</time>
@@ -2180,7 +2180,7 @@ Source:	Player's Handbook 2024 p. 266</text>
     <components>V, S, M (a sapphire worth 1,000+ GP)</components>
     <duration/>
     <classes>Wizard</classes>
-    <text>You touch the sapphire used in the casting and an object weighing 10 pounds or less whose longest dimension is 6 feet or less. The spell leaves an Invisible mark on that object and invisibly inscribes the object's name on the sapphire. Each time you cast this spell, you must use a different sapphire.
+    <text>You touch the sapphire used in the casting and an object weighing 10 pounds or less whose longest dimension is 6 feet or less. The spell leaves an Invisible mark on that object and invisibly inscribes the object&apos;s name on the sapphire. Each time you cast this spell, you must use a different sapphire.
 
 Thereafter, you can take a Magic action to speak the object's name and crush the sapphire. The object instantly appears in your hand regardless of physical or planar distances, and the spell ends.
 
@@ -2426,7 +2426,7 @@ Source:	Player's Handbook 2024 p. 269</text>
     <components>V, S</components>
     <duration>8 hour</duration>
     <classes>Bard, Cleric, Sorcerer, Warlock, Wizard</classes>
-    <text>You step into the border regions of the Ethereal Plane, where it overlaps with your current plane. You remain in the Border Ethereal for the duration. During this time, you can move in any direction. If you move up or down, every foot of movement costs an extra foot. You can perceive the plane you left, which looks gray, and you can't see anything there more than 60 feet away.
+    <text>You step into the border regions of the Ethereal Plane, where it overlaps with your current plane. You remain in the Border Ethereal for the duration. During this time, you can move in any direction. If you move up or down, every foot of movement costs an extra foot. You can perceive the plane you left, which looks gray, and you can&apos;t see anything there more than 60 feet away.
 
 While on the Ethereal Plane, you can affect and be affected only by creatures, objects, and effects on that plane. Creatures that aren't on the Ethereal Plane can't perceive or interact with you unless a feature gives them the ability to do so.
 
@@ -2440,7 +2440,7 @@ You can target up to three willing creatures (including yourself) for each spell
 Source:	Player's Handbook 2024 p. 269</text>
   </spell>
   <spell>
-    <name>Evard's Black Tentacles</name>
+    <name>Evard&apos;s Black Tentacles</name>
     <level>4</level>
     <school>C</school>
     <time>Action</time>
@@ -2520,7 +2520,7 @@ Source:	Player's Handbook 2024 p. 271</text>
     <components>V</components>
     <duration>Concentration, up to 1 minute</duration>
     <classes>Bard, Druid</classes>
-    <text>Objects in a 20-foot Cube within range are outlined in blue, green, or violet light (your choice). Each creature in the Cube is also outlined if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed Dim Light in a 10-foot radius and can't benefit from the Invisible condition.
+    <text>Objects in a 20-foot Cube within range are outlined in blue, green, or violet light (your choice). Each creature in the Cube is also outlined if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed Dim Light in a 10-foot radius and can&apos;t benefit from the Invisible condition.
 
 Attack rolls against an affected creature or object have Advantage if the attacker can see it.
 
@@ -2575,7 +2575,7 @@ Source:	Player's Handbook 2024 p. 271</text>
     <components>V, M (a small feather or piece of down)</components>
     <duration>1 minute</duration>
     <classes>Bard, Sorcerer, Wizard</classes>
-    <text>Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If a creature lands before the spell ends, the creature takes no damage from the fall, and the spell ends for that creature.
+    <text>Choose up to five falling creatures within range. A falling creature&apos;s rate of descent slows to 60 feet per round until the spell ends. If a creature lands before the spell ends, the creature takes no damage from the fall, and the spell ends for that creature.
 
 Source:	Player's Handbook 2024 p. 271</text>
   </spell>
@@ -2658,7 +2658,7 @@ Source:	Player's Handbook 2024 p. 272</text>
     <components>V, S, M (a set of divination tools—such as cards or runes—worth 100+ GP)</components>
     <duration>Concentration, up to 1 day</duration>
     <classes>Bard, Cleric, Druid</classes>
-    <text>You magically sense the most direct physical route to a location you name. You must be familiar with the location, and the spell fails if you name a destination on another plane of existence, a moving destination (such as a mobile fortress), or an unspecific destination (such as "a green dragon's lair").
+    <text>You magically sense the most direct physical route to a location you name. You must be familiar with the location, and the spell fails if you name a destination on another plane of existence, a moving destination (such as a mobile fortress), or an unspecific destination (such as "a green dragon&apos;s lair").
 
 For the duration, as long as you are on the same plane of existence as the destination, you know how far it is and in what direction it lies. Whenever you face a choice of paths along the way there, you know which path is the most direct.
 
@@ -2673,7 +2673,7 @@ Source:	Player's Handbook 2024 p. 273</text>
     <components>V, S</components>
     <duration>Instantaneous</duration>
     <classes>Cleric, Druid, Ranger</classes>
-    <text>You sense any trap within range that is within line of sight. A trap, for the purpose of this spell, includes any object or mechanism that was created to cause damage or other danger. Thus, the spell would sense the Alarm or Glyph of Warding spell or a mechanical pit trap, but it wouldn't reveal a natural weakness in the floor, an unstable ceiling, or a hidden sinkhole.
+    <text>You sense any trap within range that is within line of sight. A trap, for the purpose of this spell, includes any object or mechanism that was created to cause damage or other danger. Thus, the spell would sense the Alarm or Glyph of Warding spell or a mechanical pit trap, but it wouldn&apos;t reveal a natural weakness in the floor, an unstable ceiling, or a hidden sinkhole.
 
 This spell reveals that a trap is present but not its location. You do learn the general nature of the danger posed by a trap you sense.
 
@@ -2704,7 +2704,7 @@ Source:	Player's Handbook 2024 p. 273</text>
     <components>V, S</components>
     <duration>Instantaneous</duration>
     <classes>Sorcerer, Wizard</classes>
-    <text>You hurl a mote of fire at a creature or an object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Fire damage. A flammable object hit by this spell starts burning if it isn't being worn or carried.
+    <text>You hurl a mote of fire at a creature or an object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Fire damage. A flammable object hit by this spell starts burning if it isn&apos;t being worn or carried.
 
 Cantrip Upgrade:
 The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
@@ -2915,7 +2915,7 @@ Source:	Player's Handbook 2024 p. 276</text>
     <components>V, S, M (ruby dust worth 1,000+ GP)</components>
     <duration>1 day</duration>
     <classes>Cleric</classes>
-    <text>You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can't teleport into the area or use portals, such as those created by the Gate spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, the Ethereal Plane, the Feywild, the Shadowfell, or the Plane Shift spell.
+    <text>You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can&apos;t teleport into the area or use portals, such as those created by the Gate spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, the Ethereal Plane, the Feywild, the Shadowfell, or the Plane Shift spell.
 
 In addition, the spell damages types of creatures that you choose when you cast it. Choose one or more of the following: Aberrations, Celestials, Elementals, Fey, Fiends, and Undead. When a creature of a chosen type enters the spell's area for the first time on a turn or ends its turn there, the creature takes 5d10 Radiant or Necrotic damage (your choice when you cast this spell).
 
@@ -2987,7 +2987,7 @@ Source:	Player's Handbook 2024 p. 277</text>
     <components>V, S, M (a leather strap)</components>
     <duration>1 hour</duration>
     <classes>Bard, Cleric, Druid, Ranger</classes>
-    <text>You touch a willing creature. For the duration, the target's movement is unaffected by Difficult Terrain, and spells and other magical effects can neither reduce the target's Speed nor cause the target to have the Paralyzed or Restrained conditions. The target also has a Swim Speed equal to its Speed.
+    <text>You touch a willing creature. For the duration, the target&apos;s movement is unaffected by Difficult Terrain, and spells and other magical effects can neither reduce the target&apos;s Speed nor cause the target to have the Paralyzed or Restrained conditions. The target also has a Swim Speed equal to its Speed.
 
 In addition, the target can spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature imposing the Grappled condition on it.
 
@@ -3005,7 +3005,7 @@ Source:	Player's Handbook 2024 p. 277</text>
     <components>S, M (some makeup)</components>
     <duration>Concentration, up to 1 minute</duration>
     <classes>Bard, Sorcerer, Warlock, Wizard</classes>
-    <text>You magically emanate a sense of friendship toward one creature you can see within range. The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target succeeds automatically if it isn't a Humanoid, if you're fighting it, or if you have cast this spell on it within the past 24 hours.
+    <text>You magically emanate a sense of friendship toward one creature you can see within range. The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target succeeds automatically if it isn&apos;t a Humanoid, if you&apos;re fighting it, or if you have cast this spell on it within the past 24 hours.
 
 The spell ends early if the target takes damage or if you make an attack roll, deal damage, or force anyone to make a saving throw. When the spell ends, the target knows it was Charmed by you.
 
@@ -3020,7 +3020,7 @@ Source:	Player's Handbook 2024 p. 277</text>
     <components>V, S, M (a bit of gauze)</components>
     <duration>Concentration, up to 1 hour</duration>
     <classes>Sorcerer, Warlock, Wizard</classes>
-    <text>A willing creature you touch shape-shifts, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends on the target if it drops to 0 Hit Points or if it takes a Magic action to end the spell on itself.
+    <text>A willing creature you touch shape-shifts, along with everything it&apos;s wearing and carrying, into a misty cloud for the duration. The spell ends on the target if it drops to 0 Hit Points or if it takes a Magic action to end the spell on itself.
 
 While in this form, the target's only method of movement is a Fly Speed of 10 feet, and it can hover. The target can enter and occupy the space of another creature. The target has Resistance to Bludgeoning, Piercing, and Slashing damage; it has Immunity to the Prone condition; and it has Advantage on Strength, Dexterity, and Constitution saving throws. The target can pass through narrow openings, but it treats liquids as though they were solid surfaces.
 
@@ -3040,7 +3040,7 @@ Source:	Player's Handbook 2024 p. 277</text>
     <components>V, S, M (a diamond worth 5,000+ GP)</components>
     <duration>Concentration, up to 1 minute</duration>
     <classes>Cleric, Sorcerer, Warlock, Wizard</classes>
-    <text>You conjure a portal linking an unoccupied space you can see within range to a precise location on a different plane of existence. The portal is a circular opening, which you can make 5 to 20 feet in diameter. You can orient the portal in any direction you choose. The portal lasts for the duration, and the portal's destination is visible through it.
+    <text>You conjure a portal linking an unoccupied space you can see within range to a precise location on a different plane of existence. The portal is a circular opening, which you can make 5 to 20 feet in diameter. You can orient the portal in any direction you choose. The portal lasts for the duration, and the portal&apos;s destination is visible through it.
 
 The portal has a front and a back on each plane where it appears. Travel through the portal is possible only by moving through its front. Anything that does so is instantly transported to the other plane, appearing in the unoccupied space nearest to the portal.
 
@@ -3059,7 +3059,7 @@ Source:	Player's Handbook 2024 p. 277</text>
     <components>V</components>
     <duration>30 day</duration>
     <classes>Bard, Cleric, Druid, Wizard, Paladin</classes>
-    <text>You give a verbal command to a creature that you can see within range, ordering it to carry out some service or refrain from an action or a course of activity as you decide. The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target automatically succeeds if it can't understand your command.
+    <text>You give a verbal command to a creature that you can see within range, ordering it to carry out some service or refrain from an action or a course of activity as you decide. The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target automatically succeeds if it can&apos;t understand your command.
 
 While Charmed, the creature takes 5d10 Psychic damage if it acts in a manner directly counter to your command. It takes this damage no more than once each day.
 
@@ -3083,7 +3083,7 @@ Source:	Player's Handbook 2024 p. 278</text>
     <components>V, S, M (2 Copper Pieces, which the spell consumes)</components>
     <duration>10 day</duration>
     <classes>Cleric, Wizard, Paladin</classes>
-    <text>You touch a corpse or other remains. For the duration, the target is protected from decay and can't become Undead.
+    <text>You touch a corpse or other remains. For the duration, the target is protected from decay and can&apos;t become Undead.
 
 The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don't count against the time limit of spells such as Raise Dead.
 
@@ -3452,7 +3452,7 @@ Source:	Player's Handbook 2024 p. 283</text>
     <components>V, S, M (a mushroom)</components>
     <duration>24 hour</duration>
     <classes>Bard, Druid, Warlock, Wizard</classes>
-    <text>You make natural terrain in a 150-foot Cube in range look, sound, and smell like another sort of natural terrain. Thus, open fields or a road can be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road. Manufactured structures, equipment, and creatures within the area aren't changed.
+    <text>You make natural terrain in a 150-foot Cube in range look, sound, and smell like another sort of natural terrain. Thus, open fields or a road can be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road. Manufactured structures, equipment, and creatures within the area aren&apos;t changed.
 
 The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to notice the illusion. If the difference isn't obvious by touch, a creature examining the illusion can take the Study action to make an Intelligence (Investigation) check against your spell save DC to disbelieve it. If a creature discerns that the terrain is illusory, the creature sees a vague image superimposed on the real terrain.
 
@@ -3467,7 +3467,7 @@ Source:	Player's Handbook 2024 p. 283</text>
     <components>V, S</components>
     <duration>Instantaneous</duration>
     <classes>Cleric</classes>
-    <text>You unleash virulent magic on a creature you can see within range. The target makes a Constitution saving throw. On a failed save, it takes 14d6 Necrotic damage, and its Hit Points maximum is reduced by an amount equal to the Necrotic damage it took. On a successful save, it takes half as much damage only. This spell can't reduce a target's Hit Points maximum below 1.
+    <text>You unleash virulent magic on a creature you can see within range. The target makes a Constitution saving throw. On a failed save, it takes 14d6 Necrotic damage, and its Hit Points maximum is reduced by an amount equal to the Necrotic damage it took. On a successful save, it takes half as much damage only. This spell can&apos;t reduce a target&apos;s Hit Points maximum below 1.
 
 Source:	Player's Handbook 2024 p. 283</text>
     <roll>14d6</roll>
@@ -3481,7 +3481,7 @@ Source:	Player's Handbook 2024 p. 283</text>
     <components>V, S, M (a shaving of licorice root)</components>
     <duration>Concentration, up to 1 minute</duration>
     <classes>Sorcerer, Wizard</classes>
-    <text>Choose a willing creature that you can see within range. Until the spell ends, the target's Speed is doubled, it gains a +2 bonus to Armor Class, it has Advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used to take only the Attack (one attack only), Dash, Disengage, Hide, or Utilize action.
+    <text>Choose a willing creature that you can see within range. Until the spell ends, the target&apos;s Speed is doubled, it gains a +2 bonus to Armor Class, it has Advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used to take only the Attack (one attack only), Dash, Disengage, Hide, or Utilize action.
 
 When the spell ends, the target is Incapacitated and has a Speed of 0 until the end of its next turn, as a wave of lethargy washes over it.
 
@@ -3581,7 +3581,7 @@ Source:	Player's Handbook 2024 p. 284</text>
     <roll level="9">10d10</roll>
   </spell>
   <spell>
-    <name>Heroes' Feast</name>
+    <name>Heroes&apos; Feast</name>
     <level>6</level>
     <school>C</school>
     <time>10 minute</time>
@@ -3589,7 +3589,7 @@ Source:	Player's Handbook 2024 p. 284</text>
     <components>V, S, M (a gem-encrusted bowl worth 1,000+ GP, which the spell consumes)</components>
     <duration>Instantaneous</duration>
     <classes>Bard, Cleric, Druid</classes>
-    <text>You conjure a feast that appears on a surface in an unoccupied 10-foot Cube next to you. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don't set in until this hour is over. Up to twelve creatures can partake of the feast.
+    <text>You conjure a feast that appears on a surface in an unoccupied 10-foot Cube next to you. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don&apos;t set in until this hour is over. Up to twelve creatures can partake of the feast.
 
 A creature that partakes gains several benefits, which last for 24 hours. The creature has Resistance to Poison damage, and it has Immunity to the Frightened and Poisoned conditions. Its Hit Point maximum also increases by 2d10, and it gains the same number of Hit Points.
 
@@ -3701,7 +3701,7 @@ Source:	Player's Handbook 2024 p. 286</text>
     <roll level="9">8d6</roll>
   </spell>
   <spell>
-    <name>Hunter's Mark</name>
+    <name>Hunter&apos;s Mark</name>
     <level>1</level>
     <school>D</school>
     <time>Bonus Action</time>
@@ -3795,7 +3795,7 @@ Source:	Player's Handbook 2024 p. 287</text>
     <components>V, S, M (a pearl worth 100+ GP)</components>
     <duration>Instantaneous</duration>
     <classes>Bard, Wizard</classes>
-    <text>You touch an object throughout the spell's casting. If the object is a magic item or some other magical object, you learn its properties and how to use them, whether it requires Attunement, and how many charges it has, if any. You learn whether any ongoing spells are affecting the item and what they are. If the item was created by a spell, you learn that spell's name.
+    <text>You touch an object throughout the spell&apos;s casting. If the object is a magic item or some other magical object, you learn its properties and how to use them, whether it requires Attunement, and how many charges it has, if any. You learn whether any ongoing spells are affecting the item and what they are. If the item was created by a spell, you learn that spell&apos;s name.
 
 If you instead touch a creature throughout the casting, you learn which ongoing spells, if any, are currently affecting it.
 
@@ -3828,7 +3828,7 @@ Source:	Player's Handbook 2024 p. 288</text>
     <components>V, S, M (a statuette of the target worth 5,000+ GP)</components>
     <duration/>
     <classes>Warlock, Wizard</classes>
-    <text>You create a magical restraint to hold a creature that you can see within range. The target must make a Wisdom saving throw. On a successful save, the target is unaffected, and it is immune to this spell for the next 24 hours. On a failed save, the target is imprisoned. While imprisoned, the target doesn't need to breathe, eat, or drink, and it doesn't age. Divination spells can't locate or perceive the imprisoned target, and the target can't teleport.
+    <text>You create a magical restraint to hold a creature that you can see within range. The target must make a Wisdom saving throw. On a successful save, the target is unaffected, and it is immune to this spell for the next 24 hours. On a failed save, the target is imprisoned. While imprisoned, the target doesn't need to breathe, eat, or drink, and it doesn't age. Divination spells can&apos;t locate or perceive the imprisoned target, and the target can&apos;t teleport.
 
 Until the spell ends, the target is also affected by one of the following effects of your choice:
 
@@ -3856,7 +3856,7 @@ Source:	Player's Handbook 2024 p. 288</text>
     <components>V, S</components>
     <duration>Concentration, up to 1 minute</duration>
     <classes>Druid, Sorcerer, Wizard</classes>
-    <text>A swirling cloud of embers and smoke fills a 20-foot-radius Sphere centered on a point within range. The cloud's area is Heavily Obscured. It lasts for the duration or until a strong wind (like that created by Gust of Wind) disperses it.
+    <text>A swirling cloud of embers and smoke fills a 20-foot-radius Sphere centered on a point within range. The cloud&apos;s area is Heavily Obscured. It lasts for the duration or until a strong wind (like that created by Gust of Wind) disperses it.
 
 When the cloud appears, each creature in it makes a Dexterity saving throw, taking 10d8 Fire damage on a failed save or half as much damage on a successful one. A creature must also make this save when the Sphere moves into its space and when it enters the Sphere or ends its turn there. A creature makes this save only once per turn.
 
@@ -3930,7 +3930,7 @@ You can target one additional creature for each spell slot level above 2.
 Source:	Player's Handbook 2024 p. 289</text>
   </spell>
   <spell>
-    <name>Jallarzi's Storm of Radiance</name>
+    <name>Jallarzi&apos;s Storm of Radiance</name>
     <level>5</level>
     <school>EV</school>
     <time>Action</time>
@@ -3938,7 +3938,7 @@ Source:	Player's Handbook 2024 p. 289</text>
     <components>V, S, M (a pinch of phosphorus)</components>
     <duration>Concentration, up to 1 minute</duration>
     <classes>Warlock, Wizard</classes>
-    <text>You unleash a storm of flashing light and raging thunder in a 10-foot-radius, 40-foot-high Cylinder centered on a point you can see within range. While in this area, creatures have the Blinded and Deafened conditions, and they can't cast spells with a Verbal component.
+    <text>You unleash a storm of flashing light and raging thunder in a 10-foot-radius, 40-foot-high Cylinder centered on a point you can see within range. While in this area, creatures have the Blinded and Deafened conditions, and they can&apos;t cast spells with a Verbal component.
 
 When the storm appears, each creature in it makes a Constitution saving throw, taking 2d10 Radiant damage and 2d10 Thunder damage on a failed save or half as much damage on a successful one. A creature also makes this save when it enters the spell's area for the first time on a turn or ends its turn there. A creature makes this save only once per turn.
 
@@ -3963,7 +3963,7 @@ Source:	Player's Handbook 2024 p. 289</text>
     <school>T</school>
     <time>Bonus Action</time>
     <range>Touch</range>
-    <components>V, S, M (a grasshopper's hind leg)</components>
+    <components>V, S, M (a grasshopper&apos;s hind leg)</components>
     <duration>1 minute</duration>
     <classes>Druid, Ranger, Sorcerer, Wizard</classes>
     <text>You touch a willing creature. Once on each of its turns until the spell ends, that creature can jump up to 30 feet by spending 10 feet of movement.
@@ -4010,7 +4010,7 @@ If the famous thing you chose isn't actually famous, you hear sad musical notes 
 Source:	Player's Handbook 2024 p. 290</text>
   </spell>
   <spell>
-    <name>Leomund's Secret Chest</name>
+    <name>Leomund&apos;s Secret Chest</name>
     <level>4</level>
     <school>C</school>
     <time>Action</time>
@@ -4027,7 +4027,7 @@ After 60 days, there is a cumulative 5 chance at the end of each day that the sp
 Source:	Player's Handbook 2024 p. 290</text>
   </spell>
   <spell>
-    <name>Leomund's Tiny Hut</name>
+    <name>Leomund&apos;s Tiny Hut</name>
     <level>3</level>
     <school>EV</school>
     <time>1 minute</time>
@@ -4036,7 +4036,7 @@ Source:	Player's Handbook 2024 p. 290</text>
     <components>V, S, M (a crystal bead)</components>
     <duration>8 hour</duration>
     <classes>Bard, Wizard</classes>
-    <text>A 10-foot Emanation springs into existence around you and remains stationary for the duration. The spell fails when you cast it if the Emanation isn't big enough to fully encapsulate all creatures in its area.
+    <text>A 10-foot Emanation springs into existence around you and remains stationary for the duration. The spell fails when you cast it if the Emanation isn&apos;t big enough to fully encapsulate all creatures in its area.
 
 Creatures and objects within the Emanation when you cast the spell can move through it freely. All other creatures and objects are barred from passing through it. Spells of level 3 or lower can't be cast through it, and the effects of such spells can't extend into it.
 
@@ -4085,7 +4085,7 @@ Source:	Player's Handbook 2024 p. 291</text>
     <components>V, M (a firefly or phosphorescent moss)</components>
     <duration>1 hour</duration>
     <classes>Bard, Cleric, Sorcerer, Wizard</classes>
-    <text>You touch one Large or smaller object that isn't being worn or carried by someone else. Until the spell ends, the object sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. The light can be colored as you like.
+    <text>You touch one Large or smaller object that isn&apos;t being worn or carried by someone else. Until the spell ends, the object sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. The light can be colored as you like.
 
 Covering the object with something opaque blocks the light. The spell ends if you cast it again.
 
@@ -4100,7 +4100,7 @@ Source:	Player's Handbook 2024 p. 292</text>
     <components>V, S</components>
     <duration>Instantaneous</duration>
     <classes>Ranger</classes>
-    <text>As your attack hits or misses the target, the weapon or ammunition you're using transforms into a lightning bolt. Instead of taking any damage or other effects from the attack, the target takes 4d8 Lightning damage on a hit or half as much damage on a miss. Each creature within 10 feet of the target then makes a Dexterity saving throw, taking 2d8 Lightning damage on a failed save or half as much damage on a successful one.
+    <text>As your attack hits or misses the target, the weapon or ammunition you&apos;re using transforms into a lightning bolt. Instead of taking any damage or other effects from the attack, the target takes 4d8 Lightning damage on a hit or half as much damage on a miss. Each creature within 10 feet of the target then makes a Dexterity saving throw, taking 2d8 Lightning damage on a failed save or half as much damage on a successful one.
 
 The weapon or ammunition then returns to its normal form.
 
@@ -4164,7 +4164,7 @@ Source:	Player's Handbook 2024 p. 292</text>
     <components>V, S, M (fur from a bloodhound)</components>
     <duration>Concentration, up to 1 hour</duration>
     <classes>Bard, Cleric, Druid, Ranger, Wizard, Paladin</classes>
-    <text>Describe or name a creature that is familiar to you. You sense the direction to the creature's location if that creature is within 1,000 feet of you. If the creature is moving, you know the direction of its movement.
+    <text>Describe or name a creature that is familiar to you. You sense the direction to the creature&apos;s location if that creature is within 1,000 feet of you. If the creature is moving, you know the direction of its movement.
 
 The spell can locate a specific creature known to you or the nearest creature of a specific kind (such as a human or a unicorn) if you have seen such a creature up close—within 30 feet—at least once. If the creature you described or named is in a different form, such as under the effects of a Flesh to Stone or Polymorph spell, this spell doesn't locate the creature.
 
@@ -4181,7 +4181,7 @@ Source:	Player's Handbook 2024 p. 292</text>
     <components>V, S, M (a forked twig)</components>
     <duration>Concentration, up to 10 minute</duration>
     <classes>Bard, Cleric, Druid, Ranger, Wizard, Paladin</classes>
-    <text>Describe or name an object that is familiar to you. You sense the direction to the object's location if that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement.
+    <text>Describe or name an object that is familiar to you. You sense the direction to the object&apos;s location if that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement.
 
 The spell can locate a specific object known to you if you have seen it up close—within 30 feet—at least once. Alternatively, the spell can locate the nearest object of a particular kind, such as a certain kind of apparel, jewelry, furniture, tool, or weapon.
 
@@ -4198,7 +4198,7 @@ Source:	Player's Handbook 2024 p. 293</text>
     <components>V, S, M (a pinch of dirt)</components>
     <duration>1 hour</duration>
     <classes>Bard, Druid, Ranger, Wizard</classes>
-    <text>You touch a creature. The target's Speed increases by 10 feet until the spell ends.
+    <text>You touch a creature. The target&apos;s Speed increases by 10 feet until the spell ends.
 
 Using a Higher-Level Spell Slot:
 You can target one additional creature for each spell slot level above 1.
@@ -4214,7 +4214,7 @@ Source:	Player's Handbook 2024 p. 293</text>
     <components>V, S, M (a piece of cured leather)</components>
     <duration>8 hour</duration>
     <classes>Sorcerer, Wizard</classes>
-    <text>You touch a willing creature who isn't wearing armor. Until the spell ends, the target's base AC becomes 13 plus its Dexterity modifier. The spell ends early if the target dons armor.
+    <text>You touch a willing creature who isn&apos;t wearing armor. Until the spell ends, the target&apos;s base AC becomes 13 plus its Dexterity modifier. The spell ends early if the target dons armor.
 
 Source:	Player's Handbook 2024 p. 293</text>
   </spell>
@@ -4270,7 +4270,7 @@ Source:	Player's Handbook 2024 p. 293</text>
     <components>V, S, M (a gem, crystal, or reliquary worth 500+ GP)</components>
     <duration/>
     <classes>Wizard</classes>
-    <text>Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell's Material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container's space. You can't move or take Reactions. The only action you can take is to project your soul up to 100 feet out of the container, either returning to your living body (and ending the spell) or attempting to possess a Humanoid's body.
+    <text>Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell's Material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container's space. You can&apos;t move or take Reactions. The only action you can take is to project your soul up to 100 feet out of the container, either returning to your living body (and ending the spell) or attempting to possess a Humanoid&apos;s body.
 
 You can attempt to possess any Humanoid within 100 feet of you that you can see (creatures warded by a Protection from Evil and Good or Magic Circle spell can't be possessed). The target makes a Charisma saving throw. On a failed save, your soul enters the target's body, and the target's soul becomes trapped in the container. On a successful save, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours.
 
@@ -4313,7 +4313,7 @@ Source:	Player's Handbook 2024 p. 295</text>
     <components>V, S, M (jade dust worth 10+ GP, which the spell consumes)</components>
     <duration/>
     <classes>Bard, Wizard</classes>
-    <text>You implant a message within an object in range—a message that is uttered when a trigger condition is met. Choose an object that you can see and that isn't being worn or carried by another creature. Then speak the message, which must be 25 words or fewer, though it can be delivered over as long as 10 minutes. Finally, determine the circumstance that will trigger the spell to deliver your message.
+    <text>You implant a message within an object in range—a message that is uttered when a trigger condition is met. Choose an object that you can see and that isn&apos;t being worn or carried by another creature. Then speak the message, which must be 25 words or fewer, though it can be delivered over as long as 10 minutes. Finally, determine the circumstance that will trigger the spell to deliver your message.
 
 When that trigger occurs, a magical mouth appears on the object and recites the message in your voice and at the same volume you spoke. If the object you chose has a mouth or something that looks like a mouth (for example, the mouth of a statue), the magical mouth appears there, so the words appear to come from the object's mouth. When you cast this spell, you can have the spell end after it delivers its message, or it can remain and repeat its message whenever the trigger occurs.
 
@@ -4346,7 +4346,7 @@ Source:	Player's Handbook 2024 p. 295</text>
     <components>V, S, M (a bit of fleece)</components>
     <duration>Concentration, up to 10 minute</duration>
     <classes>Bard, Sorcerer, Warlock, Wizard</classes>
-    <text>You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 20-foot Cube. The image appears at a spot that you can see within range and lasts for the duration. It seems real, including sounds, smells, and temperature appropriate to the thing depicted, but it can't deal damage or cause conditions.
+    <text>You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 20-foot Cube. The image appears at a spot that you can see within range and lasts for the duration. It seems real, including sounds, smells, and temperature appropriate to the thing depicted, but it can&apos;t deal damage or cause conditions.
 
 If you are within range of the illusion, you can take a Magic action to cause the image to move to any other spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking. Similarly, you can cause the illusion to make different sounds at different times, even making it carry on a conversation, for example.
 
@@ -4420,7 +4420,7 @@ Source:	Player's Handbook 2024 p. 296</text>
     <school>EN</school>
     <time>Action</time>
     <range>60 feet</range>
-    <components>V, M (a snake's tongue)</components>
+    <components>V, M (a snake&apos;s tongue)</components>
     <duration>24 hour</duration>
     <classes>Bard, Sorcerer, Wizard</classes>
     <text>You suggest a course of activity—described in no more than 25 words—to twelve or fewer creatures you can see within range that can hear and understand you. The suggestion must sound achievable and not involve anything that would obviously deal damage to any of the targets or their allies. For example, you could say, "Walk to the village down that road, and help the villagers there harvest crops until sunset." Or you could say, "Now is not the time for violence. Drop your weapons, and dance! Stop in an hour."
@@ -4469,7 +4469,7 @@ Source:	Player's Handbook 2024 p. 296</text>
     <roll>6d6</roll>
   </spell>
   <spell>
-    <name>Melf's Acid Arrow</name>
+    <name>Melf&apos;s Acid Arrow</name>
     <level>2</level>
     <school>EV</school>
     <time>Action</time>
@@ -4584,7 +4584,7 @@ Source:	Player's Handbook 2024 p. 298</text>
     <components>S</components>
     <duration>Concentration, up to 1 hour</duration>
     <classes>Sorcerer, Warlock, Wizard</classes>
-    <text>You drive a spike of psionic energy into the mind of one creature you can see within range. The target makes a Wisdom saving throw, taking 3d8 Psychic damage on a failed save or half as much damage on a successful one. On a failed save, you also always know the target's location until the spell ends, but only while the two of you are on the same plane of existence. While you have this knowledge, the target can't become hidden from you, and if it has the Invisible condition, it gains no benefit from that condition against you.
+    <text>You drive a spike of psionic energy into the mind of one creature you can see within range. The target makes a Wisdom saving throw, taking 3d8 Psychic damage on a failed save or half as much damage on a successful one. On a failed save, you also always know the target&apos;s location until the spell ends, but only while the two of you are on the same plane of existence. While you have this knowledge, the target can&apos;t become hidden from you, and if it has the Invisible condition, it gains no benefit from that condition against you.
 
 Using a Higher-Level Spell Slot:
 The damage increases by 1d8 for each spell slot level above 2.
@@ -4648,7 +4648,7 @@ Source:	Player's Handbook 2024 p. 299</text>
     <components>V, S</components>
     <duration>1 minute</duration>
     <classes>Bard, Sorcerer, Warlock, Wizard</classes>
-    <text>Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real.
+    <text>Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it&apos;s impossible to track which image is real.
 
 Each time a creature hits you with an attack roll during the spell's duration, roll a d6 for each of your remaining duplicates. If any of the d6s rolls a 3 or higher, one of the duplicates is hit instead of you, and the duplicate is destroyed. The duplicates otherwise ignore all other damage and effects. The spell ends when all three duplicates are destroyed.
 
@@ -4695,7 +4695,7 @@ Source:	Player's Handbook 2024 p. 299</text>
     <components>V, S</components>
     <duration>Concentration, up to 1 minute</duration>
     <classes>Bard, Wizard</classes>
-    <text>You attempt to reshape another creature's memories. One creature that you can see within range makes a Wisdom saving throw. If you are fighting the creature, it has Advantage on the save. On a failed save, the target has the Charmed condition for the duration. While Charmed in this way, the target also has the Incapacitated condition and is unaware of its surroundings, though it can hear you. If it takes any damage or is targeted by another spell, this spell ends, and no memories are modified.
+    <text>You attempt to reshape another creature&apos;s memories. One creature that you can see within range makes a Wisdom saving throw. If you are fighting the creature, it has Advantage on the save. On a failed save, the target has the Charmed condition for the duration. While Charmed in this way, the target also has the Incapacitated condition and is unaware of its surroundings, though it can hear you. If it takes any damage or is targeted by another spell, this spell ends, and no memories are modified.
 
 While this charm lasts, you can affect the target's memory of an event that it experienced within the last 24 hours and that lasted no more than 10 minutes. You can permanently eliminate all memory of the event, allow the target to recall the event with perfect clarity, change its memory of the event's details, or create a memory of some other event.
 
@@ -4737,7 +4737,7 @@ Source:	Player's Handbook 2024 p. 300</text>
     <roll level="9">9d10</roll>
   </spell>
   <spell>
-    <name>Mordenkainen's Faithful Hound</name>
+    <name>Mordenkainen&apos;s Faithful Hound</name>
     <level>4</level>
     <school>C</school>
     <time>Action</time>
@@ -4757,7 +4757,7 @@ Source:	Player's Handbook 2024 p. 300</text>
     <roll>4d8</roll>
   </spell>
   <spell>
-    <name>Mordenkainen's Magnificent Mansion</name>
+    <name>Mordenkainen&apos;s Magnificent Mansion</name>
     <level>7</level>
     <school>C</school>
     <time>1 minute</time>
@@ -4778,7 +4778,7 @@ When the spell ends, any creatures or objects left inside the extradimensional s
 Source:	Player's Handbook 2024 p. 300</text>
   </spell>
   <spell>
-    <name>Mordenkainen's Private Sanctum</name>
+    <name>Mordenkainen&apos;s Private Sanctum</name>
     <level>4</level>
     <school>A</school>
     <time>10 minute</time>
@@ -4805,7 +4805,7 @@ You can increase the size of the Cube by 100 feet for each spell slot level abov
 Source:	Player's Handbook 2024 p. 301</text>
   </spell>
   <spell>
-    <name>Mordenkainen's Sword</name>
+    <name>Mordenkainen&apos;s Sword</name>
     <level>7</level>
     <school>EV</school>
     <time>Action</time>
@@ -4831,7 +4831,7 @@ Source:	Player's Handbook 2024 p. 302</text>
     <components>V, S, M (a miniature shovel)</components>
     <duration>Concentration, up to 2 hour</duration>
     <classes>Druid, Sorcerer, Wizard</classes>
-    <text>Choose an area of terrain no larger than 40 feet on a side within range. You can reshape dirt, sand, or clay in the area in any manner you choose for the duration. You can raise or lower the area's elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can't exceed half the area's largest dimension. For example, if you affect a 40-foot square, you can create a pillar up to 20 feet high, raise or lower the square's elevation by up to 20 feet, dig a trench up to 20 feet deep, and so on. It takes 10 minutes for these changes to complete. Because the terrain's transformation occurs slowly, creatures in the area can't usually be trapped or injured by the ground's movement.
+    <text>Choose an area of terrain no larger than 40 feet on a side within range. You can reshape dirt, sand, or clay in the area in any manner you choose for the duration. You can raise or lower the area's elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can't exceed half the area's largest dimension. For example, if you affect a 40-foot square, you can create a pillar up to 20 feet high, raise or lower the square's elevation by up to 20 feet, dig a trench up to 20 feet deep, and so on. It takes 10 minutes for these changes to complete. Because the terrain's transformation occurs slowly, creatures in the area can&apos;t usually be trapped or injured by the ground&apos;s movement.
 
 At the end of every 10 minutes you spend Concentration on the spell, you can choose a new area of terrain to affect within range.
 
@@ -4850,12 +4850,12 @@ Source:	Player's Handbook 2024 p. 302</text>
     <components>V, S, M (a pinch of diamond dust worth 25+ GP, which the spell consumes)</components>
     <duration>8 hour</duration>
     <classes>Bard, Ranger, Wizard</classes>
-    <text>For the duration, you hide a target that you touch from Divination spells. The target can be a willing creature, or it can be a place or an object no larger than 10 feet in any dimension. The target can't be targeted by any Divination spell or perceived through magical scrying sensors.
+    <text>For the duration, you hide a target that you touch from Divination spells. The target can be a willing creature, or it can be a place or an object no larger than 10 feet in any dimension. The target can&apos;t be targeted by any Divination spell or perceived through magical scrying sensors.
 
 Source:	Player's Handbook 2024 p. 302</text>
   </spell>
   <spell>
-    <name>Nystul's Magic Aura</name>
+    <name>Nystul&apos;s Magic Aura</name>
     <level>2</level>
     <school>I</school>
     <time>Action</time>
@@ -4863,7 +4863,7 @@ Source:	Player's Handbook 2024 p. 302</text>
     <components>V, S, M (a small square of silk)</components>
     <duration>24 hour</duration>
     <classes>Wizard</classes>
-    <text>With a touch, you place an illusion on a willing creature or an object that isn't being worn or carried. A creature gains the Mask effect below, and an object gains the False Aura effect below. The effect lasts for the duration. If you cast the spell on the same target every day for 30 days, the illusion lasts until dispelled.
+    <text>With a touch, you place an illusion on a willing creature or an object that isn&apos;t being worn or carried. A creature gains the Mask effect below, and an object gains the False Aura effect below. The effect lasts for the duration. If you cast the spell on the same target every day for 30 days, the illusion lasts until dispelled.
 
 Mask (Creature). Choose a creature type other than the target's actual type. Spells and other magical effects treat the target as if it were a creature of the chosen type.
 
@@ -4872,7 +4872,7 @@ False Aura (Object). You change the way the target appears to spells and magical
 Source:	Player's Handbook 2024 p. 302</text>
   </spell>
   <spell>
-    <name>Otiluke's Freezing Sphere</name>
+    <name>Otiluke&apos;s Freezing Sphere</name>
     <level>6</level>
     <school>EV</school>
     <time>Action</time>
@@ -4896,7 +4896,7 @@ Source:	Player's Handbook 2024 p. 302</text>
     <roll level="9">13d6</roll>
   </spell>
   <spell>
-    <name>Otiluke's Resilient Sphere</name>
+    <name>Otiluke&apos;s Resilient Sphere</name>
     <level>4</level>
     <school>A</school>
     <time>Action</time>
@@ -4915,7 +4915,7 @@ A Disintegrate spell targeting the globe destroys it without harming anything in
 Source:	Player's Handbook 2024 p. 303</text>
   </spell>
   <spell>
-    <name>Otto's Irresistible Dance</name>
+    <name>Otto&apos;s Irresistible Dance</name>
     <level>6</level>
     <school>EN</school>
     <time>Action</time>
@@ -4951,7 +4951,7 @@ Source:	Player's Handbook 2024 p. 303</text>
     <components>V, S, M (a pinch of sesame seeds)</components>
     <duration>1 hour</duration>
     <classes>Wizard</classes>
-    <text>A passage appears at a point that you can see on a wooden, plaster, or stone surface (such as a wall, ceiling, or floor) within range and lasts for the duration. You choose the opening's dimensions: up to 5 feet wide, 8 feet tall, and 20 feet deep. The passage creates no instability in a structure surrounding it.
+    <text>A passage appears at a point that you can see on a wooden, plaster, or stone surface (such as a wall, ceiling, or floor) within range and lasts for the duration. You choose the opening&apos;s dimensions: up to 5 feet wide, 8 feet tall, and 20 feet deep. The passage creates no instability in a structure surrounding it.
 
 When the opening disappears, any creatures or objects still in the passage created by the spell are safely ejected to an unoccupied space nearest to the surface on which you cast the spell.
 
@@ -5011,7 +5011,7 @@ Source:	Player's Handbook 2024 p. 304</text>
     <components>V, S</components>
     <duration>1 hour</duration>
     <classes>Wizard</classes>
-    <text>A Large, quasi-real, horselike creature appears on the ground in an unoccupied space of your choice within range. You decide the creature's appearance, and it is equipped with a saddle, bit, and bridle. Any of the equipment created by the spell vanishes in a puff of smoke if it is carried more than 10 feet away from the steed.
+    <text>A Large, quasi-real, horselike creature appears on the ground in an unoccupied space of your choice within range. You decide the creature&apos;s appearance, and it is equipped with a saddle, bit, and bridle. Any of the equipment created by the spell vanishes in a puff of smoke if it is carried more than 10 feet away from the steed.
 
 For the duration, you or a creature you choose can ride the steed. The steed uses the Riding Horse stat block, except it has a Speed of 100 feet and can travel 13 miles in an hour. When the spell ends, the steed gradually fades, giving the rider 1 minute to dismount. The spell ends early if the steed takes any damage.
 
@@ -5026,7 +5026,7 @@ Source:	Player's Handbook 2024 p. 304</text>
     <components>V, S</components>
     <duration>Instantaneous</duration>
     <classes>Cleric</classes>
-    <text>You beseech an otherworldly entity for aid. The being must be known to you: a god, a demon prince, or some other being of cosmic power. That entity sends a Celestial, an Elemental, or a Fiend loyal to it to aid you, making the creature appear in an unoccupied space within range. If you know a specific creature's name, you can speak that name when you cast this spell to request that creature, though you might get a different creature anyway (DM's choice).
+    <text>You beseech an otherworldly entity for aid. The being must be known to you: a god, a demon prince, or some other being of cosmic power. That entity sends a Celestial, an Elemental, or a Fiend loyal to it to aid you, making the creature appear in an unoccupied space within range. If you know a specific creature&apos;s name, you can speak that name when you cast this spell to request that creature, though you might get a different creature anyway (DM&apos;s choice).
 
 When the creature appears, it is under no compulsion to behave a particular way. You can ask it to perform a service in exchange for payment, but it isn't obliged to do so. The requested task could range from simple (fly us across the chasm, or help us fight a battle) to complex (spy on our enemies, or protect us during our foray into the dungeon). You must be able to communicate with the creature to bargain for its services.
 
@@ -5047,7 +5047,7 @@ Source:	Player's Handbook 2024 p. 304</text>
     <components>V, S, M (a jewel worth 1,000+ GP, which the spell consumes)</components>
     <duration>24 hour</duration>
     <classes>Bard, Cleric, Druid, Warlock, Wizard</classes>
-    <text>You attempt to bind a Celestial, an Elemental, a Fey, or a Fiend to your service. The creature must be within range for the entire casting of the spell. (Typically, the creature is first summoned into the center of the inverted version of the Magic Circle spell to trap it while this spell is cast.) At the completion of the casting, the target must succeed on a Charisma saving throw or be bound to serve you for the duration. If the creature was summoned or created by another spell, that spell's duration is extended to match the duration of this spell.
+    <text>You attempt to bind a Celestial, an Elemental, a Fey, or a Fiend to your service. The creature must be within range for the entire casting of the spell. (Typically, the creature is first summoned into the center of the inverted version of the Magic Circle spell to trap it while this spell is cast.) At the completion of the casting, the target must succeed on a Charisma saving throw or be bound to serve you for the duration. If the creature was summoned or created by another spell, that spell&apos;s duration is extended to match the duration of this spell.
 
 A bound creature must follow your commands to the best of its ability. You might command the creature to accompany you on an adventure, to guard a location, or to deliver a message. If the creature is Hostile, it strives to twist your commands to achieve its own objectives. If the creature carries out your commands completely before the spell ends, it travels to you to report this fact if you are on the same plane of existence. If you are on a different plane, it returns to the place where you bound it and remains there until the spell ends.
 
@@ -5119,7 +5119,7 @@ Source:	Player's Handbook 2024 p. 306</text>
     <components>V, S, M (a caterpillar cocoon)</components>
     <duration>Concentration, up to 1 hour</duration>
     <classes>Bard, Druid, Sorcerer, Wizard</classes>
-    <text>You attempt to transform a creature that you can see within range into a Beast. The target must succeed on a Wisdom saving throw or shape-shift into Beast form for the duration. That form can be any Beast you choose that has a Challenge Rating equal to or less than the target's (or the target's level if it doesn't have a Challenge Rating). The target's game statistics are replaced by the stat block of the chosen Beast, but the target retains its alignment, personality, creature type, Hit Points, and Hit Point Dice.
+    <text>You attempt to transform a creature that you can see within range into a Beast. The target must succeed on a Wisdom saving throw or shape-shift into Beast form for the duration. That form can be any Beast you choose that has a Challenge Rating equal to or less than the target's (or the target's level if it doesn&apos;t have a Challenge Rating). The target&apos;s game statistics are replaced by the stat block of the chosen Beast, but the target retains its alignment, personality, creature type, Hit Points, and Hit Point Dice.
 
 The target gains a number of Temporary Hit Points equal to the Hit Points of the Beast form. The spell ends early on the target if it has no Temporary Hit Points left.
 
@@ -5138,7 +5138,7 @@ Source:	Player's Handbook 2024 p. 306</text>
     <components>V</components>
     <duration>Instantaneous</duration>
     <classes>Bard, Cleric</classes>
-    <text>You fortify up to six creatures you can see within range. The spell bestows 120 Temporary Hit Points, which you divide among the spell's recipients.
+    <text>You fortify up to six creatures you can see within range. The spell bestows 120 Temporary Hit Points, which you divide among the spell&apos;s recipients.
 
 Source:	Player's Handbook 2024 p. 306</text>
   </spell>
@@ -5193,7 +5193,7 @@ Source:	Player's Handbook 2024 p. 306</text>
     <components>V</components>
     <duration>Instantaneous</duration>
     <classes>Cleric, Paladin</classes>
-    <text>Up to five creatures of your choice who remain within range for the spell's entire casting gain the benefits of a Short Rest and also regain 2d8 Hit Points. A creature can't be affected by this spell again until that creature finishes a Long Rest.
+    <text>Up to five creatures of your choice who remain within range for the spell&apos;s entire casting gain the benefits of a Short Rest and also regain 2d8 Hit Points. A creature can&apos;t be affected by this spell again until that creature finishes a Long Rest.
 
 Using a Higher-Level Spell Slot:
 The healing increases by 1d8 for each spell slot level above 2.
@@ -5373,7 +5373,7 @@ Source:	Player's Handbook 2024 p. 309</text>
     <components>V, S, M (a flask of Holy Water worth 25+ GP, which the spell consumes)</components>
     <duration>Concentration, up to 10 minute</duration>
     <classes>Cleric, Druid, Warlock, Wizard, Paladin</classes>
-    <text>Until the spell ends, one willing creature you touch is protected against creatures that are Aberrations, Celestials, Elementals, Fey, Fiends, or Undead. The protection grants several benefits. Creatures of those types have Disadvantage on attack rolls against the target. The target also can't be possessed by or gain the Charmed or Frightened conditions from them. If the target is already possessed, Charmed, or Frightened by such a creature, the target has Advantage on any new saving throw against the relevant effect.
+    <text>Until the spell ends, one willing creature you touch is protected against creatures that are Aberrations, Celestials, Elementals, Fey, Fiends, or Undead. The protection grants several benefits. Creatures of those types have Disadvantage on attack rolls against the target. The target also can&apos;t be possessed by or gain the Charmed or Frightened conditions from them. If the target is already possessed, Charmed, or Frightened by such a creature, the target has Advantage on any new saving throw against the relevant effect.
 
 Source:	Player's Handbook 2024 p. 309</text>
   </spell>
@@ -5413,7 +5413,7 @@ Source:	Player's Handbook 2024 p. 310</text>
     <components>V, S, M (a diamond worth 500+ GP, which the spell consumes)</components>
     <duration>Instantaneous</duration>
     <classes>Bard, Cleric, Paladin</classes>
-    <text>With a touch, you revive a dead creature if it has been dead no longer than 10 days and it wasn't Undead when it died.
+    <text>With a touch, you revive a dead creature if it has been dead no longer than 10 days and it wasn&apos;t Undead when it died.
 
 The creature returns to life with 1 Hit Points. This spell also neutralizes any poisons that affected the creature at the time of death.
 
@@ -5424,7 +5424,7 @@ Coming back from the dead is an ordeal. The target takes a -4 penalty to D20 Tes
 Source:	Player's Handbook 2024 p. 310</text>
   </spell>
   <spell>
-    <name>Rary's Telepathic Bond</name>
+    <name>Rary&apos;s Telepathic Bond</name>
     <level>5</level>
     <school>D</school>
     <time>Action</time>
@@ -5433,7 +5433,7 @@ Source:	Player's Handbook 2024 p. 310</text>
     <components>V, S, M (two eggs)</components>
     <duration>1 hour</duration>
     <classes>Bard, Wizard</classes>
-    <text>You forge a telepathic link among up to eight willing creatures of your choice within range, psychically linking each creature to all the others for the duration. Creatures that can't communicate in any languages aren't affected by this spell.
+    <text>You forge a telepathic link among up to eight willing creatures of your choice within range, psychically linking each creature to all the others for the duration. Creatures that can&apos;t communicate in any languages aren&apos;t affected by this spell.
 
 Until the spell ends, the targets can communicate telepathically through the bond whether or not they share a language. The communication is possible over any distance, though it can't extend to other planes of existence.
 
@@ -5523,7 +5523,7 @@ Source:	Player's Handbook 2024 p. 311</text>
     <components>V, S, M (rare oils worth 1,000+ GP, which the spell consumes)</components>
     <duration>Instantaneous</duration>
     <classes>Druid</classes>
-    <text>You touch a dead Humanoid or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll 1d10 and consult the table below to determine the body's species, or the DM chooses another playable species.
+    <text>You touch a dead Humanoid or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll 1d10 and consult the table below to determine the body&apos;s species, or the DM chooses another playable species.
 
 1d10 | Species
 1 | Aasimar
@@ -5549,7 +5549,7 @@ Source:	Player's Handbook 2024 p. 311</text>
     <components>V, S</components>
     <duration>Instantaneous</duration>
     <classes>Cleric, Warlock, Wizard, Paladin</classes>
-    <text>At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner's Attunement to the object so it can be removed or discarded.
+    <text>At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner&apos;s Attunement to the object so it can be removed or discarded.
 
 Source:	Player's Handbook 2024 p. 312</text>
   </spell>
@@ -5575,7 +5575,7 @@ Source:	Player's Handbook 2024 p. 312</text>
     <components>V, S, M (a diamond worth 1,000+ GP, which the spell consumes)</components>
     <duration>Instantaneous</duration>
     <classes>Bard, Cleric</classes>
-    <text>With a touch, you revive a dead creature that has been dead for no more than a century, didn't die of old age, and wasn't Undead when it died.
+    <text>With a touch, you revive a dead creature that has been dead for no more than a century, didn&apos;t die of old age, and wasn&apos;t Undead when it died.
 
 The creature returns to life with all its Hit Points. This spell also neutralizes any poisons that affected the creature at the time of death. This spell closes all mortal wounds and restores any missing body parts.
 
@@ -5594,7 +5594,7 @@ Source:	Player's Handbook 2024 p. 312</text>
     <components>V, S, M (a lodestone and iron filings)</components>
     <duration>Concentration, up to 1 minute</duration>
     <classes>Druid, Sorcerer, Wizard</classes>
-    <text>This spell reverses gravity in a 50-foot-radius, 100-foot high Cylinder centered on a point within range. All creatures and objects in that area that aren't anchored to the ground fall upward and reach the top of the Cylinder. A creature can make a Dexterity saving throw to grab a fixed object it can reach, thus avoiding the fall upward.
+    <text>This spell reverses gravity in a 50-foot-radius, 100-foot high Cylinder centered on a point within range. All creatures and objects in that area that aren&apos;t anchored to the ground fall upward and reach the top of the Cylinder. A creature can make a Dexterity saving throw to grab a fixed object it can reach, thus avoiding the fall upward.
 
 If a ceiling or an anchored object is encountered in this upward fall, creatures and objects strike it just as they would during a downward fall. If an affected creature or object reaches the Cylinder's top without striking anything, it hovers there for the duration. When the spell ends, affected objects and creatures fall downward.
 
@@ -5609,7 +5609,7 @@ Source:	Player's Handbook 2024 p. 312</text>
     <components>V, S, M (a diamond worth 300+ GP, which the spell consumes)</components>
     <duration>Instantaneous</duration>
     <classes>Cleric, Druid, Ranger, Paladin</classes>
-    <text>You touch a creature that has died within the last minute. That creature revives with 1 Hit Points. This spell can't revive a creature that has died of old age, nor does it restore any missing body parts.
+    <text>You touch a creature that has died within the last minute. That creature revives with 1 Hit Points. This spell can&apos;t revive a creature that has died of old age, nor does it restore any missing body parts.
 
 Source:	Player's Handbook 2024 p. 312</text>
   </spell>
@@ -5622,7 +5622,7 @@ Source:	Player's Handbook 2024 p. 312</text>
     <components>V, S, M (a segment of rope)</components>
     <duration>1 hour</duration>
     <classes>Wizard</classes>
-    <text>You touch a rope. One end of it hovers upward until the rope hangs perpendicular to the ground or the rope reaches a ceiling. At the rope's upper end, an Invisible 3-foot-by-5-foot portal opens to an extradimensional space that lasts until the spell ends. That space can be reached by climbing the rope, which can be pulled into or dropped out of it.
+    <text>You touch a rope. One end of it hovers upward until the rope hangs perpendicular to the ground or the rope reaches a ceiling. At the rope&apos;s upper end, an Invisible 3-foot-by-5-foot portal opens to an extradimensional space that lasts until the spell ends. That space can be reached by climbing the rope, which can be pulled into or dropped out of it.
 
 The space can hold up to eight Medium or smaller creatures. Attacks, spells, and other effects can't pass into or out of the space, but creatures inside it can see through the portal. Anything inside the space drops out when the spell ends.
 
@@ -5657,7 +5657,7 @@ Source:	Player's Handbook 2024 p. 313</text>
     <components>V, S, M (a shard of glass from a mirror)</components>
     <duration>1 minute</duration>
     <classes>Cleric</classes>
-    <text>You ward a creature within range. Until the spell ends, any creature who targets the warded creature with an attack roll or a damaging spell must succeed on a Wisdom saving throw or either choose a new target or lose the attack or spell. This spell doesn't protect the warded creature from areas of effect.
+    <text>You ward a creature within range. Until the spell ends, any creature who targets the warded creature with an attack roll or a damaging spell must succeed on a Wisdom saving throw or either choose a new target or lose the attack or spell. This spell doesn&apos;t protect the warded creature from areas of effect.
 
 The spell ends if the warded creature makes an attack roll, casts a spell, or deals damage.
 
@@ -5689,7 +5689,7 @@ Source:	Player's Handbook 2024 p. 314</text>
     <components>V, S, M (a focus worth 1,000+ GP, such as a crystal ball, mirror, or water-filled font)</components>
     <duration>Concentration, up to 10 minute</duration>
     <classes>Bard, Cleric, Druid, Warlock, Wizard</classes>
-    <text>You can see and hear a creature you choose that is on the same plane of existence as you. The target makes a Wisdom saving throw, which is modified (see the tables below) by how well you know the target and the sort of physical connection you have to it. The target doesn't know what it is making the save against, only that it feels uneasy.
+    <text>You can see and hear a creature you choose that is on the same plane of existence as you. The target makes a Wisdom saving throw, which is modified (see the tables below) by how well you know the target and the sort of physical connection you have to it. The target doesn&apos;t know what it is making the save against, only that it feels uneasy.
 
 Your Knowledge of the Target Is... | Save Modifier
 Secondhand (heard of the target) | +5
@@ -5786,7 +5786,7 @@ Source:	Player's Handbook 2024 p. 314</text>
     <components>V, S, M (gem dust worth 5,000+ GP, which the spell consumes)</components>
     <duration/>
     <classes>Wizard</classes>
-    <text>With a touch, you magically sequester an object or a willing creature. For the duration, the target has the Invisible condition and can't be targeted by Divination spells, detected by magic, or viewed remotely with magic.
+    <text>With a touch, you magically sequester an object or a willing creature. For the duration, the target has the Invisible condition and can&apos;t be targeted by Divination spells, detected by magic, or viewed remotely with magic.
 
 If the target is a creature, it enters a state of suspended animation; it has the Unconscious condition, doesn't age, and doesn't need food, water, or air.
 
@@ -5803,7 +5803,7 @@ Source:	Player's Handbook 2024 p. 315</text>
     <components>V, S, M (a jade circlet worth 1,500+ GP)</components>
     <duration>Concentration, up to 1 hour</duration>
     <classes>Druid, Wizard</classes>
-    <text>You shape-shift into another creature for the duration or until you take a Magic action to shape-shift into a different eligible form. The new form must be of a creature that has a Challenge Rating no higher than your level or Challenge Rating. You must have seen the sort of creature before, and it can't be a Construct or an Undead.
+    <text>You shape-shift into another creature for the duration or until you take a Magic action to shape-shift into a different eligible form. The new form must be of a creature that has a Challenge Rating no higher than your level or Challenge Rating. You must have seen the sort of creature before, and it can&apos;t be a Construct or an Undead.
 
 When you shape-shift, you gain a number of Temporary Hit Points equal to the Hit Points of the form. The spell ends early if you have no Temporary Hit Points left.
 
@@ -5874,7 +5874,7 @@ Source:	Player's Handbook 2024 p. 316</text>
     <components>V, S, M (mistletoe)</components>
     <duration>1 minute</duration>
     <classes>Druid</classes>
-    <text>A Club or Quarterstaff you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon's damage die becomes a d8. If the attack deals damage, it can be Force damage or the weapon's normal damage type (your choice).
+    <text>A Club or Quarterstaff you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon&apos;s damage die becomes a d8. If the attack deals damage, it can be Force damage or the weapon&apos;s normal damage type (your choice).
 
 The spell ends early if you cast it again or if you let go of the weapon.
 
@@ -5892,7 +5892,7 @@ Source:	Player's Handbook 2024 p. 316</text>
     <components>V</components>
     <duration>Concentration, up to 1 minute</duration>
     <classes>Paladin</classes>
-    <text>The target hit by the strike takes an extra 2d6 Radiant damage from the attack. Until the spell ends, the target sheds Bright Light in a 5-foot radius, attack rolls against it have Advantage, and it can't benefit from the Invisible condition.
+    <text>The target hit by the strike takes an extra 2d6 Radiant damage from the attack. Until the spell ends, the target sheds Bright Light in a 5-foot radius, attack rolls against it have Advantage, and it can&apos;t benefit from the Invisible condition.
 
 Using a Higher-Level Spell Slot:
 The damage increases by 1d6 for each spell slot level above 2.
@@ -5916,7 +5916,7 @@ Source:	Player's Handbook 2024 p. 316</text>
     <components>V, S</components>
     <duration>Instantaneous</duration>
     <classes>Sorcerer, Wizard</classes>
-    <text>Lightning springs from you to a creature that you try to touch. Make a melee spell attack against the target. On a hit, the target takes 1d8 Lightning damage, and it can't make Opportunity Attacks until the start of its next turn.
+    <text>Lightning springs from you to a creature that you try to touch. Make a melee spell attack against the target. On a hit, the target takes 1d8 Lightning damage, and it can&apos;t make Opportunity Attacks until the start of its next turn.
 
 Cantrip Upgrade:
 The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
@@ -5950,7 +5950,7 @@ Source:	Player's Handbook 2024 p. 316</text>
     <components>V, S, M (a bit of fleece)</components>
     <duration>Concentration, up to 10 minute</duration>
     <classes>Bard, Sorcerer, Wizard</classes>
-    <text>You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot Cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn't accompanied by sound, smell, or other sensory effects.
+    <text>You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot Cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn&apos;t accompanied by sound, smell, or other sensory effects.
 
 As a Magic action, you can cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.
 
@@ -5967,7 +5967,7 @@ Source:	Player's Handbook 2024 p. 317</text>
     <components>V, S, M (powdered ruby worth 1,500+ GP, which the spell consumes)</components>
     <duration/>
     <classes>Wizard</classes>
-    <text>You create a simulacrum of one Beast or Humanoid that is within 10 feet of you for the entire casting of the spell. You finish the casting by touching both the creature and a pile of ice or snow that is the same size as that creature, and the pile turns into the simulacrum, which is a creature. It uses the game statistics of the original creature at the time of casting, except it is a Construct, its Hit Points maximum is half as much, and it can't cast this spell.
+    <text>You create a simulacrum of one Beast or Humanoid that is within 10 feet of you for the entire casting of the spell. You finish the casting by touching both the creature and a pile of ice or snow that is the same size as that creature, and the pile turns into the simulacrum, which is a creature. It uses the game statistics of the original creature at the time of casting, except it is a Construct, its Hit Points maximum is half as much, and it can&apos;t cast this spell.
 
 The simulacrum is Friendly to you and creatures you designate. It obeys your commands and acts on your turn in combat. The simulacrum can't gain levels, and it can't take Short or Long Rests.
 
@@ -5986,7 +5986,7 @@ Source:	Player's Handbook 2024 p. 317</text>
     <components>V, S, M (a pinch of sand or rose petals)</components>
     <duration>Concentration, up to 1 minute</duration>
     <classes>Bard, Sorcerer, Wizard</classes>
-    <text>Each creature of your choice in a 5-foot-radius Sphere centered on a point within range must succeed on a Wisdom saving throw or have the Incapacitated condition until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the Unconscious condition for the duration. The spell ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the spell's effect.
+    <text>Each creature of your choice in a 5-foot-radius Sphere centered on a point within range must succeed on a Wisdom saving throw or have the Incapacitated condition until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the Unconscious condition for the duration. The spell ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the spell&apos;s effect.
 
 Creatures that don't sleep, such as elves, or that have Immunity to the Exhaustion condition automatically succeed on saves against this spell.
 
@@ -6055,7 +6055,7 @@ Source:	Player's Handbook 2024 p. 318</text>
     <components>V, S</components>
     <duration>Instantaneous</duration>
     <classes>Cleric, Druid</classes>
-    <text>Choose a creature within range that has 0 Hit Points and isn't dead. The creature becomes Stable.
+    <text>Choose a creature within range that has 0 Hit Points and isn&apos;t dead. The creature becomes Stable.
 
 Cantrip Upgrade:
 The range doubles when you reach levels 5 (30 feet), 11 (60 feet), and 17 (120 feet).
@@ -6072,7 +6072,7 @@ Source:	Player's Handbook 2024 p. 318</text>
     <components>V, S</components>
     <duration>10 minute</duration>
     <classes>Bard, Druid, Ranger, Warlock</classes>
-    <text>For the duration, you can comprehend and verbally communicate with Beasts, and you can use any of the Influence action's skill options with them.
+    <text>For the duration, you can comprehend and verbally communicate with Beasts, and you can use any of the Influence action&apos;s skill options with them.
 
 Most Beasts have little to say about topics that don't pertain to survival or companionship, but at minimum, a Beast can give you information about nearby locations and monsters, including whatever it has perceived within the past day.
 
@@ -6102,7 +6102,7 @@ Source:	Player's Handbook 2024 p. 318</text>
     <components>V, S</components>
     <duration>10 minute</duration>
     <classes>Bard, Druid, Ranger</classes>
-    <text>You imbue plants in an immobile 30-foot Emanation with limited sentience and animation, giving them the ability to communicate with you and follow your simple commands. You can question plants about events in the spell's area within the past day, gaining information about creatures that have passed, weather, and other circumstances.
+    <text>You imbue plants in an immobile 30-foot Emanation with limited sentience and animation, giving them the ability to communicate with you and follow your simple commands. You can question plants about events in the spell&apos;s area within the past day, gaining information about creatures that have passed, weather, and other circumstances.
 
 You can also turn Difficult Terrain caused by plant growth (such as thickets and undergrowth) into ordinary terrain that lasts for the duration. Or you can turn ordinary terrain where plants are present into Difficult Terrain that lasts for the duration.
 
@@ -6226,7 +6226,7 @@ Source:	Player's Handbook 2024 p. 319</text>
     <components>V, S</components>
     <duration>Instantaneous</duration>
     <classes>Bard, Druid</classes>
-    <text>You launch a mote of light at one creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 Radiant damage, and until the end of your next turn, it emits Dim Light in a 10-foot radius and can't benefit from the Invisible condition.
+    <text>You launch a mote of light at one creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 Radiant damage, and until the end of your next turn, it emits Dim Light in a 10-foot radius and can&apos;t benefit from the Invisible condition.
 
 Cantrip Upgrade:
 The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
@@ -6277,7 +6277,7 @@ Source:	Player's Handbook 2024 p. 320</text>
     <components>V, S, M (soft clay)</components>
     <duration>Instantaneous</duration>
     <classes>Cleric, Druid, Wizard</classes>
-    <text>You touch a stone object of Medium size or smaller or a section of stone no more than 5 feet in any dimension and form it into any shape you like. For example, you could shape a large rock into a weapon, statue, or coffer, or you could make a small passage through a wall that is 5 feet thick. You could also shape a stone door or its frame to seal the door shut. The object you create can have up to two hinges and a latch, but finer mechanical detail isn't possible.
+    <text>You touch a stone object of Medium size or smaller or a section of stone no more than 5 feet in any dimension and form it into any shape you like. For example, you could shape a large rock into a weapon, statue, or coffer, or you could make a small passage through a wall that is 5 feet thick. You could also shape a stone door or its frame to seal the door shut. The object you create can have up to two hinges and a latch, but finer mechanical detail isn&apos;t possible.
 
 Source:	Player's Handbook 2024 p. 320</text>
   </spell>
@@ -6330,7 +6330,7 @@ Source:	Player's Handbook 2024 p. 320</text>
     <components>V, M (a drop of honey)</components>
     <duration>Concentration, up to 8 hour</duration>
     <classes>Bard, Sorcerer, Warlock, Wizard</classes>
-    <text>You suggest a course of activity—described in no more than 25 words—to one creature you can see within range that can hear and understand you. The suggestion must sound achievable and not involve anything that would obviously deal damage to the target or it allies. For example, you could say, "Fetch the key to the cult's treasure vault, and give the key to me." Or you could say, "Stop fighting, leave this library peacefully, and don't return."
+    <text>You suggest a course of activity—described in no more than 25 words—to one creature you can see within range that can hear and understand you. The suggestion must sound achievable and not involve anything that would obviously deal damage to the target or it allies. For example, you could say, "Fetch the key to the cult&apos;s treasure vault, and give the key to me." Or you could say, "Stop fighting, leave this library peacefully, and don&apos;t return."
 
 The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration or until you or your allies deal damage to the target. The Charmed target pursues the suggestion to the best of its ability. The suggested activity can continue for the entire duration, but if the suggested activity can be completed in a shorter time, the spell ends for the target upon completing it.
 
@@ -6489,7 +6489,7 @@ Source:	Player's Handbook 2024 p. 326</text>
     <components>V, S, M (a gilded skull worth 300+ GP)</components>
     <duration>Concentration, up to 1 hour</duration>
     <classes>Warlock, Wizard</classes>
-    <text>You call forth an Undead spirit. It manifests in an unoccupied space that you can see within range and uses the Undead Spirit stat block. When you cast the spell, choose the creature's form: Ghostly, Putrid, or Skeletal. The spirit resembles an Undead creature with the chosen form, which determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
+    <text>You call forth an Undead spirit. It manifests in an unoccupied space that you can see within range and uses the Undead Spirit stat block. When you cast the spell, choose the creature&apos;s form: Ghostly, Putrid, or Skeletal. The spirit resembles an Undead creature with the chosen form, which determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
 The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
 
@@ -6608,7 +6608,7 @@ Source:	Player's Handbook 2024 p. 330</text>
     <roll>8d6</roll>
   </spell>
   <spell>
-    <name>Tasha's Bubbling Cauldron</name>
+    <name>Tasha&apos;s Bubbling Cauldron</name>
     <level>6</level>
     <school>C</school>
     <time>Action</time>
@@ -6616,7 +6616,7 @@ Source:	Player's Handbook 2024 p. 330</text>
     <components>V, S, M (a gilded ladle worth 500 + GP)</components>
     <duration>10 minute</duration>
     <classes>Warlock, Wizard</classes>
-    <text>You conjure a claw-footed cauldron filled with bubbling liquid. The cauldron appears in an unoccupied space on the ground within 5 feet of you and lasts for the duration. The cauldron can't be moved and disappears when the spell ends, along with the bubbling liquid inside it.
+    <text>You conjure a claw-footed cauldron filled with bubbling liquid. The cauldron appears in an unoccupied space on the ground within 5 feet of you and lasts for the duration. The cauldron can&apos;t be moved and disappears when the spell ends, along with the bubbling liquid inside it.
 
 The liquid in the cauldron duplicates the properties of a Common or an Uncommon potion of your choice (such as a Potion of Healing). As a Bonus Action, you or an ally can reach into the cauldron and withdraw one potion of that kind. The potion is contained in a vial that disappears when the potion is consumed. The cauldron can produce a number of these potions equal to your spellcasting ability modifier (minimum 1). When the last of these potions is withdrawn from the cauldron, the cauldron disappears, and the spell ends.
 
@@ -6625,7 +6625,7 @@ Potions obtained from the cauldron that aren't consumed disappear when you cast 
 Source:	Player's Handbook 2024 p. 330</text>
   </spell>
   <spell>
-    <name>Tasha's Hideous Laughter</name>
+    <name>Tasha&apos;s Hideous Laughter</name>
     <level>1</level>
     <school>EN</school>
     <time>Action</time>
@@ -6633,7 +6633,7 @@ Source:	Player's Handbook 2024 p. 330</text>
     <components>V, S, M (a tart and a feather)</components>
     <duration>Concentration, up to 1 minute</duration>
     <classes>Bard, Warlock, Wizard</classes>
-    <text>One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the Prone and Incapacitated conditions for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the Prone condition on itself.
+    <text>One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the Prone and Incapacitated conditions for the duration. During that time, it laughs uncontrollably if it&apos;s capable of laughter, and it can&apos;t end the Prone condition on itself.
 
 At the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has Advantage on the save if the save is triggered by damage. On a successful save, the spell ends.
 
@@ -6689,7 +6689,7 @@ Source:	Player's Handbook 2024 p. 331</text>
     <components>V</components>
     <duration>Instantaneous</duration>
     <classes>Bard, Sorcerer, Wizard</classes>
-    <text>This spell instantly transports you and up to eight willing creatures that you can see within range, or a single object that you can see within range, to a destination you select. If you target an object, it must be Large or smaller, and it can't be held or carried by an unwilling creature.
+    <text>This spell instantly transports you and up to eight willing creatures that you can see within range, or a single object that you can see within range, to a destination you select. If you target an object, it must be Large or smaller, and it can&apos;t be held or carried by an unwilling creature.
 
 The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The DM rolls 1d100 and consults the Teleportation Outcome table and the explanations after it.
 
@@ -6754,7 +6754,7 @@ You can create a permanent teleportation circle by casting this spell in the sam
 Source:	Player's Handbook 2024 p. 332</text>
   </spell>
   <spell>
-    <name>Tenser's Floating Disk</name>
+    <name>Tenser&apos;s Floating Disk</name>
     <level>1</level>
     <school>C</school>
     <time>Action</time>
@@ -6831,7 +6831,7 @@ Source:	Player's Handbook 2024 p. 333</text>
     <components>S</components>
     <duration>Instantaneous</duration>
     <classes>Bard, Druid, Sorcerer, Warlock, Wizard</classes>
-    <text>Each creature in a 5-foot Emanation originating from you must succeed on a Constitution saving throw or take 1d6 Thunder damage. The spell's thunderous sound can be heard up to 100 feet away.
+    <text>Each creature in a 5-foot Emanation originating from you must succeed on a Constitution saving throw or take 1d6 Thunder damage. The spell&apos;s thunderous sound can be heard up to 100 feet away.
 
 Cantrip Upgrade:
 The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
@@ -6966,7 +6966,7 @@ Source:	Player's Handbook 2024 p. 334</text>
     <components>V, S</components>
     <duration>Concentration, up to 1 minute</duration>
     <classes>Druid, Ranger</classes>
-    <text>You gain the ability to enter a tree and move from inside it to inside another tree of the same kind within 500 feet. Both trees must be living and at least the same size as you. You must use 5 feet of movement to enter a tree. You instantly know the location of all other trees of the same kind within 500 feet and, as part of the move used to enter the tree, can either pass into one of those trees or step out of the tree you're in. You appear in a spot of your choice within 5 feet of the destination tree, using another 5 feet of movement. If you have no movement left, you appear within 5 feet of the tree you entered.
+    <text>You gain the ability to enter a tree and move from inside it to inside another tree of the same kind within 500 feet. Both trees must be living and at least the same size as you. You must use 5 feet of movement to enter a tree. You instantly know the location of all other trees of the same kind within 500 feet and, as part of the move used to enter the tree, can either pass into one of those trees or step out of the tree you&apos;re in. You appear in a spot of your choice within 5 feet of the destination tree, using another 5 feet of movement. If you have no movement left, you appear within 5 feet of the tree you entered.
 
 You can use this transportation ability only once on each of your turns. You must end each turn outside a tree.
 
@@ -7043,7 +7043,7 @@ Source:	Player's Handbook 2024 p. 336</text>
     <components>S, M (a weapon with which you have proficiency and that is worth 1+ CP)</components>
     <duration>Instantaneous</duration>
     <classes>Bard, Sorcerer, Warlock, Wizard</classes>
-    <text>Guided by a flash of magical insight, you make one attack with the weapon used in the spell's casting. The attack uses your spellcasting ability for the attack and damage rolls instead of using Strength or Dexterity. If the attack deals damage, it can be Radiant damage or the weapon's normal damage type (your choice).
+    <text>Guided by a flash of magical insight, you make one attack with the weapon used in the spell&apos;s casting. The attack uses your spellcasting ability for the attack and damage rolls instead of using Strength or Dexterity. If the attack deals damage, it can be Radiant damage or the weapon&apos;s normal damage type (your choice).
 
 Cantrip Upgrade:
 Whether you deal Radiant damage or the weapon's normal damage type, the attack deals extra Radiant damage when you reach levels 5 (1d6), 11 (2d6), and 17 (3d6).
@@ -7082,7 +7082,7 @@ Source:	Player's Handbook 2024 p. 336</text>
     <components>V, S, M (a bit of string and of wood)</components>
     <duration>1 hour</duration>
     <classes>Bard, Warlock, Wizard</classes>
-    <text>This spell creates an Invisible, mindless, shapeless, Medium force that performs simple tasks at your command until the spell ends. The servant springs into existence in an unoccupied space on the ground within range. It has AC 10, 1 Hit Point, and a Strength of 2, and it can't attack. If it drops to 0 Hit Points, the spell ends.
+    <text>This spell creates an Invisible, mindless, shapeless, Medium force that performs simple tasks at your command until the spell ends. The servant springs into existence in an unoccupied space on the ground within range. It has AC 10, 1 Hit Point, and a Strength of 2, and it can&apos;t attack. If it drops to 0 Hit Points, the spell ends.
 
 Once on each of your turns as a Bonus Action, you can mentally command the servant to move up to 15 feet and interact with an object. The servant can perform simple tasks that a human could do, such as fetching things, cleaning, mending, folding clothes, lighting fires, serving food, and pouring drinks. Once you give the command, the servant performs the task to the best of its ability until it completes the task, then waits for your next command.
 
@@ -7193,7 +7193,7 @@ Source:	Player's Handbook 2024 p. 338</text>
     <components>V, S, M (a shard of glass)</components>
     <duration>Concentration, up to 10 minute</duration>
     <classes>Wizard</classes>
-    <text>An Invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a solid surface. You can form it into a hemispherical dome or a globe with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. In any form, the wall is 1/4 inch thick and lasts for the duration. If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (you choose which side).
+    <text>An Invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a solid surface. You can form it into a hemispherical dome or a globe with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. In any form, the wall is 1/4 inch thick and lasts for the duration. If the wall cuts through a creature&apos;s space when it appears, the creature is pushed to one side of the wall (you choose which side).
 
 Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by Dispel Magic. A Disintegrate spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane and blocks ethereal travel through the wall.
 
@@ -7353,7 +7353,7 @@ Source:	Player's Handbook 2024 p. 340</text>
     <components>V, S</components>
     <duration>Concentration, up to 1 minute</duration>
     <classes>Warlock, Wizard</classes>
-    <text>You try to create illusory terrors in others' minds. Each creature of your choice in a 30-foot-radius Sphere centered on a point within range makes a Wisdom saving throw. On a failed save, a target takes 10d10 Psychic damage and has the Frightened condition for the duration. On a successful save, a target takes half as much damage only.
+    <text>You try to create illusory terrors in others&apos; minds. Each creature of your choice in a 30-foot-radius Sphere centered on a point within range makes a Wisdom saving throw. On a failed save, a target takes 10d10 Psychic damage and has the Frightened condition for the duration. On a successful save, a target takes half as much damage only.
 
 A Frightened target makes a Wisdom saving throw at the end of each of its turns. On a failed save, it takes 5d10 Psychic damage. On a successful save, the spell ends on that target.
 
@@ -7527,7 +7527,7 @@ Source:	Player's Handbook 2024 p. 343</text>
     <roll level="9">9d6</roll>
   </spell>
   <spell>
-    <name>Yolande's Regal Presence</name>
+    <name>Yolande&apos;s Regal Presence</name>
     <level>5</level>
     <school>EN</school>
     <time>Action</time>
@@ -7549,7 +7549,7 @@ Source:	Player's Handbook 2024 p. 343</text>
     <components>V, S</components>
     <duration>10 minute</duration>
     <classes>Bard, Cleric, Paladin</classes>
-    <text>You create a magical zone that guards against deception in a 15-foot-radius Sphere centered on a point within range. Until the spell ends, a creature that enters the spell's area for the first time on a turn or starts its turn there makes a Charisma saving throw. On a failed save, a creature can't speak a deliberate lie while in the radius. You know whether a creature succeeds or fails on this save.
+    <text>You create a magical zone that guards against deception in a 15-foot-radius Sphere centered on a point within range. Until the spell ends, a creature that enters the spell&apos;s area for the first time on a turn or starts its turn there makes a Charisma saving throw. On a failed save, a creature can&apos;t speak a deliberate lie while in the radius. You know whether a creature succeeds or fails on this save.
 
 An affected creature is aware of the spell and can avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive yet must be truthful.
 

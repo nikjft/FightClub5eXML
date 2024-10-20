@@ -40,7 +40,7 @@ Source:	Unearthed Arcana: Fighter, Rogue, and Wizard p. 1</text>
     <autolevel level="7">
       <feature optional="YES">
         <name>Psychic Warrior (UA): Strength of Mind</name>
-        <text>As a bonus action, you can telekinetically lash out at a creature you can see within 20 feet of you. The target must make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Intelligence modifier. On a failed save, the target takes force damage equal to 2d6 plus your Intelligence modifier and is telekinetically moved 15 feet directly toward or away from you (your choice). On a successful save, it takes half as much damage and isn't moved.
+        <text>As a bonus action, you can telekinetically lash out at a creature you can see within 20 feet of you. The target must make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Intelligence modifier. On a failed save, the target takes force damage equal to 2d6 plus your Intelligence modifier and is telekinetically moved 15 feet directly toward or away from you (your choice). On a successful save, it takes half as much damage and isn&apos;t moved.
 
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
@@ -60,7 +60,7 @@ Source:	Unearthed Arcana: Fighter, Rogue, and Wizard p. 1</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Psychic Warrior (UA): Telekinetic Bulwark</name>
-        <text>When you take the Attack action, you can forgo one of your attacks to project a bastion of psionic power in a 10-foot radius around yourself. It lasts for 1 minute or until you're incapacitated. For the duration, you and your allies in that area gain the benefits of half cover and have advantage on Strength saving throws.
+        <text>When you take the Attack action, you can forgo one of your attacks to project a bastion of psionic power in a 10-foot radius around yourself. It lasts for 1 minute or until you&apos;re incapacitated. For the duration, you and your allies in that area gain the benefits of half cover and have advantage on Strength saving throws.
 
 Once you use this feature, you can't do so again until you finish a long rest or until after you use your Second Wind feature.
 
@@ -82,7 +82,7 @@ Source:	Unearthed Arcana: Fighter, Rogue, and Wizard p. 1</text>
     <autolevel level="18">
       <feature optional="YES">
         <name>Psychic Warrior (UA): Psychic Dreadnaught</name>
-        <text>The power of your mind suffuses your entire being, making you a nigh-unstoppable force on the battlefield. Using your reaction when you take damage, you can give yourself the following benefits for 1 minute or until you're incapacitated:
+        <text>The power of your mind suffuses your entire being, making you a nigh-unstoppable force on the battlefield. Using your reaction when you take damage, you can give yourself the following benefits for 1 minute or until you&apos;re incapacitated:
 
 	• At the start of each of your turns, you regain 10 hit points.
 	• Your walking speed increases by 10 feet.

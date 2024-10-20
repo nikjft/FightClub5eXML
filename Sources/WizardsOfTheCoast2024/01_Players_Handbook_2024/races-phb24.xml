@@ -33,7 +33,7 @@ Source:	Player's Handbook 2024 p. 186</text>
     </trait>
     <trait>
       <name>Healing Hands</name>
-      <text>As a Magic action, you touch a creature and roll a number of d4s equal to your Proficiency Bonus. The creature regains a number of Hit Points equal to the total rolled. Once you use this trait, you can't use it again until you finish a Long Rest.</text>
+      <text>As a Magic action, you touch a creature and roll a number of d4s equal to your Proficiency Bonus. The creature regains a number of Hit Points equal to the total rolled. Once you use this trait, you can&apos;t use it again until you finish a Long Rest.</text>
     </trait>
     <trait>
       <name>Light Bearer</name>
@@ -41,7 +41,7 @@ Source:	Player's Handbook 2024 p. 186</text>
     </trait>
     <trait>
       <name>Celestial Revelation</name>
-      <text>When you reach character level 3, you can transform as a Bonus Action using one of the options below (choose the option each time you transform). The transformation lasts for 1 minute or until you end it (no action required). Once you transform, you can't do so again until you finish a Long Rest.
+      <text>When you reach character level 3, you can transform as a Bonus Action using one of the options below (choose the option each time you transform). The transformation lasts for 1 minute or until you end it (no action required). Once you transform, you can&apos;t do so again until you finish a Long Rest.
 
 Once on each of your turns before the transformation ends, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your Proficiency Bonus, and the extra damage's type is either Necrotic for Necrotic Shroud or Radiant for Heavenly Wings and Inner Radiance.
 
@@ -66,7 +66,7 @@ Your eyes briefly become pools of darkness, and flightless wings sprout from you
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>The ancestors of dragonborn hatched from the eggs of chromatic and metallic dragons. One story holds that these eggs were blessed by the dragon gods Bahamut and Tiamat, who wanted to populate the multiverse with people created in their image. Another story claims that dragons created the first dragonborn without the gods' blessings. Whatever their origin, dragonborn have made homes for themselves on the Material Plane.
+      <text>The ancestors of dragonborn hatched from the eggs of chromatic and metallic dragons. One story holds that these eggs were blessed by the dragon gods Bahamut and Tiamat, who wanted to populate the multiverse with people created in their image. Another story claims that dragons created the first dragonborn without the gods&apos; blessings. Whatever their origin, dragonborn have made homes for themselves on the Material Plane.
 
 Dragonborn look like wingless, bipedal dragons-scaly, bright-eyed, and thick-boned with horns on their heads-and their coloration and other features are reminiscent of their draconic ancestors.
 
@@ -113,7 +113,7 @@ You can use this Breath Weapon a number of times equal to your Proficiency Bonus
     </trait>
     <trait>
       <name>Draconic Flight</name>
-      <text>When you reach character level 5, you can channel draconic magic to give yourself temporary flight. As a Bonus Action, you sprout spectral wings on your back that last for 10 minutes or until you retract the wings (no action required) or have the Incapacitated condition. During that time, you have a Fly Speed equal to your Speed. Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can't use it again until you finish a Long Rest.</text>
+      <text>When you reach character level 5, you can channel draconic magic to give yourself temporary flight. As a Bonus Action, you sprout spectral wings on your back that last for 10 minutes or until you retract the wings (no action required) or have the Incapacitated condition. During that time, you have a Fly Speed equal to your Speed. Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can&apos;t use it again until you finish a Long Rest.</text>
     </trait>
   </race>
   <race>
@@ -170,7 +170,7 @@ You can use this Bonus Action a number of times equal to your Proficiency Bonus,
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>Created by the god Corellon, the first elves could change their forms at will. They lost this ability when Corellon cursed them for plotting with the deity Lolth, who tried and failed to usurp Corellon's dominion. When Lolth was cast into the Abyss, most elves renounced her and earned Corellon's forgiveness, but that which Corellon had taken from them was lost forever.
+      <text>Created by the god Corellon, the first elves could change their forms at will. They lost this ability when Corellon cursed them for plotting with the deity Lolth, who tried and failed to usurp Corellon&apos;s dominion. When Lolth was cast into the Abyss, most elves renounced her and earned Corellon&apos;s forgiveness, but that which Corellon had taken from them was lost forever.
 
 No longer able to shapeshift at will, the elves retreated to the Feywild, where their sorrow was deepened by that plane's influence. Over time, curiosity led many of them to explore other planes of existence, including worlds in the Material Plane.
 
@@ -212,7 +212,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
     </trait>
     <trait>
       <name>Trance</name>
-      <text>You don't need to sleep, and magic can't put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.</text>
+      <text>You don&apos;t need to sleep, and magic can&apos;t put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.</text>
     </trait>
   </race>
   <race>
@@ -224,7 +224,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>Created by the god Corellon, the first elves could change their forms at will. They lost this ability when Corellon cursed them for plotting with the deity Lolth, who tried and failed to usurp Corellon's dominion. When Lolth was cast into the Abyss, most elves renounced her and earned Corellon's forgiveness, but that which Corellon had taken from them was lost forever.
+      <text>Created by the god Corellon, the first elves could change their forms at will. They lost this ability when Corellon cursed them for plotting with the deity Lolth, who tried and failed to usurp Corellon&apos;s dominion. When Lolth was cast into the Abyss, most elves renounced her and earned Corellon&apos;s forgiveness, but that which Corellon had taken from them was lost forever.
 
 No longer able to shapeshift at will, the elves retreated to the Feywild, where their sorrow was deepened by that plane's influence. Over time, curiosity led many of them to explore other planes of existence, including worlds in the Material Plane.
 
@@ -266,7 +266,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
     </trait>
     <trait>
       <name>Trance</name>
-      <text>You don't need to sleep, and magic can't put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.</text>
+      <text>You don&apos;t need to sleep, and magic can&apos;t put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.</text>
     </trait>
   </race>
   <race>
@@ -278,7 +278,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>Created by the god Corellon, the first elves could change their forms at will. They lost this ability when Corellon cursed them for plotting with the deity Lolth, who tried and failed to usurp Corellon's dominion. When Lolth was cast into the Abyss, most elves renounced her and earned Corellon's forgiveness, but that which Corellon had taken from them was lost forever.
+      <text>Created by the god Corellon, the first elves could change their forms at will. They lost this ability when Corellon cursed them for plotting with the deity Lolth, who tried and failed to usurp Corellon&apos;s dominion. When Lolth was cast into the Abyss, most elves renounced her and earned Corellon&apos;s forgiveness, but that which Corellon had taken from them was lost forever.
 
 No longer able to shapeshift at will, the elves retreated to the Feywild, where their sorrow was deepened by that plane's influence. Over time, curiosity led many of them to explore other planes of existence, including worlds in the Material Plane.
 
@@ -320,7 +320,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
     </trait>
     <trait>
       <name>Trance</name>
-      <text>You don't need to sleep, and magic can't put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.</text>
+      <text>You don&apos;t need to sleep, and magic can&apos;t put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.</text>
     </trait>
   </race>
   <race>
@@ -332,7 +332,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>Gnomes are magical folk created by gods of invention, illusions, and life underground. The earliest gnomes were seldom seen by other folk due to the gnomes' secretive nature and their propensity for living in forests and burrows. What they lacked in size, they made up for in cleverness. They confounded predators with traps and labyrinthine tunnels. They also learned magic from gods like Garl Glittergold, Baervan Wildwanderer, and Baravar Cloakshadow, who visited them in disguise. That magic eventually created the lineages of forest gnomes and rock gnomes.
+      <text>Gnomes are magical folk created by gods of invention, illusions, and life underground. The earliest gnomes were seldom seen by other folk due to the gnomes&apos; secretive nature and their propensity for living in forests and burrows. What they lacked in size, they made up for in cleverness. They confounded predators with traps and labyrinthine tunnels. They also learned magic from gods like Garl Glittergold, Baervan Wildwanderer, and Baravar Cloakshadow, who visited them in disguise. That magic eventually created the lineages of forest gnomes and rock gnomes.
 
 Gnomes are petite folk with big eyes and pointed ears, who live around 425 years. Many gnomes like the feeHng of a roof over their head, even if that "roof" is nothing more than a hat.
 
@@ -368,7 +368,7 @@ Source:	Player's Handbook 2024 p. 191</text>
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>Gnomes are magical folk created by gods of invention, illusions, and life underground. The earliest gnomes were seldom seen by other folk due to the gnomes' secretive nature and their propensity for living in forests and burrows. What they lacked in size, they made up for in cleverness. They confounded predators with traps and labyrinthine tunnels. They also learned magic from gods like Garl Glittergold, Baervan Wildwanderer, and Baravar Cloakshadow, who visited them in disguise. That magic eventually created the lineages of forest gnomes and rock gnomes.
+      <text>Gnomes are magical folk created by gods of invention, illusions, and life underground. The earliest gnomes were seldom seen by other folk due to the gnomes&apos; secretive nature and their propensity for living in forests and burrows. What they lacked in size, they made up for in cleverness. They confounded predators with traps and labyrinthine tunnels. They also learned magic from gods like Garl Glittergold, Baervan Wildwanderer, and Baravar Cloakshadow, who visited them in disguise. That magic eventually created the lineages of forest gnomes and rock gnomes.
 
 Gnomes are petite folk with big eyes and pointed ears, who live around 425 years. Many gnomes like the feeHng of a roof over their head, even if that "roof" is nothing more than a hat.
 
@@ -392,7 +392,7 @@ Source:	Player's Handbook 2024 p. 191</text>
     </trait>
     <trait>
       <name>Rock Lineage</name>
-      <text>You know the Mending and Prestidigitation cantrips. In addition, you can spend 10 minutes casting Prestidigitation to create a Tiny clockwork device (AC 5, 1 HP), such as a toy, fire starter, or music box. When you create the device, you determine its function by choosing one effect from Prestidigitation; the device produces that effect whenever you or another creature takes a Bonus Action to activate it with a touch. If the chosen effect has options within it, you choose one of those options for the device when you create it. For example, if you choose the spell's ignite-extinguish effect, you determine whether the device ignites or extinguishes fire; the device doesn't do both. You can have three such devices in existence at a time, and each falls apart 8 hours after its creation or when you dismantle it with a touch as a Utilize action.</text>
+      <text>You know the Mending and Prestidigitation cantrips. In addition, you can spend 10 minutes casting Prestidigitation to create a Tiny clockwork device (AC 5, 1 HP), such as a toy, fire starter, or music box. When you create the device, you determine its function by choosing one effect from Prestidigitation; the device produces that effect whenever you or another creature takes a Bonus Action to activate it with a touch. If the chosen effect has options within it, you choose one of those options for the device when you create it. For example, if you choose the spell&apos;s ignite-extinguish effect, you determine whether the device ignites or extinguishes fire; the device doesn&apos;t do both. You can have three such devices in existence at a time, and each falls apart 8 hours after its creation or when you dismantle it with a touch as a Utilize action.</text>
     </trait>
   </race>
   <race>
@@ -404,7 +404,7 @@ Source:	Player's Handbook 2024 p. 191</text>
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>Towering over most folk, goliaths are distant descendants of giants. Each goliath bears the favors of the first giants-favors that manifest in various supernatural boons, including the ability to quickly grow and temporarily approach the height of goliaths' gigantic kin.
+      <text>Towering over most folk, goliaths are distant descendants of giants. Each goliath bears the favors of the first giants-favors that manifest in various supernatural boons, including the ability to quickly grow and temporarily approach the height of goliaths&apos; gigantic kin.
 
 Goliaths have physical characteristics that are reminiscent of the giants in their family lines. For example, some goliaths look like stone giants, while others resemble fire giants. Whatever giants they count as kin, goliaths have forged their own path in the multiverse-unencumbered by the internecine conflicts that have ravaged giantkind for ages-and seek heights above those reached by their ancestors.
 
@@ -444,7 +444,7 @@ Source:	Player's Handbook 2024 p. 192</text>
     </trait>
     <trait>
       <name>Large Form</name>
-      <text>Starting at character level 5, you can change your size to Large as a Bonus Action if you're in a big enough space. This transformation lasts for 10 minutes or until you end it (no action required). For that duration, you have Advantage on Strength checks, and your Speed increases by 10 feet. Once you use this trait, you can't use it again until you finish a Long Rest.</text>
+      <text>Starting at character level 5, you can change your size to Large as a Bonus Action if you&apos;re in a big enough space. This transformation lasts for 10 minutes or until you end it (no action required). For that duration, you have Advantage on Strength checks, and your Speed increases by 10 feet. Once you use this trait, you can&apos;t use it again until you finish a Long Rest.</text>
     </trait>
     <trait>
       <name>Powerful Build</name>
@@ -485,7 +485,7 @@ Source:	Player's Handbook 2024 p. 193</text>
     </trait>
     <trait>
       <name>Halfling Nimbleness</name>
-      <text>You can move through the space of any creature that is a size larger than you. but you can't stop in the same space.</text>
+      <text>You can move through the space of any creature that is a size larger than you. but you can&apos;t stop in the same space.</text>
     </trait>
     <trait>
       <name>Luck</name>
@@ -541,7 +541,7 @@ Source:	Player's Handbook 2024 p. 194</text>
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>Ores trace their creation to Gruumsh, a powerful god who roamed the wide open spaces of the Material Plane. Gruumsh equipped his children with gifts to help them wander great plains, vast caverns, and churning seas and to face the monsters that lurk there. Even when they turn their devotion to other gods, ores retain Gruumsh's gifts: endurance, determination, and the ability to see in darkness.
+      <text>Ores trace their creation to Gruumsh, a powerful god who roamed the wide open spaces of the Material Plane. Gruumsh equipped his children with gifts to help them wander great plains, vast caverns, and churning seas and to face the monsters that lurk there. Even when they turn their devotion to other gods, ores retain Gruumsh&apos;s gifts: endurance, determination, and the ability to see in darkness.
 
 Ores are, on average, tall and broad. They have gray skin, ears that are sharply pointed, and prominent lower canines that resemble small tusks. Ore youths on some worlds are told about their ancestors' great travels and travails. Inspired by those tales, many of those ores wonder when Gruumsh will call on them to match the heroic deeds of old and if they will prove worthy of his favor. Other ores are happy to leave old tales in the past and find their own way.
 
@@ -567,7 +567,7 @@ You can use this trait a number of times equal to your Proficiency Bonus. and yo
     </trait>
     <trait>
       <name>Relentless Endurance</name>
-      <text>When you are reduced to 0 Hit Points but not killed outright. you can drop to I Hit Point instead. Once you use this trait, you can't do so again until you finish a Long Rest.</text>
+      <text>When you are reduced to 0 Hit Points but not killed outright. you can drop to I Hit Point instead. Once you use this trait, you can&apos;t do so again until you finish a Long Rest.</text>
     </trait>
   </race>
   <race>
@@ -579,7 +579,7 @@ You can use this trait a number of times equal to your Proficiency Bonus. and yo
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>Tieflings are either born in the Lower Planes or have fiendish ancestors who originated there. A tiefling (pronounced TEE-fling) is linked by blood to a devil, a demon, or some other Fiend. This connection to the Lower Planes is the tiefling's fiendish legacy, which comes with the promise of power yet has no effect on the tiefling's moral outlook.
+      <text>Tieflings are either born in the Lower Planes or have fiendish ancestors who originated there. A tiefling (pronounced TEE-fling) is linked by blood to a devil, a demon, or some other Fiend. This connection to the Lower Planes is the tiefling&apos;s fiendish legacy, which comes with the promise of power yet has no effect on the tiefling&apos;s moral outlook.
 
 The entropy of the Abyss, the chaos of Pandemonium, and the despair of Carceri call to tieflings who have the abyssal legacy. Horns, fur, tusks, and peculiar scents are common physical features of such tieflings, most of whom have the blood of demons coursing through their veins.
 
@@ -619,7 +619,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>Tieflings are either born in the Lower Planes or have fiendish ancestors who originated there. A tiefling (pronounced TEE-fling) is linked by blood to a devil, a demon, or some other Fiend. This connection to the Lower Planes is the tiefling's fiendish legacy, which comes with the promise of power yet has no effect on the tiefling's moral outlook.
+      <text>Tieflings are either born in the Lower Planes or have fiendish ancestors who originated there. A tiefling (pronounced TEE-fling) is linked by blood to a devil, a demon, or some other Fiend. This connection to the Lower Planes is the tiefling&apos;s fiendish legacy, which comes with the promise of power yet has no effect on the tiefling&apos;s moral outlook.
 
 Tieflings who have the chthonic legacy feel not only the tug of Carceri but also the greed of Gehenna and the gloom of Hades. Some of these tieflings look cadaverous. Others possess the unearthly beauty of a succubus, or they have physical features in common with a night hag, a yugoloth, or some other Neutral Evil fiendish ancestor.
 
@@ -659,7 +659,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>Tieflings are either born in the Lower Planes or have fiendish ancestors who originated there. A tiefling (pronounced TEE-fling) is linked by blood to a devil, a demon, or some other Fiend. This connection to the Lower Planes is the tiefling's fiendish legacy, which comes with the promise of power yet has no effect on the tiefling's moral outlook.
+      <text>Tieflings are either born in the Lower Planes or have fiendish ancestors who originated there. A tiefling (pronounced TEE-fling) is linked by blood to a devil, a demon, or some other Fiend. This connection to the Lower Planes is the tiefling&apos;s fiendish legacy, which comes with the promise of power yet has no effect on the tiefling&apos;s moral outlook.
 
 The infernal legacy connects tieflings not only to Gehenna but also the Nine Hells and the raging battlefields of Acheron. Horns, spines, tails, golden eyes, and a faint odor of sulfur or smoke are common physical features of such tieflings, most of whom trace their ancestry to devils.
 

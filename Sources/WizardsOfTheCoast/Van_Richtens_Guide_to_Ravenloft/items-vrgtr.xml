@@ -1,18 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Harkon's Bite</name>
+    <name>Harkon&apos;s Bite</name>
     <detail>uncommon, cursed (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
     <weight/>
     <text>A dire wolf tooth dangles from this simple cord necklace. While you wear it, the necklace grants you a +1 bonus to ability checks and saving throws.
 
-Curse: Attuning to Harkon's Bite curses you until either Harkon Lukas removes the necklace from you or you are targeted by a remove curse spell or similar magic. As long as you remain cursed, you cannot remove the necklace.
+Curse: Attuning to Harkon&apos;s Bite curses you until either Harkon Lukas removes the necklace from you or you are targeted by a remove curse spell or similar magic. As long as you remain cursed, you cannot remove the necklace.
 
 donning or removing the necklace, whether you are attuned to it or not, you are afflicted with werewolf lycanthropy as detailed in the Monster Manual. The curse lasts until the dawn after the next full moon. If you are still wearing the necklace at this time, you are afflicted with the lycanthropy again.
 
-Source:	Van Richten's Guide to Ravenloft p. 137</text>
+Source:	Van Richten&apos;s Guide to Ravenloft p. 137</text>
     <modifier category="bonus">Saving Throws +1</modifier>
     <modifier category="bonus">Initiative +1</modifier>
     <modifier category="skill">Acrobatics +1</modifier>
@@ -51,7 +52,7 @@ Personality: In its lifetime, the sword has beheaded thousands of criminals, not
 Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee Attack.
 
 Proficiency: martial, longsword
-Source:	Van Richten's Guide to Ravenloft p. 86</text>
+Source:	Van Richten&apos;s Guide to Ravenloft p. 86</text>
     <value/>
     <modifier category="bonus">Melee Attacks +3</modifier>
     <modifier category="bonus">Melee Damage +3</modifier>
@@ -62,15 +63,15 @@ Source:	Van Richten's Guide to Ravenloft p. 86</text>
     <range/>
   </item>
   <item>
-    <name>Ivana's Whisper</name>
+    <name>Ivana&apos;s Whisper</name>
     <detail>poison (inhaled)</detail>
     <type>G</type>
     <weight/>
-    <text>This poison bears a distinct scent and chemical message from Ivana Boritsi. A creature subjected to this poison must succeed on a DC 18 Constitution saving throw or experience the effects of a dream spell created by Ivana the next time they sleep. This poison is nonmagical, and Ivana doesn't directly communicate with those affected during the dream. Rather, she creates the illusion of speaking with her intended target by alchemically crafting her message, predicting her target's reactions, and chemically encoding in her responses. She wears this poison as a perfume or hides it within gift bouquets, allowing it to convey her message later.
+    <text>This poison bears a distinct scent and chemical message from Ivana Boritsi. A creature subjected to this poison must succeed on a DC 18 Constitution saving throw or experience the effects of a dream spell created by Ivana the next time they sleep. This poison is nonmagical, and Ivana doesn&apos;t directly communicate with those affected during the dream. Rather, she creates the illusion of speaking with her intended target by alchemically crafting her message, predicting her target&apos;s reactions, and chemically encoding in her responses. She wears this poison as a perfume or hides it within gift bouquets, allowing it to convey her message later.
 
-Inhaled: These poisons are powders or gases that take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot cube to its effect. The resulting cloud dissipates immediately afterward. Holding one's breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.
+Inhaled: These poisons are powders or gases that take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot cube to its effect. The resulting cloud dissipates immediately afterward. Holding one&apos;s breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.
 
-Source:	Van Richten's Guide to Ravenloft p. 83</text>
+Source:	Van Richten&apos;s Guide to Ravenloft p. 83</text>
   </item>
   <item>
     <name>Trinket (Horror)</name>
@@ -80,7 +81,7 @@ Source:	Van Richten's Guide to Ravenloft p. 83</text>
     <property/>
     <text>Sinister deeds and festering evils take many forms, sometimes as stories and sometimes as physical scars. All manner of talismans, mementos, criminal evidence, mysterious devices, cursed relics, and physical impossibilities might embody just such scars - summaries of terrors in material form.
 
-Before you finish making a character, roll once on the Horror Trinkets table for a unique object your character has with them at the start of their adventuring career. These trinkets hint toward various horrific tales and might lead to dreadful revelations or be nothing more than grim keepsakes. At the DM's discretion any of these trinkets might also be a Mist talisman (detailed in chapter 3), a focal item that can lead the bearer through the Mists to a particular Domain of Dread.
+Before you finish making a character, roll once on the Horror Trinkets table for a unique object your character has with them at the start of their adventuring career. These trinkets hint toward various horrific tales and might lead to dreadful revelations or be nothing more than grim keepsakes. At the DM&apos;s discretion any of these trinkets might also be a Mist talisman (detailed in chapter 3), a focal item that can lead the bearer through the Mists to a particular Domain of Dread.
 
 Horror Trinkets:
 d100 | Trinket
@@ -97,15 +98,15 @@ d100 | Trinket
 11 | A wineskin that refills when interred with a dead person for a night
 12 | A set of silverware used by a king for his last meal
 13 | A spyglass that always shows the world suffering a terrible storm
-14 | A cameo with the profile's face scratched away
+14 | A cameo with the profile&apos;s face scratched away
 15 | A lantern with a black candle that never runs out and that burns with green flame
-16 | A teacup from a child's tea set, stained with blood
+16 | A teacup from a child&apos;s tea set, stained with blood
 17 | A little black book that records your dreams, and yours alone, when you sleep
 18 | A necklace formed of the interlinked holy symbols of a dozen deities
 19 | A noose that feels heavier than it should
 20 | A birdcage into which small birds fly but once inside never eat or leave
-21 | A lepidopterist's box filled with dead moths with skull-like patterns on their wings
-22 | A jar of pickled ghouls' tongues
+21 | A lepidopterist&apos;s box filled with dead moths with skull-like patterns on their wings
+22 | A jar of pickled ghouls&apos; tongues
 23 | The wooden hand of a notorious pirate
 24 | A urn with the ashes of a dead relative
 25 | A hand mirror backed with a bronze depiction of a medusa
@@ -119,29 +120,29 @@ d100 | Trinket
 33 | A music box that plays by itself whenever someone holding it dances
 34 | A walking cane with an iron ferrule that strikes sparks on stone
 35 | A flag from a ship lost at sea
-36 | A porcelain doll's head that always seems to be looking at you
-37 | A wolf's head wrought in silver that is also a whistle
+36 | A porcelain doll&apos;s head that always seems to be looking at you
+37 | A wolf&apos;s head wrought in silver that is also a whistle
 38 | A small mirror that shows a much older version of the viewer
-39 | A small, worn book of children's nursery rhymes
+39 | A small, worn book of children&apos;s nursery rhymes
 40 | A mummified raven claw
-41 | A broken pendant of a silver dragon that's always cold to the touch
+41 | A broken pendant of a silver dragon that&apos;s always cold to the touch
 42 | A small locked box that quietly hums a lovely melody at night, but you always forget it in the morning
 43 | An inkwell that makes one a little nauseous when staring at it
 44 | An old doll made from a dark, dense wood and missing a hand and a foot
-45 | A black executioner's hood
+45 | A black executioner&apos;s hood
 46 | A pouch made of flesh, with a sinew drawstring
 47 | A tiny spool of black thread that never runs out
-48 | A tiny clockwork figurine of a dancer that's missing a gear and doesn't work
+48 | A tiny clockwork figurine of a dancer that&apos;s missing a gear and doesn&apos;t work
 49 | A black wooden pipe that creates puffs of smoke that look like skulls
 50 | A vial of perfume, the scent of which only certain creatures can detect
 51 | A stone that emits a single endless sigh
 52 | A rag doll with two red dots on its neck
 53 | A spring-loaded toy with a missing crank
 54 | A mason jar containing a harmless but agitated, animate ooze
-55 | A black wooden die with 1's on all the faces
-56 | A child's portrait with "born" written on the back, along with next year's date
+55 | A black wooden die with 1&apos;s on all the faces
+56 | A child&apos;s portrait with "born" written on the back, along with next year&apos;s date
 57 | A dagger-sized shark tooth
-58 | A finger that's taken root in a small pot
+58 | A finger that&apos;s taken root in a small pot
 59 | A toolbox containing the remains of a dangerous but broken clockwork arachnid
 60 | A pitcher-sized, opalescent snail shell that occasionally, inexplicably shudders or tips over
 61 | The logbook of an ice-breaking ship called The Haifisch
@@ -153,11 +154,11 @@ d100 | Trinket
 67 | A bronze fingertrap sculpted with roaring tigers
 68 | A pearl necklace that turns red under the full moon
 69 | A fossil of a fish with humanoid features
-70 | A plague doctor's mask
+70 | A plague doctor&apos;s mask
 71 | A paper talisman with smudged ink
 72 | A locket containing the smeared image of an eyeless figure
 73 | A canopic jar with a lid sculpted like a goat
-74 | A jack-o'-lantern made from a small, pale gourd
+74 | A jack-o&apos;-lantern made from a small, pale gourd
 75 | A single high-heeled, iron shoe
 76 | A candle made from a severed hand
 77 | A clockwork device that beats like a heart
@@ -185,7 +186,7 @@ d100 | Trinket
 99 | A shrunken gremishka head that twitches when anyone casts magic nearby
 100 | A sunburst amulet with a red stone at the center
 
-Source:	Van Richten's Guide to Ravenloft p. 36</text>
+Source:	Van Richten&apos;s Guide to Ravenloft p. 36</text>
     <roll>1d100</roll>
   </item>
 </compendium>

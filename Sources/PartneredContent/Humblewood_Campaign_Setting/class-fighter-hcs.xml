@@ -13,7 +13,7 @@ Source:	Humblewood Campaign Setting p. 41</text>
       </feature>
       <feature optional="YES">
         <name>Scofflaw: Bonus Proficiency</name>
-        <text>When you choose this Martial Archetype at 3rd level, you gain proficiency in one of the following skills of your choice: Deception, Insight, Intimidation, Sleight of Hand, or Stealth. Alternatively, you may learn Thieves' Cant.
+        <text>When you choose this Martial Archetype at 3rd level, you gain proficiency in one of the following skills of your choice: Deception, Insight, Intimidation, Sleight of Hand, or Stealth. Alternatively, you may learn Thieves&apos; Cant.
 
 Source:	Humblewood Campaign Setting p. 41</text>
       </feature>
@@ -25,7 +25,7 @@ Source:	Humblewood Campaign Setting p. 41</text>
       </feature>
       <feature optional="YES">
         <name>Scofflaw: Brutal Brawler</name>
-        <text>At 3rd level, your tavernside scuffles have honed your ability to deal damage with just about anything that's handy. You have proficiency with improvised weapons, and treat any improvised weapon you handle as if it has the finesse quality.
+        <text>At 3rd level, your tavernside scuffles have honed your ability to deal damage with just about anything that&apos;s handy. You have proficiency with improvised weapons, and treat any improvised weapon you handle as if it has the finesse quality.
 
 Additionally, whenever you hit with an improvised weapon, you may spend a bonus action to break it over your opponent. Doing this destroys the weapon, but deals the maximum number each of the weapon's damage dice could deal to the target. Any additional dice added to the attack's damage roll are not affected by this ability.
 
@@ -49,7 +49,7 @@ Source:	Humblewood Campaign Setting p. 42</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Scofflaw: Blindside</name>
-        <text>At 10th level, you are truly skilled at exploiting the openings you create in combat, hitting off-guard opponents with precise blows that are swift and deadly. You may use this technique against any creature that hasn't yet taken a turn in combat, or who you have successfully misdirected this turn. You may also apply this technique to any attack roll you make with advantage. On a hit, you exploit an opening in the target's defenses, dealing an extra 5d6 points of damage. Once you use this ability, you can't use it again until you have taken a short or long rest.
+        <text>At 10th level, you are truly skilled at exploiting the openings you create in combat, hitting off-guard opponents with precise blows that are swift and deadly. You may use this technique against any creature that hasn't yet taken a turn in combat, or who you have successfully misdirected this turn. You may also apply this technique to any attack roll you make with advantage. On a hit, you exploit an opening in the target&apos;s defenses, dealing an extra 5d6 points of damage. Once you use this ability, you can&apos;t use it again until you have taken a short or long rest.
 
 At 15th level, the damage dealt by your blindside increases to 7d6.
 
@@ -71,7 +71,7 @@ Source:	Humblewood Campaign Setting p. 42</text>
     <autolevel level="18">
       <feature optional="YES">
         <name>Scofflaw: Two for Flinching</name>
-        <text>At 18th level, you have perfected the art of exploiting your opponent's weakness. Whenever you take the attack action against an opponent you have successfully misdirected this turn, or an opponent that is afflicted by a condition, you may make one additional attack against that opponent. You may only use this feature once per round.
+        <text>At 18th level, you have perfected the art of exploiting your opponent&apos;s weakness. Whenever you take the attack action against an opponent you have successfully misdirected this turn, or an opponent that is afflicted by a condition, you may make one additional attack against that opponent. You may only use this feature once per round.
 
 Source:	Humblewood Campaign Setting p. 42</text>
       </feature>

@@ -3,7 +3,7 @@
   <feat>
     <name>Elemental Touched (UA)</name>
     <prerequisite/>
-    <text>You've been exposed to the primordial magic of the Elemental Planes, granting you a measure of control over the natural world around you. You learn the either the druidcraft or thaumaturgy cantrip, using Intelligence, Wisdom, or Charisma as the spellcasting ability (choose when you gain this feat).
+    <text>You&apos;ve been exposed to the primordial magic of the Elemental Planes, granting you a measure of control over the natural world around you. You learn the either the druidcraft or thaumaturgy cantrip, using Intelligence, Wisdom, or Charisma as the spellcasting ability (choose when you gain this feat).
 
 Whenever you finish a long rest, you can choose which element you are attuned to: Air, Earth, Fire, or Water. Depending on your choice, you can use a bonus action to cause one of the following effects:
 
@@ -26,7 +26,7 @@ Source:	Unearthed Arcana: Giant Options p. 4</text>
   <!--feat>
     <name>Ember Of The Fire Giant (UA)</name>
     <prerequisite>8th Level</prerequisite>
-    <text>You've manifested the fiery combat emblematic of fire giants, granting you the following benefits:
+    <text>You&apos;ve manifested the fiery combat emblematic of fire giants, granting you the following benefits:
 
 Born of Flame:
 You have resistance to fire damage.
@@ -39,7 +39,7 @@ Source:	Unearthed Arcana: Giant Options p. 4</text>
   <feat>
     <name>Fury Of The Frost Giant (UA)</name>
     <prerequisite>4th Level</prerequisite>
-    <text>You've manifested the icy might emblematic of frost giants, granting you the following benefits:
+    <text>You&apos;ve manifested the icy might emblematic of frost giants, granting you the following benefits:
 
 Born of Ice:
 You have resistance to cold damage.
@@ -52,7 +52,7 @@ Source:	Unearthed Arcana: Giant Options p. 4</text>
   <!--feat>
     <name>Guile Of The Cloud Giant (UA)</name>
     <prerequisite>8th Level</prerequisite>
-    <text>You've manifested the airy speech and magic emblematic of cloud giants, granting you the following benefits:
+    <text>You&apos;ve manifested the airy speech and magic emblematic of cloud giants, granting you the following benefits:
 
 Misty Form:
 You can cast the blur spell without using a spell slot or material components. When you cast the spell in this way, the spell doesn't require you to maintain concentration on it. Once you cast the spell in this way, you can't do so again until you finish a long rest. You can also cast this spell in the normal way using spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feature (choose when you gain this feat).
@@ -65,7 +65,7 @@ Source:	Unearthed Arcana: Giant Options p. 4</text>
   <!--feat>
     <name>Keenness Of The Stone Giant (UA)</name>
     <prerequisite>4th Level</prerequisite>
-    <text>You've manifested the protection and spellcasting emblematic of stone giants, granting you the following benefits:
+    <text>You&apos;ve manifested the protection and spellcasting emblematic of stone giants, granting you the following benefits:
 
 Dreamer's Magic:
 You learn the detect thoughts spell and one 1st-level spell of your choice. The 1st-level spell must be from the abjuration or the divination school of magic. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feature (choose when you gain this feat).
@@ -95,7 +95,7 @@ Source:	Unearthed Arcana: Giant Options p. 5</text>
   <feat>
     <name>Rune Carver Apprentice (UA)</name>
     <prerequisite/>
-    <text>You've begun studying the art of runecraft, which allows you to temporarily mark your items and imbue them with magic.
+    <text>You&apos;ve begun studying the art of runecraft, which allows you to temporarily mark your items and imbue them with magic.
 
 Whenever you finish a long rest, you can mark one nonmagical weapon, armor, piece of clothing, or other object you can touch with a rune of your choice. You temporarily learn one 1st-level spell based on the rune you choose, as specified in the Rune Spells table, and you know the spell until you finish a long rest, when the rune fades.
 
@@ -138,7 +138,7 @@ Source:	Unearthed Arcana: Giant Options p. 5</text>
   <!--feat>
     <name>Soul Of The Storm Giant (UA)</name>
     <prerequisite>8th Level</prerequisite>
-    <text>You've manifested divination abilities and tempest magic emblematic of storm giants, granting you the following benefits:
+    <text>You&apos;ve manifested divination abilities and tempest magic emblematic of storm giants, granting you the following benefits:
 
 Maelstrom Aura:
 As a bonus action, you surround yourself in an aura of magical wind and lightning that extends 10 feet from you in every direction but not through total cover. The aura lasts for 1 minute or until you are incapacitated. While the aura is active, attack rolls against you have disadvantage, and whenever a creature starts its turn within the sphere, you can force the creature's speed to be halved until the start of its next turn. Once you use this bonus action, you can't do so again until you finish a long rest.
@@ -151,7 +151,7 @@ Source:	Unearthed Arcana: Giant Options p. 5</text>
   <feat>
     <name>Vigor Of The Hill Giant (UA)</name>
     <prerequisite>4th Level</prerequisite>
-    <text>You've manifested the resilience emblematic of hill giants, granting you the following benefits:
+    <text>You&apos;ve manifested the resilience emblematic of hill giants, granting you the following benefits:
 
 Bulwark:
 When you are subjected to an effect that would move you at least 5 feet or knock you prone, you can use your reaction to steady yourself. You are then neither moved nor knocked prone.

@@ -49,7 +49,7 @@ As an action you can throw the orb up to 30 feet. It shatters on impact, releasi
 Source:	Dungeons of Drakkenheim p. 230</text>
   </item>
   <item>
-    <name>Chancellor's Crest</name>
+    <name>Chancellor&apos;s Crest</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <weight/>
@@ -291,13 +291,13 @@ Source:	Dungeons of Drakkenheim p. 233,
     <roll>1d10</roll>
   </item>
   <item>
-    <name>Lord Commander's Badge</name>
+    <name>Lord Commander&apos;s Badge</name>
     <detail>rare (requires attunement)</detail>
     <magic>YES</magic>
     <type>W</type>
     <weight/>
     <value/>
-    <text>As an action while wearing this seal, you can invoke its power to issue a bellowing command clearly audible to all creatures within 300 feet of you. When you do, you may choose up to 12 allies you can see who can hear the command. Those allies each gain 20 temporary hit points. While these temporary hit points remain, those allies gain advantage on attack rolls and saving throws. Once you use this power, it can't be used again until the next dawn.
+    <text>As an action while wearing this seal, you can invoke its power to issue a bellowing command clearly audible to all creatures within 300 feet of you. When you do, you may choose up to 12 allies you can see who can hear the command. Those allies each gain 20 temporary hit points. While these temporary hit points remain, those allies gain advantage on attack rolls and saving throws. Once you use this power, it can&apos;t be used again until the next dawn.
 
 Crown Authority:
 A character cannot attune to more than one Seal of Drakkenheim. Guardian constructs in Drakkenheim such as wall gargoyles and tower dragons do not attack you while you are attuned to one of the Seals of Drakkenheim. An individual guardian ignores this effect for 24 hours if you attack it or cast a spell upon it.
@@ -332,13 +332,13 @@ You gain one level of contamination when you consume refined delerium dust.
 Source:	Dungeons of Drakkenheim p. 231</text>
   </item>
   <item>
-    <name>Saint Vitruvio's Phylactery</name>
+    <name>Saint Vitruvio&apos;s Phylactery</name>
     <detail>rare (requires attunement by a bard, cleric, druid or paladin)</detail>
     <magic>YES</magic>
     <type>W</type>
     <weight/>
     <value/>
-    <text>You can use an action to cast one of the following spells from the phylactery: bless, death ward, greater restoration, prayer of healing, or revivify. The spells use your spellcasting ability and spell save DC. Once the phylactery has been used to cast a spell, it can't be used to cast that spell again until the next dawn.
+    <text>You can use an action to cast one of the following spells from the phylactery: bless, death ward, greater restoration, prayer of healing, or revivify. The spells use your spellcasting ability and spell save DC. Once the phylactery has been used to cast a spell, it can&apos;t be used to cast that spell again until the next dawn.
 
 Crown Authority:
 A character cannot attune to more than one Seal of Drakkenheim. Guardian constructs in Drakkenheim such as wall gargoyles and tower dragons do not attack you while you are attuned to one of the Seals of Drakkenheim. An individual guardian ignores this effect for 24 hours if you attack it or cast a spell upon it.
@@ -420,18 +420,18 @@ Source:	Dungeons of Drakkenheim p. 232</text>
     <type>WD</type>
     <weight/>
     <value/>
-    <text>You can use this wand as a spellcasting focus. Creatures making a saving throw against a spell cast using this wand can't gain benefit from advantage on their saving throws.
+    <text>You can use this wand as a spellcasting focus. Creatures making a saving throw against a spell cast using this wand can&apos;t gain benefit from advantage on their saving throws.
 
 Source:	Dungeons of Drakkenheim p. 232</text>
   </item>
   <item>
-    <name>Spymaster's Signet</name>
+    <name>Spymaster&apos;s Signet</name>
     <detail>legendary (requires attunement)</detail>
     <magic>YES</magic>
     <type>RG</type>
     <weight/>
     <value/>
-    <text>While wearing this ring, you can cast disguise self at-will. In addition, you can turn invisible as an action. Anything you are wearing or carrying is invisible with you. You remain invisible for one minute, or until you use a bonus action to become visible again. Once you use this power, it can't be used again until the next dawn.
+    <text>While wearing this ring, you can cast disguise self at-will. In addition, you can turn invisible as an action. Anything you are wearing or carrying is invisible with you. You remain invisible for one minute, or until you use a bonus action to become visible again. Once you use this power, it can&apos;t be used again until the next dawn.
 
 Crown Authority:
 A character cannot attune to more than one Seal of Drakkenheim. Guardian constructs in Drakkenheim such as wall gargoyles and tower dragons do not attack you while you are attuned to one of the Seals of Drakkenheim. An individual guardian ignores this effect for 24 hours if you attack it or cast a spell upon it.
@@ -467,7 +467,7 @@ Source:	Dungeons of Drakkenheim p. 232</text>
     <modifier category="bonus">Weapon Damage +2</modifier>
   </item>
   <item>
-    <name>Steward's Seal</name>
+    <name>Steward&apos;s Seal</name>
     <detail>rare (requires attunement)</detail>
     <magic>YES</magic>
     <type>W</type>

@@ -252,7 +252,7 @@ Source:	LaserLlama: Monastic Traditions v4.0.0 p. 5 (Homebrew)</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Way of the Flowing River (HB): Master of the Flowing River</name>
-        <text>When a creature fails its saving throw against your Flowing River Stance reaction you can knock it back in a straight line in addition to the reaction's normal effects. When you do so, it is knocked back a number of feet depending on its size:
+        <text>When a creature fails its saving throw against your Flowing River Stance reaction you can knock it back in a straight line in addition to the reaction&apos;s normal effects. When you do so, it is knocked back a number of feet depending on its size:
 
 Knockback:
 Tiny | 60 feet
@@ -293,7 +293,7 @@ Source:	LaserLlama: Monastic Traditions v4.0.0 p. 6 (Homebrew)</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Way of the Hurricane (HB): Crushing Counter</name>
-        <text>You can use the weight of your heavy weapons to rebuke your enemies. When a creature you can see hits you with an attack while you are wielding a heavy melee weapon, you can use your reaction to make a monk weapon attack against it. On hit, you can choose to reduce the creature's speed to 0 until the start of your next turn in addition to the normal damage.
+        <text>You can use the weight of your heavy weapons to rebuke your enemies. When a creature you can see hits you with an attack while you are wielding a heavy melee weapon, you can use your reaction to make a monk weapon attack against it. On hit, you can choose to reduce the creature&apos;s speed to 0 until the start of your next turn in addition to the normal damage.
 
 Source:	LaserLlama: Monastic Traditions v4.0.0 p. 6 (Homebrew)</text>
       </feature>
@@ -474,7 +474,7 @@ Source:	LaserLlama: Monastic Traditions v4.0.0 p. 9 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Way of the Vigilante (HB): Heroic Persona</name>
-        <text>You have created a signature Heroic Persona, a larger- than-life identity that can include a set of light or medium armor and a shield. As a bonus action, so long as you can't be seen, you can instantly don your Heroic Persona, which grants you temporary hit points equal to your monk level, in addition to granting you the benefits listed below:
+        <text>You have created a signature Heroic Persona, a larger- than-life identity that can include a set of light or medium armor and a shield. As a bonus action, so long as you can&apos;t be seen, you can instantly don your Heroic Persona, which grants you temporary hit points equal to your monk level, in addition to granting you the benefits listed below:
 
 	• As a bonus action, you can spend 1 ki point to gain temporary hit points equal to your Wisdom modifier.
 
@@ -575,7 +575,7 @@ Source:	LaserLlama: Monastic Traditions v4.0.0 p. 10 (Homebrew)</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Monastic Tradition: Alternate Four Elements (HB)</name>
-        <text>The Way of the Four Elements was published in the Player's Handbook, and is widely considered to be one of the most unsatisfying subclasses in 5e. The Alternate Way of the Four Elements presented here is an attempt to bring this monk subclass up to par with other official Monastic Traditions.
+        <text>The Way of the Four Elements was published in the Player&apos;s Handbook, and is widely considered to be one of the most unsatisfying subclasses in 5e. The Alternate Way of the Four Elements presented here is an attempt to bring this monk subclass up to par with other official Monastic Traditions.
 
 Variant Rule: Spellcasting
 The Alternate Way of the Four Elements presented here uses the warlock class, rather than the wizard, as the basis for its spellcasting abilities to better represent the raw power of nature. If you prefer more traditional spellcasting, use the progression found in the Eldritch Knight Fighter Archetype.
@@ -683,7 +683,7 @@ Source:	LaserLlama: Monastic Traditions v4.0.0 p. 11 (Homebrew)</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Monastic Tradition: Alternate Sun Soul (HB)</name>
-        <text>The Way of the Sun Soul originally published in the Sword Coast Adventurer's Guide has mechanics that do not live up to the fantasy of playing a radiant monk, but also do not work cleanly with the official rules of 5e. The Alternate version of Way of the Sun Soul seeks to fix both of these issues.
+        <text>The Way of the Sun Soul originally published in the Sword Coast Adventurer&apos;s Guide has mechanics that do not live up to the fantasy of playing a radiant monk, but also do not work cleanly with the official rules of 5e. The Alternate version of Way of the Sun Soul seeks to fix both of these issues.
 
 Source:	LaserLlama: Monastic Traditions v4.0.0 p. 12 (Homebrew)</text>
       </feature>

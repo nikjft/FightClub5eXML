@@ -10,7 +10,7 @@
     <range>30 feet</range>
     <components>V</components>
     <duration>Concentration, up to 1 minute</duration>
-    <text>You lash the mind of one creature you can see within range, filling it with despair. The target must succeed on an Intelligence saving throw or suffer disadvantage on attack rolls, ability checks, and saving throws, and it can't cast spells. At the end of each of its turns, the target can make another Intelligence saving throw. On a success, the spell ends on the target.
+    <text>You lash the mind of one creature you can see within range, filling it with despair. The target must succeed on an Intelligence saving throw or suffer disadvantage on attack rolls, ability checks, and saving throws, and it can&apos;t cast spells. At the end of each of its turns, the target can make another Intelligence saving throw. On a success, the spell ends on the target.
 
 Source:	Unearthed Arcana: Fighter, Rogue, and Wizard p. 7</text>
   </spell>
@@ -89,7 +89,7 @@ Source:	Unearthed Arcana: Fighter, Rogue, and Wizard p. 7</text>
     <range>60 feet</range>
     <components>V, S</components>
     <duration>1 round</duration>
-    <text>You propel a lance of psionic disruption into the mind of one creature you can see within range. The target must make an Intelligence saving throw. On a failed save, the target takes 3d6 psychic damage, and it can use its action only to Dash or Disengage on its next turn. On a successful save, the target takes half as much damage, and this spell doesn't limit its action options.
+    <text>You propel a lance of psionic disruption into the mind of one creature you can see within range. The target must make an Intelligence saving throw. On a failed save, the target takes 3d6 psychic damage, and it can use its action only to Dash or Disengage on its next turn. On a successful save, the target takes half as much damage, and this spell doesn&apos;t limit its action options.
 
 At Higher Levels:
 When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd. The creatures must be within 30 feet of each other when you target them.
@@ -107,7 +107,7 @@ Source:	Unearthed Arcana: Fighter, Rogue, and Wizard p. 7</text>
     <range>Self (30-foot cone)</range>
     <components>V</components>
     <duration>Instantaneous</duration>
-    <text>You unleash a destructive wave of mental power in a 30-foot cone. Each creature in the area must make a Dexterity saving throw. On a failed save, a target takes 5d8 force damage, is pushed 20 feet directly away from you, and is knocked prone. On a successful save, a target takes half as much damage and isn't pushed or knocked prone.
+    <text>You unleash a destructive wave of mental power in a 30-foot cone. Each creature in the area must make a Dexterity saving throw. On a failed save, a target takes 5d8 force damage, is pushed 20 feet directly away from you, and is knocked prone. On a successful save, a target takes half as much damage and isn&apos;t pushed or knocked prone.
 
 At Higher Levels:
 When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
@@ -130,7 +130,7 @@ Source:	Unearthed Arcana: Fighter, Rogue, and Wizard p. 8</text>
     <range>60 feet</range>
     <components>V, S</components>
     <duration>1 minute</duration>
-    <text>You overload the mind of one creature you can see within range, filling its psyche with discordant emotions. The target must make an Intelligence saving throw. On a failed save, the target takes 12d6 psychic damage and is stunned for 1 minute. On a successful save, the target takes half as much damage and isn't stunned.
+    <text>You overload the mind of one creature you can see within range, filling its psyche with discordant emotions. The target must make an Intelligence saving throw. On a failed save, the target takes 12d6 psychic damage and is stunned for 1 minute. On a successful save, the target takes half as much damage and isn&apos;t stunned.
 
 The stunned target can make an Intelligence saving throw at the end of each of its turns. On a successful save, the spell ends on the target.
 
@@ -147,7 +147,7 @@ Source:	Unearthed Arcana: Fighter, Rogue, and Wizard p. 8</text>
     <range>Touch</range>
     <components>V, S</components>
     <duration>8 hours</duration>
-    <text>You weave a clouding veil over the mind of one creature you touch. For the duration, the target's mind can't be read or detected, creatures can't telepathically communicate with the target unless the target allows it, and the target has advantage on saving throws against any effect that would determine whether it is telling the truth.
+    <text>You weave a clouding veil over the mind of one creature you touch. For the duration, the target's mind can&apos;t be read or detected, creatures can&apos;t telepathically communicate with the target unless the target allows it, and the target has advantage on saving throws against any effect that would determine whether it is telling the truth.
 
 Source:	Unearthed Arcana: Fighter, Rogue, and Wizard p. 8</text>
   </spell>

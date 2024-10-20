@@ -131,9 +131,9 @@ Source:	Unearthed Arcana: Starter Spells p. 3</text>
     <ritual>NO</ritual>
     <time>1 minute</time>
     <range>Self</range>
-    <components>V, S, M (alchemist's supplies)</components>
+    <components>V, S, M (alchemist&apos;s supplies)</components>
     <duration>24 hours</duration>
-    <text>You create a healing elixir in a simple vial that appears in your hand. The elixir retains its potency for the duration or until it's consumed, at which point the vial vanishes.
+    <text>You create a healing elixir in a simple vial that appears in your hand. The elixir retains its potency for the duration or until it&apos;s consumed, at which point the vial vanishes.
 
 As an action, a creature can drink the elixir or administer it to another creature. The drinker regains 2d4 + 2 hit points.
 
@@ -204,7 +204,7 @@ Source:	Unearthed Arcana: Starter Spells p. 3</text>
     <range>Self</range>
     <components>V, S</components>
     <duration>Concentration, up to 10 minutes</duration>
-    <text>You attune your senses to pick up the emotions of others for the duration. When you cast the spell, and as your action on each turn until the spell ends, you can focus your senses on one humanoid you can see within 30 feet of you. You instantly learn the target's prevailing emotion, whether it's love, anger, pain, fear, calm, or something else. If the target isn't actually humanoid or it is immune to being charmed, you sense that it is calm.
+    <text>You attune your senses to pick up the emotions of others for the duration. When you cast the spell, and as your action on each turn until the spell ends, you can focus your senses on one humanoid you can see within 30 feet of you. You instantly learn the target's prevailing emotion, whether it&apos;s love, anger, pain, fear, calm, or something else. If the target isn&apos;t actually humanoid or it is immune to being charmed, you sense that it is calm.
 
 Source:	Unearthed Arcana: Starter Spells p. 4</text>
   </spell>
@@ -333,7 +333,7 @@ Source:	Unearthed Arcana: Starter Spells p. 5</text>
     <range>Self</range>
     <components>V</components>
     <duration>Concentration, up to 1 minute</duration>
-    <text>You move like the wind. For the duration, your movement doesn't provoke opportunity attacks.
+    <text>You move like the wind. For the duration, your movement doesn&apos;t provoke opportunity attacks.
 
 In addition, the first time you make a weapon attack on your turn before the spell ends, you make the attack roll with advantage, and your speed increases by 30 feet until the end of that turn.
 

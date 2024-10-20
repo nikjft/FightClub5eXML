@@ -5,7 +5,7 @@
     <autolevel level="3">
       <feature optional="YES">
         <name>Roguish Archetype: Soulknife (UA)</name>
-        <text>Most assassins strike with physical weapons, and many burglars and spies use thieves' tools to infiltrate secure locations, whereas a Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These rogues discover psionic power within themselves and channel it to do their roguish work. They find easy employment as members of thieves' guilds, though they are often mistrusted by rogues who are leery of anyone using strange mind powers to conduct their business, and most governments would be happy to employ a Soulknife as a spy.
+        <text>Most assassins strike with physical weapons, and many burglars and spies use thieves&apos; tools to infiltrate secure locations, whereas a Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These rogues discover psionic power within themselves and channel it to do their roguish work. They find easy employment as members of thieves&apos; guilds, though they are often mistrusted by rogues who are leery of anyone using strange mind powers to conduct their business, and most governments would be happy to employ a Soulknife as a spy.
 
 Amid the trees of ancient forests on the Material Plane and in the Feywild, some wood elves walk the path of the Soulknife, serving as silent, lethal guardians of their woods. In the endless war among the gith, a githzerai is encouraged to become a Soulknife when stealth is required against the githyanki foe, and in the world of Athas, a Sorcerer-King often turns to a Soulknife to eliminate an enemy, just as an insurgent Soulknife seeks to undermine that Sorcerer-King's rule.
 
@@ -57,7 +57,7 @@ Source:	Unearthed Arcana: 2020 Psionic Options Revisited p. 3</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Soulknife (UA): Soulknife</name>
-        <text>A Soulknife possesses powerful psionic potential. They channel this reservoir of inner magic into tangible blades of psychic energy, striking at their victims' minds. They find easy employment as members of thieves' guilds, being particularly sought after as assassins, since their signature psychic blades leave behind no visible wounds.
+        <text>A Soulknife possesses powerful psionic potential. They channel this reservoir of inner magic into tangible blades of psychic energy, striking at their victims&apos; minds. They find easy employment as members of thieves&apos; guilds, being particularly sought after as assassins, since their signature psychic blades leave behind no visible wounds.
 
 As a Soulknife, your psionic abilities might have haunted you since you were a child, only revealing their potential when your psychic knives first appeared. Or you might have sought out a reclusive order of psionic assassins and spent years learning how to manifest your deadly blades.
 
@@ -86,7 +86,7 @@ Source:	Unearthed Arcana: 2020 Psionic Options Revisited p. 3</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Soulknife (UA): Psychic Blade</name>
-        <text>As a bonus action, you can create a magical blade of shimmering psychic power from one or both of your hands. While one of your hands is manifesting a blade, you can't hold anything in that hand. You can dismiss one or both blades at any time (no action required), and they disappear if you're incapacitated.
+        <text>As a bonus action, you can create a magical blade of shimmering psychic power from one or both of your hands. While one of your hands is manifesting a blade, you can&apos;t hold anything in that hand. You can dismiss one or both blades at any time (no action required), and they disappear if you&apos;re incapacitated.
 
 The blade is a simple melee weapon with the finesse, light, and thrown properties. It has a normal range of 30 feet and a long range of 60 feet, and it deals 1d6 psychic damage on a hit. If you throw the blade as part of an attack, it vanishes immediately after it hits or misses its target. The blade otherwise disappears the instant it leaves your hand.
 
@@ -125,7 +125,7 @@ Source:	Unearthed Arcana: 2020 Psionic Options Revisited p. 3</text>
     <autolevel level="9">
       <feature optional="YES">
         <name>Soulknife (UA): Terrifying Blade</name>
-        <text>Your psychic blades can now stoke terror within a target: When you damage a creature with your Psychic Blade, you can force the target to make a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Intelligence modifier). On a failed save, the creature is frightened of you until the start of your next turn. On a successful save, the creature isn't frightened and is immune to your Terrifying Blade for 24 hours.
+        <text>Your psychic blades can now stoke terror within a target: When you damage a creature with your Psychic Blade, you can force the target to make a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Intelligence modifier). On a failed save, the creature is frightened of you until the start of your next turn. On a successful save, the creature isn&apos;t frightened and is immune to your Terrifying Blade for 24 hours.
 
 Source:	Unearthed Arcana: 2020 Psionic Options Revisited p. 3</text>
       </feature>
@@ -164,7 +164,7 @@ Source:	Unearthed Arcana: 2020 Psionic Options Revisited p. 3</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Soulknife (UA): Rend Mind</name>
-        <text>You can sweep your Psychic Blades directly through a creature's mind. When you use your Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier). Unless the save succeeds, the target is stunned until the end of your next turn.
+        <text>You can sweep your Psychic Blades directly through a creature&apos;s mind. When you use your Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier). Unless the save succeeds, the target is stunned until the end of your next turn.
 
 Once you use this feature, you can't do so again until you finish a long rest, unless you decrease your Psionic Talent die by one die size to use this feature again.
 
@@ -180,7 +180,7 @@ Source:	Unearthed Arcana: 2020 Psionic Options Revisited p. 3</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Soulknife (UA): Rend Mind</name>
-        <text>You can sweep your Psychic Blade directly through a creature's mind.
+        <text>You can sweep your Psychic Blade directly through a creature&apos;s mind.
 
 As an action while you have at least one Psychic Blade manifested, you can force a creature you can see within 30 feet of you to make an Intelligence saving throw (DC equal to 10 + your proficiency bonus + your Intelligence modifier). If you are hidden from the target, it has disadvantage on the save. On a failed save, the target takes 12d6 psychic damage, and it is stunned until the start of your next turn. On a successful save, the target takes half as much damage and isn't stunned. One of your Psychic Blades vanishes after using this feature.
 

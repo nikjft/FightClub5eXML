@@ -22,7 +22,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 66 (Homebrew)</text>
     <type>W</type>
     <weight/>
     <value/>
-    <text>This amulet is made of a blue crystal, and seems to have a large grey moth entombed within. As a bonus action while wearing this amulet in moonlight or in the Feywild, you can manifest ethereal moth wings from your back, gaining a flying speed of 30 feet. The wings persist for 1 hour, but become useless while you are in bright light. Once you manifest the wings, you can't do so again until the next dusk.</text>
+    <text>This amulet is made of a blue crystal, and seems to have a large grey moth entombed within. As a bonus action while wearing this amulet in moonlight or in the Feywild, you can manifest ethereal moth wings from your back, gaining a flying speed of 30 feet. The wings persist for 1 hour, but become useless while you are in bright light. Once you manifest the wings, you can&apos;t do so again until the next dusk.</text>
   </item>
   <item>
     <name>Anklet of Potential</name>
@@ -36,13 +36,13 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 66 (Homebrew)</text>
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 66 (Homebrew)</text>
   </item>
   <item>
-    <name>Aundra's Magic Bracers</name>
+    <name>Aundra&apos;s Magic Bracers</name>
     <detail>rare (requires attunement)</detail>
     <magic>YES</magic>
     <type>W</type>
     <weight/>
     <value/>
-    <text>These bracers have 5 charges. While you are attuned to these bracers, you can expend 1 charge after you cast a spell to reroll any roll of 1 on the spell's damage dice but you may not use this effect more than once per turn. You can also use your reaction when you are hit by a spell attack roll to expend 1 charge, giving you a +1 bonus to AC against it and possibly preventing the effects of that spell. The bracers regain 1d4+1 charges daily at dawn.
+    <text>These bracers have 5 charges. While you are attuned to these bracers, you can expend 1 charge after you cast a spell to reroll any roll of 1 on the spell&apos;s damage dice but you may not use this effect more than once per turn. You can also use your reaction when you are hit by a spell attack roll to expend 1 charge, giving you a +1 bonus to AC against it and possibly preventing the effects of that spell. The bracers regain 1d4+1 charges daily at dawn.
 
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 66 (Homebrew)</text>
     <roll>1d4+1</roll>
@@ -54,7 +54,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 66 (Homebrew)</text>
     <type>W</type>
     <weight/>
     <value/>
-    <text>Crafted from blink dog hide, these boots confer a semblance of their abilities. While wearing the boots, you can cast the misty step spell once. You can't do so again until the next dawn.
+    <text>Crafted from blink dog hide, these boots confer a semblance of their abilities. While wearing the boots, you can cast the misty step spell once. You can&apos;t do so again until the next dawn.
 
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 66 (Homebrew)</text>
   </item>
@@ -104,7 +104,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 67 (Homebrew)</text>
     <type>W</type>
     <weight/>
     <value/>
-    <text>Made of living vines, this cloak normally acts as a garment, but comes alive and acts on its wearer's will when needed. While wearing the cloak, you have a climbing speed of 30 feet, and have resistance to poison damage.
+    <text>Made of living vines, this cloak normally acts as a garment, but comes alive and acts on its wearer&apos;s will when needed. While wearing the cloak, you have a climbing speed of 30 feet, and have resistance to poison damage.
 
 As a reaction when you are knocked prone, you can immediately stand up as the vines grant you support.
 
@@ -134,7 +134,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 67 (Homebrew)</text>
     <type>W</type>
     <weight/>
     <value/>
-    <text>The diadem has six gems, each representing a charge the diadem can have. It recovers 1d4+1 charges each morning. The wearer can expend a charge to reroll a failed Intelligence, Wisdom, or Charisma save. If the reroll fails, a gem breaks and the diadem's maximum amount of charges decreases by 1.
+    <text>The diadem has six gems, each representing a charge the diadem can have. It recovers 1d4+1 charges each morning. The wearer can expend a charge to reroll a failed Intelligence, Wisdom, or Charisma save. If the reroll fails, a gem breaks and the diadem&apos;s maximum amount of charges decreases by 1.
 
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 67 (Homebrew)</text>
     <roll>1d4+1</roll>
@@ -151,7 +151,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 67 (Homebrew)</text>
     <dmg2/>
     <dmgType>P</dmgType>
     <range>150/600</range>
-    <text>This longbow is decorated with gems all up and down each side. You can use a bonus action to speak the longbow's command word and pick either acid, cold, fire, lightning, or thunder damage. For the rest of your turn, attacks with this longbow deal an additional 2d6 of the specified damage on a hit.
+    <text>This longbow is decorated with gems all up and down each side. You can use a bonus action to speak the longbow&apos;s command word and pick either acid, cold, fire, lightning, or thunder damage. For the rest of your turn, attacks with this longbow deal an additional 2d6 of the specified damage on a hit.
 
 Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
 
@@ -169,13 +169,13 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 67,
     <roll>2d6</roll>
   </item>
   <item>
-    <name>Enidda's Tea Set</name>
+    <name>Enidda&apos;s Tea Set</name>
     <detail>uncommon (requires attunement)</detail>
     <magic>YES</magic>
     <type>W</type>
     <weight/>
     <value/>
-    <text>This is a finely crafted child's toy tea set in a wooden case. To activate the tea set's magical properties, you must perform a 10 minute ritual in which you host an imaginary tea party. This requires having a solid, relatively flat surface in which to set up all parts of the tea set (a tablecloth, five plates, five cups, and a teapot). At the end of the ritual, you conjure four invisible servants, as if by the unseen servant spell. They disappear after 1 hour or until you dismiss any number of them as a bonus action.
+    <text>This is a finely crafted child&apos;s toy tea set in a wooden case. To activate the tea set&apos;s magical properties, you must perform a 10 minute ritual in which you host an imaginary tea party. This requires having a solid, relatively flat surface in which to set up all parts of the tea set (a tablecloth, five plates, five cups, and a teapot). At the end of the ritual, you conjure four invisible servants, as if by the unseen servant spell. They disappear after 1 hour or until you dismiss any number of them as a bonus action.
 
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 67 (Homebrew)</text>
   </item>
@@ -186,7 +186,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 67 (Homebrew)</text>
     <type>P</type>
     <weight/>
     <value/>
-    <text>This thin, light blue liquid has a sparrow's feather suspended in the center. A creature that drinks this potion weighs one tenth their normal weight and is under the effects of the feather fall and jump spells for 1 hour.
+    <text>This thin, light blue liquid has a sparrow&apos;s feather suspended in the center. A creature that drinks this potion weighs one tenth their normal weight and is under the effects of the feather fall and jump spells for 1 hour.
 
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 67 (Homebrew)</text>
   </item>
@@ -208,7 +208,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 67 (Homebrew)</text>
     <type>W</type>
     <weight/>
     <value/>
-    <text>A figurine of wondrous power is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.
+    <text>A figurine of wondrous power is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn&apos;t enough space for the creature, the figurine doesn&apos;t become a creature.
 
 The creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.
 
@@ -295,7 +295,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 69 (Homebrew)</text>
     <dmg1>1d8</dmg1>
     <dmg2/>
     <dmgType>P</dmgType>
-    <text>Prized by elven duelists, this golden rapier was forged in the feywild and imbued with the realm's chaotic qualities. This weapon has the Light property, and you gain a +2 bonus to attack and damage rolls made with this magic weapon.
+    <text>Prized by elven duelists, this golden rapier was forged in the feywild and imbued with the realm&apos;s chaotic qualities. This weapon has the Light property, and you gain a +2 bonus to attack and damage rolls made with this magic weapon.
 
 The rapier has 5 charges, regaining 1d4 + 1 expended charges each day at dawn. When you roll a 1 on the d20 for an attack roll using the rapier, you expend a charge to reroll the die. You must use the new roll.
 
@@ -353,7 +353,7 @@ Proficiency: simple, shortbow
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 69 (Homebrew)</text>
   </item>
   <item>
-    <name>Hlam's Welded Gauntlets</name>
+    <name>Hlam&apos;s Welded Gauntlets</name>
     <detail>gauntlets, uncommon</detail>
     <type>M</type>
     <weight>1</weight>
@@ -400,7 +400,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 70 (Homebrew)</text>
     <dmg1>1d6</dmg1>
     <dmg2/>
     <dmgType>P</dmgType>
-    <text>This blade is fashioned from a lock of a medusa's hair. You have a +1 bonus to attack and damage rolls made with this magic weapon.
+    <text>This blade is fashioned from a lock of a medusa&apos;s hair. You have a +1 bonus to attack and damage rolls made with this magic weapon.
 
 Bite: On a critical hit, the target takes an extra 2d6 poison damage. Once per day when you reduce a creature to 0 HP, you can choose to petrify them. This condition lasts for 24 hours or until you dispel it as an action by touching the blade's hilt to the target.
 
@@ -435,7 +435,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 70 (Homebrew)</text>
     <type>W</type>
     <weight/>
     <value/>
-    <text>This tome contains information and incantations necessary to make a particular type of exotic golem. To decipher and use the manual, you must be a spellcaster with at least two 5th-level spell slots. A creature that can't use a manual of exotic golems and attempts to read it takes 8d6 psychic damage.
+    <text>This tome contains information and incantations necessary to make a particular type of exotic golem. To decipher and use the manual, you must be a spellcaster with at least two 5th-level spell slots. A creature that can&apos;t use a manual of exotic golems and attempts to read it takes 8d6 psychic damage.
 
 1d20 | Manual Type | Time | Cost
 1-10 | Manual of Snow Golems | 10 days | 5,000 gp
@@ -462,7 +462,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 70 (Homebrew)</text>
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
-    <text>The mimaxe is a living weapon, the result of a mimic's unlucky encounter with a magical goblin blacksmith. You have a +1 bonus to attack and damage rolls made with this magic battleaxe.
+    <text>The mimaxe is a living weapon, the result of a mimic&apos;s unlucky encounter with a magical goblin blacksmith. You have a +1 bonus to attack and damage rolls made with this magic battleaxe.
 
 Hungry:
 The mimaxe has 3 charges and recovers spent charges by consuming corpses. It takes 1 minute to consume a corpse. A Small corpse restores 1 charge, a Medium corpse 2, and a Large corpse 3. The mimaxe does not benefit from eating Tiny corpses and cannot eat Huge or Gargantuan corpses. It cannot have more than 3 charges at once, and a full mimaxe refuses to consume any additional corpses.
@@ -502,7 +502,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 70 (Homebrew)</text>
     <type>W</type>
     <weight/>
     <value/>
-    <text>This 1-foot square glass panel has resistance to nonmagical bludgeoning, piercing, and slashing damage from weapons that aren't adamantine, and immune to the effects of the magic missile spell. This is commonly used for windows in banks, government offices, strongholds, castles, and other prominent locations.
+    <text>This 1-foot square glass panel has resistance to nonmagical bludgeoning, piercing, and slashing damage from weapons that aren&apos;t adamantine, and immune to the effects of the magic missile spell. This is commonly used for windows in banks, government offices, strongholds, castles, and other prominent locations.
 
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 71 (Homebrew)</text>
   </item>
@@ -524,7 +524,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 71 (Homebrew)</text>
     <type>W</type>
     <weight/>
     <value/>
-    <text>This enchanted lock appears no different than its mundane equivalent. It requires a DC 15 Dexterity (Thieves' Tools) check to pick open. Each time a creature attempts to pick the lock and fails, the lock suddenly absorbs the lockpick and incorporates the material into its mechanism, effectively making the set of thieves' tools unusable. The DC to pick this lock then increases by 1, but cannot increase above 25 in this way.
+    <text>This enchanted lock appears no different than its mundane equivalent. It requires a DC 15 Dexterity (Thieves&apos; Tools) check to pick open. Each time a creature attempts to pick the lock and fails, the lock suddenly absorbs the lockpick and incorporates the material into its mechanism, effectively making the set of thieves&apos; tools unusable. The DC to pick this lock then increases by 1, but cannot increase above 25 in this way.
 
 Pick-eating locks encountered in adventuring environments often have higher DCs as a result of previous adventurers' failed attempts.
 
@@ -552,7 +552,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 71 (Homebrew)</text>
     <type>W</type>
     <weight/>
     <value/>
-    <text>This small, fragile glass ball is imbued with a teleport spell. When broken, it takes up to 9 willing creatures within 10 feet of it to a predetermined location (determined when creating the orb). These creatures are aware they have the option to teleport, but do not know the location or plane of existence they're being teleported to. It has no effect on unwilling creatures. If 10 or more creatures within 10 feet of the orb willingly want to teleport with it, each one has a 50% chance of actually going.
+    <text>This small, fragile glass ball is imbued with a teleport spell. When broken, it takes up to 9 willing creatures within 10 feet of it to a predetermined location (determined when creating the orb). These creatures are aware they have the option to teleport, but do not know the location or plane of existence they&apos;re being teleported to. It has no effect on unwilling creatures. If 10 or more creatures within 10 feet of the orb willingly want to teleport with it, each one has a 50% chance of actually going.
 
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 71 (Homebrew)</text>
   </item>
@@ -613,13 +613,13 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 71 (Homebrew)</text>
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 72 (Homebrew)</text>
   </item>
   <item>
-    <name>Tasha's Cauldron</name>
+    <name>Tasha&apos;s Cauldron</name>
     <detail>artifact (requires attunement by an artificer, druid, warlock or wizard)</detail>
     <magic>YES</magic>
     <type>W</type>
     <weight>80</weight>
     <value/>
-    <text>Tasha's Cauldron is a massive bronze cauldron 3 feet high and nearly 4 feet across. The inner rim of the cauldron is carved with runes of power and control. Any liquid placed in the cauldron will start to steam after a minute and boil after 10 minutes whether or not the fire under the cauldron is lit. The cauldron has two thick bronze rings that serve as handles but the caudron is too heavy to be moved easily.
+    <text>Tasha&apos;s Cauldron is a massive bronze cauldron 3 feet high and nearly 4 feet across. The inner rim of the cauldron is carved with runes of power and control. Any liquid placed in the cauldron will start to steam after a minute and boil after 10 minutes whether or not the fire under the cauldron is lit. The cauldron has two thick bronze rings that serve as handles but the caudron is too heavy to be moved easily.
 
 The cauldron was originally a gift from Tasha's adopted mother, Baba Yaga. Baba Yaga was a witch of tremendous power who demanded the respect of both demon lords and angelic princes. Baba Yaga gave the cauldron to Tasha when Tasha announced her desire to explore the multiverse, to help her in her travels. However, the cauldron was so heavy Tasha was forced to leave it in Baba Yaga's chicken legged hut. Baba Yaga assured Tasha she would come if Tasha ever needed to use her cauldron, allowing the ancient witch to check up on her daughter. Tasha bristled at the thought of leaving such a powerful item with her mother, but it was too heavy to move. Tasha called on her adopted mother as sparingly as possible until she was able to create a permanent lair in the Lost Caverns of Tsojcanth. The cauldron served her well for the years she ruled a vast empire from the caverns, but it was lost when Tasha was forced to flee when armies of allied nations brought her empire to ruin.
 
@@ -660,7 +660,7 @@ Destroying Tasha's Cauldron is one of the most difficult prospects in the multiv
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 72 (Homebrew)</text>
   </item>
   <item>
-    <name>Tenser's Folding Disk</name>
+    <name>Tenser&apos;s Folding Disk</name>
     <detail>uncommon (requires attunement)</detail>
     <magic>YES</magic>
     <type>W</type>
@@ -679,7 +679,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 73 (Homebrew)</text>
     <type>W</type>
     <weight/>
     <value/>
-    <text>This volume, titled "The Languages of Beasts," allows you to learn how to communicate your general ideas with animals. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing the nuances it contains, you can speak with any beast as if you were under the effects of a speak with animals spell.
+    <text>This volume, titled "The Languages of Beasts," allows you to learn how to communicate your general ideas with animals. If you spend 48 hours over a period of 6 days or fewer studying the book&apos;s contents and practicing the nuances it contains, you can speak with any beast as if you were under the effects of a speak with animals spell.
 
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 73 (Homebrew)</text>
   </item>
@@ -706,7 +706,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 73 (Homebrew)</text>
     <dmg2/>
     <dmgType>P</dmgType>
     <range>20/60</range>
-    <text>This black dagger confers some of its unseelie darkness on its targets. Once each turn when you hit a creature with this weapon, you can choose to curse the creature until the end of its next turn. The cursed creature has darkvision with a radius of 60 feet, and has disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight whenever it, its target, or the thing it's trying to perceive is in sunlight.
+    <text>This black dagger confers some of its unseelie darkness on its targets. Once each turn when you hit a creature with this weapon, you can choose to curse the creature until the end of its next turn. The cursed creature has darkvision with a radius of 60 feet, and has disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight whenever it, its target, or the thing it&apos;s trying to perceive is in sunlight.
 
 Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
@@ -720,7 +720,7 @@ Proficiency: simple, dagger
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 73 (Homebrew)</text>
   </item>
   <item>
-    <name>Vajra's Antiwand</name>
+    <name>Vajra&apos;s Antiwand</name>
     <detail>very rare</detail>
     <magic>YES</magic>
     <type>WD</type>
@@ -740,7 +740,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 73 (Homebrew)</text>
     <type>W</type>
     <weight/>
     <value/>
-    <text>This necklace is made from teeth taken from a living wereboar and strung onto silver wire in a cruel ritual. While attuned to this item, you can use your action to polymorph into a giant boar, as if by the polymorph spell. The necklace does not meld into the boar form, but changes size and remains around the boar's neck. Once used, you cannot use this ability again until you finish a short or long rest.
+    <text>This necklace is made from teeth taken from a living wereboar and strung onto silver wire in a cruel ritual. While attuned to this item, you can use your action to polymorph into a giant boar, as if by the polymorph spell. The necklace does not meld into the boar form, but changes size and remains around the boar&apos;s neck. Once used, you cannot use this ability again until you finish a short or long rest.
 
 Curse:
 The necklace is cursed and becoming attuned to it extends that curse to you. As long as you remain cursed in this way, the necklace tightens around your neck and cannot be removed except by a remove curse spell or similar magic. While cursed, you are vulnerable to bludgeoning, piercing and slashing damage from silvered weapons. Whenever you take bludgeoning, piercing, or slashing damage from any source, you must succeed on a DC10 Constitution saving throw or else take an additional 1d4 slashing damage as the necklace digs into your skin. If you fail this saving throw by 5 or more, you contract lycanthropy and become a wereboar.
@@ -755,7 +755,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 73 (Homebrew)</text>
     <type>RG</type>
     <weight/>
     <value/>
-    <text>This ring is adorned with a small crystal that glows with a rainbow light and is attuned to a specific elemental damage type (acid, cold, fire, lightning, or thunder). The ring has 5 charges, and all expended charges are regained each day at dawn. When you hit with a weapon attack, you can expend 1 charge to add 1d4 of the ring's elemental type to the damage roll.
+    <text>This ring is adorned with a small crystal that glows with a rainbow light and is attuned to a specific elemental damage type (acid, cold, fire, lightning, or thunder). The ring has 5 charges, and all expended charges are regained each day at dawn. When you hit with a weapon attack, you can expend 1 charge to add 1d4 of the ring&apos;s elemental type to the damage roll.
 
 Source:	Tasha's Crucible of Everything Else, Volume 1 p. 73 (Homebrew)</text>
     <roll>1d4</roll>
@@ -982,7 +982,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 67 (Homebrew)</text>
     <type>G</type>
     <weight/>
     <value/>
-    <text>Mithral is a light, flexible metal. If a weapon normally has the Heavy or Two-Handed properties, the mithral version doesn't. If a weapon normally has the Finesse property, the mithral version also has the Light property.
+    <text>Mithral is a light, flexible metal. If a weapon normally has the Heavy or Two-Handed properties, the mithral version doesn&apos;t. If a weapon normally has the Finesse property, the mithral version also has the Light property.
 
 Mithral Battleaxe
 Mithral Blowgun

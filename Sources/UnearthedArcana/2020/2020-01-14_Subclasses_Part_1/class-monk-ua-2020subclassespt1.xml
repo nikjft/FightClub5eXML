@@ -47,7 +47,7 @@ Source:	Unearthed Arcana: 2020 Subclasses Pt1 p. 2</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Way of Mercy (UA): Implements of Mercy</name>
-        <text>You gain proficiency in the Insight or Medicine skill (your choice), and you gain proficiency with the herbalism kit and the poisoner's kit.
+        <text>You gain proficiency in the Insight or Medicine skill (your choice), and you gain proficiency with the herbalism kit and the poisoner&apos;s kit.
 
 Source:	Unearthed Arcana: 2020 Subclasses Pt1 p. 2</text>
       </feature>
@@ -56,7 +56,7 @@ Source:	Unearthed Arcana: 2020 Subclasses Pt1 p. 2</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Way of Mercy (UA): Noxious Aura</name>
-        <text>As a bonus action, you spend 1 ki point to turn your ki into an aura of toxic miasma. The aura extends 5 feet from you in every direction, but not through total cover. It lasts for 1 minute, until you're incapacitated, or you dismiss it (no action required).
+        <text>As a bonus action, you spend 1 ki point to turn your ki into an aura of toxic miasma. The aura extends 5 feet from you in every direction, but not through total cover. It lasts for 1 minute, until you&apos;re incapacitated, or you dismiss it (no action required).
 
 While your aura is active, ranged attacks have disadvantage against you. Any other creature that starts its turn in the aura must succeed on a Constitution saving throw or become poisoned until the end of your next turn and take poison damage equal to your Wisdom modifier (minimum of 0 damage).
 

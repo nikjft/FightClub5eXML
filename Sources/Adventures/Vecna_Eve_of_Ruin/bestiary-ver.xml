@@ -22,7 +22,7 @@
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>10</passive>
-    <languages>understands the languages it knew in life but can't speak</languages>
+    <languages>understands the languages it knew in life but can&apos;t speak</languages>
     <cr>6</cr>
     <description>Source:	Vecna: Eve of Ruin p. 208</description>
     <trait>
@@ -535,7 +535,7 @@ The dryad casts one of the following spells, requiring no material components an
     <skill>stealth +8, perception +13</skill>
     <resist/>
     <vulnerable/>
-    <immune>poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</immune>
+    <immune>poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</immune>
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>23</passive>
@@ -553,7 +553,7 @@ The dryad casts one of the following spells, requiring no material components an
 If the deathwolf fails a saving throw, it can choose to succeed instead.</text>
     </trait>
     <trait>
-      <name>Moon's Grace</name>
+      <name>Moon&apos;s Grace</name>
       <text>
 When the deathwolf falls, it descends at a rate of 60 feet per round and takes no falling damage.</text>
     </trait>
@@ -760,7 +760,7 @@ The false lich uses Spellcasting.</text>
     <skill/>
     <resist/>
     <vulnerable/>
-    <immune>poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine</immune>
+    <immune>poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t adamantine</immune>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone</conditionImmune>
     <senses>blindsight 120 ft.</senses>
     <passive>10</passive>
@@ -952,7 +952,7 @@ The hertilod drains life from the creatures in its gullet to bolster itself. Eac
     <conditionImmune>poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>13</passive>
-    <languages>understands Abyssal but can't speak</languages>
+    <languages>understands Abyssal but can&apos;t speak</languages>
     <cr>5</cr>
     <description>Source:	Vecna: Eve of Ruin p. 234</description>
     <trait>
@@ -1084,7 +1084,7 @@ While within 5 feet of a reflective surface, such as a mirror, the mirror shade 
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>11</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>6</cr>
     <description>Source:	Vecna: Eve of Ruin p. 227</description>
     <trait>
@@ -1384,7 +1384,7 @@ The raklupis magically ends the charmed and frightened conditions on itself and 
     <conditionImmune>charmed, exhaustion, frightened</conditionImmune>
     <senses>darkvision 120 ft.</senses>
     <passive>17</passive>
-    <languages>understands all languages but can't speak</languages>
+    <languages>understands all languages but can&apos;t speak</languages>
     <cr>15</cr>
     <description>Source:	Vecna: Eve of Ruin p. 231</description>
     <trait>
@@ -1537,7 +1537,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <vulnerable/>
     <immune/>
     <conditionImmune/>
-    <senses>blindsight 120 ft. (can't see beyond this radius)</senses>
+    <senses>blindsight 120 ft. (can&apos;t see beyond this radius)</senses>
     <passive>15</passive>
     <languages/>
     <cr>8</cr>
@@ -1714,7 +1714,7 @@ When an attacker the warforged can see makes an attack roll against a creature w
     <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>blindsight 60 ft. (blind beyond this radius)</senses>
     <passive>7</passive>
-    <languages>understands Common but can't speak</languages>
+    <languages>understands Common but can&apos;t speak</languages>
     <cr>7</cr>
     <description>Source:	Vecna: Eve of Ruin p. 239</description>
     <trait>
@@ -1862,11 +1862,11 @@ Alustriel interrupts a creature she can see within 60 feet of herself that is ca
     <skill>stealth +3, perception +4</skill>
     <resist/>
     <vulnerable/>
-    <immune>bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</immune>
+    <immune>bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</immune>
     <conditionImmune/>
     <senses/>
     <passive>14</passive>
-    <languages>Common (can't speak in wolf form)</languages>
+    <languages>Common (can&apos;t speak in wolf form)</languages>
     <cr>3</cr>
     <description>Source:	Vecna: Eve of Ruin p. </description>
     <trait>
@@ -2107,7 +2107,7 @@ Eldon is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save
     <cha>18</cha>
     <save>wis +6, con +8, dex +7, cha +8</save>
     <skill/>
-    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>fire, poison</immune>
     <conditionImmune>poisoned</conditionImmune>
@@ -2907,7 +2907,7 @@ Each creature grappled by Kevetta must make a DC 15 Wisdom saving throw, taking 
     <cha>19</cha>
     <save>str +12, wis +8, con +10</save>
     <skill>intimidation +10, perception +8</skill>
-    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>fire, poison</immune>
     <conditionImmune>frightened, poisoned</conditionImmune>
@@ -2921,7 +2921,7 @@ Each creature grappled by Kevetta must make a DC 15 Wisdom saving throw, taking 
       <text>+6</text>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede Khai's darkvision.</text>
     </trait>
@@ -2985,7 +2985,7 @@ Khai targets one Dragon it can see within 120 feet of it. The Dragon must make a
     <conditionImmune/>
     <senses/>
     <passive>13</passive>
-    <languages>Thieves' cant plus any two languages</languages>
+    <languages>Thieves&apos; cant plus any two languages</languages>
     <cr>8</cr>
     <description>Source:	Vecna: Eve of Ruin p. </description>
     <trait>
@@ -3099,7 +3099,7 @@ Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slash
     <conditionImmune/>
     <senses/>
     <passive>13</passive>
-    <languages>Thieves' cant plus any two languages</languages>
+    <languages>Thieves&apos; cant plus any two languages</languages>
     <cr>8</cr>
     <description>Source:	Vecna: Eve of Ruin p. </description>
     <trait>
@@ -3313,7 +3313,7 @@ Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) bludge
 Naxa magically summons a quasit, or attempts to summon a shadow demon with a 50 chance of success. The summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.</text>
     </action>
     <slots/>
-    <spells>dancing lights, darkness, faerie fire, levitate, mage hand, minor illusion, poison spray, ray of frost, mage armor, magic missile, shield, witch bolt, alter self, misty step, web, fly, lightning bolt, evard's black tentacles, greater invisibility, cloudkill</spells>
+    <spells>dancing lights, darkness, faerie fire, levitate, mage hand, minor illusion, poison spray, ray of frost, mage armor, magic missile, shield, witch bolt, alter self, misty step, web, fly, lightning bolt, evard&apos;s black tentacles, greater invisibility, cloudkill</spells>
   </monster>
   <monster>
     <name>Nyssa Otellion</name>
@@ -3331,7 +3331,7 @@ Naxa magically summons a quasit, or attempts to summon a shadow demon with a 50 
     <cha>18</cha>
     <save>wis +12, int +12</save>
     <skill>arcana +12</skill>
-    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>fire, lightning, poison</immune>
     <conditionImmune>poisoned</conditionImmune>
@@ -3345,7 +3345,7 @@ Naxa magically summons a quasit, or attempts to summon a shadow demon with a 50 
       <text>+6</text>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede Nyssa's darkvision.</text>
     </trait>
@@ -3717,7 +3717,7 @@ Rerak uses Spellcasting.</text>
     <cha>19</cha>
     <save>cha +9, int +8</save>
     <skill>persuasion +9, insight +6, deception +9, perception +6</skill>
-    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <vulnerable/>
     <immune>fire, poison</immune>
     <conditionImmune>poisoned</conditionImmune>
@@ -3731,7 +3731,7 @@ Rerak uses Spellcasting.</text>
       <text>+5</text>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede Rezran's darkvision.</text>
     </trait>
@@ -3781,11 +3781,11 @@ Rezran casts one of the following spells, requiring no material components and u
     <skill>stealth +3, perception +4</skill>
     <resist/>
     <vulnerable/>
-    <immune>bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</immune>
+    <immune>bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</immune>
     <conditionImmune/>
     <senses/>
     <passive>14</passive>
-    <languages>Common (can't speak in wolf form)</languages>
+    <languages>Common (can&apos;t speak in wolf form)</languages>
     <cr>3</cr>
     <description>Source:	Vecna: Eve of Ruin p. </description>
     <trait>
@@ -4055,7 +4055,7 @@ Sarusanda casts one of the following spells, requiring no components and using I
 In response to being hit by an attack roll, Sarusanda increases its AC by 4 against the attack. If this causes the attack to miss, the attacker is hit by the attack instead.</text>
     </reaction>
     <slots/>
-    <spells>detect magic, dispel magic, levitate, mage armor, mage hand, sending, speak with dead, otiluke's resilient sphere, telekinesis</spells>
+    <spells>detect magic, dispel magic, levitate, mage armor, mage hand, sending, speak with dead, otiluke&apos;s resilient sphere, telekinesis</spells>
   </monster>
   <monster>
     <name>Shanzezim</name>
@@ -4342,7 +4342,7 @@ For 1 minute, Tasha gains a flying speed of 30 feet, is immune to poison damage 
 Immediately after Tasha takes damage, she unleashes arcane energy in a 10-foot-radius sphere centered on herself. All other creatures in that area must make a DC 20 Dexterity saving throw, taking 19 (3d12) lightning damage on a failed save or half as much damage on a successful one. Tasha then teleports, along with any equipment she is wearing or carrying, to an unoccupied space she can see within 60 feet of herself.</text>
     </reaction>
     <slots/>
-    <spells>detect magic, disguise self, dispel magic, light, mage hand, message, prestidigitation, tasha's hideous laughter, polymorph, maze, telekinesis</spells>
+    <spells>detect magic, disguise self, dispel magic, light, mage hand, message, prestidigitation, tasha&apos;s hideous laughter, polymorph, maze, telekinesis</spells>
   </monster>
   <monster>
     <name>Teremini Nightsedge</name>
@@ -4561,7 +4561,7 @@ Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) bludge
 Vaeve magically summons a quasit, or attempts to summon a shadow demon with a 50 chance of success. The summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.</text>
     </action>
     <slots>4, 3, 3, 3, 2</slots>
-    <spells>dancing lights, darkness, faerie fire, levitate, mage hand, minor illusion, poison spray, ray of frost, mage armor, magic missile, shield, witch bolt, alter self, misty step, web, fly, lightning bolt, evard's black tentacles, greater invisibility, cloudkill</spells>
+    <spells>dancing lights, darkness, faerie fire, levitate, mage hand, minor illusion, poison spray, ray of frost, mage armor, magic missile, shield, witch bolt, alter self, misty step, web, fly, lightning bolt, evard&apos;s black tentacles, greater invisibility, cloudkill</spells>
   </monster>
   <monster>
     <name>Valendar</name>
@@ -4581,11 +4581,11 @@ Vaeve magically summons a quasit, or attempts to summon a shadow demon with a 50
     <skill>stealth +3, perception +4</skill>
     <resist/>
     <vulnerable/>
-    <immune>bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</immune>
+    <immune>bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</immune>
     <conditionImmune/>
     <senses/>
     <passive>14</passive>
-    <languages>Common (can't speak in wolf form)</languages>
+    <languages>Common (can&apos;t speak in wolf form)</languages>
     <cr>3</cr>
     <description>Source:	Vecna: Eve of Ruin p. </description>
     <trait>
@@ -4783,7 +4783,7 @@ Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 11 (1d8 + 7) pier
       <attack>Chromatic Rapier|14|1d8 + 7+6d6</attack>
     </action>
     <action>
-      <name>Dragon's Fury</name>
+      <name>Dragon&apos;s Fury</name>
       <text>
 Windfall targets one creature she can see within 60 feet of herself and unleashes a burst of magical ire. The target must make a DC 23 Wisdom saving throw. On a failed save, the target takes 36 (8d8) psychic damage and has the frightened condition until the start of Windfall's next turn. On a successful save, the target takes half as much damage only.</text>
     </action>
@@ -4814,7 +4814,7 @@ Windfall can take 3 legendary actions, choosing from the options below. Only one
 Windfall moves up to her speed without provoking opportunity attacks.</text>
     </legendary>
     <legendary>
-      <name>Dragon's Flare</name>
+      <name>Dragon&apos;s Flare</name>
       <text>
 Windfall flares with multicolored flames and targets a creature she can see within 30 feet of herself. The target must make a DC 23 Dexterity saving throw. On a failed save, the target takes 26 (4d12) damage of a type chosen by Windfall: acid, cold, fire, lightning, or poison. On a successful save, the target takes half as much damage.</text>
     </legendary>

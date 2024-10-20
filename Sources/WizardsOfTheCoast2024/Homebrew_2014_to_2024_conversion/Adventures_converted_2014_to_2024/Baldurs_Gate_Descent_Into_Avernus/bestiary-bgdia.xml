@@ -17,7 +17,7 @@
     <save/>
     <skill/>
     <passive>9</passive>
-    <languages>understands Abyssal but can't speak</languages>
+    <languages>understands Abyssal but can&apos;t speak</languages>
     <cr>1/4</cr>
     <resist>cold, fire, lightning</resist>
     <immune>poison</immune>
@@ -103,7 +103,7 @@ Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one ta
       <text>
 Amrik hurls a smoke bomb up to 20 feet away. The bomb explodes on impact, creating a cloud of black smoke that fills a 10-foot-radius sphere. The area within the cloud is heavily obscured. A strong wind disperses the cloud, which otherwise remains until the end of Amrik's next turn.</text>
     </action>
-    <description>Second son of Duke Thalamra Vanthampur of Baldur's Gate. Amrik loves to exchange pleasantries over drinks before conducting business. He has trained Laraelra's staff to recognize a variety of innocuous hand gestures that signal them to deliver drinks to the table. If he wants poison added to his clients' drinks, he has a secret sign for that. Hidden behind the bar is a small bottle containing four doses of torpor (see "Poisons" in chapter 8 of the Dungeon Master's Guide), which the kenku bartender can use to spike drinks when Amrik gives the signal.
+    <description>Second son of Duke Thalamra Vanthampur of Baldur's Gate. Amrik loves to exchange pleasantries over drinks before conducting business. He has trained Laraelra's staff to recognize a variety of innocuous hand gestures that signal them to deliver drinks to the table. If he wants poison added to his clients&apos; drinks, he has a secret sign for that. Hidden behind the bar is a small bottle containing four doses of torpor (see "Poisons" in chapter 8 of the Dungeon Master&apos;s Guide), which the kenku bartender can use to spike drinks when Amrik gives the signal.
 
 Source:	Baldur's Gate: Descent Into Avernus p. 30</description>
     <environment/>
@@ -127,13 +127,13 @@ Source:	Baldur's Gate: Descent Into Avernus p. 30</description>
     <passive>26</passive>
     <languages>all, telepathy 120 ft.</languages>
     <cr>26</cr>
-    <resist>cold, fire, radiant; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold, fire, radiant; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <immune>necrotic, poison</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede Zariel's darkvision.</text>
     </trait>
@@ -192,7 +192,7 @@ Zariel magically teleports, along with any equipment she is wearing and carrying
     <legendary>
       <name>Legendary Actions (2/Turn)</name>
       <recharge>2/Turn</recharge>
-      <text>Archduke can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Archduke regains spent legendary actions at the start of its turn.</text>
+      <text>Archduke can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Archduke regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Immolating Gaze (Costs 2 Actions)</name>
@@ -235,7 +235,7 @@ Zariel's innate spellcasting ability is Charisma (spell save DC 26). She can inn
 	• 3/Day each: blade barrier, dispel evil and good, finger of death</text>
     </trait>
     <spells>alter self, detect evil and good, fireball, invisibility, wall of fire, blade barrier, dispel evil and good, finger of death</spells>
-    <description>Once a mighty angel charged with watching the tides of the Blood War, Zariel succumbed to the corrupting influence of the Nine Hells and fell from grace. Asmodeus admired Zariel's passion for war and offered her rulersbip of Avernus. She accepted his offer and was transformed by Asmodeus into an archdevil.
+    <description>Once a mighty angel charged with watching the tides of the Blood War, Zariel succumbed to the corrupting influence of the Nine Hells and fell from grace. Asmodeus admired Zariel&apos;s passion for war and offered her rulersbip of Avernus. She accepted his offer and was transformed by Asmodeus into an archdevil.
 
 Zariel's "rise" came at the expense of Bel, her pit fiend predecessor. Zariel and Bel hate each other. To keep Bel busy and out of her sight, Zariel tasks him with forging weapons, armor, and gruesome demon-slaying machines.
 
@@ -314,7 +314,7 @@ Arkhan's spellcasting ability is Charisma (spell save DC 17). He can cast the fo
 	• 1/Day each: geas, raise dead</text>
     </trait>
     <spells>animate dead, branding smite, revivify, geas, raise dead</spells>
-    <description>Arkhan the Cruel is an evil dragonborn champion of Tiamat. Arkhan believes he can use the Hand of Vecna to unlock the means of freeing Tiamat from her prison in the Nine Hells, but only if the hand doesn't kill him first. The hand is slowly corrupting Arkhan's flesh and decomposing his body on one side.
+    <description>Arkhan the Cruel is an evil dragonborn champion of Tiamat. Arkhan believes he can use the Hand of Vecna to unlock the means of freeing Tiamat from her prison in the Nine Hells, but only if the hand doesn&apos;t kill him first. The hand is slowly corrupting Arkhan&apos;s flesh and decomposing his body on one side.
 
 In battle, Arkhan uses branding smite to channel the radiant power of Tiamat into his weapon attacks. If a fight turns against him, he uses the teleport power of the Hand of Vecna to return to his tower with as many allies as possible. Should one or more of his comrades fall in battle, Arkhan uses revivify and raise dead spells to bring them back to life as soon as possible.
 
@@ -343,7 +343,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 111</description>
     <passive>14</passive>
     <languages>Common, Infernal, telepathy 120 ft.</languages>
     <cr>25</cr>
-    <resist>cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <immune>fire, poison</immune>
     <vulnerable/>
     <conditionImmune>poisoned</conditionImmune>
@@ -393,7 +393,7 @@ If the target is a creature, it must succeed on a DC 23 Constitution saving thro
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The fiend (devil) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The fiend (devil) regains spent legendary actions at the start of its turn.</text>
+      <text>The fiend (devil) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The fiend (devil) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Fireball</name>
@@ -420,7 +420,7 @@ Bel's spellcasting ability is Charisma (spell save DC 23). Bel can innately cast
 	• 1/Day each: imprisonment, meteor swarm</text>
     </trait>
     <spells>detect magic, fireball, dispel magic, hold monster, mirror image, mislead, raise dead, teleport, wall of fire, imprisonment, meteor swarm</spells>
-    <description>From his bastion, Zariel's second-in-command and the former lord of Avernus oversees the forges that furnish weapons and armor for the Blood War. Though Asmodeus has instructed Zariel to accept Bel as her advisor, Bel and Zariel loathe each other and invent distractions to keep them apart.
+    <description>From his bastion, Zariel&apos;s second-in-command and the former lord of Avernus oversees the forges that furnish weapons and armor for the Blood War. Though Asmodeus has instructed Zariel to accept Bel as her advisor, Bel and Zariel loathe each other and invent distractions to keep them apart.
 
 Bel outwardly plays the role of Zariel's loyal vassal. However, Bel rankles at Zariel's rulership of the layer of the Nine Hells that was once his, but he won't challenge her directly as long as he thinks Asmodeus supports Zariel.
 
@@ -447,13 +447,13 @@ Source:	Baldur's Gate: Descent Into Avernus p. 115</description>
     <passive>13</passive>
     <languages>Infernal, telepathy 120 ft.</languages>
     <cr>11</cr>
-    <resist>cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <immune>fire, poison</immune>
     <vulnerable/>
     <conditionImmune>poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede Bitter Breath's darkvision.</text>
     </trait>
@@ -490,7 +490,7 @@ Ranged Spell Attack: +7 to hit, range 150 ft., one target. Hit: 14 (4d6) fire da
 If the target is a flammable object that isn't being worn or carried, it also catches fire.</text>
       <attack>Hurl Flame|+7|4d6</attack>
     </action>
-    <description>Bitter Breath is a resentful, vindictive warlord that fell prey to the cutthroat politics of Avernus. Formerly a pit fiend named L'zeth, it strove to undermine Zariel while courting Bel. Shortly after claiming rulership of Avernus, Zariel demoted L'zeth to a homed devil.
+    <description>Bitter Breath is a resentful, vindictive warlord that fell prey to the cutthroat politics of Avernus. Formerly a pit fiend named L&apos;zeth, it strove to undermine Zariel while courting Bel. Shortly after claiming rulership of Avernus, Zariel demoted L&apos;zeth to a homed devil.
 
 For a while, L'zeth nursed its damaged pride. Eventually, the despondent devil reignited its ambitions and became involved in a plot to overthrow Zariel. The archdevil's spies learned of the plot. As further punishment, Zariel removed L'zeth's wings and cursed the horned devil so that it could no longer enter into deals. Any document that L'zeth signs melts away, and any words it utters turn to smoke in its mouth. Thus did L'zeth become known as Bitter Breath.
 
@@ -675,7 +675,7 @@ If Burney fails a saving throw, it can choose to succeed instead.</text>
 Burney has the benefits of the healer feat as well as proficiency with both the healer's kit and the herbalism kit.</text>
     </trait>
     <trait>
-      <name>Bahamut's Blessings</name>
+      <name>Bahamut&apos;s Blessings</name>
       <text>
 Burney has received several blessings in her service to Bahamut:
 
@@ -736,7 +736,7 @@ In a new form, Burney retains its alignment, hit points, Hit Dice, ability to sp
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.</text>
+      <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The dragon regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Detect</name>
@@ -775,7 +775,7 @@ The region containing a legendary copper dragon's lair is warped by the dragon's
 
 If the dragon dies, the magic carvings fade over the course of 1d10 days. The other effects end immediately.</text>
     </legendary>
-    <description>Burney appears as a cheerful, well-kept Calishite woman. She provides all services any proficient barber might, up to and including medical attention for those with injuries or ailments. For healing purposes, treat Burney as though she has the Healer feat as well as proficiency with both the healer's kit and the herbalism kit.
+    <description>Burney appears as a cheerful, well-kept Calishite woman. She provides all services any proficient barber might, up to and including medical attention for those with injuries or ailments. For healing purposes, treat Burney as though she has the Healer feat as well as proficiency with both the healer&apos;s kit and the herbalism kit.
 
 While she works, Burney tells all manner of stories, making them up as she goes along, but always with a moral at the end. Burney's stories might point toward an achievable objective, if the customer is of good alignment and inclined to take direction from the chatty barber.
 
@@ -921,7 +921,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 83</description>
     <environment>forest, urban</environment>
   </monster>
   <monster>
-    <name>Crokek'toeck [2014]</name>
+    <name>Crokek&apos;toeck [2014]</name>
     <size>G</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -937,7 +937,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 83</description>
     <save>Con +12, Wis +5</save>
     <skill/>
     <passive>10</passive>
-    <languages>understands Abyssal but can't speak</languages>
+    <languages>understands Abyssal but can&apos;t speak</languages>
     <cr>14</cr>
     <resist>cold, fire, lightning; bludgeoning, piercing, slashing from nonmagical attacks</resist>
     <immune>poison</immune>
@@ -981,13 +981,13 @@ Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit: 44 (10d6 + 9) pi
       <text>
 Crokek'toeck opens its mouth and disgorges 1d4 barlgura, 3d6 gnoll led by 1 gnoll fang of Yeenoghu, 6d6 dretch, or 1d3 vrock. Each creature it disgorges appears in an unoccupied space within 30 feet of Crokek'toeck's mouth, or the next closest unoccupied space.</text>
     </action>
-    <description>Crokek'toeck is Yeenoghu's demonic pet. Resembling a giant mudskipper with the teeth, fur, ears, and laugh of a hyena, this unique demon can hold smaller demons in its gullet and disgorge them anywhere Yeenoghu wishes. Immune to the mind-shattering effects of the River Styx, Crokek'toeck is often used to transport smaller demons (and sometimes Yeenoghu himself) through the Styx's terrible waters.
+    <description>Crokek'toeck is Yeenoghu's demonic pet. Resembling a giant mudskipper with the teeth, fur, ears, and laugh of a hyena, this unique demon can hold smaller demons in its gullet and disgorge them anywhere Yeenoghu wishes. Immune to the mind-shattering effects of the River Styx, Crokek&apos;toeck is often used to transport smaller demons (and sometimes Yeenoghu himself) through the Styx&apos;s terrible waters.
 
 Source:	Baldur's Gate: Descent Into Avernus p. 231</description>
     <environment/>
   </monster>
   <monster>
-    <name>Death's Head of Bhaal [2014]</name>
+    <name>Death&apos;s Head of Bhaal [2014]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>Chaotic Evil</alignment>
@@ -1149,14 +1149,14 @@ Source:	Baldur's Gate: Descent Into Avernus p. 108</description>
     <immune/>
     <vulnerable/>
     <conditionImmune/>
-    <senses>darkvision 120 ft. (see devil's sight below)</senses>
+    <senses>darkvision 120 ft. (see devil&apos;s sight below)</senses>
     <trait>
       <name>Dark Devotion</name>
       <text>
 Thalamra has advantage on saving throws against being charmed or frightened.</text>
     </trait>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Thalamra can see normally in darkness, both magical and nonmagical, out to a distance of 120 feet.</text>
     </trait>
@@ -1182,7 +1182,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 4 bludgeoning dama
       <text>
 When Thalamra is damaged by a creature within 60 feet of her that she can see, the creature that damaged her is engulfed in hellish flames and must make a DC 14 Dexterity saving throw, taking 16 (3d10) fire damage on a failed save, or half as much damage on a successful one.</text>
     </reaction>
-    <description>Acid-tongued, shrewd, and aggressive, Duke Thalamra Vanthampur is the matriarch of the Vanthampur family. Born with nothing, she spent years wallowing in obscurity, repairing and renovating the city's ancient sewer system. One promotion after another followed until she was named Master of Drains and Underways. By then, she had been married three times and given birth to three sons. Her lifelong goal has been to lift herself and her family out of the sewers and into high society.
+    <description>Acid-tongued, shrewd, and aggressive, Duke Thalamra Vanthampur is the matriarch of the Vanthampur family. Born with nothing, she spent years wallowing in obscurity, repairing and renovating the city&apos;s ancient sewer system. One promotion after another followed until she was named Master of Drains and Underways. By then, she had been married three times and given birth to three sons. Her lifelong goal has been to lift herself and her family out of the sewers and into high society.
 
 Years of political dealing, blame shuffling, and bribery paid off when Thalamra was elected to the Council of Four. Although she has served on the council for the shortest amount of time, Duke Vanthampur is easily the most politically savvy council member. She speaks little during meetings of the council, preferring to further her political agenda through meetings in her private offices and at her family estate. When she does choose to debate, she speaks with a strength beyond what it seems like her age should allow, and is known for leveling insults that land unsettlingly close to (supposedly) hidden truths.
 
@@ -1318,7 +1318,7 @@ Feonor is an 18th-level spellcaster. Its spellcasting ability is Intelligence (s
     </trait>
     <slots>0, 4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
     <spells>disguise self, invisibility, fire bolt, light, mage hand, prestidigitation, shocking grasp, detect magic, identify, mage armor, magic missile, detect thoughts, mirror image, misty step, counterspell, fly, lightning bolt, banishment, fire shield, stoneskin, cone of cold, scrying, wall of force, globe of invulnerability, teleport, mind blank, time stop</spells>
-    <description>Feonor is a willowy archmage with milky-white eyes and a parasol made of bones and human flesh. Her rivals know her as a powerful necromancer. They suspect that she fled the Material Plane to escape some horrible fate, but the truth is she was invited to Avernus by Mahadi, the rakshasa master of the Wandering Emporium. During a visit to Feonor's world, Mahadi fell head-over-heels in love with her zombie-like indifference. Not long after arriving in Avernus, Feonor grew bored of Mahadi's attempts to impress her. Without so much as a farewell, she took to the Avernian wastes on one of the rakshasa's infernal war machines and never looked back. Years later, Mahacli still refers to her as "the one the got away."
+    <description>Feonor is a willowy archmage with milky-white eyes and a parasol made of bones and human flesh. Her rivals know her as a powerful necromancer. They suspect that she fled the Material Plane to escape some horrible fate, but the truth is she was invited to Avernus by Mahadi, the rakshasa master of the Wandering Emporium. During a visit to Feonor's world, Mahadi fell head-over-heels in love with her zombie-like indifference. Not long after arriving in Avernus, Feonor grew bored of Mahadi&apos;s attempts to impress her. Without so much as a farewell, she took to the Avernian wastes on one of the rakshasa&apos;s infernal war machines and never looked back. Years later, Mahacli still refers to her as "the one the got away."
 
 The scowl on Feonor's face hints at her constant annoyance with the multiverse around her. She prefers not to speak, and when she does. it's typicaUy only in whispers, her short sentences interspersed and punctuated with frustrated sighs.
 
@@ -1346,10 +1346,10 @@ Source:	Baldur's Gate: Descent Into Avernus p. 91</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>8</cr>
     <resist>cold, fire</resist>
-    <immune>lightning, poison; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine or silvered</immune>
+    <immune>lightning, poison; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t adamantine or silvered</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
@@ -1502,7 +1502,7 @@ While the dagger remains motionless and isn't flying, it is indistinguishable fr
 Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage.</text>
       <attack>Longdagger|+3|1d8+1</attack>
     </action>
-    <description>Source:	Baldur's Gate: Descent Into Avernus p. 30</description>
+    <description>Source:	Baldur&apos;s Gate: Descent Into Avernus p. 30</description>
     <environment/>
   </monster>
   <monster>
@@ -1596,7 +1596,7 @@ Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeonin
 Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d8) piercing damage.</text>
       <attack>Longbow|+2|1d8</attack>
     </action>
-    <description>Source:	Baldur's Gate: Descent Into Avernus p. 53</description>
+    <description>Source:	Baldur&apos;s Gate: Descent Into Avernus p. 53</description>
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
@@ -1647,7 +1647,7 @@ While poisoned in this way, the target is also paralyzed. The target can repeat 
 Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.</text>
       <attack>Sword Talons|+7|2d6+4</attack>
     </action>
-    <description>A hellwasp is an intelligent, malevolent insect native to the Nine Hells. It has a thick protective carapace, thin metallic wings, and strong legs ending in swordlike talons. It uses its stinger to inject a chemical admixture similar to alchemist's fire into its victims. This same solution carries a paralytic enzyme that renders the victim helpless long enough for the hellwasp to grab its prey and flee.
+    <description>A hellwasp is an intelligent, malevolent insect native to the Nine Hells. It has a thick protective carapace, thin metallic wings, and strong legs ending in swordlike talons. It uses its stinger to inject a chemical admixture similar to alchemist&apos;s fire into its victims. This same solution carries a paralytic enzyme that renders the victim helpless long enough for the hellwasp to grab its prey and flee.
 
 Hellwasps thrive in hot weather, but extreme cold causes their shells to crack and their metabolisms to shut down. Consequently, they avoid the icy layers of the Nine Hells (Stygia and Cania).
 
@@ -1693,7 +1693,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
       <attack>Bite|+4|1d4+2</attack>
       <attack>Bite||3d6</attack>
     </action>
-    <description>Source:	Baldur's Gate: Descent Into Avernus p. 95</description>
+    <description>Source:	Baldur&apos;s Gate: Descent Into Avernus p. 95</description>
     <environment>underdark, urban</environment>
   </monster>
   <monster>
@@ -1896,7 +1896,7 @@ Melee Weapon Attack: +18 to hit, reach 10 ft., one target. Hit: 19 (2d8 + 10) bl
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Kostchtchie can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Kostchtchie regains spent legendary actions at the start of its turn.</text>
+      <text>Kostchtchie can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Kostchtchie regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Attack</name>
@@ -1997,7 +1997,7 @@ Krull is a 14th-level spellcaster. His spellcasting ability is Wisdom (spell sav
     </trait>
     <slots>0, 4, 3, 3, 3, 2, 1, 1</slots>
     <spells>chill touch, mending, resistance, sacred flame, spare the dying, thaumaturgy, cure wounds, detect evil and good, false life, inflict wounds, ray of sickness, blindness/deafness, gentle repose, hold person, ray of enfeeblement, spiritual weapon, animate dead, magic circle, speak with dead, spirit guardians, vampiric touch, banishment, blight, death ward, divination, locate creature, antilife shell, cloudkill, contagion, greater restoration, create undead, true seeing, divine word, regenerate</spells>
-    <description>Source:	Baldur's Gate: Descent Into Avernus p. 110</description>
+    <description>Source:	Baldur&apos;s Gate: Descent Into Avernus p. 110</description>
     <environment/>
   </monster>
   <monster>
@@ -2098,7 +2098,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 5</description>
     <passive>16</passive>
     <languages>Abyssal, Common, Infernal, Primordial</languages>
     <cr>5</cr>
-    <resist>cold, fire; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold, fire; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <immune/>
     <vulnerable/>
     <conditionImmune>charmed</conditionImmune>
@@ -2176,7 +2176,7 @@ For casting these spells, each hag is a 12th-level spellcaster that uses Intelli
     </trait>
     <slots>0, 4, 3, 3, 3, 2, 1</slots>
     <spells>detect magic, magic missile, plane shift, ray of enfeeblement, sleep, identify, ray of sickness, hold person, locate object, bestow curse, counterspell, lightning bolt, phantasmal killer, polymorph, contact other plane, scrying, eyebite</spells>
-    <description>Source:	Baldur's Gate: Descent Into Avernus p. 74</description>
+    <description>Source:	Baldur&apos;s Gate: Descent Into Avernus p. 74</description>
     <environment/>
   </monster>
   <monster>
@@ -2243,7 +2243,7 @@ Mahadi's innate spellcasting ability is Charisma (spell save DC 18, +9 to hit wi
 	• 1/Day each: banishment, demiplane, dominate person, fly, forcecage, geas, plane shift, true seeing</text>
     </trait>
     <spells>detect thoughts, disguise self, mage hand, minor illusion, charm person, detect magic, dispel magic, hellish rebuke, invisibility, major image, speak with dead, suggestion, banishment, demiplane, dominate person, fly, forcecage, geas, plane shift, true seeing</spells>
-    <description>Mahadi appears as a wealthy merchant lord. Though extremely powerful, Mahadi doesn't believe in taking unnecessary risks, particularly in the Nine Hells where he can be permanently slain. Mahadi acts as the eyes and ears of Asmodeus in Avernus. As a deal broker and moderator, he's privy to all manner of dealings that might otherwise escape the attention of his patron.
+    <description>Mahadi appears as a wealthy merchant lord. Though extremely powerful, Mahadi doesn&apos;t believe in taking unnecessary risks, particularly in the Nine Hells where he can be permanently slain. Mahadi acts as the eyes and ears of Asmodeus in Avernus. As a deal broker and moderator, he&apos;s privy to all manner of dealings that might otherwise escape the attention of his patron.
 
 In his role as the master of the Wandering Emporium, Mahadi has received special dispensation from Asmodeus to travel freely between the Material Plane and the Nine Hells to operate his business, as well as to pursue information and broker contracts and other such arrangements as needed.
 
@@ -2400,7 +2400,7 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludge
 Ranged Weapon Attack: +4 to hit, range 100/400 ft., one target. Hit: 7 (1d10 + 2) piercing damage.</text>
       <attack>Heavy Crossbow|+4|1d10+2</attack>
     </action>
-    <description>Third son of Duke Thalamra Vanthampur of Baldur's Gate. Mortlock is tolerated by his mother, Duke Thalamra Vanthampur, and despised by his older brothers, Thurstwell and Amrik, who view him as a simpleton and an abomination. Half of Mortlock's face was scarred by fire when he was a child, and his disfigurement gives him a fearsome countenance.
+    <description>Third son of Duke Thalamra Vanthampur of Baldur&apos;s Gate. Mortlock is tolerated by his mother, Duke Thalamra Vanthampur, and despised by his older brothers, Thurstwell and Amrik, who view him as a simpleton and an abomination. Half of Mortlock&apos;s face was scarred by fire when he was a child, and his disfigurement gives him a fearsome countenance.
 
 Source:	Baldur's Gate: Descent Into Avernus p. 26</description>
     <environment/>
@@ -2507,7 +2507,7 @@ The centipede makes one bite attack against a Medium or smaller creature it is g
 
 If the centipede takes 30 damage or more on a single turn from a creature inside it, the centipede must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet oft he centipede. If the centipede dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.</text>
     </action>
-    <description>Source:	Baldur's Gate: Descent Into Avernus p. 119</description>
+    <description>Source:	Baldur&apos;s Gate: Descent Into Avernus p. 119</description>
     <environment>arctic</environment>
   </monster>
   <monster>
@@ -2588,7 +2588,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 233</description>
     <save>Dex +7, Int +4</save>
     <skill>Acrobatics +10, Deception +5, Insight +6, Intimidation +5, Perception +6, Sleight of hand +10, Stealth +10</skill>
     <passive>16</passive>
-    <languages>Common, Thieves' cant</languages>
+    <languages>Common, Thieves&apos; cant</languages>
     <cr>5</cr>
     <resist/>
     <immune/>
@@ -2621,7 +2621,7 @@ Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one ta
       <text>
 Nine-Fingers halves the damage that she takes from an attack that hits her. She must be able to see the attacker.</text>
     </reaction>
-    <description>The current leader of the Guild, Nine-Fingers Keene, disdains flashy garb and illusion magic. She appears to the world as she is: an unassuming woman of middling age and build. Her forgettable looks have proven her greatest asset as a thief, as her victims have trouble recognizing her even when they meet her again face-to-face. Keene's leadership over the years earned her a reputation of thoughtful pragmatism. When necessary, she seeks revenge for offenses against the Guild—provided doing so is profitable. Her methods are vicious when necessary, and she is as feared as she is respected.
+    <description>The current leader of the Guild, Nine-Fingers Keene, disdains flashy garb and illusion magic. She appears to the world as she is: an unassuming woman of middling age and build. Her forgettable looks have proven her greatest asset as a thief, as her victims have trouble recognizing her even when they meet her again face-to-face. Keene&apos;s leadership over the years earned her a reputation of thoughtful pragmatism. When necessary, she seeks revenge for offenses against the Guild—provided doing so is profitable. Her methods are vicious when necessary, and she is as feared as she is respected.
 
 Keene has become increasingly intolerant of the populous tide turning against her organization. While the occasional rabble-rouser has always impeded criminal business, the rise of organized crews and vigilantes is interfering with Guild operations. After a carefully coordinated attack on a patriar's estate fell to pieces when a vigilante clumsily alerted the estate guards, Keene declared open season on do-gooders of all stripes.
 
@@ -2668,7 +2668,7 @@ The peacock has advantage on an attack roll against a creature if at least one o
 Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) piercing damage.</text>
       <attack>Beak|+2|1d4</attack>
     </action>
-    <description>Source:	Baldur's Gate: Descent Into Avernus p. 195</description>
+    <description>Source:	Baldur&apos;s Gate: Descent Into Avernus p. 195</description>
     <environment>grassland, hill, desert</environment>
   </monster>
   <monster>
@@ -2690,13 +2690,13 @@ Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) piercing d
     <passive>8</passive>
     <languages>Infernal, telepathy 120 ft.</languages>
     <cr>8</cr>
-    <resist>cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <immune>fire, poison</immune>
     <vulnerable/>
     <conditionImmune>poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede Kovik's darkvision.</text>
     </trait>
@@ -2733,7 +2733,7 @@ When Kovik uses Multiattack on its turn, it can use each animated chain to make 
       <text>
 When a creature Kovik can see starts its turn within 30 feet of Kovik, Kovik can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. If the creature can see Kovik, it must succeed on a DC 14 Wisdom saving throw or be frightened until the end of its turn.</text>
     </reaction>
-    <description>This particularly cruel chain devil commanded the Nine Hells' 8th Infantry Legion, "Terror Incarnate," which was crushed on the banks of the River Styx by the demon lord Kostchtchie. Blaming its superiors for the defeat, Princeps Kovik gathered the surviving members of its legion and formed the Eighth Remnant, a marauding gang of devils no longer beholden to the infernal hierarchy.
+    <description>This particularly cruel chain devil commanded the Nine Hells&apos; 8th Infantry Legion, "Terror Incarnate," which was crushed on the banks of the River Styx by the demon lord Kostchtchie. Blaming its superiors for the defeat, Princeps Kovik gathered the surviving members of its legion and formed the Eighth Remnant, a marauding gang of devils no longer beholden to the infernal hierarchy.
 
 The devils that serve under Kovik do so willingly because the chain devil has earned their trust. Newly disenfranchised devils regularly flock to Kovik's banner.
 
@@ -2766,10 +2766,10 @@ Source:	Baldur's Gate: Descent Into Avernus p. 91</description>
     <save/>
     <skill>Perception +2</skill>
     <passive>12</passive>
-    <languages>Common (can't speak in boar form)</languages>
+    <languages>Common (can&apos;t speak in boar form)</languages>
     <cr>4</cr>
     <resist/>
-    <immune>bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</immune>
+    <immune>bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</immune>
     <vulnerable/>
     <conditionImmune/>
     <senses/>
@@ -2914,7 +2914,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 233</description>
     <save>Dex +6, Wis +2</save>
     <skill>Acrobatics +6, Athletics +4, Deception +4, Perception +2, Sleight of hand +6, Stealth +6</skill>
     <passive>12</passive>
-    <languages>Common, Thieves' cant</languages>
+    <languages>Common, Thieves&apos; cant</languages>
     <cr>3</cr>
     <resist/>
     <immune/>
@@ -2953,7 +2953,7 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) pierci
 Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 6 (1d4 + 4) piercing damage.</text>
       <attack>Dagger|+6|1d4+4</attack>
     </action>
-    <description>The Guild kingpin of Little Calimshan. Among Little Calimshan's most notorious locations is the Calim Jewel Emporium, widely regarded as the best jeweler in the city—and the best place to fence stolen gems, as it's also the local Guild headquarters. In addition to hosting regular public forums in her shop, Rael tacitly oversees the Garden of Whispers, a maze of wood-and-paper screens where people from across the city can buy and sell secrets with Guild agents and each other, speaking through the barriers so as to maintain anonymity.
+    <description>The Guild kingpin of Little Calimshan. Among Little Calimshan&apos;s most notorious locations is the Calim Jewel Emporium, widely regarded as the best jeweler in the city—and the best place to fence stolen gems, as it&apos;s also the local Guild headquarters. In addition to hosting regular public forums in her shop, Rael tacitly oversees the Garden of Whispers, a maze of wood-and-paper screens where people from across the city can buy and sell secrets with Guild agents and each other, speaking through the barriers so as to maintain anonymity.
 
 Source:	Baldur's Gate: Descent Into Avernus p. 199</description>
     <environment/>
@@ -2998,7 +2998,7 @@ The swarm can occupy another creature's space and vice versa, and the swarm can 
 Melee Weapon Attack: +2 to hit, reach 0 ft., one target in the swarm's space. 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.</text>
       <attack>Bites|+2|2d6</attack>
     </action>
-    <description>Source:	Baldur's Gate: Descent Into Avernus p. 23</description>
+    <description>Source:	Baldur&apos;s Gate: Descent Into Avernus p. 23</description>
     <environment>swamp, urban</environment>
   </monster>
   <monster>
@@ -3096,7 +3096,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 234</description>
     <save/>
     <skill>Perception +5, Stealth +4</skill>
     <passive>15</passive>
-    <languages>understands Common but can't speak</languages>
+    <languages>understands Common but can&apos;t speak</languages>
     <cr>0</cr>
     <resist/>
     <immune>poison</immune>
@@ -3128,7 +3128,7 @@ With the DM's permission, a character who casts the 'Find Familiar' spell can ch
       <text>
 Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 slashing damage.</text>
     </action>
-    <description>Slobberchops was the pet tressym of the Vanthampur family from Baldur's Gate in the late 15th century DR. The tressym had a mean appearance, with multiple scars and a bobbed tail
+    <description>Slobberchops was the pet tressym of the Vanthampur family from Baldur&apos;s Gate in the late 15th century DR. The tressym had a mean appearance, with multiple scars and a bobbed tail
 
 Slobberchops had no feeling of loyalty toward the Vanthampurs. It particularly disliked Thurstwell Vanthampur and his imp spies. Such was Slobberchops's contempt for its masters that it eagerly followed and helped any visitor who offered it food, warning them of potential dangers within Vanthampur Villa.
 
@@ -3210,7 +3210,7 @@ Smiler's innate spellcasting ability is Charisma (spell save DC 15). He can inna
 	• 3/Day each: confusion, enthrall, suggestion
 	• 1/Day each: hallucinatory terrain, Otto's irresistible dance</text>
     </trait>
-    <spells>charm person, Tasha's hideous laughter, confusion, enthrall, suggestion, hallucinatory terrain, Otto's irresistible dance</spells>
+    <spells>charm person, Tasha&apos;s hideous laughter, confusion, enthrall, suggestion, hallucinatory terrain, Otto&apos;s irresistible dance</spells>
     <description>Smiler has an unnerving smile—hence his name.
 
 A more apt name for this eladrin would be Smiler the Beguiler, as he's constantly trying to intoxicate others with his relentless optimism and shocking recklessness. Smiler thinks he can accomplish anything with a positive attitude and some death-defying stunt. Although he admits others might end up getting killed by his actions, he believes he can bend the multiverse to his whims if he tries hard enough. He's really quite insane.
@@ -3296,7 +3296,7 @@ Sylvira's innate spellcasting ability is Charisma (spell save DC 15). Sylvira ca
 	• 1/Day each: darkness, hellish rebuke</text>
     </trait>
     <spells>disguise self, invisibility, fire bolt, light, mage hand, prestidigitation, shocking grasp, detect magic, identify, mage armor, magic missile, detect thoughts, mirror image, misty step, counterspell, fly, lightning bolt, banishment, fire shield, stoneskin, cone of cold, scrying, wall of force, globe of invulnerability, teleport, mind blank, time stop, thaumaturgy, darkness, hellish rebuke</spells>
-    <description>Sylvira Savikas is one of Candlekeep's foremost sages, and specializes in knowledge pertaining to the Outer Planes.
+    <description>Sylvira Savikas is one of Candlekeep&apos;s foremost sages, and specializes in knowledge pertaining to the Outer Planes.
 
 Stat Block Origin: Archmage
 Source:	Baldur's Gate: Descent Into Avernus p. 46</description>
@@ -3391,7 +3391,7 @@ Thurstwell is a 2nd-level spellcaster. His spellcasting ability is Wisdom (spell
     </trait>
     <slots>3</slots>
     <spells>guidance, sacred flame, thaumaturgy, command, detect evil and good, sanctuary</spells>
-    <description>First son of Duke Thalamra Vanthampur of Baidur's Gate.
+    <description>First son of Duke Thalamra Vanthampur of Baidur&apos;s Gate.
 
 Thurstwell is a pale and sullen recluse in his forties. A veritable shut-in, he uses imps to spy on his brothers, Amrik and Mortlock. Thurstwell resents both of them—Amrik for being their mother's favorite, and Mortlock for being a monstrous dolt.
 
@@ -3466,7 +3466,7 @@ Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slas
 Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 16 (2d8 + 7) piercing damage, or 19 (2d8 + 10) piercing damage while raging.</text>
       <attack>Horns|+11|2d8+7</attack>
     </action>
-    <description>Source:	Baldur's Gate: Descent Into Avernus p. 112</description>
+    <description>Source:	Baldur&apos;s Gate: Descent Into Avernus p. 112</description>
     <environment/>
   </monster>
   <monster>
@@ -3555,7 +3555,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 50</description>
     <save/>
     <skill>Perception +5, Stealth +4</skill>
     <passive>15</passive>
-    <languages>understands Common but can't speak</languages>
+    <languages>understands Common but can&apos;t speak</languages>
     <cr>0</cr>
     <resist/>
     <immune>poison</immune>

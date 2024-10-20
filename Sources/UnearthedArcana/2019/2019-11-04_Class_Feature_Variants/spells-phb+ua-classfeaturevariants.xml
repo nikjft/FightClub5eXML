@@ -141,7 +141,7 @@
     <classes>Ranger</classes>
   </spell-->
   <spell>
-    <name>Heroes' Feast</name>
+    <name>Heroes&apos; Feast</name>
     <classes>Bard</classes>
   </spell>
   <spell>
@@ -217,7 +217,7 @@
     <classes>Sorcerer</classes>
   </spell>
   <!--spell>
-    <name>Rary's Telepathic Bond</name>
+    <name>Rary&apos;s Telepathic Bond</name>
     <classes>Bard</classes>
   </spell-->
   <!--spell>

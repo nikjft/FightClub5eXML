@@ -11,7 +11,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 27 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Burghal Explorer Magic</name>
-        <text>Starting at 3rd level, you learn an additional spell with you reach certain levels in this class, as shown in the Burghal Explorer Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
+        <text>Starting at 3rd level, you learn an additional spell with you reach certain levels in this class, as shown in the Burghal Explorer Spells table. The spell counts as a ranger spell for you, but it doesn&apos;t count against the number of ranger spells you know.
 
 Burghal Explorer Spells:
 Ranger Level | Spell
@@ -25,7 +25,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 27 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Burghal Explorer (HB): Grazing Strike</name>
-        <text>At 3rd level, you gain the ability to hinder your foes with your strikes. Whenever you hit a creature with a weapon attack, you can graze your target's arm, leg, chest, or head (provided it has the body part). When you do, the creature takes an additional 1d4 damage of the weapon's type and you impose one of the follow effects on that target:
+        <text>At 3rd level, you gain the ability to hinder your foes with your strikes. Whenever you hit a creature with a weapon attack, you can graze your target&apos;s arm, leg, chest, or head (provided it has the body part). When you do, the creature takes an additional 1d4 damage of the weapon&apos;s type and you impose one of the follow effects on that target:
 
 Head:
 It has disadvantage on the next saving throw it makes before the end of its next turn.
@@ -55,7 +55,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 27 (Homebrew)</text>
     <autolevel level="11">
       <feature optional="YES">
         <name>Burghal Explorer (HB): Streetwise</name>
-        <text>At 11th level, you disappear into crowds without hesitation. While you are hidden and moving through a crowd that isn't hostile to you, you can don a disguise if you have prepared it in advance and you have at least one hand free. Wisdom (Insight) checks to see through this disguise are made with disadvantage.
+        <text>At 11th level, you disappear into crowds without hesitation. While you are hidden and moving through a crowd that isn&apos;t hostile to you, you can don a disguise if you have prepared it in advance and you have at least one hand free. Wisdom (Insight) checks to see through this disguise are made with disadvantage.
 
 Additionally, you can take the Disengage action as a bonus action on your turn. When you do, you can move through the space of any creature that is size Medium or larger and you ignore half cover when you make an attack against another creature.
 
@@ -82,7 +82,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 28 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Wasteland Wanderer Magic</name>
-        <text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Wasteland Wanderer Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
+        <text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Wasteland Wanderer Spells table. The spell counts as a ranger spell for you, but it doesn&apos;t count against the number of ranger spells you know.
 
 Wasteland Wanderer Spells:
 Ranger Level | Spell
@@ -96,7 +96,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 28 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Wasteland Wanderer (HB): Vigilant Guardian</name>
-        <text>At 3rd level, you become harder to ambush and can't be surprised while in your favored terrain. If a member of your party is surprised at the start of combat, you have advantage on initiative rolls.
+        <text>At 3rd level, you become harder to ambush and can&apos;t be surprised while in your favored terrain. If a member of your party is surprised at the start of combat, you have advantage on initiative rolls.
 
 Additionally, you can use your bonus action to make a Wisdom (Perception) or Intelligence (Investigation) check to notice hidden enemies. If you notice a hidden creature, you can immediately move up to half your speed and make one additional weapon attack against that target, as part of that same bonus action. When you do, you have advantage on the attack and you deal an additional 2d8 damage on a hit.
 
@@ -124,7 +124,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 29 (Homebrew)</text>
     <autolevel level="15">
       <feature optional="YES">
         <name>Wasteland Wanderer (HB): Safety in Numbers</name>
-        <text>At 15th level, you gain the ability to use an enemy's momentum against it. When a creature within 30 feet of you deals damage to anyone other than you, you can use your reaction to grant its target resistance to the attack's damage and you can make a special weapon attack as part of the same reaction. You have advantage on the attack roll, and if it hits, your target has disadvantage on its next attack roll until the end of its next turn.
+        <text>At 15th level, you gain the ability to use an enemy&apos;s momentum against it. When a creature within 30 feet of you deals damage to anyone other than you, you can use your reaction to grant its target resistance to the attack&apos;s damage and you can make a special weapon attack as part of the same reaction. You have advantage on the attack roll, and if it hits, your target has disadvantage on its next attack roll until the end of its next turn.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of 1). You regain all expended uses when you finish a long rest.
 

@@ -17,7 +17,7 @@
     <save/>
     <skill>Perception +4, Stealth +4</skill>
     <passive>14</passive>
-    <languages>understands Draconic but can't speak it</languages>
+    <languages>understands Draconic but can&apos;t speak it</languages>
     <cr>1/2</cr>
     <resist>poison</resist>
     <immune/>
@@ -197,7 +197,7 @@ Blagothkus is a 5th-level spellcaster that uses Intelligence as his spellcasting
 On his turn, Othelstan can take one additional action.</text>
     </trait>
     <trait>
-      <name>Tiamat's Blessing of Retribution</name>
+      <name>Tiamat&apos;s Blessing of Retribution</name>
       <text>
 When Othelstan takes damage that reduces him to 0 hit points, he immediately regains 20 hit points. If he has 20 hit points or fewer at the end of his next turn, he dies.</text>
     </trait>
@@ -520,7 +520,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one prone target. Hit: 8 (2d4 + 3) 
     <save/>
     <skill>Perception +2</skill>
     <passive>12</passive>
-    <languages>understands Draconic but can't speak it</languages>
+    <languages>understands Draconic but can&apos;t speak it</languages>
     <cr>2</cr>
     <resist>lightning</resist>
     <immune/>
@@ -716,7 +716,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludge
 
 If the target is a creature, the adept can choose one of the following additional effects:</text>
       <attack>Unarmed Strike|+5|1d8+3</attack>
-      <text>	• The target must succeed on a DC 13 Strength saving throw or drop one item it is holding (adept's choice).
+      <text>	• The target must succeed on a DC 13 Strength saving throw or drop one item it is holding (adept&apos;s choice).
 
 	• The target must succeed on a DC 13 Dexterity saving throw or be knocked prone.
 
@@ -828,7 +828,7 @@ The priest is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell
 	• 5th level (1 slots): flame strike, mass cure wounds, hold monster</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 1</slots>
-    <spells>light, mending, sacred flame, spare the dying, divine favor, guiding bolt, healing word, shield of faith, lesser restoration, magic weapon, prayer of healing, silence, spiritual weapon, beacon of hope, crusader's mantle, dispel magic, revivify, spirit guardians, water walk, banishment, freedom of movement, guardian of faith, stoneskin, flame strike, mass cure wounds, hold monster</spells>
+    <spells>light, mending, sacred flame, spare the dying, divine favor, guiding bolt, healing word, shield of faith, lesser restoration, magic weapon, prayer of healing, silence, spiritual weapon, beacon of hope, crusader&apos;s mantle, dispel magic, revivify, spirit guardians, water walk, banishment, freedom of movement, guardian of faith, stoneskin, flame strike, mass cure wounds, hold monster</spells>
     <description>Source:	Hoard of the Dragon Queen p. 28</description>
     <environment>desert, urban</environment>
   </monster>
@@ -1099,7 +1099,7 @@ Rezmir breathes acid in a 30-foot line that is 5 feet wide. Each creature in the
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Rezmir can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Rezmir regains spent legendary actions at the start of its turn.</text>
+      <text>Rezmir can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Rezmir regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Darkness (Costs 2 Actions)</name>
@@ -1229,7 +1229,7 @@ Sandesyl magically calls 2d4 swarms of swarm of bats or swarm of rats, provided 
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The undead (shapechanger) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The undead (shapechanger) regains spent legendary actions at the start of its turn.</text>
+      <text>The undead (shapechanger) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The undead (shapechanger) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Move</name>

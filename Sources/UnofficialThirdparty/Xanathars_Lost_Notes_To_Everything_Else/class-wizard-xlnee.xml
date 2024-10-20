@@ -29,7 +29,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 37 (Homebrew)</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Beguiler (HB): Sneak Spell</name>
-        <text>Starting at 6th level, you know how to strike subtly with a spell and exploit a foe's distraction. Once per turn, you can deal extra damage equal to your Intelligence modifier (minimum of 1) to one creature you hit with a spell attack from a wizard cantrip if you have advantage on the attack roll.
+        <text>Starting at 6th level, you know how to strike subtly with a spell and exploit a foe&apos;s distraction. Once per turn, you can deal extra damage equal to your Intelligence modifier (minimum of 1) to one creature you hit with a spell attack from a wizard cantrip if you have advantage on the attack roll.
 
 You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll or your target has made a saving throw against one of your enchantment or illusion spells since the beginning of your last turn.
 
@@ -77,7 +77,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 39 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Mage Hunter (HB): Counter-Weave</name>
-        <text>Starting at 2nd level, you can hinder the effectiveness of a creature's magical prowess when you identify them as a magical threat.
+        <text>Starting at 2nd level, you can hinder the effectiveness of a creature&apos;s magical prowess when you identify them as a magical threat.
 
 You can use a bonus action to place the counter-weave on a creature you can see within 30 feet of you, which lasts for 1 minute. It ends early if the creature dies, you die, or you are incapacitated.
 
@@ -98,7 +98,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 39 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Mage Hunter (HB): Hunter's Armament</name>
+        <name>Mage Hunter (HB): Hunter&apos;s Armament</name>
         <text>At 6th level, you can forge a magical bond with a weapon you have chosen to combat renegade spellcasters and otherworldly beasts. Choose a melee weapon in which you are proficient. Performing the bonding ritual takes 1 hour, which may be done during a short rest. The weapon must be within your reach throughout the ritual.
 
 You can't be disarmed of your bonded weapon unless you are incapacitated. If it is on the same plane of existence, you can summon that weapon as a bonus action on your turn, causing it to teleport instantly to your hand. If you attempt to bond to another weapon, you must break the bond with the first.
@@ -111,7 +111,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 39 (Homebrew)</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Mage Hunter (HB): Arcane Sanctum</name>
-        <text>At 10th level, you learn the magic circle spell. You always have it prepared and it doesn't count toward your total number of prepared spells for the day.
+        <text>At 10th level, you learn the magic circle spell. You always have it prepared and it doesn&apos;t count toward your total number of prepared spells for the day.
 
 You can use an action to cast magic circle instantly and at a range of self without expending a spell slot. Additionally, when you hit a creature affected by counter-weave, you can instead use your bonus action to cast the spell in the same manner, centered on your target.
 
@@ -132,7 +132,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 39 (Homebrew)</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Arcane Tradition: School of Reconstruction (HB)</name>
-        <text>You focus your study on manipulating magic in a way that turns the destructive power of arcane evocation into rejuvenating magic. For others, this gift manifests from faith, a pledge to a patron, or a deity's behest. Many arcane colleges have unlocked these regenerative powers from tireless hours poring over holy texts and alchemical manuals. While most wizards find outlets as talented enchanters, military artillery, or ward-makers, the students of this school could apply their versatility to any employment in nearly every setting, even that of an adventurer.
+        <text>You focus your study on manipulating magic in a way that turns the destructive power of arcane evocation into rejuvenating magic. For others, this gift manifests from faith, a pledge to a patron, or a deity&apos;s behest. Many arcane colleges have unlocked these regenerative powers from tireless hours poring over holy texts and alchemical manuals. While most wizards find outlets as talented enchanters, military artillery, or ward-makers, the students of this school could apply their versatility to any employment in nearly every setting, even that of an adventurer.
 
 Source:	Xanathar's Lost Notes to Everything Else p. 40 (Homebrew)</text>
       </feature>
@@ -146,7 +146,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 40 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>School of Reconstruction (HB): Applied Reconstruction</name>
-        <text>Starting at 2nd level, you can reverse the destructive force of your evocation spells, transforming their power into healing energy. When you cast an evocation spell of 1st level or higher that targets only one creature with an instantaneous duration that doesn't require concentration, the target creature takes no damage and instead regains a number of hit points equal to half of the total.
+        <text>Starting at 2nd level, you can reverse the destructive force of your evocation spells, transforming their power into healing energy. When you cast an evocation spell of 1st level or higher that targets only one creature with an instantaneous duration that doesn&apos;t require concentration, the target creature takes no damage and instead regains a number of hit points equal to half of the total.
 
 If the spell requires you to make an attack roll or requires a creature to make a saving throw, the creature can choose to be hit or fail the saving throw. The spell doesn't impose any status conditions.
 
@@ -168,7 +168,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 40 (Homebrew)</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>School of Reconstruction (HB): Blossom of Life</name>
-        <text>Starting at 10th level, you can focus the healing energies around certain pockets within the effects of your evocation spells. When you cast an evocation spells that affects other creatures that you can see, you can choose a number of them equal to 1 + the spell's level to impose an effect that uses your wizard's spell save DC. The chosen creatures automatically succeed on their saving throws and take no damage from the spell. They also regain hit points equal to half the damage the spell would have dealt.
+        <text>Starting at 10th level, you can focus the healing energies around certain pockets within the effects of your evocation spells. When you cast an evocation spells that affects other creatures that you can see, you can choose a number of them equal to 1 + the spell&apos;s level to impose an effect that uses your wizard&apos;s spell save DC. The chosen creatures automatically succeed on their saving throws and take no damage from the spell. They also regain hit points equal to half the damage the spell would have dealt.
 
 Undead and constructs can't regain hit points in this way.
 

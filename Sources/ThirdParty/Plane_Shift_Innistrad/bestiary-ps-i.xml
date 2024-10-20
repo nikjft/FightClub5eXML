@@ -77,13 +77,13 @@ The body exchange lasts until the doll's spirit is forced out by magic. (The dis
     <passive>13</passive>
     <languages>Infernal, telepathy 120 ft.</languages>
     <cr>11</cr>
-    <resist>cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>cold; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <immune>fire, poison</immune>
     <vulnerable/>
     <conditionImmune>poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
     <trait>
-      <name>Devil's Sight</name>
+      <name>Devil&apos;s Sight</name>
       <text>
 Magical darkness doesn't impede the demon's darkvision.</text>
     </trait>
@@ -507,7 +507,7 @@ The angel's spellcasting ability is Charisma (spell save DC 17). The angel can i
     <save/>
     <skill>Insight +4, Perception +6</skill>
     <passive>16</passive>
-    <languages>Common (can't speak in raven form)</languages>
+    <languages>Common (can&apos;t speak in raven form)</languages>
     <cr>2</cr>
     <resist/>
     <immune>bludgeoning, piercing, slashing from nonmagical attacks not made with silvered weapons</immune>
@@ -567,10 +567,10 @@ Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) 
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>5</cr>
     <resist/>
-    <immune>lightning, poison; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</immune>
+    <immune>lightning, poison; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t adamantine</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
@@ -745,7 +745,7 @@ Spellcasting: The vampire has the spellcasting abilities of a wizard or cleric.<
     <save/>
     <skill>Perception +4, Stealth +3</skill>
     <passive>14</passive>
-    <languages>Common (can't speak in canid form)</languages>
+    <languages>Common (can&apos;t speak in canid form)</languages>
     <cr>3</cr>
     <resist/>
     <immune>bludgeoning, piercing, slashing from nonmagical attacks not made with silvered weapons</immune>

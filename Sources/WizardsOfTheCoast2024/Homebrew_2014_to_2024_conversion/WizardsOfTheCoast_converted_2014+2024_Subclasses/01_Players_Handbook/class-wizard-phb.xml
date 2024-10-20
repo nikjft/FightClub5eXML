@@ -92,7 +92,7 @@ Source:	Player's Handbook p. 117</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>School of Evocation: Sculpt Spells [2014]</name>
-        <text>Beginning at 2nd level, you can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 + the spell's level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save.
+        <text>Beginning at 2nd level, you can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 + the spell&apos;s level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save.
 
 Source:	Player's Handbook p. 117</text>
       </feature>
@@ -121,7 +121,7 @@ Source:	Player's Handbook p. 118</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>School of Necromancy: Grim Harvest [2014]</name>
-        <text>At 2nd level, you gain the ability to reap life energy from creatures you kill with your spells. Once per turn when you kill one or more creatures with a spell of 1st level or higher, you regain hit points equal to twice the spell's level, or three times its level if the spell belongs to the School of Necromancy. You don't gain this benefit for killing constructs or undead.
+        <text>At 2nd level, you gain the ability to reap life energy from creatures you kill with your spells. Once per turn when you kill one or more creatures with a spell of 1st level or higher, you regain hit points equal to twice the spell&apos;s level, or three times its level if the spell belongs to the School of Necromancy. You don&apos;t gain this benefit for killing constructs or undead.
 
 Source:	Player's Handbook p. 118</text>
       </feature>
@@ -130,7 +130,7 @@ Source:	Player's Handbook p. 118</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Arcane Tradition: School of Transmutation [2014]</name>
-        <text>You are a student of spells that modify energy and matter. To you, the world is not a fixed thing, but eminently mutable, and you delight in being an agent of change. You wield the raw stuff of creation and learn to alter both physical forms and mental qualities. Your magic gives you the tools to become a smith on reality's forge.
+        <text>You are a student of spells that modify energy and matter. To you, the world is not a fixed thing, but eminently mutable, and you delight in being an agent of change. You wield the raw stuff of creation and learn to alter both physical forms and mental qualities. Your magic gives you the tools to become a smith on reality&apos;s forge.
 
 Some transmuters are tinkerers and pranksters, turning people into toads and transforming copper into silver for fun and occasional profit. Others pursue their magical studies with deadly seriousness, seeking the power of the gods to make and destroy worlds.
 
@@ -179,7 +179,7 @@ Source:	Player's Handbook p. 116</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>School of Enchantment: Instinctive Charm [2014]</name>
-        <text>Beginning at 6th level, when a creature you can see within 30 feet of you makes an attack roll against you, you can use your reaction to divert the attack, provided that another creature is within the attack's range. The attacker must make a Wisdom saving throw against your wizard spell save DC. On a failed save, the attacker must target the creature that is closest to it, not including you or itself. If multiple creatures are closest, the attacker chooses which one to target. On a successful save, you can't use this feature on the attacker again until you finish a long rest.
+        <text>Beginning at 6th level, when a creature you can see within 30 feet of you makes an attack roll against you, you can use your reaction to divert the attack, provided that another creature is within the attack&apos;s range. The attacker must make a Wisdom saving throw against your wizard spell save DC. On a failed save, the attacker must target the creature that is closest to it, not including you or itself. If multiple creatures are closest, the attacker chooses which one to target. On a successful save, you can&apos;t use this feature on the attacker again until you finish a long rest.
 
 You must choose to use this feature before knowing whether the attack hits or misses. Creatures that can't be charmed are immune to this effect.
 
@@ -190,7 +190,7 @@ Source:	Player's Handbook p. 117</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>School of Evocation: Potent Cantrip [2014]</name>
-        <text>Starting at 6th level, your damaging cantrips affect even creatures that avoid the brunt of the effect. When a creature succeeds on a saving throw against your cantrip, the creature takes half the cantrip's damage (if any) but suffers no additional effect from the cantrip.
+        <text>Starting at 6th level, your damaging cantrips affect even creatures that avoid the brunt of the effect. When a creature succeeds on a saving throw against your cantrip, the creature takes half the cantrip&apos;s damage (if any) but suffers no additional effect from the cantrip.
 
 Source:	Player's Handbook p. 117</text>
       </feature>
@@ -212,8 +212,8 @@ Source:	Player's Handbook p. 118</text>
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>School of Transmutation: Transmuter's Stone [2014]</name>
-        <text>Starting at 6th level, you can spend 8 hours creating a transmuter's stone that stores transmutation magic. You can benefit from the stone yourself or give it to another creature. A creature gains a benefit of your choice as long as the stone is in the creature's possession. When you create the stone, choose the benefit from the following options:
+        <name>School of Transmutation: Transmuter&apos;s Stone [2014]</name>
+        <text>Starting at 6th level, you can spend 8 hours creating a transmuter&apos;s stone that stores transmutation magic. You can benefit from the stone yourself or give it to another creature. A creature gains a benefit of your choice as long as the stone is in the creature&apos;s possession. When you create the stone, choose the benefit from the following options:
 
 	• Darkvision out to a range of 60 feet, as described in chapter 8.
 
@@ -237,7 +237,7 @@ Source:	Player's Handbook p. 119</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>School of Conjuration: Focused Conjuration [2014]</name>
-        <text>Beginning at 10th level, while you are concentrating on a conjuration spell, your concentration can't be broken as a result of taking damage.
+        <text>Beginning at 10th level, while you are concentrating on a conjuration spell, your concentration can&apos;t be broken as a result of taking damage.
 
 Source:	Player's Handbook p. 116</text>
       </feature>
@@ -264,7 +264,7 @@ Source:	Player's Handbook p. 117</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>School of Necromancy: Inured to Undeath [2014]</name>
-        <text>Beginning at 10th level, you have resistance to necrotic damage, and your hit point maximum can't be reduced. You have spent so much time dealing with undead and the forces that animate them that you have become inured to some of their worst effects.
+        <text>Beginning at 10th level, you have resistance to necrotic damage, and your hit point maximum can&apos;t be reduced. You have spent so much time dealing with undead and the forces that animate them that you have become inured to some of their worst effects.
 
 Source:	Player's Handbook p. 118</text>
       </feature>
@@ -301,7 +301,7 @@ Source:	Player's Handbook p. 116</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>School of Enchantment: Alter Memories [2014]</name>
-        <text>At 14th level, you gain the ability to make a creature unaware of your magical influence on it. When you cast an enchantment spell to charm one or more creatures, you can alter one creature's understanding so that it remains unaware of being charmed.
+        <text>At 14th level, you gain the ability to make a creature unaware of your magical influence on it. When you cast an enchantment spell to charm one or more creatures, you can alter one creature&apos;s understanding so that it remains unaware of being charmed.
 
 Additionally, once before the spell expires, you can use your action to try to make the chosen creature forget some of the time it spent charmed. The creature must succeed on an Intelligence saving throw against your wizard spell save DC or lose a number of hours of its memories equal to 1 + your Charisma modifier (minimum of 1). You can make the creature forget less time, and the amount of time can't exceed the duration of your enchantment spell.
 
@@ -336,7 +336,7 @@ Source:	Player's Handbook p. 118</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>School of Transmutation: Master Transmuter [2014]</name>
-        <text>Starting at 14th level, you can use your action to consume the reserve of transmutation magic stored within your transmuter's stone in a single burst. When you do so, choose one of the following effects. Your transmuter's stone is destroyed and can't be remade until you finish a long rest.
+        <text>Starting at 14th level, you can use your action to consume the reserve of transmutation magic stored within your transmuter's stone in a single burst. When you do so, choose one of the following effects. Your transmuter&apos;s stone is destroyed and can&apos;t be remade until you finish a long rest.
 
 Major Transformation
 You can transmute one nonmagical object—no larger than a 5-foot cube—into another nonmagical object of similar size and mass and of equal or lesser value. You must spend 10 minutes handling the object to transform it.

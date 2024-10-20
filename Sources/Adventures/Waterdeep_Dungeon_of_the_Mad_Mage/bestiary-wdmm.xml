@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Al'chaia</name>
+    <name>Al&apos;chaia</name>
     <size>M</size>
     <type>humanoid (gith)</type>
     <alignment>Lawful Evil</alignment>
@@ -186,10 +186,10 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (2d6) bludgeonin
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>10</cr>
     <resist/>
-    <immune>poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</immune>
+    <immune>poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t adamantine</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
@@ -373,7 +373,7 @@ The target must succeed on a DC 18 Constitution saving throw or be paralyzed for
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The undead can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The undead regains spent legendary actions at the start of its turn.</text>
+      <text>The undead can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The undead regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Cantrip</name>
@@ -425,7 +425,7 @@ Arcturia is an 18th-level spellcaster. Its spellcasting ability is Intelligence 
 	• 9th level (1 slots): power word kill</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
-    <spells>mage hand, prestidigitation, ray of frost, detect magic, magic missile, shield, thunderwave, detect thoughts, invisibility, Melf's acid arrow, mirror image, animate dead, counterspell, dispel magic, fireball, blight, dimension door, cloudkill, scrying, disintegrate, globe of invulnerability, finger of death, plane shift, dominate monster, power word stun, power word kill</spells>
+    <spells>mage hand, prestidigitation, ray of frost, detect magic, magic missile, shield, thunderwave, detect thoughts, invisibility, Melf&apos;s acid arrow, mirror image, animate dead, counterspell, dispel magic, fireball, blight, dimension door, cloudkill, scrying, disintegrate, globe of invulnerability, finger of death, plane shift, dominate monster, power word stun, power word kill</spells>
     <description>Source:	Waterdeep: Dungeon of the Mad Mage p. 296</description>
     <environment/>
   </monster>
@@ -497,7 +497,7 @@ Ashtyrranthor exhales fire in a 60-foot cone. Each creature in that area must ma
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.</text>
+      <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The dragon regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Detect</name>
@@ -759,7 +759,7 @@ Berlain is an 18th-level spellcaster. Its spellcasting ability is Intelligence (
     <passive>16</passive>
     <languages>Terran</languages>
     <cr>5</cr>
-    <resist>piercing, slashing from nonmagical attacks that aren't adamantine</resist>
+    <resist>piercing, slashing from nonmagical attacks that aren&apos;t adamantine</resist>
     <immune/>
     <vulnerable/>
     <conditionImmune/>
@@ -819,7 +819,7 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashi
     <languages/>
     <cr>16</cr>
     <resist/>
-    <immune>fire, poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</immune>
+    <immune>fire, poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t adamantine</immune>
     <vulnerable/>
     <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone</conditionImmune>
     <senses>blindsight 30 ft., tremorsense 60 ft.</senses>
@@ -857,7 +857,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 171</description>
     <environment/>
   </monster>
   <monster>
-    <name>Captain N'ghathrod</name>
+    <name>Captain N&apos;ghathrod</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Lawful Evil</alignment>
@@ -1192,10 +1192,10 @@ Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashi
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>10</cr>
     <resist/>
-    <immune>poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</immune>
+    <immune>poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t adamantine</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
@@ -1593,7 +1593,7 @@ The target must succeed on a DC 18 Constitution saving throw or be paralyzed for
     <legendary>
       <name>Legendary Actions (4/Turn)</name>
       <recharge>4/Turn</recharge>
-      <text>The undead can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The undead regains spent legendary actions at the start of its turn.</text>
+      <text>The undead can take 4 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The undead regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Cantrip</name>
@@ -1645,7 +1645,7 @@ Ezzat is an 18th-level spellcaster. Its spellcasting ability is Intelligence (sp
 	• 9th level (1 slots): power word kill</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
-    <spells>mage hand, prestidigitation, ray of frost, detect magic, magic missile, shield, thunderwave, detect thoughts, invisibility, Melf's acid arrow, mirror image, animate dead, counterspell, dispel magic, fireball, blight, dimension door, cloudkill, scrying, disintegrate, globe of invulnerability, finger of death, plane shift, dominate monster, power word stun, power word kill</spells>
+    <spells>mage hand, prestidigitation, ray of frost, detect magic, magic missile, shield, thunderwave, detect thoughts, invisibility, Melf&apos;s acid arrow, mirror image, animate dead, counterspell, dispel magic, fireball, blight, dimension door, cloudkill, scrying, disintegrate, globe of invulnerability, finger of death, plane shift, dominate monster, power word stun, power word kill</spells>
     <description>Source:	Waterdeep: Dungeon of the Mad Mage p. 262</description>
     <environment/>
   </monster>
@@ -2121,7 +2121,7 @@ In a new form, Glyster retains its alignment, hit points, Hit Dice, ability to s
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.</text>
+      <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The dragon regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Detect</name>
@@ -2234,7 +2234,7 @@ At the bottom of the stalagmite's hollow cavity, four 1-foot-tall clay urns cont
     <legendary>
       <name>Legendary Actions (5/Turn)</name>
       <recharge>5/Turn</recharge>
-      <text>The undead can take 5 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The undead regains spent legendary actions at the start of its turn.</text>
+      <text>The undead can take 5 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The undead regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Attack</name>
@@ -2306,7 +2306,7 @@ The mummy lord is a 10th-level spellcaster. Its spellcasting ability is Wisdom (
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Gorzil's Gang Troglodyte</name>
+    <name>Gorzil&apos;s Gang Troglodyte</name>
     <size>M</size>
     <type>humanoid (troglodyte)</type>
     <alignment>Chaotic Evil</alignment>
@@ -2422,7 +2422,7 @@ Halaster uses his blast scepter to cast thunderwave as a 4th-level spell. Each c
     <legendary>
       <name>Legendary Actions (2/Turn)</name>
       <recharge>2/Turn</recharge>
-      <text>Halaster can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Halaster regains spent legendary actions at the start of its turn.</text>
+      <text>Halaster can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Halaster regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Cast Spell</name>
@@ -2476,8 +2476,8 @@ Halaster is a 20th-level spellcaster. His spellcasting ability is Intelligence (
 	• 9th level (1 slots): meteor swarm, wish</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 3, 2, 2, 1, 1</slots>
-    <spells>disguise self, invisibility, fly, lightning bolt, dancing lights, fire bolt, light, mage hand, prestidigitation, mage armor, magic missile, shield, silent image, arcane lock, cloud of daggers, darkvision, knock, counterspell, dispel magic, fireball, confusion, hallucinatory terrain, polymorph, Bigby's hand, geas, wall of force, chain lightning, globe of invulnerability, programmed illusion, finger of death, symbol, teleport, maze, mind blank, meteor swarm, wish</spells>
-    <description>As the master of Undermountain, Halaster can alter the entire dungeon to some extent. His lair actions and regional effects don't extend beyond Undermountain.
+    <spells>disguise self, invisibility, fly, lightning bolt, dancing lights, fire bolt, light, mage hand, prestidigitation, mage armor, magic missile, shield, silent image, arcane lock, cloud of daggers, darkvision, knock, counterspell, dispel magic, fireball, confusion, hallucinatory terrain, polymorph, Bigby&apos;s hand, geas, wall of force, chain lightning, globe of invulnerability, programmed illusion, finger of death, symbol, teleport, maze, mind blank, meteor swarm, wish</spells>
+    <description>As the master of Undermountain, Halaster can alter the entire dungeon to some extent. His lair actions and regional effects don&apos;t extend beyond Undermountain.
 
 Halaster, the Mad Mage of Undermountain, is the deranged individual behind most of the traps and horrors found in the great dungeon under Waterdeep. Undermountain is his home, an amusement gallery in which others perform to entertain him.
 
@@ -2507,9 +2507,9 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 310</description>
     <save/>
     <skill>Perception +4</skill>
     <passive>14</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>4</cr>
-    <resist>bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</resist>
+    <resist>bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t adamantine</resist>
     <immune>force, necrotic, poison</immune>
     <vulnerable/>
     <conditionImmune>blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned, stunned</conditionImmune>
@@ -3055,7 +3055,7 @@ The vampire magically calls 2d4 swarms of swarm of bats or swarm of rats, provid
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The undead (shapechanger) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The undead (shapechanger) regains spent legendary actions at the start of its turn.</text>
+      <text>The undead (shapechanger) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The undead (shapechanger) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Move</name>
@@ -3091,7 +3091,7 @@ If the vampire is destroyed, these effects end after 2d6 days.</text>
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Kol'daan</name>
+    <name>Kol&apos;daan</name>
     <size>M</size>
     <type>humanoid (troglodyte)</type>
     <alignment>Chaotic Evil</alignment>
@@ -3347,7 +3347,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 313</description>
     <save/>
     <skill>Perception +2, Stealth +4</skill>
     <passive>12</passive>
-    <languages>understands one language (usually Common) but can't speak</languages>
+    <languages>understands one language (usually Common) but can&apos;t speak</languages>
     <cr>0</cr>
     <resist/>
     <immune>poison</immune>
@@ -3364,7 +3364,7 @@ The unseen servant is invisible.</text>
       <text>
 Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 bludgeoning damage.</text>
     </action>
-    <description>Constructed Nature. A living spell doesn't require air, food, drink, or sleep.
+    <description>Constructed Nature. A living spell doesn&apos;t require air, food, drink, or sleep.
 
 Magical Essence:
 The process that creates a living spell changes the nature of its magic. A living spell isn't subject to dispel magic and isn't affected by an antimagic field.
@@ -3391,10 +3391,10 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 313</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>10</cr>
     <resist/>
-    <immune>poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</immune>
+    <immune>poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t adamantine</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
@@ -3434,7 +3434,7 @@ The golem targets one or more creatures it can see within 10 feet of it. Each ta
     <environment/>
   </monster>
   <monster>
-    <name>Maddgoth's Homunculus</name>
+    <name>Maddgoth&apos;s Homunculus</name>
     <size>L</size>
     <type>construct</type>
     <alignment>Neutral</alignment>
@@ -3450,7 +3450,7 @@ The golem targets one or more creatures it can see within 10 feet of it. Each ta
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>0</cr>
     <resist/>
     <immune>poison</immune>
@@ -3652,10 +3652,10 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <save/>
     <skill>Perception +3, Stealth +5</skill>
     <passive>13</passive>
-    <languages>Goblin (can't speak in bat form)</languages>
+    <languages>Goblin (can&apos;t speak in bat form)</languages>
     <cr>2</cr>
     <resist/>
-    <immune>bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</immune>
+    <immune>bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</immune>
     <vulnerable/>
     <conditionImmune/>
     <senses>darkvision 60 ft.</senses>
@@ -3770,7 +3770,7 @@ The target must make a DC 16 Constitution saving throw, taking 27 (6d8) poison d
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Muiral can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Muiral regains spent legendary actions at the start of its turn.</text>
+      <text>Muiral can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Muiral regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Cast Cantrip</name>
@@ -3803,7 +3803,7 @@ Muiral is a 13th-level spellcaster. His spellcasting ability is Intelligence (sp
     </trait>
     <slots>0, 4, 3, 3, 3, 2, 1, 1</slots>
     <spells>dancing lights, mage hand, prestidigitation, ray of frost, shocking grasp, expeditious retreat, fog cloud, magic missile, shield, darkness, knock, see invisibility, spider climb, animate dead, counterspell, lightning bolt, greater invisibility, polymorph, animate objects, wall of force, create undead, flesh to stone, finger of death</spells>
-    <description>Muiral was an accomplished human warrior who long served as Halaster's bodyguard. His descent into madness began when he asked the Mad Mage to tutor him in the wizardly arts. Muiral learned enough magic to transform himself into a half-scorpion monstrosity, becoming known as Muiral the Misshapen. He then retired to the level of Undermountain that would later be called Muiral's Gauntlet, driving out and slaying its original drow denizens. Muiral now spends his days hunting adventurers and other interlopers for fun. Long years alone—and Halaster's influence—have rendered him utterly insane.
+    <description>Muiral was an accomplished human warrior who long served as Halaster's bodyguard. His descent into madness began when he asked the Mad Mage to tutor him in the wizardly arts. Muiral learned enough magic to transform himself into a half-scorpion monstrosity, becoming known as Muiral the Misshapen. He then retired to the level of Undermountain that would later be called Muiral&apos;s Gauntlet, driving out and slaying its original drow denizens. Muiral now spends his days hunting adventurers and other interlopers for fun. Long years alone—and Halaster&apos;s influence—have rendered him utterly insane.
 
 Source:	Waterdeep: Dungeon of the Mad Mage p. 314</description>
     <environment/>
@@ -3825,7 +3825,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 314</description>
     <save>Wis +2</save>
     <skill/>
     <passive>9</passive>
-    <languages>understands Deep Speech and Undercommon but can't speak</languages>
+    <languages>understands Deep Speech and Undercommon but can&apos;t speak</languages>
     <cr>5</cr>
     <resist/>
     <immune>poison</immune>
@@ -3854,7 +3854,7 @@ The zombie uses a random magical eye ray, choosing a target that it can see with
 
 3: Enervation Ray: The targeted creature must make a DC 14 Constitution saving throw, taking 36 (8d8) necrotic damage on a failed save, or half as much damage on a successful one.</text>
       <attack>Eye Ray||8d8</attack>
-      <text>4: Telekinetic Ray: If the target is a creature, it must succeed on a DC 14 Strength saving throw, or the zombie moves it up to 30 feet in any direction. It is restrained by the ray's telekinetic grip until the start of the zombie's next turn or until the zombie is incapacitated. If the target is an object weighing 300 pounds or less that isn't being worn or carried, it is moved up to 30 feet in any direction. The zombie can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or container.</text>
+      <text>4: Telekinetic Ray: If the target is a creature, it must succeed on a DC 14 Strength saving throw, or the zombie moves it up to 30 feet in any direction. It is restrained by the ray's telekinetic grip until the start of the zombie&apos;s next turn or until the zombie is incapacitated. If the target is an object weighing 300 pounds or less that isn&apos;t being worn or carried, it is moved up to 30 feet in any direction. The zombie can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or container.</text>
     </action>
     <description>Source:	Waterdeep: Dungeon of the Mad Mage p. 52</description>
     <environment>underdark</environment>
@@ -3920,7 +3920,7 @@ Nester is an 18th-level spellcaster. Its spellcasting ability is Intelligence (s
 *Nester casts these spells on itself before combat.</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
-    <spells>disguise self, invisibility, fire bolt, light, mage hand, prestidigitation, shocking grasp, detect magic, identify, mage armor, magic missile, detect thoughts, mirror image, misty step, counterspell, animate dead, lightning bolt, blight, fire shield, stoneskin, cone of cold, Rary's telepathic bond, wall of force, globe of invulnerability, teleport, mind blank, time stop</spells>
+    <spells>disguise self, invisibility, fire bolt, light, mage hand, prestidigitation, shocking grasp, detect magic, identify, mage armor, magic missile, detect thoughts, mirror image, misty step, counterspell, animate dead, lightning bolt, blight, fire shield, stoneskin, cone of cold, Rary&apos;s telepathic bond, wall of force, globe of invulnerability, teleport, mind blank, time stop</spells>
     <description>Source:	Waterdeep: Dungeon of the Mad Mage p. 131</description>
     <environment/>
   </monster>
@@ -4131,7 +4131,7 @@ A rogue modron loses the Axiomatic Mind trait and can have any alignment other t
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands Aquan but doesn't speak</languages>
+    <languages>understands Aquan but doesn&apos;t speak</languages>
     <cr>3</cr>
     <resist>fire; bludgeoning, piercing, slashing from nonmagical attacks</resist>
     <immune>poison</immune>
@@ -4481,7 +4481,7 @@ The scaladar has two claws, each of which can grapple one target.</text>
 Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 9 (1d10 + 4) piercing damage plus 11 (2d10) lightning damage.</text>
       <attack>Sting|+7|1d10+4</attack>
     </action>
-    <description>Scaladar are constructs created by Trobriand, one of Halaster's apprentices. They move and attack like giant scorpions, grabbing prey with two large pincer claws and delivering a deadly pulse of lightning with their metal stinger tails.
+    <description>Scaladar are constructs created by Trobriand, one of Halaster&apos;s apprentices. They move and attack like giant scorpions, grabbing prey with two large pincer claws and delivering a deadly pulse of lightning with their metal stinger tails.
 
 Source:	Waterdeep: Dungeon of the Mad Mage p. 315</description>
     <environment/>
@@ -4503,7 +4503,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 315</description>
     <save>Dex +8, Int +5</save>
     <skill>Perception +9, Stealth +12</skill>
     <passive>19</passive>
-    <languages>understands the languages it knew in life but can't speak</languages>
+    <languages>understands the languages it knew in life but can&apos;t speak</languages>
     <cr>9</cr>
     <resist>acid, cold, fire, lightning, thunder; bludgeoning, piercing, slashing from nonmagical attacks</resist>
     <immune>necrotic, poison</immune>
@@ -4922,7 +4922,7 @@ In a new form, the dragon retains its alignment, hit points, Hit Dice, ability t
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.</text>
+      <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The dragon regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Detect</name>
@@ -4983,10 +4983,10 @@ If the dragon dies, changed weather reverts to normal, as described in the spell
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>10</cr>
     <resist/>
-    <immune>poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</immune>
+    <immune>poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t adamantine</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
@@ -5047,10 +5047,10 @@ The statue targets one or more creatures it can see within 10 feet of it. Each t
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>10</cr>
     <resist/>
-    <immune>poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</immune>
+    <immune>poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t adamantine</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
@@ -5223,7 +5223,7 @@ Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) 
     <save>Dex +6, Int +4</save>
     <skill>Acrobatics +6, Deception +3, Perception +3, Stealth +9</skill>
     <passive>13</passive>
-    <languages>Thieves' cant plus any two languages, Bullywug</languages>
+    <languages>Thieves&apos; cant plus any two languages, Bullywug</languages>
     <cr>8</cr>
     <resist>poison</resist>
     <immune/>
@@ -5365,10 +5365,10 @@ Trenzia is a 5th-level spellcaster. Its spellcasting ability is Intelligence (sp
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>16</cr>
     <resist/>
-    <immune>fire, poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</immune>
+    <immune>fire, poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t adamantine</immune>
     <vulnerable/>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
@@ -5517,7 +5517,7 @@ In a new form, the dragon retains its alignment, hit points, Hit Dice, ability t
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.</text>
+      <text>The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The dragon regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Detect</name>
@@ -5732,7 +5732,7 @@ Valtagar is an 18th-level spellcaster. Its spellcasting ability is Intelligence 
 *Valtagar casts these spells on itself before combat.</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
-    <spells>disguise self, invisibility, fire bolt, light, mage hand, prestidigitation, shocking grasp, detect magic, identify, mage armor, magic missile, detect thoughts, mirror image, misty step, counterspell, fly, lightning bolt, Otiluke's Resilient Sphere, fire shield, stoneskin, cone of cold, scrying, wall of force, globe of invulnerability, teleport, mind blank, time stop</spells>
+    <spells>disguise self, invisibility, fire bolt, light, mage hand, prestidigitation, shocking grasp, detect magic, identify, mage armor, magic missile, detect thoughts, mirror image, misty step, counterspell, fly, lightning bolt, Otiluke&apos;s Resilient Sphere, fire shield, stoneskin, cone of cold, scrying, wall of force, globe of invulnerability, teleport, mind blank, time stop</spells>
     <description>Source:	Waterdeep: Dungeon of the Mad Mage p. 271</description>
     <environment/>
   </monster>
@@ -5818,10 +5818,10 @@ Vertrand is an 18th-level spellcaster. Its spellcasting ability is Intelligence 
     <save/>
     <skill>Perception +3, Stealth +5</skill>
     <passive>13</passive>
-    <languages>Goblin (can't speak in bat form)</languages>
+    <languages>Goblin (can&apos;t speak in bat form)</languages>
     <cr>2</cr>
     <resist/>
-    <immune>bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered</immune>
+    <immune>bludgeoning, piercing, slashing from nonmagical attacks that aren&apos;t silvered</immune>
     <vulnerable/>
     <conditionImmune/>
     <senses>darkvision 60 ft.</senses>
@@ -5990,7 +5990,7 @@ Wyllow is an 18th-level spellcaster. Its spellcasting ability is Wisdom (spell s
 	• 9th level (1 slots): foresight</text>
     </trait>
     <slots>0, 4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
-    <spells>druidcraft, mending, poison spray, produce flame, cure wounds, entangle, faerie fire, speak with animals, animal messenger, beast sense, hold person, conjure animals, meld into stone, water breathing, dominate beast, locate creature, stoneskin, wall of fire, commune with nature, mass cure wounds, tree stride, heal, heroes' feast, sunbeam, fire storm, animal shapes, foresight</spells>
+    <spells>druidcraft, mending, poison spray, produce flame, cure wounds, entangle, faerie fire, speak with animals, animal messenger, beast sense, hold person, conjure animals, meld into stone, water breathing, dominate beast, locate creature, stoneskin, wall of fire, commune with nature, mass cure wounds, tree stride, heal, heroes&apos; feast, sunbeam, fire storm, animal shapes, foresight</spells>
     <description>Source:	Waterdeep: Dungeon of the Mad Mage p. 70</description>
     <environment>forest, mountain, swamp</environment>
   </monster>
@@ -6194,7 +6194,7 @@ Zorak magically calls 2d4 swarms of swarm of bats or swarm of rats, provided tha
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Zorak can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Zorak regains spent legendary actions at the start of its turn.</text>
+      <text>Zorak can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Zorak regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Move</name>

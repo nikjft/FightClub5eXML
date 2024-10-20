@@ -11,7 +11,7 @@ Source:	Subclasses That Shouldn't Exist v1 p. 3 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Baker (HB): Baker Spells</name>
-        <text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
+        <text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as artificer spells for you, but they don&apos;t count against the number of artificer spells you prepare.
 
 Baker Spells:
 Spell Level | Spells
@@ -25,7 +25,7 @@ Source:	Subclasses That Shouldn't Exist v1 p. 3 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Baker (HB): Culinary School</name>
-        <text>When you adopt this specialization at 3rd level, you gain proficiency with cook's utensils. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.
+        <text>When you adopt this specialization at 3rd level, you gain proficiency with cook&apos;s utensils. If you already have this proficiency, you gain proficiency with one other type of artisan&apos;s tools of your choice.
 
 Source:	Subclasses That Shouldn't Exist v1 p. 3 (Homebrew)</text>
       </feature>
@@ -110,7 +110,7 @@ Source:	Subclasses That Shouldn't Exist v1 p. 3 (Homebrew)</text>
     <classes>Artificer (Baker (HB))</classes>
   </spell>
   <spell>
-    <name>Leomund's Tiny Hut</name>
+    <name>Leomund&apos;s Tiny Hut</name>
     <classes>Artificer (Baker (HB))</classes>
   </spell>
   <spell>

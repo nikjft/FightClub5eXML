@@ -20,7 +20,7 @@
     <languages>languages it knew in life</languages>
     <cr>10</cr>
     <exp>5900</exp>
-    <resist>bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
+    <resist>bludgeoning, piercing, and slashing from nonmagical attacks that aren&apos;t silvered</resist>
     <immune>necrotic, poison</immune>
     <vulnerable/>
     <conditionImmune>exhaustion, poisoned</conditionImmune>
@@ -82,7 +82,7 @@ Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludg
     </action>
     <spells/>
     <slots/>
-    <description>"They rose from their graves, some by force of magic, others cursed through their life's misdeeds. Whatever the reason, we can't let them walk among the living."
+    <description>"They rose from their graves, some by force of magic, others cursed through their life&apos;s misdeeds. Whatever the reason, we can&apos;t let them walk among the living."
 
 Source:	Grim Hollow: Lairs of Etharis p. 104</description>
     <environment/>
@@ -277,7 +277,7 @@ The target also repeats the saving throw if the target is subjected to a harmful
     </action>
     <spells>detect evil and good, detect magic, invisibility, light, minor illusion, thaumaturgy, identify, suggestion, zone of truth</spells>
     <slots/>
-    <description>"Don't go to the temple. Something sinister has claimed it. Seek shelter elsewhere."
+    <description>"Don&apos;t go to the temple. Something sinister has claimed it. Seek shelter elsewhere."
 
 Source:	Grim Hollow: Lairs of Etharis p. 93</description>
     <environment/>
@@ -299,7 +299,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 93</description>
     <save/>
     <skill>Athletics +8</skill>
     <passive>10</passive>
-    <languages>Understands one language but can't speak</languages>
+    <languages>Understands one language but can&apos;t speak</languages>
     <cr>7</cr>
     <exp>2900</exp>
     <resist>necrotic</resist>
@@ -334,7 +334,7 @@ Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 18 (3d8 + 5) blud
     </action>
     <spells/>
     <slots/>
-    <description>"The callused skin of the merchant's hulking bodyguard ripples as if something beneath is trying to wriggle free."
+    <description>"The callused skin of the merchant&apos;s hulking bodyguard ripples as if something beneath is trying to wriggle free."
 
 Source:	Grim Hollow: Lairs of Etharis p. 68</description>
     <environment/>
@@ -393,7 +393,7 @@ Ranged Weapon Attack: +3 to hit, range 20/60 ft., one target. Hit: 3 (1d4 + 1) p
     </action>
     <spells/>
     <slots/>
-    <description>"I never believed the rumors about the Beast and how it could change people. Then I saw how everyone at the logging camp had been transformed. It had to be a power even greater than a god's."
+    <description>"I never believed the rumors about the Beast and how it could change people. Then I saw how everyone at the logging camp had been transformed. It had to be a power even greater than a god&apos;s."
 
 Source:	Grim Hollow: Lairs of Etharis p. 60</description>
     <environment/>
@@ -463,7 +463,7 @@ When a bloodbonded would take damage from a melee or ranged attack it can see th
     </reaction>
     <spells/>
     <slots/>
-    <description>"Those who've turned their back on both the Seraphs and the Daemons? That way lies madness."
+    <description>"Those who&apos;ve turned their back on both the Seraphs and the Daemons? That way lies madness."
 
 Source:	Grim Hollow: Lairs of Etharis p. 39</description>
     <environment/>
@@ -529,7 +529,7 @@ The bone trader can have no more than one humanoid charmed at a time, along with
     </action>
     <spells/>
     <slots/>
-    <description>"Do you really need all of your bones? Are you sure I couldn't just snack on a few? I'll gladly pay you for them."
+    <description>"Do you really need all of your bones? Are you sure I couldn&apos;t just snack on a few? I&apos;ll gladly pay you for them."
 
 Source:	Grim Hollow: Lairs of Etharis p. 13</description>
     <environment/>
@@ -592,16 +592,16 @@ As its movement for its turn, the candlelight daemon can teleport to an unoccupi
 While in dim light or darkness, the daemon can take the Hide action as a bonus action.</text>
     </trait>
     <trait>
-      <name>Slayer's Advantage</name>
+      <name>Slayer&apos;s Advantage</name>
       <text>
 The candlelight daemon has advantage on attack rolls against any creature that hasn't had a turn in combat.</text>
     </trait>
     <trait>
-      <name>Slayer's Attack (1/Turn)</name>
+      <name>Slayer&apos;s Attack (1/Turn)</name>
       <recharge>1/Turn</recharge>
       <text>
 The candlelight daemon deals an extra 35 10d6 damage when it hits a target with an attack and has advantage on the attack roll. With the suffocate spell, the daemon deals this damage as extra bludgeoning damage.</text>
-      <attack>Slayer's Attack||10d6</attack>
+      <attack>Slayer&apos;s Attack||10d6</attack>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -780,7 +780,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 91</description>
     <save/>
     <skill>Athletics +6</skill>
     <passive>10</passive>
-    <languages>understands one language but can't speak</languages>
+    <languages>understands one language but can&apos;t speak</languages>
     <cr>4</cr>
     <exp>1100</exp>
     <resist>necrotic</resist>
@@ -810,7 +810,7 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludg
     </action>
     <spells/>
     <slots/>
-    <description>"The callused skin of the merchant's hulking bodyguard ripples as if something beneath is trying to wriggle free."
+    <description>"The callused skin of the merchant&apos;s hulking bodyguard ripples as if something beneath is trying to wriggle free."
 
 Source:	Grim Hollow: Lairs of Etharis p. 67</description>
     <environment/>
@@ -885,7 +885,7 @@ If a creature dies inside the brute, the brute doesn't roll for Unstable Life at
     </action>
     <spells/>
     <slots/>
-    <description>"The callused skin of the merchant's hulking bodyguard ripples as if something beneath is trying to wriggle free."
+    <description>"The callused skin of the merchant&apos;s hulking bodyguard ripples as if something beneath is trying to wriggle free."
 
 Source:	Grim Hollow: Lairs of Etharis p. 68</description>
     <environment/>
@@ -907,10 +907,10 @@ Source:	Grim Hollow: Lairs of Etharis p. 68</description>
     <save>con +6, wis +3</save>
     <skill/>
     <passive>10</passive>
-    <languages>understands languages it knew in life but can't speak</languages>
+    <languages>understands languages it knew in life but can&apos;t speak</languages>
     <cr>6</cr>
     <exp>2300</exp>
-    <resist>bludgeoning, Piercing or Slashing damage from nonmagical attacks that aren't silvered</resist>
+    <resist>bludgeoning, Piercing or Slashing damage from nonmagical attacks that aren&apos;t silvered</resist>
     <immune>Necrotic, Poison</immune>
     <vulnerable/>
     <conditionImmune>Exhaustion, Poisoned</conditionImmune>
@@ -950,7 +950,7 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludge
     </action>
     <spells/>
     <slots/>
-    <description>"They rose from their graves, some by force of magic, others cursed through their life's misdeeds. Whatever the reason, we can't let them walk among the living."
+    <description>"They rose from their graves, some by force of magic, others cursed through their life&apos;s misdeeds. Whatever the reason, we can&apos;t let them walk among the living."
 
 Source:	Grim Hollow: Lairs of Etharis p. 103</description>
     <environment/>
@@ -1081,7 +1081,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludge
     </action>
     <spells/>
     <slots/>
-    <description>"Sometimes it's darkest after the dawn."
+    <description>"Sometimes it&apos;s darkest after the dawn."
 
 Source:	Grim Hollow: Lairs of Etharis p. 49</description>
     <environment/>
@@ -1213,7 +1213,7 @@ The downcast apostate is an 18th-level spellcaster. Its spellcasting ability is 
       <attack>Spell Attack|+8|</attack>
     </trait>
     <trait>
-      <name>Apostate's Weapons</name>
+      <name>Apostate&apos;s Weapons</name>
       <text>
 The downcast apostate's weapon attacks are magical.</text>
     </trait>
@@ -1339,7 +1339,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashi
       <text>
 The eldritch herald chooses a point it can see within 120 feet of it and rolls on the Eldritch Effects table. Each creature within 15 feet of that point must succeed on a DC 14 Wisdom saving throw or be subjected to an eldritch effect for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
     </action>
-    <spells>light, sacred flame, thaumaturgy, vicious mockery, bane, Tasha's hideous laughter, inflict wounds, sleep, detect thoughts, hold person, see invisibility, wrack, bestow curse, fear, spirit guardians, tongues, confusion, death ward, phantasmal killer, contact other plane, contagion, dream, true seeing</spells>
+    <spells>light, sacred flame, thaumaturgy, vicious mockery, bane, Tasha&apos;s hideous laughter, inflict wounds, sleep, detect thoughts, hold person, see invisibility, wrack, bestow curse, fear, spirit guardians, tongues, confusion, death ward, phantasmal killer, contact other plane, contagion, dream, true seeing</spells>
     <slots>0,4,3,3,3,2,1</slots>
     <description>Source:	Grim Hollow: Lairs of Etharis p. 41</description>
     <environment/>
@@ -1393,9 +1393,9 @@ Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) bludge
       <text>
 The eldritch priest chooses a point it can see within 120 feet of it and rolls on the Eldritch Effects table. Each creature within 15 feet of that point must succeed on a DC 12 Wisdom saving throw or be subjected to an eldritch effect for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
     </action>
-    <spells>eldritch blast, light, sacred flame, thaumaturgy, bane, Tasha's hideous laughter, inflict wounds, sleep, detect thoughts, see invisibility, spiritual weapon</spells>
+    <spells>eldritch blast, light, sacred flame, thaumaturgy, bane, Tasha&apos;s hideous laughter, inflict wounds, sleep, detect thoughts, see invisibility, spiritual weapon</spells>
     <slots>0,4,3</slots>
-    <description>"First she spoke of a power greater than the gods. Then there was this ringing in my ears. I don't remember what happened after that, but the nightmares were terrible."
+    <description>"First she spoke of a power greater than the gods. Then there was this ringing in my ears. I don&apos;t remember what happened after that, but the nightmares were terrible."
 
 Source:	Grim Hollow: Lairs of Etharis p. 41</description>
     <environment/>
@@ -1607,7 +1607,7 @@ The Empyrean brazen bull makes one bite attack against a Medium or smaller creat
     </action>
     <spells/>
     <slots/>
-    <description>"The smell of smoke and incense consumed the castle walls, and we heard the furious and gleeful bellows of the most immense bull we'd ever seen. As our battlements burned and crumbled, we knew all was lost."
+    <description>"The smell of smoke and incense consumed the castle walls, and we heard the furious and gleeful bellows of the most immense bull we&apos;d ever seen. As our battlements burned and crumbled, we knew all was lost."
 
 Source:	Grim Hollow: Lairs of Etharis p. 100</description>
     <environment/>
@@ -1704,7 +1704,7 @@ Blinded:
     </action>
     <spells/>
     <slots/>
-    <description>Eye crows are big corvids plentiful throughout Etharis. They mimic sounds and voices, and they're extremely clever, remembering faces, locations, and how other creatures treat them. People keep eye crows as pets and often use their iridescent black feathers, which have a deep-green sheen, to decorate.
+    <description>Eye crows are big corvids plentiful throughout Etharis. They mimic sounds and voices, and they&apos;re extremely clever, remembering faces, locations, and how other creatures treat them. People keep eye crows as pets and often use their iridescent black feathers, which have a deep-green sheen, to decorate.
 
 Source:	Grim Hollow: Lairs of Etharis p. 58</description>
     <environment/>
@@ -1767,7 +1767,7 @@ When an attack misses a faevlin, the faevlin can teleport up to 30 feet in a ran
     </reaction>
     <spells/>
     <slots/>
-    <description>"Never make a deal with the fey. Never make a deal with a goblin. And if you ever meet a faevlin, you'll know why."
+    <description>"Never make a deal with the fey. Never make a deal with a goblin. And if you ever meet a faevlin, you&apos;ll know why."
 
 Source:	Grim Hollow: Lairs of Etharis p. 9</description>
     <environment/>
@@ -1888,7 +1888,7 @@ The fzeg attacks with its bite.</text>
     </legendary>
     <spells/>
     <slots/>
-    <description>"We've been led to believe that vampires and werewolves are natural enemies. Convenient that two fearsome creatures would be so opposed to the other. Never did we imagine, nor prepare, for a time when they might unite."
+    <description>"We&apos;ve been led to believe that vampires and werewolves are natural enemies. Convenient that two fearsome creatures would be so opposed to the other. Never did we imagine, nor prepare, for a time when they might unite."
 
 Source:	Grim Hollow: Lairs of Etharis p. 80</description>
     <environment/>
@@ -1957,7 +1957,7 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 8 (2d4 + 3) slas
     </action>
     <spells/>
     <slots/>
-    <description>"We've been led to believe that vampires and werewolves are natural enemies. Convenient that two fearsome creatures would be so opposed to the other. Never did we imagine, nor prepare, for a time when they might unite."
+    <description>"We&apos;ve been led to believe that vampires and werewolves are natural enemies. Convenient that two fearsome creatures would be so opposed to the other. Never did we imagine, nor prepare, for a time when they might unite."
 
 Source:	Grim Hollow: Lairs of Etharis p. 79</description>
     <environment/>
@@ -2089,7 +2089,7 @@ Gegazol beats her wings. Each creature within 30 feet of her must succeed on a D
     </legendary>
     <spells/>
     <slots/>
-    <description>"The Scourge of the North is an undead dragon named Gegazol. If I hear her name, I get the hell out of there. She's powerful, cunning, and treacherous. And she's rarely alone—she always has one army or another behind her."
+    <description>"The Scourge of the North is an undead dragon named Gegazol. If I hear her name, I get the hell out of there. She&apos;s powerful, cunning, and treacherous. And she&apos;s rarely alone—she always has one army or another behind her."
 
 Gegazol's Lair:
 The Scourge's lair is the sinkhole cave on an island off the northernmost shores of Etharis, north of even the raging coldfire. In this cave, the daemon's skull sits. It rests at the bottom of a deep, wet cavern upon a pedestal carved into the earth. Magic wards protect the crack above the skull. Gegazol's Immortals, a brutal cadre of undead warriors the dragon created or conquered, guard the expanded catacombs around the shrine. Gegazol needs no rest, but between campaigns, she lounges within the shrine, curled around the skull's pedestal. The whole place stinks of decay, making the site nauseating. While in her lair, Gegazol's Stench radius increases to 120 feet.
@@ -2191,7 +2191,7 @@ If the seraph takes 35 damage or more on a single turn from a creature inside it
     </action>
     <spells>detect evil and good, detect magic, light, thaumaturgy, suggestion, create food and water</spells>
     <slots/>
-    <description>"Don't go to the temple. Something sinister has claimed it. Seek shelter elsewhere."
+    <description>"Don&apos;t go to the temple. Something sinister has claimed it. Seek shelter elsewhere."
 
 Source:	Grim Hollow: Lairs of Etharis p. 95</description>
     <environment/>
@@ -2269,7 +2269,7 @@ If any creature allied with and within 100 feet of the gnoll brute uses its Ramp
     </reaction>
     <spells/>
     <slots/>
-    <description>"I never believed the rumors about the Beast and how it could change people. Then I saw how everyone at the logging camp had been transformed. It had to be a power even greater than a god's."
+    <description>"I never believed the rumors about the Beast and how it could change people. Then I saw how everyone at the logging camp had been transformed. It had to be a power even greater than a god&apos;s."
 
 Source:	Grim Hollow: Lairs of Etharis p. 60</description>
     <environment/>
@@ -2353,7 +2353,7 @@ A tongue can be reattached within 1 hour of being severed with a successful DC 1
     </action>
     <spells>detect thoughts, zone of truth, hold person, invisibility, misty step, silence, levitate, tongues</spells>
     <slots/>
-    <description>"Don't lie to me, or the harvester will steal your tongue!"
+    <description>"Don&apos;t lie to me, or the harvester will steal your tongue!"
 
 Source:	Grim Hollow: Lairs of Etharis p. 13</description>
     <environment/>
@@ -2625,7 +2625,7 @@ One xakalonus within 30 feet of the hraptnon dies. The hraptnon regains hit poin
     </legendary>
     <spells/>
     <slots/>
-    <description>"The magic our wizard used just bounced off the gigantic creature, and as our fighter slashed at it with her sword, the creature's blood spawned even more monsters."
+    <description>"The magic our wizard used just bounced off the gigantic creature, and as our fighter slashed at it with her sword, the creature&apos;s blood spawned even more monsters."
 
 Source:	Grim Hollow: Lairs of Etharis p. 72</description>
     <environment/>
@@ -2897,7 +2897,7 @@ The lenchtahg targets one creature it can see within 60 feet of it with burning 
     </action>
     <spells/>
     <slots/>
-    <description>"The smoky, fiery form hisses and shrieks in a cacophony of anger and confusion. There's something almost holy in the sound."
+    <description>"The smoky, fiery form hisses and shrieks in a cacophony of anger and confusion. There&apos;s something almost holy in the sound."
 
 Source:	Grim Hollow: Lairs of Etharis p. 51</description>
     <environment/>
@@ -2970,7 +2970,7 @@ The seraph calls out a tempting promise to one creature that can hear it withing
     </action>
     <spells>detect evil and good, detect magic, light, minor illusion, thaumaturgy, identify, suggestion</spells>
     <slots/>
-    <description>"Don't go to the temple. Something sinister has claimed it. Seek shelter elsewhere."
+    <description>"Don&apos;t go to the temple. Something sinister has claimed it. Seek shelter elsewhere."
 
 Source:	Grim Hollow: Lairs of Etharis p. 94</description>
     <environment/>
@@ -3051,7 +3051,7 @@ Melee Weapon Attack: +7 to hit, reach 15 ft., one creature. Hit: 6 (1d4 + 4) blu
     </action>
     <spells>detect evil and good, detect magic, light, thaumaturgy, create food and water, suggestion</spells>
     <slots/>
-    <description>"Don't go to the temple. Something sinister has claimed it. Seek shelter elsewhere."
+    <description>"Don&apos;t go to the temple. Something sinister has claimed it. Seek shelter elsewhere."
 
 Source:	Grim Hollow: Lairs of Etharis p. 94</description>
     <environment/>
@@ -3229,7 +3229,7 @@ The lindwyrm burrows its speed and comes up beneath a target touching the ground
     </legendary>
     <spells/>
     <slots/>
-    <description>"My great grandfather spoke of the lindwyrm terrorizing the countryside and devouring whole villages. But it's been so long since anyone has seen the beast, it's likely the creature is long dead. Thank Miklas!"
+    <description>"My great grandfather spoke of the lindwyrm terrorizing the countryside and devouring whole villages. But it&apos;s been so long since anyone has seen the beast, it&apos;s likely the creature is long dead. Thank Miklas!"
 
 Source:	Grim Hollow: Lairs of Etharis p. 58</description>
     <environment/>
@@ -3251,7 +3251,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 58</description>
     <save/>
     <skill>perception +3, stealth +5</skill>
     <passive>13</passive>
-    <languages>can learn languages but can't speak</languages>
+    <languages>can learn languages but can&apos;t speak</languages>
     <cr>3</cr>
     <exp>700</exp>
     <resist>Cold, Fire</resist>
@@ -3282,7 +3282,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) pierc
     </action>
     <spells/>
     <slots/>
-    <description>"If you find a statue in the wild with its mouth open in a scream, flee. Best case, it's an artist working out their twisted ideas. Worst case, you'll be a statue soon."
+    <description>"If you find a statue in the wild with its mouth open in a scream, flee. Best case, it&apos;s an artist working out their twisted ideas. Worst case, you&apos;ll be a statue soon."
 
 Source:	Grim Hollow: Lairs of Etharis p. 61</description>
     <environment/>
@@ -3304,7 +3304,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 61</description>
     <save/>
     <skill>perception +5, stealth +6</skill>
     <passive>15</passive>
-    <languages>can learn languages but can't speak</languages>
+    <languages>can learn languages but can&apos;t speak</languages>
     <cr>6</cr>
     <exp>2300</exp>
     <resist>Cold, Fire</resist>
@@ -3341,7 +3341,7 @@ One lupilisk or lupilisk whelp the lupilisk elder can see within 30 feet of it c
     </action>
     <spells/>
     <slots/>
-    <description>"If you find a statue in the wild with its mouth open in a scream, flee. Best case, it's an artist working out their twisted ideas. Worst case, you'll be a statue soon."
+    <description>"If you find a statue in the wild with its mouth open in a scream, flee. Best case, it&apos;s an artist working out their twisted ideas. Worst case, you&apos;ll be a statue soon."
 
 Source:	Grim Hollow: Lairs of Etharis p. 62</description>
     <environment/>
@@ -3363,7 +3363,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 62</description>
     <save/>
     <skill>perception +2, stealth +4</skill>
     <passive>12</passive>
-    <languages>can learn languages but can't speak</languages>
+    <languages>can learn languages but can&apos;t speak</languages>
     <cr>1</cr>
     <exp>200</exp>
     <resist>Cold, Fire</resist>
@@ -3394,7 +3394,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) pierci
     </action>
     <spells/>
     <slots/>
-    <description>"If you find a statue in the wild with its mouth open in a scream, flee. Best case, it's an artist working out their twisted ideas. Worst case, you'll be a statue soon."
+    <description>"If you find a statue in the wild with its mouth open in a scream, flee. Best case, it&apos;s an artist working out their twisted ideas. Worst case, you&apos;ll be a statue soon."
 
 Source:	Grim Hollow: Lairs of Etharis p. 62</description>
     <environment/>
@@ -3801,7 +3801,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 70</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands Ignan and Terran but can't speak</languages>
+    <languages>understands Ignan and Terran but can&apos;t speak</languages>
     <cr>1/4</cr>
     <exp>50</exp>
     <resist/>
@@ -3858,7 +3858,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 72</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands Ignan and Terran but can't speak</languages>
+    <languages>understands Ignan and Terran but can&apos;t speak</languages>
     <cr>2</cr>
     <exp>450</exp>
     <resist>Bludgeoning, Piercing, Slashing</resist>
@@ -4320,7 +4320,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slash
     </action>
     <spells/>
     <slots/>
-    <description>"The squawking and flapping of wings didn't cause me to flee. The blood-dripping feathers and gnarled beak? A whole different story."
+    <description>"The squawking and flapping of wings didn&apos;t cause me to flee. The blood-dripping feathers and gnarled beak? A whole different story."
 
 Source:	Grim Hollow: Lairs of Etharis p. 38</description>
     <environment/>
@@ -4703,7 +4703,7 @@ Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 6 (1d6 + 3) bludg
     </action>
     <spells/>
     <slots/>
-    <description>"Descendants of the great dragons of the mythic past still roam Etharis. They have little of the majesty of their ancestors, but they're still frightening."
+    <description>"Descendants of the great dragons of the mythic past still roam Etharis. They have little of the majesty of their ancestors, but they&apos;re still frightening."
 
 Source:	Grim Hollow: Lairs of Etharis p. 51</description>
     <environment/>
@@ -4867,7 +4867,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 84</description>
     <save>wis +0</save>
     <skill/>
     <passive>8</passive>
-    <languages>understands the languages it knew in life but can't speak</languages>
+    <languages>understands the languages it knew in life but can&apos;t speak</languages>
     <cr>1</cr>
     <exp>200</exp>
     <resist/>
@@ -5037,7 +5037,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 85</description>
     <save/>
     <skill>perception +3</skill>
     <passive>13</passive>
-    <languages>understands languages it knew in life but can't speak</languages>
+    <languages>understands languages it knew in life but can&apos;t speak</languages>
     <cr>2</cr>
     <exp>450</exp>
     <resist/>
@@ -5107,7 +5107,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 87</description>
     <save>wis +3</save>
     <skill>insight +3, perception +3</skill>
     <passive>13</passive>
-    <languages>understands languages it knew in life but can't speak</languages>
+    <languages>understands languages it knew in life but can&apos;t speak</languages>
     <cr>3</cr>
     <exp>700</exp>
     <resist/>
@@ -5167,7 +5167,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 87</description>
     <save/>
     <skill>perception +2</skill>
     <passive>12</passive>
-    <languages>understands languages it knew in life but can't speak</languages>
+    <languages>understands languages it knew in life but can&apos;t speak</languages>
     <cr>1/2</cr>
     <exp>100</exp>
     <resist/>
@@ -5270,7 +5270,7 @@ Ranged Weapon Attack: +4 to hit, range 30/60 ft., one creature. Hit: The target 
     </action>
     <spells/>
     <slots/>
-    <description>"I don't brook with tanners no longer. If ya' know what's good for you, ya' won't ask me why."
+    <description>"I don't brook with tanners no longer. If ya' know what's good for you, ya&apos; won&apos;t ask me why."
 
 Source:	Grim Hollow: Lairs of Etharis p. 30</description>
     <environment/>
@@ -5334,7 +5334,7 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slash
     </action>
     <spells/>
     <slots/>
-    <description>"Descendants of the great dragons of the mythic past still roam Etharis. They have little of the majesty of their ancestors, but they're still frightening."
+    <description>"Descendants of the great dragons of the mythic past still roam Etharis. They have little of the majesty of their ancestors, but they&apos;re still frightening."
 
 Source:	Grim Hollow: Lairs of Etharis p. 63</description>
     <environment/>
@@ -5386,7 +5386,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) bludge
     </action>
     <spells/>
     <slots/>
-    <description>A sloth galloper is a hybrid sloth-ape that is an agile climber and fast sprinter. The beast's four apelike hands are sensitive, so it hesitates to move rapidly over rough terrain.
+    <description>A sloth galloper is a hybrid sloth-ape that is an agile climber and fast sprinter. The beast&apos;s four apelike hands are sensitive, so it hesitates to move rapidly over rough terrain.
 
 Source:	Grim Hollow: Lairs of Etharis p. 97</description>
     <environment/>
@@ -5882,7 +5882,7 @@ Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 4 (1d4 + 2) p
     </action>
     <spells/>
     <slots/>
-    <description>"I never believed the rumors about the Beast and how it could change people. Then I saw how everyone at the logging camp had been transformed. It had to be a power even greater than a god's."
+    <description>"I never believed the rumors about the Beast and how it could change people. Then I saw how everyone at the logging camp had been transformed. It had to be a power even greater than a god&apos;s."
 
 Source:	Grim Hollow: Lairs of Etharis p. 60</description>
     <environment/>
@@ -5950,7 +5950,7 @@ The vitebriate uses its psychic link with its thrall to transfer all damage it w
     </reaction>
     <spells/>
     <slots/>
-    <description>"I swear I've seen that kid before, years ago, when I was just a kid myself! But she hasn't aged a day."
+    <description>"I swear I&apos;ve seen that kid before, years ago, when I was just a kid myself! But she hasn&apos;t aged a day."
 
 Source:	Grim Hollow: Lairs of Etharis p. 21</description>
     <environment/>
@@ -6121,7 +6121,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 83</description>
     <save/>
     <skill>perception +4</skill>
     <passive>14</passive>
-    <languages>understands Draconic but can't speak</languages>
+    <languages>understands Draconic but can&apos;t speak</languages>
     <cr>8</cr>
     <exp>3900</exp>
     <resist/>
@@ -6261,7 +6261,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 82</description>
     <save/>
     <skill/>
     <passive>8</passive>
-    <languages>understands Giant but can't speak</languages>
+    <languages>understands Giant but can&apos;t speak</languages>
     <cr>4</cr>
     <exp>1100</exp>
     <resist>Cold, Necrotic</resist>

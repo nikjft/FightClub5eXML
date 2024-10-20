@@ -5,7 +5,7 @@
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
-    <text>While you wear these boots, you can click your heels together to cast the haste spell on yourself as a bonus action. You don't suffer from lethargy when the spell ends when cast using these boots. Once this property is used, it can't be used again until next dawn.
+    <text>While you wear these boots, you can click your heels together to cast the haste spell on yourself as a bonus action. You don&apos;t suffer from lethargy when the spell ends when cast using these boots. Once this property is used, it can&apos;t be used again until next dawn.
 
 Source:	Tal'Dorei Campaign Setting: Reborn p. 194</text>
   </item>
@@ -14,7 +14,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 194</text>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
-    <text>While you wear these boots, you can sense impending danger. After you roll initiative, you can choose to roll a d8 and add it to your initiative roll. Once this property is used, it can't be used again until the next dawn.
+    <text>While you wear these boots, you can sense impending danger. After you roll initiative, you can choose to roll a d8 and add it to your initiative roll. Once this property is used, it can&apos;t be used again until the next dawn.
 
 Source:	Tal'Dorei Campaign Setting: Reborn p. 194</text>
   </item>
@@ -41,7 +41,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 194</text>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
-    <text>This exquisite brocade coat is cut in a long, high-collared style popular among nobles of the Clovis Concord—a nation on the west coast of Wildemount whose stylish fashion is often mimicked in Tal'Dorei. Its shimmering lining hints at its magical properties. You gain a +1 bonus to AC while wearing this coat, which can be worn over light armor.
+    <text>This exquisite brocade coat is cut in a long, high-collared style popular among nobles of the Clovis Concord—a nation on the west coast of Wildemount whose stylish fashion is often mimicked in Tal&apos;Dorei. Its shimmering lining hints at its magical properties. You gain a +1 bonus to AC while wearing this coat, which can be worn over light armor.
 
 Additionally, the coat has 3 charges and regains 1d3 expended charges daily at dawn. When you are the target of an attack while wearing this coat, you can spend 1 charge as a reaction to gain resistance to one type of damage from the triggering attack. This resistance is effective against the triggering attack and lasts until the start of your next turn.
 
@@ -114,7 +114,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 195</text>
 Source:	Tal'Dorei Campaign Setting: Reborn p. 195</text>
   </item>
   <item>
-    <name>Graz'tchar, the Decadent End</name>
+    <name>Graz&apos;tchar, the Decadent End</name>
     <detail>greatsword, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -168,12 +168,12 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 196</text>
     <property>M,F,R</property>
   </item>
   <item>
-    <name>Magician's Judge</name>
+    <name>Magician&apos;s Judge</name>
     <detail>greatsword, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
     <weight>6</weight>
-    <text>An executioner's blade from the Age of Arcanum, this magic greatsword is one of many similar weapons once used to execute magic-wielding criminals. Though most commonly found in the lands now known as Wildemount and Issylra, a few such blades have found their way to Tal'Dorei.
+    <text>An executioner&apos;s blade from the Age of Arcanum, this magic greatsword is one of many similar weapons once used to execute magic-wielding criminals. Though most commonly found in the lands now known as Wildemount and Issylra, a few such blades have found their way to Tal&apos;Dorei.
 
 If you hit a creature with an attack using this weapon, you can cast the dispel magic spell from the sword against the target as part of the attack. Alternatively, you can use an action to cast dispel magic from the sword against a target of your choice. If you need to make a check with your spellcasting ability modifier as part of casting the spell, you make this check with a +3 modifier or your own spellcasting ability modifier, whichever is higher.
 
@@ -213,7 +213,7 @@ Once the connection between the two mirrors has been activated three times from 
 Source:	Tal'Dorei Campaign Setting: Reborn p. 196</text>
   </item>
   <item>
-    <name>Raven's Slumber</name>
+    <name>Raven&apos;s Slumber</name>
     <detail>pendant, very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -250,7 +250,7 @@ Once this property is used, it can't be used againuntil the next dawn.
 Source:	Tal'Dorei Campaign Setting: Reborn p. 197</text>
   </item>
   <item>
-    <name>Summer's Dance</name>
+    <name>Summer&apos;s Dance</name>
     <detail>scimitar, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -277,7 +277,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 197</text>
     <type>R</type>
     <magic>YES</magic>
     <weight>3</weight>
-    <text>This strange contraption of gears, wires, and lacquered wood has a handle with a metal grip and crank. Its stock bears a flamboyant maker's mark that reads: "Made in Hupperdook," a city in Wildemount. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+    <text>This strange contraption of gears, wires, and lacquered wood has a handle with a metal grip and crank. Its stock bears a flamboyant maker&apos;s mark that reads: "Made in Hupperdook," a city in Wildemount. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
 When you roll a 20 on an attack roll made with this weapon, you can immediately make another attack with this weapon after resolving the critical hit. When you roll a 1 on an attack roll made with this weapon, you must succeed on a DC 14 Dexterity saving throw or take 1d6 piercing damage as some of its gears and wires spring loose.
 
@@ -769,7 +769,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 202</text>
     <detail>legendary (requires attunement)</detail>
     <type>S</type>
     <magic>YES</magic>
-    <text>This antique armor forged from jade and black dragon scales was once worn by J'mon Sa Ord of Ank'Harel.
+    <text>This antique armor forged from jade and black dragon scales was once worn by J&apos;mon Sa Ord of Ank&apos;Harel.
 
 Dormant:
 While the Armor of the Valiant Soul is in a dormant state, you gain a +1 bonus to AC while wearing it. You can also cast the command spell (save DC 14) while attuned to this armor. Once this property is used, it can't be used again until you finish a long rest.
@@ -794,7 +794,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 202</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Cabal's Ruin</name>
+    <name>Cabal&apos;s Ruin</name>
     <detail>cloak, legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -898,12 +898,12 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 204</text>
     <range>100/400</range>
   </item>
   <item>
-    <name>Deathwalker's Ward</name>
+    <name>Deathwalker&apos;s Ward</name>
     <detail>leather armor, legendary (requires attunement)</detail>
     <type>LA</type>
     <magic>YES</magic>
     <weight>13</weight>
-    <text>This beautiful black leather armor is covered in intricate scrollwork, and has a mantle bearing the black feathers of the Matron of Ravens. Legends say that it has been worn by a number of that deity's champions over the centuries—most recently, Vax'ildan of Vox Machina.
+    <text>This beautiful black leather armor is covered in intricate scrollwork, and has a mantle bearing the black feathers of the Matron of Ravens. Legends say that it has been worn by a number of that deity&apos;s champions over the centuries—most recently, Vax&apos;ildan of Vox Machina.
 
 Dormant:
 When the Deathwalker's Ward is in a dormant state, you gain a +1 bonus to AC and you have advantage on death saving throws while wearing the armor.
@@ -930,7 +930,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 204</text>
     <type>R</type>
     <magic>YES</magic>
     <weight>2</weight>
-    <text>This gorgeous longbow made of everbark from the Fey Realm flexes and shifts like a living entity. It is said to have been wielded by the legendary ranger Vex'ahlia against great evils.
+    <text>This gorgeous longbow made of everbark from the Fey Realm flexes and shifts like a living entity. It is said to have been wielded by the legendary ranger Vex&apos;ahlia against great evils.
 
 Dormant:
 While Fenthras is in a dormant state, you gain a +1 bonus to attack and damage rolls made with this magic weapon. When you make an attack with Fenthras, you can declare it an oracle shot, allowing you to experience the area around the arrow using your normal senses for 10 minutes. Once this property is used, it can't be used again until you finish a short or long rest.
@@ -968,7 +968,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 205</text>
     <range>150/600</range>
   </item>
   <item>
-    <name>Honor's Last Stand</name>
+    <name>Honor&apos;s Last Stand</name>
     <detail>shield, legendary (requires attunement by a creature of non-evil alignment)</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -1001,7 +1001,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 206</text>
     <detail>amulet, legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
-    <text>A beautiful, glittering emerald is set within this silver chain, humming with power and possibility. It is said that this amulet was stolen from the neck of the Changebringer herself by the Lord of the Hells, and locked within the vaults of Bazzoxan in Wildemount. It was later claimed there by a group of Aurora Watch soldiers during an expedition into that grim fortress's abandoned temples.
+    <text>A beautiful, glittering emerald is set within this silver chain, humming with power and possibility. It is said that this amulet was stolen from the neck of the Changebringer herself by the Lord of the Hells, and locked within the vaults of Bazzoxan in Wildemount. It was later claimed there by a group of Aurora Watch soldiers during an expedition into that grim fortress&apos;s abandoned temples.
 
 Dormant:
 While the Kiss of the Changebringer is in a dormant state, you have a +1 bonus to saving throws and are immune to the grappled condition while wearing it.
@@ -1174,7 +1174,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 209</text>
     <type>M</type>
     <magic>YES</magic>
     <weight>3</weight>
-    <text>The thick, grooved blade of this shining silver longsword is lined with etched runes that sparkle blue in the light. Star Razor—known also as Dwueth'var—was thought to have been destroyed or lost after the Calamity, but new rumors suggest that it might be wielded by a half-orc somewhere in Wildemount.
+    <text>The thick, grooved blade of this shining silver longsword is lined with etched runes that sparkle blue in the light. Star Razor—known also as Dwueth&apos;var—was thought to have been destroyed or lost after the Calamity, but new rumors suggest that it might be wielded by a half-orc somewhere in Wildemount.
 
 Dormant:
 While Star Razor is in a dormant state, you can hold this magic longsword and use a bonus action to speak the command word Galasvar, causing the sword to emit a pale blue glow that sheds bright light in a 20-foot radius and dim light for an additional 20 feet. This glow lasts until you use a bonus action to speak the command word again, or until you drop or sheathe the sword.
@@ -1210,7 +1210,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 210</text>
     <detail>gauntlets, legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
-    <text>Carved from the heartstone of a slain earth primordial, these gauntlets bestow immeasurable might to their wearer. In recent times, they were wielded by the legendary barbarian Grog Strongjaw, who continues to use them as he seeks worthy challengers across Tal'Dorei and Exandria.
+    <text>Carved from the heartstone of a slain earth primordial, these gauntlets bestow immeasurable might to their wearer. In recent times, they were wielded by the legendary barbarian Grog Strongjaw, who continues to use them as he seeks worthy challengers across Tal&apos;Dorei and Exandria.
 
 Dormant:
 While the Titanstone Knuckles are in a dormant state, your Strength score becomes 22 while you wear these gauntlets. Additionally, your weapon attacks deal double damage to objects and structures.
@@ -1235,7 +1235,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 211</text>
     <type>M</type>
     <magic>YES</magic>
     <weight>1</weight>
-    <text>Forged with a mercurial metal accidentally drawn from the Realms Beyond, this dagger shimmers with an unsettling sourceless light. It was once wielded by Vax'ildan, a legendary champion of the Matron of Ravens. Two raven feathers are linked to its pommel as a memento of its former bearer.
+    <text>Forged with a mercurial metal accidentally drawn from the Realms Beyond, this dagger shimmers with an unsettling sourceless light. It was once wielded by Vax&apos;ildan, a legendary champion of the Matron of Ravens. Two raven feathers are linked to its pommel as a memento of its former bearer.
 
 Dormant:
 While Whisper is in a dormant state, you gain a +1 bonus to attack and damage rolls made with this magic weapon.

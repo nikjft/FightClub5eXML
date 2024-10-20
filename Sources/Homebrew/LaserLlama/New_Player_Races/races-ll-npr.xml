@@ -9,7 +9,7 @@
     <spellAbility>Wisdom</spellAbility>
     <trait category="description">
       <name>Description</name>
-      <text>When I was a child I sought out the guardian of my people's ancestral forest. I wandered for days deep within the woods, and I am certain that I never have found the ancient gardener had he wished to remain hidden from me. His true name was too much long for me to comprehend, but he allowed me to call him Whiproot.
+      <text>When I was a child I sought out the guardian of my people&apos;s ancestral forest. I wandered for days deep within the woods, and I am certain that I never have found the ancient gardener had he wished to remain hidden from me. His true name was too much long for me to comprehend, but he allowed me to call him Whiproot.
 
 For a year and a day he taught me the ways of the wood, slowly nurturing my druidic potential. Sometimes I still see those ancient green eyes in my dreams. Though I have grown old, I know that the gardener is still out there in the forest of my people, quietly singing to himself as he tends to the trees.
 
@@ -48,7 +48,7 @@ Though rarely roused to action, Entlings who strike out into the world often do 
       <text>Entlings reflect the forests and plants they tend to, and thus come in all shapes and sizes. Your size is Medium.</text>
     </trait>
     <trait>
-      <name>Gardener's Lore</name>
+      <name>Gardener&apos;s Lore</name>
       <text>You gain proficiency in the Nature skill, and you can make a Wisdom (Nature) check whenever you would normally make an Intelligence (Nature) check.</text>
     </trait>
     <trait>
@@ -57,7 +57,7 @@ Though rarely roused to action, Entlings who strike out into the world often do 
     </trait>
     <trait>
       <name>Photosynthetic</name>
-      <text>You don't need to eat or drink so long as you are exposed to sunlight for 1 hour each day. To gain the benfits of a long rest, you must spend at least 6 hours in an inactive, motionless state, though you remain aware of your surroundings. In this state, you can see and hear as normal, and you appear to be a normal tree unless closely inspected.</text>
+      <text>You don&apos;t need to eat or drink so long as you are exposed to sunlight for 1 hour each day. To gain the benfits of a long rest, you must spend at least 6 hours in an inactive, motionless state, though you remain aware of your surroundings. In this state, you can see and hear as normal, and you appear to be a normal tree unless closely inspected.</text>
     </trait>
     <trait>
       <name>Shepherd of the Forest</name>
@@ -88,7 +88,7 @@ Source:	LaserLlama: New &amp; Alternate Player Races v2.0.0 p. 3 (Homebrew)</tex
     </trait>
     <trait category="description">
       <name>Dwarven Tradition</name>
-      <text>Half-dwarves often showcase the best of both of their parents' heritage. Like dwarves, they will usually place high value on honorable conduct and reputation. And, although they are not considered full members of their respective clans, most half-dwarves will go to great lengths to win acceptance, or prevent bringing shame upon the clan of their dwarven parent.
+      <text>Half-dwarves often showcase the best of both of their parents&apos; heritage. Like dwarves, they will usually place high value on honorable conduct and reputation. And, although they are not considered full members of their respective clans, most half-dwarves will go to great lengths to win acceptance, or prevent bringing shame upon the clan of their dwarven parent.
 
 Often, when a clan has risky or nefarious business to take care of, they will task a half-dwarf with taking care of things. That way, should things go poorly, dishonor is not brought upon a full-blooded member of the clan. Seeking to belong, half-dwarves will go to great lengths to gain the favor of their dwarven relatives. Refusing to deny their human heritage, it is very difficult, and requires great feats of service for a half-dwarf to be recognized by the elders as a member of the clan.</text>
     </trait>
@@ -124,7 +124,7 @@ In the Dark Sun setting, half-dwarves are known as Mul, and sadly, due to their 
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Thanks to your dwarven blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. However, you can't discern color when in darkness, only shades of gray.</text>
+      <text>Thanks to your dwarven blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. However, you can&apos;t discern color when in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Hardy</name>
@@ -132,7 +132,7 @@ In the Dark Sun setting, half-dwarves are known as Mul, and sadly, due to their 
     </trait>
     <trait>
       <name>Natural Craftsman</name>
-      <text>You gain proficiency with one set of artisan's tools of your choice. You add double your proficiency bonus to any ability check you make that uses those tools.</text>
+      <text>You gain proficiency with one set of artisan&apos;s tools of your choice. You add double your proficiency bonus to any ability check you make that uses those tools.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -280,7 +280,7 @@ If you replace a race with this lineage, you keep any climbing, flying, or swimm
     <spellAbility/>
     <trait category="description">
       <name>Description</name>
-      <text>Every fairy I've ever met has been irritating beyond belief, and I cannot fathom why the Prince of Winter hasn't expelled the little buggers from his court completely. Sure, their small stature and tiny wings allow them to access places that I certainly couldn't, and their skill with illusion magic does come in handy more often than I'd like to admit. Actually, now that I think about it, they do seem to have their uses. Maybe I need to give these tricksters another chance.
+      <text>Every fairy I've ever met has been irritating beyond belief, and I cannot fathom why the Prince of Winter hasn't expelled the little buggers from his court completely. Sure, their small stature and tiny wings allow them to access places that I certainly couldn&apos;t, and their skill with illusion magic does come in handy more often than I&apos;d like to admit. Actually, now that I think about it, they do seem to have their uses. Maybe I need to give these tricksters another chance.
 
 -Sir Tumnus Longfinger
 Champion of the Winter Court
@@ -325,7 +325,7 @@ As a Tiny creature, you can only wield weapons that have the Light property, and
     </trait>
     <trait>
       <name>Fey Ancestry</name>
-      <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
+      <text>You have advantage on saving throws against being charmed, and magic can&apos;t put you to sleep.</text>
     </trait>
     <trait>
       <name>Fey Magic</name>
@@ -345,7 +345,7 @@ As a Tiny creature, you can only wield weapons that have the Light property, and
     <spellAbility/>
     <trait category="description">
       <name>Description</name>
-      <text>Paul rivers enlisted in the town guard the day he turned sixteen. None of the villagers thought that this was a particularly good idea, but no one had the heart to turn the boy away. And after all, the village hadn't been attacked by monsters in almost ten summers. Paul trained with the rest of the guardsmen, and despite his boyish personality, he was a natural with the sword and spear. Over the next few months he grew in skill and strength, and by the following summer, Paul was able to best every warrior in the village.
+      <text>Paul rivers enlisted in the town guard the day he turned sixteen. None of the villagers thought that this was a particularly good idea, but no one had the heart to turn the boy away. And after all, the village hadn&apos;t been attacked by monsters in almost ten summers. Paul trained with the rest of the guardsmen, and despite his boyish personality, he was a natural with the sword and spear. Over the next few months he grew in skill and strength, and by the following summer, Paul was able to best every warrior in the village.
 
 Just before harvest, a group of evil cultists descended upon the small hamlet. They stole everything of value, and burned anything that couldn't be stolen. At the town's most desperate moment, with the survivors cowered in the armory, the cult's champion issued a challenge. A duel to the death for the lives of the remaining villagers. Without saying a word, Paul drew his sword and stepped forward to defend his home.
 
@@ -412,7 +412,7 @@ When combined with their natural talents, this drive allows humans to rival the 
     <spellAbility/>
     <trait category="description">
       <name>Description</name>
-      <text>Paul rivers enlisted in the town guard the day he turned sixteen. None of the villagers thought that this was a particularly good idea, but no one had the heart to turn the boy away. And after all, the village hadn't been attacked by monsters in almost ten summers. Paul trained with the rest of the guardsmen, and despite his boyish personality, he was a natural with the sword and spear. Over the next few months he grew in skill and strength, and by the following summer, Paul was able to best every warrior in the village.
+      <text>Paul rivers enlisted in the town guard the day he turned sixteen. None of the villagers thought that this was a particularly good idea, but no one had the heart to turn the boy away. And after all, the village hadn&apos;t been attacked by monsters in almost ten summers. Paul trained with the rest of the guardsmen, and despite his boyish personality, he was a natural with the sword and spear. Over the next few months he grew in skill and strength, and by the following summer, Paul was able to best every warrior in the village.
 
 Just before harvest, a group of evil cultists descended upon the small hamlet. They stole everything of value, and burned anything that couldn't be stolen. At the town's most desperate moment, with the survivors cowered in the armory, the cult's champion issued a challenge. A duel to the death for the lives of the remaining villagers. Without saying a word, Paul drew his sword and stepped forward to defend his home.
 
@@ -483,7 +483,7 @@ When combined with their natural talents, this drive allows humans to rival the 
     <spellAbility/>
     <trait category="description">
       <name>Description</name>
-      <text>Paul rivers enlisted in the town guard the day he turned sixteen. None of the villagers thought that this was a particularly good idea, but no one had the heart to turn the boy away. And after all, the village hadn't been attacked by monsters in almost ten summers. Paul trained with the rest of the guardsmen, and despite his boyish personality, he was a natural with the sword and spear. Over the next few months he grew in skill and strength, and by the following summer, Paul was able to best every warrior in the village.
+      <text>Paul rivers enlisted in the town guard the day he turned sixteen. None of the villagers thought that this was a particularly good idea, but no one had the heart to turn the boy away. And after all, the village hadn&apos;t been attacked by monsters in almost ten summers. Paul trained with the rest of the guardsmen, and despite his boyish personality, he was a natural with the sword and spear. Over the next few months he grew in skill and strength, and by the following summer, Paul was able to best every warrior in the village.
 
 Just before harvest, a group of evil cultists descended upon the small hamlet. They stole everything of value, and burned anything that couldn't be stolen. At the town's most desperate moment, with the survivors cowered in the armory, the cult's champion issued a challenge. A duel to the death for the lives of the remaining villagers. Without saying a word, Paul drew his sword and stepped forward to defend his home.
 
@@ -550,7 +550,7 @@ When combined with their natural talents, this drive allows humans to rival the 
     <spellAbility/>
     <trait category="description">
       <name>Description</name>
-      <text>Paul rivers enlisted in the town guard the day he turned sixteen. None of the villagers thought that this was a particularly good idea, but no one had the heart to turn the boy away. And after all, the village hadn't been attacked by monsters in almost ten summers. Paul trained with the rest of the guardsmen, and despite his boyish personality, he was a natural with the sword and spear. Over the next few months he grew in skill and strength, and by the following summer, Paul was able to best every warrior in the village.
+      <text>Paul rivers enlisted in the town guard the day he turned sixteen. None of the villagers thought that this was a particularly good idea, but no one had the heart to turn the boy away. And after all, the village hadn&apos;t been attacked by monsters in almost ten summers. Paul trained with the rest of the guardsmen, and despite his boyish personality, he was a natural with the sword and spear. Over the next few months he grew in skill and strength, and by the following summer, Paul was able to best every warrior in the village.
 
 Just before harvest, a group of evil cultists descended upon the small hamlet. They stole everything of value, and burned anything that couldn't be stolen. At the town's most desperate moment, with the survivors cowered in the armory, the cult's champion issued a challenge. A duel to the death for the lives of the remaining villagers. Without saying a word, Paul drew his sword and stepped forward to defend his home.
 
@@ -761,7 +761,7 @@ a shield, a club, a javelin, or 1d4 darts or needles.</text>
     </trait>
     <trait>
       <name>Hungry Jaws</name>
-      <text>As a bonus action, you can make a special attack with your bite. If the attack hits, it deals its normal damage, and you gain temporary hit points (minimum of 1) equal to your Constitution modifier, and you can't use this trait again until you finish a short or long rest.</text>
+      <text>As a bonus action, you can make a special attack with your bite. If the attack hits, it deals its normal damage, and you gain temporary hit points (minimum of 1) equal to your Constitution modifier, and you can&apos;t use this trait again until you finish a short or long rest.</text>
     </trait>
     <trait>
       <name>Languages</name>

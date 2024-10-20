@@ -18,7 +18,7 @@ Source:	Unearthed Arcana: Fighter, Rogue, and Wizard p. 3</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Psionics (UA): Psionic Devotion</name>
-        <text>Your study of psionics begins to unleash your mind's potential. When you gain this feature, choose one of the following cantrips: friends, mage hand, or message. You learn that cantrip if you don't already know it, and it doesn't count against the number of wizard cantrips you know. While your psionic focus is on your person, you can cast the chosen cantrip as a bonus action, requiring no components, and with the modification listed below:
+        <text>Your study of psionics begins to unleash your mind's potential. When you gain this feature, choose one of the following cantrips: friends, mage hand, or message. You learn that cantrip if you don&apos;t already know it, and it doesn&apos;t count against the number of wizard cantrips you know. While your psionic focus is on your person, you can cast the chosen cantrip as a bonus action, requiring no components, and with the modification listed below:
 
 Friends:
 When the spell ends, the target doesn't become hostile to you.
@@ -102,7 +102,7 @@ Source:	Unearthed Arcana: Fighter, Rogue, and Wizard p. 3</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Psionics (UA): Empowered Psionics</name>
-        <text>When you deal psychic or force damage with a wizard spell, you can add your Intelligence modifier to the damage against one of the spell's targets.
+        <text>When you deal psychic or force damage with a wizard spell, you can add your Intelligence modifier to the damage against one of the spell&apos;s targets.
 
 Source:	Unearthed Arcana: Fighter, Rogue, and Wizard p. 3</text>
       </feature>
@@ -111,7 +111,7 @@ Source:	Unearthed Arcana: Fighter, Rogue, and Wizard p. 3</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Psionics (UA): Mental Discipline</name>
-        <text>Your mind's power expands to greater heights. When you gain this feature, choose one of the following spells: dominate person, scrying, or telekinesis. You can add the spell to your spellbook, and you can cast it without components.
+        <text>Your mind&apos;s power expands to greater heights. When you gain this feature, choose one of the following spells: dominate person, scrying, or telekinesis. You can add the spell to your spellbook, and you can cast it without components.
 
 You can also cast the chosen spell once without expending a spell slot. After you do so, you regain the ability to cast the spell without a slot when you finish a long rest.
 

@@ -26,7 +26,7 @@ Source:	Explorer's Guide to Wildemount p. 203</text>
     </trait>
     <trait>
       <name>Spy Specialty</name>
-      <text>There are many kinds of spies, and within a thieves' guild or similar criminal organization, individual members have particular specialties. Even spies who operate outside of such organizations have strong preferences for certain kinds of crimes over others.
+      <text>There are many kinds of spies, and within a thieves&apos; guild or similar criminal organization, individual members have particular specialties. Even spies who operate outside of such organizations have strong preferences for certain kinds of crimes over others.
 
 Choose the role you played in your criminal life, or roll on the table below.
 
@@ -159,7 +159,7 @@ d6 | Flaw
     <proficiency>Deception, Performance</proficiency>
     <trait>
       <name>Description</name>
-      <text>The Golden Grin began in the far-off land of Tal'Dorei, trading secret messages through a network of bards and minstrels to undermine an iron-fisted king's authoritarian rule. Today, Tal'Dorei is a relatively peaceful republic, and some Grinners have grown restless while waiting for tyranny to raise its ugly head again. A contingent of such Grinners traveled to the Menagerie Coast and set up a network of secret bases in the cities of the Clovis Concord, from which they are presently working their way into the highest echelons of the Dwendalian Empire.
+      <text>The Golden Grin began in the far-off land of Tal'Dorei, trading secret messages through a network of bards and minstrels to undermine an iron-fisted king&apos;s authoritarian rule. Today, Tal&apos;Dorei is a relatively peaceful republic, and some Grinners have grown restless while waiting for tyranny to raise its ugly head again. A contingent of such Grinners traveled to the Menagerie Coast and set up a network of secret bases in the cities of the Clovis Concord, from which they are presently working their way into the highest echelons of the Dwendalian Empire.
 
 You are a Grinner. Your goals are to spread freedom and inspire hope — or, in time, revolution — in the hearts of the oppressed.
 
@@ -186,7 +186,7 @@ d6 | Favorite Code-Song
     </trait>
     <trait>
       <name>Feature: Ballad of the Grinning Fool</name>
-      <text>Like every Grinner, you know how to find a hideout. In any city of 10,000 people or more on the Menagerie Coast or in the lands of the Dwendalian Empire, you can play the "Ballad of the Grinning Fool" in a major tavern or inn. A member of the Golden Grin will find you and give shelter to you and any companions you vouch for. This shelter might be discontinued if it becomes too dangerous to hide you, at the DM's discretion.
+      <text>Like every Grinner, you know how to find a hideout. In any city of 10,000 people or more on the Menagerie Coast or in the lands of the Dwendalian Empire, you can play the "Ballad of the Grinning Fool" in a major tavern or inn. A member of the Golden Grin will find you and give shelter to you and any companions you vouch for. This shelter might be discontinued if it becomes too dangerous to hide you, at the DM&apos;s discretion.
 
 This feature must be used with caution, for not all who know the ballad are your friends. Some are traitors, counterspies, or agents of tyranny.</text>
     </trait>
@@ -304,7 +304,7 @@ Source:	Explorer's Guide to Wildemount p. 203</text>
     </trait>
     <trait>
       <name>Criminal Specialty</name>
-      <text>There are many kinds of criminals, and within a thieves' guild or similar criminal organization, individual members have particular specialties. Even criminals who operate outside of such organizations have strong preferences for certain kinds of crimes over others. Choose the role you played in your criminal life, or roll on the table below.
+      <text>There are many kinds of criminals, and within a thieves&apos; guild or similar criminal organization, individual members have particular specialties. Even criminals who operate outside of such organizations have strong preferences for certain kinds of crimes over others. Choose the role you played in your criminal life, or roll on the table below.
 
 Criminal Specialty:
 d8 | Specialty
@@ -366,7 +366,7 @@ d6 | Flaw
     <proficiency>Athletics, Perception</proficiency>
     <trait>
       <name>Description</name>
-      <text>It seems that just about everyone is a sailor on the Menagerie Coast. Plenty of pirates ply the waters of the coast as well, but none are as infamous or as organized as the mighty Revelry. If you're a pirate of the Revelry, you serve the Plank King and return a cut of all your plunder to him on the island of Darktow.
+      <text>It seems that just about everyone is a sailor on the Menagerie Coast. Plenty of pirates ply the waters of the coast as well, but none are as infamous or as organized as the mighty Revelry. If you&apos;re a pirate of the Revelry, you serve the Plank King and return a cut of all your plunder to him on the island of Darktow.
 
 The Revelry doesn't take kindly to traitors and deserters, so if you count yourself a former member of that crew, you'll want to watch your back while traveling on the Menagerie Coast. Thugs might hassle you and your allies until you even the score with the Revelry, either by paying up, submitting to imprisonment, or proving that you're too dangerous to tangle with.
 
@@ -377,12 +377,12 @@ The Revelry doesn't take kindly to traitors and deserters, so if you count yours
 Source:	Explorer's Guide to Wildemount p. 203</text>
     </trait>
     <trait>
-      <name>Feature: Ship's Passage</name>
-      <text>When you need to, you can secure free passage on a sailing ship for yourself and your adventuring companions. You might sail on the ship you served on, or another ship you have good relations with (perhaps one captained by a former crewmate). Because you're calling in a favor, you can't be certain of a schedule or route that will meet your every need. Your Dungeon Master will determine how long it takes to get where you need to go. In return for your free passage, you and your companions are expected to assist the crew during the voyage.</text>
+      <name>Feature: Ship&apos;s Passage</name>
+      <text>When you need to, you can secure free passage on a sailing ship for yourself and your adventuring companions. You might sail on the ship you served on, or another ship you have good relations with (perhaps one captained by a former crewmate). Because you&apos;re calling in a favor, you can&apos;t be certain of a schedule or route that will meet your every need. Your Dungeon Master will determine how long it takes to get where you need to go. In return for your free passage, you and your companions are expected to assist the crew during the voyage.</text>
     </trait>
     <trait>
       <name>Variant Feature: Bad Reputation</name>
-      <text>If your character has a sailor background, you may select this background feature instead of Ship's Passage.
+      <text>If your character has a sailor background, you may select this background feature instead of Ship&apos;s Passage.
 
 No matter where you go, people are afraid of you due to your reputation. When you are in a civilized settlement, you can get away with minor criminal offenses, such as refusing to pay for food at a tavern or breaking down doors at a local shop, since most people will not report your activity to the authorities.</text>
     </trait>
@@ -443,7 +443,7 @@ Source:	Explorer's Guide to Wildemount p. 202</text>
     </trait>
     <trait>
       <name>Tragedy</name>
-      <text>Happy people aren't selected to join the Volstrucker. The Cerberus Assembly preys upon talented individuals who have been broken by tragedy — in some cases, tragedy that the Volstrucker has arranged for. A slightly broken mind is more easily reshaped and reeducated. Choose the tragedy that set you on this path, or roll on the Tragedies table.
+      <text>Happy people aren&apos;t selected to join the Volstrucker. The Cerberus Assembly preys upon talented individuals who have been broken by tragedy — in some cases, tragedy that the Volstrucker has arranged for. A slightly broken mind is more easily reshaped and reeducated. Choose the tragedy that set you on this path, or roll on the Tragedies table.
 
 d6 | Tragedy
 1 | Familicide. Through deceit or manipulation, the Volstrucker convinced you to slaughter your own family.
@@ -461,7 +461,7 @@ The ink used to send a letter across the shadow network is the same as that used
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>Agents of the Volstrucker are groomed to follow orders without question and to kill without mercy. The trauma that brings one into the order can fester even more strongly against the darkness of a Volstrucker agent's assignments. Officially, no one ever leaves the order — but those desperate enough do whatever it takes to gain some measure of freedom.
+      <text>Agents of the Volstrucker are groomed to follow orders without question and to kill without mercy. The trauma that brings one into the order can fester even more strongly against the darkness of a Volstrucker agent&apos;s assignments. Officially, no one ever leaves the order — but those desperate enough do whatever it takes to gain some measure of freedom.
 
 d6 | Personality Trait
 1 | I prefer to keep my thoughts to myself.

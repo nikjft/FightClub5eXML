@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <monster>
     <name>Adult Time Dragon [2014]</name>
@@ -24,7 +25,7 @@
     <passive>25</passive>
     <languages>all</languages>
     <cr>18</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 50, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 50, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+6</text>
@@ -55,7 +56,7 @@ Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 14 (2d6 + 7) sla
       <name>Time Breath (Recharge 5-6)</name>
       <recharge>D5</recharge>
       <text>
-The dragon exhales a wave of shimmering light in a 60-foot cone. Nonmagical objects and vegetation in that area that aren't being worn or carried crumble to dust. Each creature in that area must make a DC 20 Constitution saving throw. On a failed save, a creature takes 36 (8d8) force damage and is magically weakened as it is desynchronized from the time stream. While the creature is in this state, attack rolls against it have advantage, and it has the poisoned condition. On a successful save, a creature takes half as much damage only. A weakened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself after it succeeds on three of these saves.</text>
+The dragon exhales a wave of shimmering light in a 60-foot cone. Nonmagical objects and vegetation in that area that aren&apos;t being worn or carried crumble to dust. Each creature in that area must make a DC 20 Constitution saving throw. On a failed save, a creature takes 36 (8d8) force damage and is magically weakened as it is desynchronized from the time stream. While the creature is in this state, attack rolls against it have advantage, and it has the poisoned condition. On a successful save, a creature takes half as much damage only. A weakened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself after it succeeds on three of these saves.</text>
     </action>
     <reaction>
       <name>Reactive Rend</name>
@@ -65,7 +66,7 @@ After using Legendary Resistance or in response to being hit by an attack roll, 
     <reaction>
       <name>Slow Time</name>
       <text>
-Immediately after a creature the dragon can see ends its turn, the dragon targets a creature it can see within 60 feet of itself that is weakened by its Time Breath. Until the weakened effect ends on the target, its speed becomes 0, and its speed can't increase.</text>
+Immediately after a creature the dragon can see ends its turn, the dragon targets a creature it can see within 60 feet of itself that is weakened by its Time Breath. Until the weakened effect ends on the target, its speed becomes 0, and its speed can&apos;t increase.</text>
     </reaction>
     <reaction>
       <name>Time Slip</name>
@@ -97,7 +98,7 @@ The dragon halves the damage it takes from an attack made against it, provided i
     <passive>30</passive>
     <languages>all</languages>
     <cr>26</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 48, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 48, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+8</text>
@@ -133,13 +134,13 @@ Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 22 (3d8 + 9) sla
       <name>Time Breath (Recharge 5-6)</name>
       <recharge>D5</recharge>
       <text>
-The dragon exhales a wave of shimmering light in a 90-foot cone. Nonmagical objects and vegetation in that area that aren't being worn or carried crumble to dust. Each creature in that area must make a DC 24 Constitution saving throw. On a failed save, a creature takes 52 (8d12) force damage and is magically weakened as it is desynchronized from the time stream. While the creature is in this state, attack rolls against it have advantage, it has the poisoned condition, and other creatures have resistance to all damage it deals. On a successful save, the creature takes half as much damage only. A weakened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself after it succeeds on three of these saves.</text>
+The dragon exhales a wave of shimmering light in a 90-foot cone. Nonmagical objects and vegetation in that area that aren&apos;t being worn or carried crumble to dust. Each creature in that area must make a DC 24 Constitution saving throw. On a failed save, a creature takes 52 (8d12) force damage and is magically weakened as it is desynchronized from the time stream. While the creature is in this state, attack rolls against it have advantage, it has the poisoned condition, and other creatures have resistance to all damage it deals. On a successful save, the creature takes half as much damage only. A weakened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself after it succeeds on three of these saves.</text>
     </action>
     <action>
       <name>Time Gate (1/Day)</name>
       <recharge>1/Day</recharge>
       <text>
-The dragon conjures a 20-foot-diameter, circular portal in the space between its horns or in an unoccupied space it can see within 30 feet of itself. The portal links to a precise location on any plane of existence at a point in time up to 8,000 years from the present, whether past or future. The portal lasts for 24 hours or until the dragon's concentration ends (as if concentration on a spell). The portal has a front and a back on each plane where it appears. Travel through the portal is possible only by moving through its front. Anything that does so is transported to the destination, appearing in the unoccupied space nearest to the portal. Deities and other planar rulers can prevent portals created by the dragon from opening in the rulers' presence or anywhere within their domains.</text>
+The dragon conjures a 20-foot-diameter, circular portal in the space between its horns or in an unoccupied space it can see within 30 feet of itself. The portal links to a precise location on any plane of existence at a point in time up to 8,000 years from the present, whether past or future. The portal lasts for 24 hours or until the dragon&apos;s concentration ends (as if concentration on a spell). The portal has a front and a back on each plane where it appears. Travel through the portal is possible only by moving through its front. Anything that does so is transported to the destination, appearing in the unoccupied space nearest to the portal. Deities and other planar rulers can prevent portals created by the dragon from opening in the rulers&apos; presence or anywhere within their domains.</text>
     </action>
     <reaction>
       <name>Reactive Rend</name>
@@ -149,7 +150,7 @@ After using Legendary Resistance or in response to being hit by an attack roll, 
     <reaction>
       <name>Slow Time</name>
       <text>
-Immediately after a creature the dragon can see ends its turn, the dragon targets a creature it can see within 90 feet of itself that is weakened by its Time Breath. Until the weakened effect ends on the target, its speed becomes 0, and its speed can't increase.</text>
+Immediately after a creature the dragon can see ends its turn, the dragon targets a creature it can see within 90 feet of itself that is weakened by its Time Breath. Until the weakened effect ends on the target, its speed becomes 0, and its speed can&apos;t increase.</text>
     </reaction>
     <reaction>
       <name>Time Slip</name>
@@ -181,7 +182,7 @@ The dragon halves the damage it takes from an attack made against it, provided i
     <passive>15</passive>
     <languages>Common plus two more languages</languages>
     <cr>5</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 53, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 53, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -199,11 +200,11 @@ The null makes two Force Dagger attacks.</text>
     <action>
       <name>Force Dagger</name>
       <text>
-Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 13 (3d8) force damage. Hit or Miss: The dagger magically returns to the null's hand immediately after a ranged attack.</text>
+Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 13 (3d8) force damage. Hit or Miss: The dagger magically returns to the null&apos;s hand immediately after a ranged attack.</text>
       <attack>Force Dagger|6|1d4 + 3+3d8</attack>
     </action>
     <action>
-      <name>Defier's Whim (Bonus Action)</name>
+      <name>Defier&apos;s Whim (Bonus Action)</name>
       <text>
 The null takes the Dash, Disengage, or Use an Object action.</text>
     </action>
@@ -211,7 +212,7 @@ The null takes the Dash, Disengage, or Use an Object action.</text>
       <name>Nullify Spell (3/Day)</name>
       <recharge>3/Day</recharge>
       <text>
-The null utters a magical word of cancelation to interrupt a creature it can see that is casting a spell. If the spell is 3rd level or lower, it fails and has no effect. If the spell is 4th level or higher, the null makes an Intelligence check (DC 10 + the spell's level). On a successful check, the spell fails and has no effect.</text>
+The null utters a magical word of cancelation to interrupt a creature it can see that is casting a spell. If the spell is 3rd level or lower, it fails and has no effect. If the spell is 4th level or higher, the null makes an Intelligence check (DC 10 + the spell&apos;s level). On a successful check, the spell fails and has no effect.</text>
     </reaction>
   </monster>
   <monster>
@@ -238,7 +239,7 @@ The null utters a magical word of cancelation to interrupt a creature it can see
     <passive>20</passive>
     <languages>all, telepathy 120 ft.</languages>
     <cr>17</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 43</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 43</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+6</text>
@@ -277,7 +278,7 @@ The aurumach manifests a spectral, golden aura of blades around itself. While th
       <name>Invoke Weakness (Recharge 5-6) (Bonus Action)</name>
       <recharge>D5</recharge>
       <text>
-The aurumach attempts to use its magic to weaken the defenses of a creature it can see within 120 feet of itself. The target must succeed on a DC 19 Wisdom saving throw or become cursed until the end of the aurumach's next turn. The next time the aurumach hits the cursed target with a Manifested Blade or Gleaming Ray attack, the target takes an extra 27 (6d8) force damage.</text>
+The aurumach attempts to use its magic to weaken the defenses of a creature it can see within 120 feet of itself. The target must succeed on a DC 19 Wisdom saving throw or become cursed until the end of the aurumach&apos;s next turn. The next time the aurumach hits the cursed target with a Manifested Blade or Gleaming Ray attack, the target takes an extra 27 (6d8) force damage.</text>
     </action>
     <slots/>
     <spells>detect magic, detect thoughts, fly, geas, slow, suggestion</spells>
@@ -306,7 +307,7 @@ The aurumach attempts to use its magic to weaken the defenses of a creature it c
     <passive>21</passive>
     <languages>Celestial, Common</languages>
     <cr>9</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 32, Planescape: Adventures in the Multiverse - Sigil and the Outlands</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 32, Planescape: Adventures in the Multiverse - Sigil and the Outlands</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+4</text>
@@ -319,7 +320,7 @@ If the avoral is flying, dives at least 30 feet in a straight line toward a Medi
     <trait>
       <name>Flyby</name>
       <text>
-The avoral doesn't provoke an opportunity attack when it flies out of an enemy's reach.</text>
+The avoral doesn&apos;t provoke an opportunity attack when it flies out of an enemy&apos;s reach.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -366,7 +367,7 @@ The avoral casts one of the following spells, requiring no material components a
     <passive>19</passive>
     <languages>all, telepathy 120 ft.</languages>
     <cr>17</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 20, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 20, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+6</text>
@@ -395,7 +396,7 @@ The baernaloth makes one Anguishing Bite attack and one Claw attack. It can also
     <action>
       <name>Anguishing Bite</name>
       <text>
-Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage plus 10 (3d6) psychic damage. If the target is a creature, it can't regain hit points until the start of the baernaloth's next turn.</text>
+Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage plus 10 (3d6) psychic damage. If the target is a creature, it can&apos;t regain hit points until the start of the baernaloth&apos;s next turn.</text>
       <attack>Anguishing Bite|10|1d10 + 4+3d6</attack>
     </action>
     <action>
@@ -422,7 +423,7 @@ The baernaloth casts one of the following spells, requiring no material componen
       <name>Summon Yugoloth (1/Day)</name>
       <recharge>1/Day</recharge>
       <text>
-The baernaloth has a 50 percent chance of summoning its choice of 1d4 mezzoloths, 1 arcanaloth, or 1 baernaloth (the mezzoloth and arcanaloth appear in the Monster Manual). A summoned yugoloth appears in an unoccupied space within 60 feet of the baernaloth, acts as an ally of the baernaloth, and can't summon other yugoloths. It remains for 1 minute, until it or the baernaloth dies, or until the baernaloth dismisses it as an action.</text>
+The baernaloth has a 50 percent chance of summoning its choice of 1d4 mezzoloths, 1 arcanaloth, or 1 baernaloth (the mezzoloth and arcanaloth appear in the Monster Manual). A summoned yugoloth appears in an unoccupied space within 60 feet of the baernaloth, acts as an ally of the baernaloth, and can&apos;t summon other yugoloths. It remains for 1 minute, until it or the baernaloth dies, or until the baernaloth dismisses it as an action.</text>
     </action>
     <action>
       <name>Teleport</name>
@@ -466,7 +467,7 @@ When the baernaloth is damaged by another creature, that creature must make a DC
     <passive>14</passive>
     <languages>Celestial, Common</languages>
     <cr>3</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 21, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 21, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -474,7 +475,7 @@ When the baernaloth is damaged by another creature, that creature must make a DC
     <trait>
       <name>Portal Sense</name>
       <text>
-The bariaur can sense the presence of portals within 30 feet of itself, including inactive portals, and instinctively knows the destination of each one. The bariaur knows the distance and direction to the last portal it used as long as they're on the same plane.</text>
+The bariaur can sense the presence of portals within 30 feet of itself, including inactive portals, and instinctively knows the destination of each one. The bariaur knows the distance and direction to the last portal it used as long as they&apos;re on the same plane.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -484,7 +485,7 @@ The bariaur makes two Barbed Javelin or Shortbow attacks.</text>
     <action>
       <name>Barbed Javelin</name>
       <text>
-Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 9 (1d10 + 4) piercing damage. If the target is a creature, its speed is reduced by 10 feet until the start of the bariaur's next turn.</text>
+Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 9 (1d10 + 4) piercing damage. If the target is a creature, its speed is reduced by 10 feet until the start of the bariaur&apos;s next turn.</text>
       <attack>Barbed Javelin|6|1d10 + 4</attack>
     </action>
     <action>
@@ -496,7 +497,7 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludge
     <action>
       <name>Shortbow</name>
       <text>
-Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage, plus 4 (1d8) piercing damage if the target doesn't have all its hit points.</text>
+Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage, plus 4 (1d8) piercing damage if the target doesn&apos;t have all its hit points.</text>
       <attack>Shortbow|4|1d6 + 2+1d8</attack>
     </action>
     <action>
@@ -539,7 +540,7 @@ The bariaur jumps a distance up to its walking speed.</text>
     <passive>12</passive>
     <languages>Common plus one more language</languages>
     <cr>3</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 54, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 54, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -601,7 +602,7 @@ The void soother speaks a magical word of mercy, healing one creature it can see
     <passive>10</passive>
     <languages>telepathy 30 ft. (emotions only)</languages>
     <cr>0</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 22, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 22, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -609,7 +610,7 @@ The void soother speaks a magical word of mercy, healing one creature it can see
     <trait>
       <name>Shared Telepathy</name>
       <text>
-Any creature touching the cranium rat can use the rat's telepathy if the rat allows it. If the creature knows any language, the creature can use the telepathy to communicate words and emotions.</text>
+Any creature touching the cranium rat can use the rat&apos;s telepathy if the rat allows it. If the creature knows any language, the creature can use the telepathy to communicate words and emotions.</text>
     </trait>
     <trait>
       <name>Telepathic Shroud</name>
@@ -652,7 +653,7 @@ The cranium rat sheds dim light from its exposed brain in a 5-foot radius or ext
     <passive>10</passive>
     <languages>telepathy 30 ft.</languages>
     <cr>5</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 22, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 22, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -665,7 +666,7 @@ The swarm can use its sending spell to target someone familiar to a creature in 
     <trait>
       <name>Swarm</name>
       <text>
-The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.</text>
+The swarm can occupy another creature&apos;s space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can&apos;t regain hit points or gain temporary hit points.</text>
     </trait>
     <trait>
       <name>Telepathic Shroud</name>
@@ -675,7 +676,7 @@ The swarm is immune to any effect that would sense its emotions or read its thou
     <action>
       <name>Bites</name>
       <text>
-Melee Weapon Attack: +5 to hit, reach 0 ft., one target in the swarm's space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer, plus 22 (5d8) psychic damage.</text>
+Melee Weapon Attack: +5 to hit, reach 0 ft., one target in the swarm&apos;s space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer, plus 22 (5d8) psychic damage.</text>
       <attack>Bites|5|4d6+5d8</attack>
       <attack>Bites (Half HP)|5|2d6+5d8</attack>
     </action>
@@ -721,7 +722,7 @@ The swarm sheds dim light from its brains in a 5-foot radius, increases the illu
     <passive>16</passive>
     <languages>telepathy 120 ft., any four languages</languages>
     <cr>12</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 44, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 44, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+4</text>
@@ -752,7 +753,7 @@ The cuprilach casts one of the following spells, requiring no material component
 	• 1/Day each: alter self, fog cloud, silence</text>
     </action>
     <action>
-      <name>Assassin's Agility (Bonus Action)</name>
+      <name>Assassin&apos;s Agility (Bonus Action)</name>
       <text>
 The cuprilach takes the Dash or Disengage action, or it makes one Burnished Blade attack.</text>
     </action>
@@ -786,9 +787,9 @@ The cuprilach halves the damage it takes from an attack that hits it, provided i
     <conditionImmune>exhaustion</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>16</passive>
-    <languages>understands all languages but can't speak; communicates via Symbol Speech</languages>
+    <languages>understands all languages but can&apos;t speak; communicates via Symbol Speech</languages>
     <cr>2</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 23, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 23, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -796,7 +797,7 @@ The cuprilach halves the damage it takes from an attack that hits it, provided i
     <trait>
       <name>Physical Restraint</name>
       <text>
-The dabus doesn't make melee attacks or opportunity attacks, even in self-defense.</text>
+The dabus doesn&apos;t make melee attacks or opportunity attacks, even in self-defense.</text>
     </trait>
     <trait>
       <name>Symbol Speech</name>
@@ -818,7 +819,7 @@ Ranged Spell Attack: +5 to hit, range 90 ft., one target. Hit: 7 (1d8 + 3) bludg
       <name>Grasping Ground (Recharge 6)</name>
       <recharge>D6</recharge>
       <text>
-The dabus causes a 20-foot-square area of ground it can see within 60 feet of itself to sprout clutching appendages made of stone. Each creature of the dabus's choice in that area must succeed on a DC 13 Dexterity saving throw or take 9 (2d8) bludgeoning damage and have the grappled condition (escape DC 13). While grappled in this way, the creature has the restrained condition. The appendages vanish after 1 minute or if the dabus's concentration ends (as if concentration on a spell).</text>
+The dabus causes a 20-foot-square area of ground it can see within 60 feet of itself to sprout clutching appendages made of stone. Each creature of the dabus&apos;s choice in that area must succeed on a DC 13 Dexterity saving throw or take 9 (2d8) bludgeoning damage and have the grappled condition (escape DC 13). While grappled in this way, the creature has the restrained condition. The appendages vanish after 1 minute or if the dabus&apos;s concentration ends (as if concentration on a spell).</text>
     </action>
   </monster>
   <monster>
@@ -845,7 +846,7 @@ The dabus causes a 20-foot-square area of ground it can see within 60 feet of it
     <passive>16</passive>
     <languages>Abyssal, Deep Speech, telepathy 120 ft.</languages>
     <cr>10</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 25, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 25, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+4</text>
@@ -873,7 +874,7 @@ The darkweaver makes two Shadow Web attacks and one Bite attack. It can use Reel
     <action>
       <name>Bite</name>
       <text>
-Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 13 (3d6 + 3) piercing damage plus 17 (5d6) necrotic damage, and if the target is a creature, the target's hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.</text>
+Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 13 (3d6 + 3) piercing damage plus 17 (5d6) necrotic damage, and if the target is a creature, the target&apos;s hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.</text>
       <attack>Bite|7|3d6 + 3+5d6</attack>
     </action>
     <action>
@@ -912,7 +913,7 @@ The darkweaver pulls each creature it has grappled up to 60 feet toward itself.<
     <passive>18</passive>
     <languages>Modron, telepathy 120 ft.</languages>
     <cr>8</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 36, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 36, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -920,7 +921,7 @@ The darkweaver pulls each creature it has grappled up to 60 feet toward itself.<
     <trait>
       <name>Axiomatic Mind</name>
       <text>
-The decaton can't be compelled to act in a manner contrary to its nature or its instructions.</text>
+The decaton can&apos;t be compelled to act in a manner contrary to its nature or its instructions.</text>
     </trait>
     <trait>
       <name>Combat Ready</name>
@@ -940,7 +941,7 @@ The decaton makes three Tentacle attacks.</text>
     <action>
       <name>Tentacle</name>
       <text>
-Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage, and if the target is a Medium or smaller creature, it has the grappled condition (escape DC 14). Until this grapple ends, the decaton can't use this tentacle against other targets. The decaton has ten tentacles, each of which can grapple one target.</text>
+Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage, and if the target is a Medium or smaller creature, it has the grappled condition (escape DC 14). Until this grapple ends, the decaton can&apos;t use this tentacle against other targets. The decaton has ten tentacles, each of which can grapple one target.</text>
       <attack>Tentacle|7|2d10 + 4</attack>
     </action>
     <action>
@@ -984,7 +985,7 @@ The decaton casts one of the following spells, requiring no material components 
     <passive>16</passive>
     <languages>Common plus three more languages</languages>
     <cr>12</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 54, Planescape: Adventures in the Multiverse - Sigil and the Outlands</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 54, Planescape: Adventures in the Multiverse - Sigil and the Outlands</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+4</text>
@@ -992,7 +993,7 @@ The decaton casts one of the following spells, requiring no material components 
     <trait>
       <name>Aura of Doom</name>
       <text>
-Any creature that starts its turn within 10 feet of the doom lord must make a DC 16 Constitution saving throw, taking 18 (4d8) necrotic damage on a failed save, or half as much damage on a successful one. If the doom lord doesn't have the incapacitated condition, it can suppress or resume this aura at the start of its turn (no action required).</text>
+Any creature that starts its turn within 10 feet of the doom lord must make a DC 16 Constitution saving throw, taking 18 (4d8) necrotic damage on a failed save, or half as much damage on a successful one. If the doom lord doesn&apos;t have the incapacitated condition, it can suppress or resume this aura at the start of its turn (no action required).</text>
     </trait>
     <trait>
       <name>Siege Monster</name>
@@ -1041,7 +1042,7 @@ Melee or Ranged Weapon Attack: +9 to hit, reach 5 ft. or range 30/120 ft., one t
     <passive>13</passive>
     <languages>Common plus two more languages</languages>
     <cr>6</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 56, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 56, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -1088,7 +1089,7 @@ Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 30/120 ft., one t
     <passive>16</passive>
     <languages>telepathy 120 ft.</languages>
     <cr>6</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 29, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 29, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -1154,7 +1155,7 @@ The eater of knowledge casts one of the following spells, requiring no spell com
     <passive>15</passive>
     <languages>Celestial, Common</languages>
     <cr>6</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 33, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 33, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -1185,7 +1186,7 @@ Ranged Weapon Attack: +9 to hit, range 60/180 ft., one target. Hit: 22 (3d10 + 6
       <name>Shout (Recharge 6)</name>
       <recharge>D6</recharge>
       <text>
-The equinal lets out a booming shout. Each creature within 30 feet of the equinal must succeed on a DC 14 Constitution saving throw or have the stunned condition until the end of the equinal's next turn.</text>
+The equinal lets out a booming shout. Each creature within 30 feet of the equinal must succeed on a DC 14 Constitution saving throw or have the stunned condition until the end of the equinal&apos;s next turn.</text>
     </action>
   </monster>
   <monster>
@@ -1212,7 +1213,7 @@ The equinal lets out a booming shout. Each creature within 30 feet of the equina
     <passive>9</passive>
     <languages/>
     <cr>15</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel p. 88</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel p. 88</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+5</text>
@@ -1230,7 +1231,7 @@ The eyestalk uses Eradication Gaze, if available, and makes one Bite attack.</te
     <action>
       <name>Bite</name>
       <text>
-Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 22 (3d8 + 9) piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 19 Dexterity saving throw or be swallowed by the eyestalk. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the eyestalk, and it takes 21 (6d6) acid damage at the start of each of the eyestalk's turns.
+Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 22 (3d8 + 9) piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 19 Dexterity saving throw or be swallowed by the eyestalk. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the eyestalk, and it takes 21 (6d6) acid damage at the start of each of the eyestalk&apos;s turns.
 
 	If the eyestalk takes 30 damage or more on a single turn from a creature inside it, the eyestalk must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the eyestalk. If the eyestalk dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.</text>
       <attack>Bite|14|3d8 + 9</attack>
@@ -1266,7 +1267,7 @@ The eyestalk creates an area of magical devastation in a 150-foot cone. Any crea
     <passive>19</passive>
     <languages>Abyssal, Demodand, telepathy 120 ft.</languages>
     <cr>11</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 26, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 26, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+4</text>
@@ -1274,7 +1275,7 @@ The eyestalk creates an area of magical devastation in a 150-foot cone. Any crea
     <trait>
       <name>Boundless Movement</name>
       <text>
-The farastu ignores difficult terrain, and magical effects can't reduce its speed. It can spend 5 feet of movement to automatically remove the grappled condition from itself.</text>
+The farastu ignores difficult terrain, and magical effects can&apos;t reduce its speed. It can spend 5 feet of movement to automatically remove the grappled condition from itself.</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -1315,7 +1316,7 @@ The farastu casts one of the following spells, requiring no material components 
       <name>Summon Demodand (1/Day)</name>
       <recharge>1/Day</recharge>
       <text>
-The farastu has a 40 percent chance of summoning 1 farastu demodand. A summoned demodand appears in an unoccupied space within 60 feet of the farastu, acts as an ally of the farastu, and can't summon other demodands. It remains for 1 minute, until it or the farastu dies, or until the farastu dismisses it as an action.</text>
+The farastu has a 40 percent chance of summoning 1 farastu demodand. A summoned demodand appears in an unoccupied space within 60 feet of the farastu, acts as an ally of the farastu, and can&apos;t summon other demodands. It remains for 1 minute, until it or the farastu dies, or until the farastu dismisses it as an action.</text>
     </action>
     <slots/>
     <spells>invisibility, dispel magic, fog cloud</spells>
@@ -1344,7 +1345,7 @@ The farastu has a 40 percent chance of summoning 1 farastu demodand. A summoned 
     <passive>16</passive>
     <languages>Common plus two more languages</languages>
     <cr>5</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 56, Planescape: Adventures in the Multiverse - Sigil and the Outlands</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 56, Planescape: Adventures in the Multiverse - Sigil and the Outlands</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -1410,7 +1411,7 @@ The shaker speaks magical words to order a creature it can see within 30 feet of
     <passive>16</passive>
     <languages>telepathy 120 ft., any two languages</languages>
     <cr>9</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 44, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 44, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+4</text>
@@ -1477,7 +1478,7 @@ The ferrumach casts one of the following spells, requiring no material component
     <passive>17</passive>
     <languages>Common plus three more languages</languages>
     <cr>9</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 57, Planescape: Adventures in the Multiverse - Sigil and the Outlands</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 57, Planescape: Adventures in the Multiverse - Sigil and the Outlands</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+4</text>
@@ -1496,7 +1497,7 @@ Melee or Ranged Spell Attack: +8 to hit, reach 5 ft. or range 90 ft., one target
     <action>
       <name>Power of Authority</name>
       <text>
-The law bender targets a creature it can see within 60 feet of itself. The target must succeed on a DC 16 Intelligence saving throw or take 10 (3d6) psychic damage and have the incapacitated condition for 1 minute. At the end of each of the target's turns, it can repeat the saving throw, ending the incapacitated condition on itself on a success. A target that succeeds on the saving throw becomes immune to this law bender's Power of Authority for 24 hours.</text>
+The law bender targets a creature it can see within 60 feet of itself. The target must succeed on a DC 16 Intelligence saving throw or take 10 (3d6) psychic damage and have the incapacitated condition for 1 minute. At the end of each of the target&apos;s turns, it can repeat the saving throw, ending the incapacitated condition on itself on a success. A target that succeeds on the saving throw becomes immune to this law bender&apos;s Power of Authority for 24 hours.</text>
     </action>
     <action>
       <name>Spellcasting</name>
@@ -1543,7 +1544,7 @@ When the law bender or a creature it can see makes an attack roll, a saving thro
     <passive>17</passive>
     <languages>Common, Gith</languages>
     <cr>9</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 30, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 30, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+4</text>
@@ -1611,7 +1612,7 @@ When the githzerai or a creature it can see makes an attack roll, a saving throw
     <passive>15</passive>
     <languages>Common, Gith</languages>
     <cr>3</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 31, Planescape: Adventures in the Multiverse - Sigil and the Outlands</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 31, Planescape: Adventures in the Multiverse - Sigil and the Outlands</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -1644,13 +1645,13 @@ The githzerai casts one of the following spells, requiring no spell components a
       <name>Matter Manipulation (Recharge 4-6) (Bonus Action)</name>
       <recharge>D4</recharge>
       <text>
-The githzerai manipulates the energy of the plane of existence it's on to produce one of the following effects (choose one or roll a d6):
+The githzerai manipulates the energy of the plane of existence it&apos;s on to produce one of the following effects (choose one or roll a d6):
 
 1-2: Astral Step. The githzerai can teleport, along with any equipment it is wearing or carrying, up to 40 feet to an unoccupied space it can see. In addition, its walking speed increases to 40 feet until the start of its next turn.
 
 3-4: Growth. Flowers and vines grow around the githzerai until the start of its next turn, then vanish; the ground within 15 feet of the githzerai is difficult terrain for other creatures while the flowers and vines are present.
 
-5-6: Retaliating Light. Multicolored lights surround the githzerai until the start of its next turn. For the effect's duration, whenever a creature within 5 feet of the githzerai hits it with a melee attack roll, that creature takes 3 (1d6) force damage, as magic lashes out in retribution.</text>
+5-6: Retaliating Light. Multicolored lights surround the githzerai until the start of its next turn. For the effect&apos;s duration, whenever a creature within 5 feet of the githzerai hits it with a melee attack roll, that creature takes 3 (1d6) force damage, as magic lashes out in retribution.</text>
     </action>
     <slots/>
     <spells>mage hand, jump, plane shift, see invisibility</spells>
@@ -1679,7 +1680,7 @@ The githzerai manipulates the energy of the plane of existence it's on to produc
     <passive>16</passive>
     <languages>Common, Gith</languages>
     <cr>7</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 31, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 31, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -1709,7 +1710,7 @@ Ranged Spell Attack: +6 to hit, range 60 ft., one creature. Hit: 17 (5d6) psychi
     <action>
       <name>Pacifying Touch</name>
       <text>
-The githzerai touches one creature it can see within 5 feet of itself. The target must succeed on a DC 14 Intelligence saving throw, or the githzerai chooses an action for that target: Attack, Cast a Spell, or Dash. The affected target can't take that action for 1 minute. At the end of each of the target's turns, it can repeat the saving throw, ending the effect on itself on a successful save. A target that succeeds on the saving throw becomes immune to this githzerai's Pacifying Touch for 24 hours.</text>
+The githzerai touches one creature it can see within 5 feet of itself. The target must succeed on a DC 14 Intelligence saving throw, or the githzerai chooses an action for that target: Attack, Cast a Spell, or Dash. The affected target can&apos;t take that action for 1 minute. At the end of each of the target&apos;s turns, it can repeat the saving throw, ending the effect on itself on a successful save. A target that succeeds on the saving throw becomes immune to this githzerai&apos;s Pacifying Touch for 24 hours.</text>
     </action>
     <action>
       <name>Spellcasting (Psionics)</name>
@@ -1746,7 +1747,7 @@ The githzerai casts one of the following spells, requiring no spell components a
     <passive>13</passive>
     <languages>Common plus one more language</languages>
     <cr>4</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 58, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 58, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -1795,7 +1796,7 @@ Ranged Weapon Attack: +4 to hit, range 30/90 ft., one target. Hit: 13 (2d12) fir
     <passive>16</passive>
     <languages>Common plus one more language</languages>
     <cr>8</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 58, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 58, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -1822,7 +1823,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) pierc
       <text>
 The captain verbally commands up to three creatures it can see within 60 feet of itself. This magical command must be to undertake an action or to refrain from taking actions (for example, "Throw down your weapons").
 
-	A target must succeed on a DC 14 Wisdom saving throw or have the charmed condition for 1 minute, during which time it follows the captain's command. The effect ends early if the target takes damage or if it successfully completes the command. A target automatically succeeds on its saving throw if the command is directly harmful to itself, such as commanding it to walk into fire.
+	A target must succeed on a DC 14 Wisdom saving throw or have the charmed condition for 1 minute, during which time it follows the captain&apos;s command. The effect ends early if the target takes damage or if it successfully completes the command. A target automatically succeeds on its saving throw if the command is directly harmful to itself, such as commanding it to walk into fire.
 
 	A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a successful save.</text>
     </action>
@@ -1851,7 +1852,7 @@ The captain verbally commands up to three creatures it can see within 60 feet of
     <passive>14</passive>
     <languages>Common plus one more language</languages>
     <cr>3</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 59, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 59, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -1859,12 +1860,12 @@ The captain verbally commands up to three creatures it can see within 60 feet of
     <trait>
       <name>Pack Tactics</name>
       <text>
-The peacekeeper has advantage on an attack roll against a creature if at least one of the peacekeeper's allies is within 5 feet of the creature and the ally doesn't have the incapacitated condition.</text>
+The peacekeeper has advantage on an attack roll against a creature if at least one of the peacekeeper&apos;s allies is within 5 feet of the creature and the ally doesn&apos;t have the incapacitated condition.</text>
     </trait>
     <action>
       <name>Electrified Mancatcher</name>
       <text>
-Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 8 (1d10 + 3) piercing damage plus 4 (1d8) lightning damage. If the target is a Large or smaller creature, it has the grappled condition (escape DC 13). Until the grappled condition ends, the target has the restrained condition and can't teleport, the peacekeeper can't make Electrified Mancatcher attacks, and the target takes 8 (1d10 + 3) lightning damage at the start of each of its turns.</text>
+Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 8 (1d10 + 3) piercing damage plus 4 (1d8) lightning damage. If the target is a Large or smaller creature, it has the grappled condition (escape DC 13). Until the grappled condition ends, the target has the restrained condition and can&apos;t teleport, the peacekeeper can&apos;t make Electrified Mancatcher attacks, and the target takes 8 (1d10 + 3) lightning damage at the start of each of its turns.</text>
       <attack>Electrified Mancatcher|5|1d10 + 3+1d8</attack>
     </action>
   </monster>
@@ -1892,7 +1893,7 @@ Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 8 (1d10 + 3) pier
     <passive>14</passive>
     <languages>Common plus three more languages</languages>
     <cr>4</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 59, AATM, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 59, AATM, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -1948,7 +1949,7 @@ The remnant becomes partially incorporeal for as long as it maintains concentrat
     <passive>23</passive>
     <languages>all, telepathy 120 ft.</languages>
     <cr>13</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 37, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 37, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+5</text>
@@ -1956,7 +1957,7 @@ The remnant becomes partially incorporeal for as long as it maintains concentrat
     <trait>
       <name>Axiomatic Mind</name>
       <text>
-The hexton can't be compelled to act in a manner contrary to its nature or its instructions.</text>
+The hexton can&apos;t be compelled to act in a manner contrary to its nature or its instructions.</text>
     </trait>
     <trait>
       <name>Combat Ready</name>
@@ -1993,7 +1994,7 @@ Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) blud
     <action>
       <name>Tentacle</name>
       <text>
-Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage, and if the target is a Medium or smaller creature, it has the grappled condition (escape DC 14). Until this grapple ends, the hexton can't use this tentacle against other targets. The hexton has six tentacles, each of which can grapple one target.</text>
+Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage, and if the target is a Medium or smaller creature, it has the grappled condition (escape DC 14). Until this grapple ends, the hexton can&apos;t use this tentacle against other targets. The hexton has six tentacles, each of which can grapple one target.</text>
       <attack>Tentacle|9|2d10 + 4</attack>
     </action>
     <action>
@@ -2007,7 +2008,7 @@ The hexton casts one of the following spells, requiring no material components a
     <reaction>
       <name>Counter Magic</name>
       <text>
-The hexton attempts to interrupt a creature it can see that is casting a spell. If the spell is 3rd level or lower, it fails and has no effect. If the spell is 4th level or higher, the hexton makes an Intelligence check (DC 10 + the spell's level). On a success, the spell fails and has no effect.</text>
+The hexton attempts to interrupt a creature it can see that is casting a spell. If the spell is 3rd level or lower, it fails and has no effect. If the spell is 4th level or higher, the hexton makes an Intelligence check (DC 10 + the spell&apos;s level). On a success, the spell fails and has no effect.</text>
     </reaction>
     <reaction>
       <name>Lightning Rebuke</name>
@@ -2041,7 +2042,7 @@ When a creature within 120 feet of the hexton damages it, the hexton magically r
     <passive>16</passive>
     <languages>all</languages>
     <cr>4</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 16, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 16, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -2049,7 +2050,7 @@ When a creature within 120 feet of the hexton damages it, the hexton magically r
     <trait>
       <name>Aura of Menace</name>
       <text>
-As long as the archon doesn't have the incapacitated condition, each creature of the archon's choice that starts its turn within 20 feet of the archon must make a DC 12 Wisdom saving throw. On a failed save, the creature has the frightened condition until the start of its next turn. On a successful save, the creature is immune to all archons' Aura of Menace for 24 hours.</text>
+As long as the archon doesn&apos;t have the incapacitated condition, each creature of the archon&apos;s choice that starts its turn within 20 feet of the archon must make a DC 12 Wisdom saving throw. On a failed save, the creature has the frightened condition until the start of its next turn. On a successful save, the creature is immune to all archons&apos; Aura of Menace for 24 hours.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -2113,7 +2114,7 @@ The archon magically transforms into any Medium or Large dog or wolf while retai
     <passive>12</passive>
     <languages>Abyssal, Demodand, telepathy 120 ft.</languages>
     <cr>13</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 27, Planescape: Adventures in the Multiverse - Sigil and the Outlands</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 27, Planescape: Adventures in the Multiverse - Sigil and the Outlands</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+5</text>
@@ -2126,7 +2127,7 @@ A creature that touches the kelubar or hits it with a melee attack while within 
     <trait>
       <name>Boundless Movement</name>
       <text>
-The kelubar ignores difficult terrain, and magical effects can't reduce its speed. It can spend 5 feet of movement to automatically remove the grappled condition from itself.</text>
+The kelubar ignores difficult terrain, and magical effects can&apos;t reduce its speed. It can spend 5 feet of movement to automatically remove the grappled condition from itself.</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -2161,7 +2162,7 @@ The kelubar spits acid in a line 60 feet long and 5 feet wide. Each creature in 
       <name>Summon Demodand (1/Day)</name>
       <recharge>1/Day</recharge>
       <text>
-The kelubar has a 40 percent chance of summoning its choice of 1d2 farastu demodands or 1 kelubar demodand. A summoned demodand appears in an unoccupied space within 60 feet of the kelubar, acts as an ally of the kelubar, and can't summon other demodands. It remains for 1 minute, until it or the kelubar dies, or until the kelubar dismisses it as an action.</text>
+The kelubar has a 40 percent chance of summoning its choice of 1d2 farastu demodands or 1 kelubar demodand. A summoned demodand appears in an unoccupied space within 60 feet of the kelubar, acts as an ally of the kelubar, and can&apos;t summon other demodands. It remains for 1 minute, until it or the kelubar dies, or until the kelubar dismisses it as an action.</text>
     </action>
     <action>
       <name>Nauseating Fog (Recharge 6) (Bonus Action)</name>
@@ -2196,7 +2197,7 @@ The kelubar magically creates a cloud of greenish fog that fills a 20-foot-radiu
     <passive>22</passive>
     <languages>all</languages>
     <cr>20</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 34, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 34, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+6</text>
@@ -2227,9 +2228,9 @@ The kolyarut makes four Unerring Blade attacks.</text>
       <text>
 Melee Weapon Attack: automatic hit, reach 5 ft., one target. Hit: 24 force damage plus one of the following effects (choose one or roll a d6):
 
-1-2: Disarm. The target drops one item it is holding of the kolyarut's choice
+1-2: Disarm. The target drops one item it is holding of the kolyarut&apos;s choice
 
-3-4: Imbalance. The target can't take reactions until the start of the kolyarut's next turn.
+3-4: Imbalance. The target can&apos;t take reactions until the start of the kolyarut&apos;s next turn.
 
 5-6: Push. If the target is Large or smaller, the target is pushed up to 15 feet away from the kolyarut.</text>
     </action>
@@ -2237,7 +2238,7 @@ Melee Weapon Attack: automatic hit, reach 5 ft., one target. Hit: 24 force damag
       <name>Edict of Blades (Recharge 5-6)</name>
       <recharge>D5</recharge>
       <text>
-The kolyarut moves up to its speed without provoking opportunity attacks and can make one Unerring Blade attack against each creature it moves past. Whenever it hits a creature with an Unerring Blade attack during this movement, each spell of 5th level or lower on the creature ends, and the creature has the incapacitated condition until the end of the kolyarut's next turn.</text>
+The kolyarut moves up to its speed without provoking opportunity attacks and can make one Unerring Blade attack against each creature it moves past. Whenever it hits a creature with an Unerring Blade attack during this movement, each spell of 5th level or lower on the creature ends, and the creature has the incapacitated condition until the end of the kolyarut&apos;s next turn.</text>
     </action>
     <action>
       <name>Plane Shift (3/Day)</name>
@@ -2275,7 +2276,7 @@ The kolyarut adds 6 to its AC against one attack roll that would hit it. To do s
     <passive>13</passive>
     <languages>all</languages>
     <cr>2</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 17, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 17, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -2283,7 +2284,7 @@ The kolyarut adds 6 to its AC against one attack roll that would hit it. To do s
     <trait>
       <name>Aura of Menace</name>
       <text>
-As long as the archon doesn't have the incapacitated condition, each creature of the archon's choice that starts its turn within 20 feet of the archon must make a DC 11 Wisdom saving throw. On a failed save, the creature has the frightened condition until the start of its next turn. On a successful save, the creature is immune to all archons' Aura of Menace for 24 hours.</text>
+As long as the archon doesn&apos;t have the incapacitated condition, each creature of the archon&apos;s choice that starts its turn within 20 feet of the archon must make a DC 11 Wisdom saving throw. On a failed save, the creature has the frightened condition until the start of its next turn. On a successful save, the creature is immune to all archons&apos; Aura of Menace for 24 hours.</text>
     </trait>
     <trait>
       <name>Illumination</name>
@@ -2351,7 +2352,7 @@ The archon reduces its Illumination to shed only dim light in a 5-foot radius, o
     <passive>17</passive>
     <languages>Infernal</languages>
     <cr>10</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 35, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 35, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+4</text>
@@ -2369,7 +2370,7 @@ The maelephant makes one Barbed Trunk attack and two Glaive attacks.</text>
     <action>
       <name>Barbed Trunk</name>
       <text>
-Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) piercing damage plus 13 (2d12) poison damage. If the target is a Medium or smaller creature, it has the grappled condition (escape DC 14). Until this grapple ends, the target has the restrained condition. While it is grappling a creature, the maelephant can't use its barbed trunk to attack other creatures.</text>
+Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) piercing damage plus 13 (2d12) poison damage. If the target is a Medium or smaller creature, it has the grappled condition (escape DC 14). Until this grapple ends, the target has the restrained condition. While it is grappling a creature, the maelephant can&apos;t use its barbed trunk to attack other creatures.</text>
       <attack>Barbed Trunk|8|2d8 + 4+2d12</attack>
     </action>
     <action>
@@ -2382,7 +2383,7 @@ Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) sla
       <name>Mind Poison (Recharge 5-6)</name>
       <recharge>D5</recharge>
       <text>
-The maelephant expels poisonous gas from its trunk in a 60-foot cone. Each creature in that area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 39 (6d12) poison damage and has the poisoned condition. While poisoned in this way, the creature loses all weapon and skill proficiencies, it can't cast spells, it can't understand language, and it has disadvantage on Intelligence saving throws. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. On a successful save, the target takes half as much damage only and is immune to this maelephant's Mind Poison for 24 hours.</text>
+The maelephant expels poisonous gas from its trunk in a 60-foot cone. Each creature in that area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 39 (6d12) poison damage and has the poisoned condition. While poisoned in this way, the creature loses all weapon and skill proficiencies, it can&apos;t cast spells, it can&apos;t understand language, and it has disadvantage on Intelligence saving throws. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. On a successful save, the target takes half as much damage only and is immune to this maelephant&apos;s Mind Poison for 24 hours.</text>
     </action>
   </monster>
   <monster>
@@ -2409,7 +2410,7 @@ The maelephant expels poisonous gas from its trunk in a 60-foot cone. Each creat
     <passive>18</passive>
     <languages>Common plus one more language</languages>
     <cr>7</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 60, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 60, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -2433,11 +2434,11 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashi
     <action>
       <name>Marked for Pursuit (3/Day) (Bonus Action)</name>
       <text>
-The bloodhound attempts to place a magical mark on a creature it can see within 30 feet of itself. The target must succeed on a DC 13 Charisma saving throw or become cursed for 24 hours. A creature missing any of its hit points has disadvantage on this saving throw. While cursed in this way, the bloodhound can sense the direction and distance to the target as long as the two are on the same plane of existence. If the target isn't on the same plane, the bloodhound knows what plane the target is on.</text>
+The bloodhound attempts to place a magical mark on a creature it can see within 30 feet of itself. The target must succeed on a DC 13 Charisma saving throw or become cursed for 24 hours. A creature missing any of its hit points has disadvantage on this saving throw. While cursed in this way, the bloodhound can sense the direction and distance to the target as long as the two are on the same plane of existence. If the target isn&apos;t on the same plane, the bloodhound knows what plane the target is on.</text>
     </action>
   </monster>
   <monster>
-    <name>Mind's Eye Matter Smith [2014]</name>
+    <name>Mind&apos;s Eye Matter Smith [2014]</name>
     <size>S</size>
     <type>humanoid</type>
     <alignment>any alignment</alignment>
@@ -2460,7 +2461,7 @@ The bloodhound attempts to place a magical mark on a creature it can see within 
     <passive>16</passive>
     <languages>Common plus two more languages</languages>
     <cr>4</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 60, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 60, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -2487,13 +2488,13 @@ The matter smith casts one of the following spells, using Charisma as the spellc
     <action>
       <name>Planar Smithing (Bonus Action)</name>
       <text>
-The matter smith magically manipulates the energy of the plane of existence it's on to produce one of the following effects (choose one or roll a d4):
+The matter smith magically manipulates the energy of the plane of existence it&apos;s on to produce one of the following effects (choose one or roll a d4):
 
 1-2: Chains:
       The matter smith creates spectral bindings around a creature it can see within 30 feet of itself. The target must succeed on a DC 13 Dexterity saving throw or have the restrained condition until the end of its next turn.
 
 3-4: Magic Shield:
-The matter smith conjures a floating, spectral shield that grants the matter smith a +5 bonus to its AC until the shield disappears at the start of the matter smith's next turn. The first time a creature misses a melee attack roll against the matter smith while the shield is conjured, that creature takes 7 (2d6) force damage.</text>
+The matter smith conjures a floating, spectral shield that grants the matter smith a +5 bonus to its AC until the shield disappears at the start of the matter smith&apos;s next turn. The first time a creature misses a melee attack roll against the matter smith while the shield is conjured, that creature takes 7 (2d6) force damage.</text>
     </action>
     <slots/>
     <spells>mage armor, mage hand, prestidigitation, create food and water, fabricate</spells>
@@ -2522,7 +2523,7 @@ The matter smith conjures a floating, spectral shield that grants the matter smi
     <passive>10</passive>
     <languages>Common</languages>
     <cr>1/4</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel p. 10, Planescape: Adventures in the Multiverse - Morte's Planar Parade</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel p. 10, Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text/>
@@ -2558,7 +2559,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) pierci
     <passive>16</passive>
     <languages>Celestial, Common</languages>
     <cr>2</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 33, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 33, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -2585,7 +2586,7 @@ The musteval casts one of the following spells, requiring no material components
     <reaction>
       <name>Skirmish Movement</name>
       <text>
-When a creature ends its turn within 5 feet of the musteval, the musteval can move up to half its speed. This movement doesn't provoke opportunity attacks.</text>
+When a creature ends its turn within 5 feet of the musteval, the musteval can move up to half its speed. This movement doesn&apos;t provoke opportunity attacks.</text>
     </reaction>
     <slots/>
     <spells>dancing lights, disguise self, invisibility</spells>
@@ -2614,7 +2615,7 @@ When a creature ends its turn within 5 feet of the musteval, the musteval can mo
     <passive>21</passive>
     <languages>Modron, telepathy 120 ft.</languages>
     <cr>10</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 38, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 38, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+4</text>
@@ -2622,7 +2623,7 @@ When a creature ends its turn within 5 feet of the musteval, the musteval can mo
     <trait>
       <name>Axiomatic Mind</name>
       <text>
-The nonaton can't be compelled to act in a manner contrary to its nature or its instructions.</text>
+The nonaton can&apos;t be compelled to act in a manner contrary to its nature or its instructions.</text>
     </trait>
     <trait>
       <name>Combat Ready</name>
@@ -2642,13 +2643,13 @@ The nonaton makes three Arm attacks and uses Pillar of Truth or Spellcasting.</t
     <action>
       <name>Arm</name>
       <text>
-Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) piercing damage, and if the target is a Medium or smaller creature, it has the grappled condition (escape DC 14). Until this grapple ends, the nonaton can't use this arm against other targets. The nonaton has nine arms, each of which can grapple one target.</text>
+Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) piercing damage, and if the target is a Medium or smaller creature, it has the grappled condition (escape DC 14). Until this grapple ends, the nonaton can&apos;t use this arm against other targets. The nonaton has nine arms, each of which can grapple one target.</text>
       <attack>Arm|8|2d8 + 4</attack>
     </action>
     <action>
       <name>Pillar of Truth</name>
       <text>
-The nonaton chooses a point on the ground that it can see within 60 feet of itself. A 60-foot-tall, 20-foot-radius cylinder of magical force rises from that point. Each creature in that area must make a DC 15 Dexterity saving throw. On a failed save, a creature takes 21 (6d6) force damage, and the creature reverts to its original form (if it's in a different form) and can't assume a different form until the end of its next turn. On a successful save, a creature takes half as much damage only.</text>
+The nonaton chooses a point on the ground that it can see within 60 feet of itself. A 60-foot-tall, 20-foot-radius cylinder of magical force rises from that point. Each creature in that area must make a DC 15 Dexterity saving throw. On a failed save, a creature takes 21 (6d6) force damage, and the creature reverts to its original form (if it&apos;s in a different form) and can&apos;t assume a different form until the end of its next turn. On a successful save, a creature takes half as much damage only.</text>
     </action>
     <action>
       <name>Spellcasting</name>
@@ -2685,7 +2686,7 @@ The nonaton casts one of the following spells, requiring no material components 
     <passive>21</passive>
     <languages>Modron, telepathy 120 ft.</languages>
     <cr>11</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 40, Planescape: Adventures in the Multiverse - Sigil and the Outlands</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 40, Planescape: Adventures in the Multiverse - Sigil and the Outlands</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+4</text>
@@ -2693,7 +2694,7 @@ The nonaton casts one of the following spells, requiring no material components 
     <trait>
       <name>Axiomatic Mind</name>
       <text>
-The octon can't be compelled to act in a manner contrary to its nature or its instructions.</text>
+The octon can&apos;t be compelled to act in a manner contrary to its nature or its instructions.</text>
     </trait>
     <trait>
       <name>Combat Ready</name>
@@ -2757,7 +2758,7 @@ The octon rapidly extends and spins its ring of tentacles. Each creature within 
     <passive>22</passive>
     <languages>all</languages>
     <cr>22</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 41</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 41</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+7</text>
@@ -2804,11 +2805,11 @@ Ranged Spell Attack: +12 to hit, range 120 ft., one target. Hit: 32 (5d12) necro
       <name>Planar Exhalation (Recharge 5-6)</name>
       <recharge>D5</recharge>
       <text>
-The incarnate exhales concentrated energy native to its plane in a 60-foot cone. Each creature in that area must make a DC 23 Constitution saving throw. On a failed save, a creature takes 52 (8d12) necrotic damage if the incarnate is a Fiend or radiant damage if the incarnate is a Celestial, and the creature has the blinded condition until the end of the incarnate's next turn. On a successful save, a creature takes half as much damage only.
+The incarnate exhales concentrated energy native to its plane in a 60-foot cone. Each creature in that area must make a DC 23 Constitution saving throw. On a failed save, a creature takes 52 (8d12) necrotic damage if the incarnate is a Fiend or radiant damage if the incarnate is a Celestial, and the creature has the blinded condition until the end of the incarnate&apos;s next turn. On a successful save, a creature takes half as much damage only.
 
 Blinded:
-	• A blinded creature can't see and automatically fails any ability check that requires sight.
-	• Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.</text>
+	• A blinded creature can&apos;t see and automatically fails any ability check that requires sight.
+	• Attack rolls against the creature have advantage, and the creature&apos;s attack rolls have disadvantage.</text>
     </action>
   </monster>
   <monster>
@@ -2831,11 +2832,11 @@ Blinded:
     <vulnerable/>
     <immune/>
     <conditionImmune>blinded, deafened</conditionImmune>
-    <senses>blindsight 60 ft. (can't see beyond this radius)</senses>
+    <senses>blindsight 60 ft. (can&apos;t see beyond this radius)</senses>
     <passive>10</passive>
-    <languages>understands Common but can't speak</languages>
+    <languages>understands Common but can&apos;t speak</languages>
     <cr>1</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 42, Planescape: Adventures in the Multiverse - Sigil and the Outlands</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 42, Planescape: Adventures in the Multiverse - Sigil and the Outlands</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -2843,7 +2844,7 @@ Blinded:
     <trait>
       <name>False Appearance</name>
       <text>
-If the blight is motionless at the start of combat, it has advantage on its initiative roll. If a creature hasn't observed the blight move or act, that creature must succeed on a DC 18 Intelligence (Investigation) check to discern that the blight is animate.</text>
+If the blight is motionless at the start of combat, it has advantage on its initiative roll. If a creature hasn&apos;t observed the blight move or act, that creature must succeed on a DC 18 Intelligence (Investigation) check to discern that the blight is animate.</text>
     </trait>
     <trait>
       <name>Spider Climb</name>
@@ -2865,7 +2866,7 @@ Melee Weapon Attack: +4 to hit (with advantage if the target is missing any of i
       <name>Life-Draining Vines (Recharge 6)</name>
       <recharge>D6</recharge>
       <text>
-Snaking vines erupt from the blight. Each creature within 10 feet of it must make a DC 12 Dexterity saving throw, taking 9 (2d8) slashing damage on failed save, or half as much damage on a successful one. If at least one of the creatures that failed this save isn't a Construct or an Undead, the blight regains 9 hit points.</text>
+Snaking vines erupt from the blight. Each creature within 10 feet of it must make a DC 12 Dexterity saving throw, taking 9 (2d8) slashing damage on failed save, or half as much damage on a successful one. If at least one of the creatures that failed this save isn&apos;t a Construct or an Undead, the blight regains 9 hit points.</text>
     </action>
   </monster>
   <monster>
@@ -2892,7 +2893,7 @@ Snaking vines erupt from the blight. Each creature within 10 feet of it must mak
     <passive>21</passive>
     <languages>all, telepathy 120 ft.</languages>
     <cr>12</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 40, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 40, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+4</text>
@@ -2900,7 +2901,7 @@ Snaking vines erupt from the blight. Each creature within 10 feet of it must mak
     <trait>
       <name>Axiomatic Mind</name>
       <text>
-The septon can't be compelled to act in a manner contrary to its nature or its instructions.</text>
+The septon can&apos;t be compelled to act in a manner contrary to its nature or its instructions.</text>
     </trait>
     <trait>
       <name>Combat Ready</name>
@@ -2920,7 +2921,7 @@ The septon makes four Tentacle attacks and uses Lightning Network or Spellcastin
     <action>
       <name>Tentacle</name>
       <text>
-Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage, and if the target is a Medium or smaller creature, it has the grappled condition (escape DC 14). Until this grapple ends, the septon can't use this tentacle against other targets. The septon has seven tentacles, each of which can grapple one target.</text>
+Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage, and if the target is a Medium or smaller creature, it has the grappled condition (escape DC 14). Until this grapple ends, the septon can&apos;t use this tentacle against other targets. The septon has seven tentacles, each of which can grapple one target.</text>
       <attack>Tentacle|8|2d10 + 4</attack>
     </action>
     <action>
@@ -2963,7 +2964,7 @@ The septon casts one of the following spells, requiring no material components a
     <passive>23</passive>
     <languages>Abyssal, Common, Demodand, Infernal, telepathy 120 ft.</languages>
     <cr>16</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 28, Planescape: Adventures in the Multiverse - Sigil and the Outlands</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 28, Planescape: Adventures in the Multiverse - Sigil and the Outlands</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+5</text>
@@ -2971,7 +2972,7 @@ The septon casts one of the following spells, requiring no material components a
     <trait>
       <name>Boundless Movement</name>
       <text>
-The shator ignores difficult terrain, and magical effects can't reduce its speed. It can spend 5 feet of movement to automatically remove the grappled condition from itself.</text>
+The shator ignores difficult terrain, and magical effects can&apos;t reduce its speed. It can spend 5 feet of movement to automatically remove the grappled condition from itself.</text>
     </trait>
     <trait>
       <name>Jailer (1/Day)</name>
@@ -2982,7 +2983,7 @@ The shator can cast the imprisonment spell, requiring no material components and
     <trait>
       <name>Liquefaction Ritual</name>
       <text>
-The shator can perform a 1-minute ritual that turns all willing farastus and kelubars of its choice within 60 feet of itself into a living liquid form. Each liquefied demodand becomes enough liquid to fill a flask. A demodand's liquefaction lasts until a shator uses an action to end it or a creature opens a container holding the liquid. While liquefied in this way, a demodand has the paralyzed condition despite any immunity to that condition, it has immunity to all damage, and any curse affecting it is suspended.</text>
+The shator can perform a 1-minute ritual that turns all willing farastus and kelubars of its choice within 60 feet of itself into a living liquid form. Each liquefied demodand becomes enough liquid to fill a flask. A demodand&apos;s liquefaction lasts until a shator uses an action to end it or a creature opens a container holding the liquid. While liquefied in this way, a demodand has the paralyzed condition despite any immunity to that condition, it has immunity to all damage, and any curse affecting it is suspended.</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -3002,7 +3003,7 @@ The shator makes one Bite attack and two Enervating Trident attacks.</text>
     <action>
       <name>Bite</name>
       <text>
-Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 17 (3d6 + 7) piercing damage plus 26 (4d12) acid damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or have the paralyzed condition until the start of the shator's next turn.</text>
+Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 17 (3d6 + 7) piercing damage plus 26 (4d12) acid damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or have the paralyzed condition until the start of the shator&apos;s next turn.</text>
       <attack>Bite|12|3d6 + 7+4d12</attack>
     </action>
     <action>
@@ -3029,7 +3030,7 @@ The shator casts one of the following spells, requiring no material components a
       <name>Summon Demodand (1/Day)</name>
       <recharge>1/Day</recharge>
       <text>
-The shator has a 50 percent chance of summoning its choice of 1d4 farastu demodands, 1d2 kelubar demodands, or 1 shator demodand. A summoned demodand appears in an unoccupied space within 60 feet of the shator, acts as an ally of the shator, and can't summon other demodands. It remains for 1 minute, until it or the shator dies, or until the shator dismisses it as an action.</text>
+The shator has a 50 percent chance of summoning its choice of 1d4 farastu demodands, 1d2 kelubar demodands, or 1 shator demodand. A summoned demodand appears in an unoccupied space within 60 feet of the shator, acts as an ally of the shator, and can&apos;t summon other demodands. It remains for 1 minute, until it or the shator dies, or until the shator dismisses it as an action.</text>
     </action>
     <slots/>
     <spells>invisibility, suggestion, dispel magic, plane shift, scrying</spells>
@@ -3058,7 +3059,7 @@ The shator has a 50 percent chance of summoning its choice of 1d4 farastu demoda
     <passive>18</passive>
     <languages>all, telepathy 120 ft.</languages>
     <cr>14</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 46, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 46, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+5</text>
@@ -3119,7 +3120,7 @@ Shemeshka teleports, along with any equipment she is wearing or carrying, up to 
       <name>Fell Counterspell (3/Day)</name>
       <recharge>3/Day</recharge>
       <text>
-Shemeshka utters a magical word to interrupt a creature she can see that is casting a spell. If the spell is 5th level or lower, it fails and has no effect. If the spell is 6th level or higher, Shemeshka makes an Intelligence check (DC 10 + the spell's level). On a success, the spell fails and has no effect. Whatever the spell's level, the caster gains the poisoned condition until the end of its next turn.</text>
+Shemeshka utters a magical word to interrupt a creature she can see that is casting a spell. If the spell is 5th level or lower, it fails and has no effect. If the spell is 6th level or higher, Shemeshka makes an Intelligence check (DC 10 + the spell&apos;s level). On a success, the spell fails and has no effect. Whatever the spell&apos;s level, the caster gains the poisoned condition until the end of its next turn.</text>
     </reaction>
     <slots/>
     <spells>alter self, darkness, invisibility, mage hand, prestidigitation, detect thoughts, dimension door, suggestion, banishment, contact other plane, mind blank</spells>
@@ -3148,7 +3149,7 @@ Shemeshka utters a magical word to interrupt a creature she can see that is cast
     <passive>14</passive>
     <languages>Common plus two more languages</languages>
     <cr>3</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 61, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 61, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -3175,7 +3176,7 @@ Melee or Ranged Spell Attack: +5 to hit, reach 5 ft. or range 90 ft., one target
     <action>
       <name>Enchanting Presence (Bonus Action)</name>
       <text>
-Each creature within 30 feet of the muse must make a DC 13 Wisdom saving throw. On a failed save, the creature has the charmed condition for 1 minute. On a successful save, the creature becomes immune to any muse's Enchanting Presence for 24 hours.
+Each creature within 30 feet of the muse must make a DC 13 Wisdom saving throw. On a failed save, the creature has the charmed condition for 1 minute. On a successful save, the creature becomes immune to any muse&apos;s Enchanting Presence for 24 hours.
 
 	Whenever the muse deals damage to the charmed creature, the charmed creature can repeat the saving throw, ending the effect on itself on a success.</text>
     </action>
@@ -3204,9 +3205,9 @@ Each creature within 30 feet of the muse must make a DC 13 Wisdom saving throw. 
     <conditionImmune/>
     <senses/>
     <passive>10</passive>
-    <languages>understands Celestial but can't speak</languages>
+    <languages>understands Celestial but can&apos;t speak</languages>
     <cr>0</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 47, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 47, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -3214,13 +3215,13 @@ Each creature within 30 feet of the muse must make a DC 13 Wisdom saving throw. 
     <action>
       <name>Sting</name>
       <text>
-Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 2 (1d4) piercing damage. Additionally, if the sunfly is on an Outer Plane, it injects the target with a toxin, the effect of which is determined by the sunfly's location:
+Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 2 (1d4) piercing damage. Additionally, if the sunfly is on an Outer Plane, it injects the target with a toxin, the effect of which is determined by the sunfly&apos;s location:
 
 Upper Plane. The target sheds bright light in a 5-foot radius until the end of its next turn.
 
 Neutral Plane. If the target is concentration on a spell or similar effect, it makes the Constitution saving throw with disadvantage to maintain its concentration.
 
-Lower Plane. The target's speed is reduced by 5 feet until the end of its next turn.</text>
+Lower Plane. The target&apos;s speed is reduced by 5 feet until the end of its next turn.</text>
       <attack>Sting|5|1d4</attack>
     </action>
     <action>
@@ -3251,9 +3252,9 @@ The sunfly sheds bright light in a 5-foot radius and dim light for an additional
     <conditionImmune/>
     <senses/>
     <passive>10</passive>
-    <languages>understands Celestial but can't speak</languages>
+    <languages>understands Celestial but can&apos;t speak</languages>
     <cr>1</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 47</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 47</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -3261,18 +3262,18 @@ The sunfly sheds bright light in a 5-foot radius and dim light for an additional
     <trait>
       <name>Swarm</name>
       <text>
-The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny dragonfly. The swarm can't regain hit points or gain temporary hit points.</text>
+The swarm can occupy another creature&apos;s space and vice versa, and the swarm can move through any opening large enough for a Tiny dragonfly. The swarm can&apos;t regain hit points or gain temporary hit points.</text>
     </trait>
     <action>
       <name>Stings</name>
       <text>
-Melee Weapon Attack: +5 to hit, reach 0 ft., one creature in the swarm's space. Hit: 10 (3d4 + 3) piercing damage, or 5 (1d4 + 3) piercing damage if the swarm has half of its hit points or fewer. Additionally, if the swarm is on an Outer Plane, it injects the target with a toxin, the effect of which is determined by the swarm's location:
+Melee Weapon Attack: +5 to hit, reach 0 ft., one creature in the swarm&apos;s space. Hit: 10 (3d4 + 3) piercing damage, or 5 (1d4 + 3) piercing damage if the swarm has half of its hit points or fewer. Additionally, if the swarm is on an Outer Plane, it injects the target with a toxin, the effect of which is determined by the swarm&apos;s location:
 
 Upper Plane. The target sheds bright light in a 5-foot radius until the end of its next turn. During that time, the invisible condition has no effect on it.
 
 Neutral Plane. If the target is concentration on a spell or similar effect, it loses its concentration.
 
-Lower Plane. The target's speed is reduced by 10 feet until the end of its next turn.</text>
+Lower Plane. The target&apos;s speed is reduced by 10 feet until the end of its next turn.</text>
       <attack>Stings|5|3d4 + 3</attack>
       <attack>Stings (Half HP)|5|1d4 + 3</attack>
     </action>
@@ -3312,7 +3313,7 @@ The swarm sheds bright light in a 15-foot radius and dim light for an additional
     <passive>17</passive>
     <languages>Draconic plus any two languages</languages>
     <cr>5</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 51, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 51, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -3332,7 +3333,7 @@ Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 7 (1d6 + 4) slash
       <name>Time Breath (Recharge 5-6)</name>
       <recharge>D5</recharge>
       <text>
-The dragon exhales a wave of shimmering light in a 15-foot cone. Nonmagical objects and vegetation in that area that aren't being worn or carried crumble to dust. Each creature in that area must make a DC 14 Constitution saving throw. On a failed save, a creature takes 27 (6d8) force damage and is magically weakened as it is desynchronized from the time stream. While the creature is in this state, attack rolls against it have advantage. On a successful save, a creature takes half as much damage only. A weakened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+The dragon exhales a wave of shimmering light in a 15-foot cone. Nonmagical objects and vegetation in that area that aren&apos;t being worn or carried crumble to dust. Each creature in that area must make a DC 14 Constitution saving throw. On a failed save, a creature takes 27 (6d8) force damage and is magically weakened as it is desynchronized from the time stream. While the creature is in this state, attack rolls against it have advantage. On a successful save, a creature takes half as much damage only. A weakened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
     </action>
   </monster>
   <monster>
@@ -3359,7 +3360,7 @@ The dragon exhales a wave of shimmering light in a 15-foot cone. Nonmagical obje
     <passive>17</passive>
     <languages>Common plus one more language</languages>
     <cr>8</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 62, Planescape: Adventures in the Multiverse - Sigil and the Outlands</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 62, Planescape: Adventures in the Multiverse - Sigil and the Outlands</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -3367,7 +3368,7 @@ The dragon exhales a wave of shimmering light in a 15-foot cone. Nonmagical obje
     <trait>
       <name>Instinctive Reflexes</name>
       <text>
-The conduit has advantage on initiative rolls, and it can't have disadvantage on attack rolls.</text>
+The conduit has advantage on initiative rolls, and it can&apos;t have disadvantage on attack rolls.</text>
     </trait>
     <trait>
       <name>Unarmored Defense</name>
@@ -3389,7 +3390,7 @@ The conduit makes three Unarmed Strike attacks.</text>
       <text>
 Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage. If the target is a creature, the conduit can choose one of the following additional effects (up to once per turn each):
 
-Incapacitate. The target must succeed on a DC 15 Constitution saving throw or have the incapacitated condition until the end of the conduit's next turn.
+Incapacitate. The target must succeed on a DC 15 Constitution saving throw or have the incapacitated condition until the end of the conduit&apos;s next turn.
 
 Push. The target is pushed up to 10 feet horizontally away from the conduit.</text>
       <attack>Unarmed Strike|7|2d6 + 4</attack>
@@ -3400,7 +3401,7 @@ Push. The target is pushed up to 10 feet horizontally away from the conduit.</te
 In response to being hit by an attack roll, the conduit partially deflects the blow. The damage the conduit takes from the attack is reduced by 1d10.</text>
     </reaction>
     <reaction>
-      <name>Don't Be There</name>
+      <name>Don&apos;t Be There</name>
       <text>
 When the conduit must make a saving throw, it can move up to half its speed without provoking opportunity attacks. If its new position moves it out of range or otherwise makes it impossible to be targeted by the effect, the conduit avoids the effect entirely.</text>
     </reaction>
@@ -3429,7 +3430,7 @@ When the conduit must make a saving throw, it can move up to half its speed with
     <passive>15</passive>
     <languages>Common plus one more language</languages>
     <cr>3</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 62, Planescape: Adventures in the Multiverse - Sigil and the Outlands</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 62, Planescape: Adventures in the Multiverse - Sigil and the Outlands</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -3483,9 +3484,9 @@ In response to being hit by a melee attack roll, the instinct partially deflects
     <conditionImmune>poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>10</passive>
-    <languages>understands Abyssal, Infernal, and any languages it knew before becoming a vargouille, but it can't speak</languages>
+    <languages>understands Abyssal, Infernal, and any languages it knew before becoming a vargouille, but it can&apos;t speak</languages>
     <cr>1</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 52, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 52, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -3504,13 +3505,13 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) pierci
     <action>
       <name>Abyssal Curse</name>
       <text>
-The vargouille targets one Humanoid within 5 feet of itself that has the incapacitated condition. The target must succeed on a DC 12 Charisma saving throw or become cursed. The cursed target's Charisma decreases by 1 after each hour, as its head takes on fiendish aspects, and its Charisma can't increase. The curse doesn't advance while the target is in sunlight or the area of a daylight spell. When the cursed target's Charisma becomes 2, the target dies, and its head tears from its body and becomes a new vargouille reflection. Casting remove curse, greater restoration, or a similar spell on the target before the transformation is complete ends the curse and restores the target's Charisma.</text>
+The vargouille targets one Humanoid within 5 feet of itself that has the incapacitated condition. The target must succeed on a DC 12 Charisma saving throw or become cursed. The cursed target&apos;s Charisma decreases by 1 after each hour, as its head takes on fiendish aspects, and its Charisma can&apos;t increase. The curse doesn&apos;t advance while the target is in sunlight or the area of a daylight spell. When the cursed target&apos;s Charisma becomes 2, the target dies, and its head tears from its body and becomes a new vargouille reflection. Casting remove curse, greater restoration, or a similar spell on the target before the transformation is complete ends the curse and restores the target&apos;s Charisma.</text>
     </action>
     <action>
       <name>Horrific Reflection (Recharge 5-6)</name>
       <recharge>D5</recharge>
       <text>
-The vargouille's head mimics that of a Humanoid the vargouille can see within 120 feet of itself. The target must succeed on a DC 12 Wisdom saving throw or take 10 (3d6) psychic damage and have the frightened condition for 1 hour or until the vargouille loses concentration (as if concentration on a spell). If the target's saving throw is successful or if the effect ends on it, the target is immune to the Horrific Reflection of all vargouille reflections for 1 hour.</text>
+The vargouille&apos;s head mimics that of a Humanoid the vargouille can see within 120 feet of itself. The target must succeed on a DC 12 Wisdom saving throw or take 10 (3d6) psychic damage and have the frightened condition for 1 hour or until the vargouille loses concentration (as if concentration on a spell). If the target&apos;s saving throw is successful or if the effect ends on it, the target is immune to the Horrific Reflection of all vargouille reflections for 1 hour.</text>
     </action>
   </monster>
   <monster>
@@ -3537,7 +3538,7 @@ The vargouille's head mimics that of a Humanoid the vargouille can see within 12
     <passive>20</passive>
     <languages>all</languages>
     <cr>8</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 18, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune's Wheel</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 18, Planescape: Adventures in the Multiverse - Sigil and the Outlands, Planescape: Adventures in the Multiverse - Turn of Fortune&apos;s Wheel</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+3</text>
@@ -3545,17 +3546,17 @@ The vargouille's head mimics that of a Humanoid the vargouille can see within 12
     <trait>
       <name>Aura of Menace</name>
       <text>
-As long as the archon doesn't have the incapacitated condition, each creature of the archon's choice that starts its turn within 20 feet of the archon must make a DC 15 Wisdom saving throw. On a failed save, the creature has the frightened condition until the start of its next turn. On a successful save, the creature is immune to all archons' Aura of Menace for 24 hours.</text>
+As long as the archon doesn&apos;t have the incapacitated condition, each creature of the archon&apos;s choice that starts its turn within 20 feet of the archon must make a DC 15 Wisdom saving throw. On a failed save, the creature has the frightened condition until the start of its next turn. On a successful save, the creature is immune to all archons&apos; Aura of Menace for 24 hours.</text>
     </trait>
     <trait>
       <name>Eternal Vigil</name>
       <text>
-The archon can't be surprised. Moreover, it knows when any creature uses a portal it is assigned to guard.</text>
+The archon can&apos;t be surprised. Moreover, it knows when any creature uses a portal it is assigned to guard.</text>
     </trait>
     <action>
       <name>Multiattack</name>
       <text>
-The archon makes two Claw attacks and one Tracker's Bite attack.</text>
+The archon makes two Claw attacks and one Tracker&apos;s Bite attack.</text>
     </action>
     <action>
       <name>Claw</name>
@@ -3564,10 +3565,10 @@ Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) slas
       <attack>Claw|8|2d6 + 5</attack>
     </action>
     <action>
-      <name>Tracker's Bite</name>
+      <name>Tracker&apos;s Bite</name>
       <text>
 Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (3d6 + 5) piercing damage. If the target is a creature, for the next 24 hours, the archon knows the distance and direction to the target while they are both on the same plane of existence.</text>
-      <attack>Tracker's Bite|8|3d6 + 5</attack>
+      <attack>Tracker&apos;s Bite|8|3d6 + 5</attack>
     </action>
     <action>
       <name>Spellcasting</name>
@@ -3609,7 +3610,7 @@ The archon teleports, along with any equipment it is wearing or carrying, to an 
     <passive>20</passive>
     <languages>Draconic plus any four languages</languages>
     <cr>11</cr>
-    <description>Source:	Planescape: Adventures in the Multiverse - Morte's Planar Parade p. 51</description>
+    <description>Source:	Planescape: Adventures in the Multiverse - Morte&apos;s Planar Parade p. 51</description>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+4</text>
@@ -3629,7 +3630,7 @@ Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) slas
       <name>Time Breath (Recharge 5-6)</name>
       <recharge>D5</recharge>
       <text>
-The dragon exhales a wave of shimmering light in a 30-foot cone. Nonmagical objects and vegetation in that area that aren't being worn or carried crumble to dust. Each creature in that area must make a DC 17 Constitution saving throw. On a failed save, a creature takes 31 (7d8) force damage and is magically weakened as it is desynchronized from the time stream. While the creature is in this state, attack rolls against it have advantage. On a successful save, a creature takes half as much damage only. A weakened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself after it succeeds on two of these saves.</text>
+The dragon exhales a wave of shimmering light in a 30-foot cone. Nonmagical objects and vegetation in that area that aren&apos;t being worn or carried crumble to dust. Each creature in that area must make a DC 17 Constitution saving throw. On a failed save, a creature takes 31 (7d8) force damage and is magically weakened as it is desynchronized from the time stream. While the creature is in this state, attack rolls against it have advantage. On a successful save, a creature takes half as much damage only. A weakened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself after it succeeds on two of these saves.</text>
     </action>
   </monster>
 </compendium>

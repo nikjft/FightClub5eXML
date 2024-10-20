@@ -155,7 +155,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one prone target. Hit: 23 (4d8 + 5)
     <save>Wis +0</save>
     <skill/>
     <passive>8</passive>
-    <languages>understands all languages it spoke in life but can't speak</languages>
+    <languages>understands all languages it spoke in life but can&apos;t speak</languages>
     <cr>1/4</cr>
     <resist/>
     <immune>poison</immune>

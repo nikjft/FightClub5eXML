@@ -64,7 +64,7 @@ Source:	Player's Handbook 2024 p. 139</text>
     <autolevel level="1">
       <feature>
         <name>Spellcasting</name>
-        <text>Drawing from your innate magic, you can cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Sorcerer spells, which appear in the Sorcerer spell list later in the class's description.
+        <text>Drawing from your innate magic, you can cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Sorcerer spells, which appear in the Sorcerer spell list later in the class&apos;s description.
 
 Cantrips:
 You know four Sorcerer cantrips of your choice. Light, Prestidigitation, Shocking Grasp, and Sorcerous Burst are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.
@@ -172,7 +172,7 @@ Source:	Player's Handbook 2024 p. 140</text>
     <autolevel level="2">
       <feature>
         <name>Metamagic</name>
-        <text>Because your magic flows from within, you can alter your spells to suit your needs; you gain two Meta magic options of your choice from "Metamagic Options" later in this class's description (added as spells in the Metamagic Options spell list). You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
+        <text>Because your magic flows from within, you can alter your spells to suit your needs; you gain two Meta magic options of your choice from "Metamagic Options" later in this class&apos;s description (added as spells in the Metamagic Options spell list). You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
 
 You can use only one Metamagic option on a spell when you cast it unless otherwise noted in one of those options.
 
@@ -185,7 +185,7 @@ Source:	Player's Handbook 2024 p. 141</text>
     <autolevel level="3">
       <feature>
         <name>Sorcerer Subclass</name>
-        <text>You gain a Sorcerer subclass of your choice. The Aberrant Sorcery, Clockwork Sorcery, Draconic Sorcery, and Wild Magic Sorcery subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass's features that are of your Sorcerer level or lower.
+        <text>You gain a Sorcerer subclass of your choice. The Aberrant Sorcery, Clockwork Sorcery, Draconic Sorcery, and Wild Magic Sorcery subclasses are detailed after this class&apos;s description. A subclass is a specialization that grants you features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass&apos;s features that are of your Sorcerer level or lower.
 
 Source:	Player's Handbook 2024 p. 141</text>
       </feature>
@@ -213,7 +213,7 @@ Source:	Player's Handbook 2024 p. 141</text>
     <autolevel level="5">
       <feature>
         <name>Sorcerous Restoration</name>
-        <text>When you finish a Short Rest, you can regain expended Sorcery Points, but no more than a number equal to half your Sorcerer level (round down). Once you use this feature, you can't do so again until you finish a Long Rest.
+        <text>When you finish a Short Rest, you can regain expended Sorcery Points, but no more than a number equal to half your Sorcerer level (round down). Once you use this feature, you can&apos;t do so again until you finish a Long Rest.
 
 Source:	Player's Handbook 2024 p. 141</text>
       </feature>
@@ -429,7 +429,7 @@ Source:	Player's Handbook 2024 p. 145</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Aberrant Sorcery: Psionic Sorcery</name>
-        <text>When you cast any level 1+ spell from your Psionic Spells feature, you can cast it by expending a spell slot as normal or by spending a number of Sorcery Points equal to the spell's level. If you cast the spell using Sorcery Points, it requires no Verbal or Somatic components, and it requires no Material components unless they are consumed by the spell or have a cost specified in it.
+        <text>When you cast any level 1+ spell from your Psionic Spells feature, you can cast it by expending a spell slot as normal or by spending a number of Sorcery Points equal to the spell&apos;s level. If you cast the spell using Sorcery Points, it requires no Verbal or Somatic components, and it requires no Material components unless they are consumed by the spell or have a cost specified in it.
 
 Source:	Player's Handbook 2024 p. 146</text>
       </feature>
@@ -543,7 +543,7 @@ Source:	Player's Handbook 2024 p. 147</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Clockwork Sorcery: Trance Of Order</name>
-        <text>You gain the ability to align your consciousness with the endless calculations of Mechanus. As a Bonus Action, you can enter this state for 1 minute. For the duration, attack rolls against you can't benefit from Advantage, and whenever you make a D20 Test, you can treat a roll of 9 or lower on the d20 as a 10.
+        <text>You gain the ability to align your consciousness with the endless calculations of Mechanus. As a Bonus Action, you can enter this state for 1 minute. For the duration, attack rolls against you can&apos;t benefit from Advantage, and whenever you make a D20 Test, you can treat a roll of 9 or lower on the d20 as a 10.
 
 Once you use this feature, you can't use it again until you finish a Long Rest unless you spend 5 Sorcery Points (no action required) to restore your use of it.
 
@@ -554,7 +554,7 @@ Source:	Player's Handbook 2024 p. 147</text>
     <autolevel level="18">
       <feature optional="YES">
         <name>Clockwork Sorcery: Clockwork Cavalcade</name>
-        <text>You momentarily summon spirits of order to expunge disorder around you. As a Magic action, you summon the spirits in a 30-foot Cube originating from you. The spirits look like modrons or other Constructs of your choice. The spirits are intangible and invulnerable, and they create the effects below within the Cube before vanishing. Once you use this action, you can't use it again until you finish a Long Rest unless you spend 7 Sorcery Points (no action required) to restore your use of it.
+        <text>You momentarily summon spirits of order to expunge disorder around you. As a Magic action, you summon the spirits in a 30-foot Cube originating from you. The spirits look like modrons or other Constructs of your choice. The spirits are intangible and invulnerable, and they create the effects below within the Cube before vanishing. Once you use this action, you can&apos;t use it again until you finish a Long Rest unless you spend 7 Sorcery Points (no action required) to restore your use of it.
 
 Heal:
 The spirits restore up to 100 Hit Points, divided as you choose among any number of creatures of your choice in the Cube.

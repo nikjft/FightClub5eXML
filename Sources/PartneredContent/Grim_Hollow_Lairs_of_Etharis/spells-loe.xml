@@ -10,7 +10,7 @@
     <range>60 feet</range>
     <components>V, S, M (a cup of sap)</components>
     <classes>School: Transmutation, Druid</classes>
-    <text>You attempt to turn one creature that you can see within range into wood. If the target's body is made of flesh, the creature must make a Constitution saving throw. On a failed save, it is restrained as its flesh begins to harden into bark. On a successful save, the creature isn't affected.
+    <text>You attempt to turn one creature that you can see within range into wood. If the target&apos;s body is made of flesh, the creature must make a Constitution saving throw. On a failed save, it is restrained as its flesh begins to harden into bark. On a successful save, the creature isn&apos;t affected.
 
 A creature restrained by this spell must make another Constitution saving throw at the end of each of its turns. If it successfully saves against this spell three times, the spell ends. If it fails its Constitution saving throw three times, it is turned into a tree and subjected to the petrified condition for the duration. The successes and failures don't need to be consecutive; keep track of both until the target collects three of a kind.
 
@@ -41,9 +41,9 @@ Source:	Grim Hollow: Lairs of Etharis</text>
     <time>1 action</time>
     <duration>1 hour</duration>
     <range>Self</range>
-    <components>V, S, M (a 1-ounce fresh or magically preserved portion of another creature's brain)</components>
+    <components>V, S, M (a 1-ounce fresh or magically preserved portion of another creature&apos;s brain)</components>
     <classes>School: Necromancy, Cleric, Warlock, Wizard, Fighter (Eldritch Knight), Rogue (Arcane Trickster)</classes>
-    <text>You consume the brain of another creature's corpse, gaining its memories and knowledge. The corpse must have a brain and can't be undead. The spell fails if the corpse has been dead (and not preserved) for more than three days.
+    <text>You consume the brain of another creature&apos;s corpse, gaining its memories and knowledge. The corpse must have a brain and can&apos;t be undead. The spell fails if the corpse has been dead (and not preserved) for more than three days.
 
 Until the spell ends, you can attempt to recall any important fact known to the creature—family history, recent events, building layouts, passwords, details of the creature's death, and similar information. To recall a piece of information, you must make an ability check using your spellcasting modifier. The DC is equal to the corpse's Intelligence score.
 
@@ -79,7 +79,7 @@ Source:	Grim Hollow: Lairs of Etharis</text>
     <range>Touch</range>
     <components>V, S</components>
     <classes>School: Divination, Druid</classes>
-    <text>You touch one willing creature. While this spell is active, the target's senses are heightened. If the target rolls a 9 or below on the die when making a Wisdom (Perception) check, they instead act as if they rolled a 10.
+    <text>You touch one willing creature. While this spell is active, the target&apos;s senses are heightened. If the target rolls a 9 or below on the die when making a Wisdom (Perception) check, they instead act as if they rolled a 10.
 
 Source:	Grim Hollow: Lairs of Etharis</text>
   </spell>
@@ -93,7 +93,7 @@ Source:	Grim Hollow: Lairs of Etharis</text>
     <range>Self</range>
     <components>V, S, M (a polished silver marble)</components>
     <classes>School: Abjuration, Sorcerer</classes>
-    <text>A momentary bubble of iridescent energy shimmers in the air between you and the caster of the triggering spell. The spell is redirected to a creature of your choice that you can see within 60 feet. If the spell is 5th level or lower, you are no longer a target of the spell and the chosen creature is instead. If the spell is 6th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a successful check, you are no longer a target of the spell and the chosen creature is instead. On a failed check, you remain the target of the triggering spell.
+    <text>A momentary bubble of iridescent energy shimmers in the air between you and the caster of the triggering spell. The spell is redirected to a creature of your choice that you can see within 60 feet. If the spell is 5th level or lower, you are no longer a target of the spell and the chosen creature is instead. If the spell is 6th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell&apos;s level. On a successful check, you are no longer a target of the spell and the chosen creature is instead. On a failed check, you remain the target of the triggering spell.
 
 Source:	Grim Hollow: Lairs of Etharis</text>
   </spell>

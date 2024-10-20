@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <monster>
     <name>Abhorrent Overlord</name>
@@ -27,7 +28,7 @@
     <trait>
       <name>Insatiable Greed</name>
       <text>
-The abhorrent overlord can sense the presence of gold within 1,000 feet of itself. It can determine which location has the greatest amount of gold and can sense the direction to that site. If the gold is being moved, it knows the direction of the movement. It can't locate gold if any thickness of clay or lead, even a thin sheet, blocks a direct path between it and the gold.</text>
+The abhorrent overlord can sense the presence of gold within 1,000 feet of itself. It can determine which location has the greatest amount of gold and can sense the direction to that site. If the gold is being moved, it knows the direction of the movement. It can&apos;t locate gold if any thickness of clay or lead, even a thin sheet, blocks a direct path between it and the gold.</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -59,7 +60,7 @@ Any creature that moves into the area for the first time on a turn or starts its
     <trait>
       <name>Innate Spellcasting</name>
       <text>
-The abhorrent overlord's spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components:
+The abhorrent overlord&apos;s spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components:
 	• 1/Day each: confusion, crown of madness, suggestion</text>
     </trait>
     <spells>confusion, crown of madness, suggestion</spells>
@@ -95,7 +96,7 @@ Source:	Mythic Odysseys of Theros p. 219</description>
     <trait>
       <name>Hold the Line</name>
       <text>
-While the hoplite is holding a spear, other creatures provoke an opportunity attack from the hoplite when they move within 5 feet of it. When the hoplite hits a creature with an opportunity attack using its spear, the creature takes an extra 4 (1d8) piercing damage, and the creature's speed becomes 0 for the rest of the turn.</text>
+While the hoplite is holding a spear, other creatures provoke an opportunity attack from the hoplite when they move within 5 feet of it. When the hoplite hits a creature with an opportunity attack using its spear, the creature takes an extra 4 (1d8) piercing damage, and the creature&apos;s speed becomes 0 for the rest of the turn.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -118,9 +119,9 @@ If the target is a Medium or smaller creature, it must succeed on a DC 13 Streng
     </action>
     <description>Akroan hoplites, also called stratians, number among the fiercest soldiers on Theros. They train relentlessly and possess unflinching resolve. In the annals of Akros, tales abound of squads of stratians that defended a key location against a much larger force or crept behind enemy lines and wreaked havoc in the opposing army.
 
-Hoplites are highly trained warriors, versed not only in strategy and tactics but in the glorification of the warrior's spirit, the basis of an ethos that forges an unbreakable bond between members of a military unit. In combat, hoplites typically work in groups and use coordinated tactics to win victories.
+Hoplites are highly trained warriors, versed not only in strategy and tactics but in the glorification of the warrior&apos;s spirit, the basis of an ethos that forges an unbreakable bond between members of a military unit. In combat, hoplites typically work in groups and use coordinated tactics to win victories.
 
-The three Hoplite Unit Names tables present the sorts of titles used by hoplite contingents hailing from Theros's great poleis. Consider using these names for military forces characters encounter during their adventures or that they were once a part of.
+The three Hoplite Unit Names tables present the sorts of titles used by hoplite contingents hailing from Theros&apos;s great poleis. Consider using these names for military forces characters encounter during their adventures or that they were once a part of.
 
 Akroan Hoplite Unit Names:
 d8 | Name
@@ -131,7 +132,7 @@ d8 | Name
 5 | Anvil of Purphoros
 6 | Skewering Squad
 7 | Shield of Akros
-8 | Cymede's Heart
+8 | Cymede&apos;s Heart
 
 Source:	Mythic Odysseys of Theros p. 228</description>
     <environment/>
@@ -184,7 +185,7 @@ Melee Spell Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) radian
     <trait>
       <name>Innate Spellcasting</name>
       <text>
-The alseid's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring no material components:
+The alseid&apos;s spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring no material components:
 	• 3/Day each: cure wounds, charm person, sleep
 	• 1/Day each: calm emotions, lesser restoration, plant growth</text>
     </trait>
@@ -195,7 +196,7 @@ Nymphs:
 Divine servants that inhabit unspoiled corners of the world, nymphs protect places of natural power and infuse their surroundings with the magic of Nyx. Some are benevolent and aid those who live off the land, while others embody violent aspects of nature. In either case, nymphs generally avoid other sapient creatures, preferring to mind the cycles of nature, the daily interplay of wild animals, or other cosmic forces. Occasionally, though, groups of the same kind of nymphs congregate in a place of natural power or beauty. In times of special need, deities tied to facets of nature might employ nymphs as messengers, guardians, or scouts.
 
 Immortal Nature:
-A nymph doesn't require food, drink, or sleep.
+A nymph doesn&apos;t require food, drink, or sleep.
 
 Source:	Mythic Odysseys of Theros p. 235</description>
     <environment/>
@@ -217,7 +218,7 @@ Source:	Mythic Odysseys of Theros p. 235</description>
     <save/>
     <skill>Perception +4</skill>
     <passive>14</passive>
-    <languages>understands one language of its creator but can't speak</languages>
+    <languages>understands one language of its creator but can&apos;t speak</languages>
     <cr>1/2</cr>
     <resist/>
     <immune>fire, poison</immune>
@@ -252,7 +253,7 @@ Some anvilwrought raptors are created expressly to be familiars. Such creatures 
 
 Familiar: The anvilwrought can serve another creature as a familiar, forming a magical, telepathic bond with its willing master. While the two are bonded, the master can sense what the anvilwrought senses, as long as they are within 1 mile of each other.</text>
     </action>
-    <description>Prized among Meletis's thaumaturges, anvilwrought raptors are often crafted in the form of a hawk or an owl. Most serve as messengers and spies, flying over the busy streets or high over the land while carrying or seeking vital information for their masters.
+    <description>Prized among Meletis&apos;s thaumaturges, anvilwrought raptors are often crafted in the form of a hawk or an owl. Most serve as messengers and spies, flying over the busy streets or high over the land while carrying or seeking vital information for their masters.
 
 The first anvilwroughts were created by the god of the forge, Purphoros. He gave the secret of breathing life into these metal creatures to his most devoted followers so they could mimic his works and invent new forms at their own forges.
 
@@ -318,7 +319,7 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slash
     <action>
       <name>Discordant Song</name>
       <text>
-Aphemia shrieks a cacophony of magical sounds. Each humanoid within 120 feet of her must succeed on a DC 14 Wisdom saving throw or be frightened of her until the song ends. A frightened creature takes 7 (2d6) psychic damage at the start of its turn while Aphemia is singing. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to Aphemia's Discordant Song for the next 24 hours. Aphemia must take a bonus action on her subsequent turns to continue singing. She can stop singing at any time. The song ends if Aphemia is incapacitated or dies.</text>
+Aphemia shrieks a cacophony of magical sounds. Each humanoid within 120 feet of her must succeed on a DC 14 Wisdom saving throw or be frightened of her until the song ends. A frightened creature takes 7 (2d6) psychic damage at the start of its turn while Aphemia is singing. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature&apos;s saving throw is successful or the effect ends for it, the creature is immune to Aphemia&apos;s Discordant Song for the next 24 hours. Aphemia must take a bonus action on her subsequent turns to continue singing. She can stop singing at any time. The song ends if Aphemia is incapacitated or dies.</text>
       <attack>Discordant Song||2d6</attack>
     </action>
     <action>
@@ -326,7 +327,7 @@ Aphemia shrieks a cacophony of magical sounds. Each humanoid within 120 feet of 
       <text>
 Aphemia intones a low, growling magical melody. Every undead within 300 feet of her must succeed on a DC 14 Wisdom saving throw or fall under her control until the song ends. Aphemia must take a bonus action on her subsequent turns to continue singing, and she can mentally command the undead under her control as part of the same bonus action. She can stop singing at any time. The song ends if Aphemia is incapacitated or dies.</text>
     </action>
-    <description>The notorious Nyxborn harpy Aphemia prowls the marshy wastes around the necropolis of Asphodel. Her shrill songs enthrall the necropolis's undead inhabitants, which she leads on raids to waylay unsuspecting travelers and settlements.
+    <description>The notorious Nyxborn harpy Aphemia prowls the marshy wastes around the necropolis of Asphodel. Her shrill songs enthrall the necropolis&apos;s undead inhabitants, which she leads on raids to waylay unsuspecting travelers and settlements.
 
 Cruel, corpse-eating creatures, harpies endlessly seek their next meal, careless of whether it comes from the living or the dead. With equal zeal, these vicious scavengers set upon travelers or claw open fresh graves, stripping bodies of riches and flesh. Then they carry back any treasures or appealing bones they find to reeking nests situated in cramped caves or rotten trees.
 
@@ -360,7 +361,7 @@ Source:	Mythic Odysseys of Theros p. 226</description>
     <trait>
       <name>Armor of Spiders (Mythic Trait; Recharges after a Short or Long Rest)</name>
       <text>
-If Arasta is reduced to 0 hit points, she doesn't die or fall unconscious. Instead, she regains 200 hit points. In addition, Arasta's children immediately swarm over her body to protect her, granting her 100 temporary hit points.</text>
+If Arasta is reduced to 0 hit points, she doesn&apos;t die or fall unconscious. Instead, she regains 200 hit points. In addition, Arasta&apos;s children immediately swarm over her body to protect her, granting her 100 temporary hit points.</text>
     </trait>
     <trait>
       <name>Legendary Resistance (3/Day)</name>
@@ -412,7 +413,7 @@ Arasta unleashes her hair in the form of webbing that fills a 30-foot cube next 
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Arasta can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Arasta regains spent legendary actions at the start of its turn.</text>
+      <text>Arasta can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Arasta regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Claws</name>
@@ -427,12 +428,12 @@ Arasta causes two swarm of spiders to appear in unoccupied spaces within 5 feet 
     <legendary>
       <name>Toxic Web (Costs 3 Actions)</name>
       <text>
-Each creature restrained by Arasta's Web of Hair takes 18 (4d8) poison damage.</text>
+Each creature restrained by Arasta&apos;s Web of Hair takes 18 (4d8) poison damage.</text>
     </legendary>
     <legendary>
       <name>Mythic Actions</name>
       <text>
-If Arasta's mythic trait is active, she can use the options below as legendary actions, as long as she has temporary hit points from her Armor of Spiders.</text>
+If Arasta&apos;s mythic trait is active, she can use the options below as legendary actions, as long as she has temporary hit points from her Armor of Spiders.</text>
     </legendary>
     <legendary>
       <name>Swipe</name>
@@ -447,25 +448,25 @@ Arasta recharges Web of Hair and uses it.</text>
     <legendary>
       <name>Nyx Weave (Costs 2 Actions)</name>
       <text>
-Each creature restrained by Arasta's Web of Hair must succeed on a DC 21 Constitution saving throw, or the creature takes 26 (4d12) force damage and any spell of 6th level or lower on it ends.</text>
+Each creature restrained by Arasta&apos;s Web of Hair must succeed on a DC 21 Constitution saving throw, or the creature takes 26 (4d12) force damage and any spell of 6th level or lower on it ends.</text>
     </legendary>
     <legendary>
       <name>Lair Actions</name>
       <text>
-On initiative count 20 (losing initiative ties), Arasta can take a lair action to cause one of the following effects. She can't use the same effect two rounds in a row.
+On initiative count 20 (losing initiative ties), Arasta can take a lair action to cause one of the following effects. She can&apos;t use the same effect two rounds in a row.
 
-	• Arasta learns about any creature touching her webs. Each creature restrained by a web or Arasta's Web of Hair must make a DC 21 Intelligence saving throw. On a failed save, Arasta gains knowledge of a creature's name, race, where they consider home, and what brought them to her web.
+	• Arasta learns about any creature touching her webs. Each creature restrained by a web or Arasta&apos;s Web of Hair must make a DC 21 Intelligence saving throw. On a failed save, Arasta gains knowledge of a creature&apos;s name, race, where they consider home, and what brought them to her web.
 
 	• Arasta casts the giant insect spell (spiders only). It lasts until she uses this lair action again or until she dies.</text>
     </legendary>
     <legendary>
       <name>Regional Effects</name>
       <text>
-The region containing Arasta's lair is warped by her presence, which creates one or more of the following effects:
+The region containing Arasta&apos;s lair is warped by her presence, which creates one or more of the following effects:
 
-	• Spiders and insects within 1 mile of Arasta's lair serve as her eyes and ears. Birds and other flying creatures are absent from the skies and occasionally found trapped in webs.
+	• Spiders and insects within 1 mile of Arasta&apos;s lair serve as her eyes and ears. Birds and other flying creatures are absent from the skies and occasionally found trapped in webs.
 
-	• Within 1 mile of Arasta's lair, webs fill all 10-foot cubes of open space, so long as the webs can be anchored between two solid masses (such as walls or trees). The webs are flammable. Any webs exposed to fire burn away in 1 round. Any destroyed webs are magically repaired at the next dawn.
+	• Within 1 mile of Arasta&apos;s lair, webs fill all 10-foot cubes of open space, so long as the webs can be anchored between two solid masses (such as walls or trees). The webs are flammable. Any webs exposed to fire burn away in 1 round. Any destroyed webs are magically repaired at the next dawn.
 
 If Arasta dies, the spiders and insects lose their supernatural link to her. The webs remain, but they dissolve within 1d10 days.</text>
     </legendary>
@@ -481,9 +482,9 @@ The nightmarish arachnid unleashes a shriek that sounds like a thousand spider c
 ------
 Fighting Arasta as a mythic encounter is equivalent to taking on two challenge rating 21 creatures in one encounter. Award a party 66,000 XP for defeating Arasta after she uses Armor of Spiders.</text>
     </legendary>
-    <description>A victim of the gods' petty rivalries, Arasta was once one of Nylea's most beloved dryad companions. Phenax's bitterness saw her transformed into an arachnid monstrosity and driven into the darkest depths of the Nessian Wood. Now she broods on her unjust fate and the fickleness of the gods who left her cursed with monstrous immortality.
+    <description>A victim of the gods&apos; petty rivalries, Arasta was once one of Nylea&apos;s most beloved dryad companions. Phenax&apos;s bitterness saw her transformed into an arachnid monstrosity and driven into the darkest depths of the Nessian Wood. Now she broods on her unjust fate and the fickleness of the gods who left her cursed with monstrous immortality.
 
-Arasta appears as a gigantic spiderlike creature, her few humanoid features made monstrous by cruel magic and ages of hatred. Webs fill her lair deep in the Nessian Wood, sticky strands made not of silk but of her own endless hair. In her darkened realm, Arasta broods on her hatred of the gods and their servants. She doesn't do so alone, though, as innumerable arachnids fawn over her, serving as her eyes throughout the wilderness, disposing of victims trapped within her hair, and sacrificing themselves in her defense if they must.
+Arasta appears as a gigantic spiderlike creature, her few humanoid features made monstrous by cruel magic and ages of hatred. Webs fill her lair deep in the Nessian Wood, sticky strands made not of silk but of her own endless hair. In her darkened realm, Arasta broods on her hatred of the gods and their servants. She doesn&apos;t do so alone, though, as innumerable arachnids fawn over her, serving as her eyes throughout the wilderness, disposing of victims trapped within her hair, and sacrificing themselves in her defense if they must.
 
 See "Myths of Nylea" in chapter 2 for more details on the tragedy of Arasta.
 
@@ -522,13 +523,13 @@ The archon has advantage on saving throws against spells and other magical effec
     <trait>
       <name>Mount</name>
       <text>
-If the archon isn't mounted, it can use a bonus action to magically teleport onto the creature serving as its mount, provided the archon and its mount are on the same plane of existence. When it teleports, the archon appears astride the mount, along with any equipment it is wearing or carrying. While mounted and not incapacitated, the archon can't be surprised, and both it and its mount have advantage on Dexterity saving throws. If the archon is reduced to 0 hit points while riding its mount, the mount is reduced to 0 hit points as well.</text>
+If the archon isn&apos;t mounted, it can use a bonus action to magically teleport onto the creature serving as its mount, provided the archon and its mount are on the same plane of existence. When it teleports, the archon appears astride the mount, along with any equipment it is wearing or carrying. While mounted and not incapacitated, the archon can&apos;t be surprised, and both it and its mount have advantage on Dexterity saving throws. If the archon is reduced to 0 hit points while riding its mount, the mount is reduced to 0 hit points as well.</text>
     </trait>
     <trait>
       <name>Radiant Rebirth (Recharges after a Long Rest)</name>
       <recharge>LONG</recharge>
       <text>
-If the archon is reduced to 0 hit points, it regains 30 hit points and springs back to its feet with a burst of radiance. Each creature of the archon's choice within 30 feet of it must succeed on a DC 16 Constitution saving throw, or the creature takes 13 (3d8) radiant damage and is blinded until the start of the archon's turn.</text>
+If the archon is reduced to 0 hit points, it regains 30 hit points and springs back to its feet with a burst of radiance. Each creature of the archon&apos;s choice within 30 feet of it must succeed on a DC 16 Constitution saving throw, or the creature takes 13 (3d8) radiant damage and is blinded until the start of the archon&apos;s turn.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -544,7 +545,7 @@ Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) pier
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The celestial can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The celestial regains spent legendary actions at the start of its turn.</text>
+      <text>The celestial can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The celestial regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Attack</name>
@@ -564,13 +565,13 @@ The archon causes a corpse it can see within 30 feet of it to burst into a showe
     <trait>
       <name>Innate Spellcasting</name>
       <text>
-The archon's spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The archon can innately cast the following spells, requiring no material components:
+The archon&apos;s spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The archon can innately cast the following spells, requiring no material components:
 
 	• At will: command, guiding bolt, spare the dying
-	• 1/Day each: crusader's mantle, spirit guardians</text>
+	• 1/Day each: crusader&apos;s mantle, spirit guardians</text>
     </trait>
-    <spells>command, guiding bolt, spare the dying, crusader's mantle, spirit guardians</spells>
-    <description>The epic accounting of the world's earliest histories called The Cosmogony recounts the battle between a group of the gods' champions and a mighty archon, which took place at the mysterious eastern edge of the world. Defeated, the falling archon is said to have met the rising sun. But Heliod showed mercy to the penitent archon, who swore to uphold justice and righteousness in the world's wildest places. As a sign of his mercy, Heliod gave the archon a spear that rivaled his own in its brilliance. This was the first archon of falling stars.
+    <spells>command, guiding bolt, spare the dying, crusader&apos;s mantle, spirit guardians</spells>
+    <description>The epic accounting of the world&apos;s earliest histories called The Cosmogony recounts the battle between a group of the gods&apos; champions and a mighty archon, which took place at the mysterious eastern edge of the world. Defeated, the falling archon is said to have met the rising sun. But Heliod showed mercy to the penitent archon, who swore to uphold justice and righteousness in the world&apos;s wildest places. As a sign of his mercy, Heliod gave the archon a spear that rivaled his own in its brilliance. This was the first archon of falling stars.
 
 The mysterious conquerors known as archons once ruled vast empires. These armored warlords saw themselves as champions of merciless justice, and they ruled with iron fists. But their dominance ultimately came to an end. As the archon overlords toppled, they scattered to the fringes of the world, and their holdings developed into the poleis of today.
 
@@ -606,14 +607,14 @@ Source:	Mythic Odysseys of Theros p. 212</description>
     <trait>
       <name>Aura of Silence</name>
       <text>
-When a creature starts its turn within 30 feet of the ashen rider, the rider can force that creature to make a DC 18 Wisdom saving throw if the rider can see it. On a successful save, the creature is immune to this aura for the next 24 hours. On a failed save, the creature can't speak and is deafened until the start of its next turn.</text>
+When a creature starts its turn within 30 feet of the ashen rider, the rider can force that creature to make a DC 18 Wisdom saving throw if the rider can see it. On a successful save, the creature is immune to this aura for the next 24 hours. On a failed save, the creature can&apos;t speak and is deafened until the start of its next turn.</text>
     </trait>
     <trait>
       <name>Mount</name>
       <text>
-If the ashen rider isn't mounted, it can use a bonus action to magically teleport onto the creature serving as its mount, provided the ashen rider and its mount are on the same plane of existence. When it teleports, the ashen rider appears astride the mount along with any equipment it is wearing or carrying.
+If the ashen rider isn&apos;t mounted, it can use a bonus action to magically teleport onto the creature serving as its mount, provided the ashen rider and its mount are on the same plane of existence. When it teleports, the ashen rider appears astride the mount along with any equipment it is wearing or carrying.
 
-While mounted and not incapacitated, the ashen rider can't be surprised, and both it and its mount have advantage on Dexterity saving throws. If the ashen rider is reduced to 0 hit points while riding its mount, the mount is reduced to 0 hit points as well.</text>
+While mounted and not incapacitated, the ashen rider can&apos;t be surprised, and both it and its mount have advantage on Dexterity saving throws. If the ashen rider is reduced to 0 hit points while riding its mount, the mount is reduced to 0 hit points as well.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -629,13 +630,13 @@ Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 14 (2d8 + 5) sla
     <action>
       <name>Bolt of Ash</name>
       <text>
-Ranged Spell Attack: +10 to hit, range 120 ft., one target. Hit: 22 (4d10) necrotic damage, and the target can't regain hit points until the start of the ashen rider's next turn.</text>
+Ranged Spell Attack: +10 to hit, range 120 ft., one target. Hit: 22 (4d10) necrotic damage, and the target can&apos;t regain hit points until the start of the ashen rider&apos;s next turn.</text>
       <attack>Bolt of Ash|+10|4d10</attack>
     </action>
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The celestial can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The celestial regains spent legendary actions at the start of its turn.</text>
+      <text>The celestial can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The celestial regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Attack</name>
@@ -650,18 +651,18 @@ The ashen rider makes an attack using its ashen blade or bolt of ash, and then i
     <legendary>
       <name>Reduce to Ash (Costs 3 Actions)</name>
       <text>
-The ashen rider targets a creature it can see within 60 feet of it. The target must succeed on a DC 18 Constitution saving throw, or it takes 27 (5d10) necrotic damage and its hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the target finishes a long rest. If the target's hit point maximum is reduced to 0, its body and everything it is wearing and carrying, except for magic items, are reduced to ash. A creature reduced to ash can't be revived by any means short of a wish spell.</text>
+The ashen rider targets a creature it can see within 60 feet of it. The target must succeed on a DC 18 Constitution saving throw, or it takes 27 (5d10) necrotic damage and its hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the target finishes a long rest. If the target&apos;s hit point maximum is reduced to 0, its body and everything it is wearing and carrying, except for magic items, are reduced to ash. A creature reduced to ash can&apos;t be revived by any means short of a wish spell.</text>
     </legendary>
     <trait>
       <name>Innate Spellcasting</name>
       <text>
-The ashen rider's spellcasting ability is Wisdom (spell save DC 18). The rider can innately cast the following spells, requiring no material components:
+The ashen rider&apos;s spellcasting ability is Wisdom (spell save DC 18). The rider can innately cast the following spells, requiring no material components:
 
 	• At will: command, compelled duel
 	• 1/Day each: banishment, blade barrier</text>
     </trait>
     <spells>command, compelled duel, banishment, blade barrier</spells>
-    <description>The fall of the ancient archon empires left some archons bitter and resentful. Seeking to avoid the spread of human civilization, these archons made their way to the Underworld. The horrors of the place broke their minds, bodies, and spirits and twisted them into the terrifying archons known as ashen riders. When they ride forth upon the mortal world, terrified mortals make offerings in a desperate attempt to appease them, but the ashen riders aren't merciful, and they delight in reducing the paragons of the mortal world to ash.
+    <description>The fall of the ancient archon empires left some archons bitter and resentful. Seeking to avoid the spread of human civilization, these archons made their way to the Underworld. The horrors of the place broke their minds, bodies, and spirits and twisted them into the terrifying archons known as ashen riders. When they ride forth upon the mortal world, terrified mortals make offerings in a desperate attempt to appease them, but the ashen riders aren&apos;t merciful, and they delight in reducing the paragons of the mortal world to ash.
 
 The mysterious conquerors known as archons once ruled vast empires. These armored warlords saw themselves as champions of merciless justice, and they ruled with iron fists. But their dominance ultimately came to an end. As the archon overlords toppled, they scattered to the fringes of the world, and their holdings developed into the poleis of today.
 
@@ -697,7 +698,7 @@ Source:	Mythic Odysseys of Theros p. 213</description>
     <trait>
       <name>Blood Frenzy</name>
       <text>
-The harpy has advantage on melee attack rolls against any creature that doesn't have all its hit points.</text>
+The harpy has advantage on melee attack rolls against any creature that doesn&apos;t have all its hit points.</text>
     </trait>
     <trait>
       <name>Dark Devotion</name>
@@ -721,7 +722,7 @@ Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) pierci
 Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage.</text>
       <attack>Claws|+3|1d4+1</attack>
     </action>
-    <description>Murderous gangs of harpies collect in grim places across Theros, preying on any who pass by. Many merchants face regular losses at the harpies' claws, common casualties often referred to as a "blood toll."
+    <description>Murderous gangs of harpies collect in grim places across Theros, preying on any who pass by. Many merchants face regular losses at the harpies&apos; claws, common casualties often referred to as a "blood toll."
 Cruel, corpse-eating creatures, harpies endlessly seek their next meal, careless of whether it comes from the living or the dead. With equal zeal, these vicious scavengers set upon travelers or claw open fresh graves, stripping bodies of riches and flesh. Then they carry back any treasures or appealing bones they find to reeking nests situated in cramped caves or rotten trees.
 
 Source:	Mythic Odysseys of Theros p. 227</description>
@@ -817,7 +818,7 @@ Source:	Mythic Odysseys of Theros p. 189</description>
     <save/>
     <skill>Stealth +5</skill>
     <passive>12</passive>
-    <languages>understands one language of its creator but can't speak</languages>
+    <languages>understands one language of its creator but can&apos;t speak</languages>
     <cr>1</cr>
     <resist/>
     <immune>fire, poison</immune>
@@ -832,7 +833,7 @@ While the sable remains motionless, it is indistinguishable from a normal statue
     <trait>
       <name>Pack Tactics</name>
       <text>
-The sable has advantage on an attack roll against a creature if at least one of the sable's allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
+The sable has advantage on an attack roll against a creature if at least one of the sable&apos;s allies is within 5 feet of the creature and the ally isn&apos;t incapacitated.</text>
     </trait>
     <trait>
       <name>Surprise Attack</name>
@@ -850,7 +851,7 @@ The sable makes two bite attacks.</text>
 Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.</text>
       <attack>Bite|+5|1d8+3</attack>
     </action>
-    <description>The first bronze sables were presented to Karametra as a gift by Purphoros to serve primarily as guardians in Karametra's temples. But as others have been created, some have been used as nimble scouts, always on alert for danger.
+    <description>The first bronze sables were presented to Karametra as a gift by Purphoros to serve primarily as guardians in Karametra&apos;s temples. But as others have been created, some have been used as nimble scouts, always on alert for danger.
 
 The first anvilwroughts were created by the god of the forge, Purphoros. He gave the secret of breathing life into these metal creatures to his most devoted followers so they could mimic his works and invent new forms at their own forges.
 
@@ -878,7 +879,7 @@ Source:	Mythic Odysseys of Theros p. 210</description>
     <save/>
     <skill/>
     <passive>12</passive>
-    <languages>understands one language of its creator but can't speak</languages>
+    <languages>understands one language of its creator but can&apos;t speak</languages>
     <cr>2</cr>
     <resist/>
     <immune>fire, poison</immune>
@@ -919,7 +920,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) pierci
 Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) fire damage.</text>
       <attack>Hooves|+5|1d4+3</attack>
     </action>
-    <description>Among the first anvilwroughts to be forged by Purphoros, elegant burnished harts wander the mortal realm in search of new sights to bring back to the god of the forge. On every trip from Mount Velus, where Purphoros has his forge, they seek out the far reaches of the world so they can witness beauty in all its forms, then later reunite with their creator, their minds filled with tales of how life's splendor continues to develop.
+    <description>Among the first anvilwroughts to be forged by Purphoros, elegant burnished harts wander the mortal realm in search of new sights to bring back to the god of the forge. On every trip from Mount Velus, where Purphoros has his forge, they seek out the far reaches of the world so they can witness beauty in all its forms, then later reunite with their creator, their minds filled with tales of how life&apos;s splendor continues to develop.
 
 The first anvilwroughts were created by the god of the forge, Purphoros. He gave the secret of breathing life into these metal creatures to his most devoted followers so they could mimic his works and invent new forms at their own forges.
 
@@ -947,7 +948,7 @@ Source:	Mythic Odysseys of Theros p. 211</description>
     <save>Str +16, Con +14</save>
     <skill>Athletics +16, Perception +7</skill>
     <passive>17</passive>
-    <languages>understands Common and Celestial but can't speak</languages>
+    <languages>understands Common and Celestial but can&apos;t speak</languages>
     <cr>23</cr>
     <resist/>
     <immune>fire, poison, psychic; bludgeoning, piercing, slashing from nonmagical attacks</immune>
@@ -972,7 +973,7 @@ The colossus is immune to any spell or effect that would alter its form.</text>
     <trait>
       <name>Magic Weapons</name>
       <text>
-The colossus's weapon attacks are magical.</text>
+The colossus&apos;s weapon attacks are magical.</text>
     </trait>
     <trait>
       <name>Siege Monster</name>
@@ -1035,7 +1036,7 @@ Source:	Mythic Odysseys of Theros p. 218</description>
     <trait>
       <name>Aura of Erebos</name>
       <text>
-Any creature that starts its turn within 10 feet of the giant must succeed on a DC 18 Constitution saving throw, or it takes 10 (3d6) necrotic damage and can't regain hit points until the start of its next turn. On a successful saving throw, the creature is immune to the giant's Aura of Erebos for 24 hours.</text>
+Any creature that starts its turn within 10 feet of the giant must succeed on a DC 18 Constitution saving throw, or it takes 10 (3d6) necrotic damage and can&apos;t regain hit points until the start of its next turn. On a successful saving throw, the creature is immune to the giant&apos;s Aura of Erebos for 24 hours.</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -1057,7 +1058,7 @@ Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 20 (3d8 + 7) blu
       <name>Noxious Gust (Recharge 5-6)</name>
       <recharge>D5</recharge>
       <text>
-The giant exhales a mighty gust that creates a blast of deadly mist in a 60-foot line that is 10 feet wide. Each creature in that line must make a DC 18 Constitution saving throw. On a failed save, the creature takes 36 (8d8) necrotic damage and is knocked prone. On a successful save, a creature takes half as much damage and isn't knocked prone.</text>
+The giant exhales a mighty gust that creates a blast of deadly mist in a 60-foot line that is 10 feet wide. Each creature in that line must make a DC 18 Constitution saving throw. On a failed save, the creature takes 36 (8d8) necrotic damage and is knocked prone. On a successful save, a creature takes half as much damage and isn&apos;t knocked prone.</text>
       <attack>Noxious Gust||8d8</attack>
     </action>
     <description>Belief is a powerful force in Theros, capable of bringing about wonders and changing the world—but not always for the better. Doomwake giants arise from pernicious fears that infect a whole city or region. If enough mortals dread destruction for long enough, their terror can manifest as one of these massive Nyxborn beings. Once unleashed, a doomwake giant goes on a rampage, fulfilling the prophecy mortals believed into being. After doing so, these terrors typically roam to the edges of the world, where they either fade away over time or become legends that take on their own terrible life.
@@ -1096,7 +1097,7 @@ Source:	Mythic Odysseys of Theros p. 224</description>
     <trait>
       <name>Insatiable Greed</name>
       <text>
-The eater of hope can sense the presence of gold within 1,000 feet of itself. It can determine which location has the greatest amount of gold and can sense the direction to that site. If the gold is being moved, it knows the direction of the movement. It can't locate gold if any thickness of clay or lead, even a thin sheet, blocks a direct path between it and the gold.</text>
+The eater of hope can sense the presence of gold within 1,000 feet of itself. It can determine which location has the greatest amount of gold and can sense the direction to that site. If the gold is being moved, it knows the direction of the movement. It can&apos;t locate gold if any thickness of clay or lead, even a thin sheet, blocks a direct path between it and the gold.</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -1118,7 +1119,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashi
       <name>Breath of Hopelessness (Recharge 5-6)</name>
       <recharge>D5</recharge>
       <text>
-The eater of hope exhales a miasma of Underworld winds in a 30-foot cone. Each creature in that area must make a DC 14 Charisma saving throw. On a failed save, the target takes 26 (4d12) necrotic damage and is cursed for 1 minute. While cursed in this way, the target takes an extra 6 (1d12) necrotic damage whenever the eater of hope hits it with an attack. On a successful save, the target takes half as much damage and isn't cursed.</text>
+The eater of hope exhales a miasma of Underworld winds in a 30-foot cone. Each creature in that area must make a DC 14 Charisma saving throw. On a failed save, the target takes 26 (4d12) necrotic damage and is cursed for 1 minute. While cursed in this way, the target takes an extra 6 (1d12) necrotic damage whenever the eater of hope hits it with an attack. On a successful save, the target takes half as much damage and isn&apos;t cursed.</text>
       <attack>Breath of Hopelessness||4d12</attack>
     </action>
     <description>An eater of hope is bitter to the core, resentful of all forms of life and joy. Although these demons can strike down most foes, they prefer to let terror and despair overtake their victims first, letting their victims marinate in fear before the fiend devours them.
@@ -1168,7 +1169,7 @@ With a 10-foot running start, the lion can long jump up to 25 feet.</text>
     <trait>
       <name>Spell Turning</name>
       <text>
-The lion has advantage on saving throws against any spell that targets only the lion (not an area). If the lion's saving throw succeeds and the spell is of 4th level or lower, the spell has no effect on the lion and instead targets the caster.</text>
+The lion has advantage on saving throws against any spell that targets only the lion (not an area). If the lion&apos;s saving throw succeeds and the spell is of 4th level or lower, the spell has no effect on the lion and instead targets the caster.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -1190,7 +1191,7 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashi
     <legendary>
       <name>Legendary Actions (2/Turn)</name>
       <recharge>2/Turn</recharge>
-      <text>The monstrosity can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity regains spent legendary actions at the start of its turn.</text>
+      <text>The monstrosity can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Claw</name>
@@ -1200,9 +1201,9 @@ The lion makes one claw attack.</text>
     <legendary>
       <name>Roar (Costs 2 Actions)</name>
       <text>
-The lion emits a magical roar. Each creature within 60 feet of the lion that can hear the roar must succeed on a DC 12 Wisdom saving throw or be frightened of the lion until the end of the lion's next turn.</text>
+The lion emits a magical roar. Each creature within 60 feet of the lion that can hear the roar must succeed on a DC 12 Wisdom saving throw or be frightened of the lion until the end of the lion&apos;s next turn.</text>
     </legendary>
-    <description>Twice the size of normal lions and with resplendent manes of silvery or golden hair, fleecemane lions prowl and protect sites imbued with the power of Nyx. While the specifics of these massive lions' connection to Nyx is unclear, many myths tell of the deadly predators stalking mortals and spreading fear until they're ultimately defeated by a brave hunter. As a result, overcoming a fleecemane lion is widely considered an early step on the road to becoming a true hero.
+    <description>Twice the size of normal lions and with resplendent manes of silvery or golden hair, fleecemane lions prowl and protect sites imbued with the power of Nyx. While the specifics of these massive lions&apos; connection to Nyx is unclear, many myths tell of the deadly predators stalking mortals and spreading fear until they&apos;re ultimately defeated by a brave hunter. As a result, overcoming a fleecemane lion is widely considered an early step on the road to becoming a true hero.
 
 Source:	Mythic Odysseys of Theros p. 223</description>
     <environment/>
@@ -1239,7 +1240,7 @@ Attack rolls against the eidolon are made with disadvantage unless the eidolon i
     <trait>
       <name>Evasion</name>
       <text>
-If the eidolon is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the eidolon instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can't use this trait if it's incapacitated.</text>
+If the eidolon is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the eidolon instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can&apos;t use this trait if it&apos;s incapacitated.</text>
     </trait>
     <trait>
       <name>Incorporeal Movement</name>
@@ -1268,7 +1269,7 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) pierci
       <text>
 The eidolon magically teleports to an unoccupied space it can see within 30 feet of it. If it makes an attack immediately after teleporting, it has advantage on the attack roll.</text>
     </action>
-    <description>When a mortal soul traumatically sacrifices its identity in order to escape the Underworld as a Returned, its identity manifests as a spirit-like eidolon. While eidolons possess many of the skills and details related to their past lives, they're disconnected from those experiences, choosing to wander the world or brood in haunts they're drawn to in death. They care nothing for morbid reunions with their lost bodies or Returned remnants.
+    <description>When a mortal soul traumatically sacrifices its identity in order to escape the Underworld as a Returned, its identity manifests as a spirit-like eidolon. While eidolons possess many of the skills and details related to their past lives, they&apos;re disconnected from those experiences, choosing to wander the world or brood in haunts they&apos;re drawn to in death. They care nothing for morbid reunions with their lost bodies or Returned remnants.
 
 Of the various types of eidolons, flitterstep eidolons are the most common and wander without purpose.
 
@@ -1325,9 +1326,9 @@ The eidolon makes two ghostblade attacks.</text>
 Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 3) slashing damage plus 11 (2d10) force damage.</text>
       <attack>Ghostblade|+6|1d8+3</attack>
     </action>
-    <description>When a mortal soul traumatically sacrifices its identity in order to escape the Underworld as a Returned, its identity manifests as a spirit-like eidolon. While eidolons possess many of the skills and details related to their past lives, they're disconnected from those experiences, choosing to wander the world or brood in haunts they're drawn to in death. They care nothing for morbid reunions with their lost bodies or Returned remnants.
+    <description>When a mortal soul traumatically sacrifices its identity in order to escape the Underworld as a Returned, its identity manifests as a spirit-like eidolon. While eidolons possess many of the skills and details related to their past lives, they&apos;re disconnected from those experiences, choosing to wander the world or brood in haunts they&apos;re drawn to in death. They care nothing for morbid reunions with their lost bodies or Returned remnants.
 
-Of the various types of eidolons, ghostblade eidolons typically arise from fallen warriors and believe they're endlessly embroiled in great battles.
+Of the various types of eidolons, ghostblade eidolons typically arise from fallen warriors and believe they&apos;re endlessly embroiled in great battles.
 
 Source:	Mythic Odysseys of Theros p. 222</description>
     <environment/>
@@ -1349,7 +1350,7 @@ Source:	Mythic Odysseys of Theros p. 222</description>
     <save/>
     <skill>Perception +6</skill>
     <passive>16</passive>
-    <languages>understands one language of its creator but can't speak</languages>
+    <languages>understands one language of its creator but can&apos;t speak</languages>
     <cr>5</cr>
     <resist/>
     <immune>fire, poison</immune>
@@ -1366,7 +1367,7 @@ If the target is a creature, it must succeed on a DC 15 Strength saving throw or
     <trait>
       <name>Spell Turning</name>
       <text>
-The sentinel has advantage on saving throws against any spell that targets only the sentinel (not an area). If the sentinel's saving throw succeeds and the spell is of 4th level or lower, the spell has no effect on the sentinel and instead targets the caster.</text>
+The sentinel has advantage on saving throws against any spell that targets only the sentinel (not an area). If the sentinel&apos;s saving throw succeeds and the spell is of 4th level or lower, the spell has no effect on the sentinel and instead targets the caster.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -1386,7 +1387,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludg
 The sentinel exhales fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 27 (6d8) fire damage on a failed save, or half as much damage on a successful one.</text>
       <attack>Fire Breath||6d8</attack>
     </action>
-    <description>The original purpose of gold-forged sentinels is a mystery, and of all Purphoros's original anvilwroughts, this construct is the most difficult to control. A sentinel often operates without a master, stalking the high places of the mortal world or waiting, still as a statue, for what could be decades before reanimating to carry out their mysterious purpose.
+    <description>The original purpose of gold-forged sentinels is a mystery, and of all Purphoros&apos;s original anvilwroughts, this construct is the most difficult to control. A sentinel often operates without a master, stalking the high places of the mortal world or waiting, still as a statue, for what could be decades before reanimating to carry out their mysterious purpose.
 
 The first anvilwroughts were created by the god of the forge, Purphoros. He gave the secret of breathing life into these metal creatures to his most devoted followers so they could mimic his works and invent new forms at their own forges.
 
@@ -1445,7 +1446,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludge
 Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.</text>
       <attack>Ram|+4|1d6+2</attack>
     </action>
-    <description>Noble steeds of the sea, hippocamps feature in countless tales as guides and mounts to tritons and other ocean-faring heroes. While these curious but cautious aquatic equines naturally travel in herds, many hold valued places in triton society. Considered to be servants of Thassa, hippocamps are often unpredictable, but their great speed and strength can prove awe-inspiring when harnessed by the god's will.
+    <description>Noble steeds of the sea, hippocamps feature in countless tales as guides and mounts to tritons and other ocean-faring heroes. While these curious but cautious aquatic equines naturally travel in herds, many hold valued places in triton society. Considered to be servants of Thassa, hippocamps are often unpredictable, but their great speed and strength can prove awe-inspiring when harnessed by the god&apos;s will.
 
 Source:	Mythic Odysseys of Theros p. 227</description>
     <environment/>
@@ -1482,7 +1483,7 @@ The giant can take one reaction on every turn in a combat.</text>
     <trait>
       <name>Vigilant</name>
       <text>
-The giant can't be surprised.</text>
+The giant can&apos;t be surprised.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -1546,12 +1547,12 @@ If Hythonia fails a saving throw, she can choose to succeed instead.</text>
     <trait>
       <name>Petrifying Gaze</name>
       <text>
-When a creature that can see Hythonia's eyes starts its turn within 30 feet of her, Hythonia can force it to make a DC 18 Constitution saving throw if she isn't incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, on a failed save the creature begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the greater restoration spell or other magic. Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see Hythonia until the start of its next turn, when it can avert its eyes again. If the creature looks at Hythonia in the meantime, it must immediately make the save. If Hythonia sees herself reflected on a polished surface within 30 feet of her and in an area of bright light, she is affected by her own gaze.</text>
+When a creature that can see Hythonia&apos;s eyes starts its turn within 30 feet of her, Hythonia can force it to make a DC 18 Constitution saving throw if she isn&apos;t incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, on a failed save the creature begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the greater restoration spell or other magic. Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can&apos;t see Hythonia until the start of its next turn, when it can avert its eyes again. If the creature looks at Hythonia in the meantime, it must immediately make the save. If Hythonia sees herself reflected on a polished surface within 30 feet of her and in an area of bright light, she is affected by her own gaze.</text>
     </trait>
     <trait>
       <name>Shed Skin (Mythic Trait; Recharges after a Short or Long Rest)</name>
       <text>
-If Hythonia is reduced to 0 hit points, she doesn't die or fall unconscious. Instead, she sheds her skin, regains 199 hit points, and moves up to her speed without provoking opportunity attacks.</text>
+If Hythonia is reduced to 0 hit points, she doesn&apos;t die or fall unconscious. Instead, she sheds her skin, regains 199 hit points, and moves up to her speed without provoking opportunity attacks.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -1569,7 +1570,7 @@ Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slash
       <text>
 Melee Weapon Attack: +11 to hit, reach 15 ft., one Large or smaller creature. 16 (2d10 + 5) bludgeoning damage, and the target is grappled (escape DC 19).
 
-Until this grapple ends, the target is restrained and takes 15 (3d6 + 5) bludgeoning damage at the start of each of its turns, and Hythonia can't constrict another target.</text>
+Until this grapple ends, the target is restrained and takes 15 (3d6 + 5) bludgeoning damage at the start of each of its turns, and Hythonia can&apos;t constrict another target.</text>
       <attack>Constrict|+11|2d10+5</attack>
     </action>
     <action>
@@ -1581,7 +1582,7 @@ Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 31 (4d12 + 5) bl
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Hythonia can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Hythonia regains spent legendary actions at the start of its turn.</text>
+      <text>Hythonia can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Hythonia regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Move</name>
@@ -1601,7 +1602,7 @@ Hythonia causes stone spikes to erupt from the ground in a 30-foot radius center
     <legendary>
       <name>Mythic Actions</name>
       <text>
-If Hythonia's mythic trait is active, she can use the options below as legendary actions for 1 hour after using Shed Skin.</text>
+If Hythonia&apos;s mythic trait is active, she can use the options below as legendary actions for 1 hour after using Shed Skin.</text>
     </legendary>
     <legendary>
       <name>Numbing Claws</name>
@@ -1616,7 +1617,7 @@ Hythonia can force a sighted creature she has grappled to see her eyes and be af
     <legendary>
       <name>Lair Actions</name>
       <text>
-On initiative count 20 (losing initiative ties), Hythonia can take a lair action to cause one of the following effects. She can't use the same effect two rounds in a row:
+On initiative count 20 (losing initiative ties), Hythonia can take a lair action to cause one of the following effects. She can&apos;t use the same effect two rounds in a row:
 
 	• Hythonia briefly animates creatures that have been petrified by her gaze. Each statue attacks one creature within 5 feet of it, with a +11 bonus to hit and dealing 10 (3d6) bludgeoning damage on a hit. If a Medium or smaller creature takes this damage, it is also grappled (escape DC 15).
 
@@ -1625,7 +1626,7 @@ On initiative count 20 (losing initiative ties), Hythonia can take a lair action
     <legendary>
       <name>Regional Effects</name>
       <text>
-The region containing Hythonia's lair is warped by her presence, which creates one or more of the following effects:
+The region containing Hythonia&apos;s lair is warped by her presence, which creates one or more of the following effects:
 
 	• A large population of snakes dwells in the region.
 
@@ -1640,7 +1641,7 @@ Hythonia serves as a potent threat against even high-level characters, but you c
 
 You might foreshadow Hythonia using her mythic trait by describing her skin cracking and turning pale as she suffers wounds. Read or paraphrase the following text when Hythonia finally uses her Shed Skin trait:
 ------
-The medusa's skin cracks, turns a lifeless gray, and shatters! The monster crumbles to dust—but what clatters to the ground isn't scale and bone, but hollow stone. The sound of rippling coils precedes the medusa rising up anew, the last of her shed skin dropping away, revealing glistening, unscarred scales.
+The medusa&apos;s skin cracks, turns a lifeless gray, and shatters! The monster crumbles to dust—but what clatters to the ground isn&apos;t scale and bone, but hollow stone. The sound of rippling coils precedes the medusa rising up anew, the last of her shed skin dropping away, revealing glistening, unscarred scales.
 
 ------
 Fighting Hythonia as a mythic encounter is equivalent to taking on two challenge rating 17 creatures in one encounter. Award a party 36,000 XP for defeating Hythonia after she uses Shed Skin.</text>
@@ -1648,16 +1649,16 @@ Fighting Hythonia as a mythic encounter is equivalent to taking on two challenge
     <trait>
       <name>Innate Spellcasting</name>
       <text>
-Hythonia's spellcasting ability is Charisma (spell save DC 18). She can innately cast animate objects once per day requiring no material components.
+Hythonia&apos;s spellcasting ability is Charisma (spell save DC 18). She can innately cast animate objects once per day requiring no material components.
 
 	• 1/Day: animate objects</text>
     </trait>
     <spells>animate objects</spells>
-    <description>Theros's reclusive medusas often delight in collecting and expanding their galleries of petrified victims. Unlike other medusas, Hythonia isn't merely a collector; she's an artist.
+    <description>Theros&apos;s reclusive medusas often delight in collecting and expanding their galleries of petrified victims. Unlike other medusas, Hythonia isn&apos;t merely a collector; she&apos;s an artist.
 
-When Hythonia came to the island of Skathos, the inhabitants worshiped her as an avatar of the god Pharika. The cultists eagerly offered themselves up to the medusa's petrifying gaze in hopes of gaining Pharika's favor. Seeing herself surrounded by willing devotees, Hythonia formulated a cruel plan. After encouraging them to engage in wild rituals, Hythonia began turning her followers to stone, weaving their forms to create a grisly throne made of their petrified bodies.
+When Hythonia came to the island of Skathos, the inhabitants worshiped her as an avatar of the god Pharika. The cultists eagerly offered themselves up to the medusa&apos;s petrifying gaze in hopes of gaining Pharika&apos;s favor. Seeing herself surrounded by willing devotees, Hythonia formulated a cruel plan. After encouraging them to engage in wild rituals, Hythonia began turning her followers to stone, weaving their forms to create a grisly throne made of their petrified bodies.
 
-While the medusa's victims have dwindled, tales of the medusa queen and the divine secrets she hoards have not. Hythonia eagerly trades the mysteries she knows but demands a constant price: a beautiful individual to become part of her throne.
+While the medusa&apos;s victims have dwindled, tales of the medusa queen and the divine secrets she hoards have not. Hythonia eagerly trades the mysteries she knows but demands a constant price: a beautiful individual to become part of her throne.
 
 Source:	Mythic Odysseys of Theros p. 252</description>
     <environment/>
@@ -1722,7 +1723,7 @@ The hydra makes as many bite attacks as it has heads.</text>
 Melee Weapon Attack: +10 to hit, reach 15 ft., one target. Hit: 17 (2d10 + 6) piercing damage.</text>
       <attack>Bite|+10|2d10+6</attack>
     </action>
-    <description>Five-headed ironscale hydras lurk in the wild places of the world, being common foes for heroes seeking to test their mettle against terrors worthy of the gods' notice. Most ironscale hydras inhabit lakes and boggy caverns, from which they hunt unwary creatures that come for a drink or swim.
+    <description>Five-headed ironscale hydras lurk in the wild places of the world, being common foes for heroes seeking to test their mettle against terrors worthy of the gods&apos; notice. Most ironscale hydras inhabit lakes and boggy caverns, from which they hunt unwary creatures that come for a drink or swim.
 
 What krakens are to the sea and dragons are to the sky, hydras are to the lands of Theros. Various hydras dwell at the fringes of civilization, from the bog-dwelling hydras known across the multiverse to massive ironscale hydras that lurk in deep wildernesses. Beyond even these exist serpentine horrors born of the whims of foul gods, like the legendary hydra Polukranos.
 
@@ -1756,7 +1757,7 @@ Source:	Mythic Odysseys of Theros p. 231</description>
     <trait>
       <name>Corpse Stride</name>
       <text>
-Once on its turn, the lampad can use 10 feet of its movement to step magically into one creature's corpse within its reach and emerge from a second creature's corpse within 60 feet of the first corpse, appearing in an unoccupied space within 5 feet of the second corpse. Both corpses must be Medium or bigger.</text>
+Once on its turn, the lampad can use 10 feet of its movement to step magically into one creature&apos;s corpse within its reach and emerge from a second creature&apos;s corpse within 60 feet of the first corpse, appearing in an unoccupied space within 5 feet of the second corpse. Both corpses must be Medium or bigger.</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -1777,15 +1778,15 @@ Melee Spell Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) necrot
     <action>
       <name>Chill Touch (Cantrip)</name>
       <text>
-Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 9 (2d8) necrotic damage, and the target can't regain hit points until the start of the lampad's next turn.
+Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 9 (2d8) necrotic damage, and the target can&apos;t regain hit points until the start of the lampad&apos;s next turn.
 
-If the target is undead, it has disadvantage on attack rolls against the lampad until the end of the lampad's next turn.</text>
+If the target is undead, it has disadvantage on attack rolls against the lampad until the end of the lampad&apos;s next turn.</text>
       <attack>Chill Touch (Cantrip)|+6|2d8</attack>
     </action>
     <trait>
       <name>Innate Spellcasting</name>
       <text>
-The lampad's spellcasting ability is Charisma (+6 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+The lampad&apos;s spellcasting ability is Charisma (+6 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
 	• At will: chill touch (see "Actions" below), gentle repose</text>
     </trait>
@@ -1796,7 +1797,7 @@ Nymphs:
 Divine servants that inhabit unspoiled corners of the world, nymphs protect places of natural power and infuse their surroundings with the magic of Nyx. Some are benevolent and aid those who live off the land, while others embody violent aspects of nature. In either case, nymphs generally avoid other sapient creatures, preferring to mind the cycles of nature, the daily interplay of wild animals, or other cosmic forces. Occasionally, though, groups of the same kind of nymphs congregate in a place of natural power or beauty. In times of special need, deities tied to facets of nature might employ nymphs as messengers, guardians, or scouts.
 
 Immortal Nature:
-A nymph doesn't require food, drink, or sleep.
+A nymph doesn&apos;t require food, drink, or sleep.
 
 Source:	Mythic Odysseys of Theros p. 235</description>
     <environment/>
@@ -1828,7 +1829,7 @@ Source:	Mythic Odysseys of Theros p. 235</description>
     <trait>
       <name>Evasion</name>
       <text>
-If the leonin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can't use this trait if it's incapacitated.</text>
+If the leonin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can&apos;t use this trait if it&apos;s incapacitated.</text>
     </trait>
     <trait>
       <name>Unarmored Defense</name>
@@ -1855,11 +1856,11 @@ Ranged Weapon Attack: +7 to hit, range 20/60 ft., one target. Hit: 6 (1d4 + 4) p
     <trait>
       <name>Innate Spellcasting</name>
       <text>
-The leonin's spellcasting ability is Wisdom (spell save DC 14). It can innately cast the following spells, requiring no material components:
+The leonin&apos;s spellcasting ability is Wisdom (spell save DC 14). It can innately cast the following spells, requiring no material components:
 	• 1/Day each: banishment, detect evil and good</text>
     </trait>
     <spells>banishment, detect evil and good</spells>
-    <description>While leonin don't deny the existence of the gods, most denounce them, believing the deities are more likely to spread doom than peace and bounty. Some leonin, known as iconoclasts, devote themselves to thwarting the gods by hunting down their followers and all things born of Nyx that impede on Oreskos and the safety of the leonin prides.
+    <description>While leonin don&apos;t deny the existence of the gods, most denounce them, believing the deities are more likely to spread doom than peace and bounty. Some leonin, known as iconoclasts, devote themselves to thwarting the gods by hunting down their followers and all things born of Nyx that impede on Oreskos and the safety of the leonin prides.
 
 Prides of leonin roam the plains of Oreskos, protecting the land and its creatures from interlopers, both mortal and immortal. As many leonin suffered at the hands of archon tyrants in ages past, today their prides largely avoid contact with other peoples and spurn the gods that ignored their plight. Since then, the leonin have flourished, finding strength in their bonds with one another and the land. Only in recent times have some leonin started guardedly looking beyond their homeland and wondering what role they might take in the wider world.
 
@@ -1895,9 +1896,9 @@ Source:	Mythic Odysseys of Theros p. 232</description>
     <trait>
       <name>Petrifying Gaze</name>
       <text>
-When a creature that can see the Medusa (Theran Variant)'s eyes starts its turn within 30 feet of the Medusa (Theran Variant), the Medusa (Theran Variant) can force it to make a DC 14 Constitution saving throw if the Medusa (Theran Variant) isn't incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the greater restoration spell or other magic.
+When a creature that can see the Medusa (Theran Variant)&apos;s eyes starts its turn within 30 feet of the Medusa (Theran Variant), the Medusa (Theran Variant) can force it to make a DC 14 Constitution saving throw if the Medusa (Theran Variant) isn&apos;t incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the greater restoration spell or other magic.
 
-Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see the Medusa (Theran Variant) until the start of its next turn, when it can avert its eyes again. If the creature looks at the Medusa (Theran Variant) in the meantime, it must immediately make the save.
+Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can&apos;t see the Medusa (Theran Variant) until the start of its next turn, when it can avert its eyes again. If the creature looks at the Medusa (Theran Variant) in the meantime, it must immediately make the save.
 
 If the Medusa (Theran Variant) sees itself reflected on a polished surface within 30 feet of it and in an area of bright light, the Medusa (Theran Variant) is, due to its curse, affected by its own gaze.</text>
     </trait>
@@ -1929,7 +1930,7 @@ Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2)
       <text>
 Melee Weapon Attack: +3 to hit, reach 10 ft., one target. Hit: 7 (2d6) bludgeoning damage, and the target is grappled (escape DC 11).
 
-Until this grapple ends, the target is restrained, and the Medusa (Theran Variant) can't constrict another target.</text>
+Until this grapple ends, the target is restrained, and the Medusa (Theran Variant) can&apos;t constrict another target.</text>
       <attack>Constrict|+3|2d6</attack>
     </action>
     <description>Source:	Mythic Odysseys of Theros p. 206</description>
@@ -1981,7 +1982,7 @@ If the target is a Medium or smaller creature, it must succeed on a DC 13 Streng
     <action>
       <name>Ray of Frost (Cantrip)</name>
       <text>
-Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 4 (1d8) cold damage, and the target's speed is reduced by 10 feet until the start of the hoplite's next turn.</text>
+Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 4 (1d8) cold damage, and the target&apos;s speed is reduced by 10 feet until the start of the hoplite&apos;s next turn.</text>
       <attack>Ray of Frost (Cantrip)|+5|1d8</attack>
     </action>
     <trait>
@@ -1997,16 +1998,16 @@ The hoplite is a 3rd-level spellcaster. Its spellcasting ability is Intelligence
     <spells>mage hand, minor illusion, ray of frost, color spray, expeditious retreat, sleep, blur, cloud of daggers, invisibility</spells>
     <description>Meletian hoplites use a combination of cunning, faith, and magic to defend their coastal home. Most of these skilled soldiers serve in the Reverent Army, the defenders of Meletis, which uses an array of proven strategies and flexible troop formations to gain the advantage over foes. Bolstered by trained griffon and pegasus steeds, they strike foes where they least expect.
 
-Hoplites are highly trained warriors, versed not only in strategy and tactics but in the glorification of the warrior's spirit, the basis of an ethos that forges an unbreakable bond between members of a military unit. In combat, hoplites typically work in groups and use coordinated tactics to win victories.
+Hoplites are highly trained warriors, versed not only in strategy and tactics but in the glorification of the warrior&apos;s spirit, the basis of an ethos that forges an unbreakable bond between members of a military unit. In combat, hoplites typically work in groups and use coordinated tactics to win victories.
 
-The three Hoplite Unit Names tables present the sorts of titles used by hoplite contingents hailing from Theros's great poleis. Consider using these names for military forces characters encounter during their adventures or that they were once a part of.
+The three Hoplite Unit Names tables present the sorts of titles used by hoplite contingents hailing from Theros&apos;s great poleis. Consider using these names for military forces characters encounter during their adventures or that they were once a part of.
 
 Meletian Hoplite Unit Names:
 d8 | Name
-1 | Kraken's Claw
+1 | Kraken&apos;s Claw
 2 | Hands of Justice
-3 | Thassa's Spear
-4 | Ephara's Shield
+3 | Thassa&apos;s Spear
+4 | Ephara&apos;s Shield
 5 | Kindred of the Deep
 6 | Riders of Heliod
 7 | Keepers of Pyrgnos
@@ -2068,17 +2069,17 @@ Melee Spell Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) psychi
     <trait>
       <name>Innate Spellcasting</name>
       <text>
-The naiad's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring no material components:
+The naiad&apos;s spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring no material components:
 
 	• At will: minor illusion
 	• 3/Day: phantasmal force
 	• 1/Day each: fly, hypnotic pattern</text>
     </trait>
     <spells>minor illusion, phantasmal force, fly, hypnotic pattern</spells>
-    <description>Naiads live in and near water. They might be spotted among rivers and lakes, on isolated shores, or amid coral labyrinths and deep sea fumaroles. Wherever rivers and seas show their variety and force, naiads gather to revel in nature's might. Individual naiads often grow fixated with a single type or body of water, potentially preferring a deep sea trench, coastline, or river system above all others. Over time, such a resident nymph often becomes connected with their aquatic home through sightings and stories, becoming a guardian of the place and, in effect, a manifestation of its personality.
+    <description>Naiads live in and near water. They might be spotted among rivers and lakes, on isolated shores, or amid coral labyrinths and deep sea fumaroles. Wherever rivers and seas show their variety and force, naiads gather to revel in nature&apos;s might. Individual naiads often grow fixated with a single type or body of water, potentially preferring a deep sea trench, coastline, or river system above all others. Over time, such a resident nymph often becomes connected with their aquatic home through sightings and stories, becoming a guardian of the place and, in effect, a manifestation of its personality.
 
 Aquatic Collectors:
-Curious by nature, naiads often seek out what the seas and rivers claim. As a result, they might be found among sunken ruins and shipwrecks, sifting through the remains for whatever catches their eye. Living creatures aren't exempt from this curiosity, either. Naiads are known to befriend aquatic creatures, or even to keep modest menageries. The occasional star-crossed castaway has even been known to become part of such collections.
+Curious by nature, naiads often seek out what the seas and rivers claim. As a result, they might be found among sunken ruins and shipwrecks, sifting through the remains for whatever catches their eye. Living creatures aren&apos;t exempt from this curiosity, either. Naiads are known to befriend aquatic creatures, or even to keep modest menageries. The occasional star-crossed castaway has even been known to become part of such collections.
 
 Secret Routes of the Sea:
 Sailors across the world claim that naiads know all the secret aquatic routes of Theros. Using this hidden system of currents and arteries, a ship might reach any destination in record time, be it across the sea or along a river a hundred miles inland. Naiads do nothing to dissuade sailors from this belief, and certainly numerous reports tell of charmed nymphs leading lost seafarers home. Yet, if tales of naiad-led galleys appearing amid the headwaters of mountain rivers are true, only the nymphs know for sure.
@@ -2087,7 +2088,7 @@ Nymphs:
 Divine servants that inhabit unspoiled corners of the world, nymphs protect places of natural power and infuse their surroundings with the magic of Nyx. Some are benevolent and aid those who live off the land, while others embody violent aspects of nature. In either case, nymphs generally avoid other sapient creatures, preferring to mind the cycles of nature, the daily interplay of wild animals, or other cosmic forces. Occasionally, though, groups of the same kind of nymphs congregate in a place of natural power or beauty. In times of special need, deities tied to facets of nature might employ nymphs as messengers, guardians, or scouts.
 
 Immortal Nature:
-A nymph doesn't require food, drink, or sleep.
+A nymph doesn&apos;t require food, drink, or sleep.
 
 Source:	Mythic Odysseys of Theros p. 236</description>
     <environment/>
@@ -2119,7 +2120,7 @@ Source:	Mythic Odysseys of Theros p. 236</description>
     <trait>
       <name>Aura of Nightmares</name>
       <text>
-Undead creatures within 30 feet of the shepherd gain a +5 bonus to attack and damage rolls. When any other creature that isn't undead or a construct starts its turn within 30 feet of the shepherd, that creature must succeed on a DC 17 Wisdom saving throw or take 11 (2d10) psychic damage.</text>
+Undead creatures within 30 feet of the shepherd gain a +5 bonus to attack and damage rolls. When any other creature that isn&apos;t undead or a construct starts its turn within 30 feet of the shepherd, that creature must succeed on a DC 17 Wisdom saving throw or take 11 (2d10) psychic damage.</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -2147,16 +2148,16 @@ Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludg
       <name>Herd the Underworld (Recharges after a Short or Long Rest)</name>
       <recharge>SHORT</recharge>
       <text>
-The shepherd pulls twisted souls from the Underworld; 1d6 shadow (without Sunlight Weakness) arise in unoccupied spaces within 20 feet of the shepherd. The shadows act right after the shepherd on the same initiative count and fight until they're destroyed. They disappear when the shepherd dies.</text>
+The shepherd pulls twisted souls from the Underworld; 1d6 shadow (without Sunlight Weakness) arise in unoccupied spaces within 20 feet of the shepherd. The shadows act right after the shepherd on the same initiative count and fight until they&apos;re destroyed. They disappear when the shepherd dies.</text>
     </action>
     <trait>
       <name>Innate Spellcasting</name>
       <text>
-The shepherd's spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:
+The shepherd&apos;s spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:
 	• 1/Day each: confusion, dispel magic, hold person, suggestion</text>
     </trait>
     <spells>confusion, dispel magic, hold person, suggestion</spells>
-    <description>A nightmare shepherd is a gaunt, ashen fiend with leathery wings. It carries a shepherd's crook, which it uses to direct a flock of wandering dead that it torments and occasionally feeds upon.
+    <description>A nightmare shepherd is a gaunt, ashen fiend with leathery wings. It carries a shepherd&apos;s crook, which it uses to direct a flock of wandering dead that it torments and occasionally feeds upon.
 
 Source:	Mythic Odysseys of Theros p. 221</description>
     <environment/>
@@ -2208,7 +2209,7 @@ The ram has advantage on Strength and Dexterity saving throws against effects th
 Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) bludgeoning damage plus 3 (1d6) force damage.</text>
       <attack>Ram|+5|2d4+3</attack>
     </action>
-    <description>Touched by the gods, Nyx-fleece rams grow remarkable magical wool. This makes the beasts valuable to heroes and scoundrels alike, who would use their wool for either protection or profit. Divine servants guard the few herds of Nyx-fleece rams dwelling among Theros's loftiest peaks, assuring they don't fall into unworthy hands.
+    <description>Touched by the gods, Nyx-fleece rams grow remarkable magical wool. This makes the beasts valuable to heroes and scoundrels alike, who would use their wool for either protection or profit. Divine servants guard the few herds of Nyx-fleece rams dwelling among Theros&apos;s loftiest peaks, assuring they don&apos;t fall into unworthy hands.
 
 Source:	Mythic Odysseys of Theros p. 233</description>
     <environment/>
@@ -2257,14 +2258,14 @@ When the oracle or a creature it can see makes an attack roll, a saving throw, o
     <trait>
       <name>Innate Spellcasting</name>
       <text>
-The oracle's spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+The oracle&apos;s spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
 	• At will: guidance, light, thaumaturgy
 	• 3/Day each: bless, guiding bolt, healing word, hold person
 	• 1/Day each: augury, scrying</text>
     </trait>
     <spells>guidance, light, thaumaturgy, bless, guiding bolt, healing word, hold person, augury, scrying</spells>
-    <description>Oracles posses the ability to interpret the patterns and language of Nyx, divining from it the flow of fates and the will of the gods. Most of these gifted—or cursed—mortals communicate with a single god, interpreting their intentions for the wider world. Others aren't aligned with a god and observe the night sky, reading Nyx like a vast, cryptic scroll for insights.
+    <description>Oracles posses the ability to interpret the patterns and language of Nyx, divining from it the flow of fates and the will of the gods. Most of these gifted—or cursed—mortals communicate with a single god, interpreting their intentions for the wider world. Others aren&apos;t aligned with a god and observe the night sky, reading Nyx like a vast, cryptic scroll for insights.
 
 Source:	Mythic Odysseys of Theros p. 238</description>
     <environment/>
@@ -2329,7 +2330,7 @@ When the oread is damaged by a creature within 60 feet of the oread that it can 
     <trait>
       <name>Innate Spellcasting</name>
       <text>
-The oread's spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+The oread&apos;s spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
 	• At will: fire bolt (see "Actions" below)
 	• 3/Day: burning hands
@@ -2339,16 +2340,16 @@ The oread's spellcasting ability is Charisma (spell save DC 14, +6 to hit with s
     <description>Aggressive oreads number among the most dangerous nymphs, as they embody the wild might of flames, volcanism, and the hidden forces of the earth. These creatures typically dwell in remote mountain crags and near volcanoes, where they caper among the forces of dissolution and rebirth. During avalanches and volcanic eruptions, groups of oreads might race ahead of the destruction, dancing, singing, and doing what they can to maximize the impending devastation.
 
 Honor Among Fey:
-Hearkening back to some ages-old conflict, oreads refuse to knowingly destroy any land inhabited by another nymph. While they won't work to alter the natural course of destruction, neither will they make another nymph's home part of any calamity they encourage. As a result, part of what makes an alseid's field or a dryad's grove seem so blessed is that oreads go out of their way to leave such sites alone.
+Hearkening back to some ages-old conflict, oreads refuse to knowingly destroy any land inhabited by another nymph. While they won&apos;t work to alter the natural course of destruction, neither will they make another nymph&apos;s home part of any calamity they encourage. As a result, part of what makes an alseid&apos;s field or a dryad&apos;s grove seem so blessed is that oreads go out of their way to leave such sites alone.
 
 Tales of Fire:
-The followers of Purphoros regard oreads with special reverence, as myths tell of cagey smiths befriending these nymphs and convincing them to aid in creating phenomenal works. In some tales, a smith finds an oread and allows it to relish in the destruction of a novel or remarkable item. In recompense, the oread provides the smith with materials drawn from the burning heart of the world, allowing the smith to create an even greater wonder. In more tales, though, a smith pursues an oread, then later the mortal's associates find familiar tools and a heap of ashes.
+The followers of Purphoros regard oreads with special reverence, as myths tell of cagey smiths befriending these nymphs and convincing them to aid in creating phenomenal works. In some tales, a smith finds an oread and allows it to relish in the destruction of a novel or remarkable item. In recompense, the oread provides the smith with materials drawn from the burning heart of the world, allowing the smith to create an even greater wonder. In more tales, though, a smith pursues an oread, then later the mortal&apos;s associates find familiar tools and a heap of ashes.
 
 Nymphs:
 Divine servants that inhabit unspoiled corners of the world, nymphs protect places of natural power and infuse their surroundings with the magic of Nyx. Some are benevolent and aid those who live off the land, while others embody violent aspects of nature. In either case, nymphs generally avoid other sapient creatures, preferring to mind the cycles of nature, the daily interplay of wild animals, or other cosmic forces. Occasionally, though, groups of the same kind of nymphs congregate in a place of natural power or beauty. In times of special need, deities tied to facets of nature might employ nymphs as messengers, guardians, or scouts.
 
 Immortal Nature:
-A nymph doesn't require food, drink, or sleep.
+A nymph doesn&apos;t require food, drink, or sleep.
 
 Source:	Mythic Odysseys of Theros p. 237</description>
     <environment/>
@@ -2378,7 +2379,7 @@ Source:	Mythic Odysseys of Theros p. 237</description>
     <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, poisoned</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <trait>
-      <name>Gatekeeper's Aura</name>
+      <name>Gatekeeper&apos;s Aura</name>
       <text>
 Any creature that starts its turn within 10 feet of the phylaskia must make a DC 15 Wisdom saving throw. On a successful save, the creature is immune to this aura for the next 24 hours. On a failed save, the creature has disadvantage on saving throws and its speed is halved until the start of its next turn.</text>
     </trait>
@@ -2390,7 +2391,7 @@ If damage reduces the phylaskia to 0 hit points, it must make a Constitution sav
     <trait>
       <name>Vigilant</name>
       <text>
-The phylaskia can't be surprised.</text>
+The phylaskia can&apos;t be surprised.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -2504,7 +2505,7 @@ If the target is a creature, it must succeed on a DC 21 Strength saving throw or
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Polukranos can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Polukranos regains spent legendary actions at the start of its turn.</text>
+      <text>Polukranos can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Polukranos regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Detect</name>
@@ -2519,7 +2520,7 @@ Polukranos makes a tail attack.</text>
     <legendary>
       <name>Trampling Charge (Costs 3 Actions)</name>
       <text>
-Polukranos moves up to 50 feet in a straight line and can move through the space of any creature Huge or smaller. The first time it enters each creature's space during this move, it can make a stomp attack against that creature.</text>
+Polukranos moves up to 50 feet in a straight line and can move through the space of any creature Huge or smaller. The first time it enters each creature&apos;s space during this move, it can make a stomp attack against that creature.</text>
     </legendary>
     <description>Polukranos, called the World Eater, is the mortal manifestation of the eternal ideal of a hydra. In its first incarnation, it fell from Nyx to the mortal world, and so great were its size and strength that the gods Nylea and Heliod combined their power to bind the monster deep within the Nessian Wood. That incarnation was slain, but the eternal ideal remains. A new incarnation of the World Eater is a fearsome omen, as the monster only appears when the pillars of the world tremble and terrible things are afoot in the realm of the gods. Its rampages often presage an age of menace for all civilization.
 
@@ -2560,7 +2561,7 @@ The Returned has advantage on saving throws against any effect that turns undead
     <trait>
       <name>Unreadable Face</name>
       <text>
-The Returned is immune to any effect that would sense its emotions or read its thoughts. Wisdom (Insight) checks to ascertain the Returned's intentions or sincerity are made with disadvantage.</text>
+The Returned is immune to any effect that would sense its emotions or read its thoughts. Wisdom (Insight) checks to ascertain the Returned&apos;s intentions or sincerity are made with disadvantage.</text>
     </trait>
     <action>
       <name>Scimitar</name>
@@ -2574,11 +2575,11 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashi
 Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.</text>
       <attack>Sling|+4|1d4+2</attack>
     </action>
-    <description>Many Returned are pitiable souls who managed to escape from the Underworld only to find themselves stripped of the passions that motivated their flight. Lacking purpose and shunned by the living, these Returned typically seek places where they'll be left in peace, such as lonely tombs or the necropoleis of Asphodel and Odunos. There they go through half-hearted parodies of life, impeded by distraction and ennui. Despite this, even the most languorous Returned defend themselves if threatened and might be pressed into the service of their more willful brethren.
+    <description>Many Returned are pitiable souls who managed to escape from the Underworld only to find themselves stripped of the passions that motivated their flight. Lacking purpose and shunned by the living, these Returned typically seek places where they&apos;ll be left in peace, such as lonely tombs or the necropoleis of Asphodel and Odunos. There they go through half-hearted parodies of life, impeded by distraction and ennui. Despite this, even the most languorous Returned defend themselves if threatened and might be pressed into the service of their more willful brethren.
 
 Returned have escaped the Underworld and dwell among the living once more, but their second lives are rarely what they expected—not that they remember what it was they expected. As a result of having followed the Path of Phenax (see chapter 4), the Returned lose their identities, which manifest as separate beings known as eidolons. The experience of escaping the Underworld also causes them to lose their faces, which become expressionless surfaces with empty eye sockets and gaping mouths. These blank surfaces they cover with distinctive golden masks.
 
-Returned reenter the world blank and undead. No longer possessing the ability to form long-term memories, they generally can't build meaningful relationships or establish new lives. Instead, most experience fleeting emotions and follow hollow routines, their existences reduced to shadow plays without weight or substance.
+Returned reenter the world blank and undead. No longer possessing the ability to form long-term memories, they generally can&apos;t build meaningful relationships or establish new lives. Instead, most experience fleeting emotions and follow hollow routines, their existences reduced to shadow plays without weight or substance.
 
 Source:	Mythic Odysseys of Theros p. 240</description>
     <environment/>
@@ -2620,7 +2621,7 @@ The Returned has advantage on saving throws against any effect that turns undead
     <trait>
       <name>Unreadable Face</name>
       <text>
-The Returned is immune to any effect that would sense its emotions or read its thoughts. Wisdom (Insight) checks to ascertain the Returned's intentions or sincerity are made with disadvantage.</text>
+The Returned is immune to any effect that would sense its emotions or read its thoughts. Wisdom (Insight) checks to ascertain the Returned&apos;s intentions or sincerity are made with disadvantage.</text>
     </trait>
     <action>
       <name>Shortsword</name>
@@ -2631,7 +2632,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) pierci
     <action>
       <name>Underworld Bolt</name>
       <text>
-Ranged Spell Attack: +4 to hit, range 120 ft., one target. Hit: 13 (2d8 + 2) necrotic damage, and the target can't regain hit points until the start of the Returned's next turn.
+Ranged Spell Attack: +4 to hit, range 120 ft., one target. Hit: 13 (2d8 + 2) necrotic damage, and the target can&apos;t regain hit points until the start of the Returned&apos;s next turn.
 
 If the target is missing any of its hit points, it instead takes 17 (2d12 + 2) necrotic damage.</text>
       <attack>Underworld Bolt|+4|2d8+2</attack>
@@ -2640,7 +2641,7 @@ If the target is missing any of its hit points, it instead takes 17 (2d12 + 2) n
 
 Returned have escaped the Underworld and dwell among the living once more, but their second lives are rarely what they expected—not that they remember what it was they expected. As a result of having followed the Path of Phenax (see chapter 4), the Returned lose their identities, which manifest as separate beings known as eidolons. The experience of escaping the Underworld also causes them to lose their faces, which become expressionless surfaces with empty eye sockets and gaping mouths. These blank surfaces they cover with distinctive golden masks.
 
-Returned reenter the world blank and undead. No longer possessing the ability to form long-term memories, they generally can't build meaningful relationships or establish new lives. Instead, most experience fleeting emotions and follow hollow routines, their existences reduced to shadow plays without weight or substance.
+Returned reenter the world blank and undead. No longer possessing the ability to form long-term memories, they generally can&apos;t build meaningful relationships or establish new lives. Instead, most experience fleeting emotions and follow hollow routines, their existences reduced to shadow plays without weight or substance.
 
 Source:	Mythic Odysseys of Theros p. 240</description>
     <environment/>
@@ -2682,7 +2683,7 @@ The Returned has advantage on saving throws against any effect that turns undead
     <trait>
       <name>Unreadable Face</name>
       <text>
-The Returned is immune to any effect that would sense its emotions or read its thoughts. Wisdom (Insight) checks to ascertain the Returned's intentions or sincerity are made with disadvantage.</text>
+The Returned is immune to any effect that would sense its emotions or read its thoughts. Wisdom (Insight) checks to ascertain the Returned&apos;s intentions or sincerity are made with disadvantage.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -2695,11 +2696,11 @@ The Returned makes two shortsword attacks.</text>
 Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 10 (3d6) poison damage.</text>
       <attack>Shortsword|+5|1d6+3</attack>
     </action>
-    <description>Even death and the loss of their identities can't erase the rage that inspires Returned palamnites. These Returned led violent lives, existences filled with such pain and hatred that violence now suffuses their deathless bodies. Such makes them exceptionally dangerous to the living, as these aimless killers know only suffering and seek to spread it whenever the opportunity arises. While palamnites might wander the world as dangerous, lone murderers, many gravitate to Odunos, where they serve the vicious will of Tymaret the Murder King (see chapter 3).
+    <description>Even death and the loss of their identities can&apos;t erase the rage that inspires Returned palamnites. These Returned led violent lives, existences filled with such pain and hatred that violence now suffuses their deathless bodies. Such makes them exceptionally dangerous to the living, as these aimless killers know only suffering and seek to spread it whenever the opportunity arises. While palamnites might wander the world as dangerous, lone murderers, many gravitate to Odunos, where they serve the vicious will of Tymaret the Murder King (see chapter 3).
 
 Returned have escaped the Underworld and dwell among the living once more, but their second lives are rarely what they expected—not that they remember what it was they expected. As a result of having followed the Path of Phenax (see chapter 4), the Returned lose their identities, which manifest as separate beings known as eidolons. The experience of escaping the Underworld also causes them to lose their faces, which become expressionless surfaces with empty eye sockets and gaping mouths. These blank surfaces they cover with distinctive golden masks.
 
-Returned reenter the world blank and undead. No longer possessing the ability to form long-term memories, they generally can't build meaningful relationships or establish new lives. Instead, most experience fleeting emotions and follow hollow routines, their existences reduced to shadow plays without weight or substance.
+Returned reenter the world blank and undead. No longer possessing the ability to form long-term memories, they generally can&apos;t build meaningful relationships or establish new lives. Instead, most experience fleeting emotions and follow hollow routines, their existences reduced to shadow plays without weight or substance.
 
 Source:	Mythic Odysseys of Theros p. 241</description>
     <environment/>
@@ -2731,7 +2732,7 @@ Source:	Mythic Odysseys of Theros p. 241</description>
     <trait>
       <name>Pack Tactics</name>
       <text>
-The Returned has advantage on an attack roll against a creature if at least one of the Returned's allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
+The Returned has advantage on an attack roll against a creature if at least one of the Returned&apos;s allies is within 5 feet of the creature and the ally isn&apos;t incapacitated.</text>
     </trait>
     <trait>
       <name>Turn Resistance</name>
@@ -2741,7 +2742,7 @@ The Returned has advantage on saving throws against any effect that turns undead
     <trait>
       <name>Unreadable Face</name>
       <text>
-The Returned is immune to any effect that would sense its emotions or read its thoughts. Wisdom (Insight) checks to ascertain the Returned's intentions or sincerity are made with disadvantage.</text>
+The Returned is immune to any effect that would sense its emotions or read its thoughts. Wisdom (Insight) checks to ascertain the Returned&apos;s intentions or sincerity are made with disadvantage.</text>
     </trait>
     <action>
       <name>Spear</name>
@@ -2785,7 +2786,7 @@ Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) 
     <trait>
       <name>Enthralling Performance</name>
       <text>
-If the satyr performs for at least 1 minute, it chooses up to four humanoids within 60 feet of it who watched or listened to the entire performance. Each target must succeed on a DC 13 Wisdom saving throw or be charmed. While charmed in this way, the target idolizes the satyr and will take part in the satyr's revels. The charmed condition ends for the creature after 1 hour, if it takes any damage, if the satyr attacks the target, or if the target witnesses the satyr attacking or damaging any of the target's allies.</text>
+If the satyr performs for at least 1 minute, it chooses up to four humanoids within 60 feet of it who watched or listened to the entire performance. Each target must succeed on a DC 13 Wisdom saving throw or be charmed. While charmed in this way, the target idolizes the satyr and will take part in the satyr&apos;s revels. The charmed condition ends for the creature after 1 hour, if it takes any damage, if the satyr attacks the target, or if the target witnesses the satyr attacking or damaging any of the target&apos;s allies.</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -2795,7 +2796,7 @@ The satyr has advantage on saving throws against spells and other magical effect
     <trait>
       <name>Sleepless Reveler</name>
       <text>
-Magic can't put the satyr to sleep.</text>
+Magic can&apos;t put the satyr to sleep.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -2814,9 +2815,9 @@ Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) bludge
 Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d6 + 3) piercing damage.</text>
       <attack>Shortbow|+5|1d6+3</attack>
     </action>
-    <description>Pursuing lives of endless reverie, satyr revelers eagerly participate in celebrations wherever they find them. Their boisterous natures go far toward tempting others to eat, drink, and carouse with them. Faced with stodgier individuals or outright rivals, satyr revelers don't balk at using the magic of their music, dance, or other performances to charm opponents into joining their festivities. In the aftermath, these satyrs' foes are more likely to suffer embarrassment and groggy mornings than any lasting harm.
+    <description>Pursuing lives of endless reverie, satyr revelers eagerly participate in celebrations wherever they find them. Their boisterous natures go far toward tempting others to eat, drink, and carouse with them. Faced with stodgier individuals or outright rivals, satyr revelers don&apos;t balk at using the magic of their music, dance, or other performances to charm opponents into joining their festivities. In the aftermath, these satyrs&apos; foes are more likely to suffer embarrassment and groggy mornings than any lasting harm.
 
-While most satyrs are known for their high spirits, love of revels, and gregarious personalities, these outgoing people are neither naive nor defenseless. Some satyrs delightedly torment stuffy individuals or pull pranks on the unwary, pastimes that can predictably lead to scuffles. If a satyr can't talk their way out of a conflict—or diffuse it with a good-natured distraction—they readily defend themselves, their friends, and their homes in the Skola Vale. With diversions aside, satyrs bend their cleverness toward tactics and methods of ending conflicts as swiftly as possible. This often means turning the same skills that make them famed celebrants toward battle, be it captivating performances or the aim developed through endless games of skill. Once a threat is overcome, though, satyrs are quick to engage in their favorite part of battle: the victory celebration.
+While most satyrs are known for their high spirits, love of revels, and gregarious personalities, these outgoing people are neither naive nor defenseless. Some satyrs delightedly torment stuffy individuals or pull pranks on the unwary, pastimes that can predictably lead to scuffles. If a satyr can&apos;t talk their way out of a conflict—or diffuse it with a good-natured distraction—they readily defend themselves, their friends, and their homes in the Skola Vale. With diversions aside, satyrs bend their cleverness toward tactics and methods of ending conflicts as swiftly as possible. This often means turning the same skills that make them famed celebrants toward battle, be it captivating performances or the aim developed through endless games of skill. Once a threat is overcome, though, satyrs are quick to engage in their favorite part of battle: the victory celebration.
 
 Source:	Mythic Odysseys of Theros p. 242</description>
     <environment/>
@@ -2853,7 +2854,7 @@ The satyr has advantage on saving throws against spells and other magical effect
     <trait>
       <name>Sleepless Reveler</name>
       <text>
-Magic can't put the satyr to sleep.</text>
+Magic can&apos;t put the satyr to sleep.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -2879,9 +2880,9 @@ Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. Hit: 7 (1d6 + 4) 
 The satyr fires an arrow that magically transforms into a flurry of missiles in a 30-foot cone. Each creature in that area must make a DC 14 Dexterity saving throw, taking 17 (5d6) piercing damage on a failed save, or half as much damage on a successful one.</text>
       <attack>Hail of Arrows (Recharges after a Short or Long Rest)||5d6</attack>
     </action>
-    <description>Not all satyrs live lives of pure whimsy. When forced to defend their friends and homes, satyr thornbearers are quick to take up their bows and strike against danger. Particularly amid the dense trees of the Skola Vale, these satyr skirmishers cooperate in loose teams, using guerrilla tactics to harass foes then melt back into the forest. The blessings of Nylea aid the satyrs in protecting their home, and a single arrow from a thornbearer's bow might rain down like a volley from a whole army.
+    <description>Not all satyrs live lives of pure whimsy. When forced to defend their friends and homes, satyr thornbearers are quick to take up their bows and strike against danger. Particularly amid the dense trees of the Skola Vale, these satyr skirmishers cooperate in loose teams, using guerrilla tactics to harass foes then melt back into the forest. The blessings of Nylea aid the satyrs in protecting their home, and a single arrow from a thornbearer&apos;s bow might rain down like a volley from a whole army.
 
-While most satyrs are known for their high spirits, love of revels, and gregarious personalities, these outgoing people are neither naive nor defenseless. Some satyrs delightedly torment stuffy individuals or pull pranks on the unwary, pastimes that can predictably lead to scuffles. If a satyr can't talk their way out of a conflict—or diffuse it with a good-natured distraction—they readily defend themselves, their friends, and their homes in the Skola Vale. With diversions aside, satyrs bend their cleverness toward tactics and methods of ending conflicts as swiftly as possible. This often means turning the same skills that make them famed celebrants toward battle, be it captivating performances or the aim developed through endless games of skill. Once a threat is overcome, though, satyrs are quick to engage in their favorite part of battle: the victory celebration.
+While most satyrs are known for their high spirits, love of revels, and gregarious personalities, these outgoing people are neither naive nor defenseless. Some satyrs delightedly torment stuffy individuals or pull pranks on the unwary, pastimes that can predictably lead to scuffles. If a satyr can&apos;t talk their way out of a conflict—or diffuse it with a good-natured distraction—they readily defend themselves, their friends, and their homes in the Skola Vale. With diversions aside, satyrs bend their cleverness toward tactics and methods of ending conflicts as swiftly as possible. This often means turning the same skills that make them famed celebrants toward battle, be it captivating performances or the aim developed through endless games of skill. Once a threat is overcome, though, satyrs are quick to engage in their favorite part of battle: the victory celebration.
 
 Source:	Mythic Odysseys of Theros p. 243</description>
     <environment/>
@@ -2913,7 +2914,7 @@ Source:	Mythic Odysseys of Theros p. 243</description>
     <trait>
       <name>Pack Tactics</name>
       <text>
-The hoplite has advantage on an attack roll against a creature if at least one of the hoplite's allies is within 5 feet of the hoplite and the ally isn't incapacitated.</text>
+The hoplite has advantage on an attack roll against a creature if at least one of the hoplite&apos;s allies is within 5 feet of the hoplite and the ally isn&apos;t incapacitated.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -2932,19 +2933,19 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashi
 Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 10 (3d6) poison damage.</text>
       <attack>Longbow|+5|1d8+3</attack>
     </action>
-    <description>Most Setessan hoplites begin their training as hunters, making them skilled in traversing the woods and adept at both guerrilla tactics and archery. Their strategies often emulate the favored servants of Nylea—especially wild beasts like wolves and lynxes. Typically a few soldiers harry an enemy while the rest capitalize on their foe's distraction.
+    <description>Most Setessan hoplites begin their training as hunters, making them skilled in traversing the woods and adept at both guerrilla tactics and archery. Their strategies often emulate the favored servants of Nylea—especially wild beasts like wolves and lynxes. Typically a few soldiers harry an enemy while the rest capitalize on their foe&apos;s distraction.
 
-Hoplites are highly trained warriors, versed not only in strategy and tactics but in the glorification of the warrior's spirit, the basis of an ethos that forges an unbreakable bond between members of a military unit. In combat, hoplites typically work in groups and use coordinated tactics to win victories.
+Hoplites are highly trained warriors, versed not only in strategy and tactics but in the glorification of the warrior&apos;s spirit, the basis of an ethos that forges an unbreakable bond between members of a military unit. In combat, hoplites typically work in groups and use coordinated tactics to win victories.
 
-The three Hoplite Unit Names tables present the sorts of titles used by hoplite contingents hailing from Theros's great poleis. Consider using these names for military forces characters encounter during their adventures or that they were once a part of.
+The three Hoplite Unit Names tables present the sorts of titles used by hoplite contingents hailing from Theros&apos;s great poleis. Consider using these names for military forces characters encounter during their adventures or that they were once a part of.
 
 Setessan Hoplite Unit Names:
 d8 | Name
-1 | Nylea's Arrows
+1 | Nylea&apos;s Arrows
 2 | The Watchers
 3 | Fangs of Ophis
 4 | The Swiftswords
-5 | Karametra's Wolves
+5 | Karametra&apos;s Wolves
 6 | Defenders of the Grove
 7 | Bronze Blades
 8 | The Jackals
@@ -2969,7 +2970,7 @@ Source:	Mythic Odysseys of Theros p. 229</description>
     <save>Con +7, Wis +5</save>
     <skill>Perception +5</skill>
     <passive>15</passive>
-    <languages>understands Draconic but can't speak</languages>
+    <languages>understands Draconic but can&apos;t speak</languages>
     <cr>7</cr>
     <resist/>
     <immune/>
@@ -2979,7 +2980,7 @@ Source:	Mythic Odysseys of Theros p. 229</description>
     <trait>
       <name>Spell Turning</name>
       <text>
-The chimera has advantage on a saving throw against any spell that targets only the chimera (not an area). If the chimera's saving throw is successful and the spell is of 4th level or lower, the spell has no effect on the chimera and instead targets the caster.</text>
+The chimera has advantage on a saving throw against any spell that targets only the chimera (not an area). If the chimera&apos;s saving throw is successful and the spell is of 4th level or lower, the spell has no effect on the chimera and instead targets the caster.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -3013,44 +3014,44 @@ The chimera exhales fire in a 15-foot cone. Each creature in that area must make
     </action>
     <description>The term chimera applies to a wide variety of disparate monsters that combine the features of multiple beasts. While many artistic depictions represent chimeras as an amalgam of lion, ram, and dragon, these beasts appear with nearly endless variations.
 
-The Akroans tell a tale of the first chimera's origin, wherein the god Keranos sought to test Nylea's favorite champion, Renata of Setessa, by creating a beast so deadly that even she would balk at trying to hunt it. When Renata slayed this lion-ram-dragon creation effortlessly, Keranos created another combination of deadlier beasts to challenge her. She slayed that beast, too. Despite countless attempts, Keranos was unable to create a beast that Renata couldn't best.
+The Akroans tell a tale of the first chimera&apos;s origin, wherein the god Keranos sought to test Nylea&apos;s favorite champion, Renata of Setessa, by creating a beast so deadly that even she would balk at trying to hunt it. When Renata slayed this lion-ram-dragon creation effortlessly, Keranos created another combination of deadlier beasts to challenge her. She slayed that beast, too. Despite countless attempts, Keranos was unable to create a beast that Renata couldn&apos;t best.
 
-Chimeras typically roam the deep wilds of the world, constantly seeking a lair that would perfectly suit one of its heads, but then finding it unsatisfying to two-thirds of its being. As a result, a hungry chimera might appear out of a clear sky to pick off prey nearly anywhere. This threat grows even more significant in regions where magic runs rampant or where portals to the realm of Nyx exist, as unrestrained magical energy often causes more chimeras to appear in a region. As such chaotic magic is inherent to a chimera's being, these monsters often manage to shrug off spells cast against them.
+Chimeras typically roam the deep wilds of the world, constantly seeking a lair that would perfectly suit one of its heads, but then finding it unsatisfying to two-thirds of its being. As a result, a hungry chimera might appear out of a clear sky to pick off prey nearly anywhere. This threat grows even more significant in regions where magic runs rampant or where portals to the realm of Nyx exist, as unrestrained magical energy often causes more chimeras to appear in a region. As such chaotic magic is inherent to a chimera&apos;s being, these monsters often manage to shrug off spells cast against them.
 
 Customizing a Chimera
 The Theran chimera stat block presents one possible chimera configuration. You may customize these statistics to design your own unique chimera. To do so, simply roll once on one or all of the following tables. Results from the Body Composition table adjust the Theran chimera as described, while results on the Breath Weapons, Head Attacks, and Tail Attacks tables replace those respective actions in the stat block. Theran chimeras always have the Claws action. If the results of multiple tables conflict, chose your preferred result.
 
 Body Composition:
 d4 | Attack
-1 | Plains Creature. The chimera's body is that of a large lowland creature, such as a bull or a bear, and it lacks wings and a flying speed. The chimera is especially resilient, gaining resistance to cold and fire damage.
-2 | Coast Creature. The chimera's body is that of a coastal or aquatic creature, such as a heron or a shark. The chimera gains a swimming speed equal to its walking speed and can breathe air and water.
-3 | Mountain Creature. The chimera's body is that of a mountain-dwelling creature, such as a ram or a dragon. The chimera doesn't provoke an opportunity attack when it flies out of an enemy's reach.
-4 | Swamp Creature. The chimera's body is that of a swamp creature or a cavern-dweller, such as a giant lizard or spider. The chimera gains a climbing speed equal to its walking speed and it can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+1 | Plains Creature. The chimera&apos;s body is that of a large lowland creature, such as a bull or a bear, and it lacks wings and a flying speed. The chimera is especially resilient, gaining resistance to cold and fire damage.
+2 | Coast Creature. The chimera&apos;s body is that of a coastal or aquatic creature, such as a heron or a shark. The chimera gains a swimming speed equal to its walking speed and can breathe air and water.
+3 | Mountain Creature. The chimera&apos;s body is that of a mountain-dwelling creature, such as a ram or a dragon. The chimera doesn&apos;t provoke an opportunity attack when it flies out of an enemy&apos;s reach.
+4 | Swamp Creature. The chimera&apos;s body is that of a swamp creature or a cavern-dweller, such as a giant lizard or spider. The chimera gains a climbing speed equal to its walking speed and it can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
 Head Attacks:
 d4 | Attack
 1 | Bull Horns. If the chimera moves at least 20 feet straight toward a target and then hits it with a head attack on the same turn, the target takes an extra 7 (2d6) piercing damage.
 
 If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
-2 | Shark Bite. The chimera has advantage on a head attack roll against any creature that doesn't have all its hit points.
-3 | Unicorn Horn. The chimera's head attack is magical and deals an extra 4 (1d8) radiant damage.
-4 | Cockatrice Beak. A creature hit by the chimera's head attack must succeed on a DC 15 Constitution saving throw or be restrained as it begins to turn to stone. The restrained creature must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
+2 | Shark Bite. The chimera has advantage on a head attack roll against any creature that doesn&apos;t have all its hit points.
+3 | Unicorn Horn. The chimera&apos;s head attack is magical and deals an extra 4 (1d8) radiant damage.
+4 | Cockatrice Beak. A creature hit by the chimera&apos;s head attack must succeed on a DC 15 Constitution saving throw or be restrained as it begins to turn to stone. The restrained creature must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
 
 Breath Weapons:
 d4 | Attack
 1 | Lightning Breath (Recharge 5–6). The chimera exhales lightning in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 36 (8d8) lightning damage on a failed save, or half as much damage on a successful one.
-2 | Tidal Wave Breath (Recharge 5–6). The chimera has an aquatic creature's head that exhales a torrent of acidic water in a 60-foot line that is 5 feet wide. Each creature in the line must make a DC 15 Dexterity saving throw. On failed save, a creature takes 27 (5d10) acid damage and is knocked prone. On a successful save, it takes half as much damage and isn't knocked prone.
-3 | Venom Spray (Recharge 5–6). The chimera has a venomous creature's head that exhales a spray of poison in a 15-foot cone. Each creature in that area must succeed on a DC 15 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, a target takes 35 (10d6) poison damage at the start of each of its turns. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+2 | Tidal Wave Breath (Recharge 5–6). The chimera has an aquatic creature&apos;s head that exhales a torrent of acidic water in a 60-foot line that is 5 feet wide. Each creature in the line must make a DC 15 Dexterity saving throw. On failed save, a creature takes 27 (5d10) acid damage and is knocked prone. On a successful save, it takes half as much damage and isn&apos;t knocked prone.
+3 | Venom Spray (Recharge 5–6). The chimera has a venomous creature&apos;s head that exhales a spray of poison in a 15-foot cone. Each creature in that area must succeed on a DC 15 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, a target takes 35 (10d6) poison damage at the start of each of its turns. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 4 | Necrotic Breath (Recharge 5–6). The chimera exhales necrotic energy in a 15-foot cone. Each creature in that area must succeed on a DC 15 Constitution saving throw, or it takes 31 (7d8) necrotic damage and is unable to regain hit points until the end of its next turn.
 
 Tail Attacks:
 d4 | Attack
-1 | Venomous Tail. The chimera's tail ends in a snake's head or a stinger, which deals piercing damage instead of bludgeoning damage.
+1 | Venomous Tail. The chimera&apos;s tail ends in a snake&apos;s head or a stinger, which deals piercing damage instead of bludgeoning damage.
 
 In addition, when the chimera hits a creature with its tail, the creature must succeed on a DC 15 Constitution saving throw or become poisoned for 1 minute. A poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 2 | Perplexing Tail. The chimera has an additional head where its tail should be. The chimera loses its tail attack and makes two head attacks when it takes the Multiattack action. Use the Head Attacks table to determine the nature of the new head.
-3 | Shark Tail. The chimera's tail is a large fin. When the chimera hits a creature with its tail, the creature is also pushed up to 10 feet away.
-4 | Constricting Tail. The chimera's tail can constrict prey. If the chimera hits a creature with its tail, the target is grappled (escape DC 15) if it is Large or smaller. Until this grapple ends, the target is restrained, and the chimera can't use its tail on another target.
+3 | Shark Tail. The chimera&apos;s tail is a large fin. When the chimera hits a creature with its tail, the creature is also pushed up to 10 feet away.
+4 | Constricting Tail. The chimera&apos;s tail can constrict prey. If the chimera hits a creature with its tail, the target is grappled (escape DC 15) if it is Large or smaller. Until this grapple ends, the target is restrained, and the chimera can&apos;t use its tail on another target.
 
 Source:	Mythic Odysseys of Theros p. 216</description>
     <environment/>
@@ -3088,7 +3089,7 @@ The triton can breathe air and water.</text>
       <name>Summon Water Weird (Recharges after a Short or Long Rest)</name>
       <recharge>SHORT</recharge>
       <text>
-As a bonus action, the triton magically summons 1d4 water weird. The summoned weirds appear in unoccupied spaces in water within 60 feet of the triton. The water weirds act immediately after the triton on the same initiative count and fight until they're destroyed. They disappear if the triton dies.</text>
+As a bonus action, the triton magically summons 1d4 water weird. The summoned weirds appear in unoccupied spaces in water within 60 feet of the triton. The water weirds act immediately after the triton on the same initiative count and fight until they&apos;re destroyed. They disappear if the triton dies.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -3104,7 +3105,7 @@ Melee Spell Attack: +7 to hit, reach 5 ft., one target. Hit: 22 (4d10) cold dama
     <action>
       <name>Ray of Frost (Cantrip)</name>
       <text>
-Ranged Spell Attack: +7 to hit, range 60 ft., one target. Hit: 13 (3d8) cold damage, and the target's speed is reduced by 10 feet until the start of the triton's next turn.</text>
+Ranged Spell Attack: +7 to hit, range 60 ft., one target. Hit: 13 (3d8) cold damage, and the target&apos;s speed is reduced by 10 feet until the start of the triton&apos;s next turn.</text>
       <attack>Ray of Frost (Cantrip)|+7|3d8</attack>
     </action>
     <reaction>
@@ -3115,18 +3116,18 @@ When a creature the triton can see targets the triton with an attack, the triton
     <trait>
       <name>Innate Spellcasting</name>
       <text>
-The triton's spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+The triton&apos;s spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
 	• At will: ray of frost (see "Actions" below)
 	• 2/Day: cone of cold
 	• 1/Day each: fog cloud, gust of wind, wind wall</text>
     </trait>
     <spells>ray of frost, cone of cold, fog cloud, gust of wind, wind wall</spells>
-    <description>Triton masters of waves sculpt storms and change the tides, bending the sea to their will. Drawing forth living currents and the icy cold of the deep, these mages make the ocean their ally, using it to defend their people or enact Thassa's wishes. While dire threats from the land might bring them to coastal shallows, most masters of waves keep to the ocean's depths.
+    <description>Triton masters of waves sculpt storms and change the tides, bending the sea to their will. Drawing forth living currents and the icy cold of the deep, these mages make the ocean their ally, using it to defend their people or enact Thassa&apos;s wishes. While dire threats from the land might bring them to coastal shallows, most masters of waves keep to the ocean&apos;s depths.
 
-Although many masters of waves resent land-dwellers and strike out at those who trespass upon their waters, most are devoted followers of the sea god. Those who share their faith or who bear earnest offerings to Thassa might defuse the tritons' ire—that is, if they survive the deadly winds and waves that typically herald these sea guardians' appearance.
+Although many masters of waves resent land-dwellers and strike out at those who trespass upon their waters, most are devoted followers of the sea god. Those who share their faith or who bear earnest offerings to Thassa might defuse the tritons&apos; ire—that is, if they survive the deadly winds and waves that typically herald these sea guardians&apos; appearance.
 
-Clever, far-ranging people of the sea, tritons live rich lives unknown to most land-dwelling individuals. While the waves separate most tritons from land-dwellers, occasionally the inhabitants of the surface and the deep come into conflict. In such cases, tritons prove skilled at sabotaging ocean-going vessels, employing water-based magic, and otherwise whipping up the fury of the sea. Few dare insult tritons in their home environment, but those who do and survive often learn that the tritons' wrath doesn't end at the shore.
+Clever, far-ranging people of the sea, tritons live rich lives unknown to most land-dwelling individuals. While the waves separate most tritons from land-dwellers, occasionally the inhabitants of the surface and the deep come into conflict. In such cases, tritons prove skilled at sabotaging ocean-going vessels, employing water-based magic, and otherwise whipping up the fury of the sea. Few dare insult tritons in their home environment, but those who do and survive often learn that the tritons&apos; wrath doesn&apos;t end at the shore.
 
 Source:	Mythic Odysseys of Theros p. 245</description>
     <environment/>
@@ -3187,13 +3188,13 @@ Ranged Weapon Attack: +5 to hit, range 30/60 ft., one target. Hit: 5 (1d4 + 3) p
     <trait>
       <name>Innate Spellcasting</name>
       <text>
-The triton's spellcasting ability is Wisdom (spell save DC 12). It can innately cast the following spells, requiring no material components:
+The triton&apos;s spellcasting ability is Wisdom (spell save DC 12). It can innately cast the following spells, requiring no material components:
 	• 1/Day each: fog cloud, gust of wind</text>
     </trait>
     <spells>fog cloud, gust of wind</spells>
-    <description>Some insults don't wash away with the tides. When surface dwellers threaten the safety of triton communities, impede upon Thassa's holiest depths, or steal the treasures of the deep, triton shorestalkers seek vengeance. Using speed and poison harvested from deadly sea beasts, these triton assassins slip into shallow waters and strike when least expected. Often, surface dwellers don't even realize they've been attacked by shorestalkers, chalking disappearances and deaths up to the innumerable dangers of the sea.
+    <description>Some insults don&apos;t wash away with the tides. When surface dwellers threaten the safety of triton communities, impede upon Thassa&apos;s holiest depths, or steal the treasures of the deep, triton shorestalkers seek vengeance. Using speed and poison harvested from deadly sea beasts, these triton assassins slip into shallow waters and strike when least expected. Often, surface dwellers don&apos;t even realize they&apos;ve been attacked by shorestalkers, chalking disappearances and deaths up to the innumerable dangers of the sea.
 
-Clever, far-ranging people of the sea, tritons live rich lives unknown to most land-dwelling individuals. While the waves separate most tritons from land-dwellers, occasionally the inhabitants of the surface and the deep come into conflict. In such cases, tritons prove skilled at sabotaging ocean-going vessels, employing water-based magic, and otherwise whipping up the fury of the sea. Few dare insult tritons in their home environment, but those who do and survive often learn that the tritons' wrath doesn't end at the shore.
+Clever, far-ranging people of the sea, tritons live rich lives unknown to most land-dwelling individuals. While the waves separate most tritons from land-dwellers, occasionally the inhabitants of the surface and the deep come into conflict. In such cases, tritons prove skilled at sabotaging ocean-going vessels, employing water-based magic, and otherwise whipping up the fury of the sea. Few dare insult tritons in their home environment, but those who do and survive often learn that the tritons&apos; wrath doesn&apos;t end at the shore.
 
 Source:	Mythic Odysseys of Theros p. 244</description>
     <environment/>
@@ -3230,7 +3231,7 @@ Tromokratis can breathe air and water.</text>
     <trait>
       <name>Hearts of the Kraken (Mythic Trait; Recharges after a Short or Long Rest)</name>
       <text>
-When Tromokratis is reduced to 0 hit points, it doesn't die or fall unconscious. Instead, the damage creates cracks in its carapace, revealing its hearts. Tromokratis has four hearts: two on its chest, one on its back, and one at the base of its tail. A heart has an AC of 22 and 100 hit points. It is immune to bludgeoning, piercing, and slashing damage from nonmagical attacks, and it is immune to all conditions. If it is forced to make a saving throw, treat its ability scores as 10 (+0). If it finishes a short or long rest, the carapace heals, any destroyed hearts regenerate, and the hearts are covered again. Tromokratis dies when all the hearts are destroyed.</text>
+When Tromokratis is reduced to 0 hit points, it doesn&apos;t die or fall unconscious. Instead, the damage creates cracks in its carapace, revealing its hearts. Tromokratis has four hearts: two on its chest, one on its back, and one at the base of its tail. A heart has an AC of 22 and 100 hit points. It is immune to bludgeoning, piercing, and slashing damage from nonmagical attacks, and it is immune to all conditions. If it is forced to make a saving throw, treat its ability scores as 10 (+0). If it finishes a short or long rest, the carapace heals, any destroyed hearts regenerate, and the hearts are covered again. Tromokratis dies when all the hearts are destroyed.</text>
     </trait>
     <trait>
       <name>Legendary Resistance (3/Day)</name>
@@ -3241,7 +3242,7 @@ If Tromokratis fails a saving throw, it can choose to succeed instead.</text>
     <trait>
       <name>Magic Weapons</name>
       <text>
-Tromokratis's weapon attacks are magical.</text>
+Tromokratis&apos;s weapon attacks are magical.</text>
     </trait>
     <trait>
       <name>Siege Monster</name>
@@ -3263,7 +3264,7 @@ Tromokratis makes three attacks: one with its pincer, one with its tail, and one
       <text>
 Melee Weapon Attack: +18 to hit, reach 20 ft., one target. Hit: 20 (3d6 + 10) bludgeoning damage, and if the target is a creature, it is grappled (escape DC 26).
 
-Until the grapple ends, the target is restrained, and Tromokratis can't use this attack on anyone else.</text>
+Until the grapple ends, the target is restrained, and Tromokratis can&apos;t use this attack on anyone else.</text>
       <attack>Pincer|+18|3d6+10</attack>
     </action>
     <action>
@@ -3277,7 +3278,7 @@ Melee Weapon Attack: +18 to hit, reach 20 ft., one target. Hit: 23 (3d8 + 10) bl
       <text>
 Melee Weapon Attack: +18 to hit, reach 20 ft., one target. Hit: 20 (3d6 + 10) bludgeoning damage, and the target is grappled (escape DC 26).
 
-If the target doesn't escape by the end of its next turn, Tromokratis throws the target up to 60 feet in a straight line. The target lands prone and takes 21 (6d6) bludgeoning damage.</text>
+If the target doesn&apos;t escape by the end of its next turn, Tromokratis throws the target up to 60 feet in a straight line. The target lands prone and takes 21 (6d6) bludgeoning damage.</text>
       <attack>Tentacle Grasp|+18|3d6+10</attack>
     </action>
     <action>
@@ -3285,13 +3286,13 @@ If the target doesn't escape by the end of its next turn, Tromokratis throws the
       <text>
 Melee Weapon Attack: +18 to hit, reach 5 ft., one target. Hit: 29 (3d12 + 10) piercing damage.
 
-If the target is a Large or smaller creature grappled by Tromokratis, that creature is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside Tromokratis, and it takes 42 (12d6) acid damage at the start of each of Tromokratis's turns. If Tromokratis takes 50 damage or more on a single turn from a creature inside it, Tromokratis must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of Tromokratis. If Tromokratis dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.</text>
+If the target is a Large or smaller creature grappled by Tromokratis, that creature is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside Tromokratis, and it takes 42 (12d6) acid damage at the start of each of Tromokratis&apos;s turns. If Tromokratis takes 50 damage or more on a single turn from a creature inside it, Tromokratis must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of Tromokratis. If Tromokratis dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.</text>
       <attack>Bite|+18|3d12+10</attack>
     </action>
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Tromokratis can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Tromokratis regains spent legendary actions at the start of its turn.</text>
+      <text>Tromokratis can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Tromokratis regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Move</name>
@@ -3311,7 +3312,7 @@ Tromokratis makes one bite attack.</text>
     <legendary>
       <name>Mythic Actions</name>
       <text>
-If Tromokratis's mythic trait is active, it can use the options below as legendary actions for 1 hour after using Hearts of the Kraken.</text>
+If Tromokratis&apos;s mythic trait is active, it can use the options below as legendary actions for 1 hour after using Hearts of the Kraken.</text>
     </legendary>
     <legendary>
       <name>Rampage</name>
@@ -3330,12 +3331,12 @@ Tromokratis numbers among the most powerful creatures a group of adventurers mig
 
 Read or paraphrase the following text when Tromokratis uses its Hearts of the Kraken trait:
 ------
-The titanic monster's carapace cracks, revealing a pulsing, red-purple heart buried amid heaps of blubber and muscle. Fissures run across the beast's ancient shell, revealing three other mighty, ichor-slick organs. The sea terror thrashes, channeling pain into fury.
+The titanic monster&apos;s carapace cracks, revealing a pulsing, red-purple heart buried amid heaps of blubber and muscle. Fissures run across the beast&apos;s ancient shell, revealing three other mighty, ichor-slick organs. The sea terror thrashes, channeling pain into fury.
 
 ------
 Fighting Tromokratis as a mythic encounter is equivalent to taking on two CR 26 creatures in one encounter. Award a party 180,000 XP for defeating Tromokratis after it uses Hearts of the Kraken.</text>
     </legendary>
-    <description>Most krakens roam the seas, shattering hulls and scattering fleets, but the kraken Tromokratis notoriously vents its wrath on coastal settlements. Whether it acts at the command of the god Thassa or to sate its own hunger, Tromokratis numbers among the most feared threats in the sea, having no fixed lair and wandering where it will. In recent memory, the massive menace rose from the waves to topple the Pyrgnos, Meletis's great repository of scholarly knowledge. Since that day, the polis keeps a watch specifically for Tromokratis.
+    <description>Most krakens roam the seas, shattering hulls and scattering fleets, but the kraken Tromokratis notoriously vents its wrath on coastal settlements. Whether it acts at the command of the god Thassa or to sate its own hunger, Tromokratis numbers among the most feared threats in the sea, having no fixed lair and wandering where it will. In recent memory, the massive menace rose from the waves to topple the Pyrgnos, Meletis&apos;s great repository of scholarly knowledge. Since that day, the polis keeps a watch specifically for Tromokratis.
 
 Source:	Mythic Odysseys of Theros p. 254</description>
     <environment/>
@@ -3372,12 +3373,12 @@ As a bonus action, the cerberus can move up to its speed toward a hostile creatu
     <trait>
       <name>Multiheaded</name>
       <text>
-The cerberus can't be surprised, and it has advantage on saving throws against being knocked unconscious.</text>
+The cerberus can&apos;t be surprised, and it has advantage on saving throws against being knocked unconscious.</text>
     </trait>
     <trait>
       <name>Pack Tactics</name>
       <text>
-The cerberus has advantage on an attack roll against a creature if at least one of the cerberus's allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
+The cerberus has advantage on an attack roll against a creature if at least one of the cerberus&apos;s allies is within 5 feet of the creature and the ally isn&apos;t incapacitated.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -3397,7 +3398,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) pierci
 The cerberus exhales a 15-foot cone of molten rock. Each creature in the cone must make a DC 12 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save, or half as much damage on a successful one. On a failed save, a creature is also restrained by the hardening rock. A creature can make a DC 12 Strength (Athletics) check as an action, freeing itself or a creature within reach from the rock on a success. The rock has AC 17 and 10 hit points, and it is immune to fire, poison, and psychic damage.</text>
       <attack>Breath Weapon||3d6</attack>
     </action>
-    <description>Thought to be a lesser breed of cerberi that have interbred with mortal wolves, two-headed cerberi typically roam the mortal side of the Tartyx River. There they generally ignore—or only modestly menace—the souls of the dead. Such isn't the case for mortals, though, and they eagerly set upon those who tread too close to the Underworld's borders.
+    <description>Thought to be a lesser breed of cerberi that have interbred with mortal wolves, two-headed cerberi typically roam the mortal side of the Tartyx River. There they generally ignore—or only modestly menace—the souls of the dead. Such isn&apos;t the case for mortals, though, and they eagerly set upon those who tread too close to the Underworld&apos;s borders.
 
 Feared by the living and the dead, cerberi patrol both banks of the Tartyx River. These multiheaded hounds of the Underworld breathe gouts of molten rock that sear and imprison those who trespass upon the borders of life and death. Most cerberi have a boundless hunger for fresh meat, especially the flesh of humanoids. Villains have been known to exploit that hunger by luring cerberi away from the river and setting them loose on mortal settlements.
 
@@ -3436,7 +3437,7 @@ The typhon has advantage on Wisdom (Perception) checks that rely on smell.</text
     <trait>
       <name>Regeneration</name>
       <text>
-The typhon regains 20 hit points at the start of its turn. If it takes radiant damage, this trait doesn't function at the start of its next turn. The typhon dies only if it starts its turn with 0 hit points and doesn't regenerate.</text>
+The typhon regains 20 hit points at the start of its turn. If it takes radiant damage, this trait doesn&apos;t function at the start of its next turn. The typhon dies only if it starts its turn with 0 hit points and doesn&apos;t regenerate.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -3485,7 +3486,7 @@ Source:	Mythic Odysseys of Theros p. 246</description>
     <save/>
     <skill>Athletics +7, Perception +9, Stealth +4</skill>
     <passive>19</passive>
-    <languages>understands all languages but can't speak</languages>
+    <languages>understands all languages but can&apos;t speak</languages>
     <cr>6</cr>
     <resist/>
     <immune>fire, necrotic</immune>
@@ -3500,12 +3501,12 @@ As a bonus action, the cerberus can move up to its speed toward a hostile creatu
     <trait>
       <name>Multiheaded</name>
       <text>
-The cerberus can't be surprised, and it has advantage on saving throws against being knocked unconscious.</text>
+The cerberus can&apos;t be surprised, and it has advantage on saving throws against being knocked unconscious.</text>
     </trait>
     <trait>
       <name>Pack Tactics</name>
       <text>
-The cerberus has advantage on an attack roll against a creature if at least one of the cerberus's allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
+The cerberus has advantage on an attack roll against a creature if at least one of the cerberus&apos;s allies is within 5 feet of the creature and the ally isn&apos;t incapacitated.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -3525,7 +3526,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) pierc
 The cerberus exhales a 30-foot cone of molten rock. Each creature in the cone must make a DC 15 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one. On a failed save, a creature is also restrained by the hardening rock. A creature can make a DC 15 Strength (Athletics) check as an action, freeing itself or a creature within reach from the rock on a success. The rock has AC 17 and 20 hit points, and it is immune to fire, poison, and psychic damage.</text>
       <attack>Breath Weapon||6d6</attack>
     </action>
-    <description>Three-headed cerberi dwell deep in the Underworld. Terrifying and cunning, they guard portals between the wards of the Underworld, Erebos's greatest treasures, and noteworthy souls who might attempt to escape the realm of the dead. Three-headed cerberi commonly serve demons, but if left to their own devices, they often herd wily souls into labyrinthine Underworld wildernesses, then hunt them for sport.
+    <description>Three-headed cerberi dwell deep in the Underworld. Terrifying and cunning, they guard portals between the wards of the Underworld, Erebos&apos;s greatest treasures, and noteworthy souls who might attempt to escape the realm of the dead. Three-headed cerberi commonly serve demons, but if left to their own devices, they often herd wily souls into labyrinthine Underworld wildernesses, then hunt them for sport.
 
 Feared by the living and the dead, cerberi patrol both banks of the Tartyx River. These multiheaded hounds of the Underworld breathe gouts of molten rock that sear and imprison those who trespass upon the borders of life and death. Most cerberi have a boundless hunger for fresh meat, especially the flesh of humanoids. Villains have been known to exploit that hunger by luring cerberi away from the river and setting them loose on mortal settlements.
 
@@ -3549,7 +3550,7 @@ Source:	Mythic Odysseys of Theros p. 215</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands Celestial but can't speak</languages>
+    <languages>understands Celestial but can&apos;t speak</languages>
     <cr>4</cr>
     <resist/>
     <immune/>
@@ -3567,7 +3568,7 @@ If the bull moves at least 20 feet straight toward a creature and then hits it w
 Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 18 (2d12 + 5) piercing damage.</text>
       <attack>Gore|+7|2d12+5</attack>
     </action>
-    <description>Archons always ride into battle on fearsome winged mounts. Some legends suggest that the mount is actually a physical manifestation of the archon's will, allowing the pair to act with a single mind. The two most common archon mounts are winged bulls and winged lions.
+    <description>Archons always ride into battle on fearsome winged mounts. Some legends suggest that the mount is actually a physical manifestation of the archon&apos;s will, allowing the pair to act with a single mind. The two most common archon mounts are winged bulls and winged lions.
 
 Source:	Mythic Odysseys of Theros p. 214</description>
     <environment/>
@@ -3589,7 +3590,7 @@ Source:	Mythic Odysseys of Theros p. 214</description>
     <save/>
     <skill/>
     <passive>12</passive>
-    <languages>understands Celestial but can't speak</languages>
+    <languages>understands Celestial but can&apos;t speak</languages>
     <cr>4</cr>
     <resist/>
     <immune/>
@@ -3613,7 +3614,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) pier
 Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage.</text>
       <attack>Claw|+7|2d8+5</attack>
     </action>
-    <description>Archons always ride into battle on fearsome winged mounts. Some legends suggest that the mount is actually a physical manifestation of the archon's will, allowing the pair to act with a single mind. The two most common archon mounts are winged bulls and winged lions.
+    <description>Archons always ride into battle on fearsome winged mounts. Some legends suggest that the mount is actually a physical manifestation of the archon&apos;s will, allowing the pair to act with a single mind. The two most common archon mounts are winged bulls and winged lions.
 
 Source:	Mythic Odysseys of Theros p. 214</description>
     <environment/>
@@ -3645,7 +3646,7 @@ Source:	Mythic Odysseys of Theros p. 214</description>
     <trait>
       <name>Antimagic Cone</name>
       <text>
-The woe strider's open mouth creates an area of antimagic, as in the antimagic field spell, in a 60-foot cone. At the start of each of its turns, the woe strider decides which way the cone faces and whether its mouth is open or closed.</text>
+The woe strider&apos;s open mouth creates an area of antimagic, as in the antimagic field spell, in a 60-foot cone. At the start of each of its turns, the woe strider decides which way the cone faces and whether its mouth is open or closed.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -3663,10 +3664,10 @@ Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 7 (1d6 + 4) slash
       <text>
 Melee Weapon Attack: +7 to hit, reach 5 ft., one creature that is grappled, incapacitated, or restrained. 13 (2d8 + 4) piercing damage plus 16 (3d10) psychic damage.
 
-In addition, each magic item the creature is carrying that isn't an artifact has its magical properties suppressed for 1 minute.</text>
+In addition, each magic item the creature is carrying that isn&apos;t an artifact has its magical properties suppressed for 1 minute.</text>
       <attack>Bite|+7|2d8+4</attack>
     </action>
-    <description>Woe striders form from the souls of those who've broken the bonds of destiny. Over centuries, these cosmic blasphemers transform into hunched, long-limbed horrors. Sadistic things, woe striders seek ways to reweave themselves into the tapestry of destiny. This leads them to search for answers within the bowels of other beings, performing murderous haruspicy in pursuit of their discarded cosmic purpose. When they fail to find answers, their unnatural cries cause reality to shudder, undermining magic and sane minds alike.
+    <description>Woe striders form from the souls of those who&apos;ve broken the bonds of destiny. Over centuries, these cosmic blasphemers transform into hunched, long-limbed horrors. Sadistic things, woe striders seek ways to reweave themselves into the tapestry of destiny. This leads them to search for answers within the bowels of other beings, performing murderous haruspicy in pursuit of their discarded cosmic purpose. When they fail to find answers, their unnatural cries cause reality to shudder, undermining magic and sane minds alike.
 
 Source:	Mythic Odysseys of Theros p. 247</description>
     <environment/>

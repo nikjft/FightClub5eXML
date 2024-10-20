@@ -41,7 +41,7 @@ Source:	Unearthed Arcana: Fighter p. 1</text>
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Arcane Archer (UA): Archer's Lore</name>
+        <name>Arcane Archer (UA): Archer&apos;s Lore</name>
         <text>At 3rd level, you learn a few skills relating to the typical duties of an Arcane Archer. You learn to understand magical theory and develop survival skills for wandering the wilds.
 
 You gain proficiency in two of the following skills of your choice: Arcana, Athletics, Nature, Perception, Stealth, and Survival.
@@ -100,7 +100,7 @@ Source:	Unearthed Arcana: Fighter p. 1</text>
     <autolevel level="18">
       <feature optional="YES">
         <name>Arcane Archer (UA): Deadly Arrow</name>
-        <text>At 18th level, your Arcane Arrow's bonus damage increases to 4d6 force damage.
+        <text>At 18th level, your Arcane Arrow&apos;s bonus damage increases to 4d6 force damage.
 
 Source:	Unearthed Arcana: Fighter p. 1</text>
       </feature>
@@ -118,7 +118,7 @@ Source:	Unearthed Arcana: Fighter p. 1</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Martial Archtype: Knight (UA)</name>
-        <text>The Knight is a colossus on the battlefield who can shrug off attacks and protect allies from harm. Knights fight from the saddle when they can, and in combat they are expected to seek out and lock down the mightiest of the enemy's forces. On adventures, they are the armored bulwark that strives to keep the rest of the party safe.
+        <text>The Knight is a colossus on the battlefield who can shrug off attacks and protect allies from harm. Knights fight from the saddle when they can, and in combat they are expected to seek out and lock down the mightiest of the enemy&apos;s forces. On adventures, they are the armored bulwark that strives to keep the rest of the party safe.
 
 Source:	Unearthed Arcana: Fighter p. 2</text>
       </feature>
@@ -138,7 +138,7 @@ Source:	Unearthed Arcana: Fighter p. 2</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Knight (UA): Implacable Mark</name>
-        <text>At 3rd level, you excel at foiling attacks and protecting your allies by menacing your foes. When you hit a creature with a melee weapon attack, the target is marked by you until the end of your next turn. A creature ignores this effect if the creature can't be frightened.
+        <text>At 3rd level, you excel at foiling attacks and protecting your allies by menacing your foes. When you hit a creature with a melee weapon attack, the target is marked by you until the end of your next turn. A creature ignores this effect if the creature can&apos;t be frightened.
 
 The marked target has disadvantage on any attack roll against a creature other than you or someone else who marked it.
 
@@ -181,7 +181,7 @@ Source:	Unearthed Arcana: Fighter p. 2</text>
 
     <autolevel level="18">
       <feature optional="YES">
-        <name>Knight (UA): Defender's Blade</name>
+        <name>Knight (UA): Defender&apos;s Blade</name>
         <text>At 18th level, you respond to danger with extraordinary vigilance. You can use your reaction for an opportunity attack even if you have already expended your reaction this round, but not if you have already used your reaction this turn.
 
 In addition, you gain a +1 bonus to AC while wearing heavy armor.
@@ -193,7 +193,7 @@ Source:	Unearthed Arcana: Fighter p. 2</text>
     <!--autolevel level="3">
       <feature optional="YES">
         <name>Martial Archtype: Samurai (UA)</name>
-        <text>The Samurai is a fighter who draws on an implacable fighting spirit to overcome enemies. A Samurai's willpower is nearly unbreakable, and the enemies in a Samurai's path have two choices: yield or die fighting.
+        <text>The Samurai is a fighter who draws on an implacable fighting spirit to overcome enemies. A Samurai&apos;s willpower is nearly unbreakable, and the enemies in a Samurai&apos;s path have two choices: yield or die fighting.
 
 Source:	Unearthed Arcana: Fighter p. 3</text>
       </feature>
@@ -242,7 +242,7 @@ Source:	Unearthed Arcana: Fighter p. 3</text>
     <autolevel level="18">
       <feature optional="YES">
         <name>Samurai (UA): Strength Before Death</name>
-        <text>Starting at 18th level, your fighting spirit can delay the grasp of death. If you take damage that would reduce you to 0 hit points, you can delay that damage and immediately take a bonus turn, interrupting the current turn. You don't take the damage until the bonus turn ends. It is possible to do things, such as gaining resistance, that change how much of that damage you take.
+        <text>Starting at 18th level, your fighting spirit can delay the grasp of death. If you take damage that would reduce you to 0 hit points, you can delay that damage and immediately take a bonus turn, interrupting the current turn. You don&apos;t take the damage until the bonus turn ends. It is possible to do things, such as gaining resistance, that change how much of that damage you take.
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
@@ -262,7 +262,7 @@ Source:	Unearthed Arcana: Fighter p. 3</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Sharpshooter (UA): Steady Aim</name>
-        <text>Beginning when you choose this archetype at 3rd level, your aim becomes deadly. As a bonus action on your turn, you can take careful aim at a creature you can see that is within range of a ranged weapon you're wielding. Until the end of this turn, your ranged attacks with that weapon gain two benefits against the target:
+        <text>Beginning when you choose this archetype at 3rd level, your aim becomes deadly. As a bonus action on your turn, you can take careful aim at a creature you can see that is within range of a ranged weapon you&apos;re wielding. Until the end of this turn, your ranged attacks with that weapon gain two benefits against the target:
 
 	• The attacks ignore half and three-quarters cover.
 	• On each hit, the weapon deals additional damage to the target equal to 2 + half your fighter level.
@@ -287,7 +287,7 @@ Source:	Unearthed Arcana: Fighter p. 3</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Sharpshooter (UA): Close-Quarters Shooting</name>
-        <text>At 10th level, you learn to handle yourself in close combat. Making a ranged attack roll while within 5 feet of an enemy doesn't impose disadvantage on your roll.
+        <text>At 10th level, you learn to handle yourself in close combat. Making a ranged attack roll while within 5 feet of an enemy doesn&apos;t impose disadvantage on your roll.
 
 In addition, if you hit a creature within 5 feet of you with a ranged attack on your turn, that creature can't take reactions until the end of this turn.
 

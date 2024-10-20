@@ -146,7 +146,7 @@ Source:	Unearthed Arcana: Feats for Races p. 2</text>
   <feat>
     <name>Dragon Wings (UA)</name>
     <prerequisite>Dragonborn</prerequisite>
-    <text>You sprout draconic wings. With your wings, you have a flying speed of 20 feet if you aren't wearing heavy armor and aren't exceeding your carrying capacity.
+    <text>You sprout draconic wings. With your wings, you have a flying speed of 20 feet if you aren&apos;t wearing heavy armor and aren&apos;t exceeding your carrying capacity.
 
 Source:	Unearthed Arcana: Feats for Races p. 2</text>
   </feat>
@@ -182,7 +182,7 @@ Source:	Unearthed Arcana: Feats for Races p. 2</text>
     <modifier category="ability score">Dexterity +1</modifier>
   </feat-->
   <feat>
-    <name>Everybody's Friend (UA)</name>
+    <name>Everybody&apos;s Friend (UA)</name>
     <prerequisite>Half-Elf</prerequisite>
     <text>You develop your magnetic personality to ease your way through the world. You gain the following benefits:
 
@@ -195,7 +195,7 @@ Source:	Unearthed Arcana: Feats for Races p. 2</text>
     <proficiency>Deception, Persuasion</proficiency>
   </feat>
   <feat>
-    <name>Everybody's Friend (UA) (Proficient in Both)</name>
+    <name>Everybody&apos;s Friend (UA) (Proficient in Both)</name>
     <prerequisite>Half-Elf</prerequisite>
     <text>You develop your magnetic personality to ease your way through the world. You gain the following benefits:
 
@@ -209,7 +209,7 @@ Source:	Unearthed Arcana: Feats for Races p. 2</text>
     <modifier category="skill">Persuasion+%0</modifier>
   </feat>
   <feat>
-    <name>Everybody's Friend (UA) (Proficient in Deception)</name>
+    <name>Everybody&apos;s Friend (UA) (Proficient in Deception)</name>
     <prerequisite>Half-Elf</prerequisite>
     <text>You develop your magnetic personality to ease your way through the world. You gain the following benefits:
 
@@ -223,7 +223,7 @@ Source:	Unearthed Arcana: Feats for Races p. 2</text>
     <modifier category="skill">Deception+%0</modifier>
   </feat>
   <feat>
-    <name>Everybody's Friend (UA) (Proficient in Persuasion)</name>
+    <name>Everybody&apos;s Friend (UA) (Proficient in Persuasion)</name>
     <prerequisite>Half-Elf</prerequisite>
     <text>You develop your magnetic personality to ease your way through the world. You gain the following benefits:
 

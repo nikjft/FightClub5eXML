@@ -316,7 +316,7 @@ Xendros's innate spellcasting ability is Charisma (spell save DC 11). Xendros ca
     <save>Dex +5</save>
     <skill/>
     <passive>9</passive>
-    <languages>understands the languages it knew in life but can't speak</languages>
+    <languages>understands the languages it knew in life but can&apos;t speak</languages>
     <cr>3</cr>
     <resist/>
     <immune>poison</immune>
@@ -354,7 +354,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludge
       <text>
 The drowned ascetic adds 3 to its AC against one ranged attack that would hit it. To do so, the drowned ascetic must see the attacker.</text>
     </reaction>
-    <description>Dressed in tattered robes, its fists wrapped in long rib bons of rotting cloth, the drowned ascetic moves with alarming speed for an undead creature. This martial artist, rising from the ocean in Tammeraut's Fate, retains its fighting reflexes despite its rotting flesh.
+    <description>Dressed in tattered robes, its fists wrapped in long rib bons of rotting cloth, the drowned ascetic moves with alarming speed for an undead creature. This martial artist, rising from the ocean in Tammeraut&apos;s Fate, retains its fighting reflexes despite its rotting flesh.
 
 Bluerot:
 This disease targets humanoids. While afflicted with bluerot, a victim grows grotesque blue boils on their face and back. This disease is carried by undead (including the drowned ones in Tammeraut's Fate), and victims most often acquire it through wounds caused by infected creatures. The disease's boils manifest in 1d4 hours, causing the victim's Constitution and Charisma scores to decrease by 1d4 each, to a minimum of 3. This is quickly followed by a fever and tingling in the extremities. An infected creature is vulnerable to radiant damage and gains the ability to breathe underwater.
@@ -382,7 +382,7 @@ Source:	Ghosts of Saltmarsh p. 233,
     <save>Dex +5, Con +5</save>
     <skill>Intimidation +5, Stealth +5</skill>
     <passive>9</passive>
-    <languages>understands the languages it knew in life but can't speak</languages>
+    <languages>understands the languages it knew in life but can&apos;t speak</languages>
     <cr>4</cr>
     <resist/>
     <immune>poison</immune>
@@ -427,7 +427,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) pierci
       <text>
 The drowned assassin removes its mask, revealing its rotting face. Each creature of the assassin's choice within 30 feet of it that can see the assassin must succeed on a DC 13 Wisdom saving throw or be frightened until the end of its next turn.</text>
     </action>
-    <description>The drowned assassin stalks and kills in a grim pantomime of its former occupation. Sneaking from shadow to shadow, and appearing in the undead assault of Tammeraut's Fate, it aims its barnacle-encrusted hand crossbow with deadly precision. Hidden behind a simple driftwood mask, this creature's face causes terror in mortal hearts when exposed.
+    <description>The drowned assassin stalks and kills in a grim pantomime of its former occupation. Sneaking from shadow to shadow, and appearing in the undead assault of Tammeraut&apos;s Fate, it aims its barnacle-encrusted hand crossbow with deadly precision. Hidden behind a simple driftwood mask, this creature&apos;s face causes terror in mortal hearts when exposed.
 
 Bluerot:
 This disease targets humanoids. While afflicted with bluerot, a victim grows grotesque blue boils on their face and back. This disease is carried by undead (including the drowned ones in Tammeraut's Fate), and victims most often acquire it through wounds caused by infected creatures. The disease's boils manifest in 1d4 hours, causing the victim's Constitution and Charisma scores to decrease by 1d4 each, to a minimum of 3. This is quickly followed by a fever and tingling in the extremities. An infected creature is vulnerable to radiant damage and gains the ability to breathe underwater.
@@ -455,7 +455,7 @@ Source:	Ghosts of Saltmarsh p. 234,
     <save/>
     <skill/>
     <passive>9</passive>
-    <languages>understands the languages it knew in life but can't speak</languages>
+    <languages>understands the languages it knew in life but can&apos;t speak</languages>
     <cr>2</cr>
     <resist/>
     <immune>poison</immune>
@@ -488,7 +488,7 @@ The drowned blade makes two rusted longsword attacks.</text>
 Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, and the target must succeed on a DC 12 Constitution saving throw or contract bluerot (see the "Bluerot" in notes).</text>
       <attack>Rusted Longsword|+5|1d8+3</attack>
     </action>
-    <description>Assaulting the hermitage in Tammeraut's Fate, this barnacle-encrusted undead warrior fights with surprising cunning. Starfish cling to its wispy beard, and its evil rage is visible in its bloated gray eyes.
+    <description>Assaulting the hermitage in Tammeraut&apos;s Fate, this barnacle-encrusted undead warrior fights with surprising cunning. Starfish cling to its wispy beard, and its evil rage is visible in its bloated gray eyes.
 
 Bluerot:
 This disease targets humanoids. While afflicted with bluerot, a victim grows grotesque blue boils on their face and back. This disease is carried by undead (including the drowned ones in Tammeraut's Fate), and victims most often acquire it through wounds caused by infected creatures. The disease's boils manifest in 1d4 hours, causing the victim's Constitution and Charisma scores to decrease by 1d4 each, to a minimum of 3. This is quickly followed by a fever and tingling in the extremities. An infected creature is vulnerable to radiant damage and gains the ability to breathe underwater.
@@ -516,7 +516,7 @@ Source:	Ghosts of Saltmarsh p. 235,
     <save>Con +7, Wis +6</save>
     <skill>Perception +10</skill>
     <passive>20</passive>
-    <languages>understands the languages it knew in life but can't speak</languages>
+    <languages>understands the languages it knew in life but can&apos;t speak</languages>
     <cr>9</cr>
     <resist/>
     <immune>poison</immune>
@@ -566,7 +566,7 @@ The target must succeed on a DC 15 Constitution saving throw or have its hit poi
 The drowned master discharges foul ink in front of itself in a 30-foot cone. Each creature caught in the ink must make a DC 15 Constitution saving throw, taking 27 (6d8) necrotic damage on a failed save or half as much damage on a successful one. A creature that fails this saving throw is blinded until the end of its next turn and contracts bluerot (see the "Bluerot" in notes).</text>
       <attack>Necrotic Ink||6d8</attack>
     </action>
-    <description>This waterlogged undead, bound to the Pit of Hatred in Tammeraut's Fate, hovers menacingly over the bones of its victims. Its torso, arms, and head retain their former shapes, but its legs have split into shadowy tentacles. The drowned master is tethered to a source of powerful magic that prevents it from traveling far. It commands other drowned ones, compelling them to serve as agents in its dark plots.
+    <description>This waterlogged undead, bound to the Pit of Hatred in Tammeraut&apos;s Fate, hovers menacingly over the bones of its victims. Its torso, arms, and head retain their former shapes, but its legs have split into shadowy tentacles. The drowned master is tethered to a source of powerful magic that prevents it from traveling far. It commands other drowned ones, compelling them to serve as agents in its dark plots.
 
 Bluerot:
 This disease targets humanoids. While afflicted with bluerot, a victim grows grotesque blue boils on their face and back. This disease is carried by undead (including the drowned ones in Tammeraut's Fate), and victims most often acquire it through wounds caused by infected creatures. The disease's boils manifest in 1d4 hours, causing the victim's Constitution and Charisma scores to decrease by 1d4 each, to a minimum of 3. This is quickly followed by a fever and tingling in the extremities. An infected creature is vulnerable to radiant damage and gains the ability to breathe underwater.
@@ -644,7 +644,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
 Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be stunned until the end of its next turn. On a failed save, the target begins to hallucinate and is afflicted with a dmg|8|madness). The effect lasts 10 minutes.</text>
       <attack>Bite|+5|2d4+3</attack>
     </action>
-    <description>Comfortable on land or in water, these brilliantly colored snakes are renowned for their potent and hallucinogenic venom. They are most often found in coastal caves. In the abandoned chambers of the hermitage in Tammeraut's Fate, these giant serpents feed on any creature that crosses their path.
+    <description>Comfortable on land or in water, these brilliantly colored snakes are renowned for their potent and hallucinogenic venom. They are most often found in coastal caves. In the abandoned chambers of the hermitage in Tammeraut&apos;s Fate, these giant serpents feed on any creature that crosses their path.
 
 Source:	Ghosts of Saltmarsh p. 236</description>
     <environment/>
@@ -792,7 +792,7 @@ A target that successfully saves is immune to this matriarch's song for the next
       <text>
 The matriarch projects a vision into the minds of creatures within 30 feet of it that aren't constructs or undead, showing each creature achieving whatever it most desires. An affected creature must succeed on a DC 14 Wisdom saving throw or drop whatever it is holding and become paralyzed until the end of its next turn.</text>
     </action>
-    <description>Happy to watch its flock squabble over carrion in Tammeraut's Fate, this gray-feathered matron of the harpies is surrounded by a cloud of magical spirits resembling skeletal seabirds.
+    <description>Happy to watch its flock squabble over carrion in Tammeraut&apos;s Fate, this gray-feathered matron of the harpies is surrounded by a cloud of magical spirits resembling skeletal seabirds.
 
 Source:	Ghosts of Saltmarsh p. 237</description>
     <environment/>
@@ -814,7 +814,7 @@ Source:	Ghosts of Saltmarsh p. 237</description>
     <save>Str +12, Dex +5, Con +10, Int +9, Wis +7</save>
     <skill/>
     <passive>12</passive>
-    <languages>Abyssal, Celestial, Infernal, Primordial, telepathy 60 ft. but can't speak</languages>
+    <languages>Abyssal, Celestial, Infernal, Primordial, telepathy 60 ft. but can&apos;t speak</languages>
     <cr>14</cr>
     <resist>bludgeoning, piercing, slashing from nonmagical attacks</resist>
     <immune>lightning</immune>
@@ -867,7 +867,7 @@ The kraken magically create a bolt of lightning, which can strike a target the k
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The monstrosity (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity (titan) regains spent legendary actions at the start of its turn.</text>
+      <text>The monstrosity (titan) can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity (titan) regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Tentacle Attack (Costs 2 Actions)</name>
@@ -884,7 +884,7 @@ The kraken uses Fling.</text>
       <text>
 While underwater, the kraken expels an ink cloud in a 40-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than the kraken. Each creature other than the kraken that ends its turn there must succeed on a DC 18 Constitution saving throw, taking 11 (2d10) poison damage on a failed save or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken's next turn.</text>
     </legendary>
-    <description>Hidden in a deep, dark underwater pit near the Styes, this creature bears the mark of the dark god Tharizdun's madness. Becoming more independent every day, it dreams of freeing itself from its aboleth tenders and wreaking its own foul will upon the seas.
+    <description>Hidden in a deep, dark underwater pit near the Styes, this creature bears the mark of the dark god Tharizdun&apos;s madness. Becoming more independent every day, it dreams of freeing itself from its aboleth tenders and wreaking its own foul will upon the seas.
 
 Source:	Ghosts of Saltmarsh p. 238</description>
     <environment/>
@@ -1126,7 +1126,7 @@ Source:	Ghosts of Saltmarsh p. 240</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>5</cr>
     <resist/>
     <immune>lightning, poison</immune>
@@ -1162,7 +1162,7 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludg
 The statue can use its action to spin at the waist, targeting creatures of its choice within 10 feet of it. Each target must make a DC 13 Dexterity saving throw, taking 19 (3d10 + 3) bludgeoning damage on a failed save, or half as much damage on a successful one.</text>
       <attack>Whirl||3d10+3</attack>
     </action>
-    <description>This squat, solid-looking statue, currently guarding the evil cult's treasure in Isle of the Abbey, is made from pure iron. Its hands are shaped into deadly weapons.
+    <description>This squat, solid-looking statue, currently guarding the evil cult&apos;s treasure in Isle of the Abbey, is made from pure iron. Its hands are shaped into deadly weapons.
 
 Source:	Ghosts of Saltmarsh p. 241</description>
     <environment/>
@@ -1264,7 +1264,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) pierc
       <text>
 The render makes a claw attack against each creature of its choice within 10 feet of it. A creature hit by this attack must succeed on a DC 13 Strength saving throw or be knocked prone.</text>
     </action>
-    <description>Filled with the primal magic of Semuanya, the lizardfolk render undergoes terrifying changes during a dayslong ritual performed by a shaman. As seen in Danger at Dunwater, the render's claws grow long and hard as steel, its frame enlarges, and its temperament becomes even more ferocious.
+    <description>Filled with the primal magic of Semuanya, the lizardfolk render undergoes terrifying changes during a dayslong ritual performed by a shaman. As seen in Danger at Dunwater, the render&apos;s claws grow long and hard as steel, its frame enlarges, and its temperament becomes even more ferocious.
 
 Source:	Ghosts of Saltmarsh p. 241,
 		Essentials Kit: Storm Lord's Wrath,
@@ -1387,7 +1387,7 @@ The subchief is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spe
     </trait>
     <slots>0, 4, 3, 2</slots>
     <spells>light, sacred flame, spare the dying, thaumaturgy, command, guiding bolt, purify food and drink, hold person, lesser restoration, silence, bestow curse, dispel magic</spells>
-    <description>The lizardfolk subchief (seen in Danger at Dunwater) is a devout priest of Semuanya, pursuing the worship of its god in a manner similar to a cleric. It wields a dagger crafted of a massive crocodile tooth blessed by Semuanya, representing the subchief's prowess in both battle and piety.
+    <description>The lizardfolk subchief (seen in Danger at Dunwater) is a devout priest of Semuanya, pursuing the worship of its god in a manner similar to a cleric. It wields a dagger crafted of a massive crocodile tooth blessed by Semuanya, representing the subchief&apos;s prowess in both battle and piety.
 
 Source:	Ghosts of Saltmarsh p. 242,
 		Essentials Kit: Storm Lord's Wrath</description>
@@ -1605,7 +1605,7 @@ Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 9 (1d8 + 5) bludg
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The monstrosity can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity regains spent legendary actions at the start of its turn.</text>
+      <text>The monstrosity can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Detect</name>
@@ -1744,7 +1744,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) pierci
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>6</cr>
     <resist/>
     <immune>lightning, poison</immune>
@@ -1800,7 +1800,7 @@ Source:	Ghosts of Saltmarsh p. 245</description>
     <save>Str +8, Dex +6, Wis +6</save>
     <skill>Perception +6</skill>
     <passive>16</passive>
-    <languages>understands Common and Elvish but can't speak</languages>
+    <languages>understands Common and Elvish but can&apos;t speak</languages>
     <cr>11</cr>
     <resist/>
     <immune/>
@@ -1848,7 +1848,7 @@ The peryton chooses up to three creatures within 60 feet of it that it can see. 
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The monstrosity can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity regains spent legendary actions at the start of its turn.</text>
+      <text>The monstrosity can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The monstrosity regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Detect</name>
@@ -1865,7 +1865,7 @@ The peryton makes one attack with its talons.</text>
       <text>
 The peryton moves up to its speed toward one target of its choosing. It then makes a gore attack that deals an extra 9 (2d8) piercing damage on a hit.</text>
     </legendary>
-    <description>The terror of the coast and the recent scourge of Firewatch Island in Tammeraut's Fate, this large peryton preys on ships and coastal communities alike. It has built numerous nests to mark its territory.
+    <description>The terror of the coast and the recent scourge of Firewatch Island in Tammeraut&apos;s Fate, this large peryton preys on ships and coastal communities alike. It has built numerous nests to mark its territory.
 
 Source:	Ghosts of Saltmarsh p. 245</description>
     <environment/>
@@ -1932,7 +1932,7 @@ Mr. Dory's innate spellcasting ability is Charisma (save DC 15, +7 to hit with s
 	• 1/Day each: cloudkill, etherealness</text>
     </trait>
     <spells>detect magic, detect thoughts, invisibility, fear, fireball, fly, cloudkill, etherealness</spells>
-    <description>One of the four councillors who rule the Styes, Mr. Dory hides his cursed nature in plain sight. His rare, liquid-sensitive "skin condition" is actually a form of the same aboleth affliction that creates skum, though Dory's condition is not as severe, and he has managed to retain his free will.
+    <description>One of the four councillors who rule the Styes, Mr. Dory hides his cursed nature in plain sight. His rare, liquid-sensitive "skin condition" is actually a form of the same aboleth affliction that creates skum, though Dory&apos;s condition is not as severe, and he has managed to retain his free will.
 
 Source:	Ghosts of Saltmarsh p. 246</description>
     <environment/>
@@ -1983,7 +1983,7 @@ Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one ta
 Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.</text>
       <attack>Light Crossbow|+3|1d8+1</attack>
     </action>
-    <description>Before being captured, this sea elf had been tasked with investigating the Sea Ghost's movements in The Sinister Secret of Saltmarsh. Oceanus is a smart and resourceful elf who is more than willing to join adventurers who have brave hearts and good intentions.
+    <description>Before being captured, this sea elf had been tasked with investigating the Sea Ghost&apos;s movements in The Sinister Secret of Saltmarsh. Oceanus is a smart and resourceful elf who is more than willing to join adventurers who have brave hearts and good intentions.
 
 Source:	Ghosts of Saltmarsh p. 246</description>
     <environment/>
@@ -2094,7 +2094,7 @@ Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one ta
 Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage, and the target is grappled (escape DC 13).</text>
       <attack>Hook|+5|1d8+3</attack>
     </action>
-    <description>The bosun (or boatswain) is tasked with organizing the cargo and crew aboard a ship. Bosuns are capable fighters whose experience with hauling cargo and delivering beatings make them tough opponents. Foul Frithoff in The Sinister Secret of Saltmarsh is the bosun who protects the cargo aboard the smugglers' ship. Ever since a bad accident, he has worn a hook at the end of one arm in place of a hand.
+    <description>The bosun (or boatswain) is tasked with organizing the cargo and crew aboard a ship. Bosuns are capable fighters whose experience with hauling cargo and delivering beatings make them tough opponents. Foul Frithoff in The Sinister Secret of Saltmarsh is the bosun who protects the cargo aboard the smugglers&apos; ship. Ever since a bad accident, he has worn a hook at the end of one arm in place of a hand.
 
 Source:	Ghosts of Saltmarsh p. 247</description>
     <environment/>
@@ -2156,7 +2156,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashi
       <text>
 Whenever a friendly creature within 30 feet of the captain that can hear it misses with an attack, the captain can yell perilous threats to allow that creature to reroll the attack roll.</text>
     </reaction>
-    <description>Pirate captains spend their lives at sea, earning and keeping command through blood and daring. A captain's impressive sword work and biting words inspire both confidence and fear in a ship's crew. Sigurd "Snake Eyes" is the pirate captain who leads a gang of smugglers in The Sinister Secret of Saltmarsh.
+    <description>Pirate captains spend their lives at sea, earning and keeping command through blood and daring. A captain&apos;s impressive sword work and biting words inspire both confidence and fear in a ship&apos;s crew. Sigurd "Snake Eyes" is the pirate captain who leads a gang of smugglers in The Sinister Secret of Saltmarsh.
 
 Source:	Ghosts of Saltmarsh p. 247</description>
     <environment/>
@@ -2206,7 +2206,7 @@ The deck wizard is a 4th-level spellcaster. Its spellcasting ability is Intellig
 	• 2nd level (3 slots): gust of wind, Melf's acid arrow, misty step</text>
     </trait>
     <slots>0, 4, 3</slots>
-    <spells>friends, mage hand, prestidigitation, ray of frost, disguise self, fog cloud, mage armor, witch bolt, gust of wind, Melf's acid arrow, misty step</spells>
+    <spells>friends, mage hand, prestidigitation, ray of frost, disguise self, fog cloud, mage armor, witch bolt, gust of wind, Melf&apos;s acid arrow, misty step</spells>
     <description>These salt-encrusted practitioners of magic are at once learned and superstitious. The crews of pirate ships generally give their deck wizards a wide berth, as they magically step from place to place and unleash their briny magic against attackers. The ship Sea Ghost in The Sinister Secret of Saltmarsh is home to a pirate deck wizard named Punketah.
 
 Source:	Ghosts of Saltmarsh p. 248</description>
@@ -2252,7 +2252,7 @@ The first mate makes two attacks with its longsword.</text>
 Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands. If the target is a creature, the first mate can choose to deal no damage with the attack to disarm the target. The target must succeed on a DC 14 Strength saving throw or drop one item it is holding on the ground.</text>
       <attack>Longsword|+4|1d8+2</attack>
     </action>
-    <description>These no-nonsense sailors are the trusted allies of a pirate ship's captain. Ex-soldiers and trained mercenaries often find employment as mates aboard pirate ships. In The Sinister Secret of Saltmarsh, Bloody Bjorn serves as the first mate aboard Sea Ghost.
+    <description>These no-nonsense sailors are the trusted allies of a pirate ship&apos;s captain. Ex-soldiers and trained mercenaries often find employment as mates aboard pirate ships. In The Sinister Secret of Saltmarsh, Bloody Bjorn serves as the first mate aboard Sea Ghost.
 
 Source:	Ghosts of Saltmarsh p. 248</description>
     <environment/>
@@ -2299,7 +2299,7 @@ The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spe
     </trait>
     <slots>0, 4, 3, 2</slots>
     <spells>chill touch, mage hand, minor illusion, prestidigitation, ray of frost, expeditious retreat, magic missile, shield, blur, hold person, sleet storm</spells>
-    <description>Priests of the Rip Tide cult gather in secret cabals to perform dark rituals that glorify Olhydra, the elemental Princess of Evil Water, as the embodiment of water's destructiveness. They believe that using water to kill their enemies, such as through ritual drowning, earns them Olhydra's favor.
+    <description>Priests of the Rip Tide cult gather in secret cabals to perform dark rituals that glorify Olhydra, the elemental Princess of Evil Water, as the embodiment of water&apos;s destructiveness. They believe that using water to kill their enemies, such as through ritual drowning, earns them Olhydra&apos;s favor.
 
 Source:	Ghosts of Saltmarsh p. 248</description>
     <environment/>
@@ -2589,7 +2589,7 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashi
       <text>
 The deep diver pulses magical light from its lure. Any creature within 30 feet of the deep diver that can see the light must succeed on a DC 11 Wisdom saving throw or be charmed until the end of its next turn. A creature charmed in this way is incapacitated as it stares at the light.</text>
     </action>
-    <description>These mighty sahuagin, found in The Final Enemy, are transformed by the divine magic of Sekolah to enable them to better explore the darkest depths of the ocean. Out of the water, they cling to shadows and serve as hunters and assassins. A long, scaly lure that can be illuminated extends from a deep diver's forehead.
+    <description>These mighty sahuagin, found in The Final Enemy, are transformed by the divine magic of Sekolah to enable them to better explore the darkest depths of the ocean. Out of the water, they cling to shadows and serve as hunters and assassins. A long, scaly lure that can be illuminated extends from a deep diver&apos;s forehead.
 
 Source:	Ghosts of Saltmarsh p. 250,
 		Locathah Rising</description>
@@ -2726,7 +2726,7 @@ The high priestess is a 7th-level spellcaster. Her spellcasting ability is Wisdo
     </trait>
     <slots>0, 4, 3, 3, 1</slots>
     <spells>guidance, mending, resistance, thaumaturgy, bless, detect magic, guiding bolt, hold person, spiritual weapon, bestow curse, fear, mass healing word, tongues, banishment</spells>
-    <description>A sahuagin high priestess is the most devout and ferocious of all Sekolah's worshipers. Armed with a staff studded with jagged shark's teeth, she can be seen leading dark rituals in The Final Enemy.
+    <description>A sahuagin high priestess is the most devout and ferocious of all Sekolah&apos;s worshipers. Armed with a staff studded with jagged shark&apos;s teeth, she can be seen leading dark rituals in The Final Enemy.
 
 Source:	Ghosts of Saltmarsh p. 251,
 		Essentials Kit: Sleeping Dragon's Wake</description>
@@ -2976,7 +2976,7 @@ Source:	Ghosts of Saltmarsh p. 252</description>
     <save/>
     <skill>Arcana +4</skill>
     <passive>10</passive>
-    <languages>understands all languages it knew in life but can't speak</languages>
+    <languages>understands all languages it knew in life but can&apos;t speak</languages>
     <cr>1/2</cr>
     <resist/>
     <immune>poison</immune>
@@ -3176,7 +3176,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) pierci
 Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 18 (4d8) psychic damage, and the target has disadvantage on Wisdom saving throws until the end of the skum's next turn.</text>
       <attack>Mind-Breaking Touch|+7|4d8</attack>
     </action>
-    <description>Several poor souls around the Styes have succumbed to an aboleth's magic through its disease-bearing touch. Transformed into creatures called skum, they barely resemble their past forms, their skin turning slimy and translucent while their limbs warp to resemble those of deep-sea oddities. The change makes them dependent on water, which they must immerse themselves in regularly lest they experience painful-and potentially lethal-skin eruptions. Skum are bound to their aboleth master not just by their cursed state, but by a psychic bond that compels them to serve its every sinister whim.
+    <description>Several poor souls around the Styes have succumbed to an aboleth&apos;s magic through its disease-bearing touch. Transformed into creatures called skum, they barely resemble their past forms, their skin turning slimy and translucent while their limbs warp to resemble those of deep-sea oddities. The change makes them dependent on water, which they must immerse themselves in regularly lest they experience painful-and potentially lethal-skin eruptions. Skum are bound to their aboleth master not just by their cursed state, but by a psychic bond that compels them to serve its every sinister whim.
 
 Source:	Ghosts of Saltmarsh p. 254</description>
     <environment/>
@@ -3238,7 +3238,7 @@ If the target is a creature, it must succeed on a DC 15 Strength saving throw or
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Thousand can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Thousand regains spent legendary actions at the start of its turn.</text>
+      <text>Thousand can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. Thousand regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Detect</name>
@@ -3277,7 +3277,7 @@ Source:	Ghosts of Saltmarsh p. 256</description>
     <save/>
     <skill/>
     <passive>10</passive>
-    <languages>understands the languages of its creator but can't speak</languages>
+    <languages>understands the languages of its creator but can&apos;t speak</languages>
     <cr>8</cr>
     <resist/>
     <immune>lightning, poison</immune>
@@ -3317,7 +3317,7 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slash
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>The construct can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The construct regains spent legendary actions at the start of its turn.</text>
+      <text>The construct can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&apos;s turn. The construct regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Bite</name>

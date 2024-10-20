@@ -9,7 +9,7 @@
     <spellAbility>Charisma</spellAbility>
     <trait>
       <name>Description</name>
-      <text>To be greeted with stares and whispers, to suffer violence and insult on the street, to see mistrust and fear in every eye: this is the lot of the tiefling. And to twist the knife, tieflings know that this is because a pact struck generations ago infused the essence of Asmodeus, overlord of the Nine Hells (and many of the other powerful devils serving under him) into their bloodline. Their appearance and their nature are not their fault but the result of an ancient sin, for which they and their children and their children's children will always be held accountable.
+      <text>To be greeted with stares and whispers, to suffer violence and insult on the street, to see mistrust and fear in every eye: this is the lot of the tiefling. And to twist the knife, tieflings know that this is because a pact struck generations ago infused the essence of Asmodeus, overlord of the Nine Hells (and many of the other powerful devils serving under him) into their bloodline. Their appearance and their nature are not their fault but the result of an ancient sin, for which they and their children and their children&apos;s children will always be held accountable.
 
 All abyssal tieflings trace their bloodline to the demons of the Abyss.
 
@@ -36,7 +36,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Thanks to your abyssal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Thanks to your abyssal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Hellish Resistance</name>
@@ -64,7 +64,7 @@ d6 | 1st Level | 3rd Level | 5th Level
     </trait>
     <trait>
       <name>Variant: Appearance</name>
-      <text>Your tiefling might not look like other tieflings. Rather than having the physical characteristics described in the Player's Handbook, choose 1d4 + 1 of the following features:
+      <text>Your tiefling might not look like other tieflings. Rather than having the physical characteristics described in the Player&apos;s Handbook, choose 1d4 + 1 of the following features:
 
 Small horns;
 Fangs or sharp teeth;
@@ -93,7 +93,7 @@ Exude a smell of brimstone.</text>
     <proficiency/>
     <trait>
       <name>Description</name>
-      <text>To be greeted with stares and whispers, to suffer violence and insult on the street, to see mistrust and fear in every eye: this is the lot of the tiefling. And to twist the knife, tieflings know that this is because a pact struck generations ago infused the essence of Asmodeus, overlord of the Nine Hells (and many of the other powerful devils serving under him) into their bloodline. Their appearance and their nature are not their fault but the result of an ancient sin, for which they and their children and their children's children will always be held accountable.
+      <text>To be greeted with stares and whispers, to suffer violence and insult on the street, to see mistrust and fear in every eye: this is the lot of the tiefling. And to twist the knife, tieflings know that this is because a pact struck generations ago infused the essence of Asmodeus, overlord of the Nine Hells (and many of the other powerful devils serving under him) into their bloodline. Their appearance and their nature are not their fault but the result of an ancient sin, for which they and their children and their children&apos;s children will always be held accountable.
 
 Source:	Player's Handbook p. 43,
 		Sword Coast Adventurer's Guide p. 118,
@@ -119,7 +119,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Darkvision</name>
-      <text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+      <text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&apos;t discern color in darkness, only shades of gray.</text>
     </trait>
     <trait>
       <name>Hellish Resistance</name>
@@ -131,7 +131,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Variant: Appearance</name>
-      <text>Your tiefling might not look like other tieflings. Rather than having the physical characteristics described in the Player's Handbook, choose 1d4 + 1 of the following features:
+      <text>Your tiefling might not look like other tieflings. Rather than having the physical characteristics described in the Player&apos;s Handbook, choose 1d4 + 1 of the following features:
 
 Small horns;
 Fangs or sharp teeth;
@@ -147,7 +147,7 @@ Cast no shadow or reflection;
 Exude a smell of brimstone.</text>
     </trait>
     <trait>
-      <name>Variant: Devil's Tongue</name>
+      <name>Variant: Devil&apos;s Tongue</name>
       <text>You know the vicious mockery cantrip. When you reach 3rd level, you can cast the charm person spell as a 2nd-level spell once with this trait. When you reach 5th level, you can cast the enthrall spell once with this trait. You must finish a long rest to cast these spells once again with this trait. Charisma is your spellcasting ability for them. This trait replaces the Infernal Legacy trait.</text>
     </trait>
     <trait>
@@ -156,7 +156,7 @@ Exude a smell of brimstone.</text>
     </trait>
     <trait>
       <name>Variant: Winged</name>
-      <text>You have bat-like wings sprouting from your shoulder blades. You have a flying speed of 30 feet while you aren't wearing heavy armor. This replaces the Infernal Legacy trait.</text>
+      <text>You have bat-like wings sprouting from your shoulder blades. You have a flying speed of 30 feet while you aren&apos;t wearing heavy armor. This replaces the Infernal Legacy trait.</text>
     </trait>
     <trait>
       <name>Languages</name>

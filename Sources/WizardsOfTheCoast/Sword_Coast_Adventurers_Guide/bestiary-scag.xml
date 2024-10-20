@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+
 <compendium version="5" auto_indent="NO">
   <monster>
     <name>Bryn Lightfingers</name>
@@ -44,7 +45,7 @@ Bryn has advantage on saving throws against poison.</text>
       <text>
 Bryn is a 3rd-level spellcaster. Her spellcasting ability is Wisdom (save DC 12, +4 to hit with spell attacks). Bryn has the following ranger spells prepared: 
 
-	• 1st level (3 slots): ensnaring strike, hunter's mark, longstrider</text>
+	• 1st level (3 slots): ensnaring strike, hunter&apos;s mark, longstrider</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -69,7 +70,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6+3) piercing
 Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d6+3) piercing damage.</text>
       <attack>Shortbow|+5|1d6+3</attack>
     </action>
-    <spells>ensnaring strike, hunter's mark, longstrider</spells>
+    <spells>ensnaring strike, hunter&apos;s mark, longstrider</spells>
     <slots>3</slots>
     <description>Source:	Sword Coast Legends NPCs</description>
   </monster>
@@ -167,7 +168,7 @@ Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 7 (1d8+3) p
       <text>
 Illydia presents her holy symbol and speaks a prayer censuring the undead. Each undead that can see or hear her within 30 feet of her must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 
-A turned creature must spend its turns trying to move as far away from Illydia as it can, and it can't willingly move to a space within 30 feet of her. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</text>
+A turned creature must spend its turns trying to move as far away from Illydia as it can, and it can&apos;t willingly move to a space within 30 feet of her. It also can&apos;t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there&apos;s nowhere to move, the creature can use the Dodge action.</text>
     </action>
     <spells>guidance, sacred flame, spare the dying, command, cure wounds, guiding bolt, identify, sanctuary, augury, lesser restoration, prayer of healing, suggestion</spells>
     <slots>0, 4, 2</slots>
@@ -205,7 +206,7 @@ Jarhild has advantage on saving throws against poison.</text>
     <trait>
       <name>Improved Critical</name>
       <text>
-Jarhild's weapon attacks score a critical hit on a roll of 19 or 20.</text>
+Jarhild&apos;s weapon attacks score a critical hit on a roll of 19 or 20.</text>
     </trait>
     <action>
       <name>Longsword</name>
@@ -245,7 +246,7 @@ Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. Hit: 6 (1d6+3) sla
     <conditionImmune/>
     <senses>darkvision 60 ft.</senses>
     <passive>10</passive>
-    <languages>Common, Dwarvish, Thieves' Cant</languages>
+    <languages>Common, Dwarvish, Thieves&apos; Cant</languages>
     <cr>2</cr>
     <trait>
       <name>Dwarven Resilience</name>
@@ -256,18 +257,18 @@ Larethar has advantage on saving throws against poison.</text>
       <name>Sneak Attack (1/Turn)</name>
       <recharge>1/Turn</recharge>
       <text>
-Larethar deals an extra 7 (2d6) damage when he hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Larethar that isn't incapacitated and Larethar doesn't have disadvantage on the attack roll.</text>
+Larethar deals an extra 7 (2d6) damage when he hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Larethar that isn&apos;t incapacitated and Larethar doesn&apos;t have disadvantage on the attack roll.</text>
       <attack>Sneak Attack||2d6</attack>
     </trait>
     <trait>
       <name>Cunning Action/Fast Hands</name>
       <text>
-Larethar can take a bonus action on each of his turns in combat. This action can be used to take the Dash, Disengage, Hide, or Use an Object actions. He can also use this action to make a Dexterity (Sleight of Hand) check with a +5 bonus, or to use his thieves' tools to disarm a trap or open a lock.</text>
+Larethar can take a bonus action on each of his turns in combat. This action can be used to take the Dash, Disengage, Hide, or Use an Object actions. He can also use this action to make a Dexterity (Sleight of Hand) check with a +5 bonus, or to use his thieves&apos; tools to disarm a trap or open a lock.</text>
     </trait>
     <trait>
       <name>Thief</name>
       <text>
-Larethar gets a +7 to Dexterity checks he can make while using his thieves' tools.</text>
+Larethar gets a +7 to Dexterity checks he can make while using his thieves&apos; tools.</text>
     </trait>
     <action>
       <name>Multiattack</name>
