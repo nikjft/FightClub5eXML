@@ -112,7 +112,7 @@ Source:	Explorer's Guide to Wildemount p. 185</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Graviturgy Magic: Violent Attraction</name>
-        <text>When another creature that you can see within 60 feet of you hits with a weapon attack, you can use your reaction to increase the attack's velocity, causing the attack&apos;s target to take an extra 1d10 damage of the weapon&apos;s type.
+        <text>When another creature that you can see within 60 feet of you hits with a weapon attack, you can use your reaction to increase the attack&apos;s velocity, causing the attack&apos;s target to take an extra 1d10 damage of the weapon&apos;s type.
 
 Alternatively, if a creature within 60 feet of you takes damage from a fall, you can use your reaction to increase the fall's damage by 2d10.
 

@@ -341,7 +341,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) pierci
 Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.</text>
       <attack>Claws|+5|1d8+3</attack>
     </action>
-    <description>Dinosaurs are widespread on Eberron, particularly in Q'barra, the Talenta Plains, Xen&apos;drik, and Argonnessen. Smaller dinosaurs are the rule in Q&apos;barra and the Talenta Plains, including varieties commonly used by Talenta halflings as mounts.
+    <description>Dinosaurs are widespread on Eberron, particularly in Q&apos;barra, the Talenta Plains, Xen&apos;drik, and Argonnessen. Smaller dinosaurs are the rule in Q&apos;barra and the Talenta Plains, including varieties commonly used by Talenta halflings as mounts.
 
 Source:	Eberron: Rising from the Last War p. 289,
 		Wayfinder's Guide to Eberron p. 81</description>
@@ -856,7 +856,7 @@ The fastieth can take the Dodge action as a bonus action.</text>
 Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.</text>
       <attack>Bite|+6|1d8+4</attack>
     </action>
-    <description>Dinosaurs are widespread on Eberron, particularly in Q'barra, the Talenta Plains, Xen&apos;drik, and Argonnessen. Smaller dinosaurs are the rule in Q&apos;barra and the Talenta Plains, including varieties commonly used by Talenta halflings as mounts.
+    <description>Dinosaurs are widespread on Eberron, particularly in Q&apos;barra, the Talenta Plains, Xen&apos;drik, and Argonnessen. Smaller dinosaurs are the rule in Q&apos;barra and the Talenta Plains, including varieties commonly used by Talenta halflings as mounts.
 
 Source:	Eberron: Rising from the Last War p. 289</description>
     <environment/>

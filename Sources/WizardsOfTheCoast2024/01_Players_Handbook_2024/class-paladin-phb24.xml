@@ -725,7 +725,7 @@ Source:	Player's Handbook 2024 p. 117</text>
     <autolevel level="7">
       <feature optional="YES">
         <name>Oath Of Vengeance: Relentless Avenger</name>
-        <text>Your supernatural focus helps you close off a foe's retreat. When you hit a creature with an Opportunity Attack, you can reduce the creature&apos;s Speed to 0 until the end of the current turn. You can then move up to half your Speed as part of the same Reaction. This movement doesn&apos;t provoke Opportunity Attacks.
+        <text>Your supernatural focus helps you close off a foe&apos;s retreat. When you hit a creature with an Opportunity Attack, you can reduce the creature&apos;s Speed to 0 until the end of the current turn. You can then move up to half your Speed as part of the same Reaction. This movement doesn&apos;t provoke Opportunity Attacks.
 
 Source:	Player's Handbook 2024 p. 117</text>
       </feature>

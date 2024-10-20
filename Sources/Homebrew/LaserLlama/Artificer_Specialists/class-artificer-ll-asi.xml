@@ -13,7 +13,7 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 2 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Aeronaut (HB): Tools of the Trade</name>
-        <text>At 3rd level, you gain proficiency with woodcarver's tools. If you are already proficient in woodcarver&apos;s tools you gain proficiency with another type of artisan&apos;s tools of your choice.
+        <text>At 3rd level, you gain proficiency with woodcarver&apos;s tools. If you are already proficient in woodcarver&apos;s tools you gain proficiency with another type of artisan&apos;s tools of your choice.
 
 Source:	LaserLlama: Artificer Specialists v2.1.0 p. 2 (Homebrew)</text>
       </feature>
@@ -88,7 +88,7 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 3 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Archivist (HB): Tools of the Trade</name>
-        <text>When you become an Archivist Specialist at 3rd level, you gain proficiency with calligrapher's supplies. If you are already proficient in calligrapher&apos;s supplies you instead gain proficiency with another type of artisan&apos;s tools of your choice.
+        <text>When you become an Archivist Specialist at 3rd level, you gain proficiency with calligrapher&apos;s supplies. If you are already proficient in calligrapher&apos;s supplies you instead gain proficiency with another type of artisan&apos;s tools of your choice.
 
 Source:	LaserLlama: Artificer Specialists v2.1.0 p. 3 (Homebrew)</text>
       </feature>
@@ -165,7 +165,7 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 4 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Biomancer (HB): Tools of the Trade</name>
-        <text>At 3rd level, you gain proficiency with leatherworker's tools. If you are already proficient with leatherworker&apos;s tools, you gain proficiency with another set of artisan&apos;s tools of your choice.
+        <text>At 3rd level, you gain proficiency with leatherworker&apos;s tools. If you are already proficient with leatherworker&apos;s tools, you gain proficiency with another set of artisan&apos;s tools of your choice.
 
 Source:	LaserLlama: Artificer Specialists v2.1.0 p. 4 (Homebrew)</text>
       </feature>
@@ -256,7 +256,7 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 5 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Chronothief (HB): Tools of the Trade</name>
-        <text>At 3rd level, you gain proficiency with jeweler's tools. If you are already proficient with jeweler&apos;s tools, you instead gain proficiency with another set of artisan&apos;s tools of your choice.
+        <text>At 3rd level, you gain proficiency with jeweler&apos;s tools. If you are already proficient with jeweler&apos;s tools, you instead gain proficiency with another set of artisan&apos;s tools of your choice.
 
 Source:	LaserLlama: Artificer Specialists v2.1.0 p. 5 (Homebrew)</text>
       </feature>
@@ -353,7 +353,7 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 6 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Composer (HB): Tools of the Trade</name>
-        <text>When you become a Composer Specialist at 3rd level, you gain proficiency with smith's tools and one instrument of your choice. If you already proficient with smith&apos;s tools, you gain proficiency with another set of artisan&apos;s tools of your choice.
+        <text>When you become a Composer Specialist at 3rd level, you gain proficiency with smith&apos;s tools and one instrument of your choice. If you already proficient with smith&apos;s tools, you gain proficiency with another set of artisan&apos;s tools of your choice.
 
 Source:	LaserLlama: Artificer Specialists v2.1.0 p. 6 (Homebrew)</text>
       </feature>
@@ -434,7 +434,7 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 7 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Dungeoneer (HB): Tools of the Trade</name>
-        <text>When you become a Dungeoneer Specialist at 3rd level, you gain proficiency with carpenters and smith's tools. If you already proficient in carpenter's or smith&apos;s tools, you gain proficiency with another set of artisan&apos;s tools of your choice.
+        <text>When you become a Dungeoneer Specialist at 3rd level, you gain proficiency with carpenters and smith's tools. If you already proficient in carpenter&apos;s or smith&apos;s tools, you gain proficiency with another set of artisan&apos;s tools of your choice.
 
 You also gain proficiency with improvised weapons. When you make an improvised weapon attack, you can use your Intelligence, in place of Strength or Dexterity, for the attack and damage rolls, and the damage die for any improvised weapon attacks you make becomes a d8 if it would be lower.
 
@@ -517,7 +517,7 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 8 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Forgewright (HB): Tools of the Trade</name>
-        <text>When you become a Forgewright Specialist at 3rd level, you gain proficiency with smith's tools and all martial weapons. If you already proficient in smith&apos;s tools, you gain proficiency with another set of artisan&apos;s tools of your choice.
+        <text>When you become a Forgewright Specialist at 3rd level, you gain proficiency with smith&apos;s tools and all martial weapons. If you already proficient in smith&apos;s tools, you gain proficiency with another set of artisan&apos;s tools of your choice.
 
 Source:	LaserLlama: Artificer Specialists v2.1.0 p. 8 (Homebrew)</text>
       </feature>
@@ -600,7 +600,7 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 9 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Machinist (HB): Tools of the Trade</name>
-        <text>At 3rd level, you gain proficiency with smith's tools. If you already proficient in smith&apos;s tools, you gain proficiency with another set of artisan&apos;s tools of your choice.
+        <text>At 3rd level, you gain proficiency with smith&apos;s tools. If you already proficient in smith&apos;s tools, you gain proficiency with another set of artisan&apos;s tools of your choice.
 
 Source:	LaserLlama: Artificer Specialists v2.1.0 p. 9 (Homebrew)</text>
       </feature>
@@ -681,7 +681,7 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 10 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Puppeteer (HB): Tools of the Trade</name>
-        <text>At 3rd level, you gain proficiency with weaver's tools. If you are already proficient with weaver&apos;s tools, you instead gain proficiency with another set of artisan&apos;s tools of your choice.
+        <text>At 3rd level, you gain proficiency with weaver&apos;s tools. If you are already proficient with weaver&apos;s tools, you instead gain proficiency with another set of artisan&apos;s tools of your choice.
 
 Source:	LaserLlama: Artificer Specialists v2.1.0 p. 10 (Homebrew)</text>
       </feature>
@@ -762,7 +762,7 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 11 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Alternate Alchemist (HB): Tools of the Trade</name>
-        <text>At 3rd level, you gain proficiency with alchemist's supplies. If you are already proficient with alchemist&apos;s supplies, you gain proficiency with another set of artisan&apos;s tools of your choice.
+        <text>At 3rd level, you gain proficiency with alchemist&apos;s supplies. If you are already proficient with alchemist&apos;s supplies, you gain proficiency with another set of artisan&apos;s tools of your choice.
 
 Source:	LaserLlama: Artificer Specialists v2.1.0 p. 11 (Homebrew)</text>
       </feature>

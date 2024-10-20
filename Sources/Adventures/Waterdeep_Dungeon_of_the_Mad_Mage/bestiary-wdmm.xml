@@ -3803,7 +3803,7 @@ Muiral is a 13th-level spellcaster. His spellcasting ability is Intelligence (sp
     </trait>
     <slots>0, 4, 3, 3, 3, 2, 1, 1</slots>
     <spells>dancing lights, mage hand, prestidigitation, ray of frost, shocking grasp, expeditious retreat, fog cloud, magic missile, shield, darkness, knock, see invisibility, spider climb, animate dead, counterspell, lightning bolt, greater invisibility, polymorph, animate objects, wall of force, create undead, flesh to stone, finger of death</spells>
-    <description>Muiral was an accomplished human warrior who long served as Halaster's bodyguard. His descent into madness began when he asked the Mad Mage to tutor him in the wizardly arts. Muiral learned enough magic to transform himself into a half-scorpion monstrosity, becoming known as Muiral the Misshapen. He then retired to the level of Undermountain that would later be called Muiral&apos;s Gauntlet, driving out and slaying its original drow denizens. Muiral now spends his days hunting adventurers and other interlopers for fun. Long years alone—and Halaster&apos;s influence—have rendered him utterly insane.
+    <description>Muiral was an accomplished human warrior who long served as Halaster&apos;s bodyguard. His descent into madness began when he asked the Mad Mage to tutor him in the wizardly arts. Muiral learned enough magic to transform himself into a half-scorpion monstrosity, becoming known as Muiral the Misshapen. He then retired to the level of Undermountain that would later be called Muiral&apos;s Gauntlet, driving out and slaying its original drow denizens. Muiral now spends his days hunting adventurers and other interlopers for fun. Long years alone—and Halaster&apos;s influence—have rendered him utterly insane.
 
 Source:	Waterdeep: Dungeon of the Mad Mage p. 314</description>
     <environment/>
@@ -3854,7 +3854,7 @@ The zombie uses a random magical eye ray, choosing a target that it can see with
 
 3: Enervation Ray: The targeted creature must make a DC 14 Constitution saving throw, taking 36 (8d8) necrotic damage on a failed save, or half as much damage on a successful one.</text>
       <attack>Eye Ray||8d8</attack>
-      <text>4: Telekinetic Ray: If the target is a creature, it must succeed on a DC 14 Strength saving throw, or the zombie moves it up to 30 feet in any direction. It is restrained by the ray's telekinetic grip until the start of the zombie&apos;s next turn or until the zombie is incapacitated. If the target is an object weighing 300 pounds or less that isn&apos;t being worn or carried, it is moved up to 30 feet in any direction. The zombie can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or container.</text>
+      <text>4: Telekinetic Ray: If the target is a creature, it must succeed on a DC 14 Strength saving throw, or the zombie moves it up to 30 feet in any direction. It is restrained by the ray&apos;s telekinetic grip until the start of the zombie&apos;s next turn or until the zombie is incapacitated. If the target is an object weighing 300 pounds or less that isn&apos;t being worn or carried, it is moved up to 30 feet in any direction. The zombie can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or container.</text>
     </action>
     <description>Source:	Waterdeep: Dungeon of the Mad Mage p. 52</description>
     <environment>underdark</environment>

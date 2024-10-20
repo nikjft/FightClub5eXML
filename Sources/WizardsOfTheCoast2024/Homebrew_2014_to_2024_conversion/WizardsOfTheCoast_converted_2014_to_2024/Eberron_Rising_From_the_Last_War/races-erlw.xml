@@ -227,7 +227,7 @@ Weight in pounds = 115 + (2d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Shapechanger</name>
-      <text>As an action, you can change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height and weight, but not so much that your size changes. You can make yourself appear as a member of another race, though none of your game statistics change. You can't duplicate the appearance of a creature you&apos;ve never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. Your clothing and equipment aren&apos;t changed by this trait.
+      <text>As an action, you can change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height and weight, but not so much that your size changes. You can make yourself appear as a member of another race, though none of your game statistics change. You can&apos;t duplicate the appearance of a creature you&apos;ve never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. Your clothing and equipment aren&apos;t changed by this trait.
 
 You stay in the new form until you use an action to revert to your true form or until you die.</text>
     </trait>
@@ -842,7 +842,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Tool Proficiency</name>
-      <text>You gain proficiency with the artisan's tools of your choice: smith's tools, brewer&apos;s supplies, or mason&apos;s tools.</text>
+      <text>You gain proficiency with the artisan's tools of your choice: smith&apos;s tools, brewer&apos;s supplies, or mason&apos;s tools.</text>
     </trait>
     <trait>
       <name>Stonecunning</name>
@@ -924,7 +924,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Tool Proficiency</name>
-      <text>You gain proficiency with the artisan's tools of your choice: smith's tools, brewer&apos;s supplies, or mason&apos;s tools.</text>
+      <text>You gain proficiency with the artisan's tools of your choice: smith&apos;s tools, brewer&apos;s supplies, or mason&apos;s tools.</text>
     </trait>
     <trait>
       <name>Stonecunning</name>

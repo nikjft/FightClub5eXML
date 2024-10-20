@@ -7,7 +7,7 @@
     <numSkills>2</numSkills>
     <armor>light armor, medium armor</armor>
     <weapons>simple weapons</weapons>
-    <tools>Thieves' tools, tinker&apos;s tools, one type of artisan&apos;s tools of your choice</tools>
+    <tools>Thieves&apos; tools, tinker&apos;s tools, one type of artisan&apos;s tools of your choice</tools>
     <spellAbility>Intelligence</spellAbility>
 
     <autolevel level="3"><slots>0, 2</slots></autolevel>

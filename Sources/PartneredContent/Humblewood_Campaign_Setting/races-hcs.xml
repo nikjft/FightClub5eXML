@@ -242,7 +242,7 @@ Weight in pounds = 55 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Of the People</name>
-      <text>You gain proficiency with the artisan tools of your choice: brewer's supplies, carpenter&apos;s tools, or smith&apos;s tools.</text>
+      <text>You gain proficiency with the artisan tools of your choice: brewer&apos;s supplies, carpenter&apos;s tools, or smith&apos;s tools.</text>
     </trait>
     <trait>
       <name>Inspiring</name>
@@ -332,7 +332,7 @@ Weight in pounds = 55 + (1d4 × your size modifier)</text>
     </trait>
     <trait>
       <name>Of the People</name>
-      <text>You gain proficiency with the artisan tools of your choice: brewer's supplies, carpenter&apos;s tools, or smith&apos;s tools.</text>
+      <text>You gain proficiency with the artisan tools of your choice: brewer&apos;s supplies, carpenter&apos;s tools, or smith&apos;s tools.</text>
     </trait>
     <trait>
       <name>One With the Wood</name>

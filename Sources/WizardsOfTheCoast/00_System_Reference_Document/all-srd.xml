@@ -72,7 +72,7 @@
     <item>
         <name>Climber&#39;s kit</name>
         <type>G</type>
-        <text>A climber's kit includes special pitons, boot tips, gloves, and a harness. You can use the climber's kit as an action to anchor yourself; when you do, you can&apos;t fall more than 25 feet from the point where you anchored yourself, and you can&apos;t climb more than 25 feet away from that point without undoing the anchor.</text>
+        <text>A climber's kit includes special pitons, boot tips, gloves, and a harness. You can use the climber&apos;s kit as an action to anchor yourself; when you do, you can&apos;t fall more than 25 feet from the point where you anchored yourself, and you can&apos;t climb more than 25 feet away from that point without undoing the anchor.</text>
         <weight>12.0</weight>
         <value>25.0</value>
     </item>
@@ -1958,7 +1958,7 @@ The brazier weighs 5 pounds.</text>
         <range>20/60</range>
         <text>Thrown: If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.</text>
         <text/>
-        <text>Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can&apos;t attack a target beyond the weapon&apos;s long range.</text>
+        <text>Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon&apos;s maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can&apos;t attack a target beyond the weapon&apos;s long range.</text>
         <text/>
         <text>Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee Attack.</text>
         <text/>
@@ -3434,7 +3434,7 @@ The brazier weighs 5 pounds.</text>
         <name>Iron Flask</name>
         <type>W</type>
         <detail>legendary</detail>
-        <text>This iron bottle has a brass stopper. You can use an action to speak the flask's command word, targeting a creature that you can see within 60 feet of you. If the target is native to a plane of existence other than the one you're on, the target must succeed on a DC 17 Wisdom saving throw or be trapped in the flask. If the target has been trapped by the flask before, it has advantage on the saving throw. Once trapped, a creature remains in the flask until released. The flask can hold only one creature at a time. A creature trapped in the flask doesn&apos;t need to breathe, eat, or drink and doesn&apos;t age.
+        <text>This iron bottle has a brass stopper. You can use an action to speak the flask's command word, targeting a creature that you can see within 60 feet of you. If the target is native to a plane of existence other than the one you&apos;re on, the target must succeed on a DC 17 Wisdom saving throw or be trapped in the flask. If the target has been trapped by the flask before, it has advantage on the saving throw. Once trapped, a creature remains in the flask until released. The flask can hold only one creature at a time. A creature trapped in the flask doesn&apos;t need to breathe, eat, or drink and doesn&apos;t age.
 
     You can use an action to remove the flask's stopper and release the creature the flask contains. The creature is friendly to you and your companions for 1 hour and obeys your commands for that duration. If you give no commands or give it a command that is likely to result in its death, it defends itself but otherwise takes no actions. At the end of the duration, the creature acts in accordance with its normal disposition and alignment.
 
@@ -3554,7 +3554,7 @@ The brazier weighs 5 pounds.</text>
         <name>Robe of the Archmagi</name>
         <type>W</type>
         <detail>legendary (requires attunement by a sorcerer, warlock, or wizard)</detail>
-        <text>This elegant garment is made from exquisite cloth of white, gray, or black and adorned with silvery runes. The robe's color corresponds to the alignment for which the item was created. A white robe was made for good, gray for neutral, and black for evil. You can&apos;t attune to a robe of the archmagi that doesn&apos;t correspond to your alignment.
+        <text>This elegant garment is made from exquisite cloth of white, gray, or black and adorned with silvery runes. The robe&apos;s color corresponds to the alignment for which the item was created. A white robe was made for good, gray for neutral, and black for evil. You can&apos;t attune to a robe of the archmagi that doesn&apos;t correspond to your alignment.
 
     You gain these benefits while wearing the robe:
 
@@ -3567,7 +3567,7 @@ The brazier weighs 5 pounds.</text>
         <name>Rod of Absorption</name>
         <type>RD</type>
         <detail>very rare (requires attunement)</detail>
-        <text>While holding this rod, you can use your reaction to absorb a spell that is targeting only you and not with an area of effect. The absorbed spell's effect is canceled, and the spell's energy—not the spell itself—is stored in the rod. The energy has the same level as the spell when it was cast. The rod can absorb and store up to 50 levels of energy over the course of its existence. Once the rod absorbs 50 levels of energy, it can&apos;t absorb more. If you are targeted by a spell that the rod can&apos;t store, the rod has no effect on that spell.
+        <text>While holding this rod, you can use your reaction to absorb a spell that is targeting only you and not with an area of effect. The absorbed spell's effect is canceled, and the spell&apos;s energy—not the spell itself—is stored in the rod. The energy has the same level as the spell when it was cast. The rod can absorb and store up to 50 levels of energy over the course of its existence. Once the rod absorbs 50 levels of energy, it can&apos;t absorb more. If you are targeted by a spell that the rod can&apos;t store, the rod has no effect on that spell.
 
     When you become attuned to the rod, you know how many levels of energy the rod has absorbed over the course of its existence, and how many levels of spell energy it currently has stored.
 
@@ -3980,7 +3980,7 @@ The brazier weighs 5 pounds.</text>
         <range>Touch</range>
         <components>V, S, M (a handful of oak bark)</components>
         <duration>Concentration, up to 1 hour</duration>
-        <text>You touch a willing creature. Until the spell ends, the target's skin has a rough, bark like appearance, and the target&apos;s AC can&apos;t be less than 16, regardless of what kind of armor it is wearing.</text>
+        <text>You touch a willing creature. Until the spell ends, the target&apos;s skin has a rough, bark like appearance, and the target&apos;s AC can&apos;t be less than 16, regardless of what kind of armor it is wearing.</text>
         <classes>Druid, Ranger</classes>
     </spell>
     <spell>
@@ -4441,7 +4441,7 @@ An elemental summoned by this spell disappears when it drops to 0 hit points or 
         <range>Self</range>
         <components>V, S, M (a gem, crystal, reliquary, or some other ornamental container worth at least 500 gp)</components>
         <duration>Until dispelled</duration>
-        <text>Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell's material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container&apos;s space. You can&apos;t move or use reactions. The only action you can take is to project your soul up to 100 feet out of the container, either returning to your living body (and ending the spell) or attempting to possess a humanoids body.
+        <text>Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell&apos;s material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container&apos;s space. You can&apos;t move or use reactions. The only action you can take is to project your soul up to 100 feet out of the container, either returning to your living body (and ending the spell) or attempting to possess a humanoids body.
 
     You can attempt to possess any humanoid within 100 feet of you that you can see (creatures warded by a protection from evil and good or magic circle spell can't be possessed). The target must make a Charisma saving throw. On a failure, your soul moves into the target's body, and the target's soul becomes trapped in the container. On a success, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours.
 
@@ -4464,7 +4464,7 @@ An elemental summoned by this spell disappears when it drops to 0 hit points or 
         <range>120 feet</range>
         <components>V, S, M (an iron blade and a small bag containing a mixture of soils—clay, loam, and sand)</components>
         <duration>Concentration, up to 2 hours</duration>
-        <text>Choose an area of terrain no larger than 40 feet on a side within range. You can reshape dirt, sand, or clay in the area in any manner you choose for the duration. You can raise or lower the area's elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can't exceed half the area&apos;s largest dimension. So, if you affect a 40 foot square, you can create a pillar up to 20 feet high, raise or lower the square&apos;s elevation by up to 20 feet, dig a trench up to 20 feet deep, and so on. It takes 10 minutes for these changes to complete.
+        <text>Choose an area of terrain no larger than 40 feet on a side within range. You can reshape dirt, sand, or clay in the area in any manner you choose for the duration. You can raise or lower the area's elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can&apos;t exceed half the area&apos;s largest dimension. So, if you affect a 40 foot square, you can create a pillar up to 20 feet high, raise or lower the square&apos;s elevation by up to 20 feet, dig a trench up to 20 feet deep, and so on. It takes 10 minutes for these changes to complete.
 
     At the end of every 10 minutes you spend concentrating on the spell, you can choose a new area of terrain to affect.
 
@@ -4599,7 +4599,7 @@ An elemental summoned by this spell disappears when it drops to 0 hit points or 
         <range>Self</range>
         <components>V</components>
         <duration>1 minute</duration>
-        <text>You mentally contact a demigod, the spirit of a long dead sage, or some other mysterious entity from another plane. Contacting this extraplanar intelligence can strain or even break your mind. When you cast this spell, make a DC 15 Intelligence saving throw. On a failure, you take 6d6 psychic damage and are insane until you finish a long rest. While insane, you can't take actions, can&apos;t understand what other creatures say, can&apos;t read, and speak only in gibberish. A greater restoration spell cast on you ends this effect.
+        <text>You mentally contact a demigod, the spirit of a long dead sage, or some other mysterious entity from another plane. Contacting this extraplanar intelligence can strain or even break your mind. When you cast this spell, make a DC 15 Intelligence saving throw. On a failure, you take 6d6 psychic damage and are insane until you finish a long rest. While insane, you can&apos;t take actions, can&apos;t understand what other creatures say, can&apos;t read, and speak only in gibberish. A greater restoration spell cast on you ends this effect.
 
     On a successful save, you can ask the entity up to five questions. You must ask your questions before the spell ends. The GM answers each question with one word, such as “yes,” “no,” “maybe,” “never,” “irrelevant,” or “unclear” (if the entity doesn't know the answer to the question). If a one word answer would be misleading, the GM might instead offer a short phrase as an answer.</text>
         <classes>Warlock, Wizard</classes>
@@ -5506,7 +5506,7 @@ Each beast is also considered fey, and it disappears when it drops to 0 hit poin
         <range>60 feet</range>
         <components>V, S</components>
         <duration>Instantaneous</duration>
-        <text>You unleash a virulent disease on a creature that you can see within range. The target must make a Constitution saving throw. On a failed save, it takes 14d6 necrotic damage, or half as much damage on a successful save. The damage can't reduce the target&apos;s hit points below 1. If the target fails the saving throw, its hit point maximum is reduced for 1 hour by an amount equal to the necrotic damage it took. Any effect that removes a disease allows a creature&apos;s hit point maximum to return to normal before that time passes.</text>
+        <text>You unleash a virulent disease on a creature that you can see within range. The target must make a Constitution saving throw. On a failed save, it takes 14d6 necrotic damage, or half as much damage on a successful save. The damage can&apos;t reduce the target&apos;s hit points below 1. If the target fails the saving throw, its hit point maximum is reduced for 1 hour by an amount equal to the necrotic damage it took. Any effect that removes a disease allows a creature&apos;s hit point maximum to return to normal before that time passes.</text>
         <classes>Cleric</classes>
     </spell>
     <spell>
@@ -6244,7 +6244,7 @@ d100: Race
         <range>60 feet</range>
         <components>V, M (bat fur and a drop of pitch or piece of coal)</components>
         <duration>Concentration, up to 10 minutes</duration>
-        <text>Magical darkness spreads from a point you choose within range to fill a 15 foot radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can't see through this darkness, and nonmagical light can&apos;t illuminate it. If the point you choose is on an object you are holding or one that isn&apos;t being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness.
+        <text>Magical darkness spreads from a point you choose within range to fill a 15 foot radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can&apos;t see through this darkness, and nonmagical light can&apos;t illuminate it. If the point you choose is on an object you are holding or one that isn&apos;t being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness.
 
     If any of this spell's area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled.</text>
         <classes>Sorcerer, Warlock, Wizard</classes>
@@ -7605,7 +7605,7 @@ d10: Behavior
         <range>Special</range>
         <components>V, S, M (a handful of sand, a dab of ink, and a writing quill plucked from a sleeping bird)</components>
         <duration>8 hours</duration>
-        <text>This spell shapes a creature's dreams. Choose a creature known to you as the target of this spell. The target must be on the same plane of existence as you. Creatures that don't sleep, such as elves, can&apos;t be contacted by this spell. You, or a willing creature you touch, enters a trance state, acting as a messenger. While in the trance, the messenger is aware of his or her surroundings, but can&apos;t take actions or move.
+        <text>This spell shapes a creature's dreams. Choose a creature known to you as the target of this spell. The target must be on the same plane of existence as you. Creatures that don&apos;t sleep, such as elves, can&apos;t be contacted by this spell. You, or a willing creature you touch, enters a trance state, acting as a messenger. While in the trance, the messenger is aware of his or her surroundings, but can&apos;t take actions or move.
 
     If the target is asleep, the messenger appears in the target's dreams and can converse with the target as long as it remains asleep, through the duration of the spell. The messenger can also shape the environment of the dream, creating landscapes, objects, and other images. The messenger can emerge from the trance at any time, ending the effect of the spell early. The target recalls the dream perfectly upon waking. If the target is awake when you cast the spell, the messenger knows it, and can either end the trance (and the spell) or wait for the target to fall asleep, at which point the messenger appears in the target's dreams.
 
@@ -8542,7 +8542,7 @@ Wind. Stage: Condition
         <range>Touch</range>
         <components>V, S, M (mistletoe, a shamrock leaf, and a club or quarterstaff)</components>
         <duration>1 minute</duration>
-        <text>The wood of a club or quarterstaff you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon&apos;s damage die becomes a d8. The weapon also becomes magical, if it isn&apos;t already. The spell ends if you cast it again or if you let go of the weapon.</text>
+        <text>The wood of a club or quarterstaff you are holding is imbued with nature&apos;s power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon&apos;s damage die becomes a d8. The weapon also becomes magical, if it isn&apos;t already. The spell ends if you cast it again or if you let go of the weapon.</text>
         <classes>Druid</classes>
     </spell>
     <spell>
@@ -8780,7 +8780,7 @@ If you cast this spell multiple times, you can have up to three of its non insta
         <range>30 feet</range>
         <components>V, S, M (a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target)</components>
         <duration>Until dispelled</duration>
-        <text>You create a magical restraint to hold a creature that you can see within range. The target must succeed on a Wisdom saving throw or be bound by the spell; if it succeeds, it is immune to this spell if you cast it again. While affected by this spell, the creature doesn't need to breathe, eat, or drink, and it doesn&apos;t age. Divination spells can&apos;t locate or perceive the target.
+        <text>You create a magical restraint to hold a creature that you can see within range. The target must succeed on a Wisdom saving throw or be bound by the spell; if it succeeds, it is immune to this spell if you cast it again. While affected by this spell, the creature doesn&apos;t need to breathe, eat, or drink, and it doesn&apos;t age. Divination spells can&apos;t locate or perceive the target.
 
     When you cast the spell, you choose one of the following forms of imprisonment.
 
@@ -24343,7 +24343,7 @@ If you are able to cast spells, you can&#39;t cast them or concentrate on them w
             </feature>
             <feature optional="YES">
                 <name>Book of Ancient Secrets</name>
-                <text>You can now inscribe magical rituals in your Book o f Shadows. Choose two 1st-level spells that have the ritual tag from any class's spell list. The spells appear in the book and don't count against the number o f spells you know. With your Book o f Shadows in hand, you can cast the chosen spells as rituals. You can&apos;t cast the spells except as rituals, unless you&apos;ve learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.
+                <text>You can now inscribe magical rituals in your Book o f Shadows. Choose two 1st-level spells that have the ritual tag from any class's spell list. The spells appear in the book and don&apos;t count against the number o f spells you know. With your Book o f Shadows in hand, you can cast the chosen spells as rituals. You can&apos;t cast the spells except as rituals, unless you&apos;ve learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.
 
     On your adventures, you can add other ritual spells to your Book o f Shadows. When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level o f the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.</text>
             </feature>
@@ -24736,7 +24736,7 @@ If you are able to cast spells, you can&#39;t cast them or concentrate on them w
             <slots>0,4,3,3,3,1,0,0,0,0,</slots>
             <feature>
                 <name>Feral Senses</name>
-                <text>At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it. You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn&apos;t hidden from you and you aren&apos;t blinded or deafened.</text>
+                <text>At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn&apos;t impose disadvantage on your attack rolls against it. You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn&apos;t hidden from you and you aren&apos;t blinded or deafened.</text>
             </feature>
         </autolevel>
         <autolevel level="19" scoreImprovement="YES">
@@ -25583,7 +25583,7 @@ Beast Shapes:
         </trait>
         <trait>
             <name>Tool Proficiency</name>
-            <text>You gain proficiency with the artisan's tools of your choice: smith's tools, brewer&apos;s supplies, or mason&apos;s tools.</text>
+            <text>You gain proficiency with the artisan's tools of your choice: smith&apos;s tools, brewer&apos;s supplies, or mason&apos;s tools.</text>
         </trait>
         <trait>
             <name>Stonecunning</name>

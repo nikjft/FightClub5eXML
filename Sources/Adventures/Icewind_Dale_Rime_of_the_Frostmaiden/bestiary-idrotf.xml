@@ -575,7 +575,7 @@ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) pierc
 Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage.</text>
       <attack>Hooves|+6|2d4+4</attack>
     </action>
-    <description>A white moose is attacking loggers in the forest near Lonelywood. The town's logging industry is essential to the growth and survival of Ten-Towns, and Speaker Nimsy Huddle has assured the other speakers that Lonelywood&apos;s "moose problem" will be dealt with in short order. Hunters have been dispatched to kill the moose, but it has eluded them so far. From what the hunters have seen, their prey is smarter than the average moose, and its white hide makes it hard to spot in the snow. What they don&apos;t know is that the moose is using a magic mirror as a scrying device to show it where its enemies are.
+    <description>A white moose is attacking loggers in the forest near Lonelywood. The town&apos;s logging industry is essential to the growth and survival of Ten-Towns, and Speaker Nimsy Huddle has assured the other speakers that Lonelywood&apos;s "moose problem" will be dealt with in short order. Hunters have been dispatched to kill the moose, but it has eluded them so far. From what the hunters have seen, their prey is smarter than the average moose, and its white hide makes it hard to spot in the snow. What they don&apos;t know is that the moose is using a magic mirror as a scrying device to show it where its enemies are.
 
 Source:	Icewind Dale: Rime of the Frostmaiden p. 82</description>
     <environment/>
@@ -3057,7 +3057,7 @@ The fanatic is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spel
     </trait>
     <slots>0, 4, 3</slots>
     <spells>light, sacred flame, thaumaturgy, command, inflict wounds, shield of faith, hold person, spiritual weapon</spells>
-    <description>From this usurped office, he coordinates all cult activities in Ten-Towns. It's a role he carved out for himself by asserting that he's tight with Levistus. He rules the roost by sheer force of personality, though it chafes him that Hethyl Arkorran has more respect and influence within the cult. Kadroth doesn&apos;t involve Avarice in cult affairs because he fears her spellcasting ability and her connection to the Arcane Brotherhood. She could take over the cult anytime she wanted, and Kadroth doesn&apos;t want to give her any reason to do so.
+    <description>From this usurped office, he coordinates all cult activities in Ten-Towns. It's a role he carved out for himself by asserting that he&apos;s tight with Levistus. He rules the roost by sheer force of personality, though it chafes him that Hethyl Arkorran has more respect and influence within the cult. Kadroth doesn&apos;t involve Avarice in cult affairs because he fears her spellcasting ability and her connection to the Arcane Brotherhood. She could take over the cult anytime she wanted, and Kadroth doesn&apos;t want to give her any reason to do so.
 
 For all his political machinations, Kadroth is a visionary who has so far made the cult stronger through his actions and decisions. He spends hours behind his desk, staring into the burning fireplace and drawing inspiration from its crackling flames. The slightest disturbance upsets him.
 

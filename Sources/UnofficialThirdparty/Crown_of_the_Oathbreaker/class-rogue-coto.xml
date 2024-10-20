@@ -169,7 +169,7 @@ Source:	Crown of the Oathbreaker p. 895 (Homebrew)</text>
     <autolevel level="17">
       <feature optional="YES">
         <name>Umbral Stalker (HB): Umbral Strike</name>
-        <text>Starting at 17th level, you can attack a creature's life force through its shadow. When you are able to use your sneak attack, your target&apos;s AC against your attack becomes 10 + the creature&apos;s Dexterity modifier.
+        <text>Starting at 17th level, you can attack a creature&apos;s life force through its shadow. When you are able to use your sneak attack, your target&apos;s AC against your attack becomes 10 + the creature&apos;s Dexterity modifier.
 
 You can use this feature only if your target is in darkness.
 

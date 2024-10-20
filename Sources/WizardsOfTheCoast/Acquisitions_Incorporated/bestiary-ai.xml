@@ -900,7 +900,7 @@ Ranged Weapon Attack: +5 to hit, range 30/120 ft., one target. Hit: 6 (1d6 + 3) 
       <text>
 When Oak takes damage from a melee weapon attack, he can make a hooked dagger attack.</text>
     </reaction>
-    <description>Oak Truestrike is the "B" Team's decisionist-and, depending on who you talk to, a reincarnated demigod. (It&apos;s a long story.) Those who know him acknowledge his confidence, his arrogance, and his odd ability to engage with others by somehow saying exactly what each listener wants to hear. Whether this is some subtle magical ability or simply grifter&apos;s charm, he makes good use of it either way.
+    <description>Oak Truestrike is the "B" Team&apos;s decisionist-and, depending on who you talk to, a reincarnated demigod. (It&apos;s a long story.) Those who know him acknowledge his confidence, his arrogance, and his odd ability to engage with others by somehow saying exactly what each listener wants to hear. Whether this is some subtle magical ability or simply grifter&apos;s charm, he makes good use of it either way.
 
 Oak becomes a radically different person with each of his reincarnations, flipping between neutral good and neutral evil. His memories of past lives have been fractured by his many deaths, but he spends each new life accounting for the previous life in a karmic-ledger kind of way. His current incarnation embraces the good side. Mostly. Except for that occasional toxic bitterness. Oh, and the misanthropy. Actually, if you end up hating this guy, it's probably not your fault.
 
@@ -1032,7 +1032,7 @@ Pendragon is a 4th-level spellcaster. His spellcasting ability is Intelligence (
     </trait>
     <slots>0, 4, 3</slots>
     <spells>acid splash, light, mage hand, poison spray, shocking grasp, detect magic, mage armor, magic missile, sleep, blindness/deafness, cloud of daggers, scorching ray</spells>
-    <description>Able arcanist Pendragon Beestinger took over as "B" Team cartographer after Brahma Lutier left the group. In fact, his first assignment was to assist in the team's attempts to apprehend the wandering bard. An adopted child of the "C" Team's Rosie Beestinger, Pendragon is his mother's foil in almost every way-including his goal of wanting to mainstream some of the family&apos;s rumored criminal interests. Pendragon has, in fact, attempted to kill his mother-and been killed himself in the process. Despite his having been resurrected at Rosie&apos;s request, things remain cool between the two.
+    <description>Able arcanist Pendragon Beestinger took over as "B" Team cartographer after Brahma Lutier left the group. In fact, his first assignment was to assist in the team's attempts to apprehend the wandering bard. An adopted child of the "C" Team's Rosie Beestinger, Pendragon is his mother&apos;s foil in almost every way-including his goal of wanting to mainstream some of the family&apos;s rumored criminal interests. Pendragon has, in fact, attempted to kill his mother-and been killed himself in the process. Despite his having been resurrected at Rosie&apos;s request, things remain cool between the two.
 
 Pendragon was kicked out of wizarding school as a result of the dark rumors following the Beestinger clan. Now a self-taught mage, he specializes in making use of the dangerous spells and weird trinkets he often comes across in his role as a kind of arcane archaeologist. Seeking out the family feeling that an adventuring group provides keeps him in the "B" Team, even if that unfortunately comes with Oak Truestrike as a kind of father figure.
 
@@ -1365,7 +1365,7 @@ Splugoth remembers and repeats aloud a few words from a place he entered while w
       <text>
 When a creature Splugoth can see hits him with a melee weapon attack, the weapon snags on a pocket of residual resurrectional energy and is caught fast. The attack is negated and the weapon cannot be used until the creature succeeds on a DC 12 Strength (Athletics) check as an action to pull it out of Splugoth. Natural weapons can have their attacks negated by this feature, but can then be retracted automatically at the end of the attacking creature's turn.</text>
     </reaction>
-    <description>I'm going to give you a piece of advice. Don&apos;t trust Acquisitions Incorporated. And never, ever, ever trust Omin Dran. Wait, that&apos;s two pieces of advice. You owe me.
+    <description>I&apos;m going to give you a piece of advice. Don&apos;t trust Acquisitions Incorporated. And never, ever, ever trust Omin Dran. Wait, that&apos;s two pieces of advice. You owe me.
 
 Sometimes a goblin can't catch a break. First, you fall in with a cult that works for the release of a death god. Then you get taken prisoner by a group of sociopathic adventurers who end up letting you die after you save their sorry lives. One minute, you're a dead goblin named Splug. And then you're alive again, and it seems like a really good idea to play up the drama of resurrection with a cool new name-and a master plan for cold, cold revenge against those who betrayed you.
 

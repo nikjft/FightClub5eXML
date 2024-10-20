@@ -345,7 +345,7 @@ Source:	LaserLlama: Bard Colleges v2.1.0 p. 7 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>College of Fine Art (HB): Living Art</name>
-        <text>Your signature bardic magic can bring your artwork to life. You learn the find familiar spell, but it doesn't count against your total number of Spells Known. Though, you can only cast find familiar using calligrapher&apos;s supplies or painter&apos;s supplies as your spellcasting focus.
+        <text>Your signature bardic magic can bring your artwork to life. You learn the find familiar spell, but it doesn&apos;t count against your total number of Spells Known. Though, you can only cast find familiar using calligrapher&apos;s supplies or painter&apos;s supplies as your spellcasting focus.
 
 When you cast find familiar in this way, your familiar resembles a living two-dimensional piece of artwork. As an action, your familiar can flatten itself against any surface to appear as mundane art or graffiti. If a creature succeeds on an Intelligence (Investigation) check against your Spell Save DC it realizes that the artwork is a living familiar.
 

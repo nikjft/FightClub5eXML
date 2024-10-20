@@ -36,7 +36,7 @@ d12 | Monster Type
     </trait>
     <trait>
       <name>Feature: A Little Off</name>
-      <text>You have a reputation for being a little odd, almost as if you're uncomfortable in your own skin and around people. Whenever you act in a way that is strange or taboo, but not intentionally offensive, dangerous, or against the law, people tend to ignore you. This lets you get away with strange behavior like showing up at parties you weren't invited to, pushing through a crowd to shake a noble&apos;s hand, eating food off of someone else&apos;s plate, or taking a nap in a public place. Most people brush you off as weird, but harmless.</text>
+      <text>You have a reputation for being a little odd, almost as if you're uncomfortable in your own skin and around people. Whenever you act in a way that is strange or taboo, but not intentionally offensive, dangerous, or against the law, people tend to ignore you. This lets you get away with strange behavior like showing up at parties you weren&apos;t invited to, pushing through a crowd to shake a noble&apos;s hand, eating food off of someone else&apos;s plate, or taking a nap in a public place. Most people brush you off as weird, but harmless.</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
@@ -190,7 +190,7 @@ At the DM's discretion, this can be represented by allowing a farmer to cast com
     </trait>
     <trait>
       <name>Variant Feature: Work Until You Drop</name>
-      <text>Now when most think about a Farmer, they don't exactly think of some complete badass going out to slay dragons, rescue consistently imperiled nobility, and save the day. More often than not they&apos;re simply seen as peasant; background individuals that aren&apos;t much of a threat. However, they can be a lot tougher than expected.
+      <text>Now when most think about a Farmer, they don&apos;t exactly think of some complete badass going out to slay dragons, rescue consistently imperiled nobility, and save the day. More often than not they&apos;re simply seen as peasant; background individuals that aren&apos;t much of a threat. However, they can be a lot tougher than expected.
 
 As a Farmer, you aren't made to deal massive amount of damage right away. However, what you excel at is delivering constant damage and wearing an opponent out over time. You're used to playing the waiting game, and fighting creatures is no different for you. Every encounter with you is an endurance match that others don't often succeed in, as you are made to withstand quite a good deal of damage and frequently hinder your enemies.
 
@@ -391,7 +391,7 @@ Source:	DnDBeyond Unearthed Arcana (Homebrew)</text>
     </trait>
     <trait>
       <name>Variant Feature: Jaded</name>
-      <text>During your work, you've come across some truly twisted stuff, both people&apos;s actions and the people themselves. Some of which you experienced much more closely than you&apos;d probably have preferred. As such, precious little truly shocks you anymore. You tend to remain relatively calm and rational through events and scenes that leave others sick to their stomach.</text>
+      <text>During your work, you&apos;ve come across some truly twisted stuff, both people&apos;s actions and the people themselves. Some of which you experienced much more closely than you&apos;d probably have preferred. As such, precious little truly shocks you anymore. You tend to remain relatively calm and rational through events and scenes that leave others sick to their stomach.</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>

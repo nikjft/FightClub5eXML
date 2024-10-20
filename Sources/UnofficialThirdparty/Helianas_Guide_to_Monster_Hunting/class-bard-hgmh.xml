@@ -73,7 +73,7 @@ Source:	Heliana's Guide to Monster Hunting p. 177 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>College of Fleshweaving (HB): Malleable Visage</name>
-        <text>Years spent mending, shaping, and adapting flesh have given you a preternatural ability to modify your own body. You are proficient with surgeon's tools, which you can use as a spellcasting focus, and you know the alter self spell, which counts as a bard spell for you, but it doesn&apos;t count against the number of bard spells you know. Over the course of 1 minute, you can cast the spell without expending a spell slot, choosing only the Change Appearance option. When you cast the spell in this way, it doesn&apos;t require concentration.
+        <text>Years spent mending, shaping, and adapting flesh have given you a preternatural ability to modify your own body. You are proficient with surgeon&apos;s tools, which you can use as a spellcasting focus, and you know the alter self spell, which counts as a bard spell for you, but it doesn&apos;t count against the number of bard spells you know. Over the course of 1 minute, you can cast the spell without expending a spell slot, choosing only the Change Appearance option. When you cast the spell in this way, it doesn&apos;t require concentration.
 
 In addition, over the course of 10 minutes, you can use your surgeon's tools to change the appearance of a willing creature. It magically gains the benefits of the Change Appearance effect of the alter self spell, which lasts until it finishes a long rest. After you use your surgeon's tools in this way, you can't do so again until you finish a long rest.
 
@@ -119,7 +119,7 @@ Source:	Heliana's Guide to Monster Hunting p. 178 (Homebrew)</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>College of Fleshweaving (HB): Soulsew</name>
-        <text>When a creature uses one of your Bardic Inspiration dice, or fails a saving throw against your Suturer feature's Unspool or Acupuncture effects, it becomes &apos;soulsewn&apos; to you for 1 minute. While soulsewn, an ethereal thread connects you to this creature via a straight line that only you and creatures with truesight can see. This thread breaks if the creature is ever more than 100 feet away from you.
+        <text>When a creature uses one of your Bardic Inspiration dice, or fails a saving throw against your Suturer feature&apos;s Unspool or Acupuncture effects, it becomes &apos;soulsewn&apos; to you for 1 minute. While soulsewn, an ethereal thread connects you to this creature via a straight line that only you and creatures with truesight can see. This thread breaks if the creature is ever more than 100 feet away from you.
 
 Spool:
 You can use a bonus action to teleport to the nearest unoccupied space of a soulsewn creature of your choice, or attempt to switch places with a soulsewn creature. If the creature is unwilling to switch places, you must succeed on a contested Charisma check against the creature. On a success, or if the creature is willing, you and the target teleport, switching places with one another. If there is not enough space for either of you to switch places, you automatically lose the contest.

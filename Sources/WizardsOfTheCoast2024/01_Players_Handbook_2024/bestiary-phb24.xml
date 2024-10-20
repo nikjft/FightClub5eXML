@@ -52,7 +52,7 @@
     </action>
     <action>
       <name>Claw (Slaad Only)</name>
-      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d10 + 3 + the spell's level Slashing damage, and the target can&apos;t regain Hit Points until the start of the spirit&apos;s next turn.</text>
+      <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d10 + 3 + the spell&apos;s level Slashing damage, and the target can&apos;t regain Hit Points until the start of the spirit&apos;s next turn.</text>
       <attack>Claw|0|1d10+3</attack>
     </action>
     <action>
@@ -1460,7 +1460,7 @@ The spirit fills a 10-foot Cube within 5 feet of it with magical Darkness, which
     </action>
     <action>
       <name>Web Bolt (Spider Only)</name>
-      <text>Ranged Attack Roll: Bonus equals your spell attack modifier, range 60 ft. Hit: 1d10 + 3 + the spell's level Bludgeoning damage, and the target&apos;s Speed is reduced to 0 until the start of the insect&apos;s next turn.</text>
+      <text>Ranged Attack Roll: Bonus equals your spell attack modifier, range 60 ft. Hit: 1d10 + 3 + the spell&apos;s level Bludgeoning damage, and the target&apos;s Speed is reduced to 0 until the start of the insect&apos;s next turn.</text>
       <attack>Web Bolt|0|1d10+3</attack>
     </action>
     <action>

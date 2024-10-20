@@ -228,7 +228,7 @@ Rite of the Roar: Your rite damage is thunder damage.</text>
     <autolevel level="3">
       <feature>
         <name>Blood Hunter Order</name>
-        <text>There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted acess to the Hunter's Bane rite that starts their journey, and only once they&apos;ve proven their dedication and ability will the secrets of the order begin to be revealed. It&apos;s within these small, enigmatic sects that the real power of a blood hunter is learned.
+        <text>There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted acess to the Hunter&apos;s Bane rite that starts their journey, and only once they&apos;ve proven their dedication and ability will the secrets of the order begin to be revealed. It&apos;s within these small, enigmatic sects that the real power of a blood hunter is learned.
 
 At 3rd level, you commit to an order of blood hunter martial focus. Choose Order of the Ghostslayer, Order of the Profane Soul, Order of the Mutant, or Order of the Lycan. The order you choose grants you features at 3rd level, and again at 7th, 11th, 15th, and 18th level.</text>
       </feature>
@@ -267,7 +267,7 @@ Rite of the Dawn: Your rite damage is radiant damage. While the rite is active, 
     <autolevel level="3">
       <feature optional="YES">
         <name>Order of the Profane Soul: Otherworldly Patron</name>
-        <text>When you reach 3rd level, you strike a bargain with an otherworldly being of your choice: the Archfey, the Fiend, or the Great Old One, each detailed in the Player's Handbook, the Undying within the Sword Coast Adventurer&apos;s Guide, and the Celestial or Hexblade in Xanathar&apos;s Guide to Everything. Your choice augments some of your order features.</text>
+        <text>When you reach 3rd level, you strike a bargain with an otherworldly being of your choice: the Archfey, the Fiend, or the Great Old One, each detailed in the Player&apos;s Handbook, the Undying within the Sword Coast Adventurer&apos;s Guide, and the Celestial or Hexblade in Xanathar&apos;s Guide to Everything. Your choice augments some of your order features.</text>
       </feature>
     </autolevel>
     <autolevel level="3">

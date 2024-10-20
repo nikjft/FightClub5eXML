@@ -73,7 +73,7 @@ Source:	Unearthed Arcana: Warlock And Wizard p. 5</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Lore Mastery (UA): Master of Magic</name>
-        <text>At 14th level, your knowledge of magic allows you to duplicate almost any spell. As a bonus action, you can call to mind the ability to cast one spell of your choice from any class's spell list. The spell must be of a level for which you have spell slots, you mustn&apos;t have it prepared, and you follow the normal rules for casting it, including expending a spell slot. If the spell isn&apos;t a wizard spell, it counts as a wizard spell when you cast it. The ability to cast the spell vanishes from your mind when you cast it or when the current turn ends.
+        <text>At 14th level, your knowledge of magic allows you to duplicate almost any spell. As a bonus action, you can call to mind the ability to cast one spell of your choice from any class&apos;s spell list. The spell must be of a level for which you have spell slots, you mustn&apos;t have it prepared, and you follow the normal rules for casting it, including expending a spell slot. If the spell isn&apos;t a wizard spell, it counts as a wizard spell when you cast it. The ability to cast the spell vanishes from your mind when you cast it or when the current turn ends.
 
 You can't use this feature again until you finish a long rest.
 

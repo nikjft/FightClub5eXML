@@ -1384,7 +1384,7 @@ Source:	Heliana's Guide to Monster Hunting p. 513 (Homebrew)</text>
     <components>V, S, M (a quiver containing at least
 one piece of ammunition)</components>
     <classes>School: Transmutation, Druid, Ranger</classes>
-    <text>You touch a quiver containing arrows or bolts, imbuing the ammunition currently in it with the spirit of a creature, plant, or fungus. For the duration, any creature hit (or in the case of 'Hawk&apos;, targeted) by one of the pieces of ammunition is subject to the effect of the spirit currently imbuing the quiver (see below), in addition to the attack&apos;s normal effects. As a bonus action, you can change which spirit imbues the quiver.
+    <text>You touch a quiver containing arrows or bolts, imbuing the ammunition currently in it with the spirit of a creature, plant, or fungus. For the duration, any creature hit (or in the case of &apos;Hawk&apos;, targeted) by one of the pieces of ammunition is subject to the effect of the spirit currently imbuing the quiver (see below), in addition to the attack&apos;s normal effects. As a bonus action, you can change which spirit imbues the quiver.
 
 Cat:
 The target takes an additional 1d6 slashing damage. If the attack roll was made with advantage, the additional damage is increased to 2d6.

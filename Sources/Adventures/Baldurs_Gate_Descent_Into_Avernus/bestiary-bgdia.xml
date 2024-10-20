@@ -103,7 +103,7 @@ Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one ta
       <text>
 Amrik hurls a smoke bomb up to 20 feet away. The bomb explodes on impact, creating a cloud of black smoke that fills a 10-foot-radius sphere. The area within the cloud is heavily obscured. A strong wind disperses the cloud, which otherwise remains until the end of Amrik's next turn.</text>
     </action>
-    <description>Second son of Duke Thalamra Vanthampur of Baldur's Gate. Amrik loves to exchange pleasantries over drinks before conducting business. He has trained Laraelra's staff to recognize a variety of innocuous hand gestures that signal them to deliver drinks to the table. If he wants poison added to his clients&apos; drinks, he has a secret sign for that. Hidden behind the bar is a small bottle containing four doses of torpor (see "Poisons" in chapter 8 of the Dungeon Master&apos;s Guide), which the kenku bartender can use to spike drinks when Amrik gives the signal.
+    <description>Second son of Duke Thalamra Vanthampur of Baldur's Gate. Amrik loves to exchange pleasantries over drinks before conducting business. He has trained Laraelra&apos;s staff to recognize a variety of innocuous hand gestures that signal them to deliver drinks to the table. If he wants poison added to his clients&apos; drinks, he has a secret sign for that. Hidden behind the bar is a small bottle containing four doses of torpor (see "Poisons" in chapter 8 of the Dungeon Master&apos;s Guide), which the kenku bartender can use to spike drinks when Amrik gives the signal.
 
 Source:	Baldur's Gate: Descent Into Avernus p. 30</description>
     <environment/>
@@ -981,7 +981,7 @@ Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit: 44 (10d6 + 9) pi
       <text>
 Crokek'toeck opens its mouth and disgorges 1d4 barlgura, 3d6 gnoll led by 1 gnoll fang of Yeenoghu, 6d6 dretch, or 1d3 vrock. Each creature it disgorges appears in an unoccupied space within 30 feet of Crokek'toeck's mouth, or the next closest unoccupied space.</text>
     </action>
-    <description>Crokek'toeck is Yeenoghu's demonic pet. Resembling a giant mudskipper with the teeth, fur, ears, and laugh of a hyena, this unique demon can hold smaller demons in its gullet and disgorge them anywhere Yeenoghu wishes. Immune to the mind-shattering effects of the River Styx, Crokek&apos;toeck is often used to transport smaller demons (and sometimes Yeenoghu himself) through the Styx&apos;s terrible waters.
+    <description>Crokek'toeck is Yeenoghu&apos;s demonic pet. Resembling a giant mudskipper with the teeth, fur, ears, and laugh of a hyena, this unique demon can hold smaller demons in its gullet and disgorge them anywhere Yeenoghu wishes. Immune to the mind-shattering effects of the River Styx, Crokek&apos;toeck is often used to transport smaller demons (and sometimes Yeenoghu himself) through the Styx&apos;s terrible waters.
 
 Source:	Baldur's Gate: Descent Into Avernus p. 231</description>
     <environment/>
@@ -1318,7 +1318,7 @@ Feonor is an 18th-level spellcaster. Its spellcasting ability is Intelligence (s
     </trait>
     <slots>0, 4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
     <spells>disguise self, invisibility, fire bolt, light, mage hand, prestidigitation, shocking grasp, detect magic, identify, mage armor, magic missile, detect thoughts, mirror image, misty step, counterspell, fly, lightning bolt, banishment, fire shield, stoneskin, cone of cold, scrying, wall of force, globe of invulnerability, teleport, mind blank, time stop</spells>
-    <description>Feonor is a willowy archmage with milky-white eyes and a parasol made of bones and human flesh. Her rivals know her as a powerful necromancer. They suspect that she fled the Material Plane to escape some horrible fate, but the truth is she was invited to Avernus by Mahadi, the rakshasa master of the Wandering Emporium. During a visit to Feonor's world, Mahadi fell head-over-heels in love with her zombie-like indifference. Not long after arriving in Avernus, Feonor grew bored of Mahadi&apos;s attempts to impress her. Without so much as a farewell, she took to the Avernian wastes on one of the rakshasa&apos;s infernal war machines and never looked back. Years later, Mahacli still refers to her as "the one the got away."
+    <description>Feonor is a willowy archmage with milky-white eyes and a parasol made of bones and human flesh. Her rivals know her as a powerful necromancer. They suspect that she fled the Material Plane to escape some horrible fate, but the truth is she was invited to Avernus by Mahadi, the rakshasa master of the Wandering Emporium. During a visit to Feonor&apos;s world, Mahadi fell head-over-heels in love with her zombie-like indifference. Not long after arriving in Avernus, Feonor grew bored of Mahadi&apos;s attempts to impress her. Without so much as a farewell, she took to the Avernian wastes on one of the rakshasa&apos;s infernal war machines and never looked back. Years later, Mahacli still refers to her as "the one the got away."
 
 The scowl on Feonor's face hints at her constant annoyance with the multiverse around her. She prefers not to speak, and when she does. it's typicaUy only in whispers, her short sentences interspersed and punctuated with frustrated sighs.
 

@@ -6,7 +6,7 @@
     <proficiency>Constitution, Intelligence, Arcana, History, Investigation, Medicine, Nature, Perception, Sleight Of Hand</proficiency>
     <armor>light armor, medium armor, shields</armor>
     <weapons>simple weapons, hand crossbows, heavy crossbows</weapons>
-    <tools>thieves' tools, tinker&apos;s tools, one type of artisan&apos;s tools of your choice</tools>
+    <tools>thieves&apos; tools, tinker&apos;s tools, one type of artisan&apos;s tools of your choice</tools>
     <wealth>5d4x10</wealth>
     <numSkills>2</numSkills>
     <spellAbility>Intelligence</spellAbility>
@@ -81,7 +81,7 @@ Source:	Unearthed Arcana: Artificer Revisited p. 1</text>
     <autolevel level="1">
       <feature>
         <name>Magical Tinkering</name>
-        <text>At 1st level, you learn how to invest a spark of magic in objects that would otherwise be mundane. To use this ability, you must have thieves' tools, tinker&apos;s tools, or other artisan&apos;s tools in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:
+        <text>At 1st level, you learn how to invest a spark of magic in objects that would otherwise be mundane. To use this ability, you must have thieves&apos; tools, tinker&apos;s tools, or other artisan&apos;s tools in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:
 
 	• The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
 	• Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.
@@ -370,7 +370,7 @@ Source:	Unearthed Arcana: Artificer Revisited p. 7</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Archivist: The First Warforged Minds</name>
-        <text>Warforged were originally created by House Cannith to fight as subservient beings, having limited self-awareness. The development of the autonomous warforged consciousness has been presented as an accidental breakthrough. However, rumors abound that it was the work of pioneering archivist Aaren d'Cannith, who planted the seed of autonomy in the warforged mind. This fact is now difficult to verify, for the development team&apos;s records were destroyed and Aaren d&apos;Cannith disappeared under mysterious circumstances. Many believe that Aaren is still determined to help the warforged evolve and that he might be working with the sinister Lord of Blades.
+        <text>Warforged were originally created by House Cannith to fight as subservient beings, having limited self-awareness. The development of the autonomous warforged consciousness has been presented as an accidental breakthrough. However, rumors abound that it was the work of pioneering archivist Aaren d&apos;Cannith, who planted the seed of autonomy in the warforged mind. This fact is now difficult to verify, for the development team&apos;s records were destroyed and Aaren d&apos;Cannith disappeared under mysterious circumstances. Many believe that Aaren is still determined to help the warforged evolve and that he might be working with the sinister Lord of Blades.
 
 Source:	Unearthed Arcana: Artificer Revisited p. 7</text>
       </feature>
@@ -722,7 +722,7 @@ Source:	Unearthed Arcana: Artificer Revisited p. 7</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Artillerist: Wand Prototype</name>
-        <text>By 6th level, you now regularly experiment with channeling different types of magic through wands. Whenever you finish a long rest and your woodcarver's tools are with you, you can touch a nonmagical, wooden wand and turn it into a magic item. When you do so, you invest it with one artificer cantrip of your choice—even one you don&apos;t know—that has a casting time of 1 action. As an action, you can cause the magic wand to produce the cantrip, using your spellcasting ability modifier (other creatures are unable to use the wand&apos;s magic). The wand loses this magic when you finish your next long rest.
+        <text>By 6th level, you now regularly experiment with channeling different types of magic through wands. Whenever you finish a long rest and your woodcarver&apos;s tools are with you, you can touch a nonmagical, wooden wand and turn it into a magic item. When you do so, you invest it with one artificer cantrip of your choice—even one you don&apos;t know—that has a casting time of 1 action. As an action, you can cause the magic wand to produce the cantrip, using your spellcasting ability modifier (other creatures are unable to use the wand&apos;s magic). The wand loses this magic when you finish your next long rest.
 
 Any damage roll you make for a cantrip in the wand gains a bonus equal to your Intelligence modifier (minimum of +1).
 

@@ -2085,7 +2085,7 @@ Dag'drirath magically calls 2d4 swarms of bats or rats, provided that the sun is
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
       <recharge>3/Turn</recharge>
-      <text>Dag'drirath can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature&apos;s turn. Dag&apos;drirath regains spent legendary actions at the start of its turn.</text>
+      <text>Dag&apos;drirath can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature&apos;s turn. Dag&apos;drirath regains spent legendary actions at the start of its turn.</text>
     </legendary>
     <legendary>
       <name>Move</name>
@@ -2102,7 +2102,7 @@ Dag'drirath makes one talon attack</text>
       <text>
 Dag'drirath makes one bite or beak attack.</text>
     </legendary>
-    <description>The Blood Queen, Faeryl Myrryn, a drow conjurer vampire servant of Orcus, infected Dag'drirath, a vrock, with vampirism during the early years of her experiments. The demon gained new powers and rose above its demonkin but it soon found out that it also acquired new weaknesses. The Blood Queen tasked Dag&apos;drirath with a mission on the Material Plane. However, the undead demon failed and soon found itself trapped in a ruby in the dwarven mining caverns of Darkstone. Some dwarven miners unearthed the treasure that was its prison and have inadvertently released Dag&apos;drirath, but it is still bound by the ruby and confined to the area of the mine. Its most coveted goal is becoming free again and returning to the Abyss.
+    <description>The Blood Queen, Faeryl Myrryn, a drow conjurer vampire servant of Orcus, infected Dag&apos;drirath, a vrock, with vampirism during the early years of her experiments. The demon gained new powers and rose above its demonkin but it soon found out that it also acquired new weaknesses. The Blood Queen tasked Dag&apos;drirath with a mission on the Material Plane. However, the undead demon failed and soon found itself trapped in a ruby in the dwarven mining caverns of Darkstone. Some dwarven miners unearthed the treasure that was its prison and have inadvertently released Dag&apos;drirath, but it is still bound by the ruby and confined to the area of the mine. Its most coveted goal is becoming free again and returning to the Abyss.
 
 Source:	Crown of the Oathbreaker p. 767 (Homebrew)</description>
     <environment/>
@@ -3067,7 +3067,7 @@ When an attacker that Gren can see hits him with an attack, he can use his react
     </reaction>
     <spells>guidance, message, true strike, bane, charm person, cure wounds, heroism, sleep</spells>
     <slots>0, 3</slots>
-    <description>The largest of the Uncanny Vagabonds, Gren, a serious but cheerful young man, has gained fame and reputation within the ranks of his family with his daring approach to problems and his skills as an entertainer. He never knew his father, and he was only a young boy when his mother, an exceptionally beautiful woman, died. On her deathbed, she told the family that Gren's father was none other than King Waldrann Azennar, and she proved it with a love letter that the king wrote to her almost a decade ago. The letter proved genuine, but it only proves that Gren&apos;s mother and the king had an affair. The Uncanny Vagabonds couldn&apos;t care less, and they know that whatever proof they had would never be enough to turn Gren into royalty. They consider the option as one of their amusing stories and keep calling Gren "Your highness" for the fun of it.
+    <description>The largest of the Uncanny Vagabonds, Gren, a serious but cheerful young man, has gained fame and reputation within the ranks of his family with his daring approach to problems and his skills as an entertainer. He never knew his father, and he was only a young boy when his mother, an exceptionally beautiful woman, died. On her deathbed, she told the family that Gren&apos;s father was none other than King Waldrann Azennar, and she proved it with a love letter that the king wrote to her almost a decade ago. The letter proved genuine, but it only proves that Gren&apos;s mother and the king had an affair. The Uncanny Vagabonds couldn&apos;t care less, and they know that whatever proof they had would never be enough to turn Gren into royalty. They consider the option as one of their amusing stories and keep calling Gren "Your highness" for the fun of it.
 
 Equipment:
 Gren has 13 copper pieces, 3 silver pieces, 21 gold pieces, a +1 longsword, and a potion of healing on his person.

@@ -83,7 +83,7 @@ Source:	Player's Handbook 2024 p. 222</text>
     <magic/>
     <weight>2</weight>
     <value>0.1</value>
-    <text>Light: When you take the Attack action on your turn and. attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack&apos;s damage unless that modifier is negative. For example, you can attack with a Shortsword in one hand and a Dagger in the other using the Attack action and a Bonus Action, but you don&apos;t add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
+    <text>Light: When you take the Attack action on your turn and. attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don&apos;t add your ability modifier to the extra attack&apos;s damage unless that modifier is negative. For example, you can attack with a Shortsword in one hand and a Dagger in the other using the Attack action and a Bonus Action, but you don&apos;t add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
 
 Slow (Mastery): If you hit a creature with this weapon and deal damage to it, you can reduce its Speed by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction doesn't exceed 10 feet.
 
@@ -133,7 +133,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>2</weight>
     <value>5</value>
-    <text>Light: When you take the Attack action on your turn and. attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack&apos;s damage unless that modifier is negative. For example, you can attack with a Shortsword in one hand and a Dagger in the other using the Attack action and a Bonus Action, but you don&apos;t add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
+    <text>Light: When you take the Attack action on your turn and. attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don&apos;t add your ability modifier to the extra attack&apos;s damage unless that modifier is negative. For example, you can attack with a Shortsword in one hand and a Dagger in the other using the Attack action and a Bonus Action, but you don&apos;t add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
 
 Thrown: If a weapon has the Thrown property, you can throw the weapon to make a ranged attack, and you can draw that weapon as part of the attack. If the weapon is a Melee weapon, use the same ability modifier for the attack and damage rolls that you use for a melee attack with that weapon.
 
@@ -167,7 +167,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>2</weight>
     <value>2</value>
-    <text>Light: When you take the Attack action on your turn and. attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack&apos;s damage unless that modifier is negative. For example, you can attack with a Shortsword in one hand and a Dagger in the other using the Attack action and a Bonus Action, but you don&apos;t add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
+    <text>Light: When you take the Attack action on your turn and. attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don&apos;t add your ability modifier to the extra attack&apos;s damage unless that modifier is negative. For example, you can attack with a Shortsword in one hand and a Dagger in the other using the Attack action and a Bonus Action, but you don&apos;t add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
 
 Thrown: If a weapon has the Thrown property, you can throw the weapon to make a ranged attack, and you can draw that weapon as part of the attack. If the weapon is a Melee weapon, use the same ability modifier for the attack and damage rolls that you use for a melee attack with that weapon.
 
@@ -213,7 +213,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>2</weight>
     <value>1</value>
-    <text>Light: When you take the Attack action on your turn and. attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack&apos;s damage unless that modifier is negative. For example, you can attack with a Shortsword in one hand and a Dagger in the other using the Attack action and a Bonus Action, but you don&apos;t add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
+    <text>Light: When you take the Attack action on your turn and. attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don&apos;t add your ability modifier to the extra attack&apos;s damage unless that modifier is negative. For example, you can attack with a Shortsword in one hand and a Dagger in the other using the Attack action and a Bonus Action, but you don&apos;t add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
 
 Nick (Mastery): When you make the extra attack of the Light property, you can make it as part of the Attack action in· stead of as a Bonus Action. You can make this extra attack only once per turn.
 
@@ -346,7 +346,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>6</weight>
     <value>20</value>
-    <text>Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it&apos;s a Ranged weapon and  your Dexterity score isn&apos;t at least 13.
+    <text>Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn&apos;t at least 13 or if it&apos;s a Ranged weapon and  your Dexterity score isn&apos;t at least 13.
 
 Reach: A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for Opportunity Attacks with it.
 
@@ -365,7 +365,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>7</weight>
     <value>30</value>
-    <text>Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it&apos;s a Ranged weapon and  your Dexterity score isn&apos;t at least 13.
+    <text>Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn&apos;t at least 13 or if it&apos;s a Ranged weapon and  your Dexterity score isn&apos;t at least 13.
 
 Two-Handed: A Two-Handed weapon requires two hands when you attack with it.
 
@@ -382,7 +382,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>6</weight>
     <value>50</value>
-    <text>Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it&apos;s a Ranged weapon and  your Dexterity score isn&apos;t at least 13.
+    <text>Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn&apos;t at least 13 or if it&apos;s a Ranged weapon and  your Dexterity score isn&apos;t at least 13.
 
 Two-Handed: A Two-Handed weapon requires two hands when you attack with it.
 
@@ -399,7 +399,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>6</weight>
     <value>20</value>
-    <text>Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it&apos;s a Ranged weapon and  your Dexterity score isn&apos;t at least 13.
+    <text>Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn&apos;t at least 13 or if it&apos;s a Ranged weapon and  your Dexterity score isn&apos;t at least 13.
 
 Reach: A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for Opportunity Attacks with it.
 
@@ -455,7 +455,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>10</weight>
     <value>10</value>
-    <text>Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it&apos;s a Ranged weapon and  your Dexterity score isn&apos;t at least 13.
+    <text>Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn&apos;t at least 13 or if it&apos;s a Ranged weapon and  your Dexterity score isn&apos;t at least 13.
 
 Two-Handed: A Two-Handed weapon requires two hands when you attack with it.
 
@@ -484,7 +484,7 @@ Source:	Player's Handbook 2024 p. 215</text>
     <magic/>
     <weight>18</weight>
     <value>5</value>
-    <text>Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it&apos;s a Ranged weapon and  your Dexterity score isn&apos;t at least 13.
+    <text>Heavy: You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn&apos;t at least 13 or if it&apos;s a Ranged weapon and  your Dexterity score isn&apos;t at least 13.
 
 Reach: A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for Opportunity Attacks with it.
 

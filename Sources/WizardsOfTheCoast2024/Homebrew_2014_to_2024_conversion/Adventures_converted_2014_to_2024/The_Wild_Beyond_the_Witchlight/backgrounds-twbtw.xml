@@ -33,7 +33,7 @@ d8 | Fey Mark
     </trait>
     <trait>
       <name>Feywild Visitor</name>
-      <text>Whenever you're sound asleep or in a deep trance during a long rest, a spirit of the Feywild might pay you a visit, if the DM wishes it. Determine the spirit's form by rolling on the Feywild Visitor table. No harm ever comes to you as a result of such visits, which can last for minutes or hours, and you remember each visit when you wake up. Conversations that occur with a visitor can contain any number of things, from messages and insights to nonsense and red herrings, at the DM&apos;s discretion. Such conversations are always conducted in a language you can understand, even if the Feywild visitor can&apos;t speak that language normally.
+      <text>Whenever you're sound asleep or in a deep trance during a long rest, a spirit of the Feywild might pay you a visit, if the DM wishes it. Determine the spirit&apos;s form by rolling on the Feywild Visitor table. No harm ever comes to you as a result of such visits, which can last for minutes or hours, and you remember each visit when you wake up. Conversations that occur with a visitor can contain any number of things, from messages and insights to nonsense and red herrings, at the DM&apos;s discretion. Such conversations are always conducted in a language you can understand, even if the Feywild visitor can&apos;t speak that language normally.
 
 Feywild Visitor:
 d8 | Visitor
@@ -113,7 +113,7 @@ Source:	The Wild Beyond the Witchlight p. 11</text>
     </trait>
     <trait>
       <name>Carnival Companion</name>
-      <text>Over the years, you have earned the friendship of another carnival fixture. Roll a d8 and consult the Carnival Companion table to determine whom or what you've befriended, or you can choose an option that you like. Work with your DM to flesh out this friendship. This companion hangs around you while you&apos;re in the carnival, but it won&apos;t voluntarily leave the carnival.
+      <text>Over the years, you have earned the friendship of another carnival fixture. Roll a d8 and consult the Carnival Companion table to determine whom or what you&apos;ve befriended, or you can choose an option that you like. Work with your DM to flesh out this friendship. This companion hangs around you while you&apos;re in the carnival, but it won&apos;t voluntarily leave the carnival.
 
 The DM can use the Witchlight hand stat block in chapter 1 to represent hands, performers, and animal trainers who serve as carnival companions. Statistics for the other companions appear in the Monster Manual.
 

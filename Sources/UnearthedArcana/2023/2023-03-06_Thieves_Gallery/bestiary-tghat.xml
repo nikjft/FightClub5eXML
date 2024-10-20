@@ -99,7 +99,7 @@ When Doric is damaged by a creature that she can see within 60 feet of herself, 
     <passive>13</passive>
     <languages>Common</languages>
     <cr>5</cr>
-    <description>Edgin Darvis has a talent for improvisation and strategy. He's a musician and tale-teller who relies on charisma first—rather than magic or muscle—to escape trouble. Once a member of the Harpers, a spy organization dedicated to protecting Faerûn&apos;s common folk, Edgin has forsworn his oath and turned to thievery to support his family. Edgin&apos;s strong moral compass compels him to steal only from people he believes deserve to lose both coin and face.
+    <description>Edgin Darvis has a talent for improvisation and strategy. He&apos;s a musician and tale-teller who relies on charisma first—rather than magic or muscle—to escape trouble. Once a member of the Harpers, a spy organization dedicated to protecting Faerûn&apos;s common folk, Edgin has forsworn his oath and turned to thievery to support his family. Edgin&apos;s strong moral compass compels him to steal only from people he believes deserve to lose both coin and face.
 
 Edgin's confidence and rakish demeanor make him a natural leader. With carefully chosen words, he inspires the members of his thieves' crew to greatness. But when his past mistakes come calling, Edgin must face the music. He now seeks to make amends to those he's wronged and to confront those who have wronged him.
 
@@ -450,7 +450,7 @@ Sofina magically calls down a meteor swarm that detonates in four 40-foot-radius
       <text>
 Sofina magically summons the spirit of a Thayan assassin, which appears as a wraith (see the Monster Manual). The summoned wraith appears in an unoccupied space within 60 feet of Sofina, whom it obeys. The summoned wraith takes its turn immediately after Sofina. It lasts for 1 hour, until it or Sofina dies, or until Sofina dismisses it as a bonus action.</text>
     </action>
-    <spells>mage hand, message, prestidigitation, bestow curse, Bigby's hand, dimension door, mage armor, Otiluke&apos;s resilient sphere, thunderwave, Evard&apos;s black tentacles, finger of death, time stop</spells>
+    <spells>mage hand, message, prestidigitation, bestow curse, Bigby&apos;s hand, dimension door, mage armor, Otiluke&apos;s resilient sphere, thunderwave, Evard&apos;s black tentacles, finger of death, time stop</spells>
   </monster>
   <monster>
     <name>Xenk Yendar</name>

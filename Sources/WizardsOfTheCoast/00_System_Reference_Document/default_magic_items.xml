@@ -300,7 +300,7 @@
     <item>
         <name>Circlet of Blasting</name>
         <type>W</type><magic>YES</magic><detail>uncommon</detail>
-        <text>While wearing this circlet, you can use an action to cast the scorching ray spell with it. When you make the spell's attacks, you do so with an attack bonus of +5&apos;. The circlet can&apos;t be used this way again until the next dawn.</text>
+        <text>While wearing this circlet, you can use an action to cast the scorching ray spell with it. When you make the spell&apos;s attacks, you do so with an attack bonus of +5&apos;. The circlet can&apos;t be used this way again until the next dawn.</text>
     </item>
     
     <item>
@@ -352,7 +352,7 @@
         <text>The typical crystal ball, a very rare item, is about 6 inches in diameter. While touching it, you can cast the scrying spell (save DC 17) with it.</text>
         <text>    The following crystal ball variants are legendary items and have additional properties.</text>
         <text>    Crystal Ball of Mind Reading. You can use an action to cast the detect thoughts spell (save DC 17) while you are scrying with the crystal ball, targeting creatures you can see within 30 feet of the spell&apos;s sensor. You don&apos;t need to concentrate on this detect thoughts to maintain it during its duration, but it ends if scrying ends.</text>
-        <text>    Crystal Ball of Telepathy. While scrying with the crystal ball, you can communicate telepathically with creatures you can see within 30 feet of the spell's sensor. You can also use an action to cast the suggestion spell (save DC 17) through the sensor on one of those creatures. You don&apos;t need to concentrate on this suggestion to maintain it during its duration, but it ends if scrying ends. Once used, the suggestion power of the crystal ball can&apos;t be used again until the next dawn.</text>
+        <text>    Crystal Ball of Telepathy. While scrying with the crystal ball, you can communicate telepathically with creatures you can see within 30 feet of the spell&apos;s sensor. You can also use an action to cast the suggestion spell (save DC 17) through the sensor on one of those creatures. You don&apos;t need to concentrate on this suggestion to maintain it during its duration, but it ends if scrying ends. Once used, the suggestion power of the crystal ball can&apos;t be used again until the next dawn.</text>
         <text>    Crystal Ball of True Seeing. While scrying with the crystal ball, you have truesight with a radius of 120 feet centered on the spell&apos;s sensor.</text>
     </item>
     
@@ -360,7 +360,7 @@
         <name>Cube of Force</name>
         <type>W</type><magic>YES</magic><detail>rare (requires attunement)</detail>
         <text>This cube is about an inch across. Each face has a distinct marking on it that can be pressed. The cube starts with 36 charges, and it regains 1d20 expended charges daily at dawn.</text>
-        <text>    You can use an action to press one of the cube's faces, expending a number of charges based on the chosen face, as shown in the Cube of Force Faces table. Each face has a different effect. If the cube has insufficient charges remaining, nothing happens. Otherwise, a barrier of invisible force springs into existence, forming a cube 15 feet on a side. The barrier is centered on you, moves with you, and lasts for 1 minute, until you use an action to press the cube's sixth face, or the cube runs out of charges. You can change the barrier's effect by pressing a different face of the cube and expending the requisite number of charges, resetting the duration. If your movement causes the barrier to come into contact with a solid object that can&apos;t pass through the cube, you can&apos;t move any closer to that object as long as the barrier remains.</text>
+        <text>    You can use an action to press one of the cube's faces, expending a number of charges based on the chosen face, as shown in the Cube of Force Faces table. Each face has a different effect. If the cube has insufficient charges remaining, nothing happens. Otherwise, a barrier of invisible force springs into existence, forming a cube 15 feet on a side. The barrier is centered on you, moves with you, and lasts for 1 minute, until you use an action to press the cube's sixth face, or the cube runs out of charges. You can change the barrier&apos;s effect by pressing a different face of the cube and expending the requisite number of charges, resetting the duration. If your movement causes the barrier to come into contact with a solid object that can&apos;t pass through the cube, you can&apos;t move any closer to that object as long as the barrier remains.</text>
         <text>    The cube loses charges when the barrier is targeted by certain spells or comes into contact with certain spell or magic item effects, as shown in the table below.</text>
     </item>
     
@@ -426,7 +426,7 @@
         <text>    Key. A rare or rarer magic weapon with which you are proficient appears in your hands. The DM chooses the weapon.</text>
         <text>    Knight. You gain the service of a 4th-level fighter who appears in a space you choose within 30 feet of you. The fighter is of the same race as you and serves you loyally until death, believing the fates have drawn him or her to you. You control this character.</text>
         <text>    Moon. You are granted the ability to cast the wish spell 1d3 times.</text>
-        <text>    Rogue. A nonplayer character of the DM's choice becomes hostile toward you. The identity of your new enemy isn&apos;t known until the NPC or someone else reveals it. Nothing less than a wish spell or divine intervention can end the NPC&apos;s hostility toward you.</text>
+        <text>    Rogue. A nonplayer character of the DM&apos;s choice becomes hostile toward you. The identity of your new enemy isn&apos;t known until the NPC or someone else reveals it. Nothing less than a wish spell or divine intervention can end the NPC&apos;s hostility toward you.</text>
         <text>    Ruin. All forms of wealth that you carry or own, other than magic items, are lost to you. Portable property vanishes. Businesses, buildings, and land you own are lost in a way that alters reality the least. Any documentation that proves you should own something lost to this card also disappears.</text>
         <text>    Skull. You summon an avatar of death-a ghostly humanoid skeleton clad in a tattered black robe and carrying a spectral scythe. It appears in a space of the DM&apos;s choice within 10 feet of you and attacks yo~, warning all others that you must win the battle alone. The avatar fights until you die or it drops to 0 hit points, whereupon it disappears. If anyone tries to help you, the helper summons its own avatar of death. A creature slain by an avatar of death can&apos;t be restored to life.</text>
         <text>    Star. Increase one of your ability scores by 2. The score can exceed 20 but can&apos;t exceed 24.</text>

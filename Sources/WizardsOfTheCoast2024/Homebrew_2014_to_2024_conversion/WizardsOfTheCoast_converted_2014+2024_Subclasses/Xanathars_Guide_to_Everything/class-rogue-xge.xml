@@ -33,7 +33,7 @@ Source:	Xanathar's Guide to Everything p. 45</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Inquisitive: Insightful Fighting [2014]</name>
-        <text>At 3rd level, you gain the ability to decipher an opponent's tactics and develop a counter to them. As a bonus action, you can make a Wisdom (Insight) check against a creature you can see that isn't incapacitated, contested by the target&apos;s Charisma (Deception) check. If you succeed, you can use your Sneak Attack against that target even if you don&apos;t have advantage on the attack roll, but not if you have disadvantage on it.
+        <text>At 3rd level, you gain the ability to decipher an opponent's tactics and develop a counter to them. As a bonus action, you can make a Wisdom (Insight) check against a creature you can see that isn&apos;t incapacitated, contested by the target&apos;s Charisma (Deception) check. If you succeed, you can use your Sneak Attack against that target even if you don&apos;t have advantage on the attack roll, but not if you have disadvantage on it.
 
 This benefit lasts for 1 minute or until you successfully use this feature against a different target.
 

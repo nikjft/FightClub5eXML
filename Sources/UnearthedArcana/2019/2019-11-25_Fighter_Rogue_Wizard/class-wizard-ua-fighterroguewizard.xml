@@ -18,7 +18,7 @@ Source:	Unearthed Arcana: Fighter, Rogue, and Wizard p. 3</text>
     <autolevel level="2">
       <feature optional="YES">
         <name>Psionics (UA): Psionic Devotion</name>
-        <text>Your study of psionics begins to unleash your mind's potential. When you gain this feature, choose one of the following cantrips: friends, mage hand, or message. You learn that cantrip if you don&apos;t already know it, and it doesn&apos;t count against the number of wizard cantrips you know. While your psionic focus is on your person, you can cast the chosen cantrip as a bonus action, requiring no components, and with the modification listed below:
+        <text>Your study of psionics begins to unleash your mind&apos;s potential. When you gain this feature, choose one of the following cantrips: friends, mage hand, or message. You learn that cantrip if you don&apos;t already know it, and it doesn&apos;t count against the number of wizard cantrips you know. While your psionic focus is on your person, you can cast the chosen cantrip as a bonus action, requiring no components, and with the modification listed below:
 
 Friends:
 When the spell ends, the target doesn't become hostile to you.

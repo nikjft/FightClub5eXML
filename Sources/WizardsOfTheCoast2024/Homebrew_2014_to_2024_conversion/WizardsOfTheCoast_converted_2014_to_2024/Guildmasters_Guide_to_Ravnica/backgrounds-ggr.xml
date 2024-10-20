@@ -222,7 +222,7 @@ d6 | Flaw
     <proficiency>Deception, Stealth</proficiency>
     <trait>
       <name>Description</name>
-      <text>You're a spy. Secrets and misinformation are your stock in trade. You skulk in the shadows, infiltrate other guilds, and steal the most precious secrets, whether they're written in locked journals or hidden away in someone&apos;s mind. Even you might not be aware of all the reasons behind the missions you carry out. Sometimes a mission&apos;s sole purpose is to conceal the motivation behind another strike performed in a different part of the city, or simply to spread fear.
+      <text>You're a spy. Secrets and misinformation are your stock in trade. You skulk in the shadows, infiltrate other guilds, and steal the most precious secrets, whether they&apos;re written in locked journals or hidden away in someone&apos;s mind. Even you might not be aware of all the reasons behind the missions you carry out. Sometimes a mission&apos;s sole purpose is to conceal the motivation behind another strike performed in a different part of the city, or simply to spread fear.
 
 As part of your covert work for House Dimir, you maintain a false identity as a member of another guild. You can choose your secondary guild or roll to determine it randomly. This secondary guild membership determines a portion of your starting equipment and is also where most of your contacts come from. You infiltrate your secondary guild to learn its secrets, keep tabs on its activities, or perhaps undermine it from within.
 
@@ -395,7 +395,7 @@ d10 | Contact
     </trait>
     <trait>
       <name>How Do I Fit In?</name>
-      <text>As part of the Golgari Swarm, you are a specialized instrument of the greater body. Your orders, when you have such, come from the guildmaster by way of his chancellors, who carry his messages throughout the guild. The swarm relies on you to advance the greater good by protecting some part, however small, of its teeming existence. That responsibility doesn't mean you're indispensable; your eventual death is part of your purpose and function, too, and you&apos;ll be replaced even as your body provides nutrients to further the swarm&apos;s growth.
+      <text>As part of the Golgari Swarm, you are a specialized instrument of the greater body. Your orders, when you have such, come from the guildmaster by way of his chancellors, who carry his messages throughout the guild. The swarm relies on you to advance the greater good by protecting some part, however small, of its teeming existence. That responsibility doesn't mean you&apos;re indispensable; your eventual death is part of your purpose and function, too, and you&apos;ll be replaced even as your body provides nutrients to further the swarm&apos;s growth.
 
 A classic adventuring role for a member of the Golgari involves crawling through dungeon-like environments—the sewers and ancient vaults of the undercity—in search of treasures left behind by the dead. Sometimes you might be sent to find a specific item believed lost in a dangerous part of the undercity. At other times, you could be asked to collect samples of a specific fungus, retrieve a body floating in the muck of the sewers, or bring back whatever booty you can to help fill the swarm's coffers.
 

@@ -192,7 +192,7 @@ Source:	Tasha's Crucible of Everything Else, Volume 1 p. 11 (Homebrew)</text>
     <autolevel level="10">
       <feature optional="YES">
         <name>Path of Infiltration (HB): Traceless Intruder</name>
-        <text>While you're raging, you are under the effects of a nondetection spell, and whenever you would trigger an abjuration spell, such as by walking through the area of an alarm or glyph of warding, you can make a Constitution saving throw (DC 10 + the spell&apos;s level). On a successful save, the spell isn&apos;t triggered.  
+        <text>While you&apos;re raging, you are under the effects of a nondetection spell, and whenever you would trigger an abjuration spell, such as by walking through the area of an alarm or glyph of warding, you can make a Constitution saving throw (DC 10 + the spell&apos;s level). On a successful save, the spell isn&apos;t triggered.  
 
 Additionally, while you benefit from your Danger Sense, the damage you take from traps is halved. This includes magical traps, such as the glyph of warding or symbol spells.
 

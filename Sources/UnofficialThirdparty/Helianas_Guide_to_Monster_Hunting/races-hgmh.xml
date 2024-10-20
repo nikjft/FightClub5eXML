@@ -25,7 +25,7 @@ Life for a young medusozoa is tenuous; it must fend for itself, drifting in open
     </trait>
     <trait category="description">
       <name>Commune and Community</name>
-      <text>Cnidarans live communally. With the practices of mass mating and random dispersal, no single medusozoa knows which individuals are their parents. In fact, the entire concept of 'parentage', 'hereditary titles', and &apos;inheritance&apos; is foreign to most cnidarans.
+      <text>Cnidarans live communally. With the practices of mass mating and random dispersal, no single medusozoa knows which individuals are their parents. In fact, the entire concept of 'parentage', 'hereditary titles&apos;, and &apos;inheritance&apos; is foreign to most cnidarans.
 
 When a cnidaran medusozoa reaches maturity, it is given the choice to leave the reef with the blessing of the whole community, a once-in-a-lifetime event known as the uko'fa (the 'time of exploration'). Individuals that start on the uko'fa do so for a multitude of reasons. Some seek to bring back treasures from the world beyond and enhance their own community. Others feel a need to disperse, finding other reefs to join or even forming new reefs with like-minded medusozoa met on their travels. A very few become enraptured by wanderlust and spend the rest of their days among winding ocean currents, delving into damp dungeons, and cavorting in ports with other seadogs.</text>
     </trait>
@@ -92,7 +92,7 @@ Life for a young medusozoa is tenuous; it must fend for itself, drifting in open
     </trait>
     <trait category="description">
       <name>Commune and Community</name>
-      <text>Cnidarans live communally. With the practices of mass mating and random dispersal, no single medusozoa knows which individuals are their parents. In fact, the entire concept of 'parentage', 'hereditary titles', and &apos;inheritance&apos; is foreign to most cnidarans.
+      <text>Cnidarans live communally. With the practices of mass mating and random dispersal, no single medusozoa knows which individuals are their parents. In fact, the entire concept of 'parentage', 'hereditary titles&apos;, and &apos;inheritance&apos; is foreign to most cnidarans.
 
 When a cnidaran medusozoa reaches maturity, it is given the choice to leave the reef with the blessing of the whole community, a once-in-a-lifetime event known as the uko'fa (the 'time of exploration'). Individuals that start on the uko'fa do so for a multitude of reasons. Some seek to bring back treasures from the world beyond and enhance their own community. Others feel a need to disperse, finding other reefs to join or even forming new reefs with like-minded medusozoa met on their travels. A very few become enraptured by wanderlust and spend the rest of their days among winding ocean currents, delving into damp dungeons, and cavorting in ports with other seadogs.</text>
     </trait>
@@ -141,13 +141,13 @@ Charisma is your spellcasting ability for these spells. When you cast them with 
     <spellAbility/>
     <trait category="description">
       <name>Description</name>
-      <text>The pursuit of knowledge, the acquisition of secrets, and the hoarding of trinkets with storied histories are common practices among any creature raised by cyclopians (sy-CLO-pee-ans). From dog tags to tapestries, musical manuscripts to carved tablets, and magical memory orbs to worthless heirlooms, their 'libraries&apos; (as cyclopians refer to their homes) are filled with knowledge. With their physical adaptation to climbing, cyclopian homes are often found high up in cliffsides, within abandoned wizards&apos; towers, or deep in The Low.
+      <text>The pursuit of knowledge, the acquisition of secrets, and the hoarding of trinkets with storied histories are common practices among any creature raised by cyclopians (sy-CLO-pee-ans). From dog tags to tapestries, musical manuscripts to carved tablets, and magical memory orbs to worthless heirlooms, their &apos;libraries&apos; (as cyclopians refer to their homes) are filled with knowledge. With their physical adaptation to climbing, cyclopian homes are often found high up in cliffsides, within abandoned wizards&apos; towers, or deep in The Low.
 
 Source:	Heliana's Guide to Monster Hunting p. 153 (Homebrew)</text>
     </trait>
     <trait category="description">
       <name>Monocular and Myopic</name>
-      <text>A cyclopian's singular eye is the perfect metaphor for this race&apos;s almost-myopic tendency to focus on one thing to the exclusion of all others. When a cyclopian finds a topic that interests them, little can stop their manic and feverish efforts to acquire any relevant documents, information, or answers. Indeed, the famed cyclopian researcher Roza "Thanks" Thanklinds is rumoured to have forgone sleep for more than two months while analysing the crystallised mut-x from the former laboratory of Dr Frank N. Stein. Of course, this feat was made all the easier thanks to cyclopians&apos; ability to metabolise knowledge into actual, physical, nutritional value.</text>
+      <text>A cyclopian&apos;s singular eye is the perfect metaphor for this race&apos;s almost-myopic tendency to focus on one thing to the exclusion of all others. When a cyclopian finds a topic that interests them, little can stop their manic and feverish efforts to acquire any relevant documents, information, or answers. Indeed, the famed cyclopian researcher Roza "Thanks" Thanklinds is rumoured to have forgone sleep for more than two months while analysing the crystallised mut-x from the former laboratory of Dr Frank N. Stein. Of course, this feat was made all the easier thanks to cyclopians&apos; ability to metabolise knowledge into actual, physical, nutritional value.</text>
     </trait>
     <trait category="description">
       <name>Arcanists Analogue</name>
@@ -217,7 +217,7 @@ Source:	Heliana's Guide to Monster Hunting p. 155 (Homebrew)</text>
     </trait>
     <trait category="description">
       <name>Brave Cowards</name>
-      <text>You'll likely recognise the back of a gobboc&apos;s head more than the front, given their propensity to run away at the first sign of danger. While this is the epitome of cowardice, it is a specifically brave kind of cowardice; life is scary and living another day is the bravest thing you can do. At least, this is what is taught to gobboc from the moment they can walk, a few hours after they&apos;re born.
+      <text>You&apos;ll likely recognise the back of a gobboc&apos;s head more than the front, given their propensity to run away at the first sign of danger. While this is the epitome of cowardice, it is a specifically brave kind of cowardice; life is scary and living another day is the bravest thing you can do. At least, this is what is taught to gobboc from the moment they can walk, a few hours after they&apos;re born.
 
 A typical gobboc is never the first to enter a room nor the last in a line of dungeon delvers. They aim to keep bodies firmly before and behind them, a tactical meat shield to ward off harm. Indeed, gobbocs are the ultimate hit-and-run fighters, retreating from a foe before it can retaliate against their precise and lightning-quick attacks. This method of fighting, taught to all gobbocs, is known as the Klucking Fighting Creed.</text>
     </trait>
@@ -287,7 +287,7 @@ Golynn legend tells of a single, pulsing rhythm that drives all life in the worl
     </trait>
     <trait category="description">
       <name>Dig a Hole Lotta&apos; Trouble</name>
-      <text>This constant burrowing can sometimes bring golynn into conflict with the uto monké, or 'those that live under the sky'. Golynn have ruined many a quality murderbowl pitch and have even inadvertently undermined castles while searching for the rhythmic clanking of a prisoner&apos;s chains. Conversely, some farmers, recognising their natural aptitude for digging, engage passing golynn as farmhands whenever possible, promising them all the grubs they can eat in exchange for a day&apos;s work.</text>
+      <text>This constant burrowing can sometimes bring golynn into conflict with the uto monké, or 'those that live under the sky&apos;. Golynn have ruined many a quality murderbowl pitch and have even inadvertently undermined castles while searching for the rhythmic clanking of a prisoner&apos;s chains. Conversely, some farmers, recognising their natural aptitude for digging, engage passing golynn as farmhands whenever possible, promising them all the grubs they can eat in exchange for a day&apos;s work.</text>
     </trait>
     <trait category="description">
       <name>Happenstance</name>
@@ -344,7 +344,7 @@ Source:	Heliana's Guide to Monster Hunting p. 159 (Homebrew)</text>
     </trait>
     <trait category="description">
       <name>Lizard Legend</name>
-      <text>In lotol legend, the first lotol ancestor, Ablon the Stoney, had magnificently hard scales but was a stoic and unfeeling creature. To teach him a lesson, the great Platinum Dragon cursed him to be more sensitive. Ablon's scales fell from his body, and his kin would forever bear this soft-skinned nature as a reminder to always be aware of how your actions might affect the world around you. In their own tongue, lotol are known as the &apos;lizards without scales&apos;.
+      <text>In lotol legend, the first lotol ancestor, Ablon the Stoney, had magnificently hard scales but was a stoic and unfeeling creature. To teach him a lesson, the great Platinum Dragon cursed him to be more sensitive. Ablon&apos;s scales fell from his body, and his kin would forever bear this soft-skinned nature as a reminder to always be aware of how your actions might affect the world around you. In their own tongue, lotol are known as the &apos;lizards without scales&apos;.
 
 Consequently, lotol often remark when they meet humanoids that do have scales, such as dragonborn, lizardfolk, or golynn. This reaction varies, from awe to envy, or from open infatuation to a fearful expectation of insensitivity or brutishness (stereotypes some lotol individuals hold). A sect of lotol, The Platinum Apology, dedicate their lives to ending this curse and restoring themselves as scale-wearing reptiles. Whether or not this curse is real, let alone possible, is unknown.</text>
     </trait>
@@ -404,7 +404,7 @@ Source:	Heliana's Guide to Monster Hunting p. 161 (Homebrew)</text>
     </trait>
     <trait category="description">
       <name>Reuse and Recycle</name>
-      <text>Mycelians reanimate the bodies of the recently deceased. Understandably, many more 'civilised' races disagree with this practice—it's difficult to meet your uncle again a few hours after interring him. Moreover, mycelians don&apos;t have the same regenerative abilities as the body&apos;s original inhabitant; wounds are patched over with a web of hyphae, the skin takes on a pale pallor, and the body wears out fairly quickly, lasting six to seven years.
+      <text>Mycelians reanimate the bodies of the recently deceased. Understandably, many more 'civilised' races disagree with this practice—it&apos;s difficult to meet your uncle again a few hours after interring him. Moreover, mycelians don&apos;t have the same regenerative abilities as the body&apos;s original inhabitant; wounds are patched over with a web of hyphae, the skin takes on a pale pallor, and the body wears out fairly quickly, lasting six to seven years.
 
 Much like hermit crabs wear shells, mycelians inoculate corpses with microscopic spores, before growing a web of hyphae through the body. Nerves are co-opted, muscles are repaired, and fungal organs replace the internal viscera of the host. The process is entirely biological, but less tolerant denizens of the world often believe these reanimated bodies to be the work of necromancers, treating mycelians as infectious, living dead.
 
@@ -412,7 +412,7 @@ The key to distinguishing a mycelian from a zombie, of course, is the smell. Myc
     </trait>
     <trait category="description">
       <name>Ancestors and Aging</name>
-      <text>With each new host, a mycelian's psyche changes a little, moulded by the brain, body, and abilities of the host it co-opts. In moving from one host to another, a mycelian also leaves behind some of its own memories, forever lost to the decay of time. Despite being potentially thousands of years old, the longest-living communities of mycelians often have memories stretching back only a few decades. For this reason, mycelians conduct a ritual shortly before death, where they recant a rhythmic history of their exploits in this host, adding it to the oral history of their community. These oral histories can be days long, and minor word changes (or &apos;linguistic decay&apos; as scholars refer to it) have resulted in tales becoming more and more outlandish the further back in time they occurred.</text>
+      <text>With each new host, a mycelian&apos;s psyche changes a little, moulded by the brain, body, and abilities of the host it co-opts. In moving from one host to another, a mycelian also leaves behind some of its own memories, forever lost to the decay of time. Despite being potentially thousands of years old, the longest-living communities of mycelians often have memories stretching back only a few decades. For this reason, mycelians conduct a ritual shortly before death, where they recant a rhythmic history of their exploits in this host, adding it to the oral history of their community. These oral histories can be days long, and minor word changes (or &apos;linguistic decay&apos; as scholars refer to it) have resulted in tales becoming more and more outlandish the further back in time they occurred.</text>
     </trait>
     <trait category="description">
       <name>Legend of the Mothershroom</name>

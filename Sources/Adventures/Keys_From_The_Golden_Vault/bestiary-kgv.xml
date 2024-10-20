@@ -952,7 +952,7 @@ If the eldritch horror takes 30 damage or more on a single turn from the swallow
     </trait>
     <trait>
       <name>Shroud Tattoo</name>
-      <text>Prisoner 13 can't be targeted by divination spells or any feature that would read her thoughts, and she can&apos;t be perceived through magical scrying sensors. She can&apos;t be contacted telepathically unless she allows such contact.</text>
+      <text>Prisoner 13 can&apos;t be targeted by divination spells or any feature that would read her thoughts, and she can&apos;t be perceived through magical scrying sensors. She can&apos;t be contacted telepathically unless she allows such contact.</text>
     </trait>
     <action>
       <name>Multiattack</name>

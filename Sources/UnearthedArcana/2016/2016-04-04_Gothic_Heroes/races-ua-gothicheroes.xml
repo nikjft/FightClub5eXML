@@ -155,7 +155,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Tool Proficiency</name>
-      <text>You gain proficiency with the artisan's tools of your choice: smith's tools, brewer&apos;s supplies, or mason&apos;s tools</text>
+      <text>You gain proficiency with the artisan's tools of your choice: smith&apos;s tools, brewer&apos;s supplies, or mason&apos;s tools</text>
     </trait>
     <trait>
       <name>Stonecunning</name>
@@ -171,7 +171,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Duergar Magic</name>
-      <text>When you reach 3rd level, you can cast the Enlarge/Reduce spell on yourself once with this trait, using only the spell's enlarge option. When you reach 5th level, you can cast the Invisibility spell on yourself once with this trait. You don't need material components for either spell, and you can&apos;t cast them while you&apos;re in direct sunlight, although sunlight has no effect on them once cast. You regain the ability to cast these spells with this trait when you finish a long rest. Intelligence is your spellcasting ability for these spells.</text>
+      <text>When you reach 3rd level, you can cast the Enlarge/Reduce spell on yourself once with this trait, using only the spell's enlarge option. When you reach 5th level, you can cast the Invisibility spell on yourself once with this trait. You don&apos;t need material components for either spell, and you can&apos;t cast them while you&apos;re in direct sunlight, although sunlight has no effect on them once cast. You regain the ability to cast these spells with this trait when you finish a long rest. Intelligence is your spellcasting ability for these spells.</text>
     </trait>
     <trait>
       <name>Sunlight Sensitivity</name>
@@ -246,7 +246,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Tool Proficiency</name>
-      <text>You gain proficiency with the artisan's tools of your choice: smith's tools, brewer&apos;s supplies, or mason&apos;s tools</text>
+      <text>You gain proficiency with the artisan's tools of your choice: smith&apos;s tools, brewer&apos;s supplies, or mason&apos;s tools</text>
     </trait>
     <trait>
       <name>Stonecunning</name>
@@ -326,7 +326,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Tool Proficiency</name>
-      <text>You gain proficiency with the artisan's tools of your choice: smith's tools, brewer&apos;s supplies, or mason&apos;s tools</text>
+      <text>You gain proficiency with the artisan's tools of your choice: smith&apos;s tools, brewer&apos;s supplies, or mason&apos;s tools</text>
     </trait>
     <trait>
       <name>Stonecunning</name>
@@ -397,7 +397,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Tool Proficiency</name>
-      <text>You gain proficiency with the artisan's tools of your choice: smith's tools, brewer&apos;s supplies, or mason&apos;s tools</text>
+      <text>You gain proficiency with the artisan's tools of your choice: smith&apos;s tools, brewer&apos;s supplies, or mason&apos;s tools</text>
     </trait>
     <trait>
       <name>Stonecunning</name>

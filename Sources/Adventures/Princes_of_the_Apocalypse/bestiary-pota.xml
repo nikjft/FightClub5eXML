@@ -693,7 +693,7 @@ Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 9 (1d12 + 3) pier
       <text>
 When an attacker the knight can see hits it with an attack, the knight can halve the damage against it.</text>
     </reaction>
-    <description>Dark Tide knights are the elite warriors of the Crushing Wave cult. By drawing upon Olhydra's dark power, they gain the ability to ride sea-creatures that normally wouldn't be suitable as mounts, and can even breathe underwater and share their mount&apos;s senses. The knights prefer to fight from or in the water, since they don&apos;t like to leave their mounts behind, but they can be fierce opponents on foot at need.
+    <description>Dark Tide knights are the elite warriors of the Crushing Wave cult. By drawing upon Olhydra's dark power, they gain the ability to ride sea-creatures that normally wouldn&apos;t be suitable as mounts, and can even breathe underwater and share their mount&apos;s senses. The knights prefer to fight from or in the water, since they don&apos;t like to leave their mounts behind, but they can be fierce opponents on foot at need.
 
 Unlike most other knights, Dark Tide knights disdain heavy armor, relying on the speed and ferocity of their attacks to carry them to victory.
 
@@ -1427,7 +1427,7 @@ Melee Weapon Attack: +7 to hit, reach 5 ft., one Medium or Small creature agains
 Until the grapple ends, the target can't breathe, and Ghald has advantage on attack rolls against it.</text>
       <attack>Garrote|+7|2d4+4</attack>
     </action>
-    <description>Ghald is an 8-foot-tall, four-armed sahuagin who works with a partner, Unferth, for the Kraken Society in Yartar. He's careful not to emerge from his hiding place beneath the docks unless it&apos;s dark and rainy, and even then he hides under a bulky cloak. He and Unferth serve as the Kraken Society&apos;s top operatives in this part of the North, and specialize in advancing the agenda of the society through theft, intimidation, and assassination.
+    <description>Ghald is an 8-foot-tall, four-armed sahuagin who works with a partner, Unferth, for the Kraken Society in Yartar. He&apos;s careful not to emerge from his hiding place beneath the docks unless it&apos;s dark and rainy, and even then he hides under a bulky cloak. He and Unferth serve as the Kraken Society&apos;s top operatives in this part of the North, and specialize in advancing the agenda of the society through theft, intimidation, and assassination.
 
 When the thieves' guild known as the Hand of Yartar comes into possession of a powerful elemental weapon (see the "Dark Dealings in Yartar" side trek in chapter 6), Ghald and Unferth make sure the Kraken Society comes in with the top bid. They then make sure that no one else interferes.
 
@@ -2123,7 +2123,7 @@ Miraj is an 11th-level spellcaster. His spellcasting ability is Charisma (spell 
     </trait>
     <slots>0, 4, 3, 3, 3, 2, 1</slots>
     <spells>pass without trace, acid splash, blade ward, friends, light, message, mold earth, chromatic orb, mage armor, magic missile, Maximilian&apos;s earthen grasp, shatter, suggestion, counterspell, erupting earth, polymorph, stoneskin, wall of stone, move earth</spells>
-    <description>Miraj is an earth genasi from Calimshan. He is a perfectionist who oversees the Black Earth cult's tunneling operations and specializes in magic and alchemical processes that shape stone. He also has an affinity for the element of water and styles himself a &apos;mud sorcerer.&apos;
+    <description>Miraj is an earth genasi from Calimshan. He is a perfectionist who oversees the Black Earth cult&apos;s tunneling operations and specializes in magic and alchemical processes that shape stone. He also has an affinity for the element of water and styles himself a &apos;mud sorcerer.&apos;
 Though he is the most accomplished spellcaster in the Cult of the Black Earth, he has no interest in challenging Marlos Urnrayle for leadership. He knows that he is no match for the medusa and is happy to pursue his experiments while Marlos leads.
 
 Source:	Princes of the Apocalypse p. 198</description>

@@ -4,7 +4,7 @@
     <name>Rune Scribe (UA)</name>
     <hd>8</hd>
     <numSkills>0</numSkills>
-    <tools>Calligrapher's supplies, mason&apos;s tools, woodcarver&apos;s tools</tools>
+    <tools>Calligrapher&apos;s supplies, mason&apos;s tools, woodcarver&apos;s tools</tools>
 
     <autolevel level="1"><slots>0, 2</slots></autolevel>
     <autolevel level="2"><slots>0, 3</slots></autolevel>
