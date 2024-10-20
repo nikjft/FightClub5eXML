@@ -842,7 +842,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Tool Proficiency</name>
-      <text>You gain proficiency with the artisan's tools of your choice: smith&apos;s tools, brewer&apos;s supplies, or mason&apos;s tools.</text>
+      <text>You gain proficiency with the artisan&apos;s tools of your choice: smith&apos;s tools, brewer&apos;s supplies, or mason&apos;s tools.</text>
     </trait>
     <trait>
       <name>Stonecunning</name>
@@ -924,7 +924,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
     <trait>
       <name>Tool Proficiency</name>
-      <text>You gain proficiency with the artisan's tools of your choice: smith&apos;s tools, brewer&apos;s supplies, or mason&apos;s tools.</text>
+      <text>You gain proficiency with the artisan&apos;s tools of your choice: smith&apos;s tools, brewer&apos;s supplies, or mason&apos;s tools.</text>
     </trait>
     <trait>
       <name>Stonecunning</name>

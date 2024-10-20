@@ -3828,7 +3828,7 @@ Source:	Player's Handbook 2024 p. 288</text>
     <components>V, S, M (a statuette of the target worth 5,000+ GP)</components>
     <duration/>
     <classes>Warlock, Wizard</classes>
-    <text>You create a magical restraint to hold a creature that you can see within range. The target must make a Wisdom saving throw. On a successful save, the target is unaffected, and it is immune to this spell for the next 24 hours. On a failed save, the target is imprisoned. While imprisoned, the target doesn't need to breathe, eat, or drink, and it doesn&apos;t age. Divination spells can&apos;t locate or perceive the imprisoned target, and the target can&apos;t teleport.
+    <text>You create a magical restraint to hold a creature that you can see within range. The target must make a Wisdom saving throw. On a successful save, the target is unaffected, and it is immune to this spell for the next 24 hours. On a failed save, the target is imprisoned. While imprisoned, the target doesn&apos;t need to breathe, eat, or drink, and it doesn&apos;t age. Divination spells can&apos;t locate or perceive the imprisoned target, and the target can&apos;t teleport.
 
 Until the spell ends, the target is also affected by one of the following effects of your choice:
 
@@ -4270,7 +4270,7 @@ Source:	Player's Handbook 2024 p. 293</text>
     <components>V, S, M (a gem, crystal, or reliquary worth 500+ GP)</components>
     <duration/>
     <classes>Wizard</classes>
-    <text>Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell's Material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container&apos;s space. You can&apos;t move or take Reactions. The only action you can take is to project your soul up to 100 feet out of the container, either returning to your living body (and ending the spell) or attempting to possess a Humanoid&apos;s body.
+    <text>Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell&apos;s Material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container&apos;s space. You can&apos;t move or take Reactions. The only action you can take is to project your soul up to 100 feet out of the container, either returning to your living body (and ending the spell) or attempting to possess a Humanoid&apos;s body.
 
 You can attempt to possess any Humanoid within 100 feet of you that you can see (creatures warded by a Protection from Evil and Good or Magic Circle spell can't be possessed). The target makes a Charisma saving throw. On a failed save, your soul enters the target's body, and the target's soul becomes trapped in the container. On a successful save, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours.
 
@@ -4831,7 +4831,7 @@ Source:	Player's Handbook 2024 p. 302</text>
     <components>V, S, M (a miniature shovel)</components>
     <duration>Concentration, up to 2 hour</duration>
     <classes>Druid, Sorcerer, Wizard</classes>
-    <text>Choose an area of terrain no larger than 40 feet on a side within range. You can reshape dirt, sand, or clay in the area in any manner you choose for the duration. You can raise or lower the area's elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can't exceed half the area's largest dimension. For example, if you affect a 40-foot square, you can create a pillar up to 20 feet high, raise or lower the square's elevation by up to 20 feet, dig a trench up to 20 feet deep, and so on. It takes 10 minutes for these changes to complete. Because the terrain&apos;s transformation occurs slowly, creatures in the area can&apos;t usually be trapped or injured by the ground&apos;s movement.
+    <text>Choose an area of terrain no larger than 40 feet on a side within range. You can reshape dirt, sand, or clay in the area in any manner you choose for the duration. You can raise or lower the area's elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can't exceed half the area's largest dimension. For example, if you affect a 40-foot square, you can create a pillar up to 20 feet high, raise or lower the square&apos;s elevation by up to 20 feet, dig a trench up to 20 feet deep, and so on. It takes 10 minutes for these changes to complete. Because the terrain&apos;s transformation occurs slowly, creatures in the area can&apos;t usually be trapped or injured by the ground&apos;s movement.
 
 At the end of every 10 minutes you spend Concentration on the spell, you can choose a new area of terrain to affect within range.
 
@@ -5119,7 +5119,7 @@ Source:	Player's Handbook 2024 p. 306</text>
     <components>V, S, M (a caterpillar cocoon)</components>
     <duration>Concentration, up to 1 hour</duration>
     <classes>Bard, Druid, Sorcerer, Wizard</classes>
-    <text>You attempt to transform a creature that you can see within range into a Beast. The target must succeed on a Wisdom saving throw or shape-shift into Beast form for the duration. That form can be any Beast you choose that has a Challenge Rating equal to or less than the target's (or the target&apos;s level if it doesn&apos;t have a Challenge Rating). The target&apos;s game statistics are replaced by the stat block of the chosen Beast, but the target retains its alignment, personality, creature type, Hit Points, and Hit Point Dice.
+    <text>You attempt to transform a creature that you can see within range into a Beast. The target must succeed on a Wisdom saving throw or shape-shift into Beast form for the duration. That form can be any Beast you choose that has a Challenge Rating equal to or less than the target&apos;s (or the target&apos;s level if it doesn&apos;t have a Challenge Rating). The target&apos;s game statistics are replaced by the stat block of the chosen Beast, but the target retains its alignment, personality, creature type, Hit Points, and Hit Point Dice.
 
 The target gains a number of Temporary Hit Points equal to the Hit Points of the Beast form. The spell ends early on the target if it has no Temporary Hit Points left.
 

@@ -524,7 +524,7 @@ Source:	Player's Handbook p. 50</text>
     <autolevel level="14">
       <feature optional="YES">
         <name>Path of the Totem Warrior: Bear</name>
-        <text>While you're raging, any creature within 5 feet of you that&apos;s hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can&apos;t see or hear you or if it can&apos;t be frightened.
+        <text>While you&apos;re raging, any creature within 5 feet of you that&apos;s hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can&apos;t see or hear you or if it can&apos;t be frightened.
 
 Source:	Player's Handbook p. 50</text>
       </feature>

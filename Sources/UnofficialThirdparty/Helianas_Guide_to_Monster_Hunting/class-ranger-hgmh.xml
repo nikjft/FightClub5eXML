@@ -77,7 +77,7 @@ Source:	Heliana's Guide to Monster Hunting p. 186 (Homebrew)</text>
     <autolevel level="11">
       <feature optional="YES">
         <name>Trapper (HB): Leave No Trace</name>
-        <text>You've learnt to use magic to hide traps, allowing them to be concealed in the heat of battle. When you deploy a trap, you can expend a spell slot of 1st level or higher to disguise the trap with illusion magic, causing it to become invisible the moment it leaves your hands. Creatures don&apos;t see where the trap lands and, if it&apos;s a physical trap, have disadvantage on saving throws made to avoid the trap&apos;s effects.
+        <text>You&apos;ve learnt to use magic to hide traps, allowing them to be concealed in the heat of battle. When you deploy a trap, you can expend a spell slot of 1st level or higher to disguise the trap with illusion magic, causing it to become invisible the moment it leaves your hands. Creatures don&apos;t see where the trap lands and, if it&apos;s a physical trap, have disadvantage on saving throws made to avoid the trap&apos;s effects.
 
 In addition, you learn the invisibility spell, which counts as a ranger spell for you, but doesn't count against the number of ranger spells you know. You can cast it once without using a spell slot, and you regain the ability to cast it in this way when you finish a short or long rest.
 

@@ -3804,7 +3804,7 @@ Source:	Dungeon Master's Guide p. 177</text>
     <magic>YES</magic>
     <weight>1</weight>
     <property/>
-    <text>This iron bottle has a brass stopper. You can use an action to speak the flask's command word, targeting a creature that you can see within 60 feet of you. If the target is native to a plane of existence other than the one you&apos;re on, the target must succeed on a DC 17 Wisdom saving throw or be trapped in the flask. If the target has been trapped by the flask before, it has advantage on the saving throw. Once trapped, a creature remains in the flask until released. The flask can hold only one creature at a time. A creature trapped in the flask doesn&apos;t need to breathe, eat, or drink and doesn&apos;t age.
+    <text>This iron bottle has a brass stopper. You can use an action to speak the flask&apos;s command word, targeting a creature that you can see within 60 feet of you. If the target is native to a plane of existence other than the one you&apos;re on, the target must succeed on a DC 17 Wisdom saving throw or be trapped in the flask. If the target has been trapped by the flask before, it has advantage on the saving throw. Once trapped, a creature remains in the flask until released. The flask can hold only one creature at a time. A creature trapped in the flask doesn&apos;t need to breathe, eat, or drink and doesn&apos;t age.
 
 You can use an action to remove the flask's stopper and release the creature the flask contains. The creature is friendly to you and your companions for 1 hour and obeys your commands for that duration. If you give no commands or give it a command that is likely to result in its death, it defends itself but otherwise takes no actions. At the end of the duration, the creature acts in accordance with its normal disposition and alignment.
 
@@ -6075,7 +6075,7 @@ Source:	Dungeon Master's Guide p. 195</text>
     <magic>YES</magic>
     <weight>2</weight>
     <property/>
-    <text>While holding this rod, you can use your reaction to absorb a spell that is targeting only you and not with an area of effect. The absorbed spell's effect is canceled, and the spell&apos;s energy—not the spell itself—is stored in the rod. The energy has the same level as the spell when it was cast. The rod can absorb and store up to 50 levels of energy over the course of its existence. Once the rod absorbs 50 levels of energy, it can&apos;t absorb more. If you are targeted by a spell that the rod can&apos;t store, the rod has no effect on that spell.
+    <text>While holding this rod, you can use your reaction to absorb a spell that is targeting only you and not with an area of effect. The absorbed spell&apos;s effect is canceled, and the spell&apos;s energy—not the spell itself—is stored in the rod. The energy has the same level as the spell when it was cast. The rod can absorb and store up to 50 levels of energy over the course of its existence. Once the rod absorbs 50 levels of energy, it can&apos;t absorb more. If you are targeted by a spell that the rod can&apos;t store, the rod has no effect on that spell.
 
 When you become attuned to the rod, you know how many levels of energy the rod has absorbed over the course of its existence, and how many levels of spell energy it currently has stored.
 

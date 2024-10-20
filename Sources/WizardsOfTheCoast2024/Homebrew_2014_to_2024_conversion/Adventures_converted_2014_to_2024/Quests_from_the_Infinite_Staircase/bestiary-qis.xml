@@ -1332,7 +1332,7 @@ The target can repeat the saving throw at the end of each of its turns, ending t
     </trait>
     <trait>
       <name>False Appearance</name>
-      <text>If the wolf-in-sheep's-clothing is motionless (except for its lure) at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn&apos;t observed the wolf-in-sheep&apos;s-clothing move or act (except for the lure), that creature must succeed on a DC 18 Intelligence (Investigation) check to discern that the wolf-in-sheep&apos;s-clothing is animate.</text>
+      <text>If the wolf-in-sheep&apos;s-clothing is motionless (except for its lure) at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn&apos;t observed the wolf-in-sheep&apos;s-clothing move or act (except for the lure), that creature must succeed on a DC 18 Intelligence (Investigation) check to discern that the wolf-in-sheep&apos;s-clothing is animate.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -1346,7 +1346,7 @@ The target can repeat the saving throw at the end of each of its turns, ending t
     </action>
     <action>
       <name>Root Tentacle</name>
-      <text>Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 8 (1d6 + 5) bludgeoning damage, and if the target is a Medium or smaller creature, it has the grappled condition (escape DC 16). While grappled in this way, the target has the restrained condition, and at the start of each of the wolf-in-sheep's-clothing&apos;s turns, the wolf-in-sheep&apos;s-clothing can pull the target up to 10 feet toward itself (no action required). The wolf-in-sheep&apos;s-clothing has four root tentacles, each of which can grapple one target.</text>
+      <text>Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 8 (1d6 + 5) bludgeoning damage, and if the target is a Medium or smaller creature, it has the grappled condition (escape DC 16). While grappled in this way, the target has the restrained condition, and at the start of each of the wolf-in-sheep&apos;s-clothing&apos;s turns, the wolf-in-sheep&apos;s-clothing can pull the target up to 10 feet toward itself (no action required). The wolf-in-sheep&apos;s-clothing has four root tentacles, each of which can grapple one target.</text>
       <attack>Root Tentacle|+8|1d6 + 5</attack>
     </action>
     <action>

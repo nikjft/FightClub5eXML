@@ -434,7 +434,7 @@ Source:	LaserLlama: Artificer Specialists v2.1.0 p. 7 (Homebrew)</text>
       </feature>
       <feature optional="YES">
         <name>Dungeoneer (HB): Tools of the Trade</name>
-        <text>When you become a Dungeoneer Specialist at 3rd level, you gain proficiency with carpenters and smith's tools. If you already proficient in carpenter&apos;s or smith&apos;s tools, you gain proficiency with another set of artisan&apos;s tools of your choice.
+        <text>When you become a Dungeoneer Specialist at 3rd level, you gain proficiency with carpenters and smith&apos;s tools. If you already proficient in carpenter&apos;s or smith&apos;s tools, you gain proficiency with another set of artisan&apos;s tools of your choice.
 
 You also gain proficiency with improvised weapons. When you make an improvised weapon attack, you can use your Intelligence, in place of Strength or Dexterity, for the attack and damage rolls, and the damage die for any improvised weapon attacks you make becomes a d8 if it would be lower.
 

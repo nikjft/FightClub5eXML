@@ -411,7 +411,7 @@ Source:	Unearthed Arcana: The Mystic Class p. 7</text>
     <autolevel level="3">
       <feature optional="YES">
         <name>Order of the Wu Jen: Elemental Attunement</name>
-        <text>Starting at 3rd level, when a creature's resistance reduces the damage dealt by a psionic discipline of yours, you can spend 1 psi point to cause that use of the discipline to ignore the creature&apos;s resistance. You can&apos;t spend this point if doing so would increase the discipline&apos;s cost above your psi limit.
+        <text>Starting at 3rd level, when a creature&apos;s resistance reduces the damage dealt by a psionic discipline of yours, you can spend 1 psi point to cause that use of the discipline to ignore the creature&apos;s resistance. You can&apos;t spend this point if doing so would increase the discipline&apos;s cost above your psi limit.
 
 Source:	Unearthed Arcana: The Mystic Class p. 8</text>
       </feature>
@@ -458,7 +458,7 @@ Source:	Unearthed Arcana: The Mystic Class p. 5</text>
     <autolevel level="6">
       <feature optional="YES">
         <name>Order of the Awakened: Psionic Surge</name>
-        <text>Starting at 6th level, you can overload your psychic focus to batter down an opponent's defenses. You can impose disadvantage on a target&apos;s saving throw against a discipline or talent you use, but at the cost of using your psychic focus. Your psychic focus immediately ends if it&apos;s active, and you can&apos;t use it until you finish a short or long rest.
+        <text>Starting at 6th level, you can overload your psychic focus to batter down an opponent&apos;s defenses. You can impose disadvantage on a target&apos;s saving throw against a discipline or talent you use, but at the cost of using your psychic focus. Your psychic focus immediately ends if it&apos;s active, and you can&apos;t use it until you finish a short or long rest.
 
 You can't use this feature if you can't use your psychic focus.
 
