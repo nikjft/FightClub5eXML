@@ -24,7 +24,6 @@
   <doc href="../Sources/WizardsOfTheCoast2024/01_Players_Handbook_2024/races-phb24.xml" />
   <doc href="../Sources/WizardsOfTheCoast2024/01_Players_Handbook_2024/spells-phb24.xml" />
   <doc href="../Sources/WizardsOfTheCoast2024/01_Players_Handbook_2024/spells-phb24+phb24.xml" />
-
   <!-- # Legacy versions of all WotC rulebooks -->
   <!-- # Core Rulebooks -->
   <!-- 01. Player's Handbook - August 19, 2014 -->
@@ -48,6 +47,7 @@
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/01_Players_Handbook/optionalfeatures-phb.xml" />
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/01_Players_Handbook/races-phb.xml" />
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/01_Players_Handbook/spells-phb.xml" />
+  <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/01_Players_Handbook/spells-phb_2024-classes.xml" />
 
   <!-- 02. Dungeon Master's Guide - December 9, 2014 -->
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/02_Dungeon_Masters_Guide/bestiary-dmg.xml" />
@@ -56,6 +56,7 @@
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/02_Dungeon_Masters_Guide/items-dmg.xml" />
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/02_Dungeon_Masters_Guide/races-dmg.xml" />
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/02_Dungeon_Masters_Guide/spells-phb+dmg.xml" />
+  <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/02_Dungeon_Masters_Guide/spells-phb+dmg_2024-classes.xml" />
 
   <!-- 03. Monster Manual - September 30, 2014-->
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/03_Monster_Manual/bestiary-mm.xml" />
@@ -99,6 +100,10 @@
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Xanathars_Guide_to_Everything/spells-ai+xge.xml" />
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Xanathars_Guide_to_Everything/spells-phb+xge.xml" />
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Xanathars_Guide_to_Everything/spells-xge.xml" />
+  <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Xanathars_Guide_to_Everything/spells-phb+xge_2024-classes.xml" />
+  <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Xanathars_Guide_to_Everything/spells-xge_2024-classes.xml" />
+
+
 
   <!-- Mordenkainen's Tome of Foes - May 29, 2018 -->
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Mordenkainens_Tome_of_Foes/bestiary-mtf.xml" />
@@ -134,6 +139,9 @@
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Tashas_Cauldron_of_Everything/races-tce.xml" />
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Tashas_Cauldron_of_Everything/spells-tce.xml" />
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Tashas_Cauldron_of_Everything/spells-phb+tce.xml" />
+  <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Tashas_Cauldron_of_Everything/spells-phb+tce_2024-classes.xml" />
+  <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Tashas_Cauldron_of_Everything/spells-tce_2024-classes.xml" />
+
 
   <!-- Fizban's Treasurey of Dragons - October 26, 2021 -->
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Fizbans_Treasury_of_Dragons/bestiary-ftod.xml" />
@@ -143,6 +151,7 @@
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Fizbans_Treasury_of_Dragons/items-ftod.xml" />
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Fizbans_Treasury_of_Dragons/races-ftod.xml" />
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Fizbans_Treasury_of_Dragons/spells-ftod.xml" />
+  <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Fizbans_Treasury_of_Dragons/spells-ftod_2024-classes.xml" />
 
   <!-- Mordenkainen Presents: Monsters of the Multiverse - May 17, 2022 -->
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Mordenkainens_Monsters_of_the_Multiverse/bestiary-mmm.xml" />
@@ -165,7 +174,6 @@
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Book_of_Many_Things/optionalfeatures-bomt.xml" />
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Book_of_Many_Things/spells-bomt.xml" />
 
-
   <!-- ## Campagin Settings-->
 
   <!-- Sword Coast Adventurers' Guide - November 3, 2015 -->
@@ -184,6 +192,7 @@
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Sword_Coast_Adventurers_Guide/races-scag.xml" />
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Sword_Coast_Adventurers_Guide/spells-phb+scag.xml" />
   <!-- <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Sword_Coast_Adventurers_Guide/spells-scag.xml" /> -->
+  <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Sword_Coast_Adventurers_Guide/spells-phb+scag_2024-classes.xml" />
 
   <!-- Guildmaster's Guide to Ravnica - November 20, 2018 -->
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Guildmasters_Guide_to_Ravnica/backgrounds-ggr.xml" />
@@ -194,6 +203,7 @@
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Guildmasters_Guide_to_Ravnica/races-ggr.xml" />
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Guildmasters_Guide_to_Ravnica/spells-ggr.xml" />
   <!-- <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Guildmasters_Guide_to_Ravnica/spells-phb+ggr.xml" /> -->
+  <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Guildmasters_Guide_to_Ravnica/spells-phb+ggr_2024-classes.xml" />
 
   <!-- Acquisitions Incorporated - June 18, 2019 -->
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Acquisitions_Incorporated/backgrounds-ai.xml" />
@@ -211,6 +221,8 @@
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Eberron_Rising_From_the_Last_War/races-erlw.xml" />
   <!-- <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Eberron_Rising_From_the_Last_War/spells-phb+erlw.xml" /> -->
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Eberron_Rising_From_the_Last_War/spells-xge+erlw.xml" />
+  <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Eberron_Rising_From_the_Last_War/spells-phb+erlw_2024-classes.xml" />
+  <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Eberron_Rising_From_the_Last_War/spells-xge+erlw_2024-classes.xml" />
 
   <!-- Mythic Odysseys of Theros - July 21, 2020 -->
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Mythic_Odysseys_of_Theros/backgrounds-mot.xml" />
@@ -220,6 +232,7 @@
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Mythic_Odysseys_of_Theros/items-mot.xml" />
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Mythic_Odysseys_of_Theros/races-mot.xml" />
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Mythic_Odysseys_of_Theros/spells-phb+mot.xml" />
+  <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Mythic_Odysseys_of_Theros/spells-phb+mot_2024-classes.xml" />
 
   <!-- Van Richten's Guide to Ravenloft - May 18, 2021 -->
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Van_Richtens_Guide_to_Ravenloft/backgrounds-vrgtr.xml" />
@@ -230,6 +243,7 @@
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Van_Richtens_Guide_to_Ravenloft/items-vrgtr.xml" />
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Van_Richtens_Guide_to_Ravenloft/races-vrgtr.xml" />
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Van_Richtens_Guide_to_Ravenloft/spells-phb+vrgtr.xml" />
+  <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Van_Richtens_Guide_to_Ravenloft/spells-phb+vrgtr_2024-classes.xml" />
 
   <!-- Strixhaven: A Curriculum of Chaos - December 7, 2021 -->
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Strixhaven_A_Curriculum_of_Chaos/backgrounds-mosh.xml" />
@@ -244,6 +258,7 @@
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Strixhaven_A_Curriculum_of_Chaos/races-mosh.xml" />
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Strixhaven_A_Curriculum_of_Chaos/spells-mosh.xml" />
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Strixhaven_A_Curriculum_of_Chaos/spells-phb+mosh.xml" />
+  <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Strixhaven_A_Curriculum_of_Chaos/spells-phb+mosh_2024-classes.xml" />
 
   <!-- Critical Role: Call of the Netherdeep - March 15, 2022 -->
   <doc href="../Sources/WizardsOfTheCoast2024/Homebrew_2014_to_2024_conversion/WizardsOfTheCoast_converted_2014_to_2024/Critical_Role_Call_of_the_Netherdeep/bestiary-cnd.xml" />

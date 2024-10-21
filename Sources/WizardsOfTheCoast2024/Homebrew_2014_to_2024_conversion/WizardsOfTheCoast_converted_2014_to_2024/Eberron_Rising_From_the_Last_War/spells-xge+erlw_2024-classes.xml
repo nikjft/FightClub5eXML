@@ -1,2 +1,193 @@
 <?xml version='1.0' encoding='utf-8'?>
-<compendium><spell><name text="Thunderclap" /><classes text="Artificer" /></spell><spell><name text="Disguise Self" /><classes text="Mark of Shadow" /></spell><spell><name text="Silent Image" /><classes text="Mark of Shadow" /></spell><spell><name text="Darkness" /><classes text="Mark of Shadow" /></spell><spell><name text="Clairvoyance" /><classes text="Mark of Shadow" /></spell><spell><name text="Major Image" /><classes text="Mark of Shadow" /></spell><spell><name text="Greater Invisibility" /><classes text="Mark of Shadow" /></spell><spell><name text="Hallucinatory Terrain" /><classes text="Mark of Shadow" /></spell><spell><name text="Mislead" /><classes text="Mark of Shadow" /></spell><spell><name text="Alarm" /><classes text="Mark of Warding" /></spell><spell><name text="Armor of Agathys" /><classes text="Mark of Warding" /></spell><spell><name text="Arcane Lock" /><classes text="Mark of Warding" /></spell><spell><name text="Knock" /><classes text="Mark of Warding" /></spell><spell><name text="Glyph of Warding" /><classes text="Mark of Warding" /></spell><spell><name text="Magic Circle" /><classes text="Mark of Warding" /></spell><spell><name text="Leomund's Secret Chest" /><classes text="Mark of Warding" /></spell><spell><name text="Mordenkainen's Faithful Hound" /><classes text="Mark of Warding" /></spell><spell><name text="Antilife Shell" /><classes text="Mark of Warding" /></spell><spell><name text="Faerie Fire" /><classes text="Mark of Scribing, Mark of Finding" /></spell><spell><name text="Longstrider" /><classes text="Mark of Scribing, Mark of Finding" /></spell><spell><name text="Locate Animals or Plants" /><classes text="Mark of Scribing, Mark of Finding" /></spell><spell><name text="Locate Object" /><classes text="Mark of Scribing, Mark of Finding" /></spell><spell><name text="Clairvoyance" /><classes text="Mark of Scribing, Mark of Finding" /></spell><spell><name text="Divination" /><classes text="Mark of Scribing, Mark of Finding" /></spell><spell><name text="Locate Creature" /><classes text="Mark of Scribing, Mark of Finding" /></spell><spell><name text="Detect Magic" /><classes text="Mark of Detection" /></spell><spell><name text="Detect Poison and Disease" /><classes text="Mark of Detection" /></spell><spell><name text="Detect Thoughts" /><classes text="Mark of Detection" /></spell><spell><name text="Find Traps" /><classes text="Mark of Detection" /></spell><spell><name text="Clairvoyance" /><classes text="Mark of Detection" /></spell><spell><name text="Nondetection" /><classes text="Mark of Detection" /></spell><spell><name text="Arcane Eye" /><classes text="Mark of Detection" /></spell><spell><name text="Divination" /><classes text="Mark of Detection" /></spell><spell><name text="Legend Lore" /><classes text="Mark of Detection" /></spell><spell><name text="Feather Fall" /><classes text="Mark of Storm" /></spell><spell><name text="Fog Cloud" /><classes text="Mark of Storm" /></spell><spell><name text="Gust of Wind" /><classes text="Mark of Storm" /></spell><spell><name text="Levitate" /><classes text="Mark of Storm" /></spell><spell><name text="Sleet Storm" /><classes text="Mark of Storm" /></spell><spell><name text="Wind Wall" /><classes text="Mark of Storm" /></spell><spell><name text="Conjure Minor Elementals" /><classes text="Mark of Storm" /></spell><spell><name text="Control Water" /><classes text="Mark of Storm" /></spell><spell><name text="Conjure Elemental" /><classes text="Mark of Storm" /></spell><spell><name text="Cure Wounds" /><classes text="Mark of Healing" /></spell><spell><name text="Healing Word" /><classes text="Mark of Healing" /></spell><spell><name text="Lesser Restoration" /><classes text="Mark of Healing" /></spell><spell><name text="Prayer of Healing" /><classes text="Mark of Healing" /></spell><spell><name text="Aura of Vitality" /><classes text="Mark of Healing" /></spell><spell><name text="Mass Healing Word" /><classes text="Mark of Healing" /></spell><spell><name text="Aura of Purity" /><classes text="Mark of Healing" /></spell><spell><name text="Aura of Life" /><classes text="Mark of Healing" /></spell><spell><name text="Greater Restoration" /><classes text="Mark of Healing" /></spell><spell><name text="Goodberry" /><classes text="Mark of Hospitality" /></spell><spell><name text="Sleep" /><classes text="Mark of Hospitality" /></spell><spell><name text="Aid" /><classes text="Mark of Hospitality" /></spell><spell><name text="Calm Emotions" /><classes text="Mark of Hospitality" /></spell><spell><name text="Create Food and Water" /><classes text="Mark of Hospitality" /></spell><spell><name text="Leomund's Tiny Hut" /><classes text="Mark of Hospitality" /></spell><spell><name text="Aura of Purity" /><classes text="Mark of Hospitality" /></spell><spell><name text="Mordenkainen's Private Sanctum" /><classes text="Mark of Hospitality" /></spell><spell><name text="Hallow" /><classes text="Mark of Hospitality" /></spell><spell><name text="Animal Friendship" /><classes text="Mark of Handling" /></spell><spell><name text="Beast Sense" /><classes text="Mark of Handling" /></spell><spell><name text="Calm Emotions" /><classes text="Mark of Handling" /></spell><spell><name text="Beacon of Hope" /><classes text="Mark of Handling" /></spell><spell><name text="Conjure Animals" /><classes text="Mark of Handling" /></spell><spell><name text="Aura of Life" /><classes text="Mark of Handling" /></spell><spell><name text="Dominate Beast" /><classes text="Mark of Handling" /></spell><spell><name text="Awaken" /><classes text="Mark of Handling" /></spell><spell><name text="Identify" /><classes text="Mark of Making" /></spell><spell><name text="Tenser's Floating Disk" /><classes text="Mark of Making" /></spell><spell><name text="Continual Flame" /><classes text="Mark of Making" /></spell><spell><name text="Magic Weapon" /><classes text="Mark of Making" /></spell><spell><name text="Conjure Barrage" /><classes text="Mark of Making" /></spell><spell><name text="Elemental Weapon" /><classes text="Mark of Making" /></spell><spell><name text="Fabricate" /><classes text="Mark of Making" /></spell><spell><name text="Stone Shape" /><classes text="Mark of Making" /></spell><spell><name text="Creation" /><classes text="Mark of Making" /></spell><spell><name text="Expeditious Retreat" /><classes text="Mark of Passage" /></spell><spell><name text="Jump" /><classes text="Mark of Passage" /></spell><spell><name text="Misty Step" /><classes text="Mark of Passage" /></spell><spell><name text="Blink" /><classes text="Mark of Passage" /></spell><spell><name text="Phantom Steed" /><classes text="Mark of Passage" /></spell><spell><name text="Dimension Door" /><classes text="Mark of Passage" /></spell><spell><name text="Freedom of Movement" /><classes text="Mark of Passage" /></spell><spell><name text="Teleportation Circle" /><classes text="Mark of Passage" /></spell><spell><name text="Compelled Duel" /><classes text="Mark of Sentinel" /></spell><spell><name text="Shield of Faith" /><classes text="Mark of Sentinel" /></spell><spell><name text="Warding Bond" /><classes text="Mark of Sentinel" /></spell><spell><name text="Zone of Truth" /><classes text="Mark of Sentinel" /></spell><spell><name text="Counterspell" /><classes text="Mark of Sentinel" /></spell><spell><name text="Protection from Energy" /><classes text="Mark of Sentinel" /></spell><spell><name text="Death Ward" /><classes text="Mark of Sentinel" /></spell><spell><name text="Guardian of Faith" /><classes text="Mark of Sentinel" /></spell><spell><name text="Bigby's Hand" /><classes text="Mark of Sentinel" /></spell></compendium>
+<compendium version="5" auto_indent="NO">
+    <spell><name>Thunderclap</name><classes>Artificer</classes>
+    </spell>
+    <spell><name>Disguise Self</name><classes>Mark of Shadow</classes>
+    </spell>
+    <spell><name>Silent Image</name><classes>Mark of Shadow</classes>
+    </spell>
+    <spell><name>Darkness</name><classes>Mark of Shadow</classes>
+    </spell>
+    <spell><name>Clairvoyance</name><classes>Mark of Shadow</classes>
+    </spell>
+    <spell><name>Major Image</name><classes>Mark of Shadow</classes>
+    </spell>
+    <spell><name>Greater Invisibility</name><classes>Mark of Shadow</classes>
+    </spell>
+    <spell><name>Hallucinatory Terrain</name><classes>Mark of Shadow</classes>
+    </spell>
+    <spell><name>Mislead</name><classes>Mark of Shadow</classes>
+    </spell>
+    <spell><name>Alarm</name><classes>Mark of Warding</classes>
+    </spell>
+    <spell><name>Armor of Agathys</name><classes>Mark of Warding</classes>
+    </spell>
+    <spell><name>Arcane Lock</name><classes>Mark of Warding</classes>
+    </spell>
+    <spell><name>Knock</name><classes>Mark of Warding</classes>
+    </spell>
+    <spell><name>Glyph of Warding</name><classes>Mark of Warding</classes>
+    </spell>
+    <spell><name>Magic Circle</name><classes>Mark of Warding</classes>
+    </spell>
+    <spell><name>Leomund's Secret Chest</name><classes>Mark of Warding</classes>
+    </spell>
+    <spell><name>Mordenkainen's Faithful Hound</name><classes>Mark of Warding</classes>
+    </spell>
+    <spell><name>Antilife Shell</name><classes>Mark of Warding</classes>
+    </spell>
+    <spell><name>Faerie Fire</name><classes>Mark of Scribing, Mark of Finding</classes>
+    </spell>
+    <spell><name>Longstrider</name><classes>Mark of Scribing, Mark of Finding</classes>
+    </spell>
+    <spell><name>Locate Animals or Plants</name><classes>Mark of Scribing, Mark of Finding</classes>
+    </spell>
+    <spell><name>Locate Object</name><classes>Mark of Scribing, Mark of Finding</classes>
+    </spell>
+    <spell><name>Clairvoyance</name><classes>Mark of Scribing, Mark of Finding</classes>
+    </spell>
+    <spell><name>Divination</name><classes>Mark of Scribing, Mark of Finding</classes>
+    </spell>
+    <spell><name>Locate Creature</name><classes>Mark of Scribing, Mark of Finding</classes>
+    </spell>
+    <spell><name>Detect Magic</name><classes>Mark of Detection</classes>
+    </spell>
+    <spell><name>Detect Poison and Disease</name><classes>Mark of Detection</classes>
+    </spell>
+    <spell><name>Detect Thoughts</name><classes>Mark of Detection</classes>
+    </spell>
+    <spell><name>Find Traps</name><classes>Mark of Detection</classes>
+    </spell>
+    <spell><name>Clairvoyance</name><classes>Mark of Detection</classes>
+    </spell>
+    <spell><name>Nondetection</name><classes>Mark of Detection</classes>
+    </spell>
+    <spell><name>Arcane Eye</name><classes>Mark of Detection</classes>
+    </spell>
+    <spell><name>Divination</name><classes>Mark of Detection</classes>
+    </spell>
+    <spell><name>Legend Lore</name><classes>Mark of Detection</classes>
+    </spell>
+    <spell><name>Feather Fall</name><classes>Mark of Storm</classes>
+    </spell>
+    <spell><name>Fog Cloud</name><classes>Mark of Storm</classes>
+    </spell>
+    <spell><name>Gust of Wind</name><classes>Mark of Storm</classes>
+    </spell>
+    <spell><name>Levitate</name><classes>Mark of Storm</classes>
+    </spell>
+    <spell><name>Sleet Storm</name><classes>Mark of Storm</classes>
+    </spell>
+    <spell><name>Wind Wall</name><classes>Mark of Storm</classes>
+    </spell>
+    <spell><name>Conjure Minor Elementals</name><classes>Mark of Storm</classes>
+    </spell>
+    <spell><name>Control Water</name><classes>Mark of Storm</classes>
+    </spell>
+    <spell><name>Conjure Elemental</name><classes>Mark of Storm</classes>
+    </spell>
+    <spell><name>Cure Wounds</name><classes>Mark of Healing</classes>
+    </spell>
+    <spell><name>Healing Word</name><classes>Mark of Healing</classes>
+    </spell>
+    <spell><name>Lesser Restoration</name><classes>Mark of Healing</classes>
+    </spell>
+    <spell><name>Prayer of Healing</name><classes>Mark of Healing</classes>
+    </spell>
+    <spell><name>Aura of Vitality</name><classes>Mark of Healing</classes>
+    </spell>
+    <spell><name>Mass Healing Word</name><classes>Mark of Healing</classes>
+    </spell>
+    <spell><name>Aura of Purity</name><classes>Mark of Healing</classes>
+    </spell>
+    <spell><name>Aura of Life</name><classes>Mark of Healing</classes>
+    </spell>
+    <spell><name>Greater Restoration</name><classes>Mark of Healing</classes>
+    </spell>
+    <spell><name>Goodberry</name><classes>Mark of Hospitality</classes>
+    </spell>
+    <spell><name>Sleep</name><classes>Mark of Hospitality</classes>
+    </spell>
+    <spell><name>Aid</name><classes>Mark of Hospitality</classes>
+    </spell>
+    <spell><name>Calm Emotions</name><classes>Mark of Hospitality</classes>
+    </spell>
+    <spell><name>Create Food and Water</name><classes>Mark of Hospitality</classes>
+    </spell>
+    <spell><name>Leomund's Tiny Hut</name><classes>Mark of Hospitality</classes>
+    </spell>
+    <spell><name>Aura of Purity</name><classes>Mark of Hospitality</classes>
+    </spell>
+    <spell><name>Mordenkainen's Private Sanctum</name><classes>Mark of Hospitality</classes>
+    </spell>
+    <spell><name>Hallow</name><classes>Mark of Hospitality</classes>
+    </spell>
+    <spell><name>Animal Friendship</name><classes>Mark of Handling</classes>
+    </spell>
+    <spell><name>Beast Sense</name><classes>Mark of Handling</classes>
+    </spell>
+    <spell><name>Calm Emotions</name><classes>Mark of Handling</classes>
+    </spell>
+    <spell><name>Beacon of Hope</name><classes>Mark of Handling</classes>
+    </spell>
+    <spell><name>Conjure Animals</name><classes>Mark of Handling</classes>
+    </spell>
+    <spell><name>Aura of Life</name><classes>Mark of Handling</classes>
+    </spell>
+    <spell><name>Dominate Beast</name><classes>Mark of Handling</classes>
+    </spell>
+    <spell><name>Awaken</name><classes>Mark of Handling</classes>
+    </spell>
+    <spell><name>Identify</name><classes>Mark of Making</classes>
+    </spell>
+    <spell><name>Tenser's Floating Disk</name><classes>Mark of Making</classes>
+    </spell>
+    <spell><name>Continual Flame</name><classes>Mark of Making</classes>
+    </spell>
+    <spell><name>Magic Weapon</name><classes>Mark of Making</classes>
+    </spell>
+    <spell><name>Conjure Barrage</name><classes>Mark of Making</classes>
+    </spell>
+    <spell><name>Elemental Weapon</name><classes>Mark of Making</classes>
+    </spell>
+    <spell><name>Fabricate</name><classes>Mark of Making</classes>
+    </spell>
+    <spell><name>Stone Shape</name><classes>Mark of Making</classes>
+    </spell>
+    <spell><name>Creation</name><classes>Mark of Making</classes>
+    </spell>
+    <spell><name>Expeditious Retreat</name><classes>Mark of Passage</classes>
+    </spell>
+    <spell><name>Jump</name><classes>Mark of Passage</classes>
+    </spell>
+    <spell><name>Misty Step</name><classes>Mark of Passage</classes>
+    </spell>
+    <spell><name>Blink</name><classes>Mark of Passage</classes>
+    </spell>
+    <spell><name>Phantom Steed</name><classes>Mark of Passage</classes>
+    </spell>
+    <spell><name>Dimension Door</name><classes>Mark of Passage</classes>
+    </spell>
+    <spell><name>Freedom of Movement</name><classes>Mark of Passage</classes>
+    </spell>
+    <spell><name>Teleportation Circle</name><classes>Mark of Passage</classes>
+    </spell>
+    <spell><name>Compelled Duel</name><classes>Mark of Sentinel</classes>
+    </spell>
+    <spell><name>Shield of Faith</name><classes>Mark of Sentinel</classes>
+    </spell>
+    <spell><name>Warding Bond</name><classes>Mark of Sentinel</classes>
+    </spell>
+    <spell><name>Zone of Truth</name><classes>Mark of Sentinel</classes>
+    </spell>
+    <spell><name>Counterspell</name><classes>Mark of Sentinel</classes>
+    </spell>
+    <spell><name>Protection from Energy</name><classes>Mark of Sentinel</classes>
+    </spell>
+    <spell><name>Death Ward</name><classes>Mark of Sentinel</classes>
+    </spell>
+    <spell><name>Guardian of Faith</name><classes>Mark of Sentinel</classes>
+    </spell>
+    <spell><name>Bigby's Hand</name><classes>Mark of Sentinel</classes>
+    </spell>
+</compendium>

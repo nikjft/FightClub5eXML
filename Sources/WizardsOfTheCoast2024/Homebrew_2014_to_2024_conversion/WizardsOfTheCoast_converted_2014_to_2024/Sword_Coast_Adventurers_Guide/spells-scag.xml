@@ -3,7 +3,7 @@
 <compendium version="5" auto_indent="NO">
   <spell>
     <name>Booming Blade [2014]</name>
-    <classes>School: Evocation, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Sorcerer, Warlock, Wizard</classes>
+    <classes>School: Evocation, Sorcerer, Warlock, Wizard</classes>
     <level>0</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -24,7 +24,7 @@ Source:	Sword Coast Adventurer&apos;s Guide p. 142</text>
   </spell>
   <spell>
     <name>Green-Flame Blade [2014]</name>
-    <classes>School: Evocation, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Sorcerer, Warlock, Wizard</classes>
+    <classes>School: Evocation, Sorcerer, Warlock, Wizard</classes>
     <level>0</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -47,7 +47,7 @@ Source:	Sword Coast Adventurer&apos;s Guide p. 143</text>
   </spell>
   <spell>
     <name>Lightning Lure [2014]</name>
-    <classes>School: Evocation, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Sorcerer, Warlock, Wizard</classes>
+    <classes>School: Evocation, Sorcerer, Warlock, Wizard</classes>
     <level>0</level>
     <school>EV</school>
     <ritual>NO</ritual>

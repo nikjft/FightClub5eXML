@@ -24,7 +24,7 @@ Source:	Tasha's Cauldron of Everything p. 106,
   </spell>
   <spell>
     <name>Booming Blade [2014]</name>
-    <classes>School: Evocation, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Artificer, Sorcerer, Warlock, Wizard</classes>
+    <classes>School: Evocation, Artificer, Sorcerer, Warlock, Wizard</classes>
     <level>0</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -64,7 +64,7 @@ Source:	Tasha's Cauldron of Everything p. 106</text>
   </spell>
   <spell>
     <name>Green-Flame Blade [2014]</name>
-    <classes>School: Evocation, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Artificer, Sorcerer, Warlock, Wizard</classes>
+    <classes>School: Evocation, Artificer, Sorcerer, Warlock, Wizard</classes>
     <level>0</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -105,7 +105,7 @@ Source:	Tasha's Cauldron of Everything p. 107</text>
   </spell>
   <spell>
     <name>Lightning Lure [2014]</name>
-    <classes>School: Evocation, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Artificer, Sorcerer, Warlock, Wizard</classes>
+    <classes>School: Evocation, Artificer, Sorcerer, Warlock, Wizard</classes>
     <level>0</level>
     <school>EV</school>
     <ritual>NO</ritual>

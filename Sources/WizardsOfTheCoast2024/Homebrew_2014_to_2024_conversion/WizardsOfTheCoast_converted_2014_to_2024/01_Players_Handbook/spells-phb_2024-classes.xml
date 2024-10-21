@@ -1,2 +1,1416 @@
 <?xml version='1.0' encoding='utf-8'?>
-<compendium><spell><name text="Acid Splash" /><classes text="School: Conjuration, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Sorcerer, Wizard" /></spell><spell><name text="Aid" /><classes text="School: Abjuration, Cleric, Paladin" /></spell><spell><name text="Alarm" /><classes text="School: Abjuration, Fighter (Eldritch Knight), Ranger, Wizard" /></spell><spell><name text="Alter Self" /><classes text="School: Transformation, Sorcerer, Wizard, Druid (Moon)" /></spell><spell><name text="Animal Friendship" /><classes text="School: Enchantment, Bard, Druid, Ranger, Cleric (Nature)" /></spell><spell><name text="Animal Messenger" /><classes text="School: Enchantment, Bard, Druid, Ranger" /></spell><spell><name text="Animal Shapes" /><classes text="School: Transformation, Druid" /></spell><spell><name text="Animate Dead" /><classes text="School: Necromancy, Cleric, Wizard" /></spell><spell><name text="Animate Objects" /><classes text="School: Transformation, Bard, Sorcerer, Wizard" /></spell><spell><name text="Antilife Shell" /><classes text="School: Abjuration, Druid" /></spell><spell><name text="Antimagic Field" /><classes text="School: Abjuration, Cleric, Wizard" /></spell><spell><name text="Antipathy/Sympathy" /><classes text="School: Enchantment, Druid, Wizard" /></spell><spell><name text="Arcane Eye" /><classes text="School: Divination, Wizard, Cleric (Knowledge)" /></spell><spell><name text="Arcane Gate" /><classes text="School: Conjuration, Sorcerer, Warlock, Wizard" /></spell><spell><name text="Arcane Lock" /><classes text="School: Abjuration, Fighter (Eldritch Knight), Wizard" /></spell><spell><name text="Armor of Agathys" /><classes text="School: Abjuration, Warlock" /></spell><spell><name text="Arms of Hadar" /><classes text="School: Conjuration, Warlock" /></spell><spell><name text="Astral Projection" /><classes text="School: Necromancy, Cleric, Warlock, Wizard" /></spell><spell><name text="Augury" /><classes text="School: Divination, Cleric, Cleric (Knowledge)" /></spell><spell><name text="Aura of Life" /><classes text="School: Abjuration, Paladin" /></spell><spell><name text="Aura of Purity" /><classes text="School: Abjuration, Paladin" /></spell><spell><name text="Aura of Vitality" /><classes text="School: Evocation, Paladin" /></spell><spell><name text="Awaken" /><classes text="School: Transformation, Bard, Druid" /></spell><spell><name text="Bane" /><classes text="School: Enchantment, Bard, Cleric, Paladin (Vengeance)" /></spell><spell><name text="Banishing Smite" /><classes text="School: Abjuration, Paladin" /></spell><spell><name text="Banishment" /><classes text="School: Abjuration, Fighter (Eldritch Knight), Cleric, Paladin, Sorcerer, Warlock, Wizard, Paladin (Vengeance)" /></spell><spell><name text="Barkskin" /><classes text="School: Transformation, Druid, Ranger, Cleric (Nature), Druid (Forest)" /></spell><spell><name text="Beacon of Hope" /><classes text="School: Abjuration, Cleric, Cleric (Life), Paladin (Devotion)" /></spell><spell><name text="Beast Sense" /><classes text="School: Divination, Druid, Ranger, Barbarian (Totem Warrior)" /></spell><spell><name text="Bestow Curse" /><classes text="School: Necromancy, Bard, Cleric, Wizard" /></spell><spell><name text="Bigby's Hand" /><classes text="School: Evocation, Wizard" /></spell><spell><name text="Blade Barrier" /><classes text="School: Evocation, Cleric" /></spell><spell><name text="Blade Ward" /><classes text="School: Abjuration, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Bard, Sorcerer, Warlock, Wizard" /></spell><spell><name text="Bless" /><classes text="School: Enchantment, Cleric, Paladin, Cleric (Life)" /></spell><spell><name text="Blight" /><classes text="School: Necromancy, Druid, Sorcerer, Warlock, Wizard, Druid (Desert)" /></spell><spell><name text="Blinding Smite" /><classes text="School: Evocation, Paladin" /></spell><spell><name text="Blindness/Deafness" /><classes text="School: Necromancy, Bard, Cleric, Sorcerer, Wizard, Warlock (Fiend)" /></spell><spell><name text="Blink" /><classes text="School: Transformation, Sorcerer, Wizard, Cleric (Trickery), Warlock (Archfey)" /></spell><spell><name text="Blur" /><classes text="School: Illusion, Rogue (Arcane Trickster), Sorcerer, Wizard, Druid (Desert)" /></spell><spell><name text="Burning Hands" /><classes text="School: Evocation, Fighter (Eldritch Knight), Sorcerer, Wizard, Cleric (Light), Warlock (Fiend)" /></spell><spell><name text="Call Lightning" /><classes text="School: Conjuration, Druid, Cleric (Tempest), Druid (Forest)" /></spell><spell><name text="Calm Emotions" /><classes text="School: Enchantment, Bard, Cleric, Warlock (Archfey)" /></spell><spell><name text="Chain Lightning" /><classes text="School: Evocation, Sorcerer, Wizard" /></spell><spell><name text="Charm Person" /><classes text="School: Enchantment, Rogue (Arcane Trickster), Bard, Druid, Sorcerer, Warlock, Wizard, Cleric (Trickery)" /></spell><spell><name text="Chill Touch" /><classes text="School: Necromancy, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Sorcerer, Warlock, Wizard" /></spell><spell><name text="Chromatic Orb" /><classes text="School: Evocation, Fighter (Eldritch Knight), Sorcerer, Wizard" /></spell><spell><name text="Circle of Death" /><classes text="School: Necromancy, Sorcerer, Warlock, Wizard" /></spell><spell><name text="Circle of Power" /><classes text="School: Abjuration, Paladin" /></spell><spell><name text="Clairvoyance" /><classes text="School: Divination, Bard, Cleric, Sorcerer, Wizard, Warlock (Great Old One)" /></spell><spell><name text="Clone" /><classes text="School: Necromancy, Wizard" /></spell><spell><name text="Cloud of Daggers" /><classes text="School: Conjuration, Bard, Sorcerer, Warlock, Wizard" /></spell><spell><name text="Cloudkill" /><classes text="School: Conjuration, Sorcerer, Wizard, Druid (Underdark)" /></spell><spell><name text="Color Spray" /><classes text="School: Illusion, Rogue (Arcane Trickster), Sorcerer, Wizard" /></spell><spell><name text="Command" /><classes text="School: Enchantment, Cleric, Paladin, Cleric (Knowledge), Warlock (Fiend)" /></spell><spell><name text="Commune" /><classes text="School: Divination, Cleric, Paladin (Devotion)" /></spell><spell><name text="Compelled Duel" /><classes text="School: Enchantment, Paladin" /></spell><spell><name text="Comprehend Languages" /><classes text="School: Divination, Bard, Sorcerer, Warlock, Wizard" /></spell><spell><name text="Compulsion" /><classes text="School: Enchantment, Bard" /></spell><spell><name text="Cone of Cold" /><classes text="School: Evocation, Sorcerer, Wizard, Druid (Arctic)" /></spell><spell><name text="Confusion" /><classes text="School: Enchantment, Rogue (Arcane Trickster), Bard, Druid, Sorcerer, Wizard, Cleric (Knowledge)" /></spell><spell><name text="Conjure Animals" /><classes text="School: Conjuration, Druid, Ranger" /></spell><spell><name text="Conjure Barrage" /><classes text="School: Conjuration, Ranger" /></spell><spell><name text="Conjure Celestial" /><classes text="School: Conjuration, Cleric" /></spell><spell><name text="Conjure Elemental" /><classes text="School: Conjuration, Druid, Wizard, Druid (Coast)" /></spell><spell><name text="Conjure Fey" /><classes text="School: Conjuration, Druid, Warlock" /></spell><spell><name text="Conjure Minor Elementals" /><classes text="School: Conjuration, Druid, Wizard" /></spell><spell><name text="Conjure Volley" /><classes text="School: Conjuration, Ranger" /></spell><spell><name text="Conjure Woodland Beings" /><classes text="School: Conjuration, Druid, Ranger" /></spell><spell><name text="Contact Other Plane" /><classes text="School: Divination, Warlock, Wizard" /></spell><spell><name text="Contagion" /><classes text="School: Necromancy, Cleric, Druid" /></spell><spell><name text="Contingency" /><classes text="School: Evocation, Wizard" /></spell><spell><name text="Continual Flame" /><classes text="School: Evocation, Fighter (Eldritch Knight), Cleric, Wizard" /></spell><spell><name text="Control Water" /><classes text="School: Transformation, Cleric, Druid, Wizard, Cleric (Tempest), Druid (Coast)" /></spell><spell><name text="Control Weather" /><classes text="School: Transformation, Cleric, Druid, Wizard" /></spell><spell><name text="Cordon of Arrows" /><classes text="School: Transformation, Ranger" /></spell><spell><name text="Counterspell" /><classes text="School: Abjuration, Fighter (Eldritch Knight), Sorcerer, Warlock, Wizard" /></spell><spell><name text="Create Food and Water" /><classes text="School: Conjuration, Cleric, Paladin, Druid (Desert)" /></spell><spell><name text="Create or Destroy Water" /><classes text="School: Transformation, Cleric, Druid" /></spell><spell><name text="Create Undead" /><classes text="School: Necromancy, Cleric, Warlock, Wizard" /></spell><spell><name text="Creation" /><classes text="School: Illusion, Sorcerer, Wizard" /></spell><spell><name text="Crown of Madness" /><classes text="School: Enchantment, Rogue (Arcane Trickster), Bard, Sorcerer, Warlock, Wizard" /></spell><spell><name text="Crusader's Mantle" /><classes text="School: Evocation, Paladin, Cleric (War)" /></spell><spell><name text="Cure Wounds" /><classes text="School: Evocation, Bard, Cleric, Druid, Paladin, Ranger, Cleric (Life)" /></spell><spell><name text="Dancing Lights" /><classes text="School: Evocation, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Bard, Sorcerer, Wizard" /></spell><spell><name text="Darkness" /><classes text="School: Evocation, Fighter (Eldritch Knight), Sorcerer, Warlock, Wizard, Druid (Swamp)" /></spell><spell><name text="Darkvision" /><classes text="School: Transformation, Druid, Ranger, Sorcerer, Wizard" /></spell><spell><name text="Daylight" /><classes text="School: Evocation, Cleric, Druid, Paladin, Ranger, Sorcerer, Cleric (Light), Druid (Grassland)" /></spell><spell><name text="Death Ward" /><classes text="School: Abjuration, Cleric, Paladin, Cleric (Life)" /></spell><spell><name text="Delayed Blast Fireball" /><classes text="School: Evocation, Sorcerer, Wizard" /></spell><spell><name text="Demiplane" /><classes text="School: Conjuration, Warlock, Wizard" /></spell><spell><name text="Destructive Wave" /><classes text="School: Evocation, Paladin, Cleric (Tempest)" /></spell><spell><name text="Detect Evil and Good" /><classes text="School: Divination, Cleric, Paladin" /></spell><spell><name text="Detect Magic" /><classes text="School: Divination, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Wizard" /></spell><spell><name text="Detect Poison and Disease" /><classes text="School: Divination, Cleric, Druid, Paladin, Ranger" /></spell><spell><name text="Detect Thoughts" /><classes text="School: Divination, Bard, Sorcerer, Wizard, Warlock (Great Old One)" /></spell><spell><name text="Dimension Door" /><classes text="School: Conjuration, Bard, Sorcerer, Warlock, Wizard, Cleric (Trickery), Paladin (Vengeance)" /></spell><spell><name text="Disguise Self" /><classes text="School: Illusion, Rogue (Arcane Trickster), Bard, Sorcerer, Wizard, Cleric (Trickery)" /></spell><spell><name text="Disintegrate" /><classes text="School: Transformation, Sorcerer, Wizard" /></spell><spell><name text="Dispel Evil and Good" /><classes text="School: Abjuration, Cleric, Paladin" /></spell><spell><name text="Dispel Magic" /><classes text="School: Abjuration, Fighter (Eldritch Knight), Bard, Cleric, Druid, Paladin, Sorcerer, Warlock, Wizard, Cleric (Trickery), Paladin (Devotion)" /></spell><spell><name text="Dissonant Whispers" /><classes text="School: Enchantment, Bard, Warlock (Great Old One)" /></spell><spell><name text="Divination" /><classes text="School: Divination, Cleric, Druid (Forest), Druid (Grassland)" /></spell><spell><name text="Divine Favor" /><classes text="School: Evocation, Paladin, Cleric (War)" /></spell><spell><name text="Divine Word" /><classes text="School: Evocation, Cleric" /></spell><spell><name text="Dominate Beast" /><classes text="School: Enchantment, Druid, Sorcerer, Cleric (Nature), Warlock (Archfey), Warlock (Great Old One)" /></spell><spell><name text="Dominate Monster" /><classes text="School: Enchantment, Bard, Sorcerer, Warlock, Wizard" /></spell><spell><name text="Dominate Person" /><classes text="School: Enchantment, Bard, Sorcerer, Wizard, Cleric (Trickery), Warlock (Archfey), Warlock (Great Old One)" /></spell><spell><name text="Drawmij's Instant Summons" /><classes text="School: Conjuration, Wizard" /></spell><spell><name text="Dream" /><classes text="School: Illusion, Bard, Warlock, Wizard, Druid (Grassland)" /></spell><spell><name text="Druidcraft" /><classes text="School: Transformation, Druid" /></spell><spell><name text="Earthquake" /><classes text="School: Evocation, Cleric, Druid, Sorcerer" /></spell><spell><name text="Eldritch Blast" /><classes text="School: Evocation, Warlock" /></spell><spell><name text="Elemental Weapon" /><classes text="School: Transformation, Paladin" /></spell><spell><name text="Enhance Ability" /><classes text="School: Transformation, Bard, Cleric, Druid, Sorcerer" /></spell><spell><name text="Enlarge/Reduce" /><classes text="School: Transformation, Sorcerer, Wizard" /></spell><spell><name text="Ensnaring Strike" /><classes text="School: Conjuration, Ranger, Paladin (Ancients)" /></spell><spell><name text="Entangle" /><classes text="School: Conjuration, Druid" /></spell><spell><name text="Enthrall" /><classes text="School: Enchantment, Bard, Warlock" /></spell><spell><name text="Etherealness" /><classes text="School: Transformation, Bard, Cleric, Sorcerer, Warlock, Wizard" /></spell><spell><name text="Evard's Black Tentacles" /><classes text="School: Conjuration, Wizard, Warlock (Great Old One)" /></spell><spell><name text="Expeditious Retreat" /><classes text="School: Transformation, Sorcerer, Warlock, Wizard" /></spell><spell><name text="Eyebite" /><classes text="School: Necromancy, Bard, Sorcerer, Warlock, Wizard" /></spell><spell><name text="Fabricate" /><classes text="School: Transformation, Fighter (Eldritch Knight), Wizard" /></spell><spell><name text="Faerie Fire" /><classes text="School: Evocation, Bard, Druid, Cleric (Light), Warlock (Archfey)" /></spell><spell><name text="False Life" /><classes text="School: Necromancy, Sorcerer, Wizard" /></spell><spell><name text="Fear" /><classes text="School: Illusion, Rogue (Arcane Trickster), Bard, Sorcerer, Warlock, Wizard" /></spell><spell><name text="Feather Fall" /><classes text="School: Transformation, Bard, Sorcerer, Wizard" /></spell><spell><name text="Feign Death" /><classes text="School: Necromancy, Bard, Cleric, Druid, Wizard" /></spell><spell><name text="Find Familiar" /><classes text="School: Conjuration, Wizard" /></spell><spell><name text="Find Steed" /><classes text="School: Conjuration, Paladin" /></spell><spell><name text="Find the Path" /><classes text="School: Divination, Bard, Cleric, Druid" /></spell><spell><name text="Find Traps" /><classes text="School: Divination, Cleric, Druid, Ranger" /></spell><spell><name text="Finger of Death" /><classes text="School: Necromancy, Sorcerer, Warlock, Wizard" /></spell><spell><name text="Fire Bolt" /><classes text="School: Evocation, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Sorcerer, Wizard" /></spell><spell><name text="Fire Shield" /><classes text="School: Evocation, Fighter (Eldritch Knight), Wizard, Warlock (Fiend)" /></spell><spell><name text="Fire Storm" /><classes text="School: Evocation, Cleric, Druid, Sorcerer" /></spell><spell><name text="Fireball" /><classes text="School: Evocation, Fighter (Eldritch Knight), Sorcerer, Wizard, Cleric (Light), Warlock (Fiend)" /></spell><spell><name text="Flame Blade" /><classes text="School: Evocation, Druid" /></spell><spell><name text="Flame Strike" /><classes text="School: Evocation, Cleric, Cleric (Light), Cleric (War), Paladin (Devotion), Warlock (Fiend)" /></spell><spell><name text="Flaming Sphere" /><classes text="School: Conjuration, Druid, Wizard, Cleric (Light)" /></spell><spell><name text="Flesh to Stone" /><classes text="School: Transformation, Warlock, Wizard" /></spell><spell><name text="Fly" /><classes text="School: Transformation, Sorcerer, Warlock, Wizard" /></spell><spell><name text="Fog Cloud" /><classes text="School: Conjuration, Druid, Ranger, Sorcerer, Wizard, Cleric (Tempest)" /></spell><spell><name text="Forbiddance" /><classes text="School: Abjuration, Cleric" /></spell><spell><name text="Forcecage" /><classes text="School: Evocation, Bard, Warlock, Wizard" /></spell><spell><name text="Foresight" /><classes text="School: Divination, Bard, Druid, Warlock, Wizard" /></spell><spell><name text="Freedom of Movement" /><classes text="School: Abjuration, Bard, Cleric, Druid, Ranger, Cleric (War), Druid (Arctic), Druid (Coast), Druid (Forest), Druid (Grassland), Druid (Swamp), Paladin (Devotion)" /></spell><spell><name text="Friends" /><classes text="School: Enchantment, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Bard, Sorcerer, Warlock, Wizard" /></spell><spell><name text="Gaseous Form" /><classes text="School: Transformation, Sorcerer, Warlock, Wizard, Druid (Underdark)" /></spell><spell><name text="Gate" /><classes text="School: Conjuration, Cleric, Sorcerer, Wizard" /></spell><spell><name text="Geas" /><classes text="School: Enchantment, Bard, Cleric, Druid, Paladin, Wizard" /></spell><spell><name text="Gentle Repose" /><classes text="School: Necromancy, Cleric, Wizard" /></spell><spell><name text="Giant Insect" /><classes text="School: Transformation, Druid" /></spell><spell><name text="Glibness" /><classes text="School: Transformation, Bard, Warlock" /></spell><spell><name text="Globe of Invulnerability" /><classes text="School: Abjuration, Sorcerer, Wizard" /></spell><spell><name text="Glyph of Warding" /><classes text="School: Abjuration, Fighter (Eldritch Knight), Bard, Cleric, Wizard" /></spell><spell><name text="Goodberry" /><classes text="School: Transformation, Druid, Ranger" /></spell><spell><name text="Grasping Vine" /><classes text="School: Conjuration, Druid, Ranger, Cleric (Nature)" /></spell><spell><name text="Grease" /><classes text="School: Conjuration, Wizard" /></spell><spell><name text="Greater Invisibility" /><classes text="School: Illusion, Rogue (Arcane Trickster), Bard, Sorcerer, Wizard, Druid (Underdark), Warlock (Archfey)" /></spell><spell><name text="Greater Restoration" /><classes text="School: Abjuration, Bard, Cleric, Druid" /></spell><spell><name text="Guardian of Faith" /><classes text="School: Conjuration, Cleric, Cleric (Life), Cleric (Light), Paladin (Devotion)" /></spell><spell><name text="Guards and Wards" /><classes text="School: Abjuration, Bard, Wizard" /></spell><spell><name text="Guidance" /><classes text="School: Divination, Cleric, Druid" /></spell><spell><name text="Guiding Bolt" /><classes text="School: Evocation, Cleric" /></spell><spell><name text="Gust of Wind" /><classes text="School: Evocation, Druid, Sorcerer, Wizard, Cleric (Tempest)" /></spell><spell><name text="Hail of Thorns" /><classes text="School: Conjuration, Ranger" /></spell><spell><name text="Hallow" /><classes text="School: Evocation, Cleric, Warlock (Fiend)" /></spell><spell><name text="Hallucinatory Terrain" /><classes text="School: Illusion, Rogue (Arcane Trickster), Bard, Druid, Warlock, Wizard, Druid (Desert)" /></spell><spell><name text="Harm" /><classes text="School: Necromancy, Cleric" /></spell><spell><name text="Haste" /><classes text="School: Transformation, Sorcerer, Wizard, Druid (Grassland), Paladin (Vengeance)" /></spell><spell><name text="Heal" /><classes text="School: Evocation, Cleric, Druid" /></spell><spell><name text="Healing Word" /><classes text="School: Evocation, Bard, Cleric, Druid" /></spell><spell><name text="Heat Metal" /><classes text="School: Transformation, Bard, Druid" /></spell><spell><name text="Hellish Rebuke" /><classes text="School: Evocation, Warlock" /></spell><spell><name text="Heroes' Feast" /><classes text="School: Conjuration, Cleric, Druid" /></spell><spell><name text="Heroism" /><classes text="School: Enchantment, Bard, Paladin" /></spell><spell><name text="Hex" /><classes text="School: Enchantment, Warlock" /></spell><spell><name text="Hold Monster" /><classes text="School: Enchantment, Bard, Sorcerer, Warlock, Wizard, Cleric (War), Paladin (Vengeance)" /></spell><spell><name text="Hold Person" /><classes text="School: Enchantment, Rogue (Arcane Trickster), Bard, Cleric, Druid, Sorcerer, Warlock, Wizard, Druid (Arctic), Paladin (Vengeance)" /></spell><spell><name text="Holy Aura" /><classes text="School: Abjuration, Cleric" /></spell><spell><name text="Hunger of Hadar" /><classes text="School: Conjuration, Warlock" /></spell><spell><name text="Hunter's Mark" /><classes text="School: Divination, Ranger, Paladin (Vengeance)" /></spell><spell><name text="Hypnotic Pattern" /><classes text="School: Illusion, Rogue (Arcane Trickster), Bard, Sorcerer, Warlock, Wizard" /></spell><spell><name text="Ice Storm" /><classes text="School: Evocation, Fighter (Eldritch Knight), Druid, Sorcerer, Wizard, Cleric (Tempest), Druid (Arctic), Paladin (Ancients)" /></spell><spell><name text="Identify" /><classes text="School: Divination, Bard, Wizard, Cleric (Knowledge)" /></spell><spell><name text="Illusory Script" /><classes text="School: Illusion, Rogue (Arcane Trickster), Bard, Warlock, Wizard" /></spell><spell><name text="Imprisonment" /><classes text="School: Abjuration, Warlock, Wizard" /></spell><spell><name text="Incendiary Cloud" /><classes text="School: Conjuration, Sorcerer, Wizard" /></spell><spell><name text="Inflict Wounds" /><classes text="School: Necromancy, Cleric" /></spell><spell><name text="Insect Plague" /><classes text="School: Conjuration, Cleric, Druid, Sorcerer, Cleric (Nature), Cleric (Tempest), Druid (Desert), Druid (Grassland), Druid (Swamp), Druid (Underdark)" /></spell><spell><name text="Invisibility" /><classes text="School: Illusion, Rogue (Arcane Trickster), Bard, Sorcerer, Warlock, Wizard, Druid (Grassland)" /></spell><spell><name text="Jump" /><classes text="School: Transformation, Druid, Ranger, Sorcerer, Wizard" /></spell><spell><name text="Knock" /><classes text="School: Transformation, Bard, Sorcerer, Wizard" /></spell><spell><name text="Legend Lore" /><classes text="School: Divination, Bard, Cleric, Wizard, Cleric (Knowledge)" /></spell><spell><name text="Leomund's Secret Chest" /><classes text="School: Conjuration, Wizard" /></spell><spell><name text="Leomund's Tiny Hut" /><classes text="School: Evocation, Fighter (Eldritch Knight), Bard, Wizard" /></spell><spell><name text="Lesser Restoration" /><classes text="School: Abjuration, Bard, Cleric, Druid, Paladin, Ranger, Cleric (Life), Paladin (Devotion)" /></spell><spell><name text="Levitate" /><classes text="School: Transformation, Sorcerer, Wizard" /></spell><spell><name text="Light" /><classes text="School: Evocation, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Bard, Cleric, Sorcerer, Wizard, Cleric (Light)" /></spell><spell><name text="Lightning Arrow" /><classes text="School: Transformation, Ranger" /></spell><spell><name text="Lightning Bolt" /><classes text="School: Evocation, Fighter (Eldritch Knight), Sorcerer, Wizard, Druid (Mountain)" /></spell><spell><name text="Locate Animals or Plants" /><classes text="School: Divination, Bard, Druid, Ranger" /></spell><spell><name text="Locate Creature" /><classes text="School: Divination, Bard, Cleric, Druid, Paladin, Ranger, Wizard, Druid (Swamp)" /></spell><spell><name text="Locate Object" /><classes text="School: Divination, Bard, Cleric, Druid, Paladin, Ranger, Wizard" /></spell><spell><name text="Longstrider" /><classes text="School: Transformation, Bard, Druid, Ranger, Wizard" /></spell><spell><name text="Mage Armor" /><classes text="School: Abjuration, Fighter (Eldritch Knight), Sorcerer, Wizard" /></spell><spell><name text="Mage Hand" /><classes text="School: Conjuration, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Bard, Sorcerer, Warlock, Wizard" /></spell><spell><name text="Magic Circle" /><classes text="School: Abjuration, Fighter (Eldritch Knight), Cleric, Paladin, Warlock, Wizard" /></spell><spell><name text="Magic Jar" /><classes text="School: Necromancy, Wizard" /></spell><spell><name text="Magic Missile" /><classes text="School: Evocation, Fighter (Eldritch Knight), Sorcerer, Wizard" /></spell><spell><name text="Magic Mouth" /><classes text="School: Illusion, Rogue (Arcane Trickster), Bard, Wizard" /></spell><spell><name text="Magic Weapon" /><classes text="School: Transformation, Paladin, Wizard, Cleric (War)" /></spell><spell><name text="Major Image" /><classes text="School: Illusion, Rogue (Arcane Trickster), Bard, Sorcerer, Warlock, Wizard" /></spell><spell><name text="Mass Cure Wounds" /><classes text="School: Evocation, Bard, Cleric, Druid, Cleric (Life)" /></spell><spell><name text="Mass Heal" /><classes text="School: Evocation, Cleric" /></spell><spell><name text="Mass Healing Word" /><classes text="School: Evocation, Cleric" /></spell><spell><name text="Mass Suggestion" /><classes text="School: Enchantment, Bard, Sorcerer, Warlock, Wizard" /></spell><spell><name text="Maze" /><classes text="School: Conjuration, Wizard" /></spell><spell><name text="Melf's Acid Arrow" /><classes text="School: Evocation, Wizard, Druid (Swamp)" /></spell><spell><name text="Mending" /><classes text="School: Transformation, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Bard, Cleric, Druid, Sorcerer, Wizard" /></spell><spell><name text="Message" /><classes text="School: Transformation, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Bard, Sorcerer, Wizard" /></spell><spell><name text="Meteor Swarm" /><classes text="School: Evocation, Sorcerer, Wizard" /></spell><spell><name text="Mind Blank" /><classes text="School: Abjuration, Bard, Wizard" /></spell><spell><name text="Minor Illusion" /><classes text="School: Illusion, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Bard, Sorcerer, Warlock, Wizard, Wizard (Illusion)" /></spell><spell><name text="Mirage Arcane" /><classes text="School: Illusion, Bard, Druid, Wizard" /></spell><spell><name text="Mirror Image" /><classes text="School: Illusion, Rogue (Arcane Trickster), Sorcerer, Warlock, Wizard, Cleric (Trickery), Druid (Coast)" /></spell><spell><name text="Mislead" /><classes text="School: Illusion, Bard, Wizard" /></spell><spell><name text="Misty Step" /><classes text="School: Conjuration, Sorcerer, Warlock, Wizard, Druid (Coast), Paladin (Ancients), Paladin (Vengeance)" /></spell><spell><name text="Modify Memory" /><classes text="School: Enchantment, Bard, Wizard, Cleric (Trickery)" /></spell><spell><name text="Moonbeam" /><classes text="School: Evocation, Druid, Paladin (Ancients)" /></spell><spell><name text="Mordenkainen's Faithful Hound" /><classes text="School: Conjuration, Wizard" /></spell><spell><name text="Mordenkainen's Magnificent Mansion" /><classes text="School: Conjuration, Bard, Wizard" /></spell><spell><name text="Mordenkainen's Private Sanctum" /><classes text="School: Abjuration, Fighter (Eldritch Knight), Wizard" /></spell><spell><name text="Mordenkainen's Sword" /><classes text="School: Evocation, Bard, Wizard" /></spell><spell><name text="Move Earth" /><classes text="School: Transformation, Druid, Sorcerer, Wizard" /></spell><spell><name text="Nondetection" /><classes text="School: Abjuration, Fighter (Eldritch Knight), Bard, Ranger, Wizard, Cleric (Knowledge)" /></spell><spell><name text="Nystul's Magic Aura" /><classes text="School: Illusion, Rogue (Arcane Trickster), Wizard" /></spell><spell><name text="Otiluke's Freezing Sphere" /><classes text="School: Evocation, Wizard, Sorcerer" /></spell><spell><name text="Otiluke's Resilient Sphere" /><classes text="School: Evocation, Fighter (Eldritch Knight), Wizard" /></spell><spell><name text="Otto's Irresistible Dance" /><classes text="School: Enchantment, Bard, Wizard" /></spell><spell><name text="Passwall" /><classes text="School: Transformation, Wizard, Druid (Mountain)" /></spell><spell><name text="Phantasmal Force" /><classes text="School: Illusion, Rogue (Arcane Trickster), Bard, Sorcerer, Wizard, Warlock (Archfey), Warlock (Great Old One)" /></spell><spell><name text="Phantasmal Killer" /><classes text="School: Illusion, Rogue (Arcane Trickster), Wizard" /></spell><spell><name text="Phantom Steed" /><classes text="School: Illusion, Rogue (Arcane Trickster), Wizard" /></spell><spell><name text="Planar Ally" /><classes text="School: Conjuration, Cleric" /></spell><spell><name text="Planar Binding" /><classes text="School: Abjuration, Bard, Cleric, Druid, Wizard" /></spell><spell><name text="Plane Shift" /><classes text="School: Conjuration, Cleric, Druid, Sorcerer, Warlock, Wizard" /></spell><spell><name text="Plant Growth" /><classes text="School: Transformation, Bard, Druid, Ranger, Cleric (Nature), Druid (Forest), Paladin (Ancients), Warlock (Archfey)" /></spell><spell><name text="Poison Spray" /><classes text="School: Conjuration, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Druid, Sorcerer, Warlock, Wizard" /></spell><spell><name text="Polymorph" /><classes text="School: Transformation, Bard, Druid, Sorcerer, Wizard, Cleric (Trickery)" /></spell><spell><name text="Power Word Heal" /><classes text="School: Evocation, Bard" /></spell><spell><name text="Power Word Kill" /><classes text="School: Enchantment, Bard, Sorcerer, Warlock, Wizard" /></spell><spell><name text="Power Word Stun" /><classes text="School: Enchantment, Bard, Sorcerer, Warlock, Wizard" /></spell><spell><name text="Prayer of Healing" /><classes text="School: Evocation, Cleric" /></spell><spell><name text="Prestidigitation" /><classes text="School: Transformation, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Bard, Sorcerer, Warlock, Wizard" /></spell><spell><name text="Prismatic Spray" /><classes text="School: Evocation, Sorcerer, Wizard" /></spell><spell><name text="Prismatic Wall" /><classes text="School: Abjuration, Wizard" /></spell><spell><name text="Produce Flame" /><classes text="School: Conjuration, Druid" /></spell><spell><name text="Programmed Illusion" /><classes text="School: Illusion, Bard, Wizard" /></spell><spell><name text="Project Image" /><classes text="School: Illusion, Bard, Wizard" /></spell><spell><name text="Protection from Energy" /><classes text="School: Abjuration, Fighter (Eldritch Knight), Cleric, Druid, Ranger, Sorcerer, Wizard, Druid (Desert), Paladin (Ancients), Paladin (Vengeance)" /></spell><spell><name text="Protection from Evil and Good" /><classes text="School: Abjuration, Fighter (Eldritch Knight), Cleric, Paladin, Warlock, Wizard, Paladin (Devotion)" /></spell><spell><name text="Protection from Poison" /><classes text="School: Abjuration, Cleric, Druid, Paladin, Ranger" /></spell><spell><name text="Purify Food and Drink" /><classes text="School: Transformation, Cleric, Druid, Paladin" /></spell><spell><name text="Raise Dead" /><classes text="School: Necromancy, Bard, Cleric, Paladin, Cleric (Life)" /></spell><spell><name text="Rary's Telepathic Bond" /><classes text="School: Divination, Wizard" /></spell><spell><name text="Ray of Enfeeblement" /><classes text="School: Necromancy, Warlock, Wizard" /></spell><spell><name text="Ray of Frost" /><classes text="School: Evocation, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Sorcerer, Wizard" /></spell><spell><name text="Ray of Sickness" /><classes text="School: Necromancy, Sorcerer, Wizard" /></spell><spell><name text="Regenerate" /><classes text="School: Transformation, Bard, Cleric, Druid" /></spell><spell><name text="Reincarnate" /><classes text="School: Transformation, Druid" /></spell><spell><name text="Remove Curse" /><classes text="School: Abjuration, Fighter (Eldritch Knight), Cleric, Paladin, Warlock, Wizard" /></spell><spell><name text="Resistance" /><classes text="School: Abjuration, Cleric, Druid" /></spell><spell><name text="Resurrection" /><classes text="School: Necromancy, Bard, Cleric" /></spell><spell><name text="Reverse Gravity" /><classes text="School: Transformation, Druid, Sorcerer, Wizard" /></spell><spell><name text="Revivify" /><classes text="School: Necromancy, Cleric, Paladin, Cleric (Life)" /></spell><spell><name text="Rope Trick" /><classes text="School: Transformation, Wizard" /></spell><spell><name text="Sacred Flame" /><classes text="School: Evocation, Cleric" /></spell><spell><name text="Sanctuary" /><classes text="School: Abjuration, Cleric, Paladin (Devotion)" /></spell><spell><name text="Scorching Ray" /><classes text="School: Evocation, Fighter (Eldritch Knight), Sorcerer, Wizard, Cleric (Light), Warlock (Fiend)" /></spell><spell><name text="Scrying" /><classes text="School: Divination, Bard, Cleric, Druid, Warlock, Wizard, Cleric (Knowledge), Cleric (Light), Druid (Coast), Druid (Swamp), Paladin (Vengeance)" /></spell><spell><name text="Searing Smite" /><classes text="School: Evocation, Paladin" /></spell><spell><name text="See Invisibility" /><classes text="School: Divination, Bard, Sorcerer, Wizard" /></spell><spell><name text="Seeming" /><classes text="School: Illusion, Bard, Sorcerer, Wizard, Warlock (Archfey)" /></spell><spell><name text="Sending" /><classes text="School: Evocation, Fighter (Eldritch Knight), Bard, Cleric, Wizard, Warlock (Great Old One)" /></spell><spell><name text="Sequester" /><classes text="School: Transformation, Wizard" /></spell><spell><name text="Shapechange" /><classes text="School: Transformation, Druid, Wizard" /></spell><spell><name text="Shatter" /><classes text="School: Evocation, Fighter (Eldritch Knight), Bard, Sorcerer, Warlock, Wizard, Cleric (Tempest)" /></spell><spell><name text="Shield" /><classes text="School: Abjuration, Fighter (Eldritch Knight), Sorcerer, Wizard" /></spell><spell><name text="Shield of Faith" /><classes text="School: Abjuration, Cleric, Paladin, Cleric (War)" /></spell><spell><name text="Shillelagh" /><classes text="School: Transformation, Druid" /></spell><spell><name text="Shocking Grasp" /><classes text="School: Evocation, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Sorcerer, Wizard" /></spell><spell><name text="Silence" /><classes text="School: Illusion, Bard, Cleric, Ranger, Druid (Desert)" /></spell><spell><name text="Silent Image" /><classes text="School: Illusion, Rogue (Arcane Trickster), Bard, Sorcerer, Wizard" /></spell><spell><name text="Simulacrum" /><classes text="School: Illusion, Wizard" /></spell><spell><name text="Sleep" /><classes text="School: Enchantment, Rogue (Arcane Trickster), Bard, Sorcerer, Wizard, Warlock (Archfey)" /></spell><spell><name text="Sleet Storm" /><classes text="School: Conjuration, Druid, Sorcerer, Wizard, Cleric (Tempest), Druid (Arctic)" /></spell><spell><name text="Slow" /><classes text="School: Transformation, Sorcerer, Wizard, Druid (Arctic)" /></spell><spell><name text="Spare the Dying" /><classes text="School: Necromancy, Cleric" /></spell><spell><name text="Spider Climb" /><classes text="School: Transformation, Sorcerer, Warlock, Wizard, Druid (Forest), Druid (Mountain), Druid (Underdark)" /></spell><spell><name text="Spike Growth" /><classes text="School: Transformation, Druid, Ranger, Cleric (Nature), Druid (Arctic), Druid (Mountain)" /></spell><spell><name text="Spirit Guardians" /><classes text="School: Conjuration, Cleric, Cleric (War)" /></spell><spell><name text="Spiritual Weapon" /><classes text="School: Evocation, Cleric, Cleric (Life), Cleric (War)" /></spell><spell><name text="Staggering Smite" /><classes text="School: Evocation, Paladin" /></spell><spell><name text="Stinking Cloud" /><classes text="School: Conjuration, Bard, Sorcerer, Wizard, Druid (Swamp), Druid (Underdark), Warlock (Fiend)" /></spell><spell><name text="Stone Shape" /><classes text="School: Transformation, Cleric, Druid, Wizard, Druid (Mountain), Druid (Underdark)" /></spell><spell><name text="Stoneskin" /><classes text="School: Abjuration, Fighter (Eldritch Knight), Druid, Ranger, Sorcerer, Wizard, Cleric (War), Druid (Mountain), Paladin (Ancients)" /></spell><spell><name text="Storm of Vengeance" /><classes text="School: Conjuration, Druid" /></spell><spell><name text="Suggestion" /><classes text="School: Enchantment, Rogue (Arcane Trickster), Bard, Sorcerer, Warlock, Wizard, Cleric (Knowledge)" /></spell><spell><name text="Sunbeam" /><classes text="School: Evocation, Druid, Sorcerer, Wizard" /></spell><spell><name text="Sunburst" /><classes text="School: Evocation, Druid, Sorcerer, Wizard" /></spell><spell><name text="Swift Quiver" /><classes text="School: Transformation, Ranger" /></spell><spell><name text="Symbol" /><classes text="School: Abjuration, Bard, Cleric, Wizard" /></spell><spell><name text="Tasha's Hideous Laughter" /><classes text="School: Enchantment, Rogue (Arcane Trickster), Bard, Wizard, Warlock (Great Old One)" /></spell><spell><name text="Telekinesis" /><classes text="School: Transformation, Sorcerer, Wizard, Warlock (Great Old One)" /></spell><spell><name text="Telepathy" /><classes text="School: Evocation, Wizard" /></spell><spell><name text="Teleport" /><classes text="School: Conjuration, Bard, Sorcerer, Wizard" /></spell><spell><name text="Teleportation Circle" /><classes text="School: Conjuration, Bard, Sorcerer, Wizard" /></spell><spell><name text="Tenser's Floating Disk" /><classes text="School: Conjuration, Wizard" /></spell><spell><name text="Thaumaturgy" /><classes text="School: Transformation, Cleric" /></spell><spell><name text="Thorn Whip" /><classes text="School: Transformation, Druid" /></spell><spell><name text="Thunderous Smite" /><classes text="School: Evocation, Paladin" /></spell><spell><name text="Thunderwave" /><classes text="School: Evocation, Fighter (Eldritch Knight), Bard, Druid, Sorcerer, Wizard, Cleric (Tempest)" /></spell><spell><name text="Time Stop" /><classes text="School: Transformation, Sorcerer, Wizard" /></spell><spell><name text="Tongues" /><classes text="School: Divination, Bard, Cleric, Sorcerer, Warlock, Wizard" /></spell><spell><name text="Transport via Plants" /><classes text="School: Conjuration, Druid" /></spell><spell><name text="Tree Stride" /><classes text="School: Conjuration, Druid, Ranger, Cleric (Nature), Druid (Forest), Paladin (Ancients)" /></spell><spell><name text="True Polymorph" /><classes text="School: Transformation, Bard, Warlock, Wizard" /></spell><spell><name text="True Resurrection" /><classes text="School: Necromancy, Cleric, Druid" /></spell><spell><name text="True Seeing" /><classes text="School: Divination, Bard, Cleric, Sorcerer, Warlock, Wizard" /></spell><spell><name text="True Strike" /><classes text="School: Divination, Fighter (Eldritch Knight), Rogue (Arcane Trickster), Bard, Sorcerer, Warlock, Wizard" /></spell><spell><name text="Tsunami" /><classes text="School: Conjuration, Druid" /></spell><spell><name text="Unseen Servant" /><classes text="School: Conjuration, Bard, Warlock, Wizard" /></spell><spell><name text="Vampiric Touch" /><classes text="School: Necromancy, Warlock, Wizard" /></spell><spell><name text="Vicious Mockery" /><classes text="School: Enchantment, Bard" /></spell><spell><name text="Wall of Fire" /><classes text="School: Evocation, Fighter (Eldritch Knight), Druid, Sorcerer, Wizard, Cleric (Light), Warlock (Fiend)" /></spell><spell><name text="Wall of Force" /><classes text="School: Evocation, Wizard" /></spell><spell><name text="Wall of Ice" /><classes text="School: Evocation, Wizard" /></spell><spell><name text="Wall of Stone" /><classes text="School: Evocation, Druid, Sorcerer, Wizard, Druid (Desert), Druid (Mountain)" /></spell><spell><name text="Wall of Thorns" /><classes text="School: Conjuration, Druid" /></spell><spell><name text="Warding Bond" /><classes text="School: Abjuration, Cleric" /></spell><spell><name text="Water Breathing" /><classes text="School: Transformation, Druid, Ranger, Sorcerer, Wizard, Druid (Coast)" /></spell><spell><name text="Water Walk" /><classes text="School: Transformation, Cleric, Druid, Ranger, Sorcerer, Druid (Coast), Druid (Swamp)" /></spell><spell><name text="Web" /><classes text="School: Conjuration, Sorcerer, Wizard, Druid (Underdark)" /></spell><spell><name text="Weird" /><classes text="School: Illusion, Wizard" /></spell><spell><name text="Wind Walk" /><classes text="School: Transformation, Druid" /></spell><spell><name text="Wind Wall" /><classes text="School: Evocation, Druid, Ranger, Cleric (Nature)" /></spell><spell><name text="Wish" /><classes text="School: Conjuration, Sorcerer, Wizard" /></spell><spell><name text="Witch Bolt" /><classes text="School: Evocation, Fighter (Eldritch Knight), Sorcerer, Warlock, Wizard" /></spell><spell><name text="Word of Recall" /><classes text="School: Conjuration, Cleric" /></spell><spell><name text="Wrathful Smite" /><classes text="School: Evocation, Paladin" /></spell><spell><name text="Zone of Truth" /><classes text="School: Enchantment, Bard, Cleric, Paladin, Paladin (Devotion)" /></spell></compendium>
+<compendium version="5" auto_indent="NO">
+    <spell>
+        <name>Acid Splash</name>
+        <classes>School: Conjuration,  Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Aid</name>
+        <classes>School: Abjuration, Cleric, Paladin</classes>
+    </spell>
+    <spell>
+        <name>Alarm</name>
+        <classes>School: Abjuration, Ranger, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Alter Self</name>
+        <classes>School: Transformation, Sorcerer, Wizard, Druid (Moon)</classes>
+    </spell>
+    <spell>
+        <name>Animal Friendship</name>
+        <classes>School: Enchantment, Bard, Druid, Ranger, Cleric (Nature)</classes>
+    </spell>
+    <spell>
+        <name>Animal Messenger</name>
+        <classes>School: Enchantment, Bard, Druid, Ranger</classes>
+    </spell>
+    <spell>
+        <name>Animal Shapes</name>
+        <classes>School: Transformation, Druid</classes>
+    </spell>
+    <spell>
+        <name>Animate Dead</name>
+        <classes>School: Necromancy, Cleric, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Animate Objects</name>
+        <classes>School: Transformation, Bard, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Antilife Shell</name>
+        <classes>School: Abjuration, Druid</classes>
+    </spell>
+    <spell>
+        <name>Antimagic Field</name>
+        <classes>School: Abjuration, Cleric, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Antipathy/Sympathy</name>
+        <classes>School: Enchantment, Druid, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Arcane Eye</name>
+        <classes>School: Divination, Wizard, Cleric (Knowledge)</classes>
+    </spell>
+    <spell>
+        <name>Arcane Gate</name>
+        <classes>School: Conjuration, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Arcane Lock</name>
+        <classes>School: Abjuration, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Armor of Agathys</name>
+        <classes>School: Abjuration, Warlock</classes>
+    </spell>
+    <spell>
+        <name>Arms of Hadar</name>
+        <classes>School: Conjuration, Warlock</classes>
+    </spell>
+    <spell>
+        <name>Astral Projection</name>
+        <classes>School: Necromancy, Cleric, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Augury</name>
+        <classes>School: Divination, Cleric, Cleric (Knowledge)</classes>
+    </spell>
+    <spell>
+        <name>Aura of Life</name>
+        <classes>School: Abjuration, Paladin</classes>
+    </spell>
+    <spell>
+        <name>Aura of Purity</name>
+        <classes>School: Abjuration, Paladin</classes>
+    </spell>
+    <spell>
+        <name>Aura of Vitality</name>
+        <classes>School: Evocation, Paladin</classes>
+    </spell>
+    <spell>
+        <name>Awaken</name>
+        <classes>School: Transformation, Bard, Druid</classes>
+    </spell>
+    <spell>
+        <name>Bane</name>
+        <classes>School: Enchantment, Bard, Cleric, Paladin (Vengeance)</classes>
+    </spell>
+    <spell>
+        <name>Banishing Smite</name>
+        <classes>School: Abjuration, Paladin</classes>
+    </spell>
+    <spell>
+        <name>Banishment</name>
+        <classes>School: Abjuration, Cleric, Paladin, Sorcerer, Warlock, Wizard, Paladin (Vengeance)</classes>
+    </spell>
+    <spell>
+        <name>Barkskin</name>
+        <classes>School: Transformation, Druid, Ranger, Cleric (Nature), Druid (Forest)</classes>
+    </spell>
+    <spell>
+        <name>Beacon of Hope</name>
+        <classes>School: Abjuration, Cleric, Cleric (Life), Paladin (Devotion)</classes>
+    </spell>
+    <spell>
+        <name>Beast Sense</name>
+        <classes>School: Divination, Druid, Ranger, Barbarian (Totem Warrior)</classes>
+    </spell>
+    <spell>
+        <name>Bestow Curse</name>
+        <classes>School: Necromancy, Bard, Cleric, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Bigby's Hand</name>
+        <classes>School: Evocation, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Blade Barrier</name>
+        <classes>School: Evocation, Cleric</classes>
+    </spell>
+    <spell>
+        <name>Blade Ward</name>
+        <classes>School: Abjuration,  Bard, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Bless</name>
+        <classes>School: Enchantment, Cleric, Paladin, Cleric (Life)</classes>
+    </spell>
+    <spell>
+        <name>Blight</name>
+        <classes>School: Necromancy, Druid, Sorcerer, Warlock, Wizard, Druid (Desert)</classes>
+    </spell>
+    <spell>
+        <name>Blinding Smite</name>
+        <classes>School: Evocation, Paladin</classes>
+    </spell>
+    <spell>
+        <name>Blindness/Deafness</name>
+        <classes>School: Necromancy, Bard, Cleric, Sorcerer, Wizard, Warlock (Fiend)</classes>
+    </spell>
+    <spell>
+        <name>Blink</name>
+        <classes>School: Transformation, Sorcerer, Wizard, Cleric (Trickery), Warlock (Archfey)</classes>
+    </spell>
+    <spell>
+        <name>Blur</name>
+        <classes>School: Illusion, Sorcerer, Wizard, Druid (Desert)</classes>
+    </spell>
+    <spell>
+        <name>Burning Hands</name>
+        <classes>School: Evocation, Sorcerer, Wizard, Cleric (Light), Warlock (Fiend)</classes>
+    </spell>
+    <spell>
+        <name>Call Lightning</name>
+        <classes>School: Conjuration, Druid, Cleric (Tempest), Druid (Forest)</classes>
+    </spell>
+    <spell>
+        <name>Calm Emotions</name>
+        <classes>School: Enchantment, Bard, Cleric, Warlock (Archfey)</classes>
+    </spell>
+    <spell>
+        <name>Chain Lightning</name>
+        <classes>School: Evocation, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Charm Person</name>
+        <classes>School: Enchantment,  Bard, Druid, Sorcerer, Warlock, Wizard, Cleric (Trickery)</classes>
+    </spell>
+    <spell>
+        <name>Chill Touch</name>
+        <classes>School: Necromancy,  Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Chromatic Orb</name>
+        <classes>School: Evocation, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Circle of Death</name>
+        <classes>School: Necromancy, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Circle of Power</name>
+        <classes>School: Abjuration, Paladin</classes>
+    </spell>
+    <spell>
+        <name>Clairvoyance</name>
+        <classes>School: Divination, Bard, Cleric, Sorcerer, Wizard,
+        </classes>
+    </spell>
+    <spell>
+        <name>Clone</name>
+        <classes>School: Necromancy, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Cloud of Daggers</name>
+        <classes>School: Conjuration, Bard, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Cloudkill</name>
+        <classes>School: Conjuration, Sorcerer, Wizard, Druid (Underdark)</classes>
+    </spell>
+    <spell>
+        <name>Color Spray</name>
+        <classes>School: Illusion, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Command</name>
+        <classes>School: Enchantment, Cleric, Paladin, Cleric (Knowledge), Warlock (Fiend)</classes>
+    </spell>
+    <spell>
+        <name>Commune</name>
+        <classes>School: Divination, Cleric, Paladin (Devotion)</classes>
+    </spell>
+    <spell>
+        <name>Compelled Duel</name>
+        <classes>School: Enchantment, Paladin</classes>
+    </spell>
+    <spell>
+        <name>Comprehend Languages</name>
+        <classes>School: Divination, Bard, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Compulsion</name>
+        <classes>School: Enchantment, Bard</classes>
+    </spell>
+    <spell>
+        <name>Cone of Cold</name>
+        <classes>School: Evocation, Sorcerer, Wizard, Druid (Arctic)</classes>
+    </spell>
+    <spell>
+        <name>Confusion</name>
+        <classes>School: Enchantment,  Bard, Druid, Sorcerer, Wizard, Cleric (Knowledge)</classes>
+    </spell>
+    <spell>
+        <name>Conjure Animals</name>
+        <classes>School: Conjuration, Druid, Ranger</classes>
+    </spell>
+    <spell>
+        <name>Conjure Barrage</name>
+        <classes>School: Conjuration, Ranger</classes>
+    </spell>
+    <spell>
+        <name>Conjure Celestial</name>
+        <classes>School: Conjuration, Cleric</classes>
+    </spell>
+    <spell>
+        <name>Conjure Elemental</name>
+        <classes>School: Conjuration, Druid, Wizard, Druid (Coast)</classes>
+    </spell>
+    <spell>
+        <name>Conjure Fey</name>
+        <classes>School: Conjuration, Druid, Warlock</classes>
+    </spell>
+    <spell>
+        <name>Conjure Minor Elementals</name>
+        <classes>School: Conjuration, Druid, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Conjure Volley</name>
+        <classes>School: Conjuration, Ranger</classes>
+    </spell>
+    <spell>
+        <name>Conjure Woodland Beings</name>
+        <classes>School: Conjuration, Druid, Ranger</classes>
+    </spell>
+    <spell>
+        <name>Contact Other Plane</name>
+        <classes>School: Divination, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Contagion</name>
+        <classes>School: Necromancy, Cleric, Druid</classes>
+    </spell>
+    <spell>
+        <name>Contingency</name>
+        <classes>School: Evocation, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Continual Flame</name>
+        <classes>School: Evocation, Cleric, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Control Water</name>
+        <classes>School: Transformation, Cleric, Druid, Wizard, Cleric (Tempest), Druid (Coast)</classes>
+    </spell>
+    <spell>
+        <name>Control Weather</name>
+        <classes>School: Transformation, Cleric, Druid, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Cordon of Arrows</name>
+        <classes>School: Transformation, Ranger</classes>
+    </spell>
+    <spell>
+        <name>Counterspell</name>
+        <classes>School: Abjuration, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Create Food and Water</name>
+        <classes>School: Conjuration, Cleric, Paladin, Druid (Desert)</classes>
+    </spell>
+    <spell>
+        <name>Create or Destroy Water</name>
+        <classes>School: Transformation, Cleric, Druid</classes>
+    </spell>
+    <spell>
+        <name>Create Undead</name>
+        <classes>School: Necromancy, Cleric, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Creation</name>
+        <classes>School: Illusion, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Crown of Madness</name>
+        <classes>School: Enchantment,  Bard, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Crusader's Mantle</name>
+        <classes>School: Evocation, Paladin, Cleric (War)</classes>
+    </spell>
+    <spell>
+        <name>Cure Wounds</name>
+        <classes>School: Evocation, Bard, Cleric, Druid, Paladin, Ranger, Cleric (Life)</classes>
+    </spell>
+    <spell>
+        <name>Dancing Lights</name>
+        <classes>School: Evocation,  Bard, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Darkness</name>
+        <classes>School: Evocation, Sorcerer, Warlock, Wizard, Druid (Swamp)</classes>
+    </spell>
+    <spell>
+        <name>Darkvision</name>
+        <classes>School: Transformation, Druid, Ranger, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Daylight</name>
+        <classes>School: Evocation, Cleric, Druid, Paladin, Ranger, Sorcerer, Cleric (Light), Druid (Grassland)</classes>
+    </spell>
+    <spell>
+        <name>Death Ward</name>
+        <classes>School: Abjuration, Cleric, Paladin, Cleric (Life)</classes>
+    </spell>
+    <spell>
+        <name>Delayed Blast Fireball</name>
+        <classes>School: Evocation, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Demiplane</name>
+        <classes>School: Conjuration, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Destructive Wave</name>
+        <classes>School: Evocation, Paladin, Cleric (Tempest)</classes>
+    </spell>
+    <spell>
+        <name>Detect Evil and Good</name>
+        <classes>School: Divination, Cleric, Paladin</classes>
+    </spell>
+    <spell>
+        <name>Detect Magic</name>
+        <classes>School: Divination, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Detect Poison and Disease</name>
+        <classes>School: Divination, Cleric, Druid, Paladin, Ranger</classes>
+    </spell>
+    <spell>
+        <name>Detect Thoughts</name>
+        <classes>School: Divination, Bard, Sorcerer, Wizard, Warlock (Great Old One)</classes>
+    </spell>
+    <spell>
+        <name>Dimension Door</name>
+        <classes>School: Conjuration, Bard, Sorcerer, Warlock, Wizard, Cleric (Trickery), Paladin (Vengeance)</classes>
+    </spell>
+    <spell>
+        <name>Disguise Self</name>
+        <classes>School: Illusion,  Bard, Sorcerer, Wizard, Cleric (Trickery)</classes>
+    </spell>
+    <spell>
+        <name>Disintegrate</name>
+        <classes>School: Transformation, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Dispel Evil and Good</name>
+        <classes>School: Abjuration, Cleric, Paladin</classes>
+    </spell>
+    <spell>
+        <name>Dispel Magic</name>
+        <classes>School: Abjuration, Bard, Cleric, Druid, Paladin, Sorcerer, Warlock, Wizard, Cleric (Trickery), Paladin (Devotion)</classes>
+    </spell>
+    <spell>
+        <name>Dissonant Whispers</name>
+        <classes>School: Enchantment, Bard, Warlock (Great Old One)</classes>
+    </spell>
+    <spell>
+        <name>Divination</name>
+        <classes>School: Divination, Cleric, Druid (Forest), Druid (Grassland)</classes>
+    </spell>
+    <spell>
+        <name>Divine Favor</name>
+        <classes>School: Evocation, Paladin, Cleric (War)</classes>
+    </spell>
+    <spell>
+        <name>Divine Word</name>
+        <classes>School: Evocation, Cleric</classes>
+    </spell>
+    <spell>
+        <name>Dominate Beast</name>
+        <classes>School: Enchantment, Druid, Sorcerer, Cleric (Nature), Warlock (Archfey), Warlock (Great Old One)</classes>
+    </spell>
+    <spell>
+        <name>Dominate Monster</name>
+        <classes>School: Enchantment, Bard, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Dominate Person</name>
+        <classes>School: Enchantment, Bard, Sorcerer, Wizard, Cleric (Trickery), Warlock (Archfey), Warlock (Great Old One)</classes>
+    </spell>
+    <spell>
+        <name>Drawmij's Instant Summons</name>
+        <classes>School: Conjuration, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Dream</name>
+        <classes>School: Illusion, Bard, Warlock, Wizard, Druid (Grassland)</classes>
+    </spell>
+    <spell>
+        <name>Druidcraft</name>
+        <classes>School: Transformation, Druid</classes>
+    </spell>
+    <spell>
+        <name>Earthquake</name>
+        <classes>School: Evocation, Cleric, Druid, Sorcerer</classes>
+    </spell>
+    <spell>
+        <name>Eldritch Blast</name>
+        <classes>School: Evocation, Warlock</classes>
+    </spell>
+    <spell>
+        <name>Elemental Weapon</name>
+        <classes>School: Transformation, Paladin</classes>
+    </spell>
+    <spell>
+        <name>Enhance Ability</name>
+        <classes>School: Transformation, Bard, Cleric, Druid, Sorcerer</classes>
+    </spell>
+    <spell>
+        <name>Enlarge/Reduce</name>
+        <classes>School: Transformation, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Ensnaring Strike</name>
+        <classes>School: Conjuration, Ranger, Paladin (Ancients)</classes>
+    </spell>
+    <spell>
+        <name>Entangle</name>
+        <classes>School: Conjuration, Druid</classes>
+    </spell>
+    <spell>
+        <name>Enthrall</name>
+        <classes>School: Enchantment, Bard, Warlock</classes>
+    </spell>
+    <spell>
+        <name>Etherealness</name>
+        <classes>School: Transformation, Bard, Cleric, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Evard's Black Tentacles</name>
+        <classes>School: Conjuration, Wizard, Warlock (Great Old One)</classes>
+    </spell>
+    <spell>
+        <name>Expeditious Retreat</name>
+        <classes>School: Transformation, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Eyebite</name>
+        <classes>School: Necromancy, Bard, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Fabricate</name>
+        <classes>School: Transformation, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Faerie Fire</name>
+        <classes>School: Evocation, Bard, Druid, Cleric (Light), Warlock (Archfey)</classes>
+    </spell>
+    <spell>
+        <name>False Life</name>
+        <classes>School: Necromancy, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Fear</name>
+        <classes>School: Illusion, Bard, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Feather Fall</name>
+        <classes>School: Transformation, Bard, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Feign Death</name>
+        <classes>School: Necromancy, Bard, Cleric, Druid, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Find Familiar</name>
+        <classes>School: Conjuration, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Find Steed</name>
+        <classes>School: Conjuration, Paladin</classes>
+    </spell>
+    <spell>
+        <name>Find the Path</name>
+        <classes>School: Divination, Bard, Cleric, Druid</classes>
+    </spell>
+    <spell>
+        <name>Find Traps</name>
+        <classes>School: Divination, Cleric, Druid, Ranger</classes>
+    </spell>
+    <spell>
+        <name>Finger of Death</name>
+        <classes>School: Necromancy, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Fire Bolt</name>
+        <classes>School: Evocation,  Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Fire Shield</name>
+        <classes>School: Evocation, Wizard, Warlock (Fiend)</classes>
+    </spell>
+    <spell>
+        <name>Fire Storm</name>
+        <classes>School: Evocation, Cleric, Druid, Sorcerer</classes>
+    </spell>
+    <spell>
+        <name>Fireball</name>
+        <classes>School: Evocation, Sorcerer, Wizard, Cleric (Light), Warlock (Fiend)</classes>
+    </spell>
+    <spell>
+        <name>Flame Blade</name>
+        <classes>School: Evocation, Druid</classes>
+    </spell>
+    <spell>
+        <name>Flame Strike</name>
+        <classes>School: Evocation, Cleric, Cleric (Light), Cleric (War), Paladin (Devotion), Warlock (Fiend)</classes>
+    </spell>
+    <spell>
+        <name>Flaming Sphere</name>
+        <classes>School: Conjuration, Druid, Wizard, Cleric (Light)</classes>
+    </spell>
+    <spell>
+        <name>Flesh to Stone</name>
+        <classes>School: Transformation, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Fly</name>
+        <classes>School: Transformation, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Fog Cloud</name>
+        <classes>School: Conjuration, Druid, Ranger, Sorcerer, Wizard, Cleric (Tempest)</classes>
+    </spell>
+    <spell>
+        <name>Forbiddance</name>
+        <classes>School: Abjuration, Cleric</classes>
+    </spell>
+    <spell>
+        <name>Forcecage</name>
+        <classes>School: Evocation, Bard, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Foresight</name>
+        <classes>School: Divination, Bard, Druid, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Freedom of Movement</name>
+        <classes>School: Abjuration, Bard, Cleric, Druid, Ranger, Cleric (War), Druid (Arctic), Druid (Coast), Druid (Forest), Druid (Grassland), Druid (Swamp), Paladin (Devotion)</classes>
+    </spell>
+    <spell>
+        <name>Friends</name>
+        <classes>School: Enchantment,  Bard, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Gaseous Form</name>
+        <classes>School: Transformation, Sorcerer, Warlock, Wizard, Druid (Underdark)</classes>
+    </spell>
+    <spell>
+        <name>Gate</name>
+        <classes>School: Conjuration, Cleric, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Geas</name>
+        <classes>School: Enchantment, Bard, Cleric, Druid, Paladin, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Gentle Repose</name>
+        <classes>School: Necromancy, Cleric, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Giant Insect</name>
+        <classes>School: Transformation, Druid</classes>
+    </spell>
+    <spell>
+        <name>Glibness</name>
+        <classes>School: Transformation, Bard, Warlock</classes>
+    </spell>
+    <spell>
+        <name>Globe of Invulnerability</name>
+        <classes>School: Abjuration, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Glyph of Warding</name>
+        <classes>School: Abjuration, Bard, Cleric, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Goodberry</name>
+        <classes>School: Transformation, Druid, Ranger</classes>
+    </spell>
+    <spell>
+        <name>Grasping Vine</name>
+        <classes>School: Conjuration, Druid, Ranger, Cleric (Nature)</classes>
+    </spell>
+    <spell>
+        <name>Grease</name>
+        <classes>School: Conjuration, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Greater Invisibility</name>
+        <classes>School: Illusion,  Bard, Sorcerer, Wizard, Druid (Underdark), Warlock (Archfey)</classes>
+    </spell>
+    <spell>
+        <name>Greater Restoration</name>
+        <classes>School: Abjuration, Bard, Cleric, Druid</classes>
+    </spell>
+    <spell>
+        <name>Guardian of Faith</name>
+        <classes>School: Conjuration, Cleric, Cleric (Life), Cleric (Light), Paladin (Devotion)</classes>
+    </spell>
+    <spell>
+        <name>Guards and Wards</name>
+        <classes>School: Abjuration, Bard, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Guidance</name>
+        <classes>School: Divination, Cleric, Druid</classes>
+    </spell>
+    <spell>
+        <name>Guiding Bolt</name>
+        <classes>School: Evocation, Cleric</classes>
+    </spell>
+    <spell>
+        <name>Gust of Wind</name>
+        <classes>School: Evocation, Druid, Sorcerer, Wizard, Cleric (Tempest)</classes>
+    </spell>
+    <spell>
+        <name>Hail of Thorns</name>
+        <classes>School: Conjuration, Ranger</classes>
+    </spell>
+    <spell>
+        <name>Hallow</name>
+        <classes>School: Evocation, Cleric, Warlock (Fiend)</classes>
+    </spell>
+    <spell>
+        <name>Hallucinatory Terrain</name>
+        <classes>School: Illusion,  Bard, Druid, Warlock, Wizard, Druid (Desert)</classes>
+    </spell>
+    <spell>
+        <name>Harm</name>
+        <classes>School: Necromancy, Cleric</classes>
+    </spell>
+    <spell>
+        <name>Haste</name>
+        <classes>School: Transformation, Sorcerer, Wizard, Druid (Grassland), Paladin (Vengeance)</classes>
+    </spell>
+    <spell>
+        <name>Heal</name>
+        <classes>School: Evocation, Cleric, Druid</classes>
+    </spell>
+    <spell>
+        <name>Healing Word</name>
+        <classes>School: Evocation, Bard, Cleric, Druid</classes>
+    </spell>
+    <spell>
+        <name>Heat Metal</name>
+        <classes>School: Transformation, Bard, Druid</classes>
+    </spell>
+    <spell>
+        <name>Hellish Rebuke</name>
+        <classes>School: Evocation, Warlock</classes>
+    </spell>
+    <spell>
+        <name>Heroes' Feast</name>
+        <classes>School: Conjuration, Cleric, Druid</classes>
+    </spell>
+    <spell>
+        <name>Heroism</name>
+        <classes>School: Enchantment, Bard, Paladin</classes>
+    </spell>
+    <spell>
+        <name>Hex</name>
+        <classes>School: Enchantment, Warlock</classes>
+    </spell>
+    <spell>
+        <name>Hold Monster</name>
+        <classes>School: Enchantment, Bard, Sorcerer, Warlock, Wizard, Cleric (War), Paladin (Vengeance)</classes>
+    </spell>
+    <spell>
+        <name>Hold Person</name>
+        <classes>School: Enchantment,  Bard, Cleric, Druid, Sorcerer, Warlock, Wizard, Druid (Arctic), Paladin (Vengeance)</classes>
+    </spell>
+    <spell>
+        <name>Holy Aura</name>
+        <classes>School: Abjuration, Cleric</classes>
+    </spell>
+    <spell>
+        <name>Hunger of Hadar</name>
+        <classes>School: Conjuration, Warlock</classes>
+    </spell>
+    <spell>
+        <name>Hunter's Mark</name>
+        <classes>School: Divination, Ranger, Paladin (Vengeance)</classes>
+    </spell>
+    <spell>
+        <name>Hypnotic Pattern</name>
+        <classes>School: Illusion, Bard, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Ice Storm</name>
+        <classes>School: Evocation, Druid, Sorcerer, Wizard, Cleric (Tempest), Druid (Arctic), Paladin (Ancients)</classes>
+    </spell>
+    <spell>
+        <name>Identify</name>
+        <classes>School: Divination, Bard, Wizard, Cleric (Knowledge)</classes>
+    </spell>
+    <spell>
+        <name>Illusory Script</name>
+        <classes>School: Illusion, Bard, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Imprisonment</name>
+        <classes>School: Abjuration, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Incendiary Cloud</name>
+        <classes>School: Conjuration, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Inflict Wounds</name>
+        <classes>School: Necromancy, Cleric</classes>
+    </spell>
+    <spell>
+        <name>Insect Plague</name>
+        <classes>School: Conjuration, Cleric, Druid, Sorcerer, Cleric (Nature), Cleric (Tempest), Druid (Desert), Druid (Grassland), Druid (Swamp), Druid (Underdark)</classes>
+    </spell>
+    <spell>
+        <name>Invisibility</name>
+        <classes>School: Illusion,  Bard, Sorcerer, Warlock, Wizard, Druid (Grassland)</classes>
+    </spell>
+    <spell>
+        <name>Jump</name>
+        <classes>School: Transformation, Druid, Ranger, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Knock</name>
+        <classes>School: Transformation, Bard, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Legend Lore</name>
+        <classes>School: Divination, Bard, Cleric, Wizard, Cleric (Knowledge)</classes>
+    </spell>
+    <spell>
+        <name>Leomund's Secret Chest</name>
+        <classes>School: Conjuration, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Leomund's Tiny Hut</name>
+        <classes>School: Evocation, Bard, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Lesser Restoration</name>
+        <classes>School: Abjuration, Bard, Cleric, Druid, Paladin, Ranger, Cleric (Life), Paladin (Devotion)</classes>
+    </spell>
+    <spell>
+        <name>Levitate</name>
+        <classes>School: Transformation, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Light</name>
+        <classes>School: Evocation,  Bard, Cleric, Sorcerer, Wizard, Cleric (Light)</classes>
+    </spell>
+    <spell>
+        <name>Lightning Arrow</name>
+        <classes>School: Transformation, Ranger</classes>
+    </spell>
+    <spell>
+        <name>Lightning Bolt</name>
+        <classes>School: Evocation, Sorcerer, Wizard, Druid (Mountain)</classes>
+    </spell>
+    <spell>
+        <name>Locate Animals or Plants</name>
+        <classes>School: Divination, Bard, Druid, Ranger</classes>
+    </spell>
+    <spell>
+        <name>Locate Creature</name>
+        <classes>School: Divination, Bard, Cleric, Druid, Paladin, Ranger, Wizard, Druid (Swamp)</classes>
+    </spell>
+    <spell>
+        <name>Locate Object</name>
+        <classes>School: Divination, Bard, Cleric, Druid, Paladin, Ranger, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Longstrider</name>
+        <classes>School: Transformation, Bard, Druid, Ranger, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Mage Armor</name>
+        <classes>School: Abjuration, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Mage Hand</name>
+        <classes>School: Conjuration,  Bard, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Magic Circle</name>
+        <classes>School: Abjuration, Cleric, Paladin, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Magic Jar</name>
+        <classes>School: Necromancy, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Magic Missile</name>
+        <classes>School: Evocation, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Magic Mouth</name>
+        <classes>School: Illusion, Bard, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Magic Weapon</name>
+        <classes>School: Transformation, Paladin, Wizard, Cleric (War)</classes>
+    </spell>
+    <spell>
+        <name>Major Image</name>
+        <classes>School: Illusion, Bard, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Mass Cure Wounds</name>
+        <classes>School: Evocation, Bard, Cleric, Druid, Cleric (Life)</classes>
+    </spell>
+    <spell>
+        <name>Mass Heal</name>
+        <classes>School: Evocation, Cleric</classes>
+    </spell>
+    <spell>
+        <name>Mass Healing Word</name>
+        <classes>School: Evocation, Cleric</classes>
+    </spell>
+    <spell>
+        <name>Mass Suggestion</name>
+        <classes>School: Enchantment, Bard, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Maze</name>
+        <classes>School: Conjuration, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Melf's Acid Arrow</name>
+        <classes>School: Evocation, Wizard, Druid (Swamp)</classes>
+    </spell>
+    <spell>
+        <name>Mending</name>
+        <classes>School: Transformation,  Bard, Cleric, Druid, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Message</name>
+        <classes>School: Transformation,  Bard, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Meteor Swarm</name>
+        <classes>School: Evocation, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Mind Blank</name>
+        <classes>School: Abjuration, Bard, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Minor Illusion</name>
+        <classes>School: Illusion,  Bard, Sorcerer, Warlock, Wizard, Wizard (Illusion)</classes>
+    </spell>
+    <spell>
+        <name>Mirage Arcane</name>
+        <classes>School: Illusion, Bard, Druid, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Mirror Image</name>
+        <classes>School: Illusion,  Sorcerer, Warlock, Wizard, Cleric (Trickery), Druid (Coast)</classes>
+    </spell>
+    <spell>
+        <name>Mislead</name>
+        <classes>School: Illusion, Bard, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Misty Step</name>
+        <classes>School: Conjuration, Sorcerer, Warlock, Wizard, Druid (Coast), Paladin (Ancients), Paladin (Vengeance)</classes>
+    </spell>
+    <spell>
+        <name>Modify Memory</name>
+        <classes>School: Enchantment, Bard, Wizard, Cleric (Trickery)</classes>
+    </spell>
+    <spell>
+        <name>Moonbeam</name>
+        <classes>School: Evocation, Druid, Paladin (Ancients)</classes>
+    </spell>
+    <spell>
+        <name>Mordenkainen's Faithful Hound</name>
+        <classes>School: Conjuration, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Mordenkainen's Magnificent Mansion</name>
+        <classes>School: Conjuration, Bard, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Mordenkainen's Private Sanctum</name>
+        <classes>School: Abjuration, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Mordenkainen's Sword</name>
+        <classes>School: Evocation, Bard, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Move Earth</name>
+        <classes>School: Transformation, Druid, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Nondetection</name>
+        <classes>School: Abjuration, Bard, Ranger, Wizard, Cleric (Knowledge)</classes>
+    </spell>
+    <spell>
+        <name>Nystul's Magic Aura</name>
+        <classes>School: Illusion, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Otiluke's Freezing Sphere</name>
+        <classes>School: Evocation, Wizard, Sorcerer</classes>
+    </spell>
+    <spell>
+        <name>Otiluke's Resilient Sphere</name>
+        <classes>School: Evocation, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Otto's Irresistible Dance</name>
+        <classes>School: Enchantment, Bard, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Passwall</name>
+        <classes>School: Transformation, Wizard, Druid (Mountain)</classes>
+    </spell>
+    <spell>
+        <name>Phantasmal Force</name>
+        <classes>School: Illusion,  Bard, Sorcerer, Wizard, Warlock (Archfey), Warlock (Great Old One)</classes>
+    </spell>
+    <spell>
+        <name>Phantasmal Killer</name>
+        <classes>School: Illusion, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Phantom Steed</name>
+        <classes>School: Illusion, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Planar Ally</name>
+        <classes>School: Conjuration, Cleric</classes>
+    </spell>
+    <spell>
+        <name>Planar Binding</name>
+        <classes>School: Abjuration, Bard, Cleric, Druid, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Plane Shift</name>
+        <classes>School: Conjuration, Cleric, Druid, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Plant Growth</name>
+        <classes>School: Transformation, Bard, Druid, Ranger, Cleric (Nature), Druid (Forest), Paladin (Ancients), Warlock (Archfey)</classes>
+    </spell>
+    <spell>
+        <name>Poison Spray</name>
+        <classes>School: Conjuration,  Druid, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Polymorph</name>
+        <classes>School: Transformation, Bard, Druid, Sorcerer, Wizard, Cleric (Trickery)</classes>
+    </spell>
+    <spell>
+        <name>Power Word Heal</name>
+        <classes>School: Evocation, Bard</classes>
+    </spell>
+    <spell>
+        <name>Power Word Kill</name>
+        <classes>School: Enchantment, Bard, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Power Word Stun</name>
+        <classes>School: Enchantment, Bard, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Prayer of Healing</name>
+        <classes>School: Evocation, Cleric</classes>
+    </spell>
+    <spell>
+        <name>Prestidigitation</name>
+        <classes>School: Transformation,  Bard, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Prismatic Spray</name>
+        <classes>School: Evocation, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Prismatic Wall</name>
+        <classes>School: Abjuration, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Produce Flame</name>
+        <classes>School: Conjuration, Druid</classes>
+    </spell>
+    <spell>
+        <name>Programmed Illusion</name>
+        <classes>School: Illusion, Bard, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Project Image</name>
+        <classes>School: Illusion, Bard, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Protection from Energy</name>
+        <classes>School: Abjuration, Cleric, Druid, Ranger, Sorcerer, Wizard, Druid (Desert), Paladin (Ancients), Paladin (Vengeance)</classes>
+    </spell>
+    <spell>
+        <name>Protection from Evil and Good</name>
+        <classes>School: Abjuration, Cleric, Paladin, Warlock, Wizard, Paladin (Devotion)</classes>
+    </spell>
+    <spell>
+        <name>Protection from Poison</name>
+        <classes>School: Abjuration, Cleric, Druid, Paladin, Ranger</classes>
+    </spell>
+    <spell>
+        <name>Purify Food and Drink</name>
+        <classes>School: Transformation, Cleric, Druid, Paladin</classes>
+    </spell>
+    <spell>
+        <name>Raise Dead</name>
+        <classes>School: Necromancy, Bard, Cleric, Paladin, Cleric (Life)</classes>
+    </spell>
+    <spell>
+        <name>Rary's Telepathic Bond</name>
+        <classes>School: Divination, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Ray of Enfeeblement</name>
+        <classes>School: Necromancy, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Ray of Frost</name>
+        <classes>School: Evocation,  Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Ray of Sickness</name>
+        <classes>School: Necromancy, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Regenerate</name>
+        <classes>School: Transformation, Bard, Cleric, Druid</classes>
+    </spell>
+    <spell>
+        <name>Reincarnate</name>
+        <classes>School: Transformation, Druid</classes>
+    </spell>
+    <spell>
+        <name>Remove Curse</name>
+        <classes>School: Abjuration, Cleric, Paladin, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Resistance</name>
+        <classes>School: Abjuration, Cleric, Druid</classes>
+    </spell>
+    <spell>
+        <name>Resurrection</name>
+        <classes>School: Necromancy, Bard, Cleric</classes>
+    </spell>
+    <spell>
+        <name>Reverse Gravity</name>
+        <classes>School: Transformation, Druid, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Revivify</name>
+        <classes>School: Necromancy, Cleric, Paladin, Cleric (Life)</classes>
+    </spell>
+    <spell>
+        <name>Rope Trick</name>
+        <classes>School: Transformation, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Sacred Flame</name>
+        <classes>School: Evocation, Cleric</classes>
+    </spell>
+    <spell>
+        <name>Sanctuary</name>
+        <classes>School: Abjuration, Cleric, Paladin (Devotion)</classes>
+    </spell>
+    <spell>
+        <name>Scorching Ray</name>
+        <classes>School: Evocation, Sorcerer, Wizard, Cleric (Light), Warlock (Fiend)</classes>
+    </spell>
+    <spell>
+        <name>Scrying</name>
+        <classes>School: Divination, Bard, Cleric, Druid, Warlock, Wizard, Cleric (Knowledge), Cleric (Light), Druid (Coast), Druid (Swamp), Paladin (Vengeance)</classes>
+    </spell>
+    <spell>
+        <name>Searing Smite</name>
+        <classes>School: Evocation, Paladin</classes>
+    </spell>
+    <spell>
+        <name>See Invisibility</name>
+        <classes>School: Divination, Bard, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Seeming</name>
+        <classes>School: Illusion, Bard, Sorcerer, Wizard, Warlock (Archfey)</classes>
+    </spell>
+    <spell>
+        <name>Sending</name>
+        <classes>School: Evocation, Bard, Cleric, Wizard, Warlock (Great Old One)</classes>
+    </spell>
+    <spell>
+        <name>Sequester</name>
+        <classes>School: Transformation, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Shapechange</name>
+        <classes>School: Transformation, Druid, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Shatter</name>
+        <classes>School: Evocation, Bard, Sorcerer, Warlock, Wizard, Cleric (Tempest)</classes>
+    </spell>
+    <spell>
+        <name>Shield</name>
+        <classes>School: Abjuration, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Shield of Faith</name>
+        <classes>School: Abjuration, Cleric, Paladin, Cleric (War)</classes>
+    </spell>
+    <spell>
+        <name>Shillelagh</name>
+        <classes>School: Transformation, Druid</classes>
+    </spell>
+    <spell>
+        <name>Shocking Grasp</name>
+        <classes>School: Evocation,  Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Silence</name>
+        <classes>School: Illusion, Bard, Cleric, Ranger, Druid (Desert)</classes>
+    </spell>
+    <spell>
+        <name>Silent Image</name>
+        <classes>School: Illusion, Bard, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Simulacrum</name>
+        <classes>School: Illusion, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Sleep</name>
+        <classes>School: Enchantment,  Bard, Sorcerer, Wizard, Warlock (Archfey)</classes>
+    </spell>
+    <spell>
+        <name>Sleet Storm</name>
+        <classes>School: Conjuration, Druid, Sorcerer, Wizard, Cleric (Tempest), Druid (Arctic)</classes>
+    </spell>
+    <spell>
+        <name>Slow</name>
+        <classes>School: Transformation, Sorcerer, Wizard, Druid (Arctic)</classes>
+    </spell>
+    <spell>
+        <name>Spare the Dying</name>
+        <classes>School: Necromancy, Cleric</classes>
+    </spell>
+    <spell>
+        <name>Spider Climb</name>
+        <classes>School: Transformation, Sorcerer, Warlock, Wizard, Druid (Forest), Druid (Mountain), Druid (Underdark)</classes>
+    </spell>
+    <spell>
+        <name>Spike Growth</name>
+        <classes>School: Transformation, Druid, Ranger, Cleric (Nature), Druid (Arctic), Druid (Mountain)</classes>
+    </spell>
+    <spell>
+        <name>Spirit Guardians</name>
+        <classes>School: Conjuration, Cleric, Cleric (War)</classes>
+    </spell>
+    <spell>
+        <name>Spiritual Weapon</name>
+        <classes>School: Evocation, Cleric, Cleric (Life), Cleric (War)</classes>
+    </spell>
+    <spell>
+        <name>Staggering Smite</name>
+        <classes>School: Evocation, Paladin</classes>
+    </spell>
+    <spell>
+        <name>Stinking Cloud</name>
+        <classes>School: Conjuration, Bard, Sorcerer, Wizard, Druid (Swamp), Druid (Underdark), Warlock (Fiend)</classes>
+    </spell>
+    <spell>
+        <name>Stone Shape</name>
+        <classes>School: Transformation, Cleric, Druid, Wizard, Druid (Mountain), Druid (Underdark)</classes>
+    </spell>
+    <spell>
+        <name>Stoneskin</name>
+        <classes>School: Abjuration, Druid, Ranger, Sorcerer, Wizard, Cleric (War), Druid (Mountain), Paladin (Ancients)</classes>
+    </spell>
+    <spell>
+        <name>Storm of Vengeance</name>
+        <classes>School: Conjuration, Druid</classes>
+    </spell>
+    <spell>
+        <name>Suggestion</name>
+        <classes>School: Enchantment,  Bard, Sorcerer, Warlock, Wizard, Cleric (Knowledge)</classes>
+    </spell>
+    <spell>
+        <name>Sunbeam</name>
+        <classes>School: Evocation, Druid, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Sunburst</name>
+        <classes>School: Evocation, Druid, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Swift Quiver</name>
+        <classes>School: Transformation, Ranger</classes>
+    </spell>
+    <spell>
+        <name>Symbol</name>
+        <classes>School: Abjuration, Bard, Cleric, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Tasha's Hideous Laughter</name>
+        <classes>School: Enchantment,  Bard, Wizard, Warlock (Great Old One)</classes>
+    </spell>
+    <spell>
+        <name>Telekinesis</name>
+        <classes>School: Transformation, Sorcerer, Wizard, Warlock (Great Old One)</classes>
+    </spell>
+    <spell>
+        <name>Telepathy</name>
+        <classes>School: Evocation, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Teleport</name>
+        <classes>School: Conjuration, Bard, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Teleportation Circle</name>
+        <classes>School: Conjuration, Bard, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Tenser's Floating Disk</name>
+        <classes>School: Conjuration, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Thaumaturgy</name>
+        <classes>School: Transformation, Cleric</classes>
+    </spell>
+    <spell>
+        <name>Thorn Whip</name>
+        <classes>School: Transformation, Druid</classes>
+    </spell>
+    <spell>
+        <name>Thunderous Smite</name>
+        <classes>School: Evocation, Paladin</classes>
+    </spell>
+    <spell>
+        <name>Thunderwave</name>
+        <classes>School: Evocation, Bard, Druid, Sorcerer, Wizard, Cleric (Tempest)</classes>
+    </spell>
+    <spell>
+        <name>Time Stop</name>
+        <classes>School: Transformation, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Tongues</name>
+        <classes>School: Divination, Bard, Cleric, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Transport via Plants</name>
+        <classes>School: Conjuration, Druid</classes>
+    </spell>
+    <spell>
+        <name>Tree Stride</name>
+        <classes>School: Conjuration, Druid, Ranger, Cleric (Nature), Druid (Forest), Paladin (Ancients)</classes>
+    </spell>
+    <spell>
+        <name>True Polymorph</name>
+        <classes>School: Transformation, Bard, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>True Resurrection</name>
+        <classes>School: Necromancy, Cleric, Druid</classes>
+    </spell>
+    <spell>
+        <name>True Seeing</name>
+        <classes>School: Divination, Bard, Cleric, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>True Strike</name>
+        <classes>School: Divination,  Bard, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Tsunami</name>
+        <classes>School: Conjuration, Druid</classes>
+    </spell>
+    <spell>
+        <name>Unseen Servant</name>
+        <classes>School: Conjuration, Bard, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Vampiric Touch</name>
+        <classes>School: Necromancy, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Vicious Mockery</name>
+        <classes>School: Enchantment, Bard</classes>
+    </spell>
+    <spell>
+        <name>Wall of Fire</name>
+        <classes>School: Evocation, Druid, Sorcerer, Wizard, Cleric (Light), Warlock (Fiend)</classes>
+    </spell>
+    <spell>
+        <name>Wall of Force</name>
+        <classes>School: Evocation, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Wall of Ice</name>
+        <classes>School: Evocation, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Wall of Stone</name>
+        <classes>School: Evocation, Druid, Sorcerer, Wizard, Druid (Desert), Druid (Mountain)</classes>
+    </spell>
+    <spell>
+        <name>Wall of Thorns</name>
+        <classes>School: Conjuration, Druid</classes>
+    </spell>
+    <spell>
+        <name>Warding Bond</name>
+        <classes>School: Abjuration, Cleric</classes>
+    </spell>
+    <spell>
+        <name>Water Breathing</name>
+        <classes>School: Transformation, Druid, Ranger, Sorcerer, Wizard, Druid (Coast)</classes>
+    </spell>
+    <spell>
+        <name>Water Walk</name>
+        <classes>School: Transformation, Cleric, Druid, Ranger, Sorcerer, Druid (Coast), Druid (Swamp)</classes>
+    </spell>
+    <spell>
+        <name>Web</name>
+        <classes>School: Conjuration, Sorcerer, Wizard, Druid (Underdark)</classes>
+    </spell>
+    <spell>
+        <name>Weird</name>
+        <classes>School: Illusion, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Wind Walk</name>
+        <classes>School: Transformation, Druid</classes>
+    </spell>
+    <spell>
+        <name>Wind Wall</name>
+        <classes>School: Evocation, Druid, Ranger, Cleric (Nature)</classes>
+    </spell>
+    <spell>
+        <name>Wish</name>
+        <classes>School: Conjuration, Sorcerer, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Witch Bolt</name>
+        <classes>School: Evocation, Sorcerer, Warlock, Wizard</classes>
+    </spell>
+    <spell>
+        <name>Word of Recall</name>
+        <classes>School: Conjuration, Cleric</classes>
+    </spell>
+    <spell>
+        <name>Wrathful Smite</name>
+        <classes>School: Evocation, Paladin</classes>
+    </spell>
+    <spell>
+        <name>Zone of Truth</name>
+        <classes>School: Enchantment, Bard, Cleric, Paladin, Paladin (Devotion)</classes>
+    </spell>
+</compendium>

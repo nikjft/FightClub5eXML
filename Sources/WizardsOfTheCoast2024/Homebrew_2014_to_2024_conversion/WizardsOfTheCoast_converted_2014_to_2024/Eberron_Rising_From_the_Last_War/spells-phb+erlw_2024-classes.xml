@@ -1,2 +1,407 @@
 <?xml version='1.0' encoding='utf-8'?>
-<compendium><spell><name text="Acid Splash" /><classes text="Artificer" /></spell><spell><name text="Aid" /><classes text="Artificer" /></spell><spell><name text="Alarm" /><classes text="Artificer" /></spell><spell><name text="Alter Self" /><classes text="Artificer, Artificer (Alchemist)" /></spell><spell><name text="Animate Objects" /><classes text="Artificer" /></spell><spell><name text="Arcane Eye" /><classes text="Artificer" /></spell><spell><name text="Arcane Lock" /><classes text="Artificer" /></spell><spell><name text="Aura of Purity" /><classes text="Artificer (Battle Smith)" /></spell><spell><name text="Aura of Vitality" /><classes text="Artificer (Battle Smith)" /></spell><spell><name text="Banishing Smite" /><classes text="Artificer (Battle Smith)" /></spell><spell><name text="Bigby's Hand" /><classes text="Artificer" /></spell><spell><name text="Blight" /><classes text="Artificer (Alchemist)" /></spell><spell><name text="Blink" /><classes text="Artificer" /></spell><spell><name text="Blur" /><classes text="Artificer" /></spell><spell><name text="Cloudkill" /><classes text="Artificer (Alchemist)" /></spell><spell><name text="Cone of Cold" /><classes text="Artificer (Artillerist)" /></spell><spell><name text="Conjure Barrage" /><classes text="Artificer (Battle Smith)" /></spell><spell><name text="Continual Flame" /><classes text="Artificer" /></spell><spell><name text="Create Food and Water" /><classes text="Artificer" /></spell><spell><name text="Creation" /><classes text="Artificer" /></spell><spell><name text="Cure Wounds" /><classes text="Artificer" /></spell><spell><name text="Dancing Lights" /><classes text="Artificer" /></spell><spell><name text="Darkvision" /><classes text="Artificer" /></spell><spell><name text="Death Ward" /><classes text="Artificer (Alchemist)" /></spell><spell><name text="Detect Magic" /><classes text="Artificer" /></spell><spell><name text="Disguise Self" /><classes text="Artificer" /></spell><spell><name text="Dispel Magic" /><classes text="Artificer" /></spell><spell><name text="Elemental Weapon" /><classes text="Artificer" /></spell><spell><name text="Enhance Ability" /><classes text="Artificer" /></spell><spell><name text="Enlarge/Reduce" /><classes text="Artificer" /></spell><spell><name text="Expeditious Retreat" /><classes text="Artificer" /></spell><spell><name text="Fabricate" /><classes text="Artificer" /></spell><spell><name text="Faerie Fire" /><classes text="Artificer" /></spell><spell><name text="False Life" /><classes text="Artificer" /></spell><spell><name text="Feather Fall" /><classes text="Artificer" /></spell><spell><name text="Fire Bolt" /><classes text="Artificer" /></spell><spell><name text="Fire Shield" /><classes text="Artificer (Battle Smith)" /></spell><spell><name text="Fireball" /><classes text="Artificer (Artillerist)" /></spell><spell><name text="Flaming Sphere" /><classes text="Artificer (Alchemist)" /></spell><spell><name text="Fly" /><classes text="Artificer" /></spell><spell><name text="Freedom of Movement" /><classes text="Artificer" /></spell><spell><name text="Gaseous Form" /><classes text="Artificer (Alchemist)" /></spell><spell><name text="Glyph of Warding" /><classes text="Artificer" /></spell><spell><name text="Grease" /><classes text="Artificer" /></spell><spell><name text="Greater Restoration" /><classes text="Artificer" /></spell><spell><name text="Guidance" /><classes text="Artificer" /></spell><spell><name text="Haste" /><classes text="Artificer" /></spell><spell><name text="Healing Word" /><classes text="Artificer (Alchemist)" /></spell><spell><name text="Heat Metal" /><classes text="Artificer" /></spell><spell><name text="Heroism" /><classes text="Artificer (Battle Smith)" /></spell><spell><name text="Ice Storm" /><classes text="Artificer (Artillerist)" /></spell><spell><name text="Identify" /><classes text="Artificer" /></spell><spell><name text="Invisibility" /><classes text="Artificer" /></spell><spell><name text="Jump" /><classes text="Artificer" /></spell><spell><name text="Leomund's Secret Chest" /><classes text="Artificer" /></spell><spell><name text="Lesser Restoration" /><classes text="Artificer" /></spell><spell><name text="Levitate" /><classes text="Artificer" /></spell><spell><name text="Light" /><classes text="Artificer" /></spell><spell><name text="Longstrider" /><classes text="Artificer" /></spell><spell><name text="Mage Hand" /><classes text="Artificer" /></spell><spell><name text="Magic Mouth" /><classes text="Artificer" /></spell><spell><name text="Magic Weapon" /><classes text="Artificer" /></spell><spell><name text="Mass Cure Wounds" /><classes text="Artificer (Battle Smith)" /></spell><spell><name text="Mass Healing Word" /><classes text="Artificer (Alchemist)" /></spell><spell><name text="Melf's Acid Arrow" /><classes text="Artificer (Alchemist)" /></spell><spell><name text="Mending" /><classes text="Artificer, Artificer (Artillerist), Artificer (Battle Smith)" /></spell><spell><name text="Message" /><classes text="Artificer" /></spell><spell><name text="Mordenkainen's Faithful Hound" /><classes text="Artificer" /></spell><spell><name text="Mordenkainen's Private Sanctum" /><classes text="Artificer" /></spell><spell><name text="Otiluke's Resilient Sphere" /><classes text="Artificer" /></spell><spell><name text="Poison Spray" /><classes text="Artificer" /></spell><spell><name text="Prestidigitation" /><classes text="Artificer" /></spell><spell><name text="Protection from Energy" /><classes text="Artificer" /></spell><spell><name text="Protection from Poison" /><classes text="Artificer" /></spell><spell><name text="Purify Food and Drink" /><classes text="Artificer" /></spell><spell><name text="Raise Dead" /><classes text="Artificer (Alchemist)" /></spell><spell><name text="Ray of Frost" /><classes text="Artificer" /></spell><spell><name text="Ray of Sickness" /><classes text="Artificer (Alchemist)" /></spell><spell><name text="Resistance" /><classes text="Artificer" /></spell><spell><name text="Revivify" /><classes text="Artificer" /></spell><spell><name text="Rope Trick" /><classes text="Artificer" /></spell><spell><name text="Sanctuary" /><classes text="Artificer" /></spell><spell><name text="Scorching Ray" /><classes text="Artificer (Artillerist)" /></spell><spell><name text="See Invisibility" /><classes text="Artificer" /></spell><spell><name text="Shatter" /><classes text="Artificer (Artillerist)" /></spell><spell><name text="Shield" /><classes text="Artificer (Artillerist), Artificer (Battle Smith)" /></spell><spell><name text="Shocking Grasp" /><classes text="Artificer" /></spell><spell><name text="Spare the Dying" /><classes text="Artificer" /></spell><spell><name text="Spider Climb" /><classes text="Artificer" /></spell><spell><name text="Stone Shape" /><classes text="Artificer" /></spell><spell><name text="Stoneskin" /><classes text="Artificer" /></spell><spell><name text="Thorn Whip" /><classes text="Artificer" /></spell><spell><name text="Thunderwave" /><classes text="Artificer (Artillerist)" /></spell><spell><name text="Wall of Fire" /><classes text="Artificer (Artillerist)" /></spell><spell><name text="Wall of Force" /><classes text="Artificer (Artillerist)" /></spell><spell><name text="Wall of Stone" /><classes text="Artificer" /></spell><spell><name text="Warding Bond" /><classes text="Artificer (Battle Smith)" /></spell><spell><name text="Water Breathing" /><classes text="Artificer" /></spell><spell><name text="Water Walk" /><classes text="Artificer" /></spell><spell><name text="Web" /><classes text="Artificer" /></spell><spell><name text="Wind Wall" /><classes text="Artificer (Artillerist)" /></spell></compendium>
+<compendium version="5" auto_indent="NO">
+    <spell>
+        <name>Acid Splash</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Aid</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Alarm</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Alter Self</name>
+        <classes>Artificer, Artificer (Alchemist)</classes>
+    </spell>
+    <spell>
+        <name>Animate Objects</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Arcane Eye</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Arcane Lock</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Aura of Purity</name>
+        <classes>Artificer (Battle Smith)</classes>
+    </spell>
+    <spell>
+        <name>Aura of Vitality</name>
+        <classes>Artificer (Battle Smith)</classes>
+    </spell>
+    <spell>
+        <name>Banishing Smite</name>
+        <classes>Artificer (Battle Smith)</classes>
+    </spell>
+    <spell>
+        <name>Bigby's Hand</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Blight</name>
+        <classes>Artificer (Alchemist)</classes>
+    </spell>
+    <spell>
+        <name>Blink</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Blur</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Cloudkill</name>
+        <classes>Artificer (Alchemist)</classes>
+    </spell>
+    <spell>
+        <name>Cone of Cold</name>
+        <classes>Artificer (Artillerist)</classes>
+    </spell>
+    <spell>
+        <name>Conjure Barrage</name>
+        <classes>Artificer (Battle Smith)</classes>
+    </spell>
+    <spell>
+        <name>Continual Flame</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Create Food and Water</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Creation</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Cure Wounds</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Dancing Lights</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Darkvision</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Death Ward</name>
+        <classes>Artificer (Alchemist)</classes>
+    </spell>
+    <spell>
+        <name>Detect Magic</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Disguise Self</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Dispel Magic</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Elemental Weapon</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Enhance Ability</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Enlarge/Reduce</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Expeditious Retreat</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Fabricate</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Faerie Fire</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>False Life</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Feather Fall</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Fire Bolt</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Fire Shield</name>
+        <classes>Artificer (Battle Smith)</classes>
+    </spell>
+    <spell>
+        <name>Fireball</name>
+        <classes>Artificer (Artillerist)</classes>
+    </spell>
+    <spell>
+        <name>Flaming Sphere</name>
+        <classes>Artificer (Alchemist)</classes>
+    </spell>
+    <spell>
+        <name>Fly</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Freedom of Movement</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Gaseous Form</name>
+        <classes>Artificer (Alchemist)</classes>
+    </spell>
+    <spell>
+        <name>Glyph of Warding</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Grease</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Greater Restoration</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Guidance</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Haste</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Healing Word</name>
+        <classes>Artificer (Alchemist)</classes>
+    </spell>
+    <spell>
+        <name>Heat Metal</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Heroism</name>
+        <classes>Artificer (Battle Smith)</classes>
+    </spell>
+    <spell>
+        <name>Ice Storm</name>
+        <classes>Artificer (Artillerist)</classes>
+    </spell>
+    <spell>
+        <name>Identify</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Invisibility</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Jump</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Leomund's Secret Chest</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Lesser Restoration</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Levitate</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Light</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Longstrider</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Mage Hand</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Magic Mouth</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Magic Weapon</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Mass Cure Wounds</name>
+        <classes>Artificer (Battle Smith)</classes>
+    </spell>
+    <spell>
+        <name>Mass Healing Word</name>
+        <classes>Artificer (Alchemist)</classes>
+    </spell>
+    <spell>
+        <name>Melf's Acid Arrow</name>
+        <classes>Artificer (Alchemist)</classes>
+    </spell>
+    <spell>
+        <name>Mending</name>
+        <classes>Artificer, Artificer (Artillerist), Artificer (Battle Smith)</classes>
+    </spell>
+    <spell>
+        <name>Message</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Mordenkainen's Faithful Hound</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Mordenkainen's Private Sanctum</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Otiluke's Resilient Sphere</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Poison Spray</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Prestidigitation</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Protection from Energy</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Protection from Poison</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Purify Food and Drink</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Raise Dead</name>
+        <classes>Artificer (Alchemist)</classes>
+    </spell>
+    <spell>
+        <name>Ray of Frost</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Ray of Sickness</name>
+        <classes>Artificer (Alchemist)</classes>
+    </spell>
+    <spell>
+        <name>Resistance</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Revivify</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Rope Trick</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Sanctuary</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Scorching Ray</name>
+        <classes>Artificer (Artillerist)</classes>
+    </spell>
+    <spell>
+        <name>See Invisibility</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Shatter</name>
+        <classes>Artificer (Artillerist)</classes>
+    </spell>
+    <spell>
+        <name>Shield</name>
+        <classes>Artificer (Artillerist), Artificer (Battle Smith)</classes>
+    </spell>
+    <spell>
+        <name>Shocking Grasp</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Spare the Dying</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Spider Climb</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Stone Shape</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Stoneskin</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Thorn Whip</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Thunderwave</name>
+        <classes>Artificer (Artillerist)</classes>
+    </spell>
+    <spell>
+        <name>Wall of Fire</name>
+        <classes>Artificer (Artillerist)</classes>
+    </spell>
+    <spell>
+        <name>Wall of Force</name>
+        <classes>Artificer (Artillerist)</classes>
+    </spell>
+    <spell>
+        <name>Wall of Stone</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Warding Bond</name>
+        <classes>Artificer (Battle Smith)</classes>
+    </spell>
+    <spell>
+        <name>Water Breathing</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Water Walk</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Web</name>
+        <classes>Artificer</classes>
+    </spell>
+    <spell>
+        <name>Wind Wall</name>
+        <classes>Artificer (Artillerist)</classes>
+    </spell>
+</compendium>
