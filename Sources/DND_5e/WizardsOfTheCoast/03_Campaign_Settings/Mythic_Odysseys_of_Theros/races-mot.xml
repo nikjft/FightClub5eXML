@@ -2,6 +2,8 @@
 <compendium version="5" auto_indent="NO">
   <race>
     <name>Centaur (Theros)</name>
+    <displayname>Centaur (Theros)</displayname>
+    <ancestry>Centaur</ancestry>
     <size>M</size>
     <speed>40</speed>
     <ability>Str +2, Wis +1</ability>
@@ -132,7 +134,7 @@ Source:	Mythic Odysseys of Theros p. 20</text>
       <text>Few leonin devote themselves to the service of the gods. Centuries ago, the leonin worshiped the same gods that humans do, but after many of their prides suffered depravities at the hands of the tyrant Agnomakhos, most leonin rejected the gods. It's not that they deny the existence of deities; they merely see the gods as mercurial and ultimately unworthy of adoration. The Leonin and the Gods table suggests the range of attitudes that leonin might adopt toward the gods.
 	Leonin rely on themselves and their prides. A pride is bound together by the experience of a shared challenge and, in particular, the sacred act of the hunt. See chapter 3 for more details on Oreskos and the leonin who call that land home.
 
-Leonin and the Gods
+Leonin and the Gods:
 d6 | Attitude
 1 | I'm amused by the antics of the gods and their earnest, but ultimately deluded, mortal champions, and I feel smugly superior in my detachment.
 2 | The meddling of the gods in mortal affairs makes me angry and bitter. I wish they would just leave us all alone!
@@ -143,7 +145,7 @@ d6 | Attitude
       <roll description="Attitude">1d6</roll>
     </trait>
     <trait category="description">
-      <name> Leonin Names</name>
+      <name>Leonin Names</name>
       <text>Along with their personal names, leonin identify themselves by their pride. A member of the Flintclaw pride with the personal name of Ziore, for example, would likely style herself as Ziore of the Flintclaw.
 
 Female Names: Aletha, Atagone, Demne, Doxia, Ecate, Eriz, Gragonde, Iadma, Koila, Oramne, Seza, Ziore
@@ -204,6 +206,8 @@ Weight in pounds = 180 + (2d6 × your size modifier)</text>
   </race>
   <race>
     <name>Minotaur (Theros)</name>
+    <displayname>Minotaur (Theros)</displayname>
+    <ancestry>Minotaur</ancestry>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +2, Con +1</ability>
@@ -300,6 +304,8 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
   </race>
   <race>
     <name>Satyr (Legacy)</name>
+    <displayname>Satyr (Legacy)</displayname>
+    <ancestry>Satyr</ancestry>
     <size>M</size>
     <speed>35</speed>
     <ability>Cha +2, Dex +1</ability>
@@ -402,10 +408,11 @@ Weight in pounds = 100 + (2d4 × your size modifier)</text>
   </race>
   <race>
     <name>Triton (Theros)</name>
+    <displayname>Triton (Theros)</displayname>
+    <ancestry>Triton</ancestry>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +1, Cha +1, Con +1</ability>
-    <resist>cold</resist>
     <spellAbility>Charisma</spellAbility>
     <trait category="description">
       <name>Description</name>
@@ -487,5 +494,6 @@ Male Names: Bysseus, Cetos, Galaukus, Galiton, Kenessos, Odexes, Palamon, Pontre
       <name>Languages</name>
       <text>You can speak, read, and write Common and Primordial.</text>
     </trait>
+    <resist>cold</resist>
   </race>
 </compendium>

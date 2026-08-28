@@ -643,13 +643,13 @@ Source:	The Griffon's Saddlebag: Book Two p. 45 (Third Party)</text>
   </item>
   <item>
     <name>Belt of the Hell Hound</name>
-    <detail>rare (requires attunement)</detail>
+    <detail>cursed, rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
     <text>When you wear this belt, you can feel the fires of the lower planes burn inside you. While wearing the belt, when you make a melee attack against a creature and have advantage on the attack, the target takes an extra 1d6 fire damage from the attack on a hit.
 	In addition, while wearing this belt, you can use an action to release a hellish howl. When you do, you exhale a plume of flames from your mouth in a 15-foot cone. Each creature in the area must succeed on a DC 15 Dexterity saving throw, taking 6d6 fire damage on a failed save, or half as much damage on a successful one. The fire ignites flammable objects in the area that aren't being worn or carried. Once this property has been used, it can't be used again until the next dawn.
 
-Curse. Once you wear this belt, you can't remove it unless you are targeted by the remove curse spell or similar magic. While wearing the belt, you must eat twice the normal amount of food each day (a minimum of 2 pounds) to avoid exhaustion. In addition, while wearing the belt, there is a cumulative 10 percent chance when you die and again at the end of each hour you remain dead that you immediately immolate and turn to ash.
+	Curse: Once you wear this belt, you can't remove it unless you are targeted by the remove curse spell or similar magic. While wearing the belt, you must eat twice the normal amount of food each day (a minimum of 2 pounds) to avoid exhaustion. In addition, while wearing the belt, there is a cumulative 10 percent chance when you die and again at the end of each hour you remain dead that you immediately immolate and turn to ash.
 
 Source:	The Griffon's Saddlebag: Book Two p. 45 (Third Party)</text>
     <roll description="Fire Damage">1d6</roll>
@@ -4354,6 +4354,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 117 (Third Party)</text>
 Heavy: Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively.
 
 Reach: This weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for opportunity attacks with it.
+
 Two-Handed: This weapon requires two hands when you attack with it.
 
 Proficiency: martial, glaive
@@ -4843,8 +4844,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 128 (Third Party)</text>
     <roll description="Psychic Damage">1d10</roll>
   </item>
   <item>
-    <name>Nightstalker's Armor of the Northeastern Wind
-Northeastern Wind</name>
+    <name>Nightstalker's Armor of the Northeastern Wind</name>
     <detail>plate armor, rare (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -4854,9 +4854,9 @@ Northeastern Wind</name>
     <strength>15</strength>
     <text>This unusual armor is composed of blue metal plates with a horned helm, and was tempered by the frigid breath of an oni.
 
-Retributive Cold: When you take damage from a creature that is within 5 feet of you while wearing this armor, you can use your reaction to deal 1d6 cold damage to that creature.
+  Retributive Cold. When you take damage from a creature that is within 5 feet of you while wearing this armor, you can use your reaction to deal 1d6 cold damage to that creature.
 
-Freezing Fog: While wearing this armor, you can use a bonus action to speak its command word to cast the gaseous form spell from it, targeting only yourself, with the following changes:
+  Freezing Fog. While wearing this armor, you can use a bonus action to speak its command word to cast the gaseous form spell from it, targeting only yourself, with the following changes:
 
 	• You take the form of a frigid cloud of fog, creating illusory frost on objects you touch.
 	• You can take the Attack action while in this form. When you do, your attacks are unarmed strikes that deal 1d6 cold damage, instead of their normal damage.
@@ -9195,7 +9195,8 @@ Personality: The bag's purpose is to carry, collect, and deliver magic items. Di
 
 Destroying the Griffon's Saddlebag: While there is no way to permanently destroy the saddlebag, piercing it with an artifact returns it to its place of origin for repair before it's returned to the multiverse in a new location. Placing a Griffon's Saddlebag inside the extradimensional space created by another Griffon's Saddlebag returns both items to their place of origin and sends all the items stored within them to the griffon's forge on the Astral Plane.
 
-Source:	The Griffon's Saddlebag: Book Two p. 201 (Third Party)</text>
+Source:	The Griffon's Saddlebag: Book Two p. 201 (Third Party),
+		The Griffon's Saddlebag: Book One p. 151 (Indie)</text>
     <roll description="Recharge">1d6+2</roll>
   </item>
 </compendium>

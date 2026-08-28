@@ -120,7 +120,7 @@ Crew: 12
 
 Cargo: 150 tons
 
-2 Ballista (3 Crew Each)
+2 Ballista: (3 Crew Each)
 Armor Class 15
 
 Hit Points 50 each
@@ -133,8 +133,7 @@ Bolt:
 
 Ranged Weapon Attack: +6 to hit, range 120/480 ft., one target. Hit: 16 (3d10) piercing damage.
 
-Giant Cannon
-
+Giant Cannon:
 Armor Class 19
 
 Hit Points 250
@@ -180,8 +179,7 @@ Crew: 9
 
 Cargo: 5 tons
 
-Ballista
-
+Ballista:
 Armor Class 15
 
 Hit Points 50
@@ -194,8 +192,7 @@ Bolt:
 
 Ranged Weapon Attack: +6 to hit, range 120/480 ft., one target. Hit: 16 (3d10) piercing damage.
 
-Mangonel
-
+Mangonel:
 Armor Class 15
 
 Hit Points 100
@@ -241,8 +238,7 @@ Crew: 10
 
 Cargo: 13 tons
 
-Ballista
-
+Ballista:
 Armor Class 15
 
 Hit Points 50
@@ -255,8 +251,7 @@ Bolt:
 
 Ranged Weapon Attack: +6 to hit, range 120/480 ft., one target. Hit: 16 (3d10) piercing damage.
 
-Mangonel
-
+Mangonel:
 Armor Class 15
 
 Hit Points 100
@@ -298,8 +293,7 @@ Crew: 15
 
 Cargo: 30 tons
 
-Ballista
-
+Ballista:
 Armor Class 15
 
 Hit Points 50
@@ -312,8 +306,7 @@ Bolt:
 
 Ranged Weapon Attack: +6 to hit, range 120/480 ft., one target. Hit: 16 (3d10) piercing damage.
 
-Blunt Ram
-
+Blunt Ram:
 Hit Points --
 
 Cost -- gp (included in ship cost)
@@ -328,7 +321,7 @@ The hammerhead ship takes half as much damage and comes to a dead stop.
 
 Miss: The attack deals no damage, the target moves into the nearest unoccupied space that isn't in the hammerhead ship's path, and the hammerhead ship can continue moving if it has any movement left.
 
-2 Mangonel (5 Crew Each)
+2 Mangonel: (5 Crew Each)
 Armor Class 15
 
 Hit Points 100 each
@@ -374,7 +367,7 @@ Crew: 15
 
 Cargo: 6 tons
 
-4 Ballista (3 Crew Each)
+4 Ballista: (3 Crew Each)
 Armor Class 15
 
 Hit Points 50 each
@@ -385,8 +378,7 @@ It takes 1 action to load a ballista, 1 action to aim it, and 1 action to fire i
 
 Bolt: Ranged Weapon Attack: +6 to hit, range 120/480 ft., one target. Hit: 16 (3d10) piercing damage.
 
-Grappling Jaws
-
+Grappling Jaws:
 Hit Points --
 
 Cost -- gp (included in ship cost)
@@ -434,8 +426,7 @@ Crew: 5 plus the treant
 
 Cargo: 10 tons
 
-Ballista
-
+Ballista:
 Armor Class 15
 
 Hit Points 50
@@ -479,7 +470,7 @@ Crew: 20
 
 Cargo: 17 tons
 
-4 Ballista (3 Crew Each)
+4 Ballista: (3 Crew Each)
 Armor Class 15
 
 Hit Points 50 each
@@ -492,8 +483,7 @@ Bolt:
 
 Ranged Weapon Attack: +6 to hit, range 120/480 ft., one target. Hit: 16 (3d10) piercing damage.
 
-Mangonel
-
+Mangonel:
 Armor Class 15
 
 Hit Points 100
@@ -557,7 +547,7 @@ Crew: 25
 
 Cargo: 50 tons
 
-4 Ballista (3 Crew Each)
+4 Ballista: (3 Crew Each)
 Armor Class 15
 
 Hit Points 50 each
@@ -570,8 +560,7 @@ Bolt:
 
 Ranged Weapon Attack: +6 to hit, range 120/480 ft., one target. Hit: 16 (3d10) piercing damage.
 
-Mangonel
-
+Mangonel:
 Armor Class 15
 
 Hit Points 100
@@ -613,8 +602,7 @@ Crew: 12
 
 Cargo: 12 tons
 
-Ballista
-
+Ballista:
 Armor Class 15
 
 Hit Points 50
@@ -627,7 +615,7 @@ Bolt:
 
 Ranged Weapon Attack: +6 to hit, range 120/480 ft., one target. Hit: 16 (3d10) piercing damage.
 
-2 Claw (1 Crew Each)
+2 Claw: (1 Crew Each)
 Hit Points --
 
 Cost -- gp (included in ship cost)
@@ -640,8 +628,7 @@ Melee Weapon Attack: +3 to hit, reach 20 ft., one target. Hit: 11 (2d10) bludgeo
 
 If the target is a Huge or smaller creature, it is also grappled (escape DC 13). Until this grapple ends, the creature takes 11 (2d10) bludgeoning damage at the start of each of its turns.
 
-Mangonel
-
+Mangonel:
 Armor Class 15
 
 Hit Points 100
@@ -685,7 +672,7 @@ Crew: 11
 
 Cargo: 20 tons
 
-3 Ballista (3 Crew Each)
+3 Ballista: (3 Crew Each)
 Armor Class 15
 
 Hit Points 50 each
@@ -698,8 +685,7 @@ Bolt:
 
 Ranged Weapon Attack: +6 to hit, range 120/480 ft., one target. Hit: 16 (3d10) piercing damage.
 
-Piercing Ram
-
+Piercing Ram:
 Hit Points --
 
 Cost -- gp (included in ship cost)
@@ -743,7 +729,7 @@ Crew: 20
 
 Cargo: 20 tons
 
-2 Ballista (3 Crew Each)
+2 Ballista: (3 Crew Each)
 Armor Class 15
 
 Hit Points 50 each
@@ -756,8 +742,7 @@ Bolt:
 
 Ranged Weapon Attack: +6 to hit, range 120/480 ft., one target. Hit: 16 (3d10) piercing damage.
 
-Mangonel
-
+Mangonel:
 Armor Class 15
 
 Hit Points 100
@@ -814,8 +799,7 @@ Bolt:
 
 Ranged Weapon Attack: +6 to hit, range 120/480 ft., one target. Hit: 16 (3d10) piercing damage.
 
-Mangonel
-
+Mangonel:
 Armor Class 15
 
 Hit Points 100
@@ -828,8 +812,7 @@ Mangonel Stone:
 
 Ranged Weapon Attack: +5 to hit, range 200/800 ft. (can't hit targets within 60 ft. of it), one target. Hit: 27 (5d10) bludgeoning damage.
 
-Piercing Ram
-
+Piercing Ram:
 Hit Points --
 
 Cost -- gp (included in ship cost)
@@ -887,8 +870,7 @@ Bolt:
 
 Ranged Weapon Attack: +6 to hit, range 120/480 ft., one target. Hit: 16 (3d10) piercing damage.
 
-Mangonel
-
+Mangonel:
 Armor Class 15
 
 Hit Points 100
@@ -932,7 +914,7 @@ Crew: 16
 
 Cargo: 30 tons
 
-3 Ballista (3 Crew Each)
+3 Ballista: (3 Crew Each)
 Armor Class 15
 
 Hit Points 50 each
@@ -945,8 +927,7 @@ Bolt:
 
 Ranged Weapon Attack: +6 to hit, range 120/480 ft., one target. Hit: 16 (3d10) piercing damage.
 
-Mangonel
-
+Mangonel:
 Armor Class 15
 
 Hit Points 100
@@ -1033,8 +1014,7 @@ Crew: 5
 
 Cargo: 10 tons
 
-Ballista
-
+Ballista:
 Armor Class 15
 
 Hit Points 50

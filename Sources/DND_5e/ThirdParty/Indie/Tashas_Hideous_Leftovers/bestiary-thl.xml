@@ -9,7 +9,7 @@
     <alignment>lawful good</alignment>
     <ac>17 (natural armor)</ac>
     <hp>196 (17d10+102)</hp>
-    <speed>20 ft., burrow 20 ft.</speed>
+    <speed>Walk 20  ft., burrow 20 ft.</speed>
     <str>24</str>
     <dex>11</dex>
     <con>23</con>
@@ -43,7 +43,7 @@
       <text>The hammer archon's spell casting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components:
 
 	• At will: aid, detect evil and good, teleport (self only)
-	• 3/Day each: stone shape, wall of stone</text>
+	• 3/day each: stone shape, wall of stone</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -88,7 +88,7 @@ Source:	Tasha's Hideous Leftovers p. 96 (Indie)</description>
     <alignment>lawful good</alignment>
     <ac>15 (natural armor)</ac>
     <hp>120 (16d8+48)</hp>
-    <speed>30 ft.</speed>
+    <speed>Walk 30  ft.</speed>
     <str>19</str>
     <dex>14</dex>
     <con>17</con>
@@ -134,8 +134,8 @@ Source:	Tasha's Hideous Leftovers p. 96 (Indie)</description>
       <text>The hound archon's spell casting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components:
 
 	• At will: detect evil and good, misty step
-	• 3/Day each: aid, continual flame, protection from evil and good
-	• 1/Day each: teleport</text>
+	• 3/day each: aid, continual flame, protection from evil and good
+	• 1/day each: teleport</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -184,7 +184,7 @@ Source:	Tasha's Hideous Leftovers p. 97 (Indie)</description>
     <alignment>lawful good</alignment>
     <ac>16 (plate armor)</ac>
     <hp>136 (16d8+64)</hp>
-    <speed>30 ft., fly 40 ft.</speed>
+    <speed>Walk 30  ft., fly 40 ft.</speed>
     <str>16</str>
     <dex>12</dex>
     <con>19</con>
@@ -230,7 +230,7 @@ Source:	Tasha's Hideous Leftovers p. 97 (Indie)</description>
       <text>The justice archon's spell casting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring no material components:
 
 	• At will: detect evil and good, thunderous smite
-	• 3/Day each: protection from evil and good</text>
+	• 3/day each: protection from evil and good</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -274,7 +274,7 @@ Source:	Tasha's Hideous Leftovers p. 98 (Indie)</description>
     <alignment>lawful good</alignment>
     <ac>16 (natural armor)</ac>
     <hp>28 (8d6+0)</hp>
-    <speed>0 ft., fly 60 ft. (hover)</speed>
+    <speed>Walk 0  ft., fly 60 ft. (hover)</speed>
     <str>2</str>
     <dex>16</dex>
     <con>10</con>
@@ -354,7 +354,7 @@ Source:	Tasha's Hideous Leftovers p. 98 (Indie)</description>
     <alignment>lawful good</alignment>
     <ac>17 (natural armor)</ac>
     <hp>228 (24d10+96)</hp>
-    <speed>30 ft., fly 90 ft.</speed>
+    <speed>Walk 30  ft., fly 90 ft.</speed>
     <str>16</str>
     <dex>20</dex>
     <con>18</con>
@@ -400,8 +400,8 @@ Source:	Tasha's Hideous Leftovers p. 98 (Indie)</description>
       <text>The owl archon's spell casting ability is Charisma (spell save DC 16). It can innately cast the following spells, requiring no material components:
 
 	• At will: animal friendship, dispel magic, faerie fire, speak with animals
-	• 3/Day each: banishment, greater restoration, protection from poison
-	• 1/Day each: reincarnate</text>
+	• 3/day each: banishment, greater restoration, protection from poison
+	• 1/day each: reincarnate</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -453,7 +453,7 @@ Source:	Tasha's Hideous Leftovers p. 100 (Indie)</description>
     <alignment>lawful good</alignment>
     <ac>18 (natural armor)</ac>
     <hp>133 (14d10+56)</hp>
-    <speed>30 ft., fly 90 ft.</speed>
+    <speed>Walk 30  ft., fly 90 ft.</speed>
     <str>21</str>
     <dex>21</dex>
     <con>18</con>
@@ -495,8 +495,8 @@ Source:	Tasha's Hideous Leftovers p. 100 (Indie)</description>
       <text>The sword archon's spell casting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:
 
 	• At will: aid, detect evil and good, locate creature, locate object, message, teleport (self only)
-	• 3/Day each: banishment, dispel magic, wrathful smite
-	• 1/Day each: magic weapon (as a 7th-level spell.)</text>
+	• 3/day each: banishment, dispel magic, wrathful smite
+	• 1/day each: magic weapon (as a 7th-level spell.)</text>
     </trait>
     <trait>
       <name>Armblades</name>
@@ -549,7 +549,7 @@ Source:	Tasha's Hideous Leftovers p. 101 (Indie)</description>
     <alignment>lawful good</alignment>
     <ac>20 (plate)</ac>
     <hp>266 (32d10+90)</hp>
-    <speed>30 ft., fly 30 ft.</speed>
+    <speed>Walk 30  ft., fly 30 ft.</speed>
     <str>22</str>
     <dex>24</dex>
     <con>17</con>
@@ -593,8 +593,8 @@ Source:	Tasha's Hideous Leftovers p. 101 (Indie)</description>
       <text>The throne archon's spell casting ability is Charisma (spell save DC 19). It can innately cast the following spells, requiring no material components:
 
 	• At will: atonement, dispel magic, bless, cure wounds, detect evil and good, searing smite, thunderous smite, wrathful smite
-	• 3/Day each: banishment, blinding smite, branding smite, mass cure wounds, restoration, raise dead
-	• 1/Day each: resurrection, holy weapon</text>
+	• 3/day each: banishment, blinding smite, branding smite, mass cure wounds, restoration, raise dead
+	• 1/day each: resurrection, holy weapon</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -638,7 +638,7 @@ Source:	Tasha's Hideous Leftovers p. 101 (Indie)</description>
     <alignment>lawful good</alignment>
     <ac>18 (natural armor)</ac>
     <hp>279 (18d10+180)</hp>
-    <speed>40 ft., fly 60 ft.</speed>
+    <speed>Walk 40  ft., fly 60 ft.</speed>
     <str>22</str>
     <dex>19</dex>
     <con>30</con>
@@ -756,7 +756,7 @@ Source:	Tasha's Hideous Leftovers p. 101 (Indie)</description>
     <alignment>lawful good</alignment>
     <ac>17 (natural armor)</ac>
     <hp>142 (15d8+75)</hp>
-    <speed>40 ft., fly 90 ft.</speed>
+    <speed>Walk 40  ft., fly 90 ft.</speed>
     <str>22</str>
     <dex>16</dex>
     <con>20</con>
@@ -802,7 +802,7 @@ Source:	Tasha's Hideous Leftovers p. 101 (Indie)</description>
       <text>The trumpet archon's spell casting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:
 
 	• At will: continual flame, detect evil and good, misty step, message, protection from evil and good
-	• 3/Day each: teleport</text>
+	• 3/day each: teleport</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -817,7 +817,7 @@ Source:	Tasha's Hideous Leftovers p. 101 (Indie)</description>
     </action>
     <action>
       <name>Trumpet</name>
-      <text>The archon plays beautiful and clear music on its trumpet. All hostile creatures within 100 feet of the archon must succeed on a DC 17 Constitution saving throw or be paralyzed for l minute. A creature who fails this saving throw can repeat it on the end of its turn ending the paralyzed condition on a success.</text>
+      <text>The archon plays beautiful and clear music on its trumpet. All hostile creatures within 100 feet of the archon must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature who fails this saving throw can repeat it on the end of its turn ending the paralyzed condition on a success.</text>
     </action>
     <spells>Continual Flame, Detect Evil and Good, Misty Step, Message, Protection from Evil and Good, Teleport</spells>
     <description>Standing eight to ten feet tall, trumpet archons are beautiful humanoids with pale skin, white hair and beautiful feathered wings. Their eyes are like soft precious stones and they're never without their trumpet.
@@ -848,7 +848,7 @@ Source:	Tasha's Hideous Leftovers p. 102 (Indie)</description>
     <alignment>chaotic good</alignment>
     <ac>16 (breastplate)</ac>
     <hp>156 (24d8+48)</hp>
-    <speed>30 ft., fly 60 ft.</speed>
+    <speed>Walk 30  ft., fly 60 ft.</speed>
     <str>16</str>
     <dex>15</dex>
     <con>15</con>
@@ -886,7 +886,7 @@ Source:	Tasha's Hideous Leftovers p. 102 (Indie)</description>
       <text>The asura's spell casting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components:
 
 	• At will: detect evil and good, expeditious retreat (self only)
-	• 3/Day each: banishing smite, dispel evil and good</text>
+	• 3/day each: banishing smite, dispel evil and good</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -946,7 +946,7 @@ Source:	Tasha's Hideous Leftovers p. 105 (Indie)</description>
     <alignment>lawful evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>620 (40d20+200)</hp>
-    <speed>30 ft.</speed>
+    <speed>Walk 30  ft.</speed>
     <str>21</str>
     <dex>8</dex>
     <con>21</con>
@@ -1064,7 +1064,7 @@ Source:	Tasha's Hideous Leftovers p. 107 (Indie)</description>
     <alignment>chaotic evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>207 (18d12+90)</hp>
-    <speed>40 ft., swim 40 ft., fly 40 ft. (hover)</speed>
+    <speed>Walk 40  ft., swim 40 ft., fly 40 ft. (hover)</speed>
     <str>24</str>
     <dex>20</dex>
     <con>21</con>
@@ -1097,7 +1097,7 @@ Source:	Tasha's Hideous Leftovers p. 107 (Indie)</description>
       <name>Innate Spellcasting</name>
       <text>Holashner's innate spellcasting ability is Wisdom (Spell DC 14). It can innately cast the following spells, requiring no components:
 
-	• 3/Day: Confusion, Darkness</text>
+	• 3/day: Confusion, Darkness</text>
     </trait>
     <trait>
       <name>Legendary Resistance (3/Day)</name>
@@ -1158,7 +1158,7 @@ Source:	Tasha's Hideous Leftovers p. 109 (Indie)</description>
     <alignment>Lawful Evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>445 (33d12+231)</hp>
-    <speed>10 ft. (40 ft. in her own mucus pool).</speed>
+    <speed>Walk 10  ft. (40 ft. in her own mucus pool).</speed>
     <str>16</str>
     <dex>10</dex>
     <con>25</con>
@@ -1275,7 +1275,7 @@ Source:	Tasha's Hideous Leftovers p. 110 (Indie)</description>
     <alignment>chaotic neutral</alignment>
     <ac>16</ac>
     <hp>341 (22d20+110)</hp>
-    <speed>30 ft.</speed>
+    <speed>Walk 30  ft.</speed>
     <str>21</str>
     <dex>22</dex>
     <con>20</con>
@@ -1327,8 +1327,7 @@ Source:	Tasha's Hideous Leftovers p. 110 (Indie)</description>
       <text>If the Primordial Titan fails a saving throw, it can choose to succeed instead.</text>
     </trait>
     <trait>
-      <name>Obsidian Form (Mythic; Recharges on a Short or Long
-rest)</name>
+      <name>Obsidian Form (Mythic; Recharges on a Short or Long rest)</name>
       <recharge>SHORT</recharge>
       <text>When the Primordial Titan is reduced to 0 hit points while in Fire Form, it is not killed. Instead, it recovers 170 hit points, and gains 170 temporary hit points.
 	After using this ability, the Primordial Titan gains damage immunity to bludgeoning, piercing, and slashing damage from nonmagical attacks. Its size category becomes huge and its AC becomes 18. Additionally it gains a burrow speed of 40 feet.
@@ -1418,7 +1417,7 @@ Source:	Tasha's Hideous Leftovers p. 112 (Indie)</description>
     <alignment>lawful evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>161 (17d8+85)</hp>
-    <speed>30 ft., burrow 30 ft., climb 20 ft.</speed>
+    <speed>Walk 30  ft., burrow 30 ft., climb 20 ft.</speed>
     <str>18</str>
     <dex>16</dex>
     <con>20</con>
@@ -1553,7 +1552,7 @@ Source:	Tasha's Hideous Leftovers p. 114 (Indie)</description>
     <alignment>chaotic evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>144 (17d8+68)</hp>
-    <speed>40 ft.</speed>
+    <speed>Walk 40  ft.</speed>
     <str>16</str>
     <dex>20</dex>
     <con>18</con>
@@ -1579,7 +1578,7 @@ Source:	Tasha's Hideous Leftovers p. 114 (Indie)</description>
       <text>Innate Spellcasting. The elf vampire's innate spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). It knows the following spells:
 
 	• At will: animal friendship, animal messenger, druidcraft, entangle, pass without trace, speak with animals, spider climb, tree stride, thorn whip
-	• 1/Day: antilife shell, blight, conjure animals, dominate beast, grasping vine, insect plague, spike growth, transport via plants, wall of thorns</text>
+	• 1/day: antilife shell, blight, conjure animals, dominate beast, grasping vine, insect plague, spike growth, transport via plants, wall of thorns</text>
       <attack>Innate Spellcasting|+9|</attack>
     </trait>
     <trait>
@@ -1694,7 +1693,7 @@ Source:	Tasha's Hideous Leftovers p. 117 (Indie)</description>
     <alignment>lawful evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>127 (17d8+51)</hp>
-    <speed>30 ft., climb 30 ft.</speed>
+    <speed>Walk 30  ft., climb 30 ft.</speed>
     <str>16</str>
     <dex>20</dex>
     <con>16</con>
@@ -1720,7 +1719,7 @@ Source:	Tasha's Hideous Leftovers p. 117 (Indie)</description>
       <text>The halfling vampire's innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It knows the following spells:
 
 	• At will: create food and water, friends, prestidigitation, purify food and drink, pass without trace, speak with animals
-	• 2/Day: charm person, conjure animals</text>
+	• 2/day: charm person, conjure animals</text>
       <attack>Innate Spellcasting|+9|</attack>
     </trait>
     <trait>

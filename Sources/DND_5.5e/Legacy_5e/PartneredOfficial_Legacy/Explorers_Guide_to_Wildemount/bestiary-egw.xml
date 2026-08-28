@@ -59,7 +59,7 @@
     </reaction>
     <description>Resembling some sort of canine or feline quadruped at a distance, the absorber's monstrous nature becomes quickly apparent as it closes in. Named for its ability to draw magical energy into its body, the absorber can release that energy in devastating blasts through its tail, whose eye is constantly on the lookout for prey.
 
-Created by Experimentation
+Created by Experimentation:
 Aeorian hunters were created through arcane experimentation on beasts and humanoids—both captives and volunteers. These experiments resulted in monstrosities with brightly colored flesh and the power to resist and destroy Aeor's enemies. It is theorized that the mages of Aeor must have possessed some means of controlling their monstrous soldiers, but no such device has yet been found in the wastes of Eiselcross. Draconic was the language used by these mages to train and bind the Aeorian hunters, and the hunters retain an understanding of this language even though they can't speak it.
 
 Madness through Immortality:
@@ -120,7 +120,7 @@ Source:	Explorer's Guide to Wildemount p. 283 (Third Party)</description>
       <text>The nullifier's innate spellcasting ability is Charisma (spell save DC 16). It can innately cast the following spells, requiring no material components:
 
 	• At will: counterspell (see "Reactions" below), detect magic, dispel magic, see invisibility
-	• 1/Day: antimagic field</text>
+	• 1/day: antimagic field</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -541,7 +541,7 @@ Source:	Explorer's Guide to Wildemount p. 284 (Third Party)</description>
       <text>Bol'bara's innate spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
 
 	• At will: eldritch blast, false life, mage armor, mage hand
-	• 1/Day each: charm person, hex, hold person, invisibility</text>
+	• 1/day each: charm person, hex, hold person, invisibility</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -1469,7 +1469,7 @@ Source:	Explorer's Guide to Wildemount p. 293 (Third Party)</description>
       <text>Ishel's spellcasting ability is Charisma (spell save DC 11). It can innately cast the following spells, requiring no material components:
 
 	• At will: dancing lights
-	• 1/Day each: darkness, faerie fire</text>
+	• 1/day each: darkness, faerie fire</text>
     </trait>
     <action>
       <name>Shortsword</name>
@@ -2193,7 +2193,7 @@ If the dragon dies, vegetation remains as it has grown, but other effects fade o
       <text>The warlock's innate spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
 	• At will: eldritch blast (see "Actions" below), minor illusion
-	• 1/Day each: armor of Agathys, arms of Hadar, counterspell, crown of madness, invisibility, hunger of Hadar</text>
+	• 1/day each: armor of Agathys, arms of Hadar, counterspell, crown of madness, invisibility, hunger of Hadar</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -2273,7 +2273,7 @@ Source:	Explorer's Guide to Wildemount p. 297 (Third Party)</description>
       <text>The sea fury's innate spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
 	• At will: witch bolt
-	• 1/Day each: bestow curse, fear, thunderwave</text>
+	• 1/day each: bestow curse, fear, thunderwave</text>
     </trait>
     <action>
       <name>Multiattack</name>

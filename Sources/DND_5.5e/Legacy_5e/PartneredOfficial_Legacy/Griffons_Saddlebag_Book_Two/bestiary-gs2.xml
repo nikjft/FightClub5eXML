@@ -395,7 +395,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 338 (Third Party)</description>
       <attack>Add to Roll||1d8</attack>
     </reaction>
     <slots>0,4,3,3,1</slots>
-    <spells>Message, Mage Hand, Mending, Prestidigitation, Comprehend Languages, Detect Magic, Identify, Unseen Servant, Detect Thoughts, Locate Object, Suggestion, Glyph of Warding, Sending, Secret Chest</spells>
+    <spells>Message, Mage Hand, Mending, Prestidigitation, Comprehend Languages, Detect Magic, Identify, Unseen Servant, Detect Thoughts, Locate Object, Suggestion, Glyph of Warding, Sending, Leomund's secret chest</spells>
     <description>Within the Mercantile Guild, the most powerful, skilled, and experienced members are known as Merchant Lords. They typically occupy a notable position in one of Antronec's public service departments, hold a government office, or are major players in their black market. These individuals are truly masters of deception and manipulation of commerce, working behind the scenes to direct the populace and maintain their city.
 
 Source:	The Griffon's Saddlebag: Book Two p. 339 (Third Party)</description>
@@ -440,7 +440,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 339 (Third Party)</description>
 	• 1st Level (4 slots): comprehend languages, detect magic, identify, unseen servant
 	• 2nd Level (3 slots): detect thoughts, locate object, suggestion, knock
 	• 3rd Level (3 slots): clairvoyance, glyph of warding, sending
-	• 4th Level (1 slot): fabricate, phantasmal killer, secret Chest
+	• 4th Level (1 slot): fabricate, phantasmal killer, Leomund's secret Chest
 	• 5th Level (2 slots): geas, legend lore
 	• 6th Level (1 slot): instant summons
 	• 7th Level (1 slot): arcane sword</text>
@@ -485,7 +485,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 339 (Third Party)</description>
       <attack>Add to Roll||1d12</attack>
     </reaction>
     <slots>0,4,3,3,3,2,1,1</slots>
-    <spells>Message, Mage Hand, Mending, Prestidigitation, Comprehend Languages, Detect Magic, Identify, Unseen Servant, Detect Thoughts, Locate Object, Suggestion, Knock, Clairvoyance, Glyph of Warding, Sending, Fabricate, Phantasmal Killer, Secret Chest, Geas, Legend Lore, Instant Summons, Arcane Sword</spells>
+    <spells>Message, Mage Hand, Mending, Prestidigitation, Comprehend Languages, Detect Magic, Identify, Unseen Servant, Detect Thoughts, Locate Object, Suggestion, Knock, Clairvoyance, Glyph of Warding, Sending, Fabricate, Phantasmal Killer, Leomund's Secret Chest, Geas, Legend Lore, Instant Summons, Arcane Sword</spells>
     <description>Chantelle Redcliff, as the current Guildmaster of The Mercantile Guild, is accurately described as the most influential and powerful person in Antronec. The resources at her command within Antronec's government branches and underbelly are considerable, and she is more than willing to do whatever it takes to ensure that her guild retains its control over the city. She is exceptionally resourceful, and not to be underestimated—she has risen to her current role by proving herself the most capable politician and mage in The Mercantile Guild.
 
 Merchant Lord:
@@ -646,8 +646,8 @@ Source:	The Griffon's Saddlebag: Book Two p. 340 (Third Party)</description>
       <text>The seed coin's innate spellcasting ability is Charisma (spell save DC 12). The seed coin can innately cast the following spells, requiring no components:
 
 	• At will: prestidigitation
-	• 3/Day each: comprehend languages, misty step
-	• 1/Day each: locate creature, suggestion
+	• 3/day each: comprehend languages, misty step
+	• 1/day each: locate creature, suggestion
 
 The Silver Seed Coin retains this ability even after it becomes a seed coin pollinator.</text>
     </trait>
@@ -774,8 +774,8 @@ Source:	The Griffon's Saddlebag: Book Two p. 341 (Third Party)</description>
       <text>The stall's innate spellcasting ability is Charisma (spell save DC 15). The stall can innately cast the following spells, requiring no components:
 
 	• At will: detect, detect thoughts, prestigitation
-	• 3/Day each: comprehend languages, suggestion, unseen servant
-	• 1/Day each: create food and water, creation, geas, mass suggestion</text>
+	• 3/day each: comprehend languages, suggestion, unseen servant
+	• 1/day each: create food and water, creation, geas, mass suggestion</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -1117,8 +1117,8 @@ Source:	The Griffon's Saddlebag: Book Two p. 345 (Third Party)</description>
       <text>Malfuriel's spellcasting ability is Charisma (spell save DC 17). Malfuriel can innately cast the following spells, requiring no material components:
 
 	• At will: detect evil and good, invisibility (self only)
-	• 3/Day: dispel evil and good
-	• 1/Day: blight, wall of fire</text>
+	• 3/day: dispel evil and good
+	• 1/day: blight, wall of fire</text>
     </trait>
     <trait>
       <name>Legendary Resistance (1/Day)</name>
@@ -1647,8 +1647,8 @@ Source:	The Griffon's Saddlebag: Book Two p. 350 (Third Party)</description>
       <text>The death coach's spellcasting ability is Charisma (spell save DC20). The death coach can innately cast the following spells, requiring no material components:
 
 	• At will: blindness/deafness, command (as a 2nd-level spell)
-	• 3/Day each: bestow curse, blight
-	• 1/Day each: finger of death, power word kill</text>
+	• 3/day each: bestow curse, blight
+	• 1/day each: finger of death, power word kill</text>
     </trait>
     <trait>
       <name>Legendary Resistance (3/Day)</name>
@@ -1992,8 +1992,8 @@ Source:	The Griffon's Saddlebag: Book Two p. 354 (Third Party)</description>
       <name>Innate Spellcasting</name>
       <text>The leader's spellcasting ability is Wisdom (spell save DC 17). The leader can innately cast the following spells, requiring no components:
 
-	• 2/Day: spirit guardians
-	• 4/Day: calm emotions</text>
+	• 2/day: spirit guardians
+	• 4/day: calm emotions</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -2775,7 +2775,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 362 (Third Party)</description>
       <text>The pixie's Innate Spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components.
 
 	• At will: Message, prestidigitation
-	• 1/Day each: Detect thoughts, entrall, silent image, suggestion</text>
+	• 1/day each: Detect thoughts, entrall, silent image, suggestion</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -3203,7 +3203,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 366 (Third Party)</description>
       <text>The tyrannosaur's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). The tyrannosaur can innvately cast rhe following spells, requiring only somatic components:
 
 	• At will: Barkskin* (self only), eldritch blast, false life
-	• 2/Day each: Hellish rebuke, inflict wounds, misty step, pass without trace, spike growth
+	• 2/day each: Hellish rebuke, inflict wounds, misty step, pass without trace, spike growth
 
 *The tyrannosaur casts barkskin before combat.</text>
     </trait>
@@ -3271,13 +3271,12 @@ Source:	The Griffon's Saddlebag: Book Two p. 366 (Third Party)</description>
       <recharge>D6</recharge>
       <text>The psybird attempts to vex nearby creatures with its psionic calls and dazzling plumage. Each creature within 30 feet of the psybird that can see or hear it must succeed on a DC 13 Wisdom saving throw or become charmed by the psybird for 10 minutes. When a creature becomes charmed by this effect, apply one of the effects below at random for as long as the creature remains charmed.
 
-1. Hazy Sight. The creature is unable to see with any definition further than 10 feet from itself. The affected creature is considered to be blinded to any creature or object further than 10 feet from itself, as they appear to it only as blurry, amorphous blobs of color.
-
-2. Confusion. The creature suffers the effects of the confusion spell, though the psybird doesn't need to maintain concentration on it. The affected creature can repeat its save at the end of each of its turns, ending the charm on itself on a success.
-
-3. Stupefaction. The creature suffers disadvantage on all attack rolls and ability checks it makes that use either Intelligence, Wisdom, or Charisma. The creature also temporarily forgets any languages it knows except for the one it has known the longest.
-
-4. Dizziness. Any turn in combat during which the creature uses more than half of its movement speed, it must succeed on a DC 13 Wisdom saving throw or fall prone. Each time this happens, the creature can repeat its save, ending the effect on a success.</text>
+Hypnotyzing Plumage:
+d4 | Hypnotizing Plumage
+1 | Hazy Sight. The creature is unable to see with any definition further than 10 feet from itself. The affected creature is considered to be blinded to any creature or object further than 10 feet from itself, as they appear to it only as blurry, amorphous blobs of color.
+2 | Confusion. The creature suffers the effects of the confusion spell, though the psybird doesn't need to maintain concentration on it. The affected creature can repeat its save at the end of each of its turns, ending the charm on itself on a success.
+3 | Stupefaction. The creature suffers disadvantage on all attack rolls and ability checks it makes that use either Intelligence, Wisdom, or Charisma. The creature also temporarily forgets any languages it knows except for the one it has known the longest.
+4 | Dizziness. Any turn in combat during which the creature uses more than half of its movement speed, it must succeed on a DC 13 Wisdom saving throw or fall prone. Each time this happens, the creature can repeat its save, ending the effect on a success.</text>
     </action>
     <description>When a grymclover forest mutates birds, they usually mutate into psybirds. These avian monstrosities grow remarkable and varied plumage, which they use to hypnotize their prey after luring them in with telepathic cries of pain and suffering. Individual psybirds will sometimes flock together in small groups (called nightmares), but scholars suspect that if enough were to ever
 band together as a larger, permanent flock, the resulting carnage would be devastating.
@@ -3925,7 +3924,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 373 (Third Party)</description>
     </action>
     <description>Spellcasters who are particularly attuned to the elemental planes or are inherently familiar with the desert's dunes may occasionally find and bind a desert cat familiar, especially those spellcasters who embody the desert cat's curiosity and propensity for chaos. A bound desert cat's behavior is erratic and varies greatly depending on its master's influence. Desert cats also are exceptionally skilled at reaching otherwise difficult-to-reach locations to cause trouble, especially around precious gems and metals. A desert cat serving as a familiar has the following trait.
 
-Familiar. At the GM's discretion, warlocks with the Pact of the Chain feature can choose a desert cat as their familiar, in addition to the forms listed in their class. While the two are bonded, the master can sense what the desert cat senses as long as they are within 1 mile of each other. If its master causes it physical harm, the desert cat will end its service as a familiar, breaking the telepathic bond.
+	Familiar. At the GM's discretion, warlocks with the Pact of the Chain feature can choose a desert cat as their familiar, in addition to the forms listed in their class. While the two are bonded, the master can sense what the desert cat senses as long as they are within 1 mile of each other. If its master causes it physical harm, the desert cat will end its service as a familiar, breaking the telepathic bond.
 
 Source:	The Griffon's Saddlebag: Book Two p. 374 (Third Party)</description>
     <environment/>
@@ -4191,8 +4190,8 @@ Source:	The Griffon's Saddlebag: Book Two p. 376 (Third Party)</description>
       <text>Dray's innate spellcasting ability is Wisdom (spell save DC 21,+13 to hit with spell attacks). Dray can innately cast any cleric cantrip as a 20th-level spellcaser, as well as the following spells, requiring no material components:
 
 	• At will: bestow curse, blindness/deafness (as a 4th-level spell)
-	• 3/Day each: harm, heal
-	• 1/Day each: divine word, resurrection</text>
+	• 3/day each: harm, heal
+	• 1/day each: divine word, resurrection</text>
     </trait>
     <trait>
       <name>Hungering Frenzy</name>
@@ -4484,8 +4483,8 @@ Source:	The Griffon's Saddlebag: Book Two p. 381 (Third Party)</description>
       <text>Feluciana's innate spellcasting ability is Charisma (spell save DC 22, +14 to hit with spell attacks). Feluciana can innately cast the following spells, requiring no material components:
 
 	• At will: charm person (as a 2nd-level spell), ray of enfeeblement
-	• 3/Day each: bestow curse, blight (as a 6th-level spell), compulsion
-	• 1/Day each: foresight, geas</text>
+	• 3/day each: bestow curse, blight (as a 6th-level spell), compulsion
+	• 1/day each: foresight, geas</text>
       <attack>Innate Spellcasting|+14|</attack>
     </trait>
     <trait>
@@ -4634,13 +4633,12 @@ Source:	The Griffon's Saddlebag: Book Two p. 383 (Third Party)</description>
       <name>Remembered Spellcasting</name>
       <text>At the start of each of the Thousand Voices's turns, it rolls a d4 to determine which list of spell is available to it until the start of its next turn. The Thousand Voices's innate spellcasting ability is Intelligence (spell save DC 24, +16 to hit with spell attacks). The Thousand Voices can innately cast the following spells as a 20th-level spellcaster, requiring no material components.
 
-1. Bard. The Thousand Voices can cast vicious mockery or thunderwave as a 3rd-level spell (at-will). It can also cast hypnotic pattern (3/Day) and power word kill (1/Day).
-
-2. Cleric. The Thousand Voices can cast sacred flame or guiding bolt as a 3rd-level spell (at will). It can also cast spirit guardians (3/Day) and inflict wounds as a 9th-level spell (1/Day).
-
-3. Sorcerer. The Thousand Voices can cast firebolt and burning hands as a 3rd-level spell (at will). It can also cast fireball (3/Day) and finger of death (1/Day).
-
-4. Wizard. The Thousand Voices can cast shocking grasp and magic missile as a 3rd-level spell (at will). It can also cast lightning bolt (3/Day) and plane shift (1/Day).</text>
+Remembered Spellcasting
+d4 | Spellcasting
+1 | Bard. The Thousand Voices can cast vicious mockery or thunderwave as a 3rd-level spell (at-will). It can also cast hypnotic pattern (3/Day) and power word kill (1/Day).
+2 | Cleric. The Thousand Voices can cast sacred flame or guiding bolt as a 3rd-level spell (at will). It can also cast spirit guardians (3/Day) and inflict wounds as a 9th-level spell (1/Day).
+3 | Sorcerer. The Thousand Voices can cast firebolt and burning hands as a 3rd-level spell (at will). It can also cast fireball (3/Day) and finger of death (1/Day).
+4 | Wizard. The Thousand Voices can cast shocking grasp and magic missile as a 3rd-level spell (at will). It can also cast lightning bolt (3/Day) and plane shift (1/Day).</text>
       <attack>Spellcasting|+16|</attack>
       <attack>Remembered Spellcasting||1d4</attack>
     </trait>
@@ -4745,8 +4743,8 @@ Source:	The Griffon's Saddlebag: Book Two p. 385 (Third Party)</description>
       <text>Vaanor's innate spellcasting ability is Wisdom (spell save DC 22, +14 to hit with spell attacks). Vaanor can innately cast the following spells, requiring no material components:
 
 	• At will: Hellish rebuke (as a 3rd-level spell), locate creature, locate object
-	• 3/Day each: hold monster, hold person (as a 5th-level spell), hunter's mark
-	• 1/Day: forcecage</text>
+	• 3/day each: hold monster, hold person (as a 5th-level spell), hunter's mark
+	• 1/day: forcecage</text>
       <attack>Innate Spellcasting|+14|</attack>
     </trait>
     <trait>
@@ -4936,7 +4934,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 387 (Third Party)</description>
       <text>The leader's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save DC 15), requiring no material components:
 
 	• At will: detect magic, disguise self
-	• 1/Day: compulsion, confusion</text>
+	• 1/day: compulsion, confusion</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
@@ -5001,7 +4999,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 388 (Third Party)</description>
       <text>Elson's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save DC 17, +9 to hit with spell attacks), requiring no material components: 
 
 	• At will: alter self, detect magic, mage armor (self only)
-	• 1/Day: bestow curse (as a 5th-level spell), compulsion, glibness, mass suggestion, plane shift, weird</text>
+	• 1/day: bestow curse (as a 5th-level spell), compulsion, glibness, mass suggestion, plane shift, weird</text>
       <attack>Innate Spellcasting|+9|</attack>
     </trait>
     <trait>
@@ -5068,7 +5066,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 389 (Third Party)</description>
       <text>Elson's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save DC 20, +12 to hit with spell attacks), requiring no material components: 
 
 	• At will: alter self, detect magic, mage armor (self only), chill touch
-	• 1/Day: bestow curse (as a 5th-level spell), compulsion, glibness, mass suggestion, plane shift, weird, finger of death</text>
+	• 1/day: bestow curse (as a 5th-level spell), compulsion, glibness, mass suggestion, plane shift, weird, finger of death</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
@@ -5576,7 +5574,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 393 (Third Party)</description>
       <text>The kiir's innate spellcasting ability is Charisma (spell save DC 14). The kiir can innately cast the following spells, requiring no material components: 
 
 	• At will: arcanist's magic aura (self aura), disguise self, misty step
-	• 1/Day each: plane shift (self only), sending</text>
+	• 1/day each: plane shift (self only), sending</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -5648,7 +5646,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 394 (Third Party)</description>
       <text>The sanguinor's spellcasting ability is Charisma (spell save DC 22, +14 to hit with spell attacks). The sanguinor can innately cast the following spells , requiring no material components.
 
 	• At will: detect evil and good, detect poison and disease, inflict wounds (as a 3rd-level spell), ray of enfeeblement
-	• 1/Day each: dominate person, fly, suggestion</text>
+	• 1/day each: dominate person, fly, suggestion</text>
       <attack>Innate Spellcasting|+14|</attack>
     </trait>
     <trait>
@@ -5780,7 +5778,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 394 (Third Party)</description>
       <text>The sanguinor's spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). The sanguinor can innately cast the following spells , requiring no material components.
 
 	• At will: detect evil and good, detect poison and disease, inflict wounds (as a 3rd-level spell), ray of enfeeblement
-	• 1/Day each: dominate person, fly, suggestion</text>
+	• 1/day each: dominate person, fly, suggestion</text>
       <attack>Innate Spellcasting|+12|</attack>
     </trait>
     <trait>
@@ -5860,7 +5858,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 395 (Third Party)</description>
       <text>The trickster's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no components:
 
 	• At will: mage hand (the hand is invisible), minor illusion
-	• 2/Day: invisibility, misty step</text>
+	• 2/day: invisibility, misty step</text>
     </trait>
     <trait>
       <name>Spectral Sight (Recharge after a Short or Long Rest)</name>
@@ -7068,8 +7066,8 @@ Source:	The Griffon's Saddlebag: Book Two p. 407 (Third Party)</description>
       <text>The thunderbird's innate spellcasting ability is Constitution (spell save DC 17). The thunderbird can innately cast the following spells, requiring no material components.
 
 	• At will: call lightning (as a 5th-level spell)
-	• 3/Day: control water, ice storm
-	• 1/Day: control weather</text>
+	• 3/day: control water, ice storm
+	• 1/day: control weather</text>
     </trait>
     <trait>
       <name>Keen Sight</name>

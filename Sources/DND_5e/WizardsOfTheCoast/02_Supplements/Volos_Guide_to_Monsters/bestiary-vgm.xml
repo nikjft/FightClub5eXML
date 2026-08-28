@@ -93,7 +93,7 @@ Source:	Volo's Guide to Monsters p. 209</description>
       <text>The alhoon's innate spellcasting ability is Intelligence (spell save DC 16). It can innately cast the following spells, requiring no components:
 
 	• At will: detect thoughts, levitate
-	• 1/Day each: dominate monster, plane shift (self only)</text>
+	• 1/day each: dominate monster, plane shift (self only)</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
@@ -195,7 +195,7 @@ A hag coven can have only one hag eye at a time, and creating a new one requires
     <trait>
       <name>Innate Spellcasting</name>
       <text>The hag's innate spellcasting ability is Charisma (spell save DC 13). She can innately cast the following spells:
-	• 3/Day each: disguise self (including the form of a Medium humanoid), fog cloud</text>
+	• 3/day each: disguise self (including the form of a Medium humanoid), fog cloud</text>
     </trait>
     <trait>
       <name>Shared Spellcasting (Coven Only)</name>
@@ -735,7 +735,7 @@ While a humanoid's soul is trapped in a barghest, any form of revival that could
       <text>The barghest's innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:
 
 	• At will: levitate, minor illusion, pass without trace
-	• 1/Day each: charm person, dimension door, suggestion</text>
+	• 1/day each: charm person, dimension door, suggestion</text>
     </trait>
     <action>
       <name>Bite</name>
@@ -818,8 +818,8 @@ A hag coven can have only one hag eye at a time, and creating a new one requires
       <text>The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
 
 	• At will: hold person*, ray of frost
-	• 3/Day each: cone of cold*, ice storm*, wall of ice*
-	• 1/Day each: control weather</text>
+	• 3/day each: cone of cold*, ice storm*, wall of ice*
+	• 1/day each: control weather</text>
     </trait>
     <trait>
       <name>Shared Spellcasting (Coven Only)</name>
@@ -1373,7 +1373,7 @@ Source:	Volo's Guide to Monsters p. 128,
       <text>The goblin's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save DC 15), requiring no material components:
 
 	• At will: disguise self, mage armor (self only), silent image, speak with animals
-	• 1/Day: conjure fey</text>
+	• 1/day: conjure fey</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
@@ -1437,7 +1437,7 @@ Source:	Volo's Guide to Monsters p. 128,
       <text>The goblin's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save DC 15), requiring no material components:
 
 	• At will: alter self, false life, levitate (self only), mage armor (self only), silent image
-	• 1/Day each: feeblemind, finger of death, plane shift</text>
+	• 1/day each: feeblemind, finger of death, plane shift</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
@@ -1495,7 +1495,7 @@ Source:	Volo's Guide to Monsters p. 128,
       <text>The goblin's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save DC 15), requiring no material components:
 
 	• At will: detect magic, jump, levitate, mage armor (self only), speak with dead
-	• 1/Day each: arcane gate, true seeing</text>
+	• 1/day each: arcane gate, true seeing</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
@@ -2039,8 +2039,8 @@ Source:	Volo's Guide to Monsters p. 132</description>
       <text>The giant's innate spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components:
 
 	• At will: detect magic, fog cloud, light
-	• 3/Day each: feather fall, fly, misty step, telekinesis
-	• 1/Day each: control weather, gaseous form</text>
+	• 3/day each: feather fall, fly, misty step, telekinesis
+	• 1/day each: control weather, gaseous form</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
@@ -2800,7 +2800,7 @@ Source:	Volo's Guide to Monsters p. 208,
       <text>The draegloth's innate spellcasting ability is Charisma (spell save DC 11). The draegloth can innately cast the following spells, requiring no material components:
 
 	• At will: darkness
-	• 1/Day each: confusion, dancing lights, faerie fire</text>
+	• 1/day each: confusion, dancing lights, faerie fire</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -2884,7 +2884,7 @@ Source:	Volo's Guide to Monsters p. 141</description>
       <text>The elder brain's innate spellcasting ability is Intelligence (spell save DC 18). It can innately cast the following spells, requiring no components:
 
 	• At will: detect thoughts, levitate
-	• 1/Day each: dominate monster, plane shift (self only)</text>
+	• 1/day each: dominate monster, plane shift (self only)</text>
     </trait>
     <action>
       <name>Tentacle</name>
@@ -3208,22 +3208,15 @@ Source:	Volo's Guide to Monsters p. 147</description>
     <spells>mage armor, fire bolt, guidance, light, mage hand, prestidigitation, burning hands, flaming sphere, hellish rebuke, scorching ray</spells>
     <description>In regions that contain hot springs, volcanic activity, or similar hot and wet conditions, firenewts might be found. These humanoid amphibians live in a militaristic theocracy that reveres elemental fire in its worst incarnation.
 
-Heat Seekers:
-Firenewts need hot water to live and breed. A firenewt becomes sluggish, mentally and physically, after spending a week away from an external source of moist heat. A prolonged lack of heat can shut down a firenewt community, as the creatures within go into hibernation and their eggs stop developing.
+	Heat Seekers. Firenewts need hot water to live and breed. A firenewt becomes sluggish, mentally and physically, after spending a week away from an external source of moist heat. A prolonged lack of heat can shut down a firenewt community, as the creatures within go into hibernation and their eggs stop developing.
+	Firenewts delve for sources of heat in the earth, such as boiling mud and hot springs, that make ideal places to settle. Through excavation and mining in the area, they fashion living space and obtain an ample supply of minerals for other uses, such as smelting, smithing, and alchemy. A firenewt lair features a network of channels and sluices to circulate hot liquid through the settlement.
+	The alchemy practiced by firenewts focuses on fire. One of their favorite mixtures is a paste of sulfur, mineral salts, and oil. Firenewts chew this blend habitually, because doing so produces a pleasant internal heat and it enables a firenewt to vomit forth a small ball of flame. Most firenewts carry a container with this mixture in it.
+	Warlocks of Imix command warriors to prove their worth by going on raids to bring back treasure and captives. The warlocks take the choicest loot as a tithe to Imix, and then those who participated in the raid divide the rest according to merit. Prisoners that have no apparent usefulness are sacrificed to Imix and then eaten. Those that are deemed capable of mining and performing other chores around the lair are kept as slaves for a while before meeting the same fate.
+	When firenewts muster for war, rather than merely staging occasional raids, they take no prisoners. Their goal is nothing less than the annihilation of their foes—and they reserve their greatest animosity for others of their kind. If two groups of firenewts come upon each other, it's likely that they're in competition for the same territory, and a bloody battle is the usual result.
 
-Firenewts delve for sources of heat in the earth, such as boiling mud and hot springs, that make ideal places to settle. Through excavation and mining in the area, they fashion living space and obtain an ample supply of minerals for other uses, such as smelting, smithing, and alchemy. A firenewt lair features a network of channels and sluices to circulate hot liquid through the settlement.
+	Religious Militants. Firenewt society and culture are based on the worship of Imix, the Prince of Evil Fire. This veneration of Imix leads firenewts to be aggressive, wrathful, and cruel. Firenewt warlocks of Imix teach that by demonstrating these qualities, a firenewt warrior in combat can become "touched by the Fire Lord," entering a nearly unstoppable battle rage.
 
-The alchemy practiced by firenewts focuses on fire. One of their favorite mixtures is a paste of sulfur, mineral salts, and oil. Firenewts chew this blend habitually, because doing so produces a pleasant internal heat and it enables a firenewt to vomit forth a small ball of flame. Most firenewts carry a container with this mixture in it.
-
-Warlocks of Imix command warriors to prove their worth by going on raids to bring back treasure and captives. The warlocks take the choicest loot as a tithe to Imix, and then those who participated in the raid divide the rest according to merit. Prisoners that have no apparent usefulness are sacrificed to Imix and then eaten. Those that are deemed capable of mining and performing other chores around the lair are kept as slaves for a while before meeting the same fate.
-
-When firenewts muster for war, rather than merely staging occasional raids, they take no prisoners. Their goal is nothing less than the annihilation of their foes—and they reserve their greatest animosity for others of their kind. If two groups of firenewts come upon each other, it's likely that they're in competition for the same territory, and a bloody battle is the usual result.
-
-Religious Militants:
-Firenewt society and culture are based on the worship of Imix, the Prince of Evil Fire. This veneration of Imix leads firenewts to be aggressive, wrathful, and cruel. Firenewt warlocks of Imix teach that by demonstrating these qualities, a firenewt warrior in combat can become "touched by the Fire Lord," entering a nearly unstoppable battle rage.
-
-Giant Striders:
-Firenewts have a close relationship with a type of monstrous beast they believe Imix sent to aid them-borne out by the creatures' ability to send a gout of flame against distant enemies. Called giant striders, these monsters appear birdlike and reptilian, but are truly neither. Firenewts provide shelter, food, and breeding grounds in their lairs for giant striders, and the striders voluntarily serve as mounts for elite fire newt soldiers.
+	Giant Striders. Firenewts have a close relationship with a type of monstrous beast they believe Imix sent to aid them-borne out by the creatures' ability to send a gout of flame against distant enemies. Called giant striders, these monsters appear birdlike and reptilian, but are truly neither. Firenewts provide shelter, food, and breeding grounds in their lairs for giant striders, and the striders voluntarily serve as mounts for elite fire newt soldiers.
 
 Source:	Volo's Guide to Monsters p. 143,
 		Tomb of Annihilation</description>
@@ -3616,17 +3609,16 @@ Source:	Volo's Guide to Monsters p. 148</description>
       <name>Eye Rays</name>
       <text>The gauth shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:
 
-1. Devour Magic Ray: The targeted creature must succeed on a DC 14 Dexterity saving throw or have one of its magic items lose all magical properties until the start of the gauth's next turn. If the object is a charged item, it also loses 1d4 charges. Determine the affected item randomly, ignoring single-use items such as potions and scrolls.
-
-2. Enervation Ray: The targeted creature must make a DC 14 Constitution saving throw, taking 18 (4d8) necrotic damage on a failed save, or half as much damage on a successful one.</text>
+Eye Rays:
+d6 | Ray | Effect
+1 | Devour Magic |Ray: The targeted creature must succeed on a DC 14 Dexterity saving throw or have one of its magic items lose all magical properties until the start of the gauth's next turn. If the object is a charged item, it also loses 1d4 charges. Determine the affected item randomly, ignoring single-use items such as potions and scrolls.
+2 | Enervation Ray | The targeted creature must make a DC 14 Constitution saving throw, taking 18 (4d8) necrotic damage on a failed save, or half as much damage on a successful one.
+3 | Pushing Ray | The targeted creature must succeed on a DC 14 Strength saving throw or be pushed up to 15 feet directly away from the gauth and have its speed halved until the start of the gauth's next turn.
+4 | Fire Ray | The targeted creature must succeed on a DC 14 Dexterity saving throw or take 22 (4d10) fire damage.
+5 | Paralyzing Ray | The targeted creature must succeed on a DC 14 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+6 | Sleep Ray | The targeted creature must succeed on a DC 14 Wisdom saving throw or fall asleep and remain unconscious for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on constructs and undead.</text>
       <attack>Eye Rays||4d8</attack>
-      <text>3. Pushing Ray: The targeted creature must succeed on a DC 14 Strength saving throw or be pushed up to 15 feet directly away from the gauth and have its speed halved until the start of the gauth's next turn.
-
-4. Fire Ray: The targeted creature must succeed on a DC 14 Dexterity saving throw or take 22 (4d10) fire damage.</text>
       <attack>Eye Rays||4d10</attack>
-      <text>5. Paralyzing Ray: The targeted creature must succeed on a DC 14 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-6. Sleep Ray: The targeted creature must succeed on a DC 14 Wisdom saving throw or fall asleep and remain unconscious for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on constructs and undead.</text>
     </action>
     <description>A gauth is a hungry, tyrannical beholder-like creature that eats magic and tries to exact tribute from anything weaker than itself. Its body is about 4 feet in diameter, with six eyestalks, a central eye (sometimes surrounded by multiple smaller eyes), and four small grasping tentacles near its mouth. It has color and texture variations similar to a true beholder.
 
@@ -3682,15 +3674,15 @@ Source:	Volo's Guide to Monsters p. 125</description>
       <name>Eye Rays</name>
       <text>The gazer shoots two of the following magical eye rays at random (reroll duplicates), choosing one or two targets it can see within 60 feet of it:
 
-1. Dazing Ray: The targeted creature must succeed on a DC 12 Wisdom saving throw or be charmed until the start of the gazer's next turn. While the target is charmed in this way, its speed is halved, and it has disadvantage on attack rolls.
-
-2. Fear Ray: The targeted creature must succeed on a DC 12 Wisdom saving throw or be frightened until the start of the gazer's next turn.
-
-3. Frost Ray: The targeted creature must succeed on a DC 12 Dexterity saving throw or take 10 (3d6) cold damage.</text>
-      <attack>Eye Rays||3d6</attack>
-      <text>4. Telekinetic Ray: If the target is a creature that is Medium or smaller, it must succeed on a DC 12 Strength saving throw or be moved up to 30 feet directly away from the gazer.
+Eye Rays:
+d4 | Ray | Effect
+1 | Dazing Ray | The targeted creature must succeed on a DC 12 Wisdom saving throw or be charmed until the start of the gazer's next turn. While the target is charmed in this way, its speed is halved, and it has disadvantage on attack rolls.
+2 | Fear Ray | The targeted creature must succeed on a DC 12 Wisdom saving throw or be frightened until the start of the gazer's next turn.
+3 | Frost Ray | The targeted creature must succeed on a DC 12 Dexterity saving throw or take 10 (3d6) cold damage.
+4 | Telekinetic Ray | If the target is a creature that is Medium or smaller, it must succeed on a DC 12 Strength saving throw or be moved up to 30 feet directly away from the gazer.
 
 If the target is an object weighing 10 pounds or less that isn't being worn or carried, the gazer moves it up to 30 feet in any direction. The gazer can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a container.</text>
+      <attack>Eye Rays||3d6</attack>
     </action>
     <action>
       <name>Variant: Gazer Familiar</name>
@@ -4669,7 +4661,7 @@ Source:	Volo's Guide to Monsters p. 162</description>
       <text>The illithilich's innate spellcasting ability is Intelligence (spell save DC 20). It can innately cast the following spells, requiring no components.
 
 	• At will: detect thoughts, levitate
-	• 1/Day each: dominate monster, plane shift (self only)</text>
+	• 1/day each: dominate monster, plane shift (self only)</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
@@ -4782,7 +4774,7 @@ Magic Resistance:
 The lich has advantage on saving throws against spells and other magical effects.
 
 	• At will: detect thoughts, levitate
-	• 1/Day each: dominate monster, plane shift (self only)
+	• 1/day each: dominate monster, plane shift (self only)
 Innate Spellcasting (Psionics):
 The lich's innate spellcasting ability is Intelligence (spell save DC 20). It can innately cast the following spells, requiring no components.
 
@@ -4908,7 +4900,7 @@ Source:	Volo's Guide to Monsters p. 214,
       <text>The ki-rin's innate spellcasting ability is Charisma (spell save DC 17). The ki-rin can innately cast the following spells, requiring no material components:
 
 	• At will: gaseous form, major image (6th-level version), wind walk
-	• 1/Day: create food and water</text>
+	• 1/day: create food and water</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
@@ -5112,26 +5104,23 @@ Source:	Volo's Guide to Monsters p. 165,
       <name>Weapon Invention</name>
       <text>The kobold uses one of the following options (roll a d8 or choose one); the kobold can use each one no more than once per day:
 
-1. Acid: The kobold hurls a flask of Acid (vial). Ranged Weapon Attack: +4 to hit, range 5/20 ft., one target. Hit: 7 (2d6) acid damage.</text>
+Weapon Inventions:
+d8 | Invetion | Effect
+1 | Acid | The kobold hurls a flask of Acid (vial). Ranged Weapon Attack: +4 to hit, range 5/20 ft., one target. Hit: 7 (2d6) acid damage.
+2 | Alchemist's fire | The kobold throws a flask of Alchemist's Fire (flask). Ranged Weapon Attack: +4 to hit, range 5/20 ft., one target. Hit: 2 (1d4) fire damage at the start of each of the target's turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
+3 | Basket of Centipedes | The kobold throws a small basket into a 5-foot-square space within 20 feet of it. A swarm of centipedes with 11 hit points emerges from the basket and rolls initiative. At the end of each of the swarm's turns, there's a 50 percent chance that the swarm disperses.
+4 | Green Slime Pot | The kobold throws a clay pot full of green slime at the target, and it breaks open on impact. Ranged Weapon Attack: +4 to hit, range 5/20 ft., one target. The target is covered in a patch of green slime (see chapter 5 of the Dungeon Master's Guide). Miss: A patch of green slime covers a randomly determined 5-foot-square section of wall or floor within 5 feet of the target.
+5 | Rot Grub Pot | The kobold throws a clay pot into a 5-foot-square space within 20 feet of it, and it breaks open on impact. A Swarm of Rot Grubs (see appendix A) emerges from the shattered pot and remains a hazard in that square.
+6 | Scorpion on a Stick | The kobold makes a melee attack with a scorpion tied to the end of a 5-foot-long pole. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.
+7 | Skunk in a Cage | The kobold releases a skunk into an unoccupied space within 5 feet of it. The skunk has a walking speed of 20 feet, AC 10, 1 hit point, and no effective attacks. It rolls initiative and, on its turn, uses its action to spray musk at a random creature within 5 feet of it. The target must make a DC 9 Constitution saving throw. On a failed save, the target retches and can't take actions for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that doesn't need to breathe or is immune to poison automatically succeeds on the saving throw. Once the skunk has sprayed its musk, it can't do so again until it finishes a short or long rest.
+8 | Wasp Nest in a Bag | The kobold throws a small bag into a 5-foot-square space within 20 feet of it. A swarm of wasps with 11 hit points emerges from the bag and rolls initiative. At the end of each of the swarm's turns, there's a 50 percent chance that the swarm disperses.</text>
       <attack>Weapon Invention|+4|2d6</attack>
-      <text>2. Alchemist's fire: The kobold throws a flask of Alchemist's Fire (flask). Ranged Weapon Attack: +4 to hit, range 5/20 ft., one target. Hit: 2 (1d4) fire damage at the start of each of the target's turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.</text>
       <attack>Weapon Invention|+4|1d4</attack>
-      <text>3. Basket of Centipedes: The kobold throws a small basket into a 5-foot-square space within 20 feet of it. A swarm of centipedes with 11 hit points emerges from the basket and rolls initiative. At the end of each of the swarm's turns, there's a 50 percent chance that the swarm disperses.
-
-4. Green Slime Pot: The kobold throws a clay pot full of green slime at the target, and it breaks open on impact. Ranged Weapon Attack: +4 to hit, range 5/20 ft., one target. The target is covered in a patch of green slime (see chapter 5 of the Dungeon Master's Guide). Miss: A patch of green slime covers a randomly determined 5-foot-square section of wall or floor within 5 feet of the target.
-
-5. Rot Grub Pot: The kobold throws a clay pot into a 5-foot-square space within 20 feet of it, and it breaks open on impact. A Swarm of Rot Grubs (see appendix A) emerges from the shattered pot and remains a hazard in that square.
-
-6. Scorpion on a Stick: The kobold makes a melee attack with a scorpion tied to the end of a 5-foot-long pole. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.</text>
       <attack>Weapon Invention|+4|1d8</attack>
-      <text>7. Skunk in a Cage: The kobold releases a skunk into an unoccupied space within 5 feet of it. The skunk has a walking speed of 20 feet, AC 10, 1 hit point, and no effective attacks. It rolls initiative and, on its turn, uses its action to spray musk at a random creature within 5 feet of it. The target must make a DC 9 Constitution saving throw. On a failed save, the target retches and can't take actions for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that doesn't need to breathe or is immune to poison automatically succeeds on the saving throw. Once the skunk has sprayed its musk, it can't do so again until it finishes a short or long rest.
-
-8. Wasp Nest in a Bag: The kobold throws a small bag into a 5-foot-square space within 20 feet of it. A swarm of wasps with 11 hit points emerges from the bag and rolls initiative. At the end of each of the swarm's turns, there's a 50 percent chance that the swarm disperses.</text>
     </action>
     <description>A kobold inventor, crafty and with quick hands, builds improvised weapons in the hope of gaining some new advantage in combat. An inventor captures bugs, scoops up exotic dungeon slimes, and claims the best stolen goods as ingredients in its experiments. Its creations are sometimes comical in appearance, but-like kobolds' traps-they work a lot better than their materials would suggest.
 
-Good While They Last:
-An inventor's new weapons last for only one or two attacks before they break, but might be surprisingly effective in the meantime. Most inventors are skilled enough that their improvised weapons don't backfire on them, but other users might not be so lucky. The weapons don't have to be lethal-in many cases one serves its purpose if it distracts, scares, or confuses a creature long enough for other kobolds to kill the enemy. In any particular encounter, an inventor usually has one or two improvised weapons at its disposal.
+	Good While They Last. An inventor's new weapons last for only one or two attacks before they break, but might be surprisingly effective in the meantime. Most inventors are skilled enough that their improvised weapons don't backfire on them, but other users might not be so lucky. The weapons don't have to be lethal-in many cases one serves its purpose if it distracts, scares, or confuses a creature long enough for other kobolds to kill the enemy. In any particular encounter, an inventor usually has one or two improvised weapons at its disposal.
 
 Source:	Volo's Guide to Monsters p. 166,
 		Tomb of Annihilation</description>
@@ -5248,7 +5237,7 @@ A rope of korred hair has AC 20 and 20 hit points. It regains 1 hit point at the
       <text>The korred's innate spellcasting ability is Wisdom (save DC 13). It can innately cast the following spells, requiring no components:
 
 	• At will: commune with nature, meld into stone, stone shape
-	• 1/Day each: conjure elemental (as 6th-level spell; galeb duhr, gargoyle, earth elemental, or xorn only), Otto's irresistible dance</text>
+	• 1/day each: conjure elemental (as 6th-level spell; galeb duhr, gargoyle, earth elemental, or xorn only), Otto's irresistible dance</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -5320,8 +5309,8 @@ Source:	Volo's Guide to Monsters p. 168</description>
       <text>The priest's spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
 	• At will: command, create or destroy water
-	• 3/Day each: control water, darkness, water breathing, water walk
-	• 1/Day each: call lightning, Evard's black tentacles</text>
+	• 3/day each: control water, darkness, water breathing, water walk
+	• 1/day each: call lightning, Evard's black tentacles</text>
     </trait>
     <action>
       <name>Thunderous Touch</name>
@@ -5695,7 +5684,7 @@ Source:	Volo's Guide to Monsters p. 170</description>
       <text>The mind flayer is a 10th-level spellcaster. Its innate spellcasting ability is Intelligence (spell save DC 15; +7 to hit with spell attacks). It can innately cast the following spells, requiring no components:
 
 	• At will: guidance, mage hand, vicious mockery, true strike, detect thoughts, levitate
-	• 1/Day each: dominate monster, plane shift (self only)
+	• 1/day each: dominate monster, plane shift (self only)
 
 	• 1st level (4 slots): charm person, command, comprehend languages, sanctuary
 	• 2nd level (3 slots): crown of madness, phantasmal force, see invisibility
@@ -5723,21 +5712,17 @@ Source:	Volo's Guide to Monsters p. 170</description>
     <spells>guidance, mage hand, vicious mockery, true strike, detect thoughts, levitate, dominate monster, plane shift, charm person, command, comprehend languages, sanctuary, crown of madness, phantasmal force, see invisibility, clairvoyance, fear, meld into stone, confusion, stone shape, scrying, telekinesis</spells>
     <description>Mind flayers sometimes devote themselves to deeper study of psionic power, and many excel at using their innate psionic energy to duplicate the casting of spells.
 
-Mind Flayer
+Mind Flayer:
 Mind flayers, also called illithids, are the scourge of sentient creatures across countless worlds. Psionic tyrants, slavers, and interdimensional voyagers, they are insidious masterminds that harvest entire races for their own twisted ends. Four tentacles snake from their octopus-like heads, flexing in hungry anticipation when sentient creatures come near.
-
-In eons past, illithids controlled empires that spanned many worlds. They subjugated and consequently warped whole races of humanoid slaves, including the githyanki and githzerai, the grimlocks, and the kuo-toa. Conjoined by a collective consciousness, the illithids hatch plots as far-reaching and evil as their fathomless minds can conceive.
-
-Since the fall of their empires, illithid collectives on the Material Plane have resided in the Underdark. Psionic Commanders. Mind flayers possess psionic powers that enable them to control the minds of creatures such as troglodytes, grimlocks, quaggoths, and ogres. Illithids prefer to communicate via telepathy and use their telepathy when issuing commands to their thralls.
-
-When an illithid meets strong resistance, it avoids initial combat as it orders its thralls to attack. Like physical extensions of the illithid's thoughts, these thralls interpose themselves between the mind flayer and its foes, sacrificing their lives so that their master can escape.
+	In eons past, illithids controlled empires that spanned many worlds. They subjugated and consequently warped whole races of humanoid slaves, including the githyanki and githzerai, the grimlocks, and the kuo-toa. Conjoined by a collective consciousness, the illithids hatch plots as far-reaching and evil as their fathomless minds can conceive.
+	Since the fall of their empires, illithid collectives on the Material Plane have resided in the Underdark. Psionic Commanders. Mind flayers possess psionic powers that enable them to control the minds of creatures such as troglodytes, grimlocks, quaggoths, and ogres. Illithids prefer to communicate via telepathy and use their telepathy when issuing commands to their thralls.
+	When an illithid meets strong resistance, it avoids initial combat as it orders its thralls to attack. Like physical extensions of the illithid's thoughts, these thralls interpose themselves between the mind flayer and its foes, sacrificing their lives so that their master can escape.
 
 Hive Mind Colonies:
 Solitary mind flayers are likely rogues and outcasts. Most illithids belong to a colony of sibling mind flayers devoted to an elder brain-a massive brain-like being that resides in a briny pool near the center of a mind flayer community. From its pool, an elder brain telepathically dictates its desires to each individual mind flayer within 5 miles of it, for it is able to hold multiple mental conversations at once.
+	An illithid experiences euphoria as it devours the brain of a humanoid, along with its memories, personality, and innermost fears. Mind flayers will sometimes harvest a brain rather than devour it, using it as part of some alien experiment or transforming it into an intellect devourer.
 
-An illithid experiences euphoria as it devours the brain of a humanoid, along with its memories, personality, and innermost fears. Mind flayers will sometimes harvest a brain rather than devour it, using it as part of some alien experiment or transforming it into an intellect devourer.
-
-Qualith
+Qualith:
 On the rare occasion that mind flayers need to write something down, they do so in Qualith. This system of tactile writing (similar to braille) is read by an illithid's tentacles. Qualith is written in four-line stanzas and is so alien in construction that non-illithids must resort to magic to discern its meaning. Though Qualith can be used to keep records, illithids most often use it to mark portals or other surfaces with warnings or instructions.
 
 Hunger of the Mind:
@@ -5792,29 +5777,24 @@ Source:	Volo's Guide to Monsters p. 71</description>
       <name>Eye Rays</name>
       <text>The mindwitness shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:
 
-1. Aversion Ray: The targeted creature must make a DC 13 Charisma saving throw. On a failed save, the target has disadvantage on attack rolls for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-2. Fear Ray: The targeted creature must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-3. Psychic Ray: The target must succeed on a DC 13 Intelligence saving throw or take 27 (6d8) psychic damage.</text>
-      <attack>Eye Rays||6d8</attack>
-      <text>4. Slowing Ray: The targeted creature must make a DC 13 Dexterity saving throw. On a failed save, the target's speed is halved for 1 minute. In addition, the creature can't take reactions, and it can take either an action or a bonus action on its turn but not both. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-5. Stunning Ray: The targeted creature must succeed on a DC 13 Constitution saving throw or be stunned for 1 minute. The target can repeat the saving throw at the start of each of its turns, ending the effect on itself on a success.
-
-6. Telekinetic Ray: If the target is a creature, it must make a DC 13 Strength saving throw. On a failed save, the mindwitness moves it up to 30 feet in any direction, and it is restrained by the ray's telekinetic grip until the start of the mindwitness's next turn or until the mindwitness is incapacitated.
+Eye Rays:
+d6 | Ray | Effect
+1 | Aversion Ray | The targeted creature must make a DC 13 Charisma saving throw. On a failed save, the target has disadvantage on attack rolls for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+2 | Fear Ray | The targeted creature must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+3 | Psychic Ray | The target must succeed on a DC 13 Intelligence saving throw or take 27 (6d8) psychic damage.
+4 | Slowing Ray | The targeted creature must make a DC 13 Dexterity saving throw. On a failed save, the target's speed is halved for 1 minute. In addition, the creature can't take reactions, and it can take either an action or a bonus action on its turn but not both. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+5 | Stunning Ray | The targeted creature must succeed on a DC 13 Constitution saving throw or be stunned for 1 minute. The target can repeat the saving throw at the start of each of its turns, ending the effect on itself on a success.
+6 | Telekinetic Ray | If the target is a creature, it must make a DC 13 Strength saving throw. On a failed save, the mindwitness moves it up to 30 feet in any direction, and it is restrained by the ray's telekinetic grip until the start of the mindwitness's next turn or until the mindwitness is incapacitated.
 
 If the target is an object weighing 300 pounds or less that isn't being worn or carried, it is telekinetically moved up to 30 feet in any direction. The mindwitness can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or a container.</text>
+      <attack>Eye Rays||6d8</attack>
     </action>
     <description>If the beholder can be stunned and brought safely to the brine pool of the elder brain, it can be converted through ceremorphosis into a mindwitness. The process of ceremorphosis transforms four of the beholder's eyestalks into tentacles similar to those of a mind flayer, and alters some of the beholder's eye rays.
+	Less intelligent than beholders and less liable to endanger the colony, mindwitnesses are psionically imprinted with devotion to the elder brain and submission to illithid commands, making them almost as obedient as intellect devourers.
 
-Less intelligent than beholders and less liable to endanger the colony, mindwitnesses are psionically imprinted with devotion to the elder brain and submission to illithid commands, making them almost as obedient as intellect devourers.
+	Telepathic Hub. The primary function of a mindwitness is to improve telepathic communication in a mind flayer colony. A creature in telepathic communication with a mindwitness can converse telepathically through it to as many as seven other creatures the mindwitness can see, allowing the rapid spread of commands and other information.
 
-Telepathic Hub:
-The primary function of a mindwitness is to improve telepathic communication in a mind flayer colony. A creature in telepathic communication with a mindwitness can converse telepathically through it to as many as seven other creatures the mindwitness can see, allowing the rapid spread of commands and other information.
-
-Solitary Seekers:
-If separated from its illithid masters, a mindwitness seeks out other telepathic creatures to tell it what to do. Mindwitnesses have been known to ally with flumphs and telepathic planar beings such as demons, shifting their worldview and changing their alignment to match that of their new masters.
+	Solitary Seekers. If separated from its illithid masters, a mindwitness seeks out other telepathic creatures to tell it what to do. Mindwitnesses have been known to ally with flumphs and telepathic planar beings such as demons, shifting their worldview and changing their alignment to match that of their new masters.
 
 Source:	Volo's Guide to Monsters p. 176</description>
     <environment>underdark</environment>
@@ -6323,7 +6303,7 @@ Source:	Volo's Guide to Monsters p. 180</description>
       <text>The neothelid's innate spellcasting ability is Wisdom (spell save DC 16). It can innately cast the following spells, requiring no components:
 
 	• At will: levitate
-	• 1/Day each: confusion, feeblemind, telekinesis</text>
+	• 1/day each: confusion, feeblemind, telekinesis</text>
     </trait>
     <action>
       <name>Tentacles</name>
@@ -6388,7 +6368,7 @@ Source:	Volo's Guide to Monsters p. 181,
       <text>The nilbog's innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:
 
 	• At will: mage hand, Tasha's hideous laughter, vicious mockery
-	• 1/Day: confusion</text>
+	• 1/day: confusion</text>
     </trait>
     <action>
       <name>Fool's Scepter</name>
@@ -7702,7 +7682,7 @@ Source:	Volo's Guide to Monsters p. 151,
       <text>The swarm's innate spellcasting ability is Intelligence (spell save DC 13). As long as it has more than half of its hit points, it can innately cast the following spells, requiring no components:
 
 	• At will: command, comprehend languages, detect thoughts
-	• 1/Day each: confusion, dominate monster</text>
+	• 1/day each: confusion, dominate monster</text>
     </trait>
     <action>
       <name>Bites</name>
@@ -8182,7 +8162,7 @@ Source:	Volo's Guide to Monsters p. 194,
       <text>The ulitharid's innate spellcasting ability is Intelligence (spell save DC 17). It can innately cast the following spells, requiring no components:
 
 	• At will: detect thoughts, levitate
-	• 1/Day each: confusion, dominate monster, eyebite, feeblemind, mass suggestion, plane shift (self only), project image, scrying, telekinesis</text>
+	• 1/day each: confusion, dominate monster, eyebite, feeblemind, mass suggestion, plane shift (self only), project image, scrying, telekinesis</text>
     </trait>
     <action>
       <name>Tentacles</name>
@@ -8561,7 +8541,7 @@ Source:	Volo's Guide to Monsters p. 218,
       <text>The warlock's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save DC 15), requiring no material components:
 
 	• At will: disguise self, mage armor (self only), silent image, speak with animals
-	• 1/Day: conjure fey</text>
+	• 1/day: conjure fey</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
@@ -8624,7 +8604,7 @@ Source:	Volo's Guide to Monsters p. 219</description>
       <text>The warlock's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save DC 15), requiring no material components:
 
 	• At will: alter self, false life, levitate (self only), mage armor (self only), silent image
-	• 1/Day each: feeblemind, finger of death, plane shift</text>
+	• 1/day each: feeblemind, finger of death, plane shift</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
@@ -8682,7 +8662,7 @@ Source:	Volo's Guide to Monsters p. 219,
       <text>The warlock's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save DC 15), requiring no material components:
 
 	• At will: detect magic, jump, levitate, mage armor (self only), speak with dead
-	• 1/Day each: arcane gate, true seeing</text>
+	• 1/day each: arcane gate, true seeing</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
@@ -8978,7 +8958,7 @@ When things go badly for them, they kidnap whoever's handy and sacrifice them to
 
 Despite their muddled nature, all xvarts have an unshakable devotion to Raxivort. The desire to please Raxivort weighs heavily on all their decisions. When things aren't going well for them, xvarts naturally assume that Raxivort is angry. To appease their troubled lord, they stage kidnappings. They fashion nets to capture their enemies, which are dragged back to the lair and sacrificed on a makeshift altar. Raxivort can hear their supplications, but he's too afraid to come out of hiding most of the time. Occasionally, he does appear before a tribe of worshipers as a 9-foot-tall xvart carrying an empty sack. In every such instance, Raxivort takes all of the treasure that the tribe has accumulated, stuffs it in his sack, and disappears, leaving nothing behind as compensation.
 
-Xvart Speakers
+Xvart Speakers:
 A xvart tribe has one speaker that serves as its leader. The speaker has the statistics of a normal xvart, except that it has an Intelligence of 13 (+1) and knows one additional language (usually Common or Goblin).
 
 Greedy Thugs:
@@ -9059,7 +9039,7 @@ When things go badly for them, they kidnap whoever's handy and sacrifice them to
 
 Despite their muddled nature, all xvarts have an unshakable devotion to Raxivort. The desire to please Raxivort weighs heavily on all their decisions. When things aren't going well for them, xvarts naturally assume that Raxivort is angry. To appease their troubled lord, they stage kidnappings. They fashion nets to capture their enemies, which are dragged back to the lair and sacrificed on a makeshift altar. Raxivort can hear their supplications, but he's too afraid to come out of hiding most of the time. Occasionally, he does appear before a tribe of worshipers as a 9-foot-tall xvart carrying an empty sack. In every such instance, Raxivort takes all of the treasure that the tribe has accumulated, stuffs it in his sack, and disappears, leaving nothing behind as compensation.
 
-Xvart Speakers
+Xvart Speakers:
 A xvart tribe has one speaker that serves as its leader. The speaker has the statistics of a normal xvart, except that it has an Intelligence of 13 (+1) and knows one additional language (usually Common or Goblin).
 
 Greedy Thugs:
@@ -9150,7 +9130,7 @@ When things go badly for them, they kidnap whoever's handy and sacrifice them to
 
 Despite their muddled nature, all xvarts have an unshakable devotion to Raxivort. The desire to please Raxivort weighs heavily on all their decisions. When things aren't going well for them, xvarts naturally assume that Raxivort is angry. To appease their troubled lord, they stage kidnappings. They fashion nets to capture their enemies, which are dragged back to the lair and sacrificed on a makeshift altar. Raxivort can hear their supplications, but he's too afraid to come out of hiding most of the time. Occasionally, he does appear before a tribe of worshipers as a 9-foot-tall xvart carrying an empty sack. In every such instance, Raxivort takes all of the treasure that the tribe has accumulated, stuffs it in his sack, and disappears, leaving nothing behind as compensation.
 
-Xvart Speakers
+Xvart Speakers:
 A xvart tribe has one speaker that serves as its leader. The speaker has the statistics of a normal xvart, except that it has an Intelligence of 13 (+1) and knows one additional language (usually Common or Goblin).
 
 Greedy Thugs:
@@ -9279,8 +9259,8 @@ Source:	Volo's Guide to Monsters p. 201</description>
       <text>The anathema's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:
 
 	• At will: animal friendship (snakes only)
-	• 1/Day: divine word
-	• 3/Day each: darkness, entangle, fear, haste, suggestion, polymorph</text>
+	• 1/day: divine word
+	• 3/day each: darkness, entangle, fear, haste, suggestion, polymorph</text>
     </trait>
     <action>
       <name>Multiattack (Anathema Form Only)</name>
@@ -9456,7 +9436,7 @@ Source:	Volo's Guide to Monsters p. 203,
       <text>The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:
 
 	• At will: animal friendship (snakes only)
-	• 3/Day: suggestion</text>
+	• 3/day: suggestion</text>
     </trait>
     <action>
       <name>Multiattack (Yuan-ti Form Only)</name>
@@ -9529,7 +9509,7 @@ Source:	Volo's Guide to Monsters p. 203,
       <text>The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:
 
 	• At will: animal friendship (snakes only)
-	• 3/Day: suggestion</text>
+	• 3/day: suggestion</text>
     </trait>
     <action>
       <name>Multiattack (Yuan-ti Form Only)</name>
@@ -9603,7 +9583,7 @@ Source:	Volo's Guide to Monsters p. 203,
       <text>The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:
 
 	• At will: animal friendship (snakes only)
-	• 3/Day: suggestion</text>
+	• 3/day: suggestion</text>
     </trait>
     <trait>
       <name>Spellcasting (Yuan-ti Form Only)</name>
@@ -9692,7 +9672,7 @@ Source:	Volo's Guide to Monsters p. 204</description>
       <text>The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:
 
 	• At will: animal friendship (snakes only)
-	• 3/Day: suggestion</text>
+	• 3/day: suggestion</text>
     </trait>
     <trait>
       <name>Spellcasting (Yuan-ti Form Only)</name>
@@ -9790,7 +9770,7 @@ Source:	Volo's Guide to Monsters p. 205,
       <text>The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:
 
 	• At will: animal friendship (snakes only)
-	• 3/Day: suggestion</text>
+	• 3/day: suggestion</text>
     </trait>
     <trait>
       <name>Spellcasting (Yuan-ti Form Only)</name>

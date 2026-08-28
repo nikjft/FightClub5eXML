@@ -244,9 +244,9 @@ Until the grapple ends, the target is restrained, and Bavlorna can't use her Bit
       <name>Spellcasting</name>
       <text>Bavlorna casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 14):
 
-• At will: detect magic
-• 2/Day each: create food and water, polymorph, remove curse
-• 1/Day: plane shift (self only)</text>
+	• At will: detect magic
+	• 2/day each: create food and water, polymorph, remove curse
+	• 1/day: plane shift (self only)</text>
     </action>
     <action>
       <name>Swallow (Bonus Action)</name>
@@ -368,9 +368,8 @@ If the oil is sticky, any creature that enters the puddle's area or starts its t
     <action>
       <name>Spellcasting</name>
       <text>The brigganock casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 11):
-
-• At will: minor illusion, spare the dying
-• 1/Day each: animal friendship, faerie fire, meld into stone, silence</text>
+	• At will: minor illusion, spare the dying
+	• 1/day each: animal friendship, faerie fire, meld into stone, silence</text>
     </action>
     <action>
       <name>Time Lapse (Recharges after a Short or Long Rest)</name>
@@ -875,9 +874,9 @@ Once a spell from this list has been cast, no member of the coven can cast that 
       <name>Spellcasting</name>
       <text>Endelyn casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 14):
 
-• At will: detect magic, mage hand
-• 2/Day each: augury, polymorph
-• 1/Day: plane shift (self only)</text>
+	• At will: detect magic, mage hand
+	• 2/day each: augury, polymorph
+	• 1/day: plane shift (self only)</text>
     </action>
     <spells>detect magic, mage hand, augury, polymorph, plane shift, detect thoughts, dispel magic, finger of death, glibness, locate creature, mass suggestion</spells>
     <description>Source:	The Wild Beyond the Witchlight p. 217</description>
@@ -1430,9 +1429,9 @@ Once a spell from this list has been cast, no member of the coven can cast that 
       <name>Spellcasting</name>
       <text>Iggwilv casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 24, +16 to hit with spell attacks):
 
-• At will: detect magic, disguise self, invisibility, light, mage hand, message, prestidigitation, Tasha's hideous laughter
-• 3/Day each: dispel magic, fly, polymorph
-• 1/Day each: maze, telekinesis, teleport, wish</text>
+	• At will: detect magic, disguise self, invisibility, light, mage hand, message, prestidigitation, Tasha's hideous laughter
+	• 3/day each: dispel magic, fly, polymorph
+	• 1/day each: maze, telekinesis, teleport, wish</text>
     </action>
     <action>
       <name>Fey Step (Bonus Action)</name>
@@ -1654,8 +1653,8 @@ Once a spell from this list has been cast, no member of the coven can cast that 
       <name>Spellcasting</name>
       <text>Kelek casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 14):
 
-• At will: light, mage hand, prestidigitation
-• 1/Day each: dominate beast, fly, mirror image, web</text>
+	• At will: light, mage hand, prestidigitation
+	• 1/day each: dominate beast, fly, mirror image, web</text>
     </action>
     <reaction>
       <name>Arcane Defense (3/Day)</name>
@@ -1712,8 +1711,8 @@ Once a spell from this list has been cast, no member of the coven can cast that 
       <name>Spellcasting</name>
       <text>Kettlesteam casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 13):
 
-• At will: disguise self, friends, mage hand, minor illusion
-• 1/Day each: bestow curse, faerie fire, speak with animals</text>
+	• At will: disguise self, friends, mage hand, minor illusion
+	• 1/day each: bestow curse, faerie fire, speak with animals</text>
     </action>
     <action>
       <name>Twilight Sleep (2/Day)</name>
@@ -1776,8 +1775,8 @@ Once a spell from this list has been cast, no member of the coven can cast that 
       <name>Spellcasting</name>
       <text>The korred casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 13):
 
-• At will: commune with nature (as an action), meld into stone, stone shape
-• 1/Day each: Otto's irresistible dance</text>
+	• At will: commune with nature (as an action), meld into stone, stone shape
+	• 1/day each: Otto's irresistible dance</text>
     </action>
     <action>
       <name>Command Hair (Bonus Action)</name>
@@ -1900,9 +1899,9 @@ Once a spell from this list has been cast, no member of the coven can cast that 
       <name>Spellcasting</name>
       <text>Mercion casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 13):
 
-• At will: light, spare the dying
-• 2/Day each: command, create food and water, cure wounds, faerie fire, hold person, revivify
-• 1/Day: death ward</text>
+	• At will: light, spare the dying
+	• 2/day each: command, create food and water, cure wounds, faerie fire, hold person, revivify
+	• 1/day: death ward</text>
     </action>
     <spells>light, spare the dying, command, create food and water, cure wounds, faerie fire, hold person, revivify, death ward</spells>
     <description>Source:	The Wild Beyond the Witchlight p. 224</description>
@@ -2393,9 +2392,9 @@ Source:	Volo's Guide to Monsters p. 188,
       <name>Spellcasting</name>
       <text>Ringlerun casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 14):
 
-• At will: light, mage hand, prestidigitation
-• 3/Day each: charm person, detect magic, sleep
-• 1/Day each: banishment, dispel magic, fly, knock</text>
+	• At will: light, mage hand, prestidigitation
+	• 3/day each: charm person, detect magic, sleep
+	• 1/day each: banishment, dispel magic, fly, knock</text>
     </action>
     <action>
       <name>Staff Spell</name>
@@ -2569,8 +2568,8 @@ The target falls unconscious if this reduces its Strength to 0. Otherwise, the r
       <name>Innate Spellcasting</name>
       <text>Sir Talavar's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast a number of spells, requiring no material components.
 
-• 1/Day: color spray (Orange), mirror image (Yellow), suggestion (Green), major image (Blue), hallucinatory terrain (Indigo), polymorph (Violet)
-• 1/Day each: dancing lights, mage hand, minor illusion
+	• 1/day: color spray (Orange), mirror image (Yellow), suggestion (Green), major image (Blue), hallucinatory terrain (Indigo), polymorph (Violet)
+	• 1/day each: dancing lights, mage hand, minor illusion
 
 Violet, 1/Day: polymorph</text>
     </trait>
@@ -2655,9 +2654,9 @@ Once a spell from this list has been cast, no member of the coven can cast that 
       <name>Spellcasting</name>
       <text>Skabatha casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 14):
 
-• At will: detect magic, druidcraft, speak with animals
-• 2/Day each: polymorph, remove curse, speak with plants
-• 1/Day: awaken (as an action), plane shift (self only)</text>
+	• At will: detect magic, druidcraft, speak with animals
+	• 2/day each: polymorph, remove curse, speak with plants
+	• 1/day: awaken (as an action), plane shift (self only)</text>
     </action>
     <action>
       <name>Alter Size (Bonus Action)</name>
@@ -2716,7 +2715,7 @@ As a Tiny creature, Skabatha deals 2 (1d4) poison damage when she hits with a Cl
       <name>Spellcasting</name>
       <text>Skylla casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 13):
 
-• 1/Day each: detect magic, disguise self, faerie fire, fly, hypnotic pattern, invisibility, mage armor</text>
+	• 1/day each: detect magic, disguise self, faerie fire, fly, hypnotic pattern, invisibility, mage armor</text>
     </action>
     <reaction>
       <name>Eldritch Escape</name>
@@ -2826,8 +2825,8 @@ As a Tiny creature, Skabatha deals 2 (1d4) poison damage when she hits with a Cl
       <name>Spellcasting</name>
       <text>Strongheart casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 13):
 
-• 3/Day each: command, detect evil and good, protection from evil and good
-• 1/Day each: lesser restoration, remove curse, zone of truth</text>
+	• 3/day each: command, detect evil and good, protection from evil and good
+	• 1/day each: lesser restoration, remove curse, zone of truth</text>
     </action>
     <reaction>
       <name>Protect Another</name>
@@ -3395,8 +3394,8 @@ Until this grapple ends, the target takes 8 (2d4 + 3) slashing damage at the sta
       <name>Spellcasting</name>
       <text>Zargash casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 13):
 
-• At will: light, thaumaturgy
-• 1/Day each: command, gaseous form, hold person, silence, speak with dead</text>
+	• At will: light, thaumaturgy
+	• 1/day each: command, gaseous form, hold person, silence, speak with dead</text>
     </action>
     <action>
       <name>Animate Corpse  (1/Day) (Bonus Action)</name>

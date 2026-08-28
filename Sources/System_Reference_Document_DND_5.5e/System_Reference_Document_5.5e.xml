@@ -24,23 +24,26 @@ Source:	System Reference Document v5.2.1</text>
         <name>Becoming A Barbarian As A Level 1 Character</name>
         <text>As a 1st-level Barbarian, you begin play with 12 + your Constitution modifier hit points.
 
-Core Barbarian Traits
-Primary Ability: Strength
-Hit Point Die: D12 per Barbarian level
-Saving Throw Proficiencies: Strength and Constitution
-Skill Proficiencies: Choose 2: Animal Handling, Athletics, Intimidation, Nature, Perception, or Survival
-Weapon Proficiencies: Simple and Martial weapons
-Armor Training: Light and Medium armor and Shields
-Starting Equipment: Choose A or B: (A) Greataxe, 4 Handaxes, Explorer's Pack, and 15 GP; or (B) 75 GP
+Core Barbarian Traits:
+	• Primary Ability: Strength
+	• Hit Point Die: D12 per Barbarian level
+	• Saving Throw Proficiencies: Strength and Constitution
+	• Skill Proficiencies: Choose 2: Animal Handling, Athletics, Intimidation, Nature, Perception, or Survival
+	• Weapon Proficiencies: Simple and Martial weapons
+	• Armor Training: Light and Medium armor and Shields
+
+You start with the following equipment, in addition to the equipment granted by your background (choose A or B):
+	• (A) Greataxe, 4 Handaxes, Explorer's Pack, and 15 GP
+	• (B) 75 GP
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
       <feature optional="YES">
         <name>Becoming A Barbarian As A Multiclass Character</name>
-        <text>Core Barbarian Traits
-Hit Point Die: D12 per Barbarian level
-Weapon Proficiencies: Martial weapons
-Armor Training: Shields
+        <text>Core Barbarian Traits:
+	• Hit Point Die: D12 per Barbarian level
+	• Weapon Proficiencies: Martial weapons
+	• Armor Training: Shields
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
@@ -50,15 +53,15 @@ Source:	System Reference Document v5.2.1</text>
 	You can enter your Rage the number of times shown for your Barbarian level in the Rages column of the Barbarian Features table. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
 	While active, your Rage follows the rules below.
 
-Damage Resistance. You have Resistance to Bludgeoning, Piercing, and Slashing damage.
+	Damage Resistance. You have Resistance to Bludgeoning, Piercing, and Slashing damage.
 
-Rage Damage. When you make an attack using Strength —with either a weapon or an Unarmed Strike— and deal damage to the target, you gain a bonus to the damage that increases as you gain levels as a Barbarian, as shown in the Rage Damage column of the Barbarian Features table (+2 at 1st level, +3 at 9th level, +4 at 16th level).
+	Rage Damage. When you make an attack using Strength —with either a weapon or an Unarmed Strike— and deal damage to the target, you gain a bonus to the damage that increases as you gain levels as a Barbarian, as shown in the Rage Damage column of the Barbarian Features table (+2 at 1st level, +3 at 9th level, +4 at 16th level).
 
-Strength Advantage. You have Advantage on Strength checks and Strength saving throws.
+	Strength Advantage. You have Advantage on Strength checks and Strength saving throws.
 
-No Concentration or Spells. You can't maintain Concentration, and you can't cast spells.
+	No Concentration or Spells. You can't maintain Concentration, and you can't cast spells.
 
-Duration. The Rage lasts until the end of your next turn, and it ends early if you don Heavy armor or have the Incapacitated condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one of the following:
+	Duration. The Rage lasts until the end of your next turn, and it ends early if you don Heavy armor or have the Incapacitated condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one of the following:
 
 	• Make an attack roll against an enemy.
 	• Force an enemy to make a saving throw.
@@ -415,26 +418,29 @@ Source:	System Reference Document v5.2.1</text>
         <name>Becoming A Bard As A Level 1 Character</name>
         <text>As a 1st-level Bard, you begin play with 8 + your Constitution modifier hit points.
 
-Core Bard Traits
-Primary Ability: Charisma
-Hit Point Die: D8 per Bard level
-Saving Throw Proficiencies: Dexterity and Charisma
-Skill Proficiencies: Choose any 3 skills (see chapter 1)
-Weapon Proficiencies: Simple weapons
-Tool Proficiencies: Choose 3 Musical Instruments (see chapter 6)
-Armor Training: Light armor
-Starting Equipment: Choose A or B: (A) Leather Armor, 2 Daggers, Musical Instrument of your choice, Entertainer's Pack, and 19 GP; or (8) 90 GP
+Core Bard Traits:
+	• Primary Ability: Charisma
+	• Hit Point Die: D8 per Bard level
+	• Saving Throw Proficiencies: Dexterity and Charisma
+	• Skill Proficiencies: Choose any 3 skills (see chapter 1)
+	• Weapon Proficiencies: Simple weapons
+	• Tool Proficiencies: Choose 3 Musical Instruments (see chapter 6)
+	• Armor Training: Light armor
+
+You start with the following equipment, in addition to the equipment granted by your background (choose A or B):
+	• (A) Leather Armor, 2 Daggers, Musical Instrument of your choice, Entertainer's Pack, and 19 GP
+	• (B) 90 GP
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
       <feature optional="YES">
         <name>Becoming A Bard As A Multiclass Character</name>
-        <text>Core Bard Traits
-Primary Ability: Charisma
-Hit Point Die: D8 per Bard level
-Skill Proficiencies: proficiency in one skill of your choice
-Tool Proficiencies: proficiency with one Musical Instrument of your choice
-Armor Training: Light armor
+        <text>Core Bard Traits:
+	• Primary Ability: Charisma
+	• Hit Point Die: D8 per Bard level
+	• Skill Proficiencies: proficiency in one skill of your choice
+	• Tool Proficiencies: proficiency with one Musical Instrument of your choice
+	• Armor Training: Light armor
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
@@ -455,22 +461,23 @@ Source:	System Reference Document v5.2.1</text>
         <name>Level 1: Spellcasting</name>
         <text>You have learned to cast spells through your bardic arts. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Bard spells, which appear in the Bard spell list later in the class's description.
 
-Cantrips. You know two cantrips of your choice from the Bard spell list. Dancing Lights and Vicious Mockery are recommended.
-	Whenever you gain a Bard level, you can replace one of your cantrips with another can trip of your choice from the Bard spell list.
+	Cantrips. You know two cantrips of your choice from the Bard spell list. Dancing Lights and Vicious Mockery are recommended.
+	Whenever you gain a Bard level, you can replace one of your cantrips with another cantrip of your choice from the Bard spell list.
 	When you reach Bard levels 4 and 10, you learn another cantrip of your choice from the Bard spell list, as shown in the Cantrips column of the Bard Features table.
 
-Spell Slots. The Bard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+	Spell Slots. The Bard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Bard spell list. Charm Person, Color Spray, Dissonant Whispers, and Healing Word are recommended.
+	Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Bard spell list. Charm Person, Color Spray, Dissonant Whispers, and Healing Word are recommended.
 	The number of spells on your list increases as you gain Bard levels, as shown in the Prepared Spells column of the Bard Features table. Whenever that number increases, choose additional spells from the Bard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Bard, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 	If another Bard feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Bard spells for you.
 
-Changing Your Prepared Spells. Whenever you gain a Bard level, you can replace one spell on your list with another Bard spell for which you have spell slots.
+	Changing Your Prepared Spells. Whenever you gain a Bard level, you can replace one spell on your list with another Bard spell for which you have spell slots.
 
-Spellcasting Ability. Charisma is your spellcasting ability for your Bard spells.
+	Spellcasting Ability. Charisma is your spellcasting ability for your Bard spells.
 
-Spellcasting Focus. You can use a Musical Instrument as a Spellcasting Focus for your Bard spells.
+	Spellcasting Focus. You can use a Musical Instrument as a Spellcasting Focus for your Bard spells.
 
+Bard Table:
 Level | Prepared Spells
 1 | 4
 2 | 5
@@ -728,23 +735,26 @@ Source:	System Reference Document v5.2.1</text>
         <name>Becoming A Cleric As A Level 1 Character</name>
         <text>As a 1st-level Cleric, you begin play with 8 + your Constitution modifier hit points.
 
-Core Cleric Traits
-Primary Ability: Wisdom
-Hit Point Die: D8 per Cleric level
-Saving Throw Proficiencies: Wisdom and Charisma
-Skill Proficiencies: Choose 2: History, Insight, Medicine, Persuasion, or Religion
-Weapon Proficiencies: Simple weapons
-Armor Training: Light and Medium armor and Shields
-Starting Equipment: Choose A or B: (A) Chain Shirt, Shield, Mace, Holy Symbol, Priest's Pack, and 7 GP; or (B) 110 GP
+Core Cleric Traits:
+	• Primary Ability: Wisdom
+	• Hit Point Die: D8 per Cleric level
+	• Saving Throw Proficiencies: Wisdom and Charisma
+	• Skill Proficiencies: Choose 2: History, Insight, Medicine, Persuasion, or Religion
+	• Weapon Proficiencies: Simple weapons
+	• Armor Training: Light and Medium armor and Shields
+
+You start with the following equipment, in addition to the equipment granted by your background (choose A or B):
+	• (A) Chain Shirt, Shield, Mace, Holy Symbol, Priest's Pack, and 7 GP
+	• (B) 110 GP
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
       <feature optional="YES">
         <name>Becoming A Cleric As A Multiclass Character</name>
-        <text>Core Cleric Traits
-Primary Ability: Wisdom
-Hit Point Die: D8 per Cleric level
-Armor Training: Light and Medium armor and Shields
+        <text>Core Cleric Traits:
+	• Primary Ability: Wisdom
+	• Hit Point Die: D8 per Cleric level
+	• Armor Training: Light and Medium armor and Shields
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
@@ -752,22 +762,23 @@ Source:	System Reference Document v5.2.1</text>
         <name>Level 1: Spellcasting</name>
         <text>You have learned to cast spells through prayer and meditation. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Cleric spells, which appear on the Cleric spell list later in the class's description.
 
-Cantrips. You know three cantrips of your choice from the Cleric spell list. Guidance, Sacred Flame, and Thaumaturgy are recommended.
+	Cantrips. You know three cantrips of your choice from the Cleric spell list. Guidance, Sacred Flame, and Thaumaturgy are recommended.
 	Whenever you gain a Cleric level, you can replace one of your cantrips with another cantrip of your choice from the Cleric spell list.
 	When you reach Cleric levels 4 and 10, you learn another cantrip of your choice from the Cleric spell list, as shown in the Cantrips column of the Cleric Features table.
 
-Spell Slots. The Cleric Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+	Spell Slots. The Cleric Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Cleric spell list. Bless, Cure Wounds, Guiding Bolt, and Shield of Faith are recommended.
+	Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Cleric spell list. Bless, Cure Wounds, Guiding Bolt, and Shield of Faith are recommended.
 	The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the Cleric spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Cleric, your list of prepared spells can include six spells of levels. 1 and 2 in any combination.
 	If another Cleric feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Cleric spells for you.
 
-Changing Your Prepared Spells. Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells there with other Cleric spells for which you have spell slots.
+	Changing Your Prepared Spells. Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells there with other Cleric spells for which you have spell slots.
 
-Spellcasting Ability. Wisdom is your spellcasting ability for your Cleric spells.
+	Spellcasting Ability. Wisdom is your spellcasting ability for your Cleric spells.
 
-Spellcasting Focus. You can use a Holy Symbol as a Spellcasting Focus for your Cleric spells.
+	Spellcasting Focus. You can use a Holy Symbol as a Spellcasting Focus for your Cleric spells.
 
+Cleric Table:
 Level | Prepared Spells
 1 | 4
 2 | 5
@@ -1099,24 +1110,27 @@ Source:	System Reference Document v5.2.1</text>
         <name>Becoming A Druid As A Level 1 Character</name>
         <text>As a 1st-level Druid, you begin play with 8 + your Constitution modifier hit points.
 
-Core Druid Traits
-Primary Ability: Wisdom
-Hit Point Die: D8 per Druid level
-Saving Throw Proficiencies: Intelligence and Wisdom
-Skill Proficiencies: Choose 2: Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, or Survival
-Weapon Proficiencies: Simple weapons
-Tool Proficiencies: Herbalism Kit
-Armor Training: Light armor and Shields
-Starting Equipment: Choose A or B: (A) Leather Armor, Shield, Sickle, Druidic Focus (Quarterstaff), Explorer's Pack, Herbalism Kit, and 9 GP; or (B) 50 GP
+Core Druid Traits:
+	• Primary Ability: Wisdom
+	• Hit Point Die: D8 per Druid level
+	• Saving Throw Proficiencies: Intelligence and Wisdom
+	• Skill Proficiencies: Choose 2: Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, or Survival
+	• Weapon Proficiencies: Simple weapons
+	• Tool Proficiencies: Herbalism Kit
+	• Armor Training: Light armor and Shields
+
+You start with the following equipment, in addition to the equipment granted by your background (choose A or B):
+	• (A) Leather Armor, Shield, Sickle, Druidic Focus (Quarterstaff), Explorer's Pack, Herbalism Kit, and 9 GP
+	• (B) 50 GP
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
       <feature optional="YES">
         <name>Becoming A Druid As A Multiclass Character</name>
-        <text>Core Druid Traits
-Primary Ability: Wisdom
-Hit Point Die: D8 per Druid level
-Armor Training: Light armor and Shields
+        <text>Core Druid Traits:
+	• Primary Ability: Wisdom
+	• Hit Point Die: D8 per Druid level
+	• Armor Training: Light armor and Shields
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
@@ -1124,8 +1138,8 @@ Source:	System Reference Document v5.2.1</text>
         <name>Level 1: Spellcasting</name>
         <text>You have learned to cast spells through studying the mystical forces of nature. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Druid spells, which appear on the Druid spell list later in the class's description.
 
-Cantrips. You know two cantrips of your choice from the Druid spell list. Druidcraft and Produce Flame are recommended.
-	Whenever you gain a Druid level, you can replace one of your cantrips with another can trip of your choice from the Druid spell list.
+	Cantrips. You know two cantrips of your choice from the Druid spell list. Druidcraft and Produce Flame are recommended.
+	Whenever you gain a Druid level, you can replace one of your cantrips with another cantrip of your choice from the Druid spell list.
 	When you reach Druid levels 4 and 10, you learn another cantrip of your choice from the Druid spell list, as shown in the Cantrips column of the Druid Features table.
 
 Spell Slots. The Druid Features table shows how many spell slots you have to cast your level 1• spells. You regain all expended slots when you finish a Long Rest.
@@ -1195,10 +1209,10 @@ Source:	System Reference Document v5.2.1</text>
         <name>Level 2: Wild Shape</name>
         <text>The power of nature allows you to assume the form of an animal. As a Bonus Action, you shape-shift into a Beast form that you have learned for this feature (see "Known Forms" below). You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, have the Incapacitated condition, or die. You can also leave the form early as a Bonus Action.
 
-Number of Uses. You can use Wild Shape twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
+	Number of Uses. You can use Wild Shape twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
 	You gain additional uses when you reach certain Druid levels, as shown in the Wild Shape column of the Druid Features table.
 
-Known Forms. You know four Beast forms for this feature, chosen from among Beast stat blocks that have a maximum Challenge Rating of 1/4 and that lack a Fly Speed (see appendix B for stat block options). The Rat, Riding Horse, Spider, and Wolf are recommended. Whenever you finish a Long Rest, you can replace one of your known forms with another eligible form.
+	Known Forms. You know four Beast forms for this feature, chosen from among Beast stat blocks that have a maximum Challenge Rating of 1/4 and that lack a Fly Speed (see appendix B for stat block options). The Rat, Riding Horse, Spider, and Wolf are recommended. Whenever you finish a Long Rest, you can replace one of your known forms with another eligible form.
 	When you reach certain Druid levels, your number of known forms and the maximum Challenge Rating for those forms increases, as shown in the Beast Shapes table. In addition, starting at level 8, you can adopt a form that has a Fly Speed.
 	When choosing known forms, you may look in the Monster Manual or elsewhere for eligible Beasts if the Dungeon Master permits you to do so.
 
@@ -1208,15 +1222,15 @@ Druid Level | Known Forms | Max CR | Fly Speed
 4 | 6 | 1/2 | No
 8 | 8 | 1 | Yes
 
-Rules While Shape-Shifted. While in a form, you retain your personality, memories, and ability to speak, and the following rules apply:
+	Rules While Shape-Shifted. While in a form, you retain your personality, memories, and ability to speak, and the following rules apply:
 
-Temporary Hit Points. When you assume a Wild Shape form, you gain a number of Temporary Hit Points equal to your Druid level.
+	Temporary Hit Points. When you assume a Wild Shape form, you gain a number of Temporary Hit Points equal to your Druid level.
 
-Game Statistics. Your game statistics are replaced by the Beast's stat block, but you retain your creature type; Hit Points; Hit Point Dice; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your Proficiency Bonus for them, in addition to gaining the proficiencies of the creature. If a skill or saving throw modifier in the Beast's stat block is higher than yours, use the one in the stat block.
+	Game Statistics. Your game statistics are replaced by the Beast's stat block, but you retain your creature type; Hit Points; Hit Point Dice; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your Proficiency Bonus for them, in addition to gaining the proficiencies of the creature. If a skill or saving throw modifier in the Beast's stat block is higher than yours, use the one in the stat block.
 
-No Spellcasting. You can't cast spells, but shapeshifting doesn't break your Concentration or otherwise interfere with a spell you've already cast.
+	No Spellcasting. You can't cast spells, but shapeshifting doesn't break your Concentration or otherwise interfere with a spell you've already cast.
 
-Objects. Your ability to handle objects is determined by the form's limbs rather than your own. In addition, you choose whether your equipment falls in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it's practical for the new form to wear a piece of equipment based on the creature's size and shape. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with the form. Equipment that merges with the form has no effect while you're in that form.
+	Objects. Your ability to handle objects is determined by the form's limbs rather than your own. In addition, you choose whether your equipment falls in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it's practical for the new form to wear a piece of equipment based on the creature's size and shape. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with the form. Equipment that merges with the form has no effect while you're in that form.
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
@@ -1341,11 +1355,12 @@ Source:	System Reference Document v5.2.1</text>
       <feature>
         <name>Level 20: Archdruid</name>
         <text>The vitality of nature constantly blooms within you, granting you the following benefits.
+
 	Evergreen Wild Shape. Whenever you roll Initiative and have no uses of Wild Shape left, you regain one expended use of it.
 
-Nature Magician. You can convert uses of Wild Shape into a spell slot (no action required). Choose a number of your unexpended uses of Wild Shape and convert them into a single spell slot, with each use contributing 2 spell levels. For example, if you convert two uses of Wild Shape, you produce a level 4 spell slot. Once you use this benefit, you can't do so again until you finish a Long Rest.
+	Nature Magician. You can convert uses of Wild Shape into a spell slot (no action required). Choose a number of your unexpended uses of Wild Shape and convert them into a single spell slot, with each use contributing 2 spell levels. For example, if you convert two uses of Wild Shape, you produce a level 4 spell slot. Once you use this benefit, you can't do so again until you finish a Long Rest.
 
-Longevity. The primal magic that you wield causes you to age more slowly. For every ten years that pass, your body ages only one year.
+	Longevity. The primal magic that you wield causes you to age more slowly. For every ten years that pass, your body ages only one year.
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
@@ -1505,24 +1520,28 @@ Source:	System Reference Document v5.2.1</text>
         <name>Becoming A Fighter As A Level 1 Character</name>
         <text>As a 1st-level Fighter, you begin play with 10 + your Constitution modifier hit points.
 
-Core Fighter Traits
-Primary Ability: Strength or Dexterity
-Hit Point Die: D10 per Fighter level
-Saving Throw Proficiencies: Strength and Constitution
-Skill Proficiencies: Choose 2: Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Persuasion, Perception, or Survival
-Weapon Proficiencies: Simple and Martial weapons
-Armor Training: Light, Medium, and Heavy armor and Shields
-Starting Equipment: Choose A, B, or C: (A) Chain Mail, Greatsword, Flail, 8 Javelins, Dungeoneer's Pack, and 4 GP; (B) Studded Leather Armor, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Dungeoneer's Pack, and 11 GP; or (C) 155 GP
+Core Fighter Traits:
+	• Primary Ability: Strength or Dexterity
+	• Hit Point Die: D10 per Fighter level
+	• Saving Throw Proficiencies: Strength and Constitution
+	• Skill Proficiencies: Choose 2: Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Persuasion, Perception, or Survival
+	• Weapon Proficiencies: Simple and Martial weapons
+	• Armor Training: Light, Medium, and Heavy armor and Shields
+
+You start with the following equipment, in addition to the equipment granted by your background (choose A, B, or C):
+	• (A) Chain Mail, Greatsword, Flail, 8 Javelins, Dungeoneer's Pack, and 4 GP
+	• (B) Studded Leather Armor, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Dungeoneer's Pack, and 11 GP
+	• (C) 155 GP
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
       <feature optional="YES">
         <name>Becoming A Fighter As A Multiclass Character</name>
-        <text>Core Fighter Traits
-Primary Ability: Strength or Dexterity
-Hit Point Die: D10 per Fighter level
-Weapon Proficiencies: Martial weapons
-Armor Training: Light and Medium armor and Shields
+        <text>Core Fighter Traits:
+	• Primary Ability: Strength or Dexterity
+	• Hit Point Die: D10 per Fighter level
+	• Weapon Proficiencies: Martial weapons
+	• Armor Training: Light and Medium armor and Shields
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
@@ -1813,23 +1832,26 @@ Source:	System Reference Document v5.2.1</text>
         <name>Becoming A Monk As A Level 1 Character</name>
         <text>As a 1st-level Monk, you begin play with 8 + your Constitution modifier hit points.
 
-Core Monk Traits
-Primary Ability: Dexterity and Wisdom
-Hit Point Die: D8 per Monk level
-Saving Throw Proficiencies: Strength and Dexterity
-Skill Proficiencies: Choose 2: Acrobatics, Athletics, History, Insight, Religion, or Stealth
-Weapon Proficiencies: Simple weapons and Martial weapons that have the Light property
-Tool Proficiencies: Choose one type of Artisan's Tools or Musical Instrument (see chapter 6)
-Armor Training: None
-Starting Equipment: Choose A or B: (A) Spear, 5 Daggers, Artisan's Tools or Musical Instrument chosen for the tool proficiency above, Explorer's Pack, and 11 GP; or (B) 50 GP
+Core Monk Traits:
+	• Primary Ability: Dexterity and Wisdom
+	• Hit Point Die: D8 per Monk level
+	• Saving Throw Proficiencies: Strength and Dexterity
+	• Skill Proficiencies: Choose 2: Acrobatics, Athletics, History, Insight, Religion, or Stealth
+	• Weapon Proficiencies: Simple weapons and Martial weapons that have the Light property
+	• Tool Proficiencies: Choose one type of Artisan's Tools or Musical Instrument (see chapter 6)
+	• Armor Training: None
+
+You start with the following equipment, in addition to the equipment granted by your background (choose A or B):
+	• (A) Spear, 5 Daggers, Artisan's Tools or Musical Instrument chosen for the tool proficiency above, Explorer's Pack, and 11 GP
+	• (B) 50 GP
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
       <feature optional="YES">
         <name>Becoming A Monk As A Multiclass Character</name>
-        <text>Core Monk Traits
-Primary Ability: Dexterity and Wisdom
-Hit Point Die: D8 per Monk level
+        <text>Core Monk Traits:
+	• Primary Ability: Dexterity and Wisdom
+	• Hit Point Die: D8 per Monk level
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
@@ -2176,11 +2198,11 @@ Source:	System Reference Document v5.2.1</text>
         <name>Level 3: Open Hand Technique (Warrior of the Open Hand)</name>
         <text>Whenever you hit a creature with an attack granted by your Flurry of Blows, you can impose one of the following effects on that target.
 
-Addle. The target can't make Opportunity Attacks until the start of its next turn.
+	Addle. The target can't make Opportunity Attacks until the start of its next turn.
 
-Push. The target must succeed on a Strength saving throw or be pushed up to 15 feet away from you.
+	Push. The target must succeed on a Strength saving throw or be pushed up to 15 feet away from you.
 
-Topple. The target must succeed on a Dexterity saving throw or have the Prone condition.
+	Topple. The target must succeed on a Dexterity saving throw or have the Prone condition.
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
@@ -2293,24 +2315,27 @@ Source:	System Reference Document v5.2.1</text>
         <name>Becoming A Paladin As A Level 1 Character</name>
         <text>As a 1st-level Paladin, you begin play with 10 + your Constitution modifier hit points.
 
-Core Paladin Traits
-Primary Ability: Strength and Charisma
-Hit Point Die: D10 per Paladin level
-Saving Throw Proficiencies: Wisdom and Charisma
-Skill Proficiencies: Choose 2: Athletics, Insight, Intimidation, Medicine, Persuasion, Religion
-Weapon Proficiencies: Simple and Martial weapons
-Armor Training: Light, Medium, and Heavy armor and Shields
-Starting Equipment: Choose A or B: (A) Chain Mail, Shield, Longsword, 6 Javelins, Holy Symbol, Priest's Pack, and 9 GP; or (B) 150 GP
+Core Paladin Traits:
+	• Primary Ability: Strength and Charisma
+	• Hit Point Die: D10 per Paladin level
+	• Saving Throw Proficiencies: Wisdom and Charisma
+	• Skill Proficiencies: Choose 2: Athletics, Insight, Intimidation, Medicine, Persuasion, Religion
+	• Weapon Proficiencies: Simple and Martial weapons
+	• Armor Training: Light, Medium, and Heavy armor and Shields
+
+You start with the following equipment, in addition to the equipment granted by your background (choose A or B):
+	• (A) Chain Mail, Shield, Longsword, 6 Javelins, Holy Symbol, Priest's Pack, and 9 GP
+	• (B) 150 GP
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
       <feature optional="YES">
         <name>Becoming A Paladin As A Multiclass Character</name>
-        <text>Core Paladin Traits
-Primary Ability: Strength and Charisma
-Hit Point Die: D10 per Paladin level
-Weapon Proficiencies: Martial weapons
-Armor Training: Light and Medium armor and Shields
+        <text>Core Paladin Traits:
+	• Primary Ability: Strength and Charisma
+	• Hit Point Die: D10 per Paladin level
+	• Weapon Proficiencies: Martial weapons
+	• Armor Training: Light and Medium armor and Shields
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
@@ -2682,11 +2707,11 @@ Source:	System Reference Document v5.2.1</text>
         <name>Level 20: Holy Nimbus (Oath of Devotion)</name>
         <text>As a Bonus Action, you can imbue your Aura of Protection with holy power, granting the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
-Holy Ward. You have Advantage on any saving throw you are forced to make by a Fiend or an Undead.
+	Holy Ward. You have Advantage on any saving throw you are forced to make by a Fiend or an Undead.
 
-Radiant Damage. Whenever an enemy starts its turn in the aura, that creature takes Radiant damage equal to your Charisma modifier plus your Proficiency Bonus.
+	Radiant Damage. Whenever an enemy starts its turn in the aura, that creature takes Radiant damage equal to your Charisma modifier plus your Proficiency Bonus.
 
-Sunlight. The aura is filled with Bright Light that is sunlight.
+	Sunlight. The aura is filled with Bright Light that is sunlight.
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
@@ -2767,25 +2792,28 @@ Source:	System Reference Document v5.2.1</text>
         <name>Becoming A Ranger As A Level 1 Character</name>
         <text>As a 1st-level Ranger, you begin play with 10 + your Constitution modifier hit points.
 
-Core Ranger Traits
-Primary Ability: Dexterity and Wisdom
-Hit Point Die: D10 per Ranger level
-Saving Throw Proficiencies: Strength and Dexterity
-Skill Proficiencies: Choose 3: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, or Survival
-Weapon Proficiencies: Simple and Martial weapons
-Armor Training: Light and Medium armor and Shields
-Starting Equipment: Choose A or B: (A) Studded Leather Armor, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Druidic Focus (sprig of mistletoe), Explorer's Pack, and 7 GP; or (B) 150GP
+Core Ranger Traits:
+	• Primary Ability: Dexterity and Wisdom
+	• Hit Point Die: D10 per Ranger level
+	• Saving Throw Proficiencies: Strength and Dexterity
+	• Skill Proficiencies: Choose 3: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, or Survival
+	• Weapon Proficiencies: Simple and Martial weapons
+	• Armor Training: Light and Medium armor and Shields
+
+You start with the following equipment, in addition to the equipment granted by your background (choose A or B):
+	• (A) Studded Leather Armor, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Druidic Focus (sprig of mistletoe), Explorer's Pack, and 7 GP
+	• (B) 150GP
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
       <feature optional="YES">
         <name>Becoming A Ranger As A Multiclass Character</name>
-        <text>Core Ranger Traits
-Primary Ability: Dexterity and Wisdom
-Hit Point Die: D10 per Ranger level
-Skill Proficiencies: Choose 1: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, or Survival
-Weapon Proficiencies: Martial weapons
-Armor Training: Light and Medium armor and Shields
+        <text>Core Ranger Traits:
+	• Primary Ability: Dexterity and Wisdom
+	• Hit Point Die: D10 per Ranger level
+	• Skill Proficiencies: Choose 1: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, or Survival
+	• Weapon Proficiencies: Martial weapons
+	• Armor Training: Light and Medium armor and Shields
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
@@ -2847,9 +2875,9 @@ Source:	System Reference Document v5.2.1</text>
         <name>Level 2: Deft Explorer</name>
         <text>Thanks to your travels, you gain the following benefits.
 
-Expertise. Choose one of your skill proficiencies with which you lack Expertise. You gain Expertise in that skill.
+	Expertise. Choose one of your skill proficiencies with which you lack Expertise. You gain Expertise in that skill.
 
-Languages. You know two languages of your choice from the language tables in chapter 2.
+	Languages. You know two languages of your choice from the language tables in chapter 2.
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
@@ -3121,26 +3149,29 @@ Source:	System Reference Document v5.2.1</text>
         <name>Becoming A Rogue As A Level 1 Character</name>
         <text>As a 1st-level Rogue, you begin play with 8 + your Constitution modifier hit points.
 
-Core Rogue Traits
-Primary Ability: Dexterity
-Hit Point Die: D8 per Rogue level
-Saving Throw Proficiencies: Dexterity and Intelligence
-Skill Proficiencies: Choose 4: Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, or Stealth
-Weapon Proficiencies: Simple weapons and Martial weapons that have the Finesse or Light property
-Tool Proficiencies: Thieves' Tools
-Armor Training: Light armor
-Starting Equipment: Choose A or B: (A) Leather Armor, 2 Daggers, Shortsword, Shortbow, 20 Arrows, Quiver, Thieves' Tools, Burglar's Pack, and 8 GP; or (B) 100 GP
+Core Rogue Traits:
+	• Primary Ability: Dexterity
+	• Hit Point Die: D8 per Rogue level
+	• Saving Throw Proficiencies: Dexterity and Intelligence
+	• Skill Proficiencies: Choose 4: Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, or Stealth
+	• Weapon Proficiencies: Simple weapons and Martial weapons that have the Finesse or Light property
+	• Tool Proficiencies: Thieves' Tools
+	• Armor Training: Light armor
+
+You start with the following equipment, in addition to the equipment granted by your background (choose A or B):
+	• (A) Leather Armor, 2 Daggers, Shortsword, Shortbow, 20 Arrows, Quiver, Thieves' Tools, Burglar's Pack, and 8 GP
+	• (B) 100 GP
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
       <feature optional="YES">
         <name>Becoming A Rogue As A Multiclass Character</name>
-        <text>Core Rogue Traits
-Primary Ability: Dexterity
-Hit Point Die: D8 per Rogue level
-Skill Proficiencies: Choose 1: Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, or Stealth
-Tool Proficiencies: Thieves' Tools
-Armor Training: Light armor
+        <text>Core Rogue Traits:
+	• Primary Ability: Dexterity
+	• Hit Point Die: D8 per Rogue level
+	• Skill Proficiencies: Choose 1: Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, or Stealth
+	• Tool Proficiencies: Thieves' Tools
+	• Armor Training: Light armor
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
@@ -3356,9 +3387,9 @@ Source:	System Reference Document v5.2.1</text>
         <name>Level 3: Second-Story Work (Thief)</name>
         <text>You've trained to get into especially hard-to-reach places, granting you these benefits.
 
-Climber. You gain a Climb Speed equal to your Speed.
+	Climber. You gain a Climb Speed equal to your Speed.
 
-Jumper. You can determine your jump distance using your Dexterity rather than your Strength.
+	Jumper. You can determine your jump distance using your Dexterity rather than your Strength.
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
@@ -3378,11 +3409,11 @@ Source:	System Reference Document v5.2.1</text>
         <name>Level 13: Use Magic Device (Thief)</name>
         <text>You've learned how to maximize use of magic items, granting you the following benefits.
 
-Attunement. You can attune to up to four magic items at once.
+	Attunement. You can attune to up to four magic items at once.
 
-Charges. Whenever you use a magic item property that expends charges, roll 1d6. On a roll of 6, you use the property without expending the charges.
+	Charges. Whenever you use a magic item property that expends charges, roll 1d6. On a roll of 6, you use the property without expending the charges.
 
-Scrolls. You can use any Spell Scroll, using Intelligence as your spellcasting ability for the spell. If the spell is a cantrip or a level 1 spell, you can cast it reliably. If the scroll contains a higher-level spell, you must first succeed on an Intelligence (Arcana) check (DC 10 plus the spell's level). On a successful check, you cast the spell from the scroll. On a failed check, the scroll disintegrates.
+	Scrolls. You can use any Spell Scroll, using Intelligence as your spellcasting ability for the spell. If the spell is a cantrip or a level 1 spell, you can cast it reliably. If the scroll contains a higher-level spell, you must first succeed on an Intelligence (Arcana) check (DC 10 plus the spell's level). On a successful check, you cast the spell from the scroll. On a failed check, the scroll disintegrates.
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
@@ -3471,22 +3502,25 @@ Source:	System Reference Document v5.2.1</text>
         <name>Becoming A Sorcerer As A Level 1 Character</name>
         <text>As a 1st-level Sorcerer, you begin play with 6 + your Constitution modifier hit points.
 
-Core Sorcerer Traits
-Primary Ability: Charisma
-Hit Point Die: D6 per Sorcerer level
-Saving Throw Proficiencies: Constitution and Charisma
-Skill Proficiencies: Choose 2: Arcana, Deception, Insight, Intimidation, Persuasion, or Religion
-Weapon Proficiencies: Simple weapons
-Armor Training: None
-Starting Equipment: Choose A or B: (A) Spear, 2 Daggers, Arcane Focus (crystal), Dungeoneer's Pack, and 28 GP; or (B) 50 GP
+Core Sorcerer Traits:
+	• Primary Ability: Charisma
+	• Hit Point Die: D6 per Sorcerer level
+	• Saving Throw Proficiencies: Constitution and Charisma
+	• Skill Proficiencies: Choose 2: Arcana, Deception, Insight, Intimidation, Persuasion, or Religion
+	• Weapon Proficiencies: Simple weapons
+	• Armor Training: None
+
+You start with the following equipment, in addition to the equipment granted by your background (choose A or B):
+	• (A) Spear, 2 Daggers, Arcane Focus (crystal), Dungeoneer's Pack, and 28 GP
+	• (B) 50 GP
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
       <feature optional="YES">
         <name>Becoming A Sorcerer As A Multiclass Character</name>
-        <text>Core Sorcerer Traits
-Primary Ability: Charisma
-Hit Point Die: D6 per Sorcerer level
+        <text>Core Sorcerer Traits:
+	• Primary Ability: Charisma
+	• Hit Point Die: D6 per Sorcerer level
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
@@ -3494,20 +3528,20 @@ Source:	System Reference Document v5.2.1</text>
         <name>Level 1: Spellcasting</name>
         <text>Drawing from your innate magic, you can cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Sorcerer spells, which appear in the Sorcerer spell list later in the class's description.
 
-Cantrips. You know four Sorcerer cantrips of your choice. Light, Prestidigitation, Shocking Grasp, and Sorcerous Burst are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.
+	Cantrips. You know four Sorcerer cantrips of your choice. Light, Prestidigitation, Shocking Grasp, and Sorcerous Burst are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.
 	When you reach Sorcerer levels 4 and 10, you learn another Sorcerer cantrip of your choice, as shown in the Cantrips column of the Sorcerer Features table.
 
-Spell Slots. The Sorcerer Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+	Spell Slots. The Sorcerer Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Sorcerer spells. Burning Hands and Detect Magic are recommended.
+	Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Sorcerer spells. Burning Hands and Detect Magic are recommended.
 	The number of spells on your list increases as you gain Sorcerer levels, as shown in the Prepared Spells column of the Sorcerer Features table. Whenever that number increases, choose additional Sorcerer spells until the number of spells on your list matches the number in the Sorcerer Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Sorcerer, your list of prepared spells can include six Sorcerer spells of level 1 or 2 in any combination.
 	If another Sorcerer feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Sorcerer spells for you.
 
-Changing Your Prepared Spells. Whenever you gain a Sorcerer level, you can replace one spell on your list with another Sorcerer spell for which you have spell slots.
+	Changing Your Prepared Spells. Whenever you gain a Sorcerer level, you can replace one spell on your list with another Sorcerer spell for which you have spell slots.
 
-Spellcasting Ability. Charisma is your spellcasting ability for your Sorcerer spells.
+	Spellcasting Ability. Charisma is your spellcasting ability for your Sorcerer spells.
 
-Spellcasting Focus. You can use an Arcane Focus as a Spellcasting Focus for your Sorcerer spells.
+	Spellcasting Focus. You can use an Arcane Focus as a Spellcasting Focus for your Sorcerer spells.
 
 Sorcerer Spells Prepared:
 Level | Prepared Spells
@@ -3914,23 +3948,26 @@ Source:	System Reference Document v5.2.1</text>
         <name>Becoming A Warlock As A Level 1 Character</name>
         <text>As a 1st-level Warlock, you begin play with 8 + your Constitution modifier hit points.
 
-Core Warlock Traits
-Primary Ability: Charisma
-Hit Point Die: D8 per Warlock level
-Saving Throw Proficiencies: Wisdom and Charisma
-Skill Proficiencies: Choose 2: Arcana, Deception, History, Intimidation, Investigation, Nature, or Religion
-Weapon Proficiencies: Simple weapons
-Armor Training: Light armor
-Starting Equipment: Choose A or B: (A) leather Armor, Sickle, 2 Daggers, Arcane Focus (orb), Book (occult lore), Scholar's Pack, and 15 GP; or (B) 100 GP
+Core Warlock Traits:
+	• Primary Ability: Charisma
+	• Hit Point Die: D8 per Warlock level
+	• Saving Throw Proficiencies: Wisdom and Charisma
+	• Skill Proficiencies: Choose 2: Arcana, Deception, History, Intimidation, Investigation, Nature, or Religion
+	• Weapon Proficiencies: Simple weapons
+	• Armor Training: Light armor
+
+You start with the following equipment, in addition to the equipment granted by your background (choose A or B):
+	• (A) leather Armor, Sickle, 2 Daggers, Arcane Focus (orb), Book (occult lore), Scholar's Pack, and 15 GP
+	• (B) 100 GP
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
       <feature optional="YES">
         <name>Becoming A Warlock As A Multiclass Character</name>
-        <text>Core Warlock Traits
-Primary Ability: Charisma
-Hit Point Die: D8 per Warlock level
-Armor Training: Light armor
+        <text>Core Warlock Traits:
+	• Primary Ability: Charisma
+	• Hit Point Die: D8 per Warlock level
+	• Armor Training: Light armor
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
@@ -3938,9 +3975,9 @@ Source:	System Reference Document v5.2.1</text>
         <name>Level 1: Eldritch Invocations</name>
         <text>You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the "Eldritch Invocation Options" section later in this class's description (added as spells in the Eldritch Invocations spell list).
 
-Prerequisites. If an invocation has a prerequisite, you must meet it to learn that invocation. For example, if an invocation requires you to be a level S+ Warlock, you can select the invocation once you reach Warlock level 5.
+	Prerequisites. If an invocation has a prerequisite, you must meet it to learn that invocation. For example, if an invocation requires you to be a level S+ Warlock, you can select the invocation once you reach Warlock level 5.
 
-Replacing and Gaining Invocations. Whenever you gain a Warlock level, you can replace one of your invocations with another one for which you qualify. You can't replace an invocation if it's a prerequisite for another invocation that you have.
+	Replacing and Gaining Invocations. Whenever you gain a Warlock level, you can replace one of your invocations with another one for which you qualify. You can't replace an invocation if it's a prerequisite for another invocation that you have.
 	When you gain certain Warlock levels, you gain more invocations of your choice, as shown in the Invocations column of the Warlock Features table.
 	You can't pick the same invocation more than once unless its description says otherwise.
 
@@ -3961,21 +3998,21 @@ Source:	System Reference Document v5.2.1</text>
         <name>Level 1: Pact Magic</name>
         <text>Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. The entity is a voice in the shadows —its identity unclear— but its boon to you is concrete: the ability to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Warlock spells, which appear in the Warlock spell list later in the class's description.
 
-Cantrips. You know two Warlock cantrips of your choice. Eldritch Blast and Prestidigitation are recommended. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.
+	Cantrips. You know two Warlock cantrips of your choice. Eldritch Blast and Prestidigitation are recommended. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.
 	When you reach Warlock levels 4 and 10, you learn another Warlock cantrip of your choice, as shown in the Cantrips column of the Warlock Features table.
 
-Spell Slots. The Warlock Features table shows how many spell slots you have to cast your Warlock spells of levels 1-5. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a Short or Long Rest.
+	Spell Slots. The Warlock Features table shows how many spell slots you have to cast your Warlock spells of levels 1-5. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a Short or Long Rest.
 	For example, when you're a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell Witch Bolt, you must spend one of those slots, and you cast it as a level 3 spell.
 
-Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Warlock spells. Charm Person and Hex are recommended.
+	Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Warlock spells. Charm Person and Hex are recommended.
 	The number of spells on your list increases as you gain Warlock levels, as shown in the Prepared Spells column of the Warlock Features table. Whenever that number increases, choose additional Warlock spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach level 6, for example, you learn a new Warlock spell, which can be of levels 1-3.
 	If another Warlock feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Warlock spells for you.
 
-Changing Your Prepared Spells. Whenever you gain a Warlock level, you can replace one spell on your list with another Warlock spell of an eligible level.
+	Changing Your Prepared Spells. Whenever you gain a Warlock level, you can replace one spell on your list with another Warlock spell of an eligible level.
 
-Spellcasting Ability. Charisma is the spellcasting ability for your Warlock spells.
+	Spellcasting Ability. Charisma is the spellcasting ability for your Warlock spells.
 
-Spellcasting Focus. You can use an Arcane Focus as a Spellcasting Focus for your Warlock spells.
+	Spellcasting Focus. You can use an Arcane Focus as a Spellcasting Focus for your Warlock spells.
 
 Warlock Spells Prepared:
 Level | Prepared Spells
@@ -4259,22 +4296,25 @@ Source:	System Reference Document v5.2.1</text>
         <name>Becoming A Wizard As A Level 1 Character</name>
         <text>As a 1st-level Wizard, you begin play with 6 + your Constitution modifier hit points.
 
-Core Wizard Traits
-Primary Ability: Intelligence
-Hit Point Die: D6 per Wizard level
-Saving Throw Proficiencies: Intelligence and Wisdom
-Skill Proficiencies: Choose 2: Arcana, History, Insight, Investigation, Medicine, Nature, or Religion
-Weapon Proficiencies: Simple weapons
-Armor Training: None
-Starting Equipment: Choose A or B: (A) 2 Daggers, Arcane Focus (Quarterstaff), Robe, Spellbook, Scholar's Pack, and 5 GP; or (B) 55 GP
+Core Wizard Traits:
+	• Primary Ability: Intelligence
+	• Hit Point Die: D6 per Wizard level
+	• Saving Throw Proficiencies: Intelligence and Wisdom
+	• Skill Proficiencies: Choose 2: Arcana, History, Insight, Investigation, Medicine, Nature, or Religion
+	• Weapon Proficiencies: Simple weapons
+	• Armor Training: None
+
+You start with the following equipment, in addition to the equipment granted by your background (choose A or B):
+	• (A) 2 Daggers, Arcane Focus (Quarterstaff), Robe, Spellbook, Scholar's Pack, and 5 GP
+	• (B) 55 GP
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
       <feature optional="YES">
         <name>Becoming A Wizard As A Multiclass Character</name>
-        <text>Core Wizard Traits
-Primary Ability: Intelligence
-Hit Point Die: D6 per Wizard level
+        <text>Core Wizard Traits:
+	• Primary Ability: Intelligence
+	• Hit Point Die: D6 per Wizard level
 
 Source:	System Reference Document v5.2.1</text>
       </feature>
@@ -4282,24 +4322,24 @@ Source:	System Reference Document v5.2.1</text>
         <name>Level 1: Spellcasting</name>
         <text>As a student of arcane magic, you have learned to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Wizard spells, which appear in the Wizard spell list later in the class's description.
 
-Cantrips. You know three Wizard cantrips of your choice. Light, Mage Hand, and Ray of Frost are recommended. Whenever you finish a Long Rest. you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.
-	When you reach Wizard levels 4 and 10, you learn another Wizard cant rip of your choice, as shown in the Cantrips column of the Wizard Features table.
+	Cantrips. You know three Wizard cantrips of your choice. Light, Mage Hand, and Ray of Frost are recommended. Whenever you finish a Long Rest. you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.
+	When you reach Wizard levels 4 and 10, you learn another Wizard cantrip of your choice, as shown in the Cantrips column of the Wizard Features table.
 
-Spellbook. Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds. contains 100 pages, and can be read only by you or someone casting Identify. You determine the book's appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.
+	Spellbook. Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds. contains 100 pages, and can be read only by you or someone casting Identify. You determine the book's appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.
 	The book contains the level 1+ spells you know. It starts with six level 1 Wizard spells of your choice. Detect Magic, Feather Fall, Mage Armor, Magic Missile. Sleep, and Thunderwave are recommended.
 	Whenever you gain a Wizard level after 1, add two Wizard spells of your choice to your spell book. Each of these spells must be of a level for which you have spell slots, as shown in the Wizard Features table. The spells are the culmination of arcane research you do regularly.
 
-Spell Slots. The Wizard Features table shows how many spell slots you have to cast your level I+ spells. You regain all expended slots when you finish a Long Rest.
+	Spell Slots. The Wizard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To do so, choose four spells from your spellbook. The chosen spells must be of a level for which you have spell slots.
+	Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To do so, choose four spells from your spellbook. The chosen spells must be of a level for which you have spell slots.
 	The number of spells on your list increases as you gain Wizard levels, as shown in the Prepared Spells column of the Wizard Features table. Whenever that number increases, choose additional Wizard spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Wizard, your list of prepared spells can include six spells of levels 1 and 2 in any combination, chosen from your spellbook.
 	If another Wizard feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Wizard spells for you.
 
-Changing Your Prepared Spells. Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells there with spells from your spellbook.
+	Changing Your Prepared Spells. Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells there with spells from your spellbook.
 
-Spellcasting Ability. Intelligence is your spellcasting ability for your Wizard spells.
+	Spellcasting Ability. Intelligence is your spellcasting ability for your Wizard spells.
 
-Spellcasting Focus. You can use an Arcane Focus or your spellbook as a Spellcasting Focus for your Wizard spells.
+	Spellcasting Focus. You can use an Arcane Focus or your spellbook as a Spellcasting Focus for your Wizard spells.
 
 Wizard Spells Prepared:
 Level | Prepared Spells
@@ -4501,7 +4541,7 @@ Source:	System Reference Document v5.2.1</text>
 
 Choose one of your known Warlock cantrips that deals damage. You can add your Charisma modifier to that spell's damage rolls.
 
-Repeatable. You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
+	Repeatable. You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
 Source:	System Reference Document v5.2.1</text>
   </spell>
@@ -4570,7 +4610,7 @@ Source:	System Reference Document v5.2.1</text>
 
 Choose one of your known Warlock cantrips that deals damage and has a range of 10+ feet. When you cast that spell, its range increases by a number of feet equal to 30 times your Warlock level.
 
-Repeatable. You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
+	Repeatable. You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
 Source:	System Reference Document v5.2.1</text>
   </spell>
@@ -4626,15 +4666,15 @@ Source:	System Reference Document v5.2.1</text>
 
 When you cast Find Familiar, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.
 
-Aerial or Aquatic. The familiar gains either a Fly Speed or a Swim Speed (your choice) of 40 feet.
+	Aerial or Aquatic. The familiar gains either a Fly Speed or a Swim Speed (your choice) of 40 feet.
 
-Quick Attack. As a Bonus Action, you can command the familiar to take the Attack action.
+	Quick Attack. As a Bonus Action, you can command the familiar to take the Attack action.
 
-Necrotic or Radiant Damage. Whenever the familiar deals Bludgeoning, Piercing, or Slashing damage, you can make it deal Necrotic or Radiant damage instead.
+	Necrotic or Radiant Damage. Whenever the familiar deals Bludgeoning, Piercing, or Slashing damage, you can make it deal Necrotic or Radiant damage instead.
 
-Your Save DC. If the familiar forces a creature to make a saving throw, it uses your spell save DC.
+	Your Save DC. If the familiar forces a creature to make a saving throw, it uses your spell save DC.
 
-Resistance. When the familiar takes damage, you can take a Reaction to grant it Resistance against that damage.
+	Resistance. When the familiar takes damage, you can take a Reaction to grant it Resistance against that damage.
 
 Source:	System Reference Document v5.2.1</text>
   </spell>
@@ -4646,7 +4686,7 @@ Source:	System Reference Document v5.2.1</text>
 
 You have received knowledge from an elder entity of the multiverse, allowing you to gain one Origin feat of your choice (see chapter 5).
 
-Repeatable. You can gain this invocation more than once. Each time you do so, choose a different Origin feat.
+	Repeatable. You can gain this invocation more than once. Each time you do so, choose a different Origin feat.
 
 Source:	System Reference Document v5.2.1</text>
   </spell>
@@ -4750,7 +4790,7 @@ Source:	System Reference Document v5.2.1</text>
 
 Choose one of your known Warlock cantrips that requires an attack roll. When you hit a Large or smaller creature with that cantrip, you can push the creature up to 10 feet straight away from you.
 
-Repeatable. You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
+	Repeatable. You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
 Source:	System Reference Document v5.2.1</text>
   </spell>
@@ -14037,13 +14077,13 @@ Source:	System Reference Document v5.2.1</text>
     <name>Origin: Magic Initiate [5.5e]</name>
     <text>You gain the following benefits.
 
-Two Cantrips. You learn two cantrips of your choice from the Cleric, Druid, or Wizard spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat).
+	Two Cantrips. You learn two cantrips of your choice from the Cleric, Druid, or Wizard spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat).
 
-Level 1 Spell. Choose a level 1 spell from the same list you selected for this feat's cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have.
+	Level 1 Spell. Choose a level 1 spell from the same list you selected for this feat's cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have.
 
-Spell Change. Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.
+	Spell Change. Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.
 
-Repeatable. You can take this feat more than once, but you must choose a different spell list each time.
+	Repeatable. You can take this feat more than once, but you must choose a different spell list each time.
 
 Source:	System Reference Document v5.2.1</text>
   </feat>
@@ -14057,7 +14097,7 @@ Source:	System Reference Document v5.2.1</text>
     <name>Origin: Skilled [5.5e]</name>
     <text>You gain proficiency in any combination of three skills or tools of your choice.
 
-Repeatable. You can take this feat more than once.
+	Repeatable. You can take this feat more than once.
 
 Source:	System Reference Document v5.2.1</text>
   </feat>
@@ -14066,7 +14106,7 @@ Source:	System Reference Document v5.2.1</text>
     <prerequisite>Level 4+</prerequisite>
     <text>Increase one ability score of your choice by 2, or increase two ability scores of your choice by 1. This feat can't increase an ability score above 20.
 
-Repeatable. You can take this feat more than once.
+	Repeatable. You can take this feat more than once.
 
 Source:	System Reference Document v5.2.1</text>
   </feat>
@@ -14338,13 +14378,13 @@ Source:	System Reference Document v5.2.1</text>
       <name>Feat: Magic Initiate (Wizard)</name>
       <text>You gain the following benefits.
 
-Two Cantrips. You learn two cantrips of your choice from the Cleric, Druid, or Wizard spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat).
+	Two Cantrips. You learn two cantrips of your choice from the Cleric, Druid, or Wizard spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat).
 
-Level 1 Spell. Choose a level 1 spell from the same list you selected for this feat's cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have.
+	Level 1 Spell. Choose a level 1 spell from the same list you selected for this feat's cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have.
 
-Spell Change. Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.
+	Spell Change. Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.
 
-Repeatable. You can take this feat more than once, but you must choose a different spell list each time.
+	Repeatable. You can take this feat more than once, but you must choose a different spell list each time.
 
 Source:	System Reference Document v5.2.1</text>
     </trait>
@@ -14560,22 +14600,18 @@ Three-Dragon Ante set | 1 gp | -</text>
       <attack>Heal||1d10</attack>
     </legendary>
     <legendary category="lair">
-      <name>Aboleth Lairs
-Aboleths usually dwell in submerged ruins and caverns</name>
+      <name>Aboleth Lairs</name>
       <text>Aboleths usually dwell in submerged ruins and caverns.  They keep air-filled spaces for their terrestrial servants and to hold treasures that would be damaged by water.
+	The region containing an aboleth's lair is warped by it, creating the following effects:
 
-The region containing an aboleth's lair is warped by it, creating the following effects:
+	Foul Water. Water sources within 1 mile of the lair are supernaturally fouled. Creatures other than the aboleth and its allies that drink such water must succeed on a DC 15 Constitution saving throw or have the Poisoned condition for 1 hour.
 
-Foul Water: Water sources within 1 mile of the lair are supernaturally fouled. Creatures other than the aboleth and its allies that drink such water must succeed on a DC 15 Constitution saving throw or have the Poisoned condition for 1 hour.
-
-Psionic Projection: While in its lair, the aboleth can cast Project Image, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 16). When casting the spell this way, the spell's range is 1 mile, and the aboleth can use its telepathy as if it were in the illusion's space. If the aboleth dies or moves its lair elsewhere, these effects end immediately.</text>
+	Psionic Projection. While in its lair, the aboleth can cast Project Image, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 16). When casting the spell this way, the spell's range is 1 mile, and the aboleth can use its telepathy as if it were in the illusion's space. If the aboleth dies or moves its lair elsewhere, these effects end immediately.</text>
     </legendary>
     <spells>Project Image [5.5e]</spells>
     <description>In aquatic abysses, aboleths dream of dead empires and orchestrate plots that unfold across ages. These elusive, amphibious immortals physically and mentally overwhelm their victims and transform creatures with a slimy, aberrant infection, reshaping other beings to serve them beneath the waves.
-
-Aboleths possess terrifying intellects and have alien mindsets. These creatures possess perfect memories of proto-worlds and incomprehensible dominions from the multiverse's earliest eons. Their secrets are innumerable and unfathomable. Aboleths lurk in places awash in primordial mysteries: the ruins of aquatic empires, hidden magical nexuses, or weak places between planes of existence. In these lairs, aboleths dream of epochs past, collect throngs of psychically dominated servants, consume the minds of unwitting victims, and prepare for their return to power.
-
-Aboleths' alien goals and methods are often mysterious to other creatures. Roll on or choose a result from the Aboleth Schemes table to inspire an aboleth's schemes.
+	Aboleths possess terrifying intellects and have alien mindsets. These creatures possess perfect memories of proto-worlds and incomprehensible dominions from the multiverse's earliest eons. Their secrets are innumerable and unfathomable. Aboleths lurk in places awash in primordial mysteries: the ruins of aquatic empires, hidden magical nexuses, or weak places between planes of existence. In these lairs, aboleths dream of epochs past, collect throngs of psychically dominated servants, consume the minds of unwitting victims, and prepare for their return to power.
+	Aboleths' alien goals and methods are often mysterious to other creatures. Roll on or choose a result from the Aboleth Schemes table to inspire an aboleth's schemes.
 
 Aboleth Schemes:
 1d6 | The Aboleth Seeks To...
@@ -14655,7 +14691,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17, +9 to hit with spell attacks):
 
 	• At will: Detect Magic, Fear, Melf's Acid Arrow (level 3 version)
-	• 1/Day each: Speak with Dead, Vitriolic Sphere</text>
+	• 1/day each: Speak with Dead, Vitriolic Sphere</text>
       <attack>Spellcasting|+9|</attack>
     </action>
     <legendary>
@@ -14677,14 +14713,13 @@ Source:	System Reference Document v5.2.1</description>
       <text>The dragon can move up to half its Speed, and it makes one Rend attack.</text>
     </legendary>
     <legendary category="lair">
-      <name>Black Dragon Lairs
-Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by decay</name>
+      <name>Black Dragon Lairs</name>
       <text>Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by decay.
 	The region containing an adult or ancient black dragon's lair is warped by its presence, creating the following effects:
 
-Acrid Haze: Odorous and stifling fog covers the area within 1 mile of the lair, rendering that area Lightly Obscured. Travel for creatures other than the dragon and its allies takes twice the usual time in that area.
+	Acrid Haze. Odorous and stifling fog covers the area within 1 mile of the lair, rendering that area Lightly Obscured. Travel for creatures other than the dragon and its allies takes twice the usual time in that area.
 
-Foul Water: Water sources within 1 mile of the lair are supernaturally fouled. A creature that drinks such water must succeed on a DC 15 Constitution saving throw or have the Poisoned condition for 1 hour.
+	Foul Water. Water sources within 1 mile of the lair are supernaturally fouled. A creature that drinks such water must succeed on a DC 15 Constitution saving throw or have the Poisoned condition for 1 hour.
 
 If the dragon dies or moves its lair elsewhere, these effects end immediately.</text>
     </legendary>
@@ -14693,8 +14728,7 @@ If the dragon dies or moves its lair elsewhere, these effects end immediately.</
 	Black dragons are terrifying creatures with curved horns and withered visages suggestive of fiendish skulls. They typically inhabit stagnant swamps, crumbling ruins, or places of magical or environmental corruption. Their acid breath scars their domains, eroding the features from ancient statues and leaving nature with festering wounds.
 	Black dragons hoard tarnished symbols of hope and relics of fallen empires. The more sought-after the treasure, the more black dragons prize it—particularly if they were responsible for it being lost.
 
-Adult Black Dragon:
-By the time they're adults, black dragons are among the greatest terrors in the lands they claim. Wretched swamps and monster-haunted ruins grow more dismal and spread under an adult black dragon's influence. Morbid cultists and doomsayers frequently gather in the dragon's service, bringing with them undead terrors that answer to the black dragon and aid it in spreading ruin to nearby bastions of beauty and peace.
+	Adult Black Dragon. By the time they're adults, black dragons are among the greatest terrors in the lands they claim. Wretched swamps and monster-haunted ruins grow more dismal and spread under an adult black dragon's influence. Morbid cultists and doomsayers frequently gather in the dragon's service, bringing with them undead terrors that answer to the black dragon and aid it in spreading ruin to nearby bastions of beauty and peace.
 
 Source:	System Reference Document v5.2.1</description>
     <environment>swamp</environment>
@@ -14761,7 +14795,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 18):
 
 	• At will: Detect Magic, Invisibility, Mage Hand, Shatter
-	• 1/Day each: Scrying, Sending</text>
+	• 1/day each: Scrying, Sending</text>
     </action>
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
@@ -14785,9 +14819,9 @@ Source:	System Reference Document v5.2.1</description>
       <text>Blue dragons dwell in arid lands. Their lairs might be death traps meant to entomb invaders or ostentatious fortresses where they plot domination.
 	The region containing an adult or ancient blue dragon's lair is changed by its presence, creating the following effects:
 
-Sinkholes: Sinkholes form more frequently in the area within 1 mile of the lair. Whenever a creature in that area other than the dragon and its allies finishes a Long Rest, roll 1d20. On a 1, a sinkhole opens beneath the creature, and the creature must succeed on a DC 15 Dexterity saving throw or fall 2d4 × 10 feet into the sinkhole.
+	Sinkholes. Sinkholes form more frequently in the area within 1 mile of the lair. Whenever a creature in that area other than the dragon and its allies finishes a Long Rest, roll 1d20. On a 1, a sinkhole opens beneath the creature, and the creature must succeed on a DC 15 Dexterity saving throw or fall 2d4 × 10 feet into the sinkhole.
 
-Spiteful Storms: Dust devils and thunderstorms rage within 1 mile of the lair. The area is Lightly Obscured.
+	Spiteful Storms. Dust devils and thunderstorms rage within 1 mile of the lair. The area is Lightly Obscured.
 
 If the dragon dies or moves its lair elsewhere, these effects end immediately.</text>
       <attack>Feet||2d4x10</attack>
@@ -14869,7 +14903,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 16):
 
 	• At will: Detect Magic, Minor Illusion, Scorching Ray, Shapechange (Beast or Humanoid form only,  no Temporary Hit Points gained from the spell,  and no Concentration or Temporary Hit Points required to maintain the spell), Speak with Animals
-	• 1/Day each: Detect Thoughts, Control Weather</text>
+	• 1/day each: Detect Thoughts, Control Weather</text>
     </action>
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
@@ -14982,7 +15016,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17, +10 to hit with spell attacks):
 
 	• At will: Detect Magic, Guiding Bolt (level 2 version), Shapechange (Beast or Humanoid form only,  no Temporary Hit Points gained from the spell,  and no Concentration or Temporary Hit Points required to maintain the spell), Speak with Animals, Thaumaturgy
-	• 1/Day each: Detect Thoughts, Water Breathing</text>
+	• 1/day each: Detect Thoughts, Water Breathing</text>
       <attack>Spellcasting|+10|</attack>
     </action>
     <legendary>
@@ -15090,7 +15124,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17):
 
 	• At will: Detect Magic, Mind Spike (level 4 version), Minor Illusion, Shapechange (Beast or Humanoid form only,  no Temporary Hit Points gained from the spell,  and no Concentration or Temporary Hit Points required to maintain the spell)
-	• 1/Day each: Greater Restoration, Major Image</text>
+	• 1/day each: Greater Restoration, Major Image</text>
     </action>
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
@@ -15203,7 +15237,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 21, +13 to hit with spell attacks):
 
 	• At will: Detect Magic, Guiding Bolt (level 2 version), Shapechange (Beast or Humanoid form only,  no Temporary Hit Points gained from the spell,  and no Concentration or Temporary Hit Points required to maintain the spell)
-	• 1/Day each: Flame Strike, Zone of Truth</text>
+	• 1/day each: Flame Strike, Zone of Truth</text>
     </action>
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
@@ -15310,7 +15344,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17):
 
 	• At will: Detect Magic, Mind Spike (level 3 version)
-	• 1/Day: Geas</text>
+	• 1/day: Geas</text>
     </action>
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
@@ -15414,7 +15448,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 20, +12 to hit with spell attacks):
 
 	• At will: Command (level 2 version), Detect Magic, Scorching Ray
-	• 1/Day: Fireball</text>
+	• 1/day: Fireball</text>
     </action>
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
@@ -15522,7 +15556,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 19, +11 to hit with spell attacks):
 
 	• At will: Detect Magic, Hold Monster, Ice Knife, Shapechange (Beast or Humanoid form only, no Temporary Hit Points gained from the spell, and no Concentration or Temporary Hit Points required to maintain the spell)
-	• 1/Day each: Ice Storm (level 5 version), Zone of Truth</text>
+	• 1/day each: Ice Storm (level 5 version), Zone of Truth</text>
       <attack>Spellcasting|+11|</attack>
     </action>
     <legendary>
@@ -15832,7 +15866,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 21, +13 to hit with spell attacks):
 
 	• At will: Detect Magic, Fear, Melf's Acid Arrow (level 4 version)
-	• 1/Day each: Create Undead, Speak with Dead, Vitriolic Sphere (level 5 version)</text>
+	• 1/day each: Create Undead, Speak with Dead, Vitriolic Sphere (level 5 version)</text>
       <attack>Spellcasting|+13|</attack>
     </action>
     <legendary>
@@ -15936,7 +15970,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 22):
 
 	• At will: Detect Magic, Invisibility, Mage Hand, Shatter (level 3 version)
-	• 1/Day each: Scrying, Sending</text>
+	• 1/day each: Scrying, Sending</text>
     </action>
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
@@ -16043,7 +16077,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 20):
 
 	• At will: Detect Magic, Minor Illusion, Scorching Ray (level 3 version), Shapechange (Beast or Humanoid form only,  no Temporary Hit Points gained from the spell,  and no Concentration or Temporary Hit Points required to maintain the spell), Speak with Animals
-	• 1/Day each: Control Weather, Detect Thoughts</text>
+	• 1/day each: Control Weather, Detect Thoughts</text>
     </action>
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
@@ -16155,7 +16189,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 22, +14 to hit with spell attacks):
 
 	• At will: Detect Magic, Guiding Bolt (level 2 version), Shapechange (Beast or Humanoid form only,  no Temporary Hit Points gained from the spell,  and no Concentration or Temporary Hit Points required to maintain the spell), Speak with Animals, Thaumaturgy
-	• 1/Day each: Detect Thoughts, Control Water, Scrying, Water Breathing</text>
+	• 1/day each: Detect Thoughts, Control Water, Scrying, Water Breathing</text>
       <attack>Spellcasting|+14|</attack>
     </action>
     <legendary>
@@ -16262,7 +16296,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 21):
 
 	• At will: Detect Magic, Mind Spike (level 5 version), Minor Illusion, Shapechange (Beast or Humanoid form only,  no Temporary Hit Points gained from the spell,  and no Concentration or Temporary Hit Points required to maintain the spell)
-	• 1/Day each: Greater Restoration, Major Image, Project Image</text>
+	• 1/day each: Greater Restoration, Major Image, Project Image</text>
     </action>
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
@@ -16374,7 +16408,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 24, +16 to hit with spell attacks):
 
 	• At will: Detect Magic, Guiding Bolt (level 4 version), Shapechange (Beast or Humanoid form only,  no Temporary Hit Points gained from the spell,  and no Concentration or Temporary Hit Points required to maintain the spell)
-	• 1/Day each: Flame Strike (level 6 version), Word of Recall, Zone of Truth</text>
+	• 1/day each: Flame Strike (level 6 version), Word of Recall, Zone of Truth</text>
       <attack>Spellcasting|+16|</attack>
     </action>
     <legendary>
@@ -16482,7 +16516,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 21):
 
 	• At will: Detect Magic, Mind Spike (level 5 version)
-	• 1/Day each: Geas, Modify Memory</text>
+	• 1/day each: Geas, Modify Memory</text>
     </action>
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
@@ -16574,7 +16608,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 23, +15 to hit with spell attacks):
 
 	• At will: Command (level 2 version), Detect Magic, Scorching Ray (level 3 version)
-	• 1/Day each: Fireball (level 6 version), Scrying</text>
+	• 1/day each: Fireball (level 6 version), Scrying</text>
       <attack>Spellcasting|+15|</attack>
     </action>
     <legendary>
@@ -16671,7 +16705,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 23, +15 to hit with spell attacks):
 
 	• At will: Detect Magic, Hold Monster, Ice Knife (level 2 version), Shapechange (Beast or Humanoid form only,  no Temporary Hit Points gained from the spell,  and no Concentration or Temporary Hit Points required to maintain the spell)
-	• 1/Day each: Control Weather, Ice Storm (level 7 version), Teleport, Zone of Truth</text>
+	• 1/day each: Control Weather, Ice Storm (level 7 version), Teleport, Zone of Truth</text>
       <attack>Spellcasting|+15|</attack>
     </action>
     <legendary>
@@ -17240,8 +17274,8 @@ Individual: The monster doesn't have a treasure hoard, but it might keep monetar
       <text>The archmage casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 17):
 
 	• At will: Detect Magic, Detect Thoughts, Disguise Self, Invisibility, Light, Mage Armor (included in AC), Mage Hand, Prestidigitation
-	• 2/Day each: Fly, Lightning Bolt (level 7 version)
-	• 1/Day each: Cone of Cold (level 9 version), Mind Blank (cast before combat), Scrying, Teleport</text>
+	• 2/day each: Fly, Lightning Bolt (level 7 version)
+	• 1/day each: Cone of Cold (level 9 version), Mind Blank (cast before combat), Scrying, Teleport</text>
     </action>
     <action>
       <name>Misty Step (3/Day) (Bonus Action)</name>
@@ -19510,7 +19544,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The giant casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 15):
 
 	• At will: Detect Magic, Fog Cloud, Light
-	• 1/Day each: Control Weather, Gaseous Form, Telekinesis</text>
+	• 1/day each: Control Weather, Gaseous Form, Telekinesis</text>
     </action>
     <action>
       <name>Misty Step (Bonus Action)</name>
@@ -19807,7 +19841,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The couatl casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 15):
 
 	• At will: Detect Evil and Good, Detect Magic, Detect Thoughts, Shapechange (Beast or Humanoid form only,  no Temporary Hit Points gained from the spell,  and no Concentration or Temporary Hit Points required to maintain the spell)
-	• 1/Day each: Create Food and Water, Dream, Greater Restoration, Scrying, Sleep</text>
+	• 1/day each: Create Food and Water, Dream, Greater Restoration, Scrying, Sleep</text>
     </action>
     <action>
       <name>Divine Aid (2/Day) (Bonus Action)</name>
@@ -20050,8 +20084,8 @@ Relics: The monster's treasure hoard features magic items with the noted theme. 
       <text>The cultist casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 12, +4 to hit with spell attacks):
 
 	• At will: Light, Thaumaturgy
-	• 1/Day: Hold Person
-	• 2/Day: Command</text>
+	• 1/day: Hold Person
+	• 2/day: Command</text>
       <attack>Spellcasting|+4|</attack>
     </action>
     <action>
@@ -20292,7 +20326,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The deva casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17):
 
 	• At will: Detect Evil and Good, Shapechange (Beast or Humanoid form only,  no Temporary Hit Points gained from the spell,  and no Concentration or Temporary Hit Points required to maintain the spell)
-	• 1/Day each: Commune, Raise Dead</text>
+	• 1/day each: Commune, Raise Dead</text>
     </action>
     <action>
       <name>Divine Aid (2/Day) (Bonus Action)</name>
@@ -20429,8 +20463,8 @@ Source:	System Reference Document v5.2.1</description>
       <text>The djinni casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17):
 
 	• At will: Detect Evil and Good, Detect Magic
-	• 2/Day each: Create Food and Water (can create wine instead of water), Tongues, Wind Walk
-	• 1/Day each: Creation, Gaseous Form, Invisibility, Major Image, Plane Shift</text>
+	• 2/day each: Create Food and Water (can create wine instead of water), Tongues, Wind Walk
+	• 1/day each: Creation, Gaseous Form, Invisibility, Major Image, Plane Shift</text>
     </action>
     <spells>Detect Evil and Good, Detect Magic, Create Food and Water, Tongues, Wind Walk, Creation, Gaseous Form, Invisibility, Major Image, Plane Shift</spells>
     <description>As genies of wind and skies, djinn personify freedom and might. They can control wind and travel as swiftly as a breeze. They might be as serene as drifting clouds or as tempestuous as storms, but most djinn relish their freedom and desire to discover the wonders of the multiverse. Djinn often know many stories, and they might share such lore with those who offer their own exciting stories in trade.
@@ -20797,8 +20831,8 @@ Relics: The monster's treasure hoard features magic items with the noted theme. 
       <text>The druid casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 13):
 
 	• At will: Druidcraft, Speak with Animals
-	• 2/Day each: Entangle, Thunderwave
-	• 1/Day each: Animal Messenger, Longstrider, Moonbeam</text>
+	• 2/day each: Entangle, Thunderwave
+	• 1/day each: Animal Messenger, Longstrider, Moonbeam</text>
     </action>
     <spells>Druidcraft [5.5e], Speak with Animals [5.5e], Entangle [5.5e], Thunderwave [5.5e], Animal Messenger [5.5e], Longstrider [5.5e], Moonbeam [5.5e]</spells>
     <description>Druids use primal magic, traditional teachings, and bonds with animals and eldritch beings to guard the natural world and heal its ills. These magic-users might be recluses devoted to a particular land, or they might be part of a mystic organization. Roll on or choose a result from the Druidic Traditions table to inspire a druid's magical practices.
@@ -20874,7 +20908,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The dryad casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 14):
 
 	• At will: Animal Friendship, Charm Monster (lasts 24 hours; ends early if the dryad casts the spell again), Druidcraft
-	• 1/Day each: Entangle, Pass without Trace</text>
+	• 1/day each: Entangle, Pass without Trace</text>
     </action>
     <action>
       <name>Tree Stride (Bonus Action)</name>
@@ -20945,7 +20979,7 @@ Source:	System Reference Document v5.2.1</description>
       <recharge>1/DAY</recharge>
       <text>The mephit casts the Sleep spell, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 10).
 
-	• 1/Day: Sleep</text>
+	• 1/day: Sleep</text>
     </action>
     <spells>Sleep [5.5e]</spells>
     <description>Mephits are mean-spirited tricksters that dwell on the Elemental Planes. The six most prominent types of mephits resemble halfling-size gargoyles with wings, exaggerated features, and bodies composed of two elements. Most live self-interested existences, indulging their warped senses of humor or overblown egos on their home planes of existence. Some serve as messengers or spies for genies or magic-users.
@@ -21129,7 +21163,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The efreeti casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 16):
 
 	• At will: Detect Magic, Elementalism
-	• 1/Day each: Gaseous Form, Invisibility, Major Image, Plane Shift, Tongues, Wall of Fire (level 7 version)</text>
+	• 1/day each: Gaseous Form, Invisibility, Major Image, Plane Shift, Tongues, Wall of Fire (level 7 version)</text>
     </action>
     <spells>Detect Magic [5.5e], Elementalism [5.5e], Gaseous Form [5.5e], Invisibility [5.5e], Major Image [5.5e], Plane Shift [5.5e], Tongues [5.5e], Wall of Fire [5.5e]</spells>
     <description>Efreet burn with the energy and unpredictability of fire. Their innate magic allows them to conjure flames from nothing and shape treasures within magical infernos. Many efreet have wicked reputations, as their fickle natures and love for dramatic conflagrations can be destructive. Other efreet delight in fire's beauty, be it the delicacy of a candle flame or the shared wonder of fireworks. These genies might aid mortals in exchange for treasures or the liberation of captive Elementals.
@@ -22885,7 +22919,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The owl casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability:
 
 	• At will: Detect Evil and Good, Detect Magic
-	• 1/Day: Clairvoyance</text>
+	• 1/day: Clairvoyance</text>
     </action>
     <spells>Detect Evil and Good [5.5e], Detect Magic [5.5e], Clairvoyance [5.5e]</spells>
     <description>Avian sages and soothsayers
@@ -23518,7 +23552,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The glabrezu casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 16):
 
 	• At will: Darkness, Detect Magic, Dispel Magic
-	• 1/Day each: Confusion, Fly, Power Word Stun</text>
+	• 1/day each: Confusion, Fly, Power Word Stun</text>
     </action>
     <spells>Darkness [5.5e], Detect Magic [5.5e], Dispel Magic [5.5e], Confusion [5.5e], Fly [5.5e], Power Word Stun [5.5e]</spells>
     <description>Glabrezus embody delusion and predatory guile. These cunning demons know the most effective traps are those that individuals devise for themselves. Despite having massive claws and overwhelming physicality, glabrezus excel at using flattery and misdirection to coerce victims into isolating themselves and harming others.
@@ -24567,7 +24601,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The naga casts one of the following spells, requiring no Somatic or Material components and using Wisdom as the spellcasting ability (spell save DC 16):
 
 	• At will: Thaumaturgy
-	• 1/Day each: Clairvoyance, Cure Wounds (level 6 version), Flame Strike (level 6 version), Geas, True Seeing</text>
+	• 1/day each: Clairvoyance, Cure Wounds (level 6 version), Flame Strike (level 6 version), Geas, True Seeing</text>
     </action>
     <spells>Thaumaturgy [5.5e], Clairvoyance [5.5e], Cure Wounds [5.5e], Flame Strike [5.5e], Geas [5.5e], True Seeing [5.5e]</spells>
     <description>Guardian nagas are immortal, serpentine scholars that possess perfect memories. They collect the histories and lore of those they live among, guarding cultures' stories and passing them on to new generations with infallible accuracy. Guardian nagas that outlive their host civilizations might linger in whatever ruins remain, preserving the civilizations' stories so their lost people might live on.
@@ -25577,7 +25611,7 @@ Source:	System Reference Document v5.2.1</description>
       <recharge>1/DAY</recharge>
       <text>The mephit casts Fog Cloud, requiring no spell components and using Charisma as the spellcasting ability.
 
-	• 1/Day: Fog Cloud</text>
+	• 1/day: Fog Cloud</text>
     </action>
     <spells>Fog Cloud [5.5e]</spells>
     <description>Mephits are mean-spirited tricksters that dwell on the Elemental Planes. The six most prominent types of mephits resemble halfling-size gargoyles with wings, exaggerated features, and bodies composed of two elements. Most live self-interested existences, indulging their warped senses of humor or overblown egos on their home planes of existence. Some serve as messengers or spies for genies or magic-users.
@@ -25695,7 +25729,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The incubus casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 15):
 
 	• At will: Disguise Self, Etherealness
-	• 1/Day each: Dream, Hypnotic Pattern</text>
+	• 1/day each: Dream, Hypnotic Pattern</text>
     </action>
     <action>
       <name>Nightmare (Recharge 6) (Bonus Action)</name>
@@ -26244,7 +26278,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The lamia casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 13):
 
 	• At will: Disguise Self (can appear as a Large or Medium biped), Minor Illusion
-	• 1/Day each: Geas, Major Image, Scrying</text>
+	• 1/day each: Geas, Major Image, Scrying</text>
     </action>
     <action>
       <name>Leap (Bonus Action)</name>
@@ -26378,8 +26412,8 @@ Source:	System Reference Document v5.2.1</description>
       <text>The lich casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 20):
 
 	• At will: Detect Magic, Detect Thoughts, Dispel Magic, Fireball (level 5 version), Invisibility, Lightning Bolt (level 5 version), Mage Hand, Prestidigitation
-	• 2/Day each: Animate Dead, Dimension Door, Plane Shift
-	• 1/Day each: Chain Lightning, Finger of Death, Power Word Kill, Scrying</text>
+	• 2/day each: Animate Dead, Dimension Door, Plane Shift
+	• 1/day each: Chain Lightning, Finger of Death, Power Word Kill, Scrying</text>
     </action>
     <reaction>
       <name>Protective Magic</name>
@@ -26588,8 +26622,8 @@ Individual: The monster doesn't have a treasure hoard, but it might keep monetar
       <text>The mage casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 14):
 
 	• At will: Detect Magic, Light, Mage Armor (included in AC), Mage Hand, Prestidigitation
-	• 2/Day each: Fireball (level 4 version), Invisibility
-	• 1/Day each: Cone of Cold, Fly</text>
+	• 2/day each: Fireball (level 4 version), Invisibility
+	• 1/day each: Cone of Cold, Fly</text>
     </action>
     <action>
       <name>Misty Step (3/Day) (Bonus Action)</name>
@@ -27542,7 +27576,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The mummy casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 17, +9 to hit with spell attacks):
 
 	• At will: Dispel Magic, Thaumaturgy
-	• 1/Day each: Animate Dead, Harm, Insect Plague (level 7 version)</text>
+	• 1/day each: Animate Dead, Harm, Insect Plague (level 7 version)</text>
       <attack>Spellcasting|+9|</attack>
     </action>
     <reaction>
@@ -27734,13 +27768,13 @@ Source:	System Reference Document v5.2.1</description>
       <text>The hag casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 14):
 
 	• At will: Detect Magic, Etherealness, Magic Missile (level 4 version)
-	• 2/Day each: Phantasmal Killer, Plane Shift (self only)</text>
+	• 2/day each: Phantasmal Killer, Plane Shift (self only)</text>
     </action>
     <action>
       <name>Nightmare Haunting (1/Day; Requires Soul Bag)</name>
       <text>While on the Ethereal Plane, the hag casts Dream, using the same spellcasting ability as Spellcasting. Only the hag can serve as the spell's messenger, and the target must be a creature the hag can see on the Material Plane. The spell fails and is wasted if the target is under the effect of the Protection from Evil and Good spell or within a Magic Circle spell.
 
-	• 1/Day: Dream, Protection from Evil and Good, Magic Circle</text>
+	• 1/day: Dream, Protection from Evil and Good, Magic Circle</text>
     </action>
     <action>
       <name>Shape-Shift (Bonus Action)</name>
@@ -28149,7 +28183,7 @@ Source:	System Reference Document v5.2.1</description>
       <name>Spellcasting</name>
       <text>The oni casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 13):
 
-	• 1/Day each: Charm Person (level 2 version), Darkness, Gaseous Form, Sleep</text>
+	• 1/day each: Charm Person (level 2 version), Darkness, Gaseous Form, Sleep</text>
     </action>
     <action>
       <name>Invisibility (Bonus Action)</name>
@@ -28862,7 +28896,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The planetar casts one of the following spells, requiring no Material components and using Charisma as spellcasting ability (spell save DC 20):
 
 	• At will: Detect Evil and Good
-	• 1/Day each: Commune, Control Weather, Dispel Evil and Good, Raise Dead</text>
+	• 1/day each: Commune, Control Weather, Dispel Evil and Good, Raise Dead</text>
     </action>
     <action>
       <name>Divine Aid (2/Day) (Bonus Action)</name>
@@ -29065,7 +29099,7 @@ Relics: The monster's treasure hoard features magic items with the noted theme. 
       <text>The priest casts one of the following spells, using Wisdom as the spellcasting ability:
 
 	• At will: Light, Thaumaturgy
-	• 1/Day: Spirit Guardians</text>
+	• 1/day: Spirit Guardians</text>
     </action>
     <action>
       <name>Divine Aid (3/Day) (Bonus Action)</name>
@@ -29476,7 +29510,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The rakshasa casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 18):
 
 	• At will: Detect Magic, Detect Thoughts, Disguise Self, Mage Hand, Minor Illusion
-	• 1/Day each: Fly, Invisibility, Major Image, Plane Shift</text>
+	• 1/day each: Fly, Invisibility, Major Image, Plane Shift</text>
     </action>
     <spells>Detect Magic [5.5e], Detect Thoughts [5.5e], Disguise Self [5.5e], Mage Hand [5.5e], Minor Illusion [5.5e], Fly [5.5e], Invisibility [5.5e], Major Image [5.5e], Plane Shift [5.5e]</spells>
     <description>Masters of manipulation, rakshasas infiltrate communities to claim positions of power. While disguising their true natures, they kidnap victims and indulge their insatiable hunger for flesh.
@@ -30881,7 +30915,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The solar casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 25):
 
 	• At will: Detect Evil and Good
-	• 1/Day each: Commune, Control Weather, Dispel Evil and Good, Resurrection</text>
+	• 1/day each: Commune, Control Weather, Dispel Evil and Good, Resurrection</text>
     </action>
     <action>
       <name>Divine Aid (3/Day) (Bonus Action)</name>
@@ -31027,7 +31061,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The sphinx casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 16):
 
 	• At will: Detect Magic, Identify, Mage Hand, Minor Illusion, Prestidigitation
-	• 1/Day each: Dispel Magic, Legend Lore, Locate Object, Plane Shift, Remove Curse, Tongues</text>
+	• 1/day each: Dispel Magic, Legend Lore, Locate Object, Plane Shift, Remove Curse, Tongues</text>
     </action>
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
@@ -31134,7 +31168,7 @@ Third Roar: Constitution Saving Throw: DC 20, each enemy in a 500-foot Emanation
       <text>The sphinx casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 20):
 
 	• At will: Detect Evil and Good, Thaumaturgy
-	• 1/Day each: Detect Magic, Dispel Magic, Greater Restoration, Heroes' Feast, Zone of Truth</text>
+	• 1/day each: Detect Magic, Dispel Magic, Greater Restoration, Heroes' Feast, Zone of Truth</text>
     </action>
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
@@ -31348,7 +31382,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The naga casts one of the following spells, requiring no Somatic or Material components and using Intelligence as the spellcasting ability (spell save DC 14):
 
 	• At will: Detect Magic, Mage Hand, Minor Illusion, Water Breathing
-	• 2/Day each: Detect Thoughts, Dimension Door, Hold Person (level 3 version), Lightning Bolt (level 4 version)</text>
+	• 2/day each: Detect Thoughts, Dimension Door, Hold Person (level 3 version), Lightning Bolt (level 4 version)</text>
     </action>
     <spells>Detect Magic [5.5e], Mage Hand [5.5e], Minor Illusion [5.5e], Water Breathing [5.5e], Detect Thoughts [5.5e], Dimension Door [5.5e], Hold Person [5.5e], Lightning Bolt [5.5e]</spells>
     <description>Spirit nagas loathe the world and all creatures. Possessing perfect memories, these venomous, cobra-like creatures recall every slight committed against them during their immortal existences. In their dank, joyless lairs, they create vicious plots to avenge themselves against even petty offenses.
@@ -31815,7 +31849,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The giant casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 18):
 
 	• At will: Detect Magic, Light
-	• 1/Day: Control Weather</text>
+	• 1/day: Control Weather</text>
     </action>
     <spells>Detect Magic [5.5e], Light [5.5e], Control Weather [5.5e]</spells>
     <description>Among the tallest giants, storm giants live amid extreme forces of nature. In palaces at the bottom of the sea and castles floating amid the clouds, they revel in the power of mighty storms. When angered, they can shape the weather and call down devastating lightning. More often, though, these giants watch the rise and fall of nations and interpret supernatural omens, interfering in the world only when they're needed most.
@@ -32799,7 +32833,7 @@ Source:	System Reference Document v5.2.1</description>
       <text>The unicorn casts one of the following spells, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 14):
 
 	• At will: Detect Evil and Good, Druidcraft
-	• 1/Day each: Calm Emotions, Dispel Evil and Good, Entangle, Pass without Trace, Word of Recall</text>
+	• 1/day each: Calm Emotions, Dispel Evil and Good, Entangle, Pass without Trace, Word of Recall</text>
     </action>
     <action>
       <name>Unicorn's Blessing (3/Day) (Bonus Action)</name>
@@ -33423,7 +33457,7 @@ Skeleton Pantomimes:
 5 | Repeats its final moments of life.
 6 | Stands guard at the post it protected in life.
 
-Warhorse Skeleton
+Warhorse Skeleton:
 Warhorse skeletons are obedient, supernatural steeds bearing the rotted remains of the barding they wore in life. They're often ridden by the corpses of their former riders.
 
 Source:	System Reference Document v5.2.1</description>

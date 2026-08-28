@@ -447,7 +447,7 @@ Source:	Book of Ebon Tides p. 62 (Third Party)</text>
     <classes>School: Necromancy, Cleric, Druid, Warlock, Wizard</classes>
     <text>You reap the life force of a dying creature and use it to empower the next spell you cast. Your target must be at 0 hit points and dying or must have died within the last round. If the target is dying, it must succeed on a Constitution saving throw or die. The next time you cast a spell, you gain 1d10 + your spellcasting ability modifier in temporary hit points and can choose one of the following effects to inflict on the target in addition to the usual effects of the spell you are casting. If you do not cast another spell within 1 minute of casting this one, the effect is lost.
 
-Clumsiness: Your target's speed is halved for I minute, and it has disadvantage on Dexterity ability checks and saving throws. At the end of each of its turns, it can make a Constitution saving throw. If it succeeds, the effect ends.
+Clumsiness: Your target's speed is halved for 1 minute, and it has disadvantage on Dexterity ability checks and saving throws. At the end of each of its turns, it can make a Constitution saving throw. If it succeeds, the effect ends.
 
 Fatiguing: Your target must make a Constitution saving throw, gaining 1d4 levels of exhaustion on a failed save or 1 level of exhaustion on a successful one.
 
@@ -707,7 +707,7 @@ Off Target: The target creature or object appears a random distance away from th
 
 Similar: Your target creature or object winds up in a different area that's visually or thematically similar to the target area. If you are sending someone to your home laboratory, for example, they might wind up in another wizard's laboratory or in an alchemical supply shop that has many of the same tools and implements as your laboratory. Generally, the creature or object appears in the closest similar place, but since the spell has no range limit, they could conceivably wind up anywhere on the plane.
 
-Mishap. The spell's unpredictable magic results in a difficult journey. The teleporting creature or object takes 2d12 force damage, and the GM rerolls on the table to see where you wind up. (Multiple mishaps can occur, dealing damage each time.)
+Mishap: The spell's unpredictable magic results in a difficult journey. The teleporting creature or object takes 2d12 force damage, and the GM rerolls on the table to see where you wind up. (Multiple mishaps can occur, dealing damage each time.)
 
 Lunar Transfer:
 d20 | Grove or Circle | Memento | Very Familiar | Seen Casually | Viewed Once | Description | False Destination
@@ -736,7 +736,7 @@ Source:	Book of Ebon Tides p. 67 (Third Party)</text>
 
 You exhort a fiend to attack a distant foe. After the offering is made, make a spell attack roll to determine which fiend is summoned:
 
-Summoning Table
+Summoning Table:
 d20 | Result | CR
 1-4 | Sending fails | —
 5-8 | Wind demon (see Creature Codex) or quasit | 1-2

@@ -133,7 +133,7 @@ Source:	Tales from the Yawning Portal p. 230</description>
       <text>Ashdra's innate spellcasting ability is Charisma (spell save DC 9). Ashdra can innately cast the following spells, requiring no material components:
 
 	• At will: dancing lights
-	• 1/Day each: darkness, faerie fire</text>
+	• 1/day each: darkness, faerie fire</text>
     </trait>
     <action>
       <name>Club</name>
@@ -556,8 +556,8 @@ Weighted Net: Ranged Weapon Attack: +5 to hit, ranged 20/60 ft., one Small, Medi
       <text>The giant's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 
 	• At will: detect magic, fog cloud, light
-	• 3/Day each: feather fall, fly, misty step, telekinesis
-	• 1/Day each: control weather, gaseous form</text>
+	• 3/day each: feather fall, fly, misty step, telekinesis
+	• 1/day each: control weather, gaseous form</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -856,7 +856,7 @@ Each of these effects has a spell save DC of 15 and a duration of 1 minute.</tex
       <text>The drow's spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:
 
 	• At will: dancing lights
-	• 1/Day each: darkness, faerie fire, levitate (self only)</text>
+	• 1/day each: darkness, faerie fire, levitate (self only)</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -1286,8 +1286,8 @@ Source:	Tales from the Yawning Portal p. 22</description>
       <text>Estia's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 
 	• At will: detect magic, fog cloud, light
-	• 3/Day each: feather fall, fly, misty step, telekinesis
-	• 1/Day each: control weather, gaseous form</text>
+	• 3/day each: feather fall, fly, misty step, telekinesis
+	• 1/day each: control weather, gaseous form</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -2211,7 +2211,7 @@ Source:	Tales from the Yawning Portal p. 21</description>
       <text>Hedrun's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no verbal or material components:
 
 	• At will: detect magic, disguise self, mage armor
-	• 1/Day each: fear, hold person, misty step</text>
+	• 1/day each: fear, hold person, misty step</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -2584,8 +2584,8 @@ The crab has two claws, each of which can grapple only one target.</text>
       <text>Grugnur's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 
 	• At will: detect magic, fog cloud, light
-	• 3/Day each: feather fall, fly, misty step, telekinesis
-	• 1/Day each: control weather, gaseous form</text>
+	• 3/day each: feather fall, fly, misty step, telekinesis
+	• 1/day each: control weather, gaseous form</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -3362,7 +3362,7 @@ If the mummy lord is destroyed, these regional effects end immediately.</text>
       <text>Lumalia's spellcasting ability is Charisma (spell save DC 17). Lumalia can innately cast the following spells, requiring only verbal components:
 
 	• At will: detect evil and good
-	• 1/Day each: commune, raise dead</text>
+	• 1/day each: commune, raise dead</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -3599,7 +3599,7 @@ The attacker must make a DC 14 Wisdom saving throw. On a failed save, the attack
       <text>Nedylene's spellcasting ability is Charisma (spell save DC 15). She can innately cast the following spells, requiring no material components:
 
 	• At will: dancing lights
-	• 1/Day each: darkness, faerie fire, levitate (self only)</text>
+	• 1/day each: darkness, faerie fire, levitate (self only)</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
@@ -4017,7 +4017,7 @@ Source:	Tales from the Yawning Portal p. 240</description>
       <text>Oussa's innate spellcasting ability is Charisma (spell save DC 13). Oussa can innately cast the following spells, requiring no material components:
 
 	• At will: animal friendship (snakes only)
-	• 3/Day: suggestion</text>
+	• 3/day: suggestion</text>
     </trait>
     <action>
       <name>Multiattack (Yuan-ti Form Only)</name>
@@ -4340,29 +4340,22 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
       <name>Eye Rays</name>
       <text>The beholder shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:
 
-1. Charm Ray: The targeted creature must succeed on a DC 14 Wisdom saving throw or be charmed by the beholder for 1 hour, or until the beholder harms the creature.
-
-2. Paralyzing Ray: The targeted creature must succeed on a DC 14 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-3. Fear Ray: The targeted creature must succeed on a DC 14 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-4. Slowing Ray: The targeted creature must succeed on a DC 14 Dexterity saving throw. On a failed save, the target's speed is halved for 1 minute. In addition, the creature can't take reactions, and it can take either an action or a bonus action on its turn, not both. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-5. Enervation Ray: The targeted creature must make a DC 14 Constitution saving throw, taking 36 (8d8) necrotic damage on a failed save, or half as much damage on a successful one.</text>
+Eye Rays:
+d10 | Ray | Effect
+1 | Charm Ray | The targeted creature must succeed on a DC 14 Wisdom saving throw or be charmed by the beholder for 1 hour, or until the beholder harms the creature.
+2 | Paralyzing Ray | The targeted creature must succeed on a DC 14 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+3 | Fear Ray | The targeted creature must succeed on a DC 14 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+4 | Slowing Ray | The targeted creature must succeed on a DC 14 Dexterity saving throw. On a failed save, the target's speed is halved for 1 minute. In addition, the creature can't take reactions, and it can take either an action or a bonus action on its turn, not both. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+5 | Enervation Ray | The targeted creature must make a DC 14 Constitution saving throw, taking 36 (8d8) necrotic damage on a failed save, or half as much damage on a successful one.
+6 | Telekinetic Ray | If the target is a creature, it must succeed on a DC 14 Strength saving throw or the beholder moves it up to 30 feet in any direction. It is restrained by the ray's telekinetic grip until the start of the beholder's next turn or until the beholder is incapacitated.
+	If the target is an object weighing 300 pounds or less that isn't being worn or carried, it is moved up to 30 feet in any direction. The beholder can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or a container.
+7 | Sleep Ray | The targeted creature must succeed on a DC 14 Wisdom saving throw or fall asleep and remain unconscious for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on constructs and undead.
+8 | Petrification Ray | The targeted creature must make a DC 14 Dexterity saving throw. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the greater restoration spell or other magic.
+9 | Disintegration Ray | If the target is a creature, it must succeed on a DC 14 Dexterity saving throw or take 45 (10d8) force damage. If this damage reduces the creature to 0 hit points, its body becomes a pile of fine gray dust.
+	If the target is a Large or smaller nonmagical object or creation of magical force, it is disintegrated without a saving throw. If the target is a Huge or larger object or creation of magical force, this ray disintegrates a 10-foot cube of it.
+10 | Death Ray | The targeted creature must succeed on a DC 14 Dexterity saving throw or take 55 (10d10) necrotic damage. The target dies if the ray reduces it to 0 hit points.</text>
       <attack>Eye Rays||8d8</attack>
-      <text>6. Telekinetic Ray: If the target is a creature, it must succeed on a DC 14 Strength saving throw or the beholder moves it up to 30 feet in any direction. It is restrained by the ray's telekinetic grip until the start of the beholder's next turn or until the beholder is incapacitated.
-
-If the target is an object weighing 300 pounds or less that isn't being worn or carried, it is moved up to 30 feet in any direction. The beholder can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or a container.
-
-7. Sleep Ray: The targeted creature must succeed on a DC 14 Wisdom saving throw or fall asleep and remain unconscious for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on constructs and undead.
-
-8. Petrification Ray: The targeted creature must make a DC 14 Dexterity saving throw. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the greater restoration spell or other magic.
-
-9. Disintegration Ray: If the target is a creature, it must succeed on a DC 14 Dexterity saving throw or take 45 (10d8) force damage. If this damage reduces the creature to 0 hit points, its body becomes a pile of fine gray dust.</text>
       <attack>Eye Rays||10d8</attack>
-      <text>If the target is a Large or smaller nonmagical object or creation of magical force, it is disintegrated without a saving throw. If the target is a Huge or larger object or creation of magical force, this ray disintegrates a 10-foot cube of it.
-
-10. Death Ray: The targeted creature must succeed on a DC 14 Dexterity saving throw or take 55 (10d10) necrotic damage. The target dies if the ray reduces it to 0 hit points.</text>
       <attack>Eye Rays||10d10</attack>
     </action>
     <legendary>
@@ -4921,7 +4914,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
       <text>The glabrezu's spellcasting ability is Intelligence (spell save DC 14). The glabrezu can innately cast the following spells, requiring no material components:
 
 	• At will: darkness, detect magic, dispel magic
-	• 1/Day each: confusion, fly, power word stun</text>
+	• 1/day each: confusion, fly, power word stun</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -6127,7 +6120,7 @@ Psychic Crush (Recharge 5-6). The ooze targets one creature that it can sense wi
     <trait>
       <name>Innate Spellcasting</name>
       <text>Siren's innate spellcasting ability is Charisma (spell save DC 13). She can innately cast the following spells, requiring no material components:
-	• 1/Day each: charm person, fog cloud, greater invisibility, polymorph (self only)</text>
+	• 1/day each: charm person, fog cloud, greater invisibility, polymorph (self only)</text>
     </trait>
     <action>
       <name>Shortsword</name>
@@ -6731,7 +6724,7 @@ Source:	Tales from the Yawning Portal p. 245</description>
       <text>Therzt's innate spellcasting ability is Charisma (spell save DC 9). Therzt can innately cast the following spells, requiring no material components:
 
 	• At will: dancing lights
-	• 1/Day each: darkness, faerie fire</text>
+	• 1/day each: darkness, faerie fire</text>
     </trait>
     <action>
       <name>Club</name>

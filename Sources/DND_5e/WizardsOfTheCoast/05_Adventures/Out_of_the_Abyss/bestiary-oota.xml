@@ -602,8 +602,8 @@ Source:	Out of the Abyss p. 230</description>
       <name>Innate Spellcasting</name>
       <text>Droki's innate spellcasting ability is Charisma (spell save DC 13). He can innately cast the following spells, requiring no material components:
 
-• At will: minor illusion
-• 1/Day each: darkness, fear, shatter</text>
+	• At will: minor illusion
+	• 1/day each: darkness, fear, shatter</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -673,8 +673,8 @@ Source:	Out of the Abyss p. 231</description>
       <name>Innate Spellcasting</name>
       <text>Drow Acolyte's innate spellcasting ability is Charisma (spell save DC 10). Drow Acolyte can innately cast the following spells, requiring no material components:
 
-• At will: dancing lights
-• 1/Day each: darkness, faerie fire</text>
+	• At will: dancing lights
+	• 1/day each: darkness, faerie fire</text>
     </trait>
     <action>
       <name>Club</name>
@@ -725,8 +725,8 @@ Source:	Out of the Abyss p. 231</description>
       <name>Innate Spellcasting</name>
       <text>Drow Bandit's innate spellcasting ability is Charisma (spell save DC 10). Drow Bandit can innately cast the following spells, requiring no material components:
 
-• At will: dancing lights
-• 1/Day each: darkness, faerie fire</text>
+	• At will: dancing lights
+	• 1/day each: darkness, faerie fire</text>
     </trait>
     <action>
       <name>Scimitar</name>
@@ -781,8 +781,8 @@ Source:	Out of the Abyss p. 231</description>
       <name>Innate Spellcasting</name>
       <text>Drow Commoner's innate spellcasting ability is Charisma (spell save DC 9). Drow Commoner can innately cast the following spells, requiring no material components:
 
-• At will: dancing lights
-• 1/Day each: darkness, faerie fire</text>
+	• At will: dancing lights
+	• 1/day each: darkness, faerie fire</text>
     </trait>
     <action>
       <name>Club</name>
@@ -836,8 +836,8 @@ Source:	Out of the Abyss p. 231</description>
       <name>Innate Spellcasting</name>
       <text>Drow Cultist's innate spellcasting ability is Charisma (spell save DC 10). Drow Cultist can innately cast the following spells, requiring no material components:
 
-• At will: dancing lights
-• 1/Day each: darkness, faerie fire</text>
+	• At will: dancing lights
+	• 1/day each: darkness, faerie fire</text>
     </trait>
     <action>
       <name>Scimitar</name>
@@ -887,8 +887,8 @@ Source:	Out of the Abyss p. 231</description>
       <name>Innate Spellcasting</name>
       <text>Drow Guard's innate spellcasting ability is Charisma (spell save DC 10). Drow Guard can innately cast the following spells, requiring no material components:
 
-• At will: dancing lights
-• 1/Day each: darkness, faerie fire</text>
+	• At will: dancing lights
+	• 1/day each: darkness, faerie fire</text>
     </trait>
     <action>
       <name>Spear</name>
@@ -938,8 +938,8 @@ Source:	Out of the Abyss p. 231</description>
       <name>Innate Spellcasting</name>
       <text>Drow Noble's innate spellcasting ability is Charisma (spell save DC 13). Drow Noble can innately cast the following spells, requiring no material components:
 
-• At will: dancing lights
-• 1/Day each: darkness, faerie fire</text>
+	• At will: dancing lights
+	• 1/day each: darkness, faerie fire</text>
     </trait>
     <action>
       <name>Rapier</name>
@@ -997,8 +997,8 @@ Source:	Out of the Abyss p. 231</description>
       <name>Innate Spellcasting</name>
       <text>Drow Scout's innate spellcasting ability is Charisma (spell save DC 10). Drow Scout can innately cast the following spells, requiring no material components:
 
-• At will: dancing lights
-• 1/Day each: darkness, faerie fire</text>
+	• At will: dancing lights
+	• 1/day each: darkness, faerie fire</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -1101,8 +1101,8 @@ Source:	Out of the Abyss p. 231</description>
       <name>Innate Spellcasting</name>
       <text>Drow Spy's innate spellcasting ability is Charisma (spell save DC 13). Drow Spy can innately cast the following spells, requiring no material components:
 
-• At will: dancing lights
-• 1/Day each: darkness, faerie fire</text>
+	• At will: dancing lights
+	• 1/day each: darkness, faerie fire</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -1224,8 +1224,8 @@ Source:	Out of the Abyss p. 231</description>
       <name>Innate Spellcasting (Psionics)</name>
       <text>The darkhaft's innate spellcasting ability is Intelligence (spell save DC 10) it can innately cast the following spells, requiring no components:
 
-• At will: friends, mage hand
-• 1/Day each: disguise self, sleep</text>
+	• At will: friends, mage hand
+	• 1/day each: disguise self, sleep</text>
     </trait>
     <action>
       <name>Enlarge (Recharges after a Short or Long Rest)</name>
@@ -1306,8 +1306,8 @@ Source:	Out of the Abyss p. 226</description>
       <name>Innate Spellcasting (Psionics)</name>
       <text>The Keeper of the Flame's innate spellcasting ability is Wisdom (spell save DC 12.) It can innately cast the following spells, requiring no components:
 
-• At will: friends, message
-• 1/Day each: command</text>
+	• At will: friends, message
+	• 1/day each: command</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
@@ -1361,7 +1361,7 @@ Innate Spellcasting (Psionics):
 The Keeper of the Flame's innate spellcasting ability is Wisdom (spell save DC 12). It can innately cast the following spells, requiring no components:
 
 	• At will: friends, message
-	• 3/Day: command
+	• 3/day: command
 
 Spellcasting:
 The Keeper of the Flame is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The Keeper of the Flame has the following cleric spells prepared:
@@ -1869,8 +1869,8 @@ An engulfed creature can try to escape by taking an action to make a DC 12 Stren
       <name>Innate Spellcasting (Psionics)</name>
       <text>Grazilaxx's innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:
 
-• At will: detect thoughts, levitate
-• 1/Day each: dominate monster, plane shift (self only)</text>
+	• At will: detect thoughts, levitate
+	• 1/day each: dominate monster, plane shift (self only)</text>
     </trait>
     <action>
       <name>Tentacles</name>
@@ -2020,8 +2020,8 @@ An engulfed creature can try to escape by taking an action to make a DC 12 Stren
       <name>Innate Spellcasting</name>
       <text>Ilvara's spellcasting ability is Charisma (spell save DC 15). She can innately cast the following spells, requiring no material components:
 
-• At will: dancing lights
-• 1/Day each: darkness, faerie fire, levitate (self only)</text>
+	• At will: dancing lights
+	• 1/day each: darkness, faerie fire, levitate (self only)</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
@@ -2367,8 +2367,8 @@ Source:	Out of the Abyss p. 225</description>
       <name>Innate Spellcasting</name>
       <text>Jimjar's innate spellcasting ability is Intelligence (spell save DC 11). Jimjar can innately cast the following spells, requiring no material components:
 
-• At will: nondetection (self only)
-• 1/Day each: blindness/deafness, blur, disguise self</text>
+	• At will: nondetection (self only)
+	• 1/day each: blindness/deafness, blur, disguise self</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -2545,8 +2545,8 @@ Source:	Out of the Abyss p. 225</description>
       <name>Innate Spellcasting</name>
       <text>Kinyel's innate spellcasting ability is Charisma (spell save DC 11). Kinyel can innately cast the following spells, requiring no material components:
 
-• At will: dancing lights
-• 1/Day each: darkness, faerie fire</text>
+	• At will: dancing lights
+	• 1/day each: darkness, faerie fire</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -2743,19 +2743,17 @@ Source:	Out of the Abyss p. 225</description>
       <name>Eye Rays</name>
       <text>The beholder shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:
 
-1. Charm Ray: The targeted creature must succeed on a DC 16 Wisdom saving throw or be charmed by the beholder for 1 hour, or until the beholder harms the creature.
-
-2. Paralyzing Ray: The targeted creature must succeed on a DC 16 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-3. Fear Ray: The targeted creature must succeed on a DC 16 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-4. Slowing Ray: The targeted creature must succeed on a DC 16 Dexterity saving throw. On a failed save, the target's speed is halved for 1 minute. In addition, the creature can't take reactions, and it can take either an action or a bonus action on its turn, not both. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-5. Enervation Ray: The targeted creature must make a DC 16 Constitution saving throw, taking 36 (8d8) necrotic damage on a failed save, or half as much damage on a successful one.</text>
-      <attack>Eye Rays||8d8</attack>
-      <text>6. Telekinetic Ray: If the target is a creature, it must succeed on a DC 16 Strength saving throw or the beholder moves it up to 30 feet in any direction. It is restrained by the ray's telekinetic grip until the start of the beholder's next turn or until the beholder is incapacitated.
+Eye Rays:
+d6 | Ray | Effect
+1 | Charm Ray | The targeted creature must succeed on a DC 16 Wisdom saving throw or be charmed by the beholder for 1 hour, or until the beholder harms the creature.
+2 | Paralyzing Ray | The targeted creature must succeed on a DC 16 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+3 | Fear Ray | The targeted creature must succeed on a DC 16 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+4 | Slowing Ray | The targeted creature must succeed on a DC 16 Dexterity saving throw. On a failed save, the target's speed is halved for 1 minute. In addition, the creature can't take reactions, and it can take either an action or a bonus action on its turn, not both. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+5 | Enervation Ray | The targeted creature must make a DC 16 Constitution saving throw, taking 36 (8d8) necrotic damage on a failed save, or half as much damage on a successful one.
+6 | Telekinetic Ray | If the target is a creature, it must succeed on a DC 16 Strength saving throw or the beholder moves it up to 30 feet in any direction. It is restrained by the ray's telekinetic grip until the start of the beholder's next turn or until the beholder is incapacitated.
 
 If the target is an object weighing 300 pounds or less that isn't being worn or carried, it is moved up to 30 feet in any direction. The beholder can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or a container.</text>
+      <attack>Eye Rays||8d8</attack>
     </action>
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
@@ -2958,8 +2956,8 @@ If the beholder dies, these effects fade over the course of 1d10 days.</text>
       <name>Innate Spellcasting</name>
       <text>Peebles's innate spellcasting ability is Intelligence (spell save DC 11). Peebles can innately cast the following spells, requiring no material components:
 
-• At will: nondetection (self only)
-• 1/Day each: blindness/deafness, blur, disguise self</text>
+	• At will: nondetection (self only)
+	• 1/day each: blindness/deafness, blur, disguise self</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -3301,8 +3299,8 @@ If the beholder dies, these effects fade over the course of 1d10 days.</text>
       <name>Innate Spellcasting</name>
       <text>Sarith's spellcasting ability is Charisma (spell save DC 11). It can innately cast the following spells, requiring no material components:
 
-• At will: dancing lights
-• 1/Day each: darkness, faerie fire</text>
+	• At will: dancing lights
+	• 1/day each: darkness, faerie fire</text>
     </trait>
     <action>
       <name>Shortsword</name>
@@ -3870,8 +3868,8 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
       <name>Innate Spellcasting</name>
       <text>The Pudding King's innate spellcasting ability is Intelligence (spell save DC 12). He can innately cast the following spells, requiring no material components:
 
-• At will: nondetection (self only)
-• 1/Day each: blindness/deafness, blur, disguise self</text>
+	• At will: nondetection (self only)
+	• 1/day each: blindness/deafness, blur, disguise self</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
@@ -4471,8 +4469,8 @@ If Veldyskar sees its reflection within 30 feet of it in bright light, it mistak
       <name>Innate Spellcasting</name>
       <text>Vizeran's innate spellcasting ability is Charisma (spell save DC 15). Vizeran can innately cast the following spells, requiring no material components:
 
-• At will: dancing lights
-• 1/Day each: darkness, faerie fire</text>
+	• At will: dancing lights
+	• 1/day each: darkness, faerie fire</text>
     </trait>
     <action>
       <name>Dagger</name>
@@ -4525,29 +4523,22 @@ If Veldyskar sees its reflection within 30 feet of it in bright light, it mistak
       <name>Eye Rays</name>
       <text>Xazax shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:
 
-1. Charm Ray: The targeted creature must succeed on a DC 16 Wisdom saving throw or be charmed by Xazax for 1 hour, or until Xazax harms the creature.
-
-2. Paralyzing Ray: The targeted creature must succeed on a DC 16 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-3. Fear Ray: The targeted creature must succeed on a DC 16 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-4. Slowing Ray: The targeted creature must succeed on a DC 16 Dexterity saving throw. On a failed save, the target's speed is halved for 1 minute. In addition, the creature can't take reactions, and it can take either an action or a bonus action on its turn, not both. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-5. Enervation Ray: The targeted creature must make a DC 16 Constitution saving throw, taking 36 (8d8) necrotic damage on a failed save, or half as much damage on a successful one.</text>
+Eye Rays:
+d10 | Ray | Effect
+1 | Charm Ray | The targeted creature must succeed on a DC 16 Wisdom saving throw or be charmed by Xazax for 1 hour, or until Xazax harms the creature.
+2 | Paralyzing Ray | The targeted creature must succeed on a DC 16 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+3 | Fear Ray | The targeted creature must succeed on a DC 16 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+4 | Slowing Ray | The targeted creature must succeed on a DC 16 Dexterity saving throw. On a failed save, the target's speed is halved for 1 minute. In addition, the creature can't take reactions, and it can take either an action or a bonus action on its turn, not both. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+5 | Enervation Ray | The targeted creature must make a DC 16 Constitution saving throw, taking 36 (8d8) necrotic damage on a failed save, or half as much damage on a successful one.
+6 | Telekinetic Ray | If the target is a creature, it must succeed on a DC 16 Strength saving throw or Xazax moves it up to 30 feet in any direction. It is restrained by the ray's telekinetic grip until the start of Xazax's next turn or until Xazax is incapacitated.
+	If the target is an object weighing 300 pounds or less that isn't being worn or carried, it is moved up to 30 feet in any direction. Xazax can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or a container.
+7 | Sleep Ray | The targeted creature must succeed on a DC 16 Wisdom saving throw or fall asleep and remain unconscious for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on constructs and undead.
+8 | Petrification Ray | The targeted creature must make a DC 16 Dexterity saving throw. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the greater restoration spell or other magic.
+9 | Disintegration Ray | If the target is a creature, it must succeed on a DC 16 Dexterity saving throw or take 45 (10d8) force damage. If this damage reduces the creature to 0 hit points, its body becomes a pile of fine gray dust.
+	If the target |is a Large or smaller nonmagical object or creation of magical force, it is disintegrated without a saving throw. If the target is a Huge or larger object or creation of magical force, this ray disintegrates a 10-foot cube of it.
+10 | Death Ray | The targeted creature must succeed on a DC 16 Dexterity saving throw or take 55 (10d10) necrotic damage. The target dies if the ray reduces it to 0 hit points.</text>
       <attack>Eye Rays||8d8</attack>
-      <text>6. Telekinetic Ray: If the target is a creature, it must succeed on a DC 16 Strength saving throw or Xazax moves it up to 30 feet in any direction. It is restrained by the ray's telekinetic grip until the start of Xazax's next turn or until Xazax is incapacitated.
-
-If the target is an object weighing 300 pounds or less that isn't being worn or carried, it is moved up to 30 feet in any direction. Xazax can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or a container.
-
-7. Sleep Ray: The targeted creature must succeed on a DC 16 Wisdom saving throw or fall asleep and remain unconscious for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on constructs and undead.
-
-8. Petrification Ray: The targeted creature must make a DC 16 Dexterity saving throw. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the greater restoration spell or other magic.
-
-9. Disintegration Ray: If the target is a creature, it must succeed on a DC 16 Dexterity saving throw or take 45 (10d8) force damage. If this damage reduces the creature to 0 hit points, its body becomes a pile of fine gray dust.</text>
       <attack>Eye Rays||10d8</attack>
-      <text>If the target is a Large or smaller nonmagical object or creation of magical force, it is disintegrated without a saving throw. If the target is a Huge or larger object or creation of magical force, this ray disintegrates a 10-foot cube of it.
-
-10. Death Ray: The targeted creature must succeed on a DC 16 Dexterity saving throw or take 55 (10d10) necrotic damage. The target dies if the ray reduces it to 0 hit points.</text>
       <attack>Eye Rays||10d10</attack>
     </action>
     <legendary>
@@ -4916,8 +4907,8 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
       <name>Innate Spellcasting</name>
       <text>Zilchyn's innate spellcasting ability is Charisma (spell save DC 11). Zilchyn can innately cast the following spells, requiring no material components:
 
-• At will: dancing lights
-• 1/Day each: darkness, faerie fire</text>
+	• At will: dancing lights
+	• 1/day each: darkness, faerie fire</text>
     </trait>
     <action>
       <name>Dagger</name>

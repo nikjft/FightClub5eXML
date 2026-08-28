@@ -2,6 +2,8 @@
 <compendium version="5" auto_indent="NO">
   <race>
     <name>Half-Elf, Aquatic Elf Ancestry</name>
+    <displayname>Aquatic Half-Elf</displayname>
+    <ancestry>Half-Elf</ancestry>
     <size>M</size>
     <speed>30</speed>
     <ability>Cha +2</ability>
@@ -69,6 +71,8 @@ A half-elf of aquatic elf ancestry can select this feature in place of Skill Ver
   </race>
   <race>
     <name>Half-Elf, Drow / Dark Elf Ancestry</name>
+    <displayname>Dark Half-Elf</displayname>
+    <ancestry>Half-Elf</ancestry>
     <size>M</size>
     <speed>30</speed>
     <ability>Cha +2</ability>
@@ -136,6 +140,8 @@ A half-elf of dark elf ancestry can select this feature in place of Skill Versat
   </race>
   <race>
     <name>Half-Elf, High Elf Ancestry</name>
+    <displayname>High Half-Elf</displayname>
+    <ancestry>Half-Elf</ancestry>
     <size>M</size>
     <speed>30</speed>
     <ability>Cha +2</ability>
@@ -211,6 +217,8 @@ A half-elf of high elf ancestry can select this feature in place of Skill Versat
   </race>
   <race>
     <name>Half-Elf, Wood Elf Ancestry</name>
+    <displayname>Wood Half-Elf</displayname>
+    <ancestry>Half-Elf</ancestry>
     <size>M</size>
     <speed>30</speed>
     <ability>Cha +2</ability>
@@ -290,6 +298,8 @@ A half-elf of wood elf ancestry can select this feature in place of Skill Versat
   </race>
   <race>
     <name>Halfling, Ghostwise</name>
+    <displayname>Ghostwise Halfling</displayname>
+    <ancestry>Halfling</ancestry>
     <size>S</size>
     <speed>25</speed>
     <ability>Dex +2, Wis +1</ability>
@@ -357,10 +367,11 @@ Weight in pounds = 35 + your size modifie</text>
   </race>
   <race>
     <name>Tiefling, Variants</name>
+    <displayname>Tiefling (Variants)</displayname>
+    <ancestry>Tiefling</ancestry>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex +2, Int +1</ability>
-    <resist>fire</resist>
     <spellAbility>Charisma</spellAbility>
     <trait category="description">
       <name>Description</name>
@@ -459,5 +470,6 @@ Exude a Smell of Brimstone.</text>
       <name>Languages</name>
       <text>You can speak, read, and write Common and Infernal.</text>
     </trait>
+    <resist>fire</resist>
   </race>
 </compendium>

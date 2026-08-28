@@ -29,7 +29,7 @@ Spell Level | Spells
 1st | Charm Person, Command
 2nd | Hold Person, Suggestion
 3rd | Bestow Curse, Stinking Cloud
-4th | Black Tentacles, Confusion
+4th | Evard's Black Tentacles, Confusion
 5th | Dominate Person, Cloudkill
 
 Source:	Auroboros: Coils of the Serpent p. 174 (Indie)</text>
@@ -96,7 +96,7 @@ Source:	Auroboros: Coils of the Serpent p. 175 (Indie)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Eldritch Invocation: Hellion of the Souleater (HB)</name>
+    <name>Invocation: Hellion of the Souleater (HB)</name>
     <level>0</level>
     <classes>Eldritch Invocations</classes>
     <text>Prerequisite: Pact of the Ink
@@ -106,7 +106,7 @@ Hellish Rebuke is added to your spell list. Once per long rest you can cast Hell
 Source:	Auroboros: Coils of the Serpent p. 174 (Indie)</text>
   </spell>
   <spell>
-    <name>Eldritch Invocation: Soul Feast (HB)</name>
+    <name>Invocation: Soul Feast (HB)</name>
     <level>0</level>
     <classes>Eldritch Invocations</classes>
     <text>Prerequisite: Pact of the Ink, 12th-level warlock
@@ -140,7 +140,7 @@ Source:	Auroboros: Coils of the Serpent p. 174 (Indie)</text>
     <classes>Warlock (Souleater (HB))</classes>
   </spell>
   <spell>
-    <name>Black Tentacles</name>
+    <name>Evard's Black Tentacles</name>
     <classes>Warlock (Souleater (HB))</classes>
   </spell>
   <spell>

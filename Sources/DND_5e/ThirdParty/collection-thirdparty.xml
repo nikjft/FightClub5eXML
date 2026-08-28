@@ -33,23 +33,24 @@
   <xi:include pubdate="2019-12-04" source="Monsters of the Underworld" href="Indie/_Cawood_Publishing/Monsters_of_the_Underworld/source-motu.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2020-03-17" source="Explorers Guide to Wildemount" href="PartneredOfficial/Explorers_Guide_to_Wildemount/source-egw.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2020-07-20" source="Exploring Eberron" href="PartneredOfficial/Exploring_Eberron/source-ee.xml" xpointer="xpointer(/source/collection/doc)" />
-  <xi:include pubdate="2020-11-02" source="Griffon's Saddlebag Book One" href="Indie/_HitPoint_Press/Griffons_Saddlebag_Book_One/source-gsb1.xml" xpointer="xpointer(/source/collection/doc)" />
+  <xi:include pubdate="2020-11-02" source="The Griffon's Saddlebag: Book One" href="Indie/_HitPoint_Press/Griffons_Saddlebag_Book_One/source-gsb1.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2020-11-10" source="Monsters of the City - Sins and Virtues" href="Indie/_Cawood_Publishing/Monsters_of_the_City/source-motc.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2020-11-11" source="Tasha's Crucible of Everything Else, Vol. 1" href="Indie/_QL_Games/Tashas_Crucible_of_Everything_Else_Vol_1/source-tcee1.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2020-11-16" source="Tasha's Hideous Leftovers" href="Indie/Tashas_Hideous_Leftovers/source-thl.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2021-05-14" source="Tasha's Crucible of Everything Else, Vol. 2" href="Indie/_QL_Games/Tashas_Crucible_of_Everything_Else_Vol_2/source-tcee2.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2021-10-02" source="Tasha's Scrapped Book" href="Indie/_QL_Games/Tashas_Scrapped_Book/source-tsb.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2021-10-05" source="Minsc &amp; Boo's Journal of Villainy" href="SemiOfficial/Minsc_and_Boos_Journal_of_Villainy/source-mabjov.xml" xpointer="xpointer(/source/collection/doc)" />
-  <xi:include pubdate="2021-11-11" source="HeavyArms: Gunslinger" href="Indie/HeavyArms/Gunslinger/source-hags.xml" xpointer="xpointer(/source/collection/doc)" />
+  <xi:include pubdate="2021-11-11" source="HeavyArms: Gunslinger" href="Indie/_HeavyArms/Gunslinger/source-hags.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2021-12-31" source="Tal'Dorei Reborn" href="PartneredOfficial/TalDorei_Reborn/source-tdr.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2022-01-01" source="Wanderer's Guide To Merchants &amp; Magic" href="Indie/Wanderers_Guide_to_Merchants_and_Magic/source-wgmm.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2022-04-05" source="Monsters of Wilderness - Oswald's Curse" href="Indie/_Cawood_Publishing/Monsters_of_the_Wilderness/source-motw.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2022-08-09" source="Tome of Heroes" href="Indie/_Kobold_Press/Tome_of_Heroes/source-ToH.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2022-09-14" source="Book of Ebon Tides" href="PartneredOfficial/Book_of_Ebon_Tides/source-bet.xml" xpointer="xpointer(/source/collection/doc)" />
-  <xi:include pubdate="2022-09-19" source="HeavyArms: The Ranger" href="Indie/HeavyArms/Ranger/source-har.xml" xpointer="xpointer(/source/collection/doc)" />
+  <xi:include pubdate="2022-09-19" source="HeavyArms: The Ranger" href="Indie/_HeavyArms/Ranger/source-har.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2022-11-19" source="Auroboros: Coils of the Serpent" href="Indie/Auraboros_-_Coils_of_the_Serpent/source-acs.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2022-11-29" source="Crown of the Oathbreaker" href="Indie/_ElderBrain/Crown_of_the_Oathbreaker/source-coto.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2023-01-09" source="Monsters of Feyland 2 - The Well of Dreams" href="Indie/_Cawood_Publishing/Monsters_of_Feyland_2/source-mof2.xml" xpointer="xpointer(/source/collection/doc)" />
+  <xi:include pubdate="2023-02-22" source="Complete Binder" href="Indie/_Mage_Hand_Press/Complete_Binder/source-cobi.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2023-05-02" source="Grim Hollow: Campaign Guide" href="PartneredOfficial/Grim_Hollow_Campaign_Guide/source-ghcg.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2023-09-22" source="Monstrous Compendium Vol. 3: Minecraft Creatures" href="PartneredOfficial/Monstrous_Compendium_3_Minecraft_Creatures/source-mc3mc.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2023-10-24" source="Monsters of the Dungeon - Brave the Darkness" href="Indie/_Cawood_Publishing/Monsters_of_the_Dungeon/source-motd.xml" xpointer="xpointer(/source/collection/doc)" />
@@ -69,8 +70,10 @@
   <xi:include pubdate="2024-11-24" source="Griffon's Saddlebag: Griffons of the Multiverse" href="Indie/_HitPoint_Press/Griffons_of_the_Multiverse/source-gotm.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2025-02-25" source="In Search of Smuggler's Secrets" href="Indie/_DungeonDudes/In_Search_of_Smugglers_Secrets/source-ddsss.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2025-04-01" source="Valda's Spire of Secrets" href="Indie/_Mage_Hand_Press/Valdas_Spire_of_Secrets/source-vsos.xml" xpointer="xpointer(/source/collection/doc)" />
+  <xi:include pubdate="2025-04-26" source="Complete Alchemist" href="Indie/_Mage_Hand_Press/Complete_Alchemist/source-coal.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2025-06-03" source="Pluto Jackson's Monsters of Drakkenheim" href="Indie/_DungeonDudes/Pluto_Jacksons_Monsters_of_Drakkenheim/source-pjmd.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2025-10-23" source="Ryoko's Guide to the Yokai Realms" href="Indie/Ryokos_Guide_to_Yokai_Realms/source-ryoko.xml" xpointer="xpointer(/source/collection/doc)" />
+  <xi:include pubdate="2025-10-29" source="The Crooked Moon" href="PartneredOfficial/Crooked_Moon/source-tcm.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2026-02-26" source="Complete Necromancer" href="Indie/_Mage_Hand_Press/Complete_Necromancer/source-cone.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2026-02-26" source="Complete Witch" href="Indie/_Mage_Hand_Press/Complete_Witch/source-cowi.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2026-04-26" source="Complete Warmage" href="Indie/_Mage_Hand_Press/Complete_Warmage/source-cowa.xml" xpointer="xpointer(/source/collection/doc)" />

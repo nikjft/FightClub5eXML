@@ -194,8 +194,8 @@ Source:	Dungeons of Drakkenheim p. 203 (Third Party)</description>
       <text>The wraith is an 8th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). The wraith knows the following sorcerer spells:
 
 	• At will: mage hand, magic missile, minor illusion
-	• 3/Day: lightning bolt
-	• 1/Day: hypnotic pattern</text>
+	• 3/day: lightning bolt
+	• 1/day: hypnotic pattern</text>
     </trait>
     <trait>
       <name>Incorporeal Movement</name>
@@ -1385,23 +1385,14 @@ Source:	Dungeons of Drakkenheim p. 197 (Third Party)</description>
       <name>Lantern Blast</name>
       <text>Magical octarine beams flash from the Gravekeeper's many lanterns. Each beam has a different power. Each creature within 120 feet of the Gravekeeper which is not behind total cover rolls a d6 to determine which color ray affects it. The DC for all saving throws is 18:
 
-1. Dispelling Blast:
-The targeted creature must succeed on an Intelligence saving throw or take 35 (10d6) psychic damage, and any spell or magical effect upon the target ends. A creature who fails this saving throw has their concentration broken on any spell they were actively maintaining.
-
-2. Forceful Blast:
-The targeted creature must succeed on a Strength saving throw or take 35 (10d6) force damage, be pushed 20 feet away, and knocked prone.
-
-3. Blinding Blast:
-The targeted creature must succeed on a Constitution saving throw or take 35 (10d6) radiant damage and be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.
-
-4. Contamining Blast:
-The targeted creature must succeed on a Constitution saving throw or take 35 (10d6) necrotic damage and gain one level of contamination.
-
-5. Igniting Blast:
-The targeted creature must succeed on a Dexterity saving throw or take 35 (10d6) fire damage, and catches fire; until someone takes an action to douse the fire, the target takes 35 (10d6) fire damage at the start of each of its turns.
-
-6. Freezing Blast:
-The targeted creature must succeed on a Constitution saving throw or take 35 (10d6) cold damage, and it can't take a reaction until the end of its next turn. Moreover, on its next turn, it must choose whether it gets a move, an action, or a bonus action; it gets only one of the three. On a successful save, the target takes half as much damage and suffers none of the blast's other effects.</text>
+Lantern Blast:
+d6 | Blast
+1 | Dispelling Blast: The targeted creature must succeed on an Intelligence saving throw or take 35 (10d6) psychic damage, and any spell or magical effect upon the target ends. A creature who fails this saving throw has their concentration broken on any spell they were actively maintaining.
+2 | Forceful Blast: The targeted creature must succeed on a Strength saving throw or take 35 (10d6) force damage, be pushed 20 feet away, and knocked prone.
+3 | Blinding Blast: The targeted creature must succeed on a Constitution saving throw or take 35 (10d6) radiant damage and be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.
+4 | Contamining Blast: The targeted creature must succeed on a Constitution saving throw or take 35 (10d6) necrotic damage and gain one level of contamination.
+5 | Igniting Blast: The targeted creature must succeed on a Dexterity saving throw or take 35 (10d6) fire damage, and catches fire; until someone takes an action to douse the fire, the target takes 35 (10d6) fire damage at the start of each of its turns.
+6 | Freezing Blast: The targeted creature must succeed on a Constitution saving throw or take 35 (10d6) cold damage, and it can't take a reaction until the end of its next turn. Moreover, on its next turn, it must choose whether it gets a move, an action, or a bonus action; it gets only one of the three. On a successful save, the target takes half as much damage and suffers none of the blast's other effects.</text>
       <attack>Lantern Blast||10d6</attack>
     </action>
     <legendary>
@@ -3118,8 +3109,8 @@ Source:	Dungeons of Drakkenheim p. 202 (Third Party)</description>
       <text>Saint Gresha is an 8th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). Saint Gresha knows the following sorcerer spells:
 
 	• At will: guidance, light, sacred flame, thaumaturgy
-	• 3/Day each: bless, flame strike, guiding bolt, healing word, prayer of healing, spirit guardians
-	• 1/Day each: divine word, harm, heal, holy aura, sacrament of the falling fire*
+	• 3/day each: bless, flame strike, guiding bolt, healing word, prayer of healing, spirit guardians
+	• 1/day each: divine word, harm, heal, holy aura, sacrament of the falling fire*
 
 *new spell described in Appendix D of Dungeons of Drakkenheim.</text>
       <attack>Spell Attack|+5|</attack>
@@ -3518,7 +3509,7 @@ Source:	Dungeons of Drakkenheim p. 198 (Third Party)</description>
       <text>The warlock's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save DC 12, +4 to hit with spell attacks), requiring no material components:
 
 	• At will: eldritch blast (2 beams), mage armor (self only), minor illusion, thaumaturgy
-	• 1/Day each: augury, burning hands, conjure animals (giant rats only), faerie fire, invisibility, misty step</text>
+	• 1/day each: augury, burning hands, conjure animals (giant rats only), faerie fire, invisibility, misty step</text>
       <attack>Spell Attack|+4|</attack>
     </trait>
     <trait>

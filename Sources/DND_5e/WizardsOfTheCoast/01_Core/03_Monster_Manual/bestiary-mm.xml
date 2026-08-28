@@ -6050,7 +6050,7 @@ Source:	Monster Manual (2014) p. 23,
 
 	• A barbed devil has a 30 percent chance of summoning one barbed devil.
 
-A summoned devil appears in an unoccupied space with in 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for l minute, until it or its summoner dies, or until its summoner dismisses it as an action.</text>
+A summoned devil appears in an unoccupied space with in 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.</text>
       <attack>Magical Summoning||1d10</attack>
     </action>
     <description>Barbed Devil (Hamatula):
@@ -6089,19 +6089,19 @@ Promotion and Demotion: When the soul of an evil mortal sinks into the Nine Hell
 
 Infernal Hierarchy:
 Rank | Devil(s)
-1. | lemure
-2. (Lesser devils) | imp
-3. | spined devil
-4. | bearded devil
-5. | barbed devil
-6. | chain devil
-7. | bone devil
-8. (Greater devils) | horned devil
-9. | erinyes
-10. | ice devil
-11. | pit fiend
-12. (Archdevils) | duke or duchess
-13. | archduke or archduchess
+1 | lemure
+2 | imp (Lesser devils)
+3 | spined devil
+4 | bearded devil
+5 | barbed devil
+6 | chain devil
+7 | bone devil
+8 | horned devil (Greater devils)
+9 | erinyes
+10 | ice devil
+11 | pit fiend
+12 | duke or duchess (Archdevils)
+13 | archduke or archduchess
 
 The Nine Hells:
 The Nine Hells are a single plane comprising nine separate layers (see the Layers and Lords of the Nine Hells table). The first eight layers are each ruled by archdevils that answer to the greatest archdevil of all: Asmodeus, the Archduke of Nessus, the ninth layer. To reach the deepest layer of the Nine Hells, one must descend through all eight of the layers above it, in order. The most expeditious means of doing so is the River Styx, which plunges ever deeper as it flows from one layer to the next. Only the most courageous adventurers can withstand the torment and horror of that journey.
@@ -6172,8 +6172,8 @@ Source:	Monster Manual (2014) p. 70,
       <name>Innate Spellcasting</name>
       <text>The barlgura's spellcasting ability is Wisdom (spell save DC 13). The barlgura can innately cast the following spells, requiring no material components:
 
-	• 1/Day each: entangle, phantasmal force
-	• 2/Day each: disguise self, invisibility (self only)</text>
+	• 1/day each: entangle, phantasmal force
+	• 2/day each: disguise self, invisibility (self only)</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -6457,7 +6457,7 @@ Source:	Monster Manual (2014) p. 24,
 
 	• A bearded devil has a 30 percent chance of summoning one bearded devil. 
 
-A summoned devil appears in an unoccupied space with in 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for l minute, until it or its summoner dies, or until its summoner dismisses it as an action.</text>
+A summoned devil appears in an unoccupied space with in 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.</text>
       <attack>Magical Summoning||1d10</attack>
     </action>
     <description>Bearded Devil (Barbazu):
@@ -6496,19 +6496,19 @@ Promotion and Demotion: When the soul of an evil mortal sinks into the Nine Hell
 
 Infernal Hierarchy:
 Rank | Devil(s)
-1. | lemure
-2. (Lesser devils) | imp
-3. | spined devil
-4. | bearded devil
-5. | barbed devil
-6. | chain devil
-7. | bone devil
-8. (Greater devils) | horned devil
-9. | erinyes
-10. | ice devil
-11. | pit fiend
-12. (Archdevils) | duke or duchess
-13. | archduke or archduchess
+1 | lemure
+2 | imp (Lesser devils)
+3 | spined devil
+4 | bearded devil
+5 | barbed devil
+6 | chain devil
+7 | bone devil
+8 | horned devil (Greater devils)
+9 | erinyes
+10 | ice devil
+11 | pit fiend
+12 | duke or duchess (Archdevils)
+13 | archduke or archduchess
 
 The Nine Hells:
 The Nine Hells are a single plane comprising nine separate layers (see the Layers and Lords of the Nine Hells table). The first eight layers are each ruled by archdevils that answer to the greatest archdevil of all: Asmodeus, the Archduke of Nessus, the ninth layer. To reach the deepest layer of the Nine Hells, one must descend through all eight of the layers above it, in order. The most expeditious means of doing so is the River Styx, which plunges ever deeper as it flows from one layer to the next. Only the most courageous adventurers can withstand the torment and horror of that journey.
@@ -6644,27 +6644,20 @@ Source:	Monster Manual (2014) p. 25,
       <name>Eye Rays</name>
       <text>The beholder shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:
 
-1. Charm Ray: The targeted creature must succeed on a DC 16 Wisdom saving throw or be charmed by the beholder for 1 hour, or until the beholder harms the creature.
-
-2. Paralyzing Ray: The targeted creature must succeed on a DC 16 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-3. Fear Ray: The targeted creature must succeed on a DC 16 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-4. Slowing Ray: The targeted creature must succeed on a DC 16 Dexterity saving throw. On a failed save, the target's speed is halved for 1 minute. In addition, the creature can't take reactions, and it can take either an action or a bonus action on its turn, not both. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-5. Enervation Ray: The targeted creature must make a DC 16 Constitution saving throw, taking 36 (8d8) necrotic damage on a failed save, or half as much damage on a successful one.
-
-6. Telekinetic Ray: If the target is a creature, it must succeed on a DC 16 Strength saving throw or the beholder moves it up to 30 feet in any direction. It is restrained by the ray's telekinetic grip until the start of the beholder's next turn or until the beholder is incapacitated.
+Eye Rays:
+d6 | Ray | Effect
+1 | Charm Ray | The targeted creature must succeed on a DC 16 Wisdom saving throw or be charmed by the beholder for 1 hour, or until the beholder harms the creature.
+2 | Paralyzing Ray | The targeted creature must succeed on a DC 16 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+3 | Fear Ray | The targeted creature must succeed on a DC 16 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+4 | Slowing Ray | The targeted creature must succeed on a DC 16 Dexterity saving throw. On a failed save, the target's speed is halved for 1 minute. In addition, the creature can't take reactions, and it can take either an action or a bonus action on its turn, not both. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+5 | Enervation Ray | The targeted creature must make a DC 16 Constitution saving throw, taking 36 (8d8) necrotic damage on a failed save, or half as much damage on a successful one.
+6 | Telekinetic Ray | If the target is a creature, it must succeed on a DC 16 Strength saving throw or the beholder moves it up to 30 feet in any direction. It is restrained by the ray's telekinetic grip until the start of the beholder's next turn or until the beholder is incapacitated.
 	If the target is an object weighing 300 pounds or less that isn't being worn or carried, it is moved up to 30 feet in any direction. The beholder can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or a container.
-
-7. Sleep Ray: The targeted creature must succeed on a DC 16 Wisdom saving throw or fall asleep and remain unconscious for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on constructs and undead.
-
-8. Petrification Ray: The targeted creature must make a DC 16 Dexterity saving throw. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the greater restoration spell or other magic.
-
-9. Disintegration Ray: If the target is a creature, it must succeed on a DC 16 Dexterity saving throw or take 45 (10d8) force damage. If this damage reduces the creature to 0 hit points, its body becomes a pile of fine gray dust.
+7 | Sleep Ray | The targeted creature must succeed on a DC 16 Wisdom saving throw or fall asleep and remain unconscious for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on constructs and undead.
+8 | Petrification Ray | The targeted creature must make a DC 16 Dexterity saving throw. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the greater restoration spell or other magic.
+9 | Disintegration Ray | If the target is a creature, it must succeed on a DC 16 Dexterity saving throw or take 45 (10d8) force damage. If this damage reduces the creature to 0 hit points, its body becomes a pile of fine gray dust.
 	If the target is a Large or smaller nonmagical object or creation of magical force, it is disintegrated without a saving throw. If the target is a Huge or larger object or creation of magical force, this ray disintegrates a 10-foot cube of it.
-
-10. Death Ray: The targeted creature must succeed on a DC 16 Dexterity saving throw or take 55 (10d10) necrotic damage. The target dies if the ray reduces it to 0 hit points.</text>
+10 | Death Ray | The targeted creature must succeed on a DC 16 Dexterity saving throw or take 55 (10d10) necrotic damage. The target dies if the ray reduces it to 0 hit points.</text>
       <attack>Necrotic Damage||8d8</attack>
       <attack>Force Damage||10d8</attack>
       <attack>Necrotic Damage||10d10</attack>
@@ -6764,13 +6757,12 @@ Source:	Monster Manual (2014) p. 28,
       <name>Eye Ray</name>
       <text>The zombie uses a random magical eye ray, choosing a target that it can see within 60 feet of it.
 
-1. Paralyzing Ray: The targeted creature must succeed on a DC 14 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-2. Fear Ray: The targeted creature must succeed on a DC 14 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-3. Enervation Ray: The targeted creature must make a DC 14 Constitution saving throw, taking 36 (8d8) necrotic damage on a failed save, or half as much damage on a successful one.
-
-4. Disintegration Ray: If the target is a creature, it must succeed on a DC 14 Dexterity saving throw or take 45 (10d8) force damage. If this damage reduces the creature to 0 hit points, its body becomes a pile of fine gray dust.
+Eye Rays:
+d4 | Ray | Effect
+1 | Paralyzing Ray | The targeted creature must succeed on a DC 14 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+2 | Fear Ray | The targeted creature must succeed on a DC 14 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+3 | Enervation Ray | The targeted creature must make a DC 14 Constitution saving throw, taking 36 (8d8) necrotic damage on a failed save, or half as much damage on a successful one.
+4 | Disintegration Ray | If the target is a creature, it must succeed on a DC 14 Dexterity saving throw or take 45 (10d8) force damage. If this damage reduces the creature to 0 hit points, its body becomes a pile of fine gray dust.
 	If the target is a Large or smaller nonmagical object or creation of magical force, it is disintegrated without a saving throw. If the target is a Huge or larger nonmagical object or creation of magical force, this ray disintegrates a 10-foot cube of it.</text>
       <attack>Necrotic Damage||8d8</attack>
       <attack>Force Damage||10d8</attack>
@@ -7439,7 +7431,7 @@ Hooked Polearm: Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 1
 
 	•  A bone devil has a 40 percent chance of summoning 2d6 spined devils or one bone devil.
 
-A summoned devil appears in an unoccupied space with in 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for l minute, until it or its summoner dies, or until its summoner dismisses it as an action.</text>
+A summoned devil appears in an unoccupied space with in 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.</text>
       <attack>Magical Summoning||1d10</attack>
       <attack>Spined Devils||2d6</attack>
     </action>
@@ -7479,19 +7471,19 @@ Promotion and Demotion: When the soul of an evil mortal sinks into the Nine Hell
 
 Infernal Hierarchy:
 Rank | Devil(s)
-1. | lemure
-2. (Lesser devils) | imp
-3. | spined devil
-4. | bearded devil
-5. | barbed devil
-6. | chain devil
-7. | bone devil
-8. (Greater devils) | horned devil
-9. | erinyes
-10. | ice devil
-11. | pit fiend
-12. (Archdevils) | duke or duchess
-13. | archduke or archduchess
+1 | lemure
+2 | imp (Lesser devils)
+3 | spined devil
+4 | bearded devil
+5 | barbed devil
+6 | chain devil
+7 | bone devil
+8 | horned devil (Greater devils)
+9 | erinyes
+10 | ice devil
+11 | pit fiend
+12 | duke or duchess (Archdevils)
+13 | archduke or archduchess
 
 The Nine Hells:
 The Nine Hells are a single plane comprising nine separate layers (see the Layers and Lords of the Nine Hells table). The first eight layers are each ruled by archdevils that answer to the greatest archdevil of all: Asmodeus, the Archduke of Nessus, the ninth layer. To reach the deepest layer of the Nine Hells, one must descend through all eight of the layers above it, in order. The most expeditious means of doing so is the River Styx, which plunges ever deeper as it flows from one layer to the next. Only the most courageous adventurers can withstand the torment and horror of that journey.
@@ -8171,8 +8163,8 @@ Source:	Monster Manual (2014) p. 35,
       <name>Innate Spellcasting</name>
       <text>The cambion's spellcasting ability is Charisma (spell save DC 14). The cambion can innately cast the following spells, requiring no material components:
 
-	• 1/Day: plane shift (self only)
-	• 3/Day each: alter self, command, detect magic</text>
+	• 1/day: plane shift (self only)
+	• 3/day each: alter self, command, detect magic</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -8565,19 +8557,19 @@ Promotion and Demotion: When the soul of an evil mortal sinks into the Nine Hell
 
 Infernal Hierarchy:
 Rank | Devil(s)
-1. | lemure
-2. (Lesser devils) | imp
-3. | spined devil
-4. | bearded devil
-5. | barbed devil
-6. | chain devil
-7. | bone devil
-8. (Greater devils) | horned devil
-9. | erinyes
-10. | ice devil
-11. | pit fiend
-12. (Archdevils) | duke or duchess
-13. | archduke or archduchess
+1 | lemure
+2 | imp (Lesser devils)
+3 | spined devil
+4 | bearded devil
+5 | barbed devil
+6 | chain devil
+7 | bone devil
+8 | horned devil (Greater devils)
+9 | erinyes
+10 | ice devil
+11 | pit fiend
+12 | duke or duchess (Archdevils)
+13 | archduke or archduchess
 
 The Nine Hells:
 The Nine Hells are a single plane comprising nine separate layers (see the Layers and Lords of the Nine Hells table). The first eight layers are each ruled by archdevils that answer to the greatest archdevil of all: Asmodeus, the Archduke of Nessus, the ninth layer. To reach the deepest layer of the Nine Hells, one must descend through all eight of the layers above it, in order. The most expeditious means of doing so is the River Styx, which plunges ever deeper as it flows from one layer to the next. Only the most courageous adventurers can withstand the torment and horror of that journey.
@@ -9090,8 +9082,8 @@ Source:	Monster Manual (2014) p. 41,
       <text>The giant's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 
 	• At will: detect magic, fog cloud, light
-	• 3/Day each: feather fall, fly, misty step, telekinesis
-	• 1/Day each: control weather, gaseous form</text>
+	• 3/day each: feather fall, fly, misty step, telekinesis
+	• 1/day each: control weather, gaseous form</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -9412,8 +9404,8 @@ Source:	Monster Manual (2014) p. 111</description>
       <text>The couatl's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal components:
 
 	• At will: detect evil and good, detect magic, detect thoughts
-	• 3/Day each: bless, create food and water, cure wounds, lesser restoration, protection from poison, sanctuary, shield
-	• 1/Day each: dream, greater restoration, scrying</text>
+	• 3/day each: bless, create food and water, cure wounds, lesser restoration, protection from poison, sanctuary, shield
+	• 1/day each: dream, greater restoration, scrying</text>
     </trait>
     <action>
       <name>Bite</name>
@@ -9824,8 +9816,8 @@ Source:	Monster Manual (2014) p. 45,
       <text>The dao's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
 	• At will: detect evil and good, detect magic, stone shape
-	• 3/Day each: passwall, move earth, tongues
-	• 1/Day each: conjure elemental (earth elemental only), gaseous form, invisibility, phantasmal killer, plane shift, wall of stone</text>
+	• 3/day each: passwall, move earth, tongues
+	• 1/day each: conjure elemental (earth elemental only), gaseous form, invisibility, phantasmal killer, plane shift, wall of stone</text>
       <attack>Innate Spellcasting|+6|</attack>
     </trait>
     <action>
@@ -10112,8 +10104,8 @@ Source:	Monster Manual (2014) p. 47,
       <text>The slaad's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The slaad can innately cast the following spells, requiring no material components:
 
 	• At will: detect magic, detect thoughts, invisibility (self only), mage hand, major image
-	• 2/Day each: fear, fireball, fly, tongues
-	• 1/Day each: cloudkill, plane shift</text>
+	• 2/day each: fear, fireball, fly, tongues
+	• 1/day each: cloudkill, plane shift</text>
       <attack>Innate Spellcasting|+7|</attack>
     </trait>
     <trait>
@@ -10227,27 +10219,20 @@ Source:	Monster Manual (2014) p. 278,
       <name>Eye Rays</name>
       <text>The death tyrant shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:
 
-1. Charm Ray: The targeted creature must succeed on a DC 17 Wisdom saving throw or be charmed by the death tyrant for 1 hour, or until the death tyrant harms the creature.
-
-2. Paralyzing Ray: The targeted creature must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-3. Fear Ray: The targeted creature must succeed on a DC 17 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-4. Slowing Ray: The targeted creature must succeed on a DC 17 Dexterity saving throw. On a failed save, the target's speed is halved for 1 minute. In addition, the creature can't take reactions, and it can take either an action or a bonus action on its turn, not both. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-5. Enervation Ray: The targeted creature must make a DC 17 Constitution saving throw, taking 36 (8d8) necrotic damage on a failed save, or half as much damage on a successful one.
-
-6. Telekinetic Ray: If the target is a creature, it must succeed on a DC 17 Strength saving throw or the death tyrant moves it up to 30 feet in any direction. It is restrained by the ray's telekinetic grip until the start of the death tyrant's next turn or until the death tyrant is incapacitated.
+Eye Rays:
+d10 | Ray | Effect
+1 | Charm Ray | The targeted creature must succeed on a DC 17 Wisdom saving throw or be charmed by the death tyrant for 1 hour, or until the death tyrant harms the creature.
+2 | Paralyzing Ray | The targeted creature must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+3 | Fear Ray | The targeted creature must succeed on a DC 17 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+4 | Slowing Ray | The targeted creature must succeed on a DC 17 Dexterity saving throw. On a failed save, the target's speed is halved for 1 minute. In addition, the creature can't take reactions, and it can take either an action or a bonus action on its turn, not both. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+5 | Enervation Ray | The targeted creature must make a DC 17 Constitution saving throw, taking 36 (8d8) necrotic damage on a failed save, or half as much damage on a successful one.
+6 | Telekinetic Ray | If the target is a creature, it must succeed on a DC 17 Strength saving throw or the death tyrant moves it up to 30 feet in any direction. It is restrained by the ray's telekinetic grip until the start of the death tyrant's next turn or until the death tyrant is incapacitated.
 	If the target is an object weighing 300 pounds or less that isn't being worn or carried, it is moved up to 30 feet in any direction. The death tyrant can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or a container.
-
-7. Sleep Ray: The targeted creature must succeed on a DC 17 Wisdom saving throw or fall asleep and remain unconscious for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on constructs and undead.
-
-8. Petrification Ray: The targeted creature must make a DC 17 Dexterity saving throw. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the greater restoration spell or other magic.
-
-9. Disintegration Ray: If the target is a creature, it must succeed on a DC 17 Dexterity saving throw or take 45 (10d8) force damage. If this damage reduces the creature to 0 hit points, its body becomes a pile of fine gray dust.
+7 | Sleep Ray | The targeted creature must succeed on a DC 17 Wisdom saving throw or fall asleep and remain unconscious for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on constructs and undead.
+8 | Petrification Ray | The targeted creature must make a DC 17 Dexterity saving throw. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the greater restoration spell or other magic.
+9 | Disintegration Ray | If the target is a creature, it must succeed on a DC 17 Dexterity saving throw or take 45 (10d8) force damage. If this damage reduces the creature to 0 hit points, its body becomes a pile of fine gray dust.
 	If the target is a Large or smaller nonmagical object or creation of magical force, it is disintegrated without a saving throw. If the target is a Huge or larger object or creation of magical force, this ray disintegrates a 10-foot cube of it.
-
-10. Death Ray: The targeted creature must succeed on a DC 17 Dexterity saving throw or take 55 (10d10) necrotic damage. The target dies if the ray reduces it to 0 hit points.</text>
+10 | Death Ray | The targeted creature must succeed on a DC 17 Dexterity saving throw or take 55 (10d10) necrotic damage. The target dies if the ray reduces it to 0 hit points.</text>
       <attack>Necrotic Damage||8d8</attack>
       <attack>Force Damage||10d8</attack>
       <attack>Necrotic Damage||10d10</attack>
@@ -10342,7 +10327,7 @@ Source:	Monster Manual (2014) p. 29,
       <text>The gnome's innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material components:
 
 	• At will: nondetection (self only)
-	• 1/Day each: blindness/deafness, blur, disguise self</text>
+	• 1/day each: blindness/deafness, blur, disguise self</text>
     </trait>
     <action>
       <name>War Pick</name>
@@ -10566,7 +10551,7 @@ Source:	Monster Manual (2014) p. 48,
       <text>The deva's spellcasting ability is Charisma (spell save DC 17). The deva can innately cast the following spells, requiring only verbal components:
 
 	• At will: detect evil and good
-	• 1/Day each: commune, raise dead</text>
+	• 1/day each: commune, raise dead</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -10752,8 +10737,8 @@ Source:	Monster Manual (2014) p. 81,
       <text>The djinni's innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
 	• At will: detect evil and good, detect magic, thunderwave
-	• 3/Day each: create food and water (can create wine instead of water), tongues, wind walk
-	• 1/Day each: conjure elemental (air elemental only), creation, gaseous form, invisibility, major image, plane shift</text>
+	• 3/day each: create food and water (can create wine instead of water), tongues, wind walk
+	• 1/day each: conjure elemental (air elemental only), creation, gaseous form, invisibility, major image, plane shift</text>
       <attack>Innate Spellcasting|+9|</attack>
     </trait>
     <action>
@@ -11187,7 +11172,7 @@ Source:	Monster Manual (2014) p. 57,
       <text>The drider's innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material components:
 
 	• At will: dancing lights
-	• 1/Day each: darkness, faerie fire</text>
+	• 1/day each: darkness, faerie fire</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -11276,7 +11261,7 @@ Source:	Monster Manual (2014) p. 120,
       <text>The drow's spellcasting ability is Charisma (spell save DC 11). It can innately cast the following spells, requiring no material components:
 
 	• At will: dancing lights
-	• 1/Day each: darkness, faerie fire</text>
+	• 1/day each: darkness, faerie fire</text>
     </trait>
     <action>
       <name>Shortsword</name>
@@ -11368,7 +11353,7 @@ Source:	Monster Manual (2014) p. 128,
       <text>The drow's spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:
 
 	• At will: dancing lights
-	• 1/Day each: darkness, faerie fire, levitate (self only)</text>
+	• 1/day each: darkness, faerie fire, levitate (self only)</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -11474,7 +11459,7 @@ Source:	Monster Manual (2014) p. 128,
       <text>The drow's spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:
 
 	• At will: dancing lights
-	• 1/Day each: darkness, faerie fire, levitate (self only)</text>
+	• 1/day each: darkness, faerie fire, levitate (self only)</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
@@ -11582,7 +11567,7 @@ Source:	Monster Manual (2014) p. 129,
       <text>The drow's spellcasting ability is Charisma (spell save DC 15). She can innately cast the following spells, requiring no material components:
 
 	• At will: dancing lights
-	• 1/Day each: darkness, faerie fire, levitate (self only)</text>
+	• 1/day each: darkness, faerie fire, levitate (self only)</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
@@ -11744,8 +11729,8 @@ Source:	Monster Manual (2014) p. 346,
       <text>The dryad's innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material components:
 
 	• At will: druidcraft
-	• 3/Day each: entangle, goodberry
-	• 1/Day each: barkskin, pass without trace, shillelagh</text>
+	• 3/day each: entangle, goodberry
+	• 1/day each: barkskin, pass without trace, shillelagh</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -12146,8 +12131,8 @@ Source:	Monster Manual (2014) p. 124,
       <text>The efreeti's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
 	• At will: detect magic
-	• 3/Day each: enlarge/reduce, tongues
-	• 1/Day each: conjure elemental (fire elemental only), gaseous form, invisibility, major image, plane shift, wall of fire</text>
+	• 3/day each: enlarge/reduce, tongues
+	• 1/day each: conjure elemental (fire elemental only), gaseous form, invisibility, major image, plane shift, wall of fire</text>
       <attack>Innate Spellcasting|+7|</attack>
     </trait>
     <action>
@@ -12333,7 +12318,7 @@ Source:	Monster Manual (2014) p. 145,
       <text>The empyrean's innate spellcasting ability is Charisma (spell save DC 23, +15 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
 	• At will: greater restoration, pass without trace, water breathing, water walk
-	• 1/Day each: commune, dispel evil and good, earthquake, fire storm, plane shift (self only)</text>
+	• 1/day each: commune, dispel evil and good, earthquake, fire storm, plane shift (self only)</text>
       <attack>Innate Spellcasting|+15|</attack>
     </trait>
     <trait>
@@ -12460,7 +12445,7 @@ Source:	Monster Manual (2014) p. 130,
 
 	• An erinyes has a 50 percent chance of summoning 3d6 spined devils, 1d6 bearded devils, or one erinyes.
 
-A summoned devil appears in an unoccupied space with in 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for l minute, until it or its summoner dies, or until its summoner dismisses it as an action.</text>
+A summoned devil appears in an unoccupied space with in 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.</text>
       <attack>Magical Summoning||1d2</attack>
       <attack>Spined Devils||3d6</attack>
       <attack>Bearded Devils||1d6</attack>
@@ -12505,19 +12490,19 @@ Promotion and Demotion: When the soul of an evil mortal sinks into the Nine Hell
 
 Infernal Hierarchy:
 Rank | Devil(s)
-1. | lemure
-2. (Lesser devils) | imp
-3. | spined devil
-4. | bearded devil
-5. | barbed devil
-6. | chain devil
-7. | bone devil
-8. (Greater devils) | horned devil
-9. | erinyes
-10. | ice devil
-11. | pit fiend
-12. (Archdevils) | duke or duchess
-13. | archduke or archduchess
+1 | lemure
+2 | imp (Lesser devils)
+3 | spined devil
+4 | bearded devil
+5 | barbed devil
+6 | chain devil
+7 | bone devil
+8 | horned devil (Greater devils)
+9 | erinyes
+10 | ice devil
+11 | pit fiend
+12 | duke or duchess (Archdevils)
+13 | archduke or archduchess
 
 The Nine Hells:
 The Nine Hells are a single plane comprising nine separate layers (see the Layers and Lords of the Nine Hells table). The first eight layers are each ruled by archdevils that answer to the greatest archdevil of all: Asmodeus, the Archduke of Nessus, the ninth layer. To reach the deepest layer of the Nine Hells, one must descend through all eight of the layers above it, in order. The most expeditious means of doing so is the River Styx, which plunges ever deeper as it flows from one layer to the next. Only the most courageous adventurers can withstand the torment and horror of that journey.
@@ -12739,7 +12724,7 @@ Source:	Monster Manual (2014) p. 132,
       <name>Innate Spellcasting</name>
       <text>The dragon's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast a number of spells, requiring no material components:
 
-	• 1/Day each: color spray, dancing lights, mage hand, major image, minor illusion, mirror image, suggestion</text>
+	• 1/day each: color spray, dancing lights, mage hand, major image, minor illusion, mirror image, suggestion</text>
     </trait>
     <action>
       <name>Bite</name>
@@ -12873,7 +12858,7 @@ Source:	Monster Manual (2014) p. 133</description>
       <name>Innate Spellcasting</name>
       <text>The dragon's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast a number of spells, requiring no material components:
 
-	• 1/Day each: color spray, dancing lights, mage hand, minor illusion, mirror image, suggestion</text>
+	• 1/day each: color spray, dancing lights, mage hand, minor illusion, mirror image, suggestion</text>
     </trait>
     <action>
       <name>Bite</name>
@@ -13008,7 +12993,7 @@ Source:	Monster Manual (2014) p. 133,
       <name>Innate Spellcasting</name>
       <text>The dragon's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast a number of spells, requiring no material components:
 
-	• 1/Day each: color spray, dancing lights, hallucinatory terrain, mage hand, major image, minor illusion, mirror image, suggestion</text>
+	• 1/day each: color spray, dancing lights, hallucinatory terrain, mage hand, major image, minor illusion, mirror image, suggestion</text>
     </trait>
     <action>
       <name>Bite</name>
@@ -13286,7 +13271,7 @@ Source:	Monster Manual (2014) p. 133</description>
       <name>Innate Spellcasting</name>
       <text>The dragon's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast a number of spells, requiring no material components:
 
-	• 1/Day each: color spray, dancing lights, mage hand, minor illusion</text>
+	• 1/day each: color spray, dancing lights, mage hand, minor illusion</text>
     </trait>
     <action>
       <name>Bite</name>
@@ -13420,7 +13405,7 @@ Source:	Monster Manual (2014) p. 133</description>
       <name>Innate Spellcasting</name>
       <text>The dragon's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast a number of spells, requiring no material components:
 
-	• 1/Day each: dancing lights, mage hand, minor illusion</text>
+	• 1/day each: dancing lights, mage hand, minor illusion</text>
     </trait>
     <action>
       <name>Bite</name>
@@ -13554,7 +13539,7 @@ Source:	Monster Manual (2014) p. 133</description>
       <name>Innate Spellcasting</name>
       <text>The dragon's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast a number of spells, requiring no material components:
 
-	• 1/Day each: color spray, dancing lights, hallucinatory terrain, mage hand, major image, minor illusion, mirror image, polymorph, suggestion</text>
+	• 1/day each: color spray, dancing lights, hallucinatory terrain, mage hand, major image, minor illusion, mirror image, polymorph, suggestion</text>
     </trait>
     <action>
       <name>Bite</name>
@@ -13691,7 +13676,7 @@ Source:	Monster Manual (2014) p. 133,
       <name>Innate Spellcasting</name>
       <text>The dragon's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast a number of spells, requiring no material components:
 
-	• 1/Day each: color spray, dancing lights, mage hand, minor illusion, mirror image</text>
+	• 1/day each: color spray, dancing lights, mage hand, minor illusion, mirror image</text>
     </trait>
     <action>
       <name>Bite</name>
@@ -16722,8 +16707,8 @@ Source:	Monster Manual (2014) p. 157,
       <text>The githyanki's innate spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no components:
 
 	• At will: mage hand (the hand is invisible)
-	• 3/Day each: jump, misty step, nondetection (self only), tongues
-	• 1/Day each: plane shift, telekinesis</text>
+	• 3/day each: jump, misty step, nondetection (self only), tongues
+	• 1/day each: plane shift, telekinesis</text>
       <attack>Innate Spellcasting|+5|</attack>
     </trait>
     <action>
@@ -16794,7 +16779,7 @@ Source:	Monster Manual (2014) p. 160,
       <text>The githyanki's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no components:
 
 	• At will: mage hand (the hand is invisible)
-	• 3/Day each: jump, misty step, nondetection (self only)</text>
+	• 3/day each: jump, misty step, nondetection (self only)</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -16868,7 +16853,7 @@ Source:	Monster Manual (2014) p. 160,
       <text>The githzerai's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:
 
 	• At will: mage hand (the hand is invisible)
-	• 3/Day each: feather fall, jump, see invisibility, shield</text>
+	• 3/day each: feather fall, jump, see invisibility, shield</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -16942,8 +16927,8 @@ Source:	Monster Manual (2014) p. 161</description>
       <text>The githzerai's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:
 
 	• At will: mage hand (the hand is invisible)
-	• 3/Day each: feather fall, jump, see invisibility, shield
-	• 1/Day each: phantasmal killer, plane shift</text>
+	• 3/day each: feather fall, jump, see invisibility, shield
+	• 1/day each: phantasmal killer, plane shift</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -17017,7 +17002,7 @@ Source:	Monster Manual (2014) p. 161,
       <text>The glabrezu's spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components:
 
 	• At will: darkness, detect magic, dispel magic
-	• 1/Day each: confusion, fly, power word stun</text>
+	• 1/day each: confusion, fly, power word stun</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -18018,8 +18003,8 @@ Source:	Monster Manual (2014) p. 243,
       <text>The slaad's innate spellcasting ability is Charisma (spell save DC 14). The slaad can innately cast the following spells, requiring no material components:
 
 	• At will: detect magic, detect thoughts, invisibility (self only), mage hand, major image
-	• 1/Day: plane shift (self only)
-	• 2/Day each: fear, fly, fireball, tongues</text>
+	• 1/day: plane shift (self only)
+	• 2/day each: fear, fly, fireball, tongues</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -18324,8 +18309,8 @@ Source:	Monster Manual (2014) p. 177,
       <text>The slaad's innate spellcasting ability is Charisma (spell save DC 12). The slaad can innately cast the following spells, requiring no material components:
 
 	• At will: detect magic, detect thoughts, mage hand
-	• 1/Day: fireball
-	• 2/Day each: fear, invisibility (self only)</text>
+	• 1/day: fireball
+	• 2/day each: fear, invisibility (self only)</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -20044,7 +20029,7 @@ Source:	Monster Manual (2014) p. 189,
 
 	• A horned devil has a 30 percent chance of summoning one horned devil.
 
-A summoned devil appears in an unoccupied space with in 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for l minute, until it or its summoner dies, or until its summoner dismisses it as an action.</text>
+A summoned devil appears in an unoccupied space with in 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.</text>
       <attack>Magical Summoning||1d10</attack>
     </action>
     <description>Horned Devil (Malebranche):
@@ -20083,19 +20068,19 @@ Promotion and Demotion: When the soul of an evil mortal sinks into the Nine Hell
 
 Infernal Hierarchy:
 Rank | Devil(s)
-1. | lemure
-2. (Lesser devils) | imp
-3. | spined devil
-4. | bearded devil
-5. | barbed devil
-6. | chain devil
-7. | bone devil
-8. (Greater devils) | horned devil
-9. | erinyes
-10. | ice devil
-11. | pit fiend
-12. (Archdevils) | duke or duchess
-13. | archduke or archduchess
+1 | lemure
+2 | imp (Lesser devils)
+3 | spined devil
+4 | bearded devil
+5 | barbed devil
+6 | chain devil
+7 | bone devil
+8 | horned devil (Greater devils)
+9 | erinyes
+10 | ice devil
+11 | pit fiend
+12 | duke or duchess (Archdevils)
+13 | archduke or archduchess
 
 The Nine Hells:
 The Nine Hells are a single plane comprising nine separate layers (see the Layers and Lords of the Nine Hells table). The first eight layers are each ruled by archdevils that answer to the greatest archdevil of all: Asmodeus, the Archduke of Nessus, the ninth layer. To reach the deepest layer of the Nine Hells, one must descend through all eight of the layers above it, in order. The most expeditious means of doing so is the River Styx, which plunges ever deeper as it flows from one layer to the next. Only the most courageous adventurers can withstand the torment and horror of that journey.
@@ -20368,7 +20353,7 @@ Ice Spear: Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 14 (2
 
 	• An ice devil has a 60 percent chance of summoning one ice devil.
 
-A summoned devil appears in an unoccupied space with in 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for l minute, until it or its summoner dies, or until its summoner dismisses it as an action.</text>
+A summoned devil appears in an unoccupied space with in 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.</text>
       <attack>Magical Summoning||1d10</attack>
     </action>
     <description>Ice Devil (Gelugon):
@@ -20407,19 +20392,19 @@ Promotion and Demotion: When the soul of an evil mortal sinks into the Nine Hell
 
 Infernal Hierarchy:
 Rank | Devil(s)
-1. | lemure
-2. (Lesser devils) | imp
-3. | spined devil
-4. | bearded devil
-5. | barbed devil
-6. | chain devil
-7. | bone devil
-8. (Greater devils) | horned devil
-9. | erinyes
-10. | ice devil
-11. | pit fiend
-12. (Archdevils) | duke or duchess
-13. | archduke or archduchess
+1 | lemure
+2 | imp (Lesser devils)
+3 | spined devil
+4 | bearded devil
+5 | barbed devil
+6 | chain devil
+7 | bone devil
+8 | horned devil (Greater devils)
+9 | erinyes
+10 | ice devil
+11 | pit fiend
+12 | duke or duchess (Archdevils)
+13 | archduke or archduchess
 
 The Nine Hells:
 The Nine Hells are a single plane comprising nine separate layers (see the Layers and Lords of the Nine Hells table). The first eight layers are each ruled by archdevils that answer to the greatest archdevil of all: Asmodeus, the Archduke of Nessus, the ninth layer. To reach the deepest layer of the Nine Hells, one must descend through all eight of the layers above it, in order. The most expeditious means of doing so is the River Styx, which plunges ever deeper as it flows from one layer to the next. Only the most courageous adventurers can withstand the torment and horror of that journey.
@@ -20614,19 +20599,19 @@ Promotion and Demotion: When the soul of an evil mortal sinks into the Nine Hell
 
 Infernal Hierarchy:
 Rank | Devil(s)
-1. | lemure
-2. (Lesser devils) | imp
-3. | spined devil
-4. | bearded devil
-5. | barbed devil
-6. | chain devil
-7. | bone devil
-8. (Greater devils) | horned devil
-9. | erinyes
-10. | ice devil
-11. | pit fiend
-12. (Archdevils) | duke or duchess
-13. | archduke or archduchess
+1 | lemure
+2 | imp (Lesser devils)
+3 | spined devil
+4 | bearded devil
+5 | barbed devil
+6 | chain devil
+7 | bone devil
+8 | horned devil (Greater devils)
+9 | erinyes
+10 | ice devil
+11 | pit fiend
+12 | duke or duchess (Archdevils)
+13 | archduke or archduchess
 
 The Nine Hells:
 The Nine Hells are a single plane comprising nine separate layers (see the Layers and Lords of the Nine Hells table). The first eight layers are each ruled by archdevils that answer to the greatest archdevil of all: Asmodeus, the Archduke of Nessus, the ninth layer. To reach the deepest layer of the Nine Hells, one must descend through all eight of the layers above it, in order. The most expeditious means of doing so is the River Styx, which plunges ever deeper as it flows from one layer to the next. Only the most courageous adventurers can withstand the torment and horror of that journey.
@@ -21794,8 +21779,8 @@ Source:	Monster Manual (2014) p. 200,
       <text>The lamia's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components.
 
 	• At will: disguise self (any humanoid form), major image
-	• 1/Day: geas
-	• 3/Day each: charm person, mirror image, scrying, suggestion</text>
+	• 1/day: geas
+	• 3/day each: charm person, mirror image, scrying, suggestion</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -21907,19 +21892,19 @@ Promotion and Demotion: When the soul of an evil mortal sinks into the Nine Hell
 
 Infernal Hierarchy:
 Rank | Devil(s)
-1. | lemure
-2. (Lesser devils) | imp
-3. | spined devil
-4. | bearded devil
-5. | barbed devil
-6. | chain devil
-7. | bone devil
-8. (Greater devils) | horned devil
-9. | erinyes
-10. | ice devil
-11. | pit fiend
-12. (Archdevils) | duke or duchess
-13. | archduke or archduchess
+1 | lemure
+2 | imp (Lesser devils)
+3 | spined devil
+4 | bearded devil
+5 | barbed devil
+6 | chain devil
+7 | bone devil
+8 | horned devil (Greater devils)
+9 | erinyes
+10 | ice devil
+11 | pit fiend
+12 | duke or duchess (Archdevils)
+13 | archduke or archduchess
 
 The Nine Hells:
 The Nine Hells are a single plane comprising nine separate layers (see the Layers and Lords of the Nine Hells table). The first eight layers are each ruled by archdevils that answer to the greatest archdevil of all: Asmodeus, the Archduke of Nessus, the ninth layer. To reach the deepest layer of the Nine Hells, one must descend through all eight of the layers above it, in order. The most expeditious means of doing so is the River Styx, which plunges ever deeper as it flows from one layer to the next. Only the most courageous adventurers can withstand the torment and horror of that journey.
@@ -22967,8 +22952,8 @@ Source:	Monster Manual (2014) p. 213,
       <text>The marid's innate spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
 	• At will: create or destroy water, detect evil and good, detect magic, fog cloud, purify food and drink
-	• 3/Day each: tongues, water breathing, water walk
-	• 1/Day each: conjure elemental (water elemental only), control water, gaseous form, invisibility, plane shift</text>
+	• 3/day each: tongues, water breathing, water walk
+	• 1/day each: conjure elemental (water elemental only), control water, gaseous form, invisibility, plane shift</text>
       <attack>Innate Spellcasting|+8|</attack>
     </trait>
     <action>
@@ -23471,8 +23456,8 @@ Source:	Monster Manual (2014) p. 219,
       <name>Innate Spellcasting</name>
       <text>The mezzoloth's innate spellcasting ability is Charisma (spell save DC 11). The mezzoloth can innately cast the following spells, requiring no material components:
 
-	• 1/Day: cloudkill
-	• 2/Day each: darkness, dispel magic</text>
+	• 1/day: cloudkill
+	• 2/day each: darkness, dispel magic</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -23640,7 +23625,7 @@ Source:	Monster Manual (2014) p. 220,
       <text>The mind flayer's innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:
 
 	• At will: detect thoughts, levitate
-	• 1/Day each: dominate monster, plane shift (self only)</text>
+	• 1/day each: dominate monster, plane shift (self only)</text>
     </trait>
     <action>
       <name>Tentacles</name>
@@ -23719,7 +23704,7 @@ Source:	Monster Manual (2014) p. 222,
       <text>The mind flayer's innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:
 
 	• At will: detect thoughts, levitate
-	• 1/Day each: dominate monster, plane shift (self only)</text>
+	• 1/day each: dominate monster, plane shift (self only)</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
@@ -24769,7 +24754,7 @@ Source:	Monster Manual (2014) p. 32,
       <text>The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
 
 	• At will: detect magic, magic missile
-	• 2/Day each: plane shift (self only), ray of enfeeblement, sleep</text>
+	• 2/day each: plane shift (self only), ray of enfeeblement, sleep</text>
       <attack>Innate Spellcasting|+6|</attack>
     </trait>
     <trait>
@@ -25432,7 +25417,7 @@ Source:	Monster Manual (2014) p. 316,
       <text>The oni's innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components:
 
 	• At will: darkness, invisibility
-	• 1/Day each: charm person, cone of cold, gaseous form, sleep</text>
+	• 1/day each: charm person, cone of cold, gaseous form, sleep</text>
     </trait>
     <trait>
       <name>Magic Weapons</name>
@@ -26365,7 +26350,7 @@ Source:	Monster Manual (2014) p. 252,
       <text>The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material components:
 
 	• At will: detect magic, fireball
-	• 3/Day each: hold monster, wall of fire</text>
+	• 3/day each: hold monster, wall of fire</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -26401,7 +26386,7 @@ Source:	Monster Manual (2014) p. 252,
 
 	• A pit fiend summons 2d4 bearded devils, 1d4 barbed devils, or one erinyes with no chance of failure. 
 
-A summoned devil appears in an unoccupied space with in 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for l minute, until it or its summoner dies, or until its summoner dismisses it as an action.</text>
+A summoned devil appears in an unoccupied space with in 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.</text>
       <attack>Bearded Devils||2d4</attack>
       <attack>Barbed Devils||1d4</attack>
       <attack>Erinyes||1</attack>
@@ -26443,19 +26428,19 @@ Promotion and Demotion: When the soul of an evil mortal sinks into the Nine Hell
 
 Infernal Hierarchy:
 Rank | Devil(s)
-1. | lemure
-2. (Lesser devils) | imp
-3. | spined devil
-4. | bearded devil
-5. | barbed devil
-6. | chain devil
-7. | bone devil
-8. (Greater devils) | horned devil
-9. | erinyes
-10. | ice devil
-11. | pit fiend
-12. (Archdevils) | duke or duchess
-13. | archduke or archduchess
+1 | lemure
+2 | imp (Lesser devils)
+3 | spined devil
+4 | bearded devil
+5 | barbed devil
+6 | chain devil
+7 | bone devil
+8 | horned devil (Greater devils)
+9 | erinyes
+10 | ice devil
+11 | pit fiend
+12 | duke or duchess (Archdevils)
+13 | archduke or archduchess
 
 The Nine Hells:
 The Nine Hells are a single plane comprising nine separate layers (see the Layers and Lords of the Nine Hells table). The first eight layers are each ruled by archdevils that answer to the greatest archdevil of all: Asmodeus, the Archduke of Nessus, the ninth layer. To reach the deepest layer of the Nine Hells, one must descend through all eight of the layers above it, in order. The most expeditious means of doing so is the River Styx, which plunges ever deeper as it flows from one layer to the next. Only the most courageous adventurers can withstand the torment and horror of that journey.
@@ -26517,7 +26502,7 @@ Source:	Monster Manual (2014) p. 77,
       <text>The pixie's innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring only its pixie dust as a component:
 
 	• At will: druidcraft
-	• 1/Day each: confusion, dancing lights, detect evil and good, detect thoughts, dispel magic, entangle, fly, phantasmal force, polymorph, sleep</text>
+	• 1/day each: confusion, dancing lights, detect evil and good, detect thoughts, dispel magic, entangle, fly, phantasmal force, polymorph, sleep</text>
     </trait>
     <action>
       <name>Superior Invisibility</name>
@@ -26585,8 +26570,8 @@ Source:	Monster Manual (2014) p. 253,
       <text>The planetar's spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components:
 
 	• At will: detect evil and good, invisibility (self only)
-	• 3/Day each: blade barrier, dispel evil and good, flame strike, raise dead
-	• 1/Day each: commune, control weather, insect plague</text>
+	• 3/day each: blade barrier, dispel evil and good, flame strike, raise dead
+	• 1/day each: commune, control weather, insect plague</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -27337,7 +27322,7 @@ Source:	Monster Manual (2014) p. 230,
       <text>The quaggoth's innate spellcasting ability is Wisdom (spell save DC 11). The quaggoth can innately cast the following spells, requiring no components:
 
 	• At will: feather fall, mage hand (the hand is invisible)
-	• 1/Day each: cure wounds, enlarge/reduce, heat metal, mirror image</text>
+	• 1/day each: cure wounds, enlarge/reduce, heat metal, mirror image</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -27599,8 +27584,8 @@ Source:	Monster Manual (2014) p. 335,
       <text>The rakshasa's innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The rakshasa can innately cast the following spells, requiring no material components:
 
 	• At will: detect thoughts, disguise self, mage hand, minor illusion
-	• 3/Day each: charm person, detect magic, invisibility, major image, suggestion
-	• 1/Day each: dominate person, fly, plane shift, true seeing</text>
+	• 3/day each: charm person, detect magic, invisibility, major image, suggestion
+	• 1/day each: dominate person, fly, plane shift, true seeing</text>
       <attack>Innate Spellcasting|+10|</attack>
     </trait>
     <action>
@@ -29847,8 +29832,8 @@ Source:	Monster Manual (2014) p. 217,
       <text>The solar's spellcasting ability is Charisma (spell save DC 25). It can innately cast the following spells, requiring no material components:
 
 	• At will: detect evil and good, invisibility (self only)
-	• 3/Day each: blade barrier, dispel evil and good, resurrection
-	• 1/Day each: commune, control weather</text>
+	• 3/day each: blade barrier, dispel evil and good, resurrection
+	• 1/day each: commune, control weather</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -29957,13 +29942,12 @@ Source:	Monster Manual (2014) p. 18,
       <name>Eye Rays</name>
       <text>The spectator shoots up to two of the following magical eye rays at one or two creatures it can see within 90 feet of it. It can use each ray only once on a turn.
 
-1. Confusion Ray: The target must succeed on a DC 13 Wisdom saving throw, or it can't take reactions until the end of its next turn. On its turn, the target can't move, and it uses its action to make a melee or ranged attack against a randomly determined creature within range. If the target can't attack, it does nothing on its turn.
-
-2. Paralyzing Ray: The target must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-3. Fear Ray: The target must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, with disadvantage if the spectator is visible to the target, ending the effect on itself on a success.
-
-4. Wounding Ray: The target must make a DC 13 Constitution saving throw, taking 16 (3d10) necrotic damage on a failed save, or half as much damage on a successful one.</text>
+Eye Rays:
+d4 | Ray | Effect
+1 | Confusion Ray | The target must succeed on a DC 13 Wisdom saving throw, or it can't take reactions until the end of its next turn. On its turn, the target can't move, and it uses its action to make a melee or ranged attack against a randomly determined creature within range. If the target can't attack, it does nothing on its turn.
+2 | Paralyzing Ray | The target must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+3 | Fear Ray | The target must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, with disadvantage if the spectator is visible to the target, ending the effect on itself on a success.
+4 | Wounding Ray | The target must make a DC 13 Constitution saving throw, taking 16 (3d10) necrotic damage on a failed save, or half as much damage on a successful one.</text>
       <attack>Necrotic Damage||3d10</attack>
     </action>
     <action>
@@ -30210,19 +30194,19 @@ Promotion and Demotion: When the soul of an evil mortal sinks into the Nine Hell
 
 Infernal Hierarchy:
 Rank | Devil(s)
-1. | lemure
-2. (Lesser devils) | imp
-3. | spined devil
-4. | bearded devil
-5. | barbed devil
-6. | chain devil
-7. | bone devil
-8. (Greater devils) | horned devil
-9. | erinyes
-10. | ice devil
-11. | pit fiend
-12. (Archdevils) | duke or duchess
-13. | archduke or archduchess
+1 | lemure
+2 | imp (Lesser devils)
+3 | spined devil
+4 | bearded devil
+5 | barbed devil
+6 | chain devil
+7 | bone devil
+8 | horned devil (Greater devils)
+9 | erinyes
+10 | ice devil
+11 | pit fiend
+12 | duke or duchess (Archdevils)
+13 | archduke or archduchess
 
 The Nine Hells:
 The Nine Hells are a single plane comprising nine separate layers (see the Layers and Lords of the Nine Hells table). The first eight layers are each ruled by archdevils that answer to the greatest archdevil of all: Asmodeus, the Archduke of Nessus, the ninth layer. To reach the deepest layer of the Nine Hells, one must descend through all eight of the layers above it, in order. The most expeditious means of doing so is the River Styx, which plunges ever deeper as it flows from one layer to the next. Only the most courageous adventurers can withstand the torment and horror of that journey.
@@ -30801,7 +30785,7 @@ Source:	Monster Manual (2014) p. 170,
       <text>The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:
 
 	• At will: detect magic, feather fall, levitate, light
-	• 3/Day each: control weather, water breathing</text>
+	• 3/day each: control weather, water breathing</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -31615,8 +31599,8 @@ Gythka: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1
 Innate Spellcasting (Psionics): The thri-kreen's innate spellcasting ability is Wisdom. The thri-kreen can innately cast the following spells, requiring no components:
 
 	• At will: mage hand (the hand is invisible)
-	• 1/Day: invisibility (self only)
-	• 2/Day each: blur, magic weapon</text>
+	• 1/day: invisibility (self only)
+	• 2/day each: blur, magic weapon</text>
       <attack>Gythka|+3|1d8+1</attack>
       <attack>Chatkcha|+4|1d6+2</attack>
     </action>
@@ -32286,8 +32270,8 @@ Source:	Monster Manual (2014) p. 80,
       <text>The ultroloth's innate spellcasting ability is Charisma (spell save DC 17). The ultroloth can innately cast the following spells, requiring no material components:
 
 	• At will: alter self, clairvoyance, darkness, detect magic, detect thoughts, dispel magic, invisibility (self only), suggestion
-	• 3/Day each: dimension door, fear, wall of fire
-	• 1/Day each: fire storm, mass suggestion</text>
+	• 3/day each: dimension door, fear, wall of fire
+	• 1/day each: fire storm, mass suggestion</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -32449,7 +32433,7 @@ Source:	Monster Manual (2014) p. 292,
       <text>The unicorn's innate spellcasting ability is Charisma (spell save DC 14). The unicorn can innately cast the following spells, requiring no components:
 
 	• At will: detect evil and good, druidcraft, pass without trace
-	• 1/Day each: calm emotions, dispel evil and good, entangle</text>
+	• 1/day each: calm emotions, dispel evil and good, entangle</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -35024,7 +35008,7 @@ Source:	Monster Manual (2014) p. 305,
       <text>The yochlol's spellcasting ability is Charisma (spell save DC 14). The yochlol can innately cast the following spells, requiring no material components:
 
 	• At will: detect thoughts, web
-	• 1/Day: dominate person</text>
+	• 1/day: dominate person</text>
     </trait>
     <trait>
       <name>Web Walker</name>
@@ -36303,8 +36287,8 @@ Source:	Monster Manual (2014) p. 101,
       <text>The yuan-ti's innate spellcasting ability is Charisma (spell save DC 15). The yuan-ti can innately cast the following spells, requiring no material components:
 
 	• At will: animal friendship (snakes only)
-	• 1/Day: fear
-	• 3/Day: suggestion</text>
+	• 1/day: fear
+	• 3/day: suggestion</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -36407,7 +36391,7 @@ Source:	Monster Manual (2014) p. 308,
       <text>The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:
 
 	• At will: animal friendship (snakes only)
-	• 3/Day: suggestion</text>
+	• 3/day: suggestion</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -36514,7 +36498,7 @@ Source:	Monster Manual (2014) p. 309,
       <text>The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:
 
 	• At will: animal friendship (snakes only)
-	• 3/Day: suggestion</text>
+	• 3/day: suggestion</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -36609,7 +36593,7 @@ Source:	Monster Manual (2014) p. 309,
       <text>The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:
 
 	• At will: animal friendship (snakes only)
-	• 3/Day: suggestion</text>
+	• 3/day: suggestion</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -36719,7 +36703,7 @@ Source:	Monster Manual (2014) p. 309,
       <text>The yuan-ti's spellcasting ability is Charisma (spell save DC 12). The yuan-ti can innately cast the following spells, requiring no material components:
 
 	• At will: animal friendship (snakes only)
-	• 3/Day each: poison spray, suggestion</text>
+	• 3/day each: poison spray, suggestion</text>
     </trait>
     <action>
       <name>Multiattack</name>

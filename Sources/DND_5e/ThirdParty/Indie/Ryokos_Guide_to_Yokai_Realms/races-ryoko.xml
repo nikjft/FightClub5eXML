@@ -167,6 +167,8 @@ can live up to 80 years.</text>
   </race>
   <race>
     <name>Fuyoren (HB)</name>
+    <displayname>Fuyoren</displayname>
+    <ancestry>Fuyoren</ancestry>
     <size>M</size>
     <speed>35</speed>
     <ability>Dex +2, Wis +1</ability>
@@ -240,6 +242,8 @@ The water remains potent for the next 24 hours, after which time it returns to n
   </race>
   <race>
     <name>Hanamori (HB)</name>
+    <displayname>Hanamori</displayname>
+    <ancestry>Hanamori</ancestry>
     <speed>30</speed>
     <ability>Cha +2, Wis +1</ability>
     <trait category="description">
@@ -315,6 +319,8 @@ This effect lasts until you finish a long rest, after which time you return to n
   </race>
   <race>
     <name>Haniwa (HB)</name>
+    <displayname>Haniwa</displayname>
+    <ancestry>Haniwa</ancestry>
     <speed>30</speed>
     <ability>Con +2, Wis +1</ability>
     <proficiency>Religion, Perception</proficiency>
@@ -387,6 +393,8 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
   </race>
   <race>
     <name>Isetsu (HB)</name>
+    <displayname>Isetsu</displayname>
+    <ancestry>Isetsu</ancestry>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +2, Con +1</ability>
@@ -399,7 +407,7 @@ Source:	Ryoko's Guide to the Yokai Realm p. 127 (Indie)</text>
     </trait>
     <trait category="description">
       <name>Shoreline Guardians</name>
-      <text>It is said that at the dawn of the world, isetsu were tasked with the defence of the land against the roiling sea. All manner of horrors dwell in the black void of the ocean depths, and core to the isetsu way of life is the shared, endless responsibility to stand watch on the shore. All isetsu train in combat, and all feel an aching longing to face the ocean. Even isetsu that travel the world, shirking their divine responsibility, feel this pull, and the reverberation of an isetsu's heartbeat through its carapace mimics the gentle lapping of waves on the shore—a whisper to return home. This is the isetsu's burden: to be in love with the ocean, yet tasked to defend against it. They are the first line of defence against any threat that rises from the sea, be it pirate, typhoon, or kaiju.</text>
+      <text>It is said that at the dawn of the world, isetsu were tasked with the defense of the land against the roiling sea. All manner of horrors dwell in the black void of the ocean depths, and core to the isetsu way of life is the shared, endless responsibility to stand watch on the shore. All isetsu train in combat, and all feel an aching longing to face the ocean. Even isetsu that travel the world, shirking their divine responsibility, feel this pull, and the reverberation of an isetsu's heartbeat through its carapace mimics the gentle lapping of waves on the shore—a whisper to return home. This is the isetsu's burden: to be in love with the ocean, yet tasked to defend against it. They are the first line of defense against any threat that rises from the sea, be it pirate, typhoon, or kaiju.</text>
     </trait>
     <trait category="description">
       <name>Fortune Favored</name>
@@ -467,6 +475,8 @@ Source:	Ryoko's Guide to the Yokai Realm p. 127 (Indie)</text>
   </race>
   <race>
     <name>Kitsune (HB)</name>
+    <displayname>Kitsune</displayname>
+    <ancestry>Kitsune</ancestry>
     <size>M</size>
     <speed>35</speed>
     <ability>Cha +2, Dex +1</ability>
@@ -770,6 +780,8 @@ Source:	Ryoko's Guide to the Yokai Realm p. 132 (Indie)</text>
   </race>
   <race>
     <name>Ryokido (HB)</name>
+    <displayname>Ryokido</displayname>
+    <ancestry>Ryokido</ancestry>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +1, Wis +1, Cha +1</ability>
@@ -1001,7 +1013,7 @@ Source:	Ryoko's Guide to the Yokai Realm p. 138 (Indie)</text>
       <name>Koi Dragon Color</name>
       <text>Each tatsumi is born with its own unique coloration. In tatsumi folktales, one's primary coloration holds special significance. Your primary coloration also impacts your Slumbering Dragon trait as a nishikin, and your Heartening Breath and Innate Magic traits as a ryūjin, based on the table below.
 
-Primary Coloration
+Primary Coloration:
 Color | Ability Score | Associated Class
 Red | Strength | Sorcerer
 Gold | Dexterity | Druid
@@ -1052,7 +1064,7 @@ Source:	Ryoko's Guide to the Yokai Realm p. 142 (Indie)</text>
     </trait>
     <trait category="description">
       <name>Yokai Warriors</name>
-      <text>As yokai, tengu are innately magical. Their natural powers lean towards trickery and illusion, allowing them to strike both the mind and body in a dazzling battery of lethal force. To many tengu, swordplay is a way of life —both a meditative practice and a form of self-defence. The resolute tengu swordmaster, a crackling visage of shadowy magic and slashing steel, is one found throughout the folklore and legends of many other peoples.</text>
+      <text>As yokai, tengu are innately magical. Their natural powers lean towards trickery and illusion, allowing them to strike both the mind and body in a dazzling battery of lethal force. To many tengu, swordplay is a way of life —both a meditative practice and a form of self-defense. The resolute tengu swordmaster, a crackling visage of shadowy magic and slashing steel, is one found throughout the folklore and legends of many other peoples.</text>
     </trait>
     <trait category="description">
       <name>The Tengu Code</name>
@@ -1133,7 +1145,7 @@ Source:	Ryoko's Guide to the Yokai Realm p. 142 (Indie)</text>
     </trait>
     <trait category="description">
       <name>Yokai Warriors</name>
-      <text>As yokai, tengu are innately magical. Their natural powers lean towards trickery and illusion, allowing them to strike both the mind and body in a dazzling battery of lethal force. To many tengu, swordplay is a way of life — both a meditative practice and a form of self-defence. The resolute tengu swordmaster, a crackling visage of shadowy magic and slashing steel, is one found throughout the folklore and legends of many other peoples.</text>
+      <text>As yokai, tengu are innately magical. Their natural powers lean towards trickery and illusion, allowing them to strike both the mind and body in a dazzling battery of lethal force. To many tengu, swordplay is a way of life — both a meditative practice and a form of self-defense. The resolute tengu swordmaster, a crackling visage of shadowy magic and slashing steel, is one found throughout the folklore and legends of many other peoples.</text>
     </trait>
     <trait category="description">
       <name>The Tengu Code</name>

@@ -147,13 +147,14 @@ Source:	Exploring Eberron p. 19 (Third Party)</description><environment/></monst
       <name>Summon Swarms</name>
       <text>Valaara summons a swarm of insects and arachnids that cover a 10-foot-radius sphere at a point of its choosing within 120 feet, afflicting all creatures in the area with one of the following effects (roll a d6 or choose one), to which Valaara is immune:
 
+Summon Swarms:
 d6 | Swarm
-1. Stinging Wasps. Each creature must make a DC 22 Constitution saving throw. On a failed save, a creature takes 32 (5d12) piercing damage and has disadvantage on attack rolls until the end of its next turn. On a successful save, a creature takes half as much damage and doesn't have disadvantage on attack rolls.
-2. Spinning Spiders. Each creature must succeed on a DC 22 Dexterity saving throw or take 27 (6d8) bludgeoning damage and be restrained for 1 minute as it is squeezed by the webbing. A restrained creature can escape with a successful DC 22 Strength (Athletics) check as an action.
-3. Venomous Centipedes. Each creature must make a DC 22 Constitution saving throw. On a failed save, a creature takes 22 (4d10) poison damage and is poisoned for 1 minute. On a successful save, a creature takes half as much damage, but is still poisoned.
-4. Infesting Grubs. Each creature must succeed on a DC 22 Dexterity saving throw or be infested by 4 (1d4+2) rot grubs. At the start of each of an infected creature's turns, it takes 1d6 piercing damage per rot grub infesting it. Applying fire to the bite wound before the end of the creature's next turn deals 1 fire damage to the creature and kills these rot grubs, ending the effect. After this time, these ro grubs are too far under the skin to be burned. If a target infested by rot grubs ends its turn with 0 hit points, it dies as the rot grubs burrow into its heart and kill it. Any effect that cures disease kills all rot grubs infesting the target, ending the effect.
-5. Discordant Cicadas. Each creature must succeed on a DC 22 Wisdom saving throw or become frightened for 1 minute. While a creature is frightened in this way, it is incapacitated. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature has advantage against future saves against this swarm for the next 24 hours.
-6. Psychoactive Beetles. Each creature must succeed on a DC 22 Intelligence saving throw or take 33 (6d10) psychic damage as it suffers from intense hallucinations.</text>
+1 | Stinging Wasps. Each creature must make a DC 22 Constitution saving throw. On a failed save, a creature takes 32 (5d12) piercing damage and has disadvantage on attack rolls until the end of its next turn. On a successful save, a creature takes half as much damage and doesn't have disadvantage on attack rolls.
+2 | Spinning Spiders. Each creature must succeed on a DC 22 Dexterity saving throw or take 27 (6d8) bludgeoning damage and be restrained for 1 minute as it is squeezed by the webbing. A restrained creature can escape with a successful DC 22 Strength (Athletics) check as an action.
+3 | Venomous Centipedes. Each creature must make a DC 22 Constitution saving throw. On a failed save, a creature takes 22 (4d10) poison damage and is poisoned for 1 minute. On a successful save, a creature takes half as much damage, but is still poisoned.
+4 | Infesting Grubs. Each creature must succeed on a DC 22 Dexterity saving throw or be infested by 4 (1d4+2) rot grubs. At the start of each of an infected creature's turns, it takes 1d6 piercing damage per rot grub infesting it. Applying fire to the bite wound before the end of the creature's next turn deals 1 fire damage to the creature and kills these rot grubs, ending the effect. After this time, these ro grubs are too far under the skin to be burned. If a target infested by rot grubs ends its turn with 0 hit points, it dies as the rot grubs burrow into its heart and kill it. Any effect that cures disease kills all rot grubs infesting the target, ending the effect.
+5 | Discordant Cicadas. Each creature must succeed on a DC 22 Wisdom saving throw or become frightened for 1 minute. While a creature is frightened in this way, it is incapacitated. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature has advantage against future saves against this swarm for the next 24 hours.
+6 | Psychoactive Beetles. Each creature must succeed on a DC 22 Intelligence saving throw or take 33 (6d10) psychic damage as it suffers from intense hallucinations.</text>
       <attack>Summon Swarm||1d6</attack>
       <attack>Piercing Damage||5d12</attack>
       <attack>Bludgeoning Damage||6d8</attack>
@@ -163,7 +164,7 @@ d6 | Swarm
       <attack>Piercing Damage||1d6</attack>
     </action>
     <legendary>
-      <name>Legendary Actions</name>
+      <name>Legendary Actions (3/Turn)</name>
       <recharge>3/TURN</recharge>
       <text>Valaara can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Valaara regains spent legendary actions at the start of its turn.</text>
     </legendary>
@@ -270,8 +271,8 @@ Source:	Exploring Eberron p. 234 (Third Party)</description>
       <text>The Forest Queen's innate spellcasting ability is Charisma (spell save DC 23, +15 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
 
 	• At will: dominate beast, druidcraft, entangle, thorn whip (17th level)
-	• 3/Day each: conjure fey, heat metal, polymorph, spike growth, tree stride, wall of thorns
-	• 1/Day each: dominate monster, mirage arcane</text>
+	• 3/day each: conjure fey, heat metal, polymorph, spike growth, tree stride, wall of thorns
+	• 1/day each: dominate monster, mirage arcane</text>
       <attack>Innate Spellcasting|+15|</attack>
     </trait>
     <trait>
@@ -321,7 +322,7 @@ Source:	Exploring Eberron p. 234 (Third Party)</description>
       <attack>Force Damage||5d6</attack>
     </action>
     <legendary>
-      <name>Legendary Actions</name>
+      <name>Legendary Actions (3/Turn)</name>
       <recharge>3/TURN</recharge>
       <text>The Forest Queen can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The Forest Queen regains spent legendary actions at the start of her turn.</text>
     </legendary>
@@ -419,8 +420,8 @@ Source:	Exploring Eberron p. 236 (Third Party)</description>
       <text>The Prince's innate spellcasting ability is Charisma (spell save DC 23, +15 to hit with spell attacks). He can innately cast the following spells, requiring no material components:
 
 	• At will: chill touch (17th level), hex (as a 5th-level spell), mage hand, nondetection, pass without trace
-	• 3/Day each: glibness, greater invisibility
-	• 1/Day each: mass suggestion, modify memory</text>
+	• 3/day each: glibness, greater invisibility
+	• 1/day each: mass suggestion, modify memory</text>
       <attack>Innate Spellcasting|+15|</attack>
     </trait>
     <trait>
@@ -473,7 +474,7 @@ Source:	Exploring Eberron p. 236 (Third Party)</description>
       <attack>Subtract from Roll||1d4</attack>
     </action>
     <legendary>
-      <name>Legendary Actions</name>
+      <name>Legendary Actions (3/Turn)</name>
       <recharge>3/TURN</recharge>
       <text>The Prince can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The Forgotten Prince regains spent legendary actions at the start of his turn.</text>
     </legendary>
@@ -629,8 +630,8 @@ Source:	Exploring Eberron p. 242 (Third Party)</description>
       <name>Innate Spellcasting</name>
       <text>The stormcaller's innate spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
-	• 3/Day each: maelstrom, thunderwave (as a 5th-level spell), tidal wave, watery sphere
-	• 1/Day each: chain lightning</text>
+	• 3/day each: maelstrom, thunderwave (as a 5th-level spell), tidal wave, watery sphere
+	• 1/day each: chain lightning</text>
       <attack>Innate Spellcasting|+6|</attack>
     </trait>
     <trait>
@@ -708,8 +709,8 @@ Source:	Exploring Eberron p. 243 (Third Party)</description>
       <text>The quori's innate spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no components:
 
 	• At will: mage hand
-	• 3/Day each: crown of madness, flaming sphere, shield
-	• 1/Day each: enemies abound</text>
+	• 3/day each: crown of madness, flaming sphere, shield
+	• 1/day each: enemies abound</text>
       <attack>Innate Spellcasting|+8|</attack>
     </trait>
     <trait>

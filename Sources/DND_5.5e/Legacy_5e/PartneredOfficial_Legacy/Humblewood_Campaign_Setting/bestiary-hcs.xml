@@ -548,10 +548,10 @@ Source:	Humblewood Campaign Setting p. 182 (Third Party)</description>
     </action>
     <description>Forest prowlers feature prominently throughout folktales in Humblewood, notably as monsters in frightful stories. These cat-like beasts have the unique ability to grow leaves and moss on their spotted fur, allowing them to camouflage perfectly within the forest canopy.
 
-Fable and Folklore
+Fable and Folklore:
 One of the reasons forest prowlers have attained such mythic status is due to their elusive nature. They are adept at moving unseen through the canopy where they hunt, and their skills as ambush predators means that few who see them live to tell the tale. In some communities the killing of a forest prowler is considered a rite of passage among beast hunters. The large fangs seen adorning the necks of Humblewood's greatest hunters and warriors, and cloaks made from prowler fur, are trophies that showcase one's prowess and skill.
 
-Fierce Hunter
+Fierce Hunter:
 Forest prowlers are apex predators. They can claim virtually any prey they desire, but usually target deer, elk, and other large herbivores. Prowlers use their powerful bodies and gripping claws to drag their kill up into their tree nests, where it can be consumed at their leisure. These felines are known to travel long and winding paths through the forest, residing in temporary shelters throughout the seasons. Although nomadic, the prowlers are quite territorial of whatever area they currently inhabit. Relatively passive in the winter, they are most active in the spring and summer during peak hunting and breeding seasons.
 
 Source:	Humblewood Campaign Setting p. 183 (Third Party)</description>
@@ -3375,15 +3375,12 @@ Source:	Humblewood Campaign Setting p. 202 (Third Party)</description>
       <name>Tinker's Toys</name>
       <text>The tinkerer uses one of the following options (roll a d4 or choose one); the tinkerer can use each one no more than once per day:
 
-1. Cogwork Bird:
-The tinkerer winds and releases a small mechanical bird that flies to a target creature within 30 feet and distracts it. The next attack against that creature is made with advantage.
-
-2. Flash-bangs:
-The tinkerer targets a space up to 10 ft. away, and throws some small explosive shells that flare up in a blinding light. All creatures within 10 ft. of the target space must make a DC 11 Constitution saving throw or be blinded until the start of the tinkerer's next turn.
-
-3. Nettle Gun:
-The tinkerer turns the crank on a small gadget that sprays nettles at a target. Ranged Weapon Attack: +4 to hit, range 10/20 ft., one target. Hit: 4 (1d4 + 2) piercing damage. All creatures within 5 ft. of the target must make a DC 11 Dexterity saving throw or take 5 (1d10) piercing damage. 4. Grease Balloon:
-The tinkerer targets a 10-foot by 10-foot area up to 15 feet away, and makes it slick with grease. The area is considered difficult terrain, and each creature standing in the area must succeed on a DC 11 Dexterity saving throw or fall prone. A creature that enters the area or ends its turn there must also succeed on a DC 11 Dexterity saving throw or fall prone.</text>
+Tinker's Toys:
+d4 | Toy
+1 | Cogwork Bird. The tinkerer winds and releases a small mechanical bird that flies to a target creature within 30 feet and distracts it. The next attack against that creature is made with advantage.
+2 | Flash-bangs. The tinkerer targets a space up to 10 ft. away, and throws some small explosive shells that flare up in a blinding light. All creatures within 10 ft. of the target space must make a DC 11 Constitution saving throw or be blinded until the start of the tinkerer's next turn.
+3 | Nettle Gun. The tinkerer turns the crank on a small gadget that sprays nettles at a target. Ranged Weapon Attack: +4 to hit, range 10/20 ft., one target. Hit: 4 (1d4 + 2) piercing damage. All creatures within 5 ft. of the target must make a DC 11 Dexterity saving throw or take 5 (1d10) piercing damage.
+4 | Grease Balloon. The tinkerer targets a 10-foot by 10-foot area up to 15 feet away, and makes it slick with grease. The area is considered difficult terrain, and each creature standing in the area must succeed on a DC 11 Dexterity saving throw or fall prone. A creature that enters the area or ends its turn there must also succeed on a DC 11 Dexterity saving throw or fall prone.</text>
       <attack>Tinker's Toys||1d4</attack>
       <attack>Nettle Gun|+4|1d4+2</attack>
       <attack>Piercing Damage||1d10</attack>
